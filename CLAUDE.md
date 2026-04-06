@@ -79,6 +79,24 @@ experiments/          # Logs and notes from generation sessions
 scripts/              # Helper scripts for prompt generation
 ```
 
+## Autonomous Hourly Cycle
+
+The project runs an autonomous hourly generation cycle. Each cycle:
+
+1. **Research** — WebSearch for one rotating topic (new instruments, genre fusions, frisson techniques, film scoring trends)
+2. **Create** — Write a new YAML prompt that evolves from recent versions with one meaningful change
+3. **Submit** — Use `/suno` or browser automation to submit to Suno at `suno.com/create`
+4. **Save** — Rebuild website (`python3 scripts/build_site.py`), commit, and push to git
+
+### After each cycle, always:
+- `python3 scripts/build_site.py` to rebuild `docs/songs.json` and `docs/index.html`
+- `git add` the new prompt YAML + updated docs + README
+- `git commit` with descriptive message
+- `git push` to keep GitHub Pages and repo up to date
+
+### Current era: Synthesis (v93+)
+Combining electronic genres (dubstep, trance, trap, prog house, breakbeat, psytrance) with full orchestra + unusual instruments (waterphone, glass harmonica, taiko, prepared piano, handpan, contrabass clarinet, cimbalom, pipe organ). Always instrumental. Key frisson triggers: silence-before-climax, half-step modulation, Shepard tones.
+
 ## Prompt File Format
 
 Prompts are stored as YAML in `prompts/`:
