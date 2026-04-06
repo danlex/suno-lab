@@ -1,0 +1,39 @@
+name: "painted-on-the-sky"
+version: 34
+style: "Sublime neoclassical orchestral vocalise with towering cinematic grandeur. A pristine soprano without words ascending through luminous harmonic layers that build like the vaulted ceiling of a cathedral painted by Michelangelo. Solo cello opens with a long aching appoggiatura resolving into warmth, legato strings enter in layered counterpoint. Armenian duduk breathes an otherworldly melody. Glass harmonica shimmers. Pipe organ swells in radiant major chords. A slow relentless crescendo with Celibidache patience, each new instrument entering unexpectedly. Then everything falls away to absolute stillness — one held soprano note alone in vast cathedral reverb. The full orchestra returns half-step higher with devastating force. Hall reverb, dynamic crescendos, film score quality, crystal-clear production. No drums, no percussion, no beat, no electronic sounds, no Arabic scales. D Major to Eb Major, BPM: 63"
+title: "Painted on the Sky"
+lyrics: |
+  [Cello, solo, legato, aching appoggiatura]
+
+  [Violin enters, tender, tremolo]
+
+  [Duduk breathes, otherworldly]
+
+  [Melisma]
+  Ooh... Ooh...
+
+  La la la... la la la...
+
+  [Violas, legato, glass harmonica shimmers]
+  Ahhh... Ahhh...
+
+  [Organ swells]
+  [Crescendo]
+  Ahhh... AHHH...
+
+  AHHH... AHHH... AHHH...
+
+  [Break: Silence, Acapella]
+
+  [Soprano, alone, vibrato]
+  Ahhh...
+
+  [Full orchestra returns, key change, devastating]
+  AHHH... AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, drums"
+notes: "v34 — 'Painted on the Sky'. CRITICAL FIXES from research: (1) Replaced [Silence] with [Break: Silence, Acapella] — confirmed working compound tag, [Silence] alone gets IGNORED by Suno. (2) Added [Melisma] before first vocalise — triggers ornamental runs, proven angelic effect. (3) Added [Crescendo] at START of build section, not the peak — correct placement per community. (4) String articulations: legato, tremolo — Suno responds to these. (5) Added 'Ooh' syllables before 'La la' — vowel-heavy short lines let Suno stretch and embellish. (6) Added 'hall reverb, dynamic crescendos, film score quality' to style — confirmed production cues. (7) [Soprano, alone, vibrato] — vocal delivery tags work. (8) Shorter lyric lines throughout for better timing. Style at 914 chars."
+tags: [sublime, appoggiatura, melisma, celibidache, duduk, glass-harmonica, cello, frisson, silence-fix, key-modulation, crescendo, heavenly, soprano, classical, cinematic]

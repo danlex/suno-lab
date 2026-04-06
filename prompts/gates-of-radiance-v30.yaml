@@ -1,0 +1,35 @@
+name: "gates-of-radiance"
+version: 30
+style: "Heavenly classical orchestral vocalise, luminous and transcendent. A pristine crystal-clear soprano voice calls out a soaring ascending phrase, and a celestial choir answers her in warm golden harmonies, call and response climbing ever higher together. Lush string orchestra, grand cathedral pipe organ in radiant major chords, delicate piano arpeggios. Each exchange between voice and choir reaches higher than the last until they merge into one overwhelming wall of heavenly sound. Studio-quality vocal production, bell-like clarity, vast cathedral reverb. Building from tender solo voice to glorious monumental climax. No drums, no percussion, no electronic sounds. BPM: 72, Key: D Major"
+title: "Gates of Radiance"
+lyrics: |
+  [Piano, gentle]
+
+  [Soprano calls, ascending]
+  La la la...
+
+  [Choir answers, warm]
+  Ahhh...
+
+  [Soprano calls higher]
+  La la la la...
+
+  [Choir answers, richer, strings join]
+  Ahhh... Ahhh...
+
+  [Soprano soaring, organ enters]
+  AHHH... AHHH...
+
+  [Choir rises to meet her]
+  AHHH... AHHH...
+
+  [Voice and choir merge, full orchestra]
+  AHHH... AHHH... AHHH...
+
+  [One final note together]
+  AHHH...
+
+  [End]
+instrumental: false
+notes: "v30 — 'Gates of Radiance'. New concept: call and response between soprano and choir, climbing higher with each exchange until they merge into one sound. Medium complexity style (490 chars) — between v28's maximum density and v29's radical simplicity. Testing the sweet spot. D Major for brightness. 'Bell-like clarity' descriptor. The call-and-response structure creates natural ascending motion without needing Shepard tone or staircase melody instructions."
+tags: [heavenly, classical, soprano, call-and-response, choir, ascending, medium-complexity, short]

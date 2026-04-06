@@ -1,0 +1,36 @@
+name: "the-sistine-frequency"
+version: 32
+style: "Sublime neoclassical orchestral vocalise with monumental cinematic grandeur, as if Michelangelo painted music instead of the Sistine Chapel. Pristine soprano without words ascending through growing harmonic layers building like cathedral spires toward heaven. Solo violin, violas and cellos in warm counterpoint, haunting Armenian duduk weaving otherworldly threads. Glass harmonica rings with unearthly shimmer. Grand pipe organ in luminous major chords building higher and higher. Relentless crescendo with Celibidache patience — unhurried, monumental, each swell earned through layering — then breathless silence before the final overwhelming climax crashes back with full heavenly force. Soprano rises above all, pure and transcendent. Cathedral reverb, crystal clarity. No drums, no percussion, no beat, no electronic sounds, no Arabic scales. D Major to Eb Major at climax, BPM: 66"
+title: "The Sistine Frequency"
+lyrics: |
+  [Glass harmonica shimmers softly]
+
+  [Violin, solo, tender]
+
+  [Duduk enters, haunting and otherworldly]
+
+  La la la... la la la...
+
+  [Violas and cellos join, harmonics growing]
+  Ahhh... Ahhh...
+
+  [Organ enters, luminous chords]
+  Ahhh... AHHH...
+
+  [Full strings, crescendo building]
+  AHHH... AHHH... AHHH...
+
+  [Silence]
+
+  [Soprano returns, full orchestra, key change, overwhelming]
+  AHHH... AHHH... AHHH... AHHH...
+
+  [One perfect note, suspended in heaven]
+  AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music"
+notes: "v32 — Major evolution. (1) SILENCE BEFORE CLIMAX: Research shows expectation violation is the #1 frisson/dopamine trigger. Build to 80%, pull to near-silence, then deliver climax that exceeds expectations. Added [Silence] metatag before final section. (2) GLASS HARMONICA replaces crystal bowls — creates spatial disorientation in 1-4 kHz range (brain can't locate sound), scientifically proven otherworldly effect. (3) KEY MODULATION: D Major → Eb Major at the final climax after the silence. Half-step up = classic goosebump technique. (4) Fixed Arabic problem from v31 — removed Dune/desert/sand/kora/Zimmer references, added 'no Arabic scales' negative. (5) Added duduk (Armenian, Zimmer's actual instrument). (6) Added exclude_styles field. Style at 887 chars (submitted version, trimmed from 1033-char draft)."
+tags: [sublime, michelangelo, celibidache, duduk, glass-harmonica, frisson, silence, key-modulation, crescendo, heavenly, soprano, classical, cinematic]

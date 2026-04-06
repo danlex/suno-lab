@@ -1,0 +1,31 @@
+name: "longer-than-light"
+version: 12
+style: "Intimate piano ballad, female soprano in the highest possible register, stratospheric coloratura, pure crystalline voice floating at the very top of human range, piercing and angelic. Sparse delicate piano. Gentle strings at the very end only. Quiet pristine production. No drums, no percussion, no guitar, no synths, no choir, no organ. BPM: 65, Key: F Minor"
+title: "Longer Than Light v12"
+lyrics: |
+  [Piano alone]
+
+  I hear your key in the door
+  I set the table for two
+  This house still holds your name
+  But you are gone
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  Your coat hangs by the door
+  I did not move your chair
+  I talk to the empty room
+  And you are there
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  [Strings]
+
+  [End]
+instrumental: false
+notes: "v12 — No custom voice. Female soprano, stratospheric coloratura, highest possible register. Removed Alexandru DAN voice model to let Suno pick its highest natural soprano. Key: F Minor (higher). Simple lyrics from v9."
+tags: [piano-ballad, intimate, soprano, highest-register, no-custom-voice, short]

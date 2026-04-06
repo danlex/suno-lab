@@ -1,0 +1,31 @@
+name: "homesick-for-somewhere"
+version: 44
+style: "A pipe organ breathing in a vast empty church, playing the simplest melody you have ever heard — just three notes, repeated, like a heartbeat that refuses to stop even when everything else has gone quiet. A woman begins to sing above it, wordless, as if answering a question the organ keeps asking. The melody never changes but it gets deeper and heavier with each repetition, accumulating meaning like snow falling on stone. Strings enter so gradually you cannot tell when they arrived. The organ grows from a whisper to a roar that fills every corner of the building. Her voice grows with it, from intimate to overwhelming, but she is always singing those same three notes. The simplest music in the world, and the most devastating. The kind of sound that makes you homesick for somewhere you have never been. Warm church organ, luminous strings, pristine close-miked soprano. No drums, no percussion, no electronic sounds, no piano. D Major, BPM: 70"
+title: "Homesick for Somewhere"
+lyrics: |
+  [Organ, breathing, three simple notes]
+
+  [Soprano, answering the organ]
+  Ooh... ooh... ooh...
+
+  [Same three notes, deeper]
+  Ooh... ooh... ooh...
+
+  [Strings arrive, barely noticed]
+  Ahhh... Ahhh... Ahhh...
+
+  [Organ grows louder]
+  Ahhh... Ahhh... Ahhh...
+
+  [Voice and organ fill the space]
+  AHHH... AHHH... AHHH...
+
+  [Still those same three notes, now devastating]
+  AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, pop, drums, synthesizer, piano"
+notes: "v44 — 'Homesick for Somewhere'. INTERSTELLAR ORGAN EXPERIMENT. Zimmer wrote Interstellar as 'what it meant to be a father' — three minutes of simple melody that accumulates devastating emotional weight. KEY CONCEPT: REPETITION AS POWER. (1) THREE-NOTE MOTIF — voice and organ repeat the same three notes throughout, never changing melody, only growing in intensity. Tests whether Suno can render minimalist repetition that builds emotion. (2) ORGAN AS PRIMARY INSTRUMENT — first time organ leads (v32-v36 had it as support). (3) 'Homesick for somewhere you have never been' — Zimmer's exact emotional description of what his Interstellar theme achieves. (4) 'Snow falling on stone' — metaphor for gradual accumulation. (5) Lyrics use groups of three (Ooh ooh ooh, Ahhh Ahhh Ahhh) to reinforce the three-note structure. (6) D Major — same key as v32-v36, coming full circle. BPM 70 — moderate. (7) 952 chars."
+tags: [interstellar, organ-primary, three-note-motif, repetition, minimalist-build, zimmer-technique, devastating-simplicity, soprano, d-major]

@@ -1,0 +1,32 @@
+name: "longer-than-light"
+version: 11
+style: "Intimate piano ballad, male vocalist in extreme high falsetto, highest possible register, angelic boy soprano range, voice floating above everything, pure and piercing. Sparse delicate piano. Gentle strings at the very end only. Quiet pristine production. No drums, no percussion, no guitar, no synths, no choir, no organ. BPM: 65, Key: E Minor"
+title: "Longer Than Light v11"
+lyrics: |
+  [Piano alone]
+
+  I hear your key in the door
+  I set the table for two
+  This house still holds your name
+  But you are gone
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  Your coat hangs by the door
+  I did not move your chair
+  I talk to the empty room
+  And you are there
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  [Strings]
+
+  [End]
+instrumental: false
+voice: "Alexandru DAN"
+notes: "v11 — Extreme high register. 'Angelic boy soprano range', highest possible falsetto. Key changed to E Minor (higher than A Minor) to push the pitch up further."
+tags: [piano-ballad, intimate, extreme-falsetto, highest-register, custom-voice, short]

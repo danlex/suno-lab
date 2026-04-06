@@ -1,0 +1,9 @@
+name: "everything-you-ever-felt"
+version: 60
+style: "Cinematic orchestral in D minor at 95 BPM, purely instrumental. A three-act film score compressed into one piece. Act One: something vast and ancient stirs in the deep — low strings and a distant horn paint a landscape so big it makes you feel small. Act Two: urgency erupts — the orchestra surges forward with driving timpani and desperate brass, strings racing upward like a clock running out, the tempo feels faster even though it is not, everything building to an impossible climax. Act Three: the aftermath — a solo piano emerges from the chaos playing the simplest melody, and the strings return one by one, transforming the chaos into something heartbreakingly beautiful. The complete emotional range of a human life in four minutes. Full symphony orchestra, cinematic film score, world-class production, maximum emotional range. No electronic sounds, no synthesizers, no guitars, no vocals. D minor to D major, 95 BPM."
+title: "Everything You Ever Felt"
+lyrics: ""
+instrumental: true
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, electronic, pop, synthesizer, vocals, singing"
+notes: "v60 — THE SYNTHESIS. Combines all three Zimmer pillars (v57 cosmic + v58 urgent + v59 devastating) into one piece. Three-act structure: (1) vast ancient landscape (2) desperate urgency erupting (3) quiet piano aftermath. Tests whether Suno can handle a COMPLETE emotional arc — wonder → chaos → beauty — in one generation. 'The complete emotional range of a human life in four minutes.' D minor to D major, 95 BPM. 926 chars."
+tags: [three-act, synthesis, complete-arc, cosmic-urgent-beautiful, piano-aftermath, d-minor, 95bpm, zimmer-trilogy-combined, instrumental]

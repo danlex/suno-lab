@@ -1,0 +1,36 @@
+name: "longer-than-light"
+version: 4
+style: "Cinematic neoclassical film score, pristine studio production, vocals mixed forward and prominent above all instruments. Dramatic coloratura soprano with extraordinary range, chest voice building to powerful head voice, raw emotional vibrato, close-mic'd intimate vocal recording with clarity and presence. Solo piano and voice only at the opening, sparse and exposed. Cathedral pipe organ enters gradually with deep sustained chords, lush string orchestra builds underneath, never competing with the voice. Angelic choir erupts only at the climax. Extreme dynamic range from near-silence to thundering orchestral peak. The voice always leads, everything else supports. Goosebump-inducing crescendo building relentlessly to one overwhelming euphoric moment. No drums, no percussion, no beat, no electric guitar, no rock, no synths. BPM: 80, Key: A Minor resolving to A Major"
+title: "Longer Than Light"
+lyrics: |
+  [Intro]
+  [Solo piano, exposed, silence between notes]
+
+  [Verse]
+  [Soprano and piano only, soft, intimate, close]
+  I have waited longer than light itself
+  Do you hear me... through the years
+
+  [Build]
+  [Soprano voice climbing, strings enter gently beneath, piano continues]
+
+  [Chorus]
+  [Soprano powerful, high notes, voice above everything, organ and strings swell behind]
+  I am still here
+  Reaching across the dark to find you
+  I am still here... I will always find you
+
+  [Build]
+  [Voice soaring higher, organ thunders, choir rising from below]
+
+  [Chorus]
+  [Soprano at absolute peak, chest to head voice, highest register, full orchestra and choir behind the voice]
+  Even past the edge of everything
+  Even when the stars have forgotten us
+  I am the light... I am still HERE
+
+  [Big Finish]
+  [End]
+instrumental: false
+notes: "v4 — Voice-forward approach. Less orchestral clutter, more vocal technique terms (coloratura, chest-to-head voice), production/mix instructions (vocals forward, close-mic'd). Instruments enter gradually and NEVER compete with the voice. Celibidache principle: power from space."
+tags: [cinematic, neoclassical, soprano, voice-forward, film-score, no-drums, short]

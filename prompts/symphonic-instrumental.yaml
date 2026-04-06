@@ -1,0 +1,19 @@
+name: "symphonic-instrumental"
+version: 1
+style: "Symphonic metal, monumental orchestral arrangement, massive distorted guitars, dramatic piano, thundering double-kick drums, epic choir harmonies, dark minor key, explosive crescendo, cinematic intensity, wall of sound, raw emotional power, BPM: 160, Key: D Minor"
+title: "Shatter the Silence"
+lyrics: |
+  [Intro]
+  [Dramatic piano, building strings]
+  [Break]
+  [Synth pads]
+  [Build]
+  [Full orchestra, massive guitars]
+  [Percussion Break]
+  [Build]
+  [choir, strings intensify, maximum intensity]
+  [Big Finish]
+  [End]
+instrumental: true
+notes: "Instrumental version of the symphonic metal prompt. Same energy, no vocals."
+tags: [symphonic-metal, instrumental, explosive, short]

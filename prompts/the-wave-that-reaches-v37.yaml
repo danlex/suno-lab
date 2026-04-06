@@ -1,0 +1,36 @@
+name: "the-wave-that-reaches"
+version: 37
+style: "A woman's voice so pure it could shatter glass and heal wounds at the same time. Heavenly classical orchestral, intimate and vast. She begins alone, barely above a whisper, singing without words over a single sustained cello note. A harp joins with slow arpeggios. Then strings bloom around her like sunrise. No crescendo — instead, the music breathes. It swells gently, retreats, swells further, retreats less. Like waves on a shore, each one reaching higher. A choir of women joins her in the distance, ethereal layered harmonies. The harp arpeggios become a golden cascade. She holds one impossible high note while the orchestra suspends beneath her. Then resolves into warm stillness. Intimate cathedral recording, close-miked vocals, warm analog richness. No drums, no percussion, no electronic sounds, no Arabic scales. Eb Major, BPM: 72"
+title: "The Wave That Reaches"
+lyrics: |
+  [Cello, one sustained note]
+
+  [Soprano, whispered, barely there]
+  Mmm... mmm...
+
+  [Harp, slow arpeggios]
+  Ooh... ooh...
+
+  [Strings bloom gently]
+  La la la... la la la...
+
+  [Music retreats, then returns stronger]
+  Ahhh... Ahhh...
+
+  [Choir of women, distant, ethereal]
+  Ahhh... Ahhh... Ahhh...
+
+  [Harp cascades, orchestra swells]
+  AHHH... AHHH...
+
+  [Soprano holds one impossible high note]
+  AHHH...
+
+  [Warm stillness]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, drums"
+notes: "v37 — 'The Wave That Reaches'. RADICAL DEPARTURE after adversarial review. Breaking out of v32-v36 convergence trap. KEY CHANGES: (1) NO CRESCENDO — replaced with wave/breathing dynamic (swell-retreat-swell-retreat, each wave higher). This is the FIRST non-crescendo structure since v23. Tests whether Suno handles undulating dynamics better than relentless build. (2) NO DUDUK, NO ORGAN — replaced with HARP + CHOIR. Testing entirely different timbre palette. (3) NO APPOGGIATURA — removed unverified music theory jargon Suno probably doesn't understand. (4) NO [Melisma], NO [Break: Silence, Acapella] — using plain descriptive metatags only until we verify fancy ones work. (5) WHISPERED OPENING — testing [Soprano, whispered, barely there] for dynamic contrast. (6) SCENE-BASED throughout — pure storytelling, no technical music terms. (7) Eb Major (not D), BPM 72 (not 60-66) — different key and tempo. (8) 'Warm analog richness' — testing production cue. (9) 843 chars — shorter, letting Suno interpret more. A/B TEST: compare this against v35/v36 to see if radical simplicity + different instruments produces better or worse results."
+tags: [radical-departure, wave-dynamics, harp, choir, whispered, no-crescendo, no-duduk, no-organ, ab-test, scene-based, simple-metatags, soprano, heavenly, classical]

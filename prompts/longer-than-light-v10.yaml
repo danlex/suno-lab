@@ -1,0 +1,32 @@
+name: "longer-than-light"
+version: 10
+style: "Intimate piano ballad, high-pitched male vocalist singing in falsetto and upper register like a countertenor, voice soaring into soprano range, ethereal and pure. Sparse delicate piano, every silence matters. Gentle strings enter only at the very end. Quiet pristine production, every breath audible. Achingly slow, heartbreaking. No drums, no percussion, no guitar, no synths, no choir, no organ. BPM: 65, Key: A Minor"
+title: "Longer Than Light v10"
+lyrics: |
+  [Piano alone]
+
+  I hear your key in the door
+  I set the table for two
+  This house still holds your name
+  But you are gone
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  Your coat hangs by the door
+  I did not move your chair
+  I talk to the empty room
+  And you are there
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  [Strings]
+
+  [End]
+instrumental: false
+voice: "Alexandru DAN"
+notes: "v10 — Same as v9 but pushing voice higher. Falsetto, countertenor, soprano range. User wants the voice 'more up like a soprano.'"
+tags: [piano-ballad, intimate, falsetto, high-voice, custom-voice, short]

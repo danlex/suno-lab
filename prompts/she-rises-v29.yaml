@@ -1,0 +1,23 @@
+name: "she-rises"
+version: 29
+style: "The most beautiful soprano voice you have ever heard, singing without words, climbing higher and higher over piano and strings and organ and choir, in a cathedral flooded with golden light. Pure, clean, heavenly, monumental. D Major."
+title: "She Rises"
+lyrics: |
+  [Piano]
+
+  La la la... la la la...
+
+  La la la... la la la la...
+
+  Ahhh... Ahhh... Ahhh...
+
+  Ahhh... AHHH... AHHH...
+
+  AHHH... AHHH... AHHH...
+
+  AHHH...
+
+  [End]
+instrumental: false
+notes: "v29 — 'She Rises'. Radical simplicity experiment. After 28 versions of increasingly complex prompts, testing whether Suno actually performs BETTER with a short, clear, emotional description. Style is only 197 chars — less than 20% of the 1000 char limit. Hypothesis: we've been overloading Suno with conflicting instructions. Minimal metatags, minimal style, let the AI interpret. If this works better than v28, it proves less is more."
+tags: [simple, minimal, soprano, heavenly, test, short]

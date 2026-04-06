@@ -1,0 +1,31 @@
+name: "longer-than-light"
+version: 6
+style: "Intimate solo piano ballad, raw vulnerable female vocalist, voice close and exposed like a private confession. Sparse delicate piano, every silence matters. Gentle strings enter only at the very end. Quiet pristine production, every breath and vocal crack audible. Achingly slow, heartbreaking, devastating simplicity. No drums, no percussion, no guitar, no synths, no choir, no organ. BPM: 65, Key: A Minor"
+title: "Longer Than Light v6"
+lyrics: |
+  [Piano alone]
+
+  I still hear your key in the door
+  I still set the table for two
+  The house remembers everything
+  But nothing here remembers you're gone
+
+  Come home... come home
+  I have waited longer than light
+  Come home
+
+  Your coat is hanging where you left it
+  I haven't moved your chair
+  Sometimes I talk to the empty room
+  And for a moment... you're there
+
+  Come home... come home
+  I will wait longer than light
+  Come home
+
+  [Strings]
+
+  [End]
+instrumental: false
+notes: "v6 — Radical departure. Stripped to almost nothing: voice + piano, strings only at the end. Lyrics rewritten with a specific human wound — someone sitting in an empty house, waiting for someone who won't come back. Minimal metatags, let Suno interpret. Celibidache principle: the right note at the right weight in the right silence."
+tags: [piano-ballad, intimate, raw, minimal, heartbreak, short]

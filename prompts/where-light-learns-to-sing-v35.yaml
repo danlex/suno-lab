@@ -1,0 +1,36 @@
+name: "where-light-learns-to-sing"
+version: 35
+style: "Pristine soprano without words, ascending through luminous harmonic layers in a sublime neoclassical orchestral vocalise of towering cinematic grandeur. A cathedral ceiling painted by Michelangelo in sound. Soaring strings with deep cello foundation open with an aching appoggiatura resolving into warmth. Armenian duduk breathes an otherworldly melody. Pipe organ trembles with luminous warmth, swelling in radiant major chords. A slow relentless crescendo with Celibidache patience, each instrument entering unexpectedly. Then everything falls away to absolute stillness — one soprano note alone, sighing with yearning appoggiatura before resolving into radiance. Full orchestra returns half-step higher with devastating force. Vast cathedral reverb where every note dissolves slowly into light, film score quality, crystal-clear production. No drums, no percussion, no beat, no electronic sounds, no Arabic scales. D Major to Eb Major, BPM: 63"
+title: "Where Light Learns to Sing"
+lyrics: |
+  [Strings, deep cello, aching appoggiatura]
+
+  [Duduk breathes, otherworldly]
+
+  [Melisma]
+  Ooh... Ooh...
+
+  La la la... la la la...
+
+  [Organ trembles, luminous warmth]
+  Ahhh... Ahhh...
+
+  [Crescendo]
+  Ahhh... AHHH...
+
+  AHHH... AHHH... AHHH...
+
+  [Break: Silence, Acapella]
+
+  [Soprano, alone, sighing appoggiatura, vibrato]
+  Ahhh...
+
+  [Full orchestra returns, key change, devastating]
+  AHHH... AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, drums"
+notes: "v35 — 'Where Light Learns to Sing'. MAJOR SYNTHESIS of two research agents. (1) REDUCED INSTRUMENTS TO 4: 'soaring strings with deep cello foundation' consolidates violin/viola/cello into one descriptor + duduk + pipe organ + soprano. Dropped glass harmonica — Suno struggles with 5+ named instruments, some get ignored. (2) FRONT-LOADED SOPRANO: moved to position 1 in style — v5.5 deprioritizes vocal instructions buried late. (3) DOUBLE APPOGGIATURA: cello opening + soprano re-entry after silence both have appoggiaturas. Sloboda 1991: appoggiaturas are #1 tear trigger, separate from frisson/chills. (4) ENRICHED ORGAN: 'trembles with luminous warmth' captures voix celeste/tremulant quality without using terms Suno won't understand. (5) ENHANCED REVERB: 'where every note dissolves slowly into light' — conversational v5.5-friendly. (6) Kept all v34 metatag fixes: [Break: Silence, Acapella], [Melisma], [Crescendo]. Style at 946 chars."
+tags: [sublime, appoggiatura-double, celibidache, duduk, organ-tremulant, frisson, silence-fix, key-modulation, crescendo, melisma, heavenly, soprano-frontloaded, classical, cinematic, instrument-consolidation]

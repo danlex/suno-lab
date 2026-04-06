@@ -1,0 +1,40 @@
+name: "the-endless-staircase"
+version: 36
+style: "Pristine soprano without words, each phrase ascending higher than the last in an endless staircase of light. Sublime neoclassical orchestral vocalise of towering cinematic grandeur — as if watching dawn slowly fill a cathedral with golden light, the radiance growing but never reaching its peak. Soaring strings with deep cello open with an aching appoggiatura. Armenian duduk breathes an otherworldly melody. Pipe organ trembles, each chord a step higher. A relentless spiraling crescendo with Celibidache patience, voices and instruments layered like a staircase that rises forever. Then absolute stillness — one soprano note sighing with yearning before resolving. Full orchestra returns half-step higher with devastating force. Cathedral reverb dissolving into infinity, film score quality, crystal-clear production. No drums, no percussion, no beat, no electronic sounds, no Arabic scales. D Major to Eb Major, BPM: 60"
+title: "The Endless Staircase"
+lyrics: |
+  [Strings, deep cello, aching appoggiatura]
+
+  [Duduk breathes, ascending]
+
+  [Melisma]
+  Ooh... Ooh...
+
+  La la la... la la la...
+
+  La la la... la la la la...
+
+  [Organ trembles, each chord higher]
+  Ahhh... Ahhh...
+
+  [Crescendo]
+  Ahhh... AHHH...
+
+  AHHH... AHHH... AHHH...
+
+  AHHH... AHHH... AHHH... AHHH...
+
+  [Break: Silence, Acapella]
+
+  [Soprano, alone, sighing appoggiatura, vibrato]
+  Ahhh...
+
+  [Full orchestra returns, key change, devastating]
+  AHHH... AHHH... AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, drums"
+notes: "v36 — 'The Endless Staircase'. CRON-GENERATED. Evolutions: (1) SHEPARD TONE PSYCHOLOGY: 'each phrase ascending higher than the last in an endless staircase of light' + 'staircase that rises forever' — captures the endless ascending illusion without asking Suno for technical Shepard tones. Lyrics reinforce by adding progressively more 'AHHH' per line, creating visual and audible escalation. (2) SCENE-BASED OPENING: 'as if watching dawn slowly fill a cathedral with golden light' — v5.5 community confirms scene descriptions outperform genre labels. (3) BPM 60: slowest yet, deepening the Celibidache patience. (4) Added extra 'La la' line for more gradual build. (5) More AHHHs in final section (5 instead of 4) to push the climax further. Kept all v35 innovations: front-loaded soprano, 4 instruments, double appoggiatura, confirmed metatags. Style at 923 chars."
+tags: [sublime, shepard-psychology, scene-based, celibidache, duduk, organ, appoggiatura-double, frisson, silence-fix, key-modulation, crescendo, melisma, heavenly, soprano-frontloaded, classical, cinematic, endless-ascent]

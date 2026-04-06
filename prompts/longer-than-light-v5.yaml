@@ -1,0 +1,36 @@
+name: "longer-than-light"
+version: 5
+style: "Epic cinematic trailer music, pristine studio production, vocals dominating the mix. Powerful classical crossover female vocalist with rich dark timbre, commanding chest voice building to soaring stratospheric head voice, raw emotional delivery with controlled vibrato. Voice exposed and alone over solo piano at the opening. Sweeping cinematic string orchestra enters gradually, cathedral pipe organ swells with earth-shaking low chords, epic choir erupts only at the climax. Extreme dynamic range from intimate whisper to overwhelming orchestral peak. The voice always leads and overpowers everything. Slow relentless crescendo building to one devastating euphoric climax. No drums, no percussion, no beat, no electric guitar, no rock, no synths. BPM: 80, Key: A Minor resolving to A Major"
+title: "Longer Than Light v5"
+lyrics: |
+  [Intro]
+  [Solo piano, exposed, vast silence]
+
+  [Verse]
+  [Female vocalist, intimate, chest voice, close and raw]
+  I have waited longer than light itself
+  Do you hear me... through the years
+
+  [Build]
+  [Voice opens up, climbing, strings enter beneath]
+
+  [Chorus]
+  [Powerful chest voice to soaring head voice, strings and organ swell behind]
+  I am still here
+  Reaching across the dark to find you
+  I am still here... I will always find you
+
+  [Build]
+  [Voice commanding, organ thunders, choir erupts from below]
+
+  [Chorus]
+  [Full voice at peak power, stratospheric high notes, full orchestra and choir]
+  Even past the edge of everything
+  Even when the stars have forgotten us
+  I am the light... I am still HERE
+
+  [Big Finish]
+  [End]
+instrumental: false
+notes: "v5 — Bold departure. Changed genre anchor from 'neoclassical film score' to 'epic cinematic trailer music'. Changed voice from 'soprano' to 'classical crossover female vocalist with rich dark timbre' — aiming for a completely different voice model. More chest voice, darker, more Evanescence. Same emotional arc."
+tags: [cinematic, trailer, classical-crossover, voice-forward, no-drums, short]

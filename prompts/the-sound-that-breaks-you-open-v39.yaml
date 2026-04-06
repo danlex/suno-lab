@@ -1,0 +1,40 @@
+name: "the-sound-that-breaks-you-open"
+version: 39
+style: "Cinematic orchestral masterpiece. A single soprano voice emerges from silence like a prayer, wordless and impossibly pure, floating above the deepest cello drone you have ever heard. She is singing the thing that words cannot say. Strings enter one by one, each carrying its own melody, weaving together into something luminous and overwhelming. A pipe organ breathes underneath everything, warm and ancient. The music builds with terrifying patience — not rushing, never rushing — every second earned. At the peak, when the orchestra is a wall of golden sound, everything stops. Dead silence. Then her voice returns alone, one octave higher, and the entire orchestra detonates beneath her in a key change that rewrites your nervous system. The kind of music that makes strangers cry in concert halls. Cathedral acoustics, close-miked vocals, audiophile production quality. No drums, no percussion, no electronic sounds, no rock, no pop. C Major to Db Major, BPM: 58"
+title: "The Sound That Breaks You Open"
+lyrics: |
+  [Deepest cello drone]
+
+  [Soprano emerges, like a prayer]
+  Ooh...
+
+  [Strings enter one by one]
+  La la la...
+
+  La la la... la la la...
+
+  [Organ breathes, warm]
+  Ahhh... Ahhh...
+
+  [Orchestra builds, terrifying patience]
+  Ahhh... AHHH...
+
+  [Wall of golden sound]
+  AHHH... AHHH... AHHH...
+
+  [Everything stops]
+
+  [Dead silence]
+
+  [Her voice alone, one octave higher]
+  Ahhh...
+
+  [Entire orchestra detonates, key change]
+  AHHH... AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, pop, drums, synthesizer"
+notes: "v39 — MoA CANDIDATE B. Same title, same concept, different execution. KEY DIFFERENCES from v38: (1) PIPE ORGAN added — v38 has no organ, v39 does. Tests whether organ improves or clutters. (2) C MAJOR to Db Major — different key from v38's A Major. (3) BPM 58 — slower than v38's 69. Tests tempo impact. (4) 'Detonates' and 'rewrites your nervous system' — more violent language for the climax. (5) 'Terrifying patience' — stronger than v38's gentler build. (6) More detailed lyrics structure — two [Silence]-equivalent tags ([Everything stops] + [Dead silence]). (7) 966 chars. COMPARISON: v38 is warmer/gentler, v39 is more dramatic/violent. Both use same emotional scene-based approach, no jargon."
+tags: [post-adversarial, emotional, scene-based, no-jargon, dramatic, cathedral, cello, organ, strings, soprano, c-major, moa-candidate-b]

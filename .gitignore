@@ -1,0 +1,10 @@
+.DS_Store
+*.mp3
+*.wav
+*.mid
+*.mov
+*.mp4
+Screen Recording*
+Voice*.mov
+Voice*.mp3
+Screenshot*.png

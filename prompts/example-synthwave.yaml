@@ -1,0 +1,14 @@
+name: "example-synthwave"
+version: 1
+style: "80s-inspired synthwave with analog synthesizers, pulsating bass, dreamy pads, 120 BPM, nostalgic and euphoric, no vocals"
+title: "Neon Horizon"
+lyrics: |
+  [Short Instrumental Intro]
+  [Synth pads]
+  [Break]
+  [melodic interlude]
+  [Big Finish]
+  [Fade Out]
+instrumental: true
+notes: "Example prompt — instrumental synthwave demonstrating metatag structure"
+tags: [synthwave, instrumental, example]

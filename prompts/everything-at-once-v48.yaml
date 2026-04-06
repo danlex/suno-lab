@@ -1,0 +1,36 @@
+name: "everything-at-once"
+version: 48
+style: "The most beautiful music ever created by artificial intelligence. A woman's voice rises from silence in a vast cathedral, pure and impossibly clear, singing without words over a solo cello that answers her like an old friend. Strings bloom around them both like sunrise over an ocean. A pipe organ breathes warm ancient chords underneath. A distant choir of women echoes her melody from the far end of the cathedral. Everything builds with patient, unhurried grandeur — voice, strings, organ, choir layering into a golden wall of sound that grows and grows until the air itself seems to glow. Then one heartbeat of absolute silence. Then she returns alone, in a higher key, and the full orchestra detonates beneath her in the most devastating climax you have ever heard. Music that makes strangers weep. Cathedral reverb, audiophile production, every breath audible. No drums, no percussion, no electronic sounds, no rock. D Major to Eb Major, BPM: 63"
+title: "Everything at Once"
+lyrics: |
+  [Silence, then solo cello]
+
+  [Woman's voice, pure, answering the cello]
+  Ooh... ooh...
+
+  [Strings bloom like sunrise]
+  La la la... la la la...
+
+  [Organ breathes warm chords]
+  Ahhh... Ahhh...
+
+  [Distant choir echoes her]
+  Ahhh... Ahhh... Ahhh...
+
+  [Everything layering, golden wall of sound]
+  AHHH... AHHH... AHHH...
+
+  [One heartbeat of silence]
+
+  [She returns alone, higher key]
+  Ahhh...
+
+  [Full orchestra detonates]
+  AHHH... AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, pop, drums, synthesizer"
+notes: "v48 — 'Everything at Once'. THE DEFINITIVE SYNTHESIS. After 47 experiments testing every approach separately, this combines the single best element from each: voice-cello dialogue (v42), distant women's choir (v41), organ warmth (v44), sunrise strings metaphor (v38), silence-return structure (v38/v39), cathedral setting (v40), 'detonates' climax (v39), 'makes strangers weep' (v39). NO jargon, NO music theory terms, NO unverified metatags. Pure emotional scene-based writing. D Major → Eb Major at BPM 63 — the settings that feel right from months of iteration. 951 chars. THIS IS THE CANDIDATE for the project's best single prompt. If only one version can be submitted, this is it."
+tags: [definitive-synthesis, all-elements, cello-dialogue, choir, organ, strings, silence-return, cathedral, detonates, emotional, d-major, best-candidate]

@@ -1,0 +1,36 @@
+name: "when-the-stone-walls-sang-back"
+version: 41
+style: "A choir of women in a stone cathedral, their voices building from a single whispered note into something that sounds like the sky splitting open. No soloist — every voice equal, weaving together into harmonies so close and tight they vibrate against each other and create overtones that no single voice could produce. Ethereal, ancient, sacred, devastating. Like a Gregorian chant that forgot to stay quiet and became the most powerful sound in the world. Starting from absolute stillness, voices enter one by one until the entire space is full of golden humming sound. Then they all breathe at once and the silence is deafening. Then they return in a different key, higher, layered harmonies doubled and tripled, filling every frequency until the stone walls sing back. Close-miked choir with vast cathedral reverb, warm and luminous. No instruments at all — voices only. No drums, no percussion, no electronic sounds, no piano, no guitar. Bb Major, BPM: 66"
+title: "When the Stone Walls Sang Back"
+lyrics: |
+  [One voice, whispered]
+  Mmm...
+
+  [Second voice joins]
+  Mmm... mmm...
+
+  [Third voice, fourth voice, layering]
+  Ooh... ooh...
+
+  [Voices weave tighter]
+  Ahhh... Ahhh...
+
+  [Full choir, golden humming]
+  Ahhh... Ahhh... Ahhh...
+
+  [All voices together, overwhelming]
+  AHHH... AHHH... AHHH...
+
+  [Everyone breathes at once]
+
+  [Silence]
+
+  [Choir returns, higher key, doubled]
+  AHHH... AHHH... AHHH... AHHH...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, Middle Eastern, ethnic, tribal, world music, rock, electronic, pop, drums, synthesizer, piano, guitar, orchestra, instrumental"
+notes: "v41 — 'When the Stone Walls Sang Back'. CHOIR EXPERIMENT. First time in 41 versions centering a women's choir instead of solo soprano. KEY DEPARTURES: (1) NO SOLO VOICE — choir is the instrument, every voice equal, testing if Suno can produce tight choral harmonies. (2) A CAPPELLA — no instruments at all, voices only. Even more minimal than v40's voice+cello. (3) OVERTONE LANGUAGE — 'harmonies so close they vibrate against each other and create overtones' — natural acoustic phenomenon, not jargon. (4) GREGORIAN REFERENCE — grounding in a style Suno definitely knows. (5) Bb Major — never used before, rich and warm for voices. (6) Lyrics describe individual voices entering one by one before merging. (7) 'Stone walls sing back' — using the cathedral as a character. (8) 958 chars. TESTS: Can Suno produce a convincing a cappella women's choir? Does no instrumentation force better vocal rendering?"
+tags: [choir, a-cappella, women-voices, no-instruments, cathedral, gregorian, layered-harmonies, overtones, radical-experiment, bb-major]

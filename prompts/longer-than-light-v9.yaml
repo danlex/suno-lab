@@ -1,0 +1,32 @@
+name: "longer-than-light"
+version: 9
+style: "Intimate solo piano ballad, raw vulnerable male vocalist, voice close and exposed like a private confession. Sparse delicate piano, every silence matters. Gentle strings enter only at the very end. Quiet pristine production, every breath audible. Achingly slow, heartbreaking, devastating simplicity. No drums, no percussion, no guitar, no synths, no choir, no organ. BPM: 65, Key: A Minor"
+title: "Longer Than Light v9"
+lyrics: |
+  [Piano alone]
+
+  I hear your key in the door
+  I set the table for two
+  This house still holds your name
+  But you are gone
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  Your coat hangs by the door
+  I did not move your chair
+  I talk to the empty room
+  And you are there
+
+  Come home... come home
+  I wait longer than light
+  Come home
+
+  [Strings]
+
+  [End]
+instrumental: false
+voice: "Alexandru DAN"
+notes: "v9 — Simplified lyrics for clarity. Short words, clear consonants, one-two syllables. Same emotional core but no more mumbling. User's voice (Alexandru DAN)."
+tags: [piano-ballad, intimate, raw, minimal, custom-voice, simple-words, short]

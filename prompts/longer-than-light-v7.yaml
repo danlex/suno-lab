@@ -1,0 +1,31 @@
+name: "longer-than-light"
+version: 7
+style: "1930s vintage torch singer ballad, warm grainy analog recording like a scratched vinyl record played in a dim smoky room. Female vocalist with old-world elegance and aching vulnerability, rich low alto voice rising to heartbreaking high notes, slight natural tremolo, voice intimate and close as if singing only for you. Sparse upright piano accompaniment, gentle plucked acoustic bass. Gentle orchestral strings enter only at the very end like a distant memory. Warm analog tape hiss, room ambience, imperfect and human. Devastatingly slow and tender. No drums, no percussion, no electric instruments, no modern production. BPM: 60, Key: A Minor"
+title: "Longer Than Light v7"
+lyrics: |
+  [Piano alone]
+
+  I still hear your key in the door
+  I still set the table for two
+  The house remembers everything
+  But nothing here remembers you're gone
+
+  Come home... come home
+  I have waited longer than light
+  Come home
+
+  Your coat is hanging where you left it
+  I haven't moved your chair
+  Sometimes I talk to the empty room
+  And for a moment... you're there
+
+  Come home... come home
+  I will wait longer than light
+  Come home
+
+  [Strings]
+
+  [End]
+instrumental: false
+notes: "v7 — 1930s vintage torch singer. Completely different vocal character: warm grainy alto instead of soprano, old-world elegance, vinyl-era recording quality. Same stripped-down lyrics from v6. The contrast between the vintage warmth and the emotional wound should create something unique."
+tags: [vintage, 1930s, torch-singer, piano-ballad, intimate, analog, short]
