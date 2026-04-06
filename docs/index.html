@@ -3,54 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Suno Music Prompt Laboratory | 94 AI Music Prompt Experiments</title>
-<meta name="description" content="A searchable archive of 94 iterative Suno AI prompt experiments for cinematic, orchestral, and experimental music generation using Suno v5.5. Handcrafted prompts with style descriptions, metatags, and engineering notes.">
-<meta name="keywords" content="Suno AI, AI music generation, prompt engineering, orchestral music, cinematic music, Suno v5.5, music prompts, AI composition, experimental music, prompt laboratory">
-<meta name="author" content="Alexandru DAN">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://danlex.github.io/suno-lab/">
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://danlex.github.io/suno-lab/">
-<meta property="og:title" content="Suno Music Prompt Laboratory | 94 AI Music Prompt Experiments">
-<meta property="og:description" content="A searchable archive of 94 iterative Suno AI prompt experiments for cinematic, orchestral, and experimental music generation. Handcrafted prompts with style descriptions, metatags, and engineering notes.">
-<meta property="og:site_name" content="Suno Lab">
-<meta property="og:locale" content="en_US">
-
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://danlex.github.io/suno-lab/">
-<meta name="twitter:title" content="Suno Music Prompt Laboratory | 94 AI Music Prompt Experiments">
-<meta name="twitter:description" content="A searchable archive of 94 iterative Suno AI prompt experiments for cinematic, orchestral, and experimental music generation. Handcrafted prompts with engineering notes.">
-
-<!-- JSON-LD Structured Data -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Suno Music Prompt Laboratory",
-  "url": "https://danlex.github.io/suno-lab/",
-  "description": "A searchable archive of 94 iterative Suno AI prompt experiments for cinematic, orchestral, and experimental music generation using Suno v5.5.",
-  "author": {
-    "@type": "Person",
-    "name": "Alexandru DAN",
-    "url": "https://github.com/danlex"
-  },
-  "about": {
-    "@type": "SoftwareApplication",
-    "name": "Suno AI",
-    "applicationCategory": "Music Generation",
-    "operatingSystem": "Web"
-  },
-  "isPartOf": {
-    "@type": "CreativeWork",
-    "name": "Suno Lab",
-    "url": "https://github.com/danlex/suno-lab"
-  }
-}
-</script>
-
+<title>Suno Music Prompt Laboratory</title>
 <style>
   :root {
     --bg: #0a0a0f;
@@ -127,6 +80,7 @@ const searchEl = document.getElementById('search');
 const countEl = document.getElementById('count');
 const latestEl = document.getElementById('latest');
 let ALL = [];
+let SUNO_URLS = {};
 
 function escapeHtml(s) {
   if (s == null) return '';
@@ -138,6 +92,12 @@ function renderSong(s) {
   const instrumental = s.instrumental ? '<span class="instrumental-badge">instrumental</span>' : '';
   const exclude = s.exclude_styles ? `<div class="section-label">Exclude</div><div class="notes">${escapeHtml(s.exclude_styles)}</div>` : '';
   const notes = s.notes ? `<details><summary>Notes</summary><div class="notes">${escapeHtml(s.notes)}</div></details>` : '';
+  const title = s.title || s.name || '';
+  const ids = SUNO_URLS[title] || [];
+  const players = ids.map(id =>
+    `<iframe src="https://suno.com/embed/${id}" width="100%" height="120" frameborder="0" allow="autoplay" loading="lazy" style="border-radius:10px;margin-top:8px;"></iframe>`
+  ).join('');
+  const playerSection = players ? `<div class="section-label">Listen</div>${players}` : '';
   return `
     <article class="song" data-search="${escapeHtml((s.title||'') + ' ' + (s.name||'') + ' ' + (s.style||'') + ' ' + (s.tags||[]).join(' ') + ' ' + (s.notes||''))}">
       <div class="song-head">
@@ -145,6 +105,7 @@ function renderSong(s) {
         <h2 class="title">${escapeHtml(s.title || s.name || '(untitled)')}${instrumental}</h2>
         <span class="name-slug">${escapeHtml(s._file || '')}</span>
       </div>
+      ${playerSection}
       <div class="tags">${tags}</div>
       <div class="section-label">Style</div>
       <div class="style-block">${escapeHtml(s.style || '')}</div>
@@ -159,8 +120,12 @@ function render(list) {
 }
 
 async function load() {
-  const r = await fetch('songs.json');
+  const [r, u] = await Promise.all([
+    fetch('songs.json'),
+    fetch('suno_urls.json').catch(() => ({ ok: false }))
+  ]);
   ALL = await r.json();
+  if (u.ok) SUNO_URLS = await u.json();
   countEl.textContent = ALL.length;
   const maxV = ALL.reduce((m, s) => Math.max(m, s.version || 0), 0);
   latestEl.textContent = 'v' + maxV;

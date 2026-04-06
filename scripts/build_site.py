@@ -138,6 +138,7 @@ const searchEl = document.getElementById('search');
 const countEl = document.getElementById('count');
 const latestEl = document.getElementById('latest');
 let ALL = [];
+let SUNO_URLS = {};
 
 function escapeHtml(s) {
   if (s == null) return '';
@@ -149,6 +150,12 @@ function renderSong(s) {
   const instrumental = s.instrumental ? '<span class="instrumental-badge">instrumental</span>' : '';
   const exclude = s.exclude_styles ? `<div class="section-label">Exclude</div><div class="notes">${escapeHtml(s.exclude_styles)}</div>` : '';
   const notes = s.notes ? `<details><summary>Notes</summary><div class="notes">${escapeHtml(s.notes)}</div></details>` : '';
+  const title = s.title || s.name || '';
+  const ids = SUNO_URLS[title] || [];
+  const players = ids.map(id =>
+    `<iframe src="https://suno.com/embed/${id}" width="100%" height="120" frameborder="0" allow="autoplay" loading="lazy" style="border-radius:10px;margin-top:8px;"></iframe>`
+  ).join('');
+  const playerSection = players ? `<div class="section-label">Listen</div>${players}` : '';
   return `
     <article class="song" data-search="${escapeHtml((s.title||'') + ' ' + (s.name||'') + ' ' + (s.style||'') + ' ' + (s.tags||[]).join(' ') + ' ' + (s.notes||''))}">
       <div class="song-head">
@@ -156,6 +163,7 @@ function renderSong(s) {
         <h2 class="title">${escapeHtml(s.title || s.name || '(untitled)')}${instrumental}</h2>
         <span class="name-slug">${escapeHtml(s._file || '')}</span>
       </div>
+      ${playerSection}
       <div class="tags">${tags}</div>
       <div class="section-label">Style</div>
       <div class="style-block">${escapeHtml(s.style || '')}</div>
@@ -170,8 +178,12 @@ function render(list) {
 }
 
 async function load() {
-  const r = await fetch('songs.json');
+  const [r, u] = await Promise.all([
+    fetch('songs.json'),
+    fetch('suno_urls.json').catch(() => ({ ok: false }))
+  ]);
   ALL = await r.json();
+  if (u.ok) SUNO_URLS = await u.json();
   countEl.textContent = ALL.length;
   const maxV = ALL.reduce((m, s) => Math.max(m, s.version || 0), 0);
   latestEl.textContent = 'v' + maxV;
