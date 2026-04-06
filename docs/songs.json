@@ -1,5 +1,31 @@
 [
   {
+    "name": "an-orchestra-that-thinks",
+    "version": 99,
+    "style": "ORCHESTRAL IDM with BOWED VIBRAPHONE + CELESTA, intricate abstract beauty, cinematic complexity, E minor to F minor, 120 BPM, purely instrumental. Bowed vibraphone sustains glassy tones shimmering without percussive attack — higher harmonics glowing like light through stained glass. Celesta adds crystalline melodic fragments appearing and vanishing. Full symphony strings play irregular asymmetric rhythms — organic patterns that never quite repeat. Woodwinds weave through gaps with fluttering ornamental figures. The orchestra builds through accumulating complexity — more layers, more counterpoint, more voices until the texture reaches critical density. Then silence — three beats of absolute stillness. Orchestra returns in F minor half-step up, every voice unison fortississimo, bowed vibraphone sustaining one crystalline chord above the storm. Maximum impact from maximum beauty. No guitars, no vocals.",
+    "title": "An Orchestra That Thinks",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, gentle, ambient, soft, lo-fi, vocals, singing",
+    "notes": "v99 — ORCHESTRAL IDM. New genre for synthesis era. RESEARCH: MasterClass IDM guide (complex abstract rhythms, atmospheric listening, glitch elements), malletjazz.com extended techniques (bowed vibraphone), Adam Holmes on bowed vibes, Soundiron vibraphone effects. LEARNED: (1) IDM = 'intelligent dance music' — complex non-repetitive rhythms that reward careful listening, pioneered by Aphex Twin/Autechre. The anti-dancefloor: intricate patterns over driving beats. (2) Bowed vibraphone = orchestral bow on vibraphone bars creates sustained glassy tones WITHOUT percussive attack, emphasizes higher harmonics, sounds like a 'chamber choir' with reverb. Common in contemporary percussion literature. (3) IDM + orchestra never done — the concept is 'an orchestra that thinks': irregular asymmetric rhythms played by acoustic instruments. IMPROVED: Orchestral IDM — the most cerebral electronic genre merged with full orchestra + bowed vibraphone (glassy sustained tones, no attack) + celesta (crystalline melodic fragments). Build through accumulating complexity rather than volume. E minor→F minor. 921 chars.",
+    "tags": [
+      "orchestral-idm",
+      "bowed-vibraphone",
+      "celesta",
+      "120bpm",
+      "e-minor",
+      "f-minor",
+      "abstract-beauty",
+      "complexity",
+      "asymmetric-rhythm",
+      "synthesis-era",
+      "research-driven",
+      "genre-fusion"
+    ],
+    "_file": "an-orchestra-that-thinks-v99.yaml",
+    "_slug": "an-orchestra-that-thinks-v99"
+  },
+  {
     "name": "the-ceiling-becomes-the-floor",
     "version": 98,
     "style": "ORCHESTRAL PSYTRANCE with CIMBALOM + PIPE ORGAN + SHEPARD TONE STRINGS, relentless ascending energy, cinematic psychedelic intensity, A minor to B-flat minor, 145 BPM, purely instrumental. Cimbalom strikes rapid sixteenth-note arpeggios — hammered metallic strings shimmering like electricity. Pipe organ enters with deepest pedal tones, cathedral bass shaking foundations. Full symphony strings begin a Shepard tone ascension — violins climbing while cellos drop an octave and climb again, the illusion of an orchestra ascending forever. Psytrance bassline pulses at 145 BPM, mechanical and relentless. Brass joins in ascending fanfares spiraling upward without end. The build lasts ninety seconds of pure vertical motion. Then absolute silence — one full bar. Orchestra detonates in B-flat minor half-step up, cimbalom at maximum velocity, pipe organ full stops, every string fortississimo. The ceiling becomes the floor. No guitars, no vocals.",
