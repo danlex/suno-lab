@@ -1,5 +1,31 @@
 [
   {
+    "name": "the-future-we-were-promised",
+    "version": 105,
+    "style": "ORCHESTRAL SYNTHWAVE with BANDONEON + HARPSICHORD, warm cinematic nostalgia, retrofuturistic grandeur, E minor to F minor, 110 BPM, purely instrumental. Bandoneon breathes long dramatic phrases — tango's yearning bellows instrument filling space with aching warmth that analog pads only dream of. Harpsichord plays rapid baroque arpeggios shimmering like neon reflections, mechanical and crystalline. Full symphony strings provide sweeping cinematic pads, violins sustaining lush chords while cellos pulse in rhythmic eighth notes. Brass swells add retrofuturistic grandeur every four bars. The build layers bandoneon melody over harpsichord arpeggios while strings crescendo from warmth to overwhelming emotion. Then silence — two beats. Orchestra returns in F minor half-step up, bandoneon crying at full bellows, harpsichord at maximum velocity, full strings and brass fortississimo. The future we were promised. No guitars, no vocals.",
+    "title": "The Future We Were Promised",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, gentle, lo-fi, vocals, singing",
+    "notes": "v105 — ORCHESTRAL SYNTHWAVE. Emotional palette shift after dark genres (grime v102, drill v104). RESEARCH: Wikipedia synthwave (80s retrofuturism, analog warmth), Sonika Sounds SYNTHONY (synths + orchestral layers hybrid), MasterClass tango guide (Piazzolla nuevo tango), Nuevo Tango Arts 2026 season, Colorado College Festival 2026 (bandoneon + orchestra). LEARNED: (1) Synthwave = warm analog nostalgia, lush pads, arpeggiated patterns, 110 BPM. SYNTHONY proves synth-orchestra fusion works commercially. (2) Bandoneon = tango's signature bellows instrument, dramatic yearning phrases. Piazzolla proved it works with full orchestra. (3) Harpsichord's rapid mechanical arpeggios are the baroque equivalent of synthwave's signature arpeggiated synth patterns. IMPROVED: Orchestral synthwave (warm, nostalgic — deliberate contrast to v102-v104's dark aggression) + bandoneon (tango yearning, never used) + harpsichord (baroque arpeggios = neon arpeggios). Concept: 'the future we were promised' — retrofuturistic warmth. E minor→F minor. 943 chars.",
+    "tags": [
+      "orchestral-synthwave",
+      "bandoneon",
+      "harpsichord",
+      "110bpm",
+      "e-minor",
+      "f-minor",
+      "retrofuturistic",
+      "warm-nostalgia",
+      "tango-nuevo",
+      "baroque-arpeggios",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "the-future-we-were-promised-v105.yaml",
+    "_slug": "the-future-we-were-promised-v105"
+  },
+  {
     "name": "what-the-streets-sound-like-from-above",
     "version": 104,
     "style": "ORCHESTRAL DRILL with COR ANGLAIS + TUBA, dark cinematic menace, half-time bounce with orchestral weight, C minor to C-sharp minor, 140 BPM, purely instrumental. Cor anglais plays sparse haunting melodic motifs — nasal and melancholic, the loneliest woodwind crying in the dark. Tuba provides sliding sub-bass lines gliding between notes like orchestral 808 slides, the lowest brass shaking the floor. Full symphony strings stab on offbeats with aggressive pizzicato. Sparse piano hits single dark notes in the high register between stabs. The texture is deliberately sparse — vast empty space between each hit, every note placed with menacing precision. The build fills the space gradually, adding voices one by one until density reaches critical mass. Then silence — two beats. Orchestra returns in C-sharp minor half-step up, cor anglais wailing at highest register, tuba at maximum depth, full strings and brass detonating on every offbeat. No guitars, no vocals.",
