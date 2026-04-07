@@ -1,5 +1,31 @@
 [
   {
+    "name": "where-the-concrete-remembers",
+    "version": 102,
+    "style": "ORCHESTRAL GRIME with ERHU + BASS TROMBONE, dark cinematic aggression, urban orchestral menace, B-flat minor to B minor, 140 BPM, purely instrumental. Erhu cries a piercing melody above the chaos — Chinese two-stringed fiddle wailing with anguished intensity from four thousand years of history. Bass trombone growls in the lowest register, each note a warning that shakes the floor. Full symphony strings play aggressive staccato stabs at 140 BPM — dark energy performed by fifty bowed instruments in unison. Brass punctuates with sharp rhythmic hits on every second beat. The build layers erhu over increasingly intense string stabs while bass trombone descends chromatically into sub-bass territory. Then silence — one bar of nothing. Orchestra detonates in B minor half-step up, erhu screaming at highest pitch, bass trombone fortississimo, full brass and strings at maximum attack. Urban orchestral warfare. No guitars, no vocals.",
+    "title": "Where the Concrete Remembers",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, gentle, ambient, soft, lo-fi, vocals, singing",
+    "notes": "v102 — ORCHESTRAL GRIME. New genre for synthesis era. RESEARCH: Spotify UK Grime 2026 playlist (140 BPM essentials), Grime Wiki (complex breakbeats, synth/string/brass stabs at 140 BPM), InstrumentHeritage erhu guide, Bachtrack erhu emotional interview, Shen Yun East-West fusion orchestra. LEARNED: (1) Grime = 140 BPM UK genre with dark aggressive energy, brass stabs, synth stabs — 'urban menace' in electronic form. (2) Erhu produces 'extraordinarily wide range from sweet whispers to anguished cries' — 4000-year-old Chinese two-stringed fiddle, soul-stirring. Used in film scores and cross-genre collaborations globally. (3) Grime's brass stab tradition maps perfectly to orchestral brass writing. IMPROVED: Orchestral grime (never done, dark aggressive 140 BPM) + erhu (anguished cry quality matches grime's intensity, never used, East-West bridge) + bass trombone (lowest brass, menacing growl for grime's dark low-end). Concept: 'where the concrete remembers' — urban orchestral menace meets ancient Chinese sorrow. Bb minor→B minor. 942 chars.",
+    "tags": [
+      "orchestral-grime",
+      "erhu",
+      "bass-trombone",
+      "140bpm",
+      "b-flat-minor",
+      "b-minor",
+      "dark-aggression",
+      "urban-menace",
+      "east-west-fusion",
+      "synthesis-era",
+      "research-driven",
+      "genre-fusion"
+    ],
+    "_file": "where-the-concrete-remembers-v102.yaml",
+    "_slug": "where-the-concrete-remembers-v102"
+  },
+  {
     "name": "faster-than-the-room-can-hold",
     "version": 101,
     "style": "ORCHESTRAL FOOTWORK with THEREMIN + TUBULAR BELLS, frenetic cinematic velocity, half-time grandeur over double-time chaos, G minor to A-flat minor, 160 BPM, purely instrumental. Theremin sings an eerie melody floating above everything — an otherworldly voice without a body, sustained and wavering. Tubular bells ring each eight-bar phrase like cathedral announcements. Full symphony strings perform frenetic staccato at 160 BPM — syncopated sixteenths that never land where expected. Pizzicato basses provide the sub-heavy footwork groove. Brass plays half-time beneath the chaos, monumental weight under frantic strings. The build accelerates through increasingly complex layers until every section fires syncopated patterns at full velocity. Then silence — one bar. Orchestra returns in A-flat minor half-step up, theremin screaming at highest register, tubular bells fortississimo, every instrument at maximum. No guitars, no vocals.",
