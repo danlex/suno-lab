@@ -1,5 +1,31 @@
 [
   {
+    "name": "faster-than-the-room-can-hold",
+    "version": 101,
+    "style": "ORCHESTRAL FOOTWORK with THEREMIN + TUBULAR BELLS, frenetic cinematic velocity, half-time grandeur over double-time chaos, G minor to A-flat minor, 160 BPM, purely instrumental. Theremin sings an eerie melody floating above everything — an otherworldly voice without a body, sustained and wavering. Tubular bells ring each eight-bar phrase like cathedral announcements. Full symphony strings perform frenetic staccato at 160 BPM — syncopated sixteenths that never land where expected. Pizzicato basses provide the sub-heavy footwork groove. Brass plays half-time beneath the chaos, monumental weight under frantic strings. The build accelerates through increasingly complex layers until every section fires syncopated patterns at full velocity. Then silence — one bar. Orchestra returns in A-flat minor half-step up, theremin screaming at highest register, tubular bells fortississimo, every instrument at maximum. No guitars, no vocals.",
+    "title": "Faster Than the Room Can Hold",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, gentle, ambient, soft, lo-fi, vocals, singing",
+    "notes": "v101 — ORCHESTRAL FOOTWORK. Fastest electronic genre ever combined with orchestra. RESEARCH: Wikipedia footwork genre (160 BPM, hyper-rhythmic, syncopated, cut-up samples, Chicago origin), The Script Lab theremin in cinema (sounds like 'otherworldly female singer'), Soundfly important theremin works, Bernard Herrmann's Day the Earth Stood Still. LEARNED: (1) Footwork = 160 BPM abstract dance music — frenetic syncopated sixteenth notes, half-time feel underneath. The fastest genre we've tried. (2) Theremin = touchless electronic instrument that sounds like an eerie singing voice. Shostakovich used it in 1930, Herrmann in 1951 alongside full orchestra. (3) Half-time/double-time duality: brass at 80 BPM feel while strings go 160 BPM = grandeur + chaos simultaneously. IMPROVED: Orchestral footwork (never done, 160 BPM) + theremin (eerie voice-like melody, never used) + tubular bells (ceremonial weight). Concept: 'faster than the room can hold' — the orchestra pushed to its rhythmic limit. G minor→Ab minor. 944 chars.",
+    "tags": [
+      "orchestral-footwork",
+      "theremin",
+      "tubular-bells",
+      "160bpm",
+      "g-minor",
+      "a-flat-minor",
+      "frenetic",
+      "half-time-double-time",
+      "chicago",
+      "synthesis-era",
+      "research-driven",
+      "genre-fusion"
+    ],
+    "_file": "faster-than-the-room-can-hold-v101.yaml",
+    "_slug": "faster-than-the-room-can-hold-v101"
+  },
+  {
     "name": "the-hundredth-room",
     "version": 100,
     "style": "ORCHESTRAL 2-STEP GARAGE with BASS FLUTE MULTIPHONICS + HARP, liquid syncopated elegance, cinematic shuffle groove, C minor to C-sharp minor, 138 BPM, purely instrumental. Bass flute breathes multiphonic chords — two notes at once from a single instrument, deep and breathy like wind through cathedral halls. Harp plays liquid glissandos cascading between syncopated beats. Full symphony strings perform the 2-step shuffle — skippy off-beat rhythms that make the orchestra swing and bounce. Pizzicato cellos provide the deep bassline groove. The build layers harp arpeggios over increasingly complex string syncopations while bass flute sustains breathy drones beneath. Then silence — two beats of nothing. Orchestra returns in C-sharp minor half-step up, full strings fortississimo, harp unleashing a full glissando, bass flute screaming multiphonics at the peak. Every instrument hitting the groove. No guitars, no vocals.",
