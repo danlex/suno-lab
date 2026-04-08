@@ -1,5 +1,32 @@
 [
   {
+    "name": "one-melody-is-enough",
+    "version": 110,
+    "style": "ORCHESTRAL BOLERO with OBOE D'AMORE + VIBRAPHONE, hypnotic cinematic crescendo, one melody building from whisper to earthquake, C major to D-flat major, 72 BPM, purely instrumental. Oboe d'amore introduces the melody alone — sweeter than oboe, baroque warmth singing a single unforgettable theme. Vibraphone joins on the second repetition, adding shimmering metallic sustain beneath. Each repetition adds one more instrument — first solo flute, then clarinet, then strings pizzicato, then full strings bowed, then horns, then trumpets, then trombones. The melody never changes but the orchestration grows relentlessly. Full symphony strings provide the rhythmic ostinato that pulses beneath every repetition like a heartbeat. The build takes the entire piece — from single oboe to full orchestra fortississimo. Then silence — two beats. Orchestra returns in D-flat major half-step up, every instrument playing the melody in thunderous unison. No guitars, no vocals.",
+    "title": "One Melody Is Enough",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, gentle, ambient, lo-fi, vocals, singing, electronic, EDM",
+    "notes": "v110 — ORCHESTRAL BOLERO. First non-electronic genre approach in synthesis era — pure orchestral architecture. RESEARCH: Classical-music.com Ravel Bolero guide (relentless rhythmic repetition, gradual crescendo, timbral layering from solo to full orchestra), Wikipedia Bolero (C major, 3/4 time, pianissimo to fortissimo), Oreate AI bolero in film (mounting tension, dramatic climax). LEARNED: (1) Ravel's Bolero = one melody, never changes, but orchestration grows from solo snare drum + solo flute to FULL ORCHESTRA over 15 minutes. The build IS the piece. (2) Oboe d'amore = baroque oboe pitched between oboe and cor anglais, sweeter tone. Bach's favorite. Never used. (3) Vibraphone struck (not bowed) = warm metallic sustain, jazz-inflected shimmer. IMPROVED: Bolero architecture (one melody repeated with growing orchestration) + oboe d'amore (baroque sweetness, introduces the theme) + vibraphone (metallic shimmer on second repetition). NOT an electronic-genre fusion — pure orchestral concept. C major→Db major. 974 chars.",
+    "tags": [
+      "orchestral-bolero",
+      "oboe-damore",
+      "vibraphone",
+      "72bpm",
+      "c-major",
+      "d-flat-major",
+      "crescendo",
+      "ravel",
+      "one-melody",
+      "timbral-layering",
+      "baroque",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "one-melody-is-enough-v110.yaml",
+    "_slug": "one-melody-is-enough-v110"
+  },
+  {
     "name": "rain-on-a-window-you-remember",
     "version": 109,
     "style": "ORCHESTRAL CHILLHOP with MBIRA + UPRIGHT BASS, warm jazz-inflected cinematic groove, lo-fi orchestral intimacy, E-flat minor to E minor, 80 BPM, purely instrumental. Mbira plays gentle rhythmic patterns — Zimbabwean thumb piano with metal tines creating bell-like melodies that shimmer with each pluck. Upright bass walks a warm pizzicato groove beneath, jazz-rooted and unhurried. Full symphony strings voice rich jazz chords — minor sevenths and ninths that shift color every two bars, lush and intimate. Solo flute weaves ornamental phrases between the mbira patterns. The orchestra breathes like a late-night jazz session, unhurried and warm. The build layers mbira melody over increasingly lush string voicings while upright bass deepens the groove. Then silence — two beats of intimate stillness. Orchestra returns in E minor half-step up, strings in their richest voicing, mbira at its most intricate, upright bass at its deepest, full warmth fortississimo. No guitars, no vocals.",
