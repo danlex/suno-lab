@@ -1,5 +1,33 @@
 [
   {
+    "name": "the-ground-that-holds-everything",
+    "version": 111,
+    "style": "ORCHESTRAL PASSACAGLIA with NYCKELHARPA + HARDANGER FIDDLE + ONDES MARTENOT, haunting Nordic ghost architecture, eight-bar ground bass generating twelve variations of mounting intensity, G minor to A-flat minor, 66 BPM, instrumental. The low orchestra states the ground bass alone — a descending chromatic line repeating unchanged forever. Nyckelharpa enters variation one, Swedish keyed fiddle with sympathetic strings creating spectral reverb. Hardanger fiddle joins the third, Norwegian double-stringed violin with ghost overtones ringing above every note. Ondes Martenot rises in the sixth, the 1928 proto-electronic voice gliding between pitches like a disembodied soprano. The full symphony deepens through the middle variations, building density across every repetition. Silence — eight beats of absolute void. Orchestra returns in A-flat minor half-step up, all three soloists in unison fortississimo. No guitars, no vocals, no drums, no rock.",
+    "title": "The Ground That Holds Everything",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, electronic, EDM, dubstep",
+    "notes": "v111 — ORCHESTRAL PASSACAGLIA. Second consecutive pure-orchestral architecture after v110 Bolero, but inverted form. Bolero = melody constant, orchestration grows. Passacaglia = bass constant, upper voices transform across variations. RESEARCH: Brilliant Classics Basso Ostinato overview (fixed bass motive, set of variations developing improvisatorily, repetition from Gregorian chant through minimalism), MusicTech Natalie Holt interview on Loki score (used Hardanger fiddle, nyckelharpa, Ondomo/Ondes Martenot for Nordic folk textures + early electronic voice for character Sylvie's Frigga connection), Wikipedia passacaglia (Baroque dance form, fixed bass, triple meter, variations increase in tension). LEARNED: (1) Passacaglia architecture — 8-bar ground bass repeats unchanged while the upper voices transform across 12 variations. The obsessive drive of repetition is the emotional engine. (2) Nyckelharpa = Swedish keyed fiddle with sympathetic strings producing natural spectral reverb, medieval origin. Never used in 110 prompts. (3) Hardanger fiddle = Norwegian violin with a second set of understrings ringing above each note, ghost overtones. Never used. (4) Ondes Martenot (via Ondomo in Loki) = 1928 proto-electronic voice, glides between pitches like disembodied soprano. Never used. IMPROVED: Three-soloist architecture (nyckelharpa + hardanger fiddle + ondes martenot, all haunting, all unused) layered over a passacaglia structure (twelve variations of mounting intensity over a descending chromatic ground bass) in G minor → Ab minor half-step at climax. 941 chars.",
+    "tags": [
+      "orchestral-passacaglia",
+      "nyckelharpa",
+      "hardanger-fiddle",
+      "ondes-martenot",
+      "66bpm",
+      "g-minor",
+      "a-flat-minor",
+      "nordic",
+      "baroque-form",
+      "ground-bass",
+      "variations",
+      "synthesis-era",
+      "research-driven",
+      "architectural-form"
+    ],
+    "_file": "the-ground-that-holds-everything-v111.yaml",
+    "_slug": "the-ground-that-holds-everything-v111"
+  },
+  {
     "name": "one-melody-is-enough",
     "version": 110,
     "style": "ORCHESTRAL BOLERO with OBOE D'AMORE + VIBRAPHONE, hypnotic cinematic crescendo, one melody building from whisper to earthquake, C major to D-flat major, 72 BPM, purely instrumental. Oboe d'amore introduces the melody alone — sweeter than oboe, baroque warmth singing a single unforgettable theme. Vibraphone joins on the second repetition, adding shimmering metallic sustain beneath. Each repetition adds one more instrument — first solo flute, then clarinet, then strings pizzicato, then full strings bowed, then horns, then trumpets, then trombones. The melody never changes but the orchestration grows relentlessly. Full symphony strings provide the rhythmic ostinato that pulses beneath every repetition like a heartbeat. The build takes the entire piece — from single oboe to full orchestra fortississimo. Then silence — two beats. Orchestra returns in D-flat major half-step up, every instrument playing the melody in thunderous unison. No guitars, no vocals.",
@@ -29,7 +57,7 @@
   {
     "name": "rain-on-a-window-you-remember",
     "version": 109,
-    "style": "ORCHESTRAL CHILLHOP with MBIRA + UPRIGHT BASS, warm jazz-inflected cinematic groove, lo-fi orchestral intimacy, E-flat minor to E minor, 80 BPM, purely instrumental. Mbira plays gentle rhythmic patterns — Zimbabwean thumb piano with metal tines creating bell-like melodies that shimmer with each pluck. Upright bass walks a warm pizzicato groove beneath, jazz-rooted and unhurried. Full symphony strings voice rich jazz chords — minor sevenths and ninths that shift color every two bars, lush and intimate. Solo flute weaves ornamental phrases between the mbira patterns. The orchestra breathes like a late-night jazz session, unhurried and warm. The build layers mbira melody over increasingly lush string voicings while upright bass deepens the groove. Then silence — two beats of intimate stillness. Orchestra returns in E minor half-step up, strings in their richest voicing, mbira at its most intricate, upright bass at its deepest, full warmth fortississimo. No guitars, no vocals.",
+    "style": "ORCHESTRAL CHILLHOP with MBIRA + UPRIGHT BASS, warm jazz-inflected cinematic groove, E-flat minor to E minor, 80 BPM, purely instrumental. Mbira plays gentle rhythmic patterns — Zimbabwean thumb piano with metal tines creating bell-like melodies that shimmer with each pluck. Upright bass walks a warm pizzicato groove beneath, jazz-rooted and unhurried. Full symphony strings voice rich jazz chords — minor sevenths and ninths that shift color every two bars, lush and intimate. Solo flute weaves ornamental phrases between mbira patterns. The orchestra breathes like a late-night jazz session. The build layers mbira over increasingly lush string voicings while upright bass deepens the groove. Then silence — two beats of intimate stillness. Orchestra returns in E minor half-step up, all voices in full warmth fortississimo. No guitars, no vocals, no drum machines, no rock beats.",
     "title": "Rain on a Window You Remember",
     "lyrics": "",
     "instrumental": true,
