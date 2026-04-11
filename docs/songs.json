@@ -1,5 +1,38 @@
 [
   {
+    "name": "a-cathedral-of-glass",
+    "version": 112,
+    "style": "NEOCLASSICAL FILM SCORE for a lone grief scene, with FELT PIANO + CRISTAL BASCHET + GLASS HARMONICA, post-classical intimate vulnerability expanding into a celestial glass cathedral, A minor to B-flat minor, 72 BPM, instrumental. From 0:00 to 0:30 felt piano plays alone — dampers muting every hammer into breath, single notes trembling in empty space like a lone voice in an empty room. At 0:30 cristal baschet enters, bowed glass rods sustaining celestial tones above the piano. At 1:15 glass harmonica rises, spectral overtones the brain cannot locate, wrapping the piano in moonlight. Chamber strings breathe in at 1:45, deepening the silence between notes. Silence at 2:00 — six beats of absolute stillness. At 2:06 music returns in B-flat minor half-step up, cristal baschet thundering, glass harmonica blooming, felt piano unchanged at the heart of the glass cathedral. No guitars, no vocals, no drums, no pipe organ.",
+    "title": "A Cathedral of Glass",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, ambient drone, lo-fi, vocals, singing, electronic, EDM, dubstep, pipe organ",
+    "notes": "v112 — NEOCLASSICAL FILM SCORE (first time using this exact genre anchor — not 'ORCHESTRAL X'). First cycle with the new harness: novelty_surface.py caught that pipe organ is used 50× and piano 40×, so the Evanescence/Interstellar/Modern-Classical references are delivered via effect not literal Zimmer-instruments. RESEARCH: 2026 Suno prompt corpus (hookgenius.app, soundverse, musci.io) — three techniques extracted and applied for the first time: (1) TIMESTAMPS — 0:00, 0:30, 1:15, 1:45, 2:00, 2:06 give Suno an explicit structural clock. (2) PURPOSE PHRASE — 'film score for a lone grief scene' at the head, replacing vague mood-only openings. (3) GENRE STACKING DISCIPLINE — two-word anchor 'NEOCLASSICAL FILM SCORE', no third genre tag. LEARNED: (a) Felt piano = genuine repo first use per novelty_surface (never in 111 prior prompts). (b) Cristal baschet = revival from v86/v93 (18 versions ago), bowed glass rods producing celestial sustained tones. Daniel Pemberton used cristal baschet in Project Hail Mary score with Thomas Bloch in Paris. (c) Glass harmonica = revival from v32-34/v79 (32 versions ago), spatial disorientation — brain can't locate sound in 1-4kHz range, more ethereal than crystal bowls. (d) Architectural concept 'lone-center-world-grows' — piano is static center, glass structures build the cathedral around it, piano stays. First such inversion (v110 bolero grew orchestration around a constant melody, v111 passacaglia grew variations over a constant bass, v112 grows an instrumental cathedral around a constant piano). IMPROVED: First application of timestamps + purpose phrase + genre discipline simultaneously. Felt piano first use. Three glass/felt textures as a trio (glass + glass + felt) — all substituting for the user's 'Interstellar pipe organ' reference via effect, not literal instrument. A minor→Bb minor half-step at climax. 924 chars.",
+    "tags": [
+      "neoclassical-film-score",
+      "felt-piano",
+      "cristal-baschet",
+      "glass-harmonica",
+      "72bpm",
+      "a-minor",
+      "b-flat-minor",
+      "lone-grief-scene",
+      "lone-center-world-grows",
+      "timestamps",
+      "purpose-phrase",
+      "synthesis-era",
+      "research-driven",
+      "first-use-felt-piano",
+      "revival-cristal-baschet",
+      "revival-glass-harmonica",
+      "evanescence-ref",
+      "interstellar-ref",
+      "modern-classical-ref"
+    ],
+    "_file": "a-cathedral-of-glass-v112.yaml",
+    "_slug": "a-cathedral-of-glass-v112"
+  },
+  {
     "name": "the-ground-that-holds-everything",
     "version": 111,
     "style": "ORCHESTRAL PASSACAGLIA with NYCKELHARPA + HARDANGER FIDDLE + ONDES MARTENOT, haunting Nordic ghost architecture, eight-bar ground bass generating twelve variations of mounting intensity, G minor to A-flat minor, 66 BPM, instrumental. The low orchestra states the ground bass alone — a descending chromatic line repeating unchanged forever. Nyckelharpa enters variation one, Swedish keyed fiddle with sympathetic strings creating spectral reverb. Hardanger fiddle joins the third, Norwegian double-stringed violin with ghost overtones ringing above every note. Ondes Martenot rises in the sixth, the 1928 proto-electronic voice gliding between pitches like a disembodied soprano. The full symphony deepens through the middle variations, building density across every repetition. Silence — eight beats of absolute void. Orchestra returns in A-flat minor half-step up, all three soloists in unison fortississimo. No guitars, no vocals, no drums, no rock.",
@@ -7,7 +40,7 @@
     "lyrics": "",
     "instrumental": true,
     "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, electronic, EDM, dubstep",
-    "notes": "v111 — ORCHESTRAL PASSACAGLIA. Second consecutive pure-orchestral architecture after v110 Bolero, but inverted form. Bolero = melody constant, orchestration grows. Passacaglia = bass constant, upper voices transform across variations. RESEARCH: Brilliant Classics Basso Ostinato overview (fixed bass motive, set of variations developing improvisatorily, repetition from Gregorian chant through minimalism), MusicTech Natalie Holt interview on Loki score (used Hardanger fiddle, nyckelharpa, Ondomo/Ondes Martenot for Nordic folk textures + early electronic voice for character Sylvie's Frigga connection), Wikipedia passacaglia (Baroque dance form, fixed bass, triple meter, variations increase in tension). LEARNED: (1) Passacaglia architecture — 8-bar ground bass repeats unchanged while the upper voices transform across 12 variations. The obsessive drive of repetition is the emotional engine. (2) Nyckelharpa = Swedish keyed fiddle with sympathetic strings producing natural spectral reverb, medieval origin. Never used in 110 prompts. (3) Hardanger fiddle = Norwegian violin with a second set of understrings ringing above each note, ghost overtones. Never used. (4) Ondes Martenot (via Ondomo in Loki) = 1928 proto-electronic voice, glides between pitches like disembodied soprano. Never used. IMPROVED: Three-soloist architecture (nyckelharpa + hardanger fiddle + ondes martenot, all haunting, all unused) layered over a passacaglia structure (twelve variations of mounting intensity over a descending chromatic ground bass) in G minor → Ab minor half-step at climax. 941 chars.",
+    "notes": "v111 — ORCHESTRAL PASSACAGLIA. Second consecutive pure-orchestral architecture after v110 Bolero, but inverted form. Bolero = melody constant, orchestration grows. Passacaglia = bass constant, upper voices transform across variations. RESEARCH: Brilliant Classics Basso Ostinato overview (fixed bass motive, set of variations developing improvisatorily, repetition from Gregorian chant through minimalism), MusicTech Natalie Holt interview on Loki score (used Hardanger fiddle, nyckelharpa, Ondomo/Ondes Martenot for Nordic folk textures + early electronic voice for character Sylvie's Frigga connection), Wikipedia passacaglia (Baroque dance form, fixed bass, triple meter, variations increase in tension). LEARNED: (1) Passacaglia architecture — 8-bar ground bass repeats unchanged while the upper voices transform across 12 variations. The obsessive drive of repetition is the emotional engine. (2) Nyckelharpa = Swedish keyed fiddle with sympathetic strings producing natural spectral reverb, medieval origin. Never used in 110 prompts. (3) Hardanger fiddle = Norwegian violin with a second set of understrings ringing above each note, ghost overtones. Never used. (4) Ondes Martenot (via Ondomo in Loki) = 1928 proto-electronic voice, glides between pitches like disembodied soprano. Previously used in v80 and v85 pre-synthesis era, first use in synthesis era. IMPROVED: Three-soloist architecture (nyckelharpa + hardanger fiddle + ondes martenot, all haunting, all unused) layered over a passacaglia structure (twelve variations of mounting intensity over a descending chromatic ground bass) in G minor → Ab minor half-step at climax. 941 chars.",
     "tags": [
       "orchestral-passacaglia",
       "nyckelharpa",
