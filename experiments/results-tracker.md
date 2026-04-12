@@ -4,6 +4,27 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v124 cycle (first ricercare + ambient drone)
+
+**Submitted:** v124 "The Frequency of Still Water" — ORCHESTRAL AMBIENT RICERCARE with hardanger fiddle + mbira + oboe d'amore. First ricercare form and ambient drone genre.
+
+**What was tried:**
+- Ricercare form: "to search" — slow thematic exploration through imitation. Renaissance precursor to fugue, recontextualized as ambient meditation.
+- Ambient drone genre: sustained tones, gradual textural evolution, meditative pacing. Fused with orchestral instruments.
+- Triple deep revival: hardanger fiddle (v111, 12-gap), mbira (v109, 14-gap), oboe d'amore (v110, 13-gap).
+- F# major (×1, near-virgin) → G major. 50 BPM (never used).
+- Return to major key after v123's minor.
+
+**Why:**
+- Research: Max Richter 2026 Oscar-nominated in ambient/minimalist. Drone music = sustained tones producing ambient soundscapes. Contemporary orchestral ambient = instruments transformed into "undulating ocean."
+- Ricercare was on "not yet explored" list. Its searching quality perfectly matches ambient meditation.
+
+**Open:**
+- Listen to verify drone/ambient texture rendered (not collapsed into standard orchestral)
+- Only Passamezzo remains as unexplored form
+
+---
+
 ## 2026-04-12 — v123 cycle (first sonata form + orchestral noir)
 
 **Submitted:** v123 "Two Voices in the Same Rain" — ORCHESTRAL NOIR SONATA with flugelhorn + tenor saxophone + steel tongue drum. First sonata form and first noir genre in the repo.

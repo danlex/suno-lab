@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v123 (2026-04-12)
+Last updated: v124 (2026-04-12)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v123))
+  root((Suno craft v124))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -27,6 +27,7 @@ mindmap
         Dissolution — starts at max, decays to nothing [v121]
         Concerto grosso — solo group vs full orchestra [v122]
         Sonata — two themes, development, recapitulation [v123]
+        Ricercare — slow searching drone meditation [v124]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -142,6 +143,7 @@ mindmap
 - harpsichord (v121, from v105), bass trombone (v121, from v102), glass marimba (v121, from v103)
 - cor anglais (v122, from v104), music box (v122, from v108), upright bass (v122, from v109)
 - flugelhorn (v123, from v106), tenor saxophone (v123, from v107), steel tongue drum (v123, from v108)
+- hardanger fiddle (v124, from v111), mbira (v124, from v109), oboe d'amore (v124, from v110)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -164,8 +166,9 @@ mindmap
 | Dissolution (inverted) | v121 | Starts at max grandeur, decays to nothing | Done |
 | Concerto grosso | v122 | Solo group (concertino) vs full orchestra (ripieno) | Done |
 | Sonata | v123 | Two themes → development → recapitulation → coda | Done |
+| Ricercare | v124 | Slow searching drone meditation | Done |
 
-**Not yet explored:** Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo.
+**Not yet explored:** Chaconne (rejected — "arbitrary distinction" from passacaglia), Passamezzo.
 
 ## Duration experiment — CONCLUDED
 
@@ -209,6 +212,7 @@ mindmap
 | 121 | Beginning at the End | orchestral dissolution | Db→C MAJOR (DOWN) | 46 | harpsichord + bass trombone + glass marimba |
 | 122 | What the Attic Remembers | orchestral concerto grosso | B→C MAJOR (virgin) | 78 | cor anglais + music box + upright bass |
 | 123 | Two Voices in the Same Rain | orchestral noir sonata | Eb→E minor | 102 | flugelhorn + tenor sax + steel tongue drum |
+| 124 | The Frequency of Still Water | orchestral ambient ricercare | F#→G MAJOR | 50 | hardanger fiddle + mbira + oboe d'amore |
 
 ## Next-cycle priorities
 

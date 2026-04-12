@@ -1,0 +1,16 @@
+name: "the-frequency-of-still-water"
+version: 124
+style: "ORCHESTRAL AMBIENT RICERCARE film score for a still-water-at-dawn scene, total duration 1:00 to 2:00, with HARDANGER FIDDLE + MBIRA + OBOE D'AMORE, slow searching meditation where each voice explores the same theme through sustained drone textures, F-sharp major to G major, 50 BPM, instrumental. From 0:00 hardanger fiddle enters with sustained bowing — sympathetic strings humming beneath a slow melody, each note held until it dissolves. At 0:20 mbira joins, tiny metallic repetitions pulsing within the drone like ripples on glass. At 0:45 oboe d'amore rises slowly, warm double-reed singing the searching theme above the texture. At 1:10 all three voices sustain together while orchestra adds deep pads of string harmony beneath. Silence at 1:25 — the drone thins to one held note. At 1:28 music blooms in G major half-step up, all voices fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "The Frequency of Still Water"
+lyrics: |
+  [Sustained Opening]
+  [Drone Entry]
+  [Searching Theme]
+  [Layered Texture]
+  [Silence]
+  [Return]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, Norwegian folk, African folk"
+notes: "v124 — ORCHESTRAL AMBIENT RICERCARE. First ricercare form and first ambient drone genre in 123 prior prompts. Ricercare = 'to search' in Italian, a Renaissance form where a theme is explored slowly through imitation. Combined with ambient drone aesthetics: sustained tones, gradual textural evolution, meditative pacing. RESEARCH: MasterClass drone music guide (2026) — sustained tones producing ambient, minimalist soundscapes. ModeAudio orchestral textures — concert orchestra transformed into 'undulating ocean of refracting audio.' Max Richter nominated for 98th Academy Awards 2026 in ambient/minimalist territory. Contemporary ambient = subtle evolution over time, changes in tone and filter. INSTRUMENTS: Hardanger fiddle (v111, 12-version gap) = Norwegian fiddle with sympathetic resonance strings underneath the played strings — natural drone instrument, each note produces a halo of overtones. Added 'Norwegian folk' to exclude_styles. Mbira (v109, 14-version gap) = African thumb piano, tiny metallic tines plucked in repetitive patterns, meditative and hypnotic. Added 'African folk' to exclude. Oboe d'amore (v110, 13-version gap) = Baroque alto oboe, slightly lower and warmer than standard oboe, the 'oboe of love.' The trio covers bowed-drone / plucked-metallic / sustained-woodwind. NOVELTY: Ricercare = new form. Ambient drone = new genre. 50 BPM = never used. F# major (×1) = near-virgin key. Return to major key after v123's minor. 943 chars."
+tags: [orchestral-ambient-ricercare, hardanger-fiddle, mbira, oboe-d-amore, 50bpm, f-sharp-major, g-major, drone-texture, still-water, meditative, searching-theme, deep-revival-hardanger-fiddle, deep-revival-mbira, deep-revival-oboe-d-amore, new-form, new-genre, new-bpm, rare-key, synthesis-era, research-driven]
