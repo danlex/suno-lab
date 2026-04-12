@@ -4,6 +4,33 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v126 cycle (first 20th-century avant-garde + horror)
+
+**Submitted:** v126 "A Room That Breathes On Its Own" — ORCHESTRAL MICROPOLYPHONY HORROR with clavichord + viola da gamba + mellotron.
+
+**What was tried:**
+- First move beyond classical architectural forms (15 done) into 20th-century avant-garde: MICROPOLYPHONY. Technique: many independent voices sliding through narrow intervals forming a dense cloud of sound with no discernible melody.
+- First HORROR genre. The technique is famously associated with psychological horror film scoring (The Shining).
+- Trio: clavichord (v113, 12-gap) + viola da gamba (v113, 12-gap) + mellotron (v116, 9-gap). Three haunted-intimate timbres from three eras (Renaissance/Renaissance/1960s).
+- Ab minor (×1, near-virgin) → A minor. 68 BPM (never used).
+- Terror/dread emotion (new territory).
+
+**Why:**
+- With all 15 classical forms complete, the next frontier is 20th-century avant-garde techniques.
+- Research: Wikipedia + Britannica confirm micropolyphony (Ligeti 1958-61, Apparitions + Atmosphères). Now called "sonorism." Used in The Shining, 2001, Shutter Island.
+- Did NOT name the composer or films directly (composer/artist names are blocklist).
+
+**What we learned:**
+- First Create click failed silently — form still showed pre-submit state after 20s. Second click went through. Possible cause: the initial scroll_to may not have had the button fully in viewport, or a transient Suno UI state blocked the click.
+- v125 "Every Step Is the Same Step" completed: **2:33 and 2:54**. Both exceed 2:00 cap — continuing pattern that Suno ignores duration constraints.
+
+**Open:**
+- Listen to v126 to verify micropolyphonic cloud texture rendered (or collapsed into harmony)
+- Next: other avant-garde techniques — spectral music, minimalism (Reich phasing), aleatoric, 12-tone
+- Or: new emotional territories — ecstasy, triumph, serenity, resolve
+
+---
+
 ## 2026-04-12 — v125 cycle (last unexplored form + deepest revival)
 
 **Submitted:** v125 "Every Step Is the Same Step" — ORCHESTRAL PASSAMEZZO with balafon + hurdy gurdy + shakuhachi. Last unexplored form complete.

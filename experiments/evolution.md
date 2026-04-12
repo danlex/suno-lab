@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v125 (2026-04-12)
+Last updated: v126 (2026-04-12)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v125))
+  root((Suno craft v126))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -29,6 +29,7 @@ mindmap
         Sonata — two themes, development, recapitulation [v123]
         Ricercare — slow searching drone meditation [v124]
         Passamezzo — repeating ground bass, obsessive [v125]
+        Micropolyphony — dense cloud, no melody [v126]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -146,6 +147,7 @@ mindmap
 - flugelhorn (v123, from v106), tenor saxophone (v123, from v107), steel tongue drum (v123, from v108)
 - hardanger fiddle (v124, from v111), mbira (v124, from v109), oboe d'amore (v124, from v110)
 - balafon (v125, from v106 — **18-gap, deepest revival of this session**), hurdy gurdy (v125, from v113), shakuhachi (v125, from v114)
+- clavichord (v126, from v113), viola da gamba (v126, from v113), mellotron (v126, from v116)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -170,8 +172,9 @@ mindmap
 | Sonata | v123 | Two themes → development → recapitulation → coda | Done |
 | Ricercare | v124 | Slow searching drone meditation | Done |
 | Passamezzo | v125 | Repeating ground bass, obsessive | Done |
+| Micropolyphony | v126 | 20th-century dense cloud, no melody | Done |
 
-**Not yet explored:** Chaconne (rejected — "arbitrary distinction" from passacaglia). **All classical architectural forms complete.** Next direction: new genre fusions, new emotional territories, duo/solo experiments.
+**Classical forms complete.** Next frontier: 20th-century avant-garde techniques (spectral, minimalism, aleatoric, 12-tone) and new emotional territories.
 
 ## Duration experiment — CONCLUDED
 
@@ -217,6 +220,7 @@ mindmap
 | 123 | Two Voices in the Same Rain | orchestral noir sonata | Eb→E minor | 102 | flugelhorn + tenor sax + steel tongue drum |
 | 124 | The Frequency of Still Water | orchestral ambient ricercare | F#→G MAJOR | 50 | hardanger fiddle + mbira + oboe d'amore |
 | 125 | Every Step Is the Same Step | orchestral passamezzo | Bb→B minor | 124 | balafon + hurdy gurdy + shakuhachi |
+| 126 | A Room That Breathes On Its Own | orchestral micropolyphony horror | Ab→A minor | 68 | clavichord + viola da gamba + mellotron |
 
 ## Next-cycle priorities
 
