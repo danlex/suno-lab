@@ -1,12 +1,12 @@
 # Suno Music Prompt Laboratory
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Site-danlex.github.io%2Fsuno--lab-ff6a3d?style=for-the-badge&logo=github)](https://danlex.github.io/suno-lab/)
-[![Experiments](https://img.shields.io/badge/Experiments-100-ffb347?style=for-the-badge)](https://danlex.github.io/suno-lab/)
+[![Live Site](https://img.shields.io/badge/Live%20Site-suno.alexandrudan.com-ff6a3d?style=for-the-badge&logo=github)](https://suno.alexandrudan.com)
+[![Experiments](https://img.shields.io/badge/Experiments-122+-ffb347?style=for-the-badge)](https://suno.alexandrudan.com)
 [![Suno Version](https://img.shields.io/badge/Suno-v5.5-7a7a90?style=for-the-badge)](https://suno.com)
 
-A searchable archive of **100 iterative prompt engineering experiments** for [Suno AI](https://suno.com) music generation. Each experiment is a handcrafted prompt exploring cinematic, orchestral, and experimental music — with full style descriptions, structural metatags, and engineering notes.
+A searchable archive of **122+ iterative prompt engineering experiments** for [Suno AI](https://suno.com) music generation. Each experiment is a handcrafted prompt exploring cinematic, orchestral, and experimental music — with full style descriptions, structural metatags, embedded Suno players, and engineering notes.
 
-**[Browse the live archive](https://danlex.github.io/suno-lab/)**
+**[Browse the live archive](https://suno.alexandrudan.com)**
 
 ---
 
@@ -14,7 +14,7 @@ A searchable archive of **100 iterative prompt engineering experiments** for [Su
 
 Suno AI generates complete songs (vocals, instruments, lyrics) from text prompts in under 60 seconds. But getting from a generic output to something that sounds intentional — cinematic, emotionally precise, structurally coherent — requires serious prompt engineering.
 
-This repository documents that process: **100 experiments** spanning orchestral, cinematic, electronic-orchestral fusion, and experimental music. Each prompt is versioned, tagged, and annotated with notes about what worked, what didn't, and why.
+This repository documents that process: **122+ experiments** spanning orchestral, cinematic, electronic-orchestral fusion, and experimental music. Each prompt is versioned, tagged, and annotated with notes about what worked, what didn't, and why.
 
 ## What You'll Find
 
@@ -65,14 +65,14 @@ tags: [orchestral, cinematic, silence-before-climax]
 - **Prompt format:** YAML with structured metatags
 - **Site generator:** Python (`scripts/build_site.py`)
 - **Frontend:** Vanilla HTML/CSS/JS, dark theme, client-side search
-- **Hosting:** GitHub Pages
+- **Hosting:** GitHub Pages at [suno.alexandrudan.com](https://suno.alexandrudan.com)
 - **AI model:** Suno v5.5 (March 2026)
 - **Automation:** Claude Code with browser automation for prompt submission
 
 ## Repository Structure
 
 ```
-prompts/           # YAML prompt experiments (100 files)
+prompts/           # YAML prompt experiments (122+ files)
 docs/              # GitHub Pages site
   index.html       # Searchable archive UI
   songs.json       # Compiled prompt data
