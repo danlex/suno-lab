@@ -18,8 +18,8 @@ Run one full autonomous cycle in `/Users/adan/work/claude/code/suno`:
    - Genre anchor (2 words max, "NEOCLASSICAL FILM SCORE" style)
    - **Purpose phrase** ("for a X scene", "underscore for Y")
    - **3-instrument featured trio** in ALL CAPS after "with" — check `experiments/novelty_surface.json` to ensure at least one is genuinely new (zero prior uses) or a deep revival (>15 versions old)
-   - **Target duration: ~1 minute.** Every new prompt must explicitly say "total duration 1:00" (or "60-second piece" / "one-minute film cue" / "1-minute miniature") early in the style field. All timestamps must fit under 0:60. The whole arc (entry → build → silence → return → end) has to compress into under a minute. See the one-minute arc template below.
-   - **Explicit timestamps** — at least 3 time anchors *within 0:00–0:60* (e.g., 0:00 / 0:15 / 0:35 / silence at 0:45 / return at 0:48 / end at 0:58)
+   - **Target duration: 1–2 minutes, not longer.** Every new prompt must explicitly say "total duration 1:00 to 2:00" (or "60–120 seconds" / "one-to-two-minute film cue") early in the style field. All timestamps must fit under 2:00. The whole arc (entry → build → silence → return → end) compresses into ≤2 minutes, with 0:60 being the floor target. See the short-form arc template below.
+   - **Explicit timestamps** — at least 3 time anchors *within 0:00–2:00* (e.g., 0:00 / 0:20 / 0:45 / silence at 1:10 / return at 1:15 / end at 1:50)
    - Key with half-step modulation (e.g., "D minor to Eb minor")
    - BPM
    - Silence-before-climax + return, compressed — silence is 2–4 beats, not 6–8
@@ -28,19 +28,33 @@ Run one full autonomous cycle in `/Users/adan/work/claude/code/suno`:
    - Detailed `notes` field explaining what was researched, what was learned, what's novel
    - Accurate `tags` field
 
-### One-minute arc template
+### Short-form arc template (1–2 minutes)
 
+Choose whichever fits the concept better — tight 1-minute miniature or longer 2-minute cue — but **never exceed 2:00**.
+
+**1-minute miniature:**
 ```
-0:00 — first featured instrument enters alone (10–15 seconds of exposure)
-0:15 — second featured instrument joins, texture starts thickening
-0:30 — third featured instrument rises, orchestra begins to bloom
-0:42 — peak density reached (the "climb")
-0:45 — silence (2–4 beats, 2–3 seconds)
+0:00 — first featured instrument enters alone (12 seconds)
+0:12 — second instrument joins, texture thickens
+0:28 — third instrument rises, orchestra blooms
+0:42 — peak density
+0:45 — silence (2–3 seconds)
 0:48 — return half-step up, fortississimo
 0:58 — end
 ```
 
-Each timestamp is a hint, not a command — you can shift ±3 seconds per section. What matters is total duration under 1:00.
+**2-minute cue:**
+```
+0:00 — first featured instrument enters alone (20 seconds)
+0:20 — second instrument joins
+0:45 — third instrument rises, orchestra blooms through the middle
+1:20 — peak density
+1:25 — silence (3–5 seconds)
+1:30 — return half-step up, fortississimo
+1:50 — end
+```
+
+Each timestamp is a hint, you can shift ±5 seconds per section. **What matters is total duration 1:00–2:00, never longer.**
 
 5. **Judge** via `/judge prompts/[file].yaml`. Must score ≥90 on the 12-criterion rubric. Iterate up to 5 times if below. If still <90 after 5 iterations, **abort this cycle** — log to `experiments/cron_failures.md` with the score table and the reason, and exit without submitting.
 
