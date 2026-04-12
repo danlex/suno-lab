@@ -1,0 +1,16 @@
+name: "beginning-at-the-end"
+version: 121
+style: "ORCHESTRAL DISSOLUTION underscore for a ceremony ending in rain, total duration 1:00 to 2:00, with HARPSICHORD + BASS TROMBONE + GLASS MARIMBA, beginning at maximum grandeur and dissolving to nothing, D-flat major to C major half-step down, 46 BPM, instrumental. From 0:00 full orchestra enters at fortississimo — ceremonial wall of sound with harpsichord cutting through, bass trombone anchoring the depths, glass marimba shimmering above. At 0:25 strings withdraw, leaving brass and percussion exposed. At 0:45 brass recedes, harpsichord and glass marimba alone in crystalline delicacy. At 1:05 bass trombone falls silent, only harpsichord and glass marimba whispering. At 1:20 glass marimba fades, harpsichord alone in C major half-step down, each note softer and further apart. At 1:40 single harpsichord notes dissolving into nothing. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no crescendo, no build-up."
+title: "Beginning at the End"
+lyrics: |
+  [Fortississimo Opening]
+  [First Withdrawal]
+  [Stripping Away]
+  [Whispered Duet]
+  [Solo Dissolution]
+  [Silence]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, Baroque, period music, early music, zen meditation, new age"
+notes: "v121 — ORCHESTRAL DISSOLUTION. INVERTED ARC: Every prior synthesis-era piece builds from nothing to climax. This one starts at MAXIMUM and decays to nothing. The arc is reversed — not a build, a controlled collapse. (1) First INVERTED MODULATION — half-step DOWN (Db major → C major) instead of the standard half-step up. Every prior modulation went UP. (2) First DECAY FORM — instruments are subtracted one by one. The piece loses voices instead of gaining them. (3) First 'no crescendo, no build-up' in negative prompts — explicitly forbidding the default arc. (4) 46 BPM — near-bottom of the range (only 44 and 36 slower). Ultra-slow dissolution. (5) Db major — used only twice, and the target C major only twice. Both relatively rare keys. (6) 'underscore' instead of 'film score' — breaking another formula. INSTRUMENTS: Harpsichord (v105, 14-version gap) = sharp, plucked-string keyboard, cuts through texture with metallic precision. Suno should know harpsichord well. Added 'Baroque, period music, early music' to exclude_styles to prevent full Baroque triggering. Bass trombone (v102, 17-version gap) = lowest standard trombone, dark orchestral anchor. Glass marimba (v103, 16-version gap) = tuned glass bars, crystalline shimmer. All three are deep revivals (14-17 version gaps). The trio covers keyboard/brass/percussion — and the glass marimba dissolving before the harpsichord creates a textural journey from full to sparse to naked to silence. 921 chars."
+tags: [orchestral-dissolution, harpsichord, bass-trombone, glass-marimba, 46bpm, d-flat-major, c-major, inverted-arc, decay-form, half-step-down, ceremony-in-rain, deep-revival-harpsichord, deep-revival-bass-trombone, deep-revival-glass-marimba, no-crescendo, pattern-breaking, slowest-synthesis-era]

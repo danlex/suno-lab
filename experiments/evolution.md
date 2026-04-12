@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v119 (2026-04-12)
+Last updated: v121 (2026-04-12)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v119))
+  root((Suno craft v121))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -23,6 +23,8 @@ mindmap
         Arch form — palindromic ABCBA [v114]
         Rondo — iterative refrain ABACA [v115]
         Theme-and-variations — same melody, different timbres [v119]
+        Canon/round — voices chase in perpetual imitation [v120]
+        Dissolution — starts at max, decays to nothing [v121]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -65,6 +67,9 @@ mindmap
       Technique fusion — new category
         Orchestral glitch v118 — first technique not genre
         Theme-and-variations v119 — triple deep revival
+      Pattern-breaking batch v120-v121
+        Canon v120 — MAJOR key, DUO, joyful, 152 BPM
+        Dissolution v121 — inverted arc, half-step DOWN
       Pure orchestral forms
         Bolero v110, Passacaglia v111
         Lone-center v112, Fugue v113
@@ -131,6 +136,8 @@ mindmap
 - kora (v118, from v31 — **86-version gap, deepest revival in repo**)
 - subcontrabass sax (v118, from v86), celesta (v118, from v99)
 - theremin (v119, from v101), tubular bells (v119, from v101), contrabassoon (v119, from v103)
+- bass flute (v120, from v100), steelpan (v120, from v107)
+- harpsichord (v121, from v105), bass trombone (v121, from v102), glass marimba (v121, from v103)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -149,8 +156,10 @@ mindmap
 | Arch form (ABCBA) | v114 | Palindromic mirror | Done |
 | Rondo (ABACA) | v115 | Iterative refrain returns | Done |
 | Theme-and-variations | v119 | Same melody through different timbres | Done |
+| Canon/round | v120 | Voices chase in perpetual imitation | Done |
+| Dissolution (inverted) | v121 | Starts at max grandeur, decays to nothing | Done |
 
-**Not yet explored:** Sonata form (exposition-dev-recap), Canon/Round, Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo, Concerto grosso (solo group vs full ensemble).
+**Not yet explored:** Sonata form (exposition-dev-recap), Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo, Concerto grosso (solo group vs full ensemble).
 
 ## Duration experiment — CONCLUDED
 
@@ -187,11 +196,11 @@ mindmap
 
 | v | Title | Genre | Key | BPM | Featured trio |
 |---|-------|-------|-----|-----|---------------|
-| 115 | What Keeps Coming Back | neoclassical rondo | F→F# minor | 84 | cornet + cimbalom + frame drums |
-| 116 | The Room After Everyone Left | orchestral future garage | B→C minor | 130 | mellotron + handpan + piccolo |
 | 117 | The Bell That Wept | gothic symphonic neoclassical | C#→D minor | 76 | bandoneon + erhu + glockenspiel |
 | 118 | What Happens When the Music Breaks | orchestral glitch | Bb→B minor | 95 | kora + subcontrabass sax + celesta |
 | 119 | The Same Story Told Three Ways | orchestral theme-and-variations | F#→G minor | 62 | theremin + tubular bells + contrabassoon |
+| 120 | Every Voice Chasing the Last | orchestral canon | G→Ab MAJOR | 152 | bass flute + steelpan (DUO) |
+| 121 | Beginning at the End | orchestral dissolution | Db→C MAJOR (DOWN) | 46 | harpsichord + bass trombone + glass marimba |
 
 ## Next-cycle priorities
 
@@ -202,7 +211,7 @@ mindmap
 5. ~~Revive pre-synthesis instruments~~ ✅ (kora v118 = deepest at 86-version gap)
 6. ~~Return to electronic fusion~~ ✅ (v116 future garage, v118 glitch)
 7. ~~Try theme-and-variations or sonata form~~ ✅ (v119 theme-and-variations)
-8. Try a duo (2 instruments) instead of trio — test whether fewer instruments = more Suno focus
+8. ~~Try a duo (2 instruments) instead of trio~~ ✅ (v120 bass flute + steelpan duo)
 9. Fix novelty_surface.py negative-prompt counting bug
 10. Codify /suno skill submission fixes (5 fixes logged in results-tracker)
 11. Stop including duration language in new prompts — use freed chars for better description

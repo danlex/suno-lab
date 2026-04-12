@@ -4,6 +4,41 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v120 + v121 cycle (maximum pattern-breaking batch)
+
+**Submitted:** v120 "Every Voice Chasing the Last" — ORCHESTRAL CANON with bass flute + steelpan (DUO). v121 "Beginning at the End" — ORCHESTRAL DISSOLUTION with harpsichord + bass trombone + glass marimba.
+
+**Patterns broken in v120:**
+- First MAJOR KEY in synthesis era (G major, every v93-v119 was minor)
+- First DUO instead of trio (evolution.md priority #8)
+- First CANON/ROUND form (new architectural form)
+- First JOYFUL emotion (all prior were melancholic/dark)
+- 152 BPM (fastest in synthesis era)
+- NO silence-before-climax (breaking the "always use" default)
+- "processional" instead of "film score for X scene"
+
+**Patterns broken in v121:**
+- First INVERTED ARC (starts at fortississimo, decays to nothing)
+- First half-step DOWN modulation (Db major → C major, all prior went UP)
+- First "no crescendo, no build-up" negative prompts
+- 46 BPM (near-bottom of range)
+- "underscore" instead of "film score"
+
+**What we learned:**
+- **v120 clips: 0:54 and 0:56** — both under the 1-minute floor despite "total duration 1:00 to 2:00" language. At 152 BPM, Suno produced very short clips. Reinforces: duration is NOT prompt-controllable, and faster tempo may correlate with shorter output.
+- **Double-submission bug recurred.** First Create click appeared to fail (songs didn't show in workspace for ~15 seconds), so I clicked again. Both went through = 4 clips instead of 2. Same as v114. Lesson: ALWAYS wait 20+ seconds before assuming failure. Never re-click Create.
+- **v121 clips:** still generating at time of commit.
+
+**Harness lesson:** Add 20-second minimum wait after Create click before checking workspace. The workspace may lag behind the actual generation start.
+
+**Open:**
+- Listen to v120 to hear if Suno renders a canon/round in major key
+- Listen to v121 to hear if Suno renders a decay arc (starts loud, ends quiet)
+- Try sonata form or concerto grosso next
+- Still open: try duo vs trio comparison (v120 = first duo)
+
+---
+
 ## 2026-04-12 — v119 cycle (first theme-and-variations + triple deep revival)
 
 **Submitted:** v119 "The Same Story Told Three Ways" — ORCHESTRAL THEME AND VARIATIONS with theremin + tubular bells + contrabassoon. First theme-and-variations form in the repo. All three instruments are deep revivals (15-17 version gaps). Clip 1: 1:43. Clip 2: pending.

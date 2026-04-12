@@ -1,0 +1,16 @@
+name: "every-voice-chasing-the-last"
+version: 120
+style: "ORCHESTRAL CANON processional for a harvest celebration, total duration 1:00 to 2:00, with BASS FLUTE + STEELPAN, two voices chasing the same joyful melody in perpetual round, G major to A-flat major, 152 BPM, instrumental. From 0:00 bass flute enters alone — warm breathy melody dancing upward in bright major triumph. At 0:15 steelpan enters the same melody one bar behind, bright metallic echo chasing the flute as the round begins weaving. At 0:35 both voices interlock, string orchestra adding harmonic warmth beneath. At 0:55 brass joins, the round expanding into full orchestral celebration. At 1:15 the chase accelerates toward ecstatic peak, both voices climbing. At 1:30 maximum density in A-flat major half-step up, exultant fortississimo. At 1:45 bass flute and steelpan alone for the round's final notes. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers, no minor key."
+title: "Every Voice Chasing the Last"
+lyrics: |
+  [Short Instrumental Intro]
+  [Canon Entry]
+  [Round Weaving]
+  [Full Celebration]
+  [Ecstatic Peak]
+  [Final Notes]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, Caribbean, reggae, calypso, soca, zen meditation, new age"
+notes: "v120 — ORCHESTRAL CANON. MAXIMUM PATTERN-BREAKING: (1) First MAJOR KEY in synthesis era — G major (×1, near-virgin). Every v93-v119 was minor. (2) First DUO instead of trio — evolution.md priority #8. Testing whether fewer instruments = more Suno focus. (3) First CANON/ROUND form — voices enter in imitation, chasing each other in perpetual round. New form not yet explored. (4) First JOYFUL emotion — every synthesis-era piece was melancholic/dark/grief. This is celebration, triumph, ecstasy. (5) 152 BPM — fastest in synthesis era, fastest since v94 (174 BPM). (6) NO silence-before-climax — breaking the 'always use' default. The canon form builds continuously, no gap. (7) 'processional' instead of 'film score for X scene' — breaking the purpose-phrase formula. RESEARCH: Canon form from Pachelbel (D major, which confirms major key + canon is historically validated) through contemporary orchestral canons. Two voices in perpetual round = infinite recursive beauty. INSTRUMENTS: Bass flute (v100, 19-version gap — deepest available revival) = warm, breathy, low woodwind. Steelpan (v107, 12-version gap) = bright, metallic, Caribbean percussion repurposed for orchestral celebration. Maximum timbral contrast: warm/breathy vs bright/metallic. Added 'Caribbean, reggae, calypso, soca' to exclude_styles to prevent steelpan from triggering Caribbean genres. 899 chars."
+tags: [orchestral-canon, bass-flute, steelpan, 152bpm, g-major, a-flat-major, major-key, duo-not-trio, joyful, celebration, processional, no-silence, deep-revival-bass-flute, revival-steelpan, new-form, pattern-breaking, fastest-synthesis-era]
