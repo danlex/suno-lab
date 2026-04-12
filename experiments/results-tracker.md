@@ -4,6 +4,31 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v123 cycle (first sonata form + orchestral noir)
+
+**Submitted:** v123 "Two Voices in the Same Rain" — ORCHESTRAL NOIR SONATA with flugelhorn + tenor saxophone + steel tongue drum. First sonata form and first noir genre in the repo.
+
+**What was tried:**
+- First sonata form: exposition (Theme A by flugelhorn / Theme B by tenor sax) → development (fragmentation) → recapitulation (themes return transformed) → coda. The most sophisticated classical structure.
+- Orchestral noir genre: dark chromatic harmonies, smoky atmosphere, tense romanticism. Fuses neo-noir small-ensemble intimacy with full orchestral power.
+- Triple deep revival: flugelhorn (v106, 16-gap), tenor saxophone (v107, 15-gap), steel tongue drum (v108, 14-gap).
+- Return to minor key (Eb minor → E minor) after 3 consecutive major-key experiments.
+- 102 BPM (never used).
+
+**Why:**
+- Research: Sonokinetic Noir library specifically features flugelhorn and tenor saxophone as core noir instruments, validating the instrument choices.
+- Sonata form was the last major classical form on the "not yet explored" list. Its two-theme structure maps naturally to noir storytelling (detective vs mystery).
+
+**What we learned:**
+- **Chrome 0-width viewport bug.** First submission attempt was on a tab with 0x0 viewport — all form_input calls "succeeded" but the form was invisible. Created a new tab to get a working viewport. Lesson: always verify viewport dimensions before submitting.
+- v122 "What the Attic Remembers" visible in workspace (generating when checked).
+
+**Open:**
+- Listen to v123 to verify sonata two-theme structure rendered
+- Only Ricercare and Passamezzo remain as unexplored forms
+
+---
+
 ## 2026-04-12 — v122 cycle (first concerto grosso + virgin key)
 
 **Submitted:** v122 "What the Attic Remembers" — ORCHESTRAL CONCERTO GROSSO with cor anglais + music box + upright bass as concertino vs full orchestra ripieno. Generating.
