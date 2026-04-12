@@ -1,5 +1,37 @@
 [
   {
+    "name": "the-question-that-keeps-being-asked",
+    "version": 113,
+    "style": "NEOCLASSICAL FUGUE FILM SCORE for a slow grief scene, total duration 1:00 to 2:00, with CLAVICHORD + HURDY GURDY + VIOLA DA GAMBA, three Baroque voices answering each other through a descending subject, E minor to F minor, 60 BPM, instrumental. From 0:00 clavichord states the subject alone — intimate keyboard tones trembling in the stillness of an empty chapel. At 0:20 hurdy gurdy enters with the answer a fifth above, wheel-fiddle drone weaving around the clavichord. At 0:45 viola da gamba rises with the subject in its deepest voice, Baroque bowed strings grounding the conversation. From 1:00 all three voices counterpoint in stretto, entries crowding closer. Chamber strings bloom at 1:10. Silence at 1:25 — three beats of stillness. At 1:30 music returns in F minor half-step up, three voices in unison over a chamber swell, fortississimo. Ends at 1:50. No guitars, no vocals, no drums, no pipe organ.",
+    "title": "The Question That Keeps Being Asked",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, ambient drone, lo-fi, vocals, singing, electronic, EDM, pipe organ",
+    "notes": "v113 — NEOCLASSICAL FUGUE FILM SCORE. First architectural form: Fugue (imitative polyphony, three voices entering in sequence with answer a fifth above, stretto compression at climax). First 1–2 minute duration cap applied per new constraint — targeting 1:50 end with compressed silence (3 beats not 6). RESEARCH: Festivaltopia/filmscoresfocus 'How Classical Music Influenced Modern Film Scores' (2026), Classic107 'Inside the 2026 Oscar Nominees for Best Original Score', forum discussions on Baroque fugal structures in contemporary scoring. LEARNED: (1) Bach fugue harmonic progressions appear in layered string sections of modern film scores, building complexity without overwhelming dialogue. Fugues survive in 2026 film scoring but are compressed — full Baroque fugues run 5+ minutes, film-cue fugues compress to under 2 minutes via stretto-heavy endings. (2) Clavichord (never used in 112 prior prompts per novelty_surface) = intimate keyboard ancestor of piano, Bach's preferred practice instrument, tones trembling rather than sustaining. (3) Hurdy gurdy (never used) = medieval/Baroque wheel-fiddle producing simultaneous drone and melody from a rosined wheel — folk-to-art-music crossover instrument. (4) Viola da gamba (never used) = Baroque bowed instrument tuned like a guitar, lowest-voice option in Baroque consorts, melancholy dark tone. (5) All three instruments are Baroque-era where fugue tradition lived — the form and instruments are historically coupled. IMPROVED: First fugue form. Three never-used Baroque instruments as a historically-coherent trio. Compressed 1-to-2-minute arc with stretto at 1:00, silence at 1:25, return at 1:30, end at 1:50. First use of new 1–2 minute duration constraint. E minor → F minor half-step at climax. 910 chars.",
+    "tags": [
+      "neoclassical-fugue",
+      "clavichord",
+      "hurdy-gurdy",
+      "viola-da-gamba",
+      "60bpm",
+      "e-minor",
+      "f-minor",
+      "baroque-form",
+      "stretto",
+      "film-score",
+      "2-minute-cue",
+      "first-use-clavichord",
+      "first-use-hurdy-gurdy",
+      "first-use-viola-da-gamba",
+      "duration-constraint",
+      "slow-grief-scene",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "the-question-that-keeps-being-asked-v113.yaml",
+    "_slug": "the-question-that-keeps-being-asked-v113"
+  },
+  {
     "name": "a-cathedral-of-glass",
     "version": 112,
     "style": "NEOCLASSICAL FILM SCORE for a lone grief scene, with FELT PIANO + CRISTAL BASCHET + GLASS HARMONICA, post-classical intimate vulnerability expanding into a celestial glass cathedral, A minor to B-flat minor, 72 BPM, instrumental. From 0:00 to 0:30 felt piano plays alone — dampers muting every hammer into breath, single notes trembling in empty space like a lone voice in an empty room. At 0:30 cristal baschet enters, bowed glass rods sustaining celestial tones above the piano. At 1:15 glass harmonica rises, spectral overtones the brain cannot locate, wrapping the piano in moonlight. Chamber strings breathe in at 1:45, deepening the silence between notes. Silence at 2:00 — six beats of absolute stillness. At 2:06 music returns in B-flat minor half-step up, cristal baschet thundering, glass harmonica blooming, felt piano unchanged at the heart of the glass cathedral. No guitars, no vocals, no drums, no pipe organ.",

@@ -4,6 +4,42 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v113 cycle (first 1–2 minute duration test)
+
+**Submitted:** v113 "The Question That Keeps Being Asked" — NEOCLASSICAL FUGUE FILM SCORE with clavichord + hurdy gurdy + viola da gamba. First fugue form in the repo. Three never-used Baroque instruments as a historically-coherent trio.
+
+**What was tried:**
+- First application of the new 1–2 minute song duration constraint. Prompt included "total duration 1:00 to 2:00" in the first 200 chars + compressed arc template (0:00/0:20/0:45/1:00/1:25 silence/1:30 return/1:50 end).
+- First Baroque fugue form: three voices imitative entry (clavichord subject → hurdy gurdy answer a fifth up → viola da gamba subject in deepest voice), stretto at 1:00, silence at 1:25.
+
+**Why:**
+- User direction: songs should be 1–2 minutes, never longer.
+- Evolution.md "next-cycle priorities" called for trying an architectural form not yet explored. Fugue was the top choice.
+- Novelty surface confirmed all three instruments were repo first-uses.
+
+**What we learned — MAJOR:**
+- **Duration hint WORKS.** Suno produced versions of **1:08** and **0:44** — both under the 2:00 cap. The 1:08 is within the 1–2 minute target zone; the 0:44 actually undershot the 1:00 floor. This confirms Suno honors "total duration 1:00 to 2:00" language in the style field — the timestamps + duration phrase are load-bearing, not decorative.
+- **0:44 undershoot is a new failure mode to address.** The prompt said "1:00 to 2:00" but Suno produced a sub-minute song for one of the two versions. Likely causes: (a) the silence+end instruction at 1:25-1:50 got truncated, (b) Suno's length model averaged across "1:00" and "2:00" and picked a shorter target. Candidate fix for next cycle: change "total duration 1:00 to 2:00" to "total duration 1:30 to 2:00" or add "do not shorten below 1:00".
+- **Fugue as a form: unknown until we listen.** Did Suno actually produce three imitative voices, or did it collapse them into homophony? Verify by listening.
+
+**Submission incident — the form-hijack bug:**
+- After I clicked Create successfully for v113, a Suno detail panel for an unrelated song ("The Purpose of Life") opened and replaced the form fields with the detail-song's values. This did NOT affect my v113 submission (it had already gone through), but it masked the success — when I inspected the form afterwards I saw old data and thought v113 had failed.
+- **Harness fix needed:** the `/suno` skill should (1) verify submission by polling the workspace for the new title rather than inspecting form state, and (2) detect and close any detail panel before/after submitting. Add to `.claude/skills/suno/SKILL.md` next cycle.
+
+**Harness additions this cycle:**
+- scripts/hourly_cycle_prompt.md — self-contained cycle instructions for the CronCreate hourly schedule
+- feedback_song_duration_one_minute.md memory — 1–2 minute duration constraint
+- feedback_cron_auto_submit_override.md memory — auto-submit authorized in cron context
+- CronCreate job 5a227a9e — every 2 hours at :13, session-only (durable flag silently ignored in this runtime)
+
+**Open for next cycle:**
+- Listen to both v113 versions and verify (a) is it actually a fugue with 3 imitative voices, (b) what was the 0:44 version's final shape
+- Fix duration undershoot by adjusting language
+- Fix form-hijack bug in /suno skill
+- v114 via cron at next :13 fire
+
+---
+
 ## 2026-04-12 — v109 (tuned) + v111 cycle
 
 **Submitted:** v109 "Rain on a Window You Remember" (orchestral chillhop + mbira + upright bass), v111 "The Ground That Holds Everything" (orchestral passacaglia + nyckelharpa + hardanger fiddle + ondes martenot).
