@@ -1,0 +1,17 @@
+name: "what-keeps-coming-back"
+version: 115
+style: "NEOCLASSICAL RONDO FILM SCORE for a returning-memory scene, total duration 1:40 to 1:55 (ends at 1:55, never longer), with CORNET + CIMBALOM + FRAME DRUMS, rondo architecture where a single refrain keeps returning between two episodes, F minor to F-sharp minor, 84 BPM, instrumental. From 0:00 cornet alone states the refrain — soft brass melody like a half-remembered phrase. At 0:18 cimbalom takes over for episode one, hammered metal strings producing bright metallic arpeggios. At 0:38 cornet returns with the refrain intact, chamber strings breathing behind. At 0:56 frame drums enter for episode two, rhythmic tension beneath the cornet melody, full orchestra blooms. Silence at 1:18 — three beats. At 1:21 cornet returns one final time in F-sharp minor half-step up, cimbalom sparkling, frame drums pulsing, fortississimo. Ends at 1:55. No guitars, no vocals, no drum kit, no pipe organ."
+title: "What Keeps Coming Back"
+lyrics: |
+  [Short Instrumental Intro]
+  [Refrain]
+  [Episode 1]
+  [Refrain]
+  [Episode 2]
+  [Silence]
+  [Refrain]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, electronic, EDM, zen meditation, new age, pipe organ, Hungarian folk"
+notes: "v115 — NEOCLASSICAL RONDO FILM SCORE. First RONDO architecture (ABACA) in the repo — the refrain A keeps returning between episodes B and C. Second experiment in the symmetric/recurrence axis after v114 arch form. Contrasts with linear forms v110 bolero (one-melody-layering), v111 passacaglia (bass-constant), v112 lone-center (piano-constant), v113 fugue (imitative). v114 arch was palindromic (ABCBA); v115 rondo is iterative (ABACA). RESEARCH: Suno Knowledge Base confirmed that Suno has NO documented prompt-based duration control — length is controlled via the Extend feature, not prompts. Our 'total duration X:XX' language is a soft hint, not load-bearing. BUT CLAUDE.md says `[End]` metatag in lyrics IS a structural signal. LEARNED: (1) v113 produced 0:44 (undershoot), v114 produced 2:27 (overshoot of the 2:00 cap) — duration constraint in style field alone is insufficient. (2) Combining tightened style language ('ends at 1:55, never longer') with explicit [End] metatag in lyrics field should give Suno a stronger signal — this is the FIRST TEST of lyrics-metatag duration control in an instrumental prompt. (3) Cornet (repo first use per novelty_surface) = soft-toned brass, warmer than trumpet, rounder edge. Never featured in 114 prior prompts. (4) Cimbalom (v98, 16 versions ago) = Hungarian hammered dulcimer, bright metallic arpeggios, used in Tarkovsky/Bartók — added 'Hungarian folk' to exclude_styles to prevent Eastern European folk triggering. (5) Frame drums (v96, 18 versions ago) = shallow hand drums, rhythmic ground. FIX FROM V114: Lyrics field is now filled with ONLY structural metatags (no garbage text like [Climax] AAAHH that would hijack instrumental intent). This also doubles as the duration experiment. 894 chars."
+tags: [neoclassical-rondo, cornet, cimbalom, frame-drums, 84bpm, f-minor, f-sharp-minor, rondo-abaca, iterative-form, first-use-cornet, revival-cimbalom, revival-frame-drums, returning-memory-scene, duration-experiment, lyrics-metatag-test, synthesis-era, research-driven]

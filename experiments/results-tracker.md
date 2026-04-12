@@ -4,6 +4,36 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v115 cycle (first rondo + lyrics-metatag duration experiment)
+
+**Submitted:** v115 "What Keeps Coming Back" — NEOCLASSICAL RONDO FILM SCORE with cornet + cimbalom + frame drums. First rondo (ABACA) form in the repo. First use of `[End]` metatag in the lyrics field of an instrumental prompt as a duration control experiment.
+
+**What was tried:**
+- First iterative-recurrence architecture: rondo ABACA where refrain A returns between episodes B and C. Contrasts v114 arch (ABCBA palindromic).
+- Lyrics field filled with ONLY structural metatags: `[Short Instrumental Intro]\n[Refrain]\n[Episode 1]\n[Refrain]\n[Episode 2]\n[Silence]\n[Refrain]\n[End]`. First time we combine instrumental=true with non-empty lyrics (metatags only, no text) as a duration + structure signal.
+- Tighter duration language: "total duration 1:40 to 1:55 (ends at 1:55, never longer)" instead of v114's "1:30 to 2:00". Narrower window.
+- Trio: CORNET (repo first use) + CIMBALOM (v98, 16-version deep revival) + FRAME DRUMS (v96, 18-version deep revival).
+
+**Why:**
+- v113 produced 0:44 (under), v114 produced 2:27 (over the 2:00 cap). Duration language in style field alone is insufficient.
+- Research this cycle found Suno's official stance: **duration is NOT prompt-controllable**, only via the Extend feature. But CLAUDE.md notes `[End]` metatag as a structural signal. This cycle tests whether the metatag works as a duration reinforcement.
+
+**What we learned:**
+- **Browser extension disconnected mid-cycle.** Applied `feedback_browser_self_fix.md` — opened claude.ai via Bash to reconnect, no user prompt needed. Reconnected cleanly.
+- **Suno's placeholder text rotates randomly per page load** — my form-field matcher that looked for "hard kick" / "smooth vocals" failed this time because placeholder was "dissonant harmonies, 85bpm, space synth, dj scratching, slap". Fix: identify style field by position (textarea index 1) or by elimination (not-lyrics, not-other-prompt-fields). Applied in-session.
+- **Pending:** does `[End]` metatag + tighter style language actually hold duration? Listen to v115's two clips and measure. If it holds, codify as standard practice for all future prompts.
+
+**Harness additions this cycle:**
+- Style-field identification by elimination (not by placeholder matching)
+- Explicit "clear lyrics before set" step in submission flow (v114 lesson applied)
+
+**Open:**
+- Verify v115 duration constraint works (empirical test pending generation completion)
+- Codify /suno skill with: (1) lyrics clear-before-set, (2) style field by elimination, (3) title-poll verification, (4) browser reconnect on disconnect
+- Next cycle: theme-and-variations form, or return to electronic fusion after 4 pure-orchestral cycles
+
+---
+
 ## 2026-04-12 — v114 cycle (first arch form + duration-language iteration)
 
 **Submitted:** v114 "The First and Last Note Are the Same" — NEOCLASSICAL FILM SCORE with shakuhachi + bass oboe + waterphone. First palindromic ARCH FORM (ABCBA) in the repo. Two repo first-uses (shakuhachi, bass oboe) + one deep revival (waterphone, last in v94 — 20 versions ago).
