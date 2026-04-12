@@ -146,7 +146,7 @@ INDEX_HTML_TEMPLATE = r"""<!doctype html>
 <nav class="pagination" id="pagination"></nav>
 
 <footer>
-  Generated from <code>prompts/*.yaml</code> via <code>scripts/build_site.py</code>. All prompts handcrafted.
+  Built by <a href="https://alexandrudan.com">alexandrudan.com</a> &middot; <a href="https://tvl.tech">tvl.tech</a>
 </footer>
 
 <script>
