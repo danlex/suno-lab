@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# AI/LLM crawlers — explicitly welcomed for GEO discoverability
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://suno.alexandrudan.com/sitemap.xml
