@@ -1,0 +1,16 @@
+name: "what-the-attic-remembers"
+version: 122
+style: "ORCHESTRAL CONCERTO GROSSO film score for an attic-memory scene, total duration 1:00 to 2:00, with COR ANGLAIS + MUSIC BOX + UPRIGHT BASS as the concertino against full orchestra, warm nostalgia deepening into bittersweet revelation, B major to C major, 78 BPM, instrumental. From 0:00 music box enters alone — tiny crystalline melody tinkling like a toy left running in an empty room. At 0:15 cor anglais joins with warm pastoral longing above the music box. At 0:30 upright bass plucks a gentle walking line beneath, the solo trio complete. At 0:50 full orchestra answers — strings echoing the trio's melody in ripieno response. At 1:10 soloists and orchestra alternate in call-and-response, warmth building. Silence at 1:25 — two beats of stillness. At 1:28 music returns in C major half-step up, all three soloists soaring over full orchestra fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What the Attic Remembers"
+lyrics: |
+  [Short Instrumental Intro]
+  [Concertino Entry]
+  [Ripieno Response]
+  [Call and Response]
+  [Silence]
+  [Return]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, jazz, blues, zen meditation, new age"
+notes: "v122 — ORCHESTRAL CONCERTO GROSSO. First concerto grosso form in 121 prior prompts. The concept: three solo instruments (concertino) play alone first, then the full orchestra (ripieno) answers and amplifies. The alternation between solo intimacy and orchestral power creates drama through contrast — fundamentally different from all prior forms which were about accumulation (build), transformation (variations), imitation (canon), or subtraction (dissolution). RESEARCH: MasterClass concerto grosso guide — small group (concertino) vs full orchestra (ripieno), melodic content passed among multiple soloists. Contemporary revival by Glass, Schnittke, Penderecki. Jessie Montgomery composed a modern concerto grosso. The form naturally supports film scoring: intimate solo passages = close-up, orchestral tutti = wide shot. INSTRUMENTS: Cor anglais (v104, 17-version gap) = English horn, warm pastoral double-reed, deeper and mellower than oboe. The 'longing' voice. Music box (v108, 13-version gap) = tiny crystalline mechanism, innocent childhood tones. The 'memory' voice. Added 'jazz, blues' to exclude_styles to prevent upright bass from triggering jazz. Upright bass (v109, 12-version gap) = acoustic plucked bass, woody and earthy. The 'foundation' voice. All three deep revivals (12-17 gaps). NOVELTY: B major = NEVER used (virgin key). 78 BPM = never used. Concerto grosso = new form. Nostalgia = new emotional territory (distinct from joy/solemnity/mystery/grief). 896 chars."
+tags: [orchestral-concerto-grosso, cor-anglais, music-box, upright-bass, 78bpm, b-major, c-major, concertino-vs-ripieno, nostalgia, attic-memory, deep-revival-cor-anglais, deep-revival-music-box, deep-revival-upright-bass, new-form, virgin-key, new-bpm, pattern-breaking, synthesis-era, research-driven]

@@ -4,6 +4,31 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v122 cycle (first concerto grosso + virgin key)
+
+**Submitted:** v122 "What the Attic Remembers" — ORCHESTRAL CONCERTO GROSSO with cor anglais + music box + upright bass as concertino vs full orchestra ripieno. Generating.
+
+**What was tried:**
+- First concerto grosso form: three soloists (concertino) play intimately, full orchestra (ripieno) answers and amplifies. Alternation between solo and tutti creates drama through CONTRAST — fundamentally different from accumulation/transformation/imitation/subtraction.
+- Triple deep revival: cor anglais (v104, 17-gap), music box (v108, 13-gap), upright bass (v109, 12-gap).
+- B major = NEVER used (virgin key). 78 BPM = never used.
+- Nostalgia as emotional territory (new — distinct from recent joy/solemnity/mystery/grief/broken beauty).
+- "attic-memory scene" — spatial specificity. The concertino is three objects (toy, letter, floorboards), the ripieno is the room responding.
+
+**Why:**
+- Evolution.md "Not yet explored" listed concerto grosso. The form is about alternation (solo vs tutti), which is structurally novel — all prior forms were about how voices accumulate, transform, or decay. This one is about conversation.
+- Research: MasterClass guide confirms modern concerto grosso (Glass, Schnittke, Penderecki) uses wider instrument range in concertino. Jessie Montgomery composed a contemporary concerto grosso.
+
+**What we learned:**
+- v121 "Beginning at the End" completed: **1:58 and 1:19** — both in the 1-2 minute target range. The inverted decay arc actually produced reasonable durations.
+- **Single submission only** — waited 20+ seconds before checking, avoided the v120 double-click bug. Only 2 clips generated, not 4.
+
+**Open:**
+- Listen to v122 to verify concertino-vs-ripieno contrast rendered
+- Next forms: sonata form, ricercare, passamezzo
+
+---
+
 ## 2026-04-12 — v120 + v121 cycle (maximum pattern-breaking batch)
 
 **Submitted:** v120 "Every Voice Chasing the Last" — ORCHESTRAL CANON with bass flute + steelpan (DUO). v121 "Beginning at the End" — ORCHESTRAL DISSOLUTION with harpsichord + bass trombone + glass marimba.

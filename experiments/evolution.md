@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v121 (2026-04-12)
+Last updated: v122 (2026-04-12)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v121))
+  root((Suno craft v122))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -25,6 +25,7 @@ mindmap
         Theme-and-variations — same melody, different timbres [v119]
         Canon/round — voices chase in perpetual imitation [v120]
         Dissolution — starts at max, decays to nothing [v121]
+        Concerto grosso — solo group vs full orchestra [v122]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -138,6 +139,7 @@ mindmap
 - theremin (v119, from v101), tubular bells (v119, from v101), contrabassoon (v119, from v103)
 - bass flute (v120, from v100), steelpan (v120, from v107)
 - harpsichord (v121, from v105), bass trombone (v121, from v102), glass marimba (v121, from v103)
+- cor anglais (v122, from v104), music box (v122, from v108), upright bass (v122, from v109)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -158,8 +160,9 @@ mindmap
 | Theme-and-variations | v119 | Same melody through different timbres | Done |
 | Canon/round | v120 | Voices chase in perpetual imitation | Done |
 | Dissolution (inverted) | v121 | Starts at max grandeur, decays to nothing | Done |
+| Concerto grosso | v122 | Solo group (concertino) vs full orchestra (ripieno) | Done |
 
-**Not yet explored:** Sonata form (exposition-dev-recap), Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo, Concerto grosso (solo group vs full ensemble).
+**Not yet explored:** Sonata form (exposition-dev-recap), Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo.
 
 ## Duration experiment — CONCLUDED
 
@@ -201,6 +204,7 @@ mindmap
 | 119 | The Same Story Told Three Ways | orchestral theme-and-variations | F#→G minor | 62 | theremin + tubular bells + contrabassoon |
 | 120 | Every Voice Chasing the Last | orchestral canon | G→Ab MAJOR | 152 | bass flute + steelpan (DUO) |
 | 121 | Beginning at the End | orchestral dissolution | Db→C MAJOR (DOWN) | 46 | harpsichord + bass trombone + glass marimba |
+| 122 | What the Attic Remembers | orchestral concerto grosso | B→C MAJOR (virgin) | 78 | cor anglais + music box + upright bass |
 
 ## Next-cycle priorities
 
