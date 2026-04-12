@@ -4,6 +4,36 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v119 cycle (first theme-and-variations + triple deep revival)
+
+**Submitted:** v119 "The Same Story Told Three Ways" — ORCHESTRAL THEME AND VARIATIONS with theremin + tubular bells + contrabassoon. First theme-and-variations form in the repo. All three instruments are deep revivals (15-17 version gaps). Clip 1: 1:43. Clip 2: pending.
+
+**What was tried:**
+- First theme-and-variations architecture: each instrument states the SAME melody through its own timbre (theremin = eerie/hovering, tubular bells = ceremonial/sacred, contrabassoon = dark/subterranean), then all three combine.
+- Triple deep revival trio: theremin (v101, 17-gap), tubular bells (v101, 17-gap), contrabassoon (v103, 15-gap). All from different instrument families (electronic / metallic percussion / double-reed woodwind).
+- New BPM (62, never used) and near-virgin key (F# minor, used only once).
+- Scene: "witness-testimony" — three witnesses describing the same vanished moment through different filters.
+
+**Why:**
+- Evolution.md priority #7: try theme-and-variations or sonata form. Theme-and-variations chosen because the concept naturally maps to three instruments taking turns with the same melody.
+- Research: contemporary theremin revival in orchestral film scoring (Loki, Nimona, First Man scores + ACO 2025 tour with Carolina Eyck). Theremin evolving beyond sci-fi cliché into serious orchestral voice.
+- All three instruments at 15+ version gaps = maximum combined revival depth.
+
+**What we learned:**
+- **Clip 1 duration: 1:43** — within the 1-2 minute target despite duration language being "concluded as dead" in evolution.md. This may be a coincidence (Suno ignores duration language but the arc template timestamps naturally guided a shorter song).
+- **Theme-and-variations as form:** unknown until listening whether Suno actually produced three distinct timbral variations of the same melody or collapsed into homophony. Verify by listening.
+- **Judge score: 100/100** — first perfect score. All 9 criteria passed cleanly. The deep revival trio + new form + new key/BPM + new scene maximized novelty.
+
+**Harness additions this cycle:**
+- Remote triggers created: Suno Generation Cycle (every 2h) + Suno Review & Publish Cycle (daily) via RemoteTrigger API — durable, survive session exit.
+
+**Open:**
+- Listen to both clips to verify theme-and-variations form was rendered
+- Next form to try: sonata form or concerto grosso
+- Priority #8 still open: try a duo instead of trio
+
+---
+
 ## 2026-04-12 — v115 cycle (first rondo + lyrics-metatag duration experiment)
 
 **Submitted:** v115 "What Keeps Coming Back" — NEOCLASSICAL RONDO FILM SCORE with cornet + cimbalom + frame drums. First rondo (ABACA) form in the repo. First use of `[End]` metatag in the lyrics field of an instrumental prompt as a duration control experiment.

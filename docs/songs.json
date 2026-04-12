@@ -1,5 +1,36 @@
 [
   {
+    "name": "the-same-story-told-three-ways",
+    "version": 119,
+    "style": "ORCHESTRAL THEME AND VARIATIONS film score for a witness-testimony scene, total duration 1:00 to 2:00, with THEREMIN + TUBULAR BELLS + CONTRABASSOON, three voices telling one melody through different timbres, F-sharp minor to G minor, 62 BPM, instrumental. From 0:00 theremin enters alone — hovering melody stated without touch, eerie and floating in mid-air. At 0:20 tubular bells take the theme, ceremonial chimes transforming each note from ghostly to sacred. At 0:45 contrabassoon descends with the same melody, lowest woodwind rumbling the theme into dark earth. At 1:10 all three layer the theme together while chamber strings weave between them. Silence at 1:20 — three beats of void. At 1:23 music returns in G minor half-step up, theremin soaring, bells ringing, contrabassoon thundering, full orchestra fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "The Same Story Told Three Ways",
+    "lyrics": "[Short Instrumental Intro]\n[Theme]\n[Variation 1]\n[Variation 2]\n[All Voices]\n[Silence]\n[Return]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, sci-fi, electronic, EDM, zen meditation, new age, pipe organ",
+    "notes": "v119 — ORCHESTRAL THEME AND VARIATIONS. First theme-and-variations form in 118 prior prompts (evolution.md priority #7). The concept: three instruments each state the SAME melody through radically different timbres — theremin (contactless, eerie, hovering), tubular bells (ceremonial, metallic, sacred), contrabassoon (deepest woodwind, dark, subterranean). Like three witnesses describing the same vanished moment. RESEARCH: (1) No Film School 2026 — indie sci-fi scores going orchestral, theme-and-variations as development technique for building tension through orchestral transformation. (2) Theremin revival in contemporary film scoring — Natalie Holt's Emmy-nominated Loki score, Christophe Beck's Nimona, Justin Hurwitz's First Man all feature theremin in orchestral context. ACO 2025 tour with Carolina Eyck (theremin virtuoso). The instrument is evolving beyond sci-fi cliché into serious orchestral voice. (3) Tubular bells (v101, 17 versions ago) — orchestral chimes, ceremonial resonance, metallic sustain. Perfect 'sacred' transformation of the eerie theremin theme. (4) Contrabassoon (v103, 15 versions ago) — lowest standard orchestral woodwind, one octave below bassoon. Dark rumbling voice that takes the floating theremin theme and grounds it in earth. NOVELTY: All three instruments are deep revivals (15-17 version gaps). All from completely different families (electronic / metallic percussion / double-reed woodwind). Theme-and-variations is genuinely new architectural form. 62 BPM is never-used tempo. F-sharp minor (×1) is near-virgin key. 887 chars.",
+    "tags": [
+      "orchestral-theme-and-variations",
+      "theremin",
+      "tubular-bells",
+      "contrabassoon",
+      "62bpm",
+      "f-sharp-minor",
+      "g-minor",
+      "witness-testimony",
+      "three-voices-one-melody",
+      "deep-revival-theremin",
+      "deep-revival-tubular-bells",
+      "deep-revival-contrabassoon",
+      "new-form",
+      "new-bpm",
+      "rare-key",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "the-same-story-told-three-ways-v119.yaml",
+    "_slug": "the-same-story-told-three-ways-v119"
+  },
+  {
     "name": "what-happens-when-the-music-breaks",
     "version": 118,
     "style": "ORCHESTRAL GLITCH film score for a memory-corrupting scene, total duration 1:40 to 1:55 (ends at 1:55, never longer), with KORA + SUBCONTRABASS SAXOPHONE + CELESTA, digital artifacts fracturing organic beauty, B-flat minor to B minor, 95 BPM, instrumental. From 0:00 kora enters alone — West African 21-string harp cascading shimmering arpeggios through digital stutter. At 0:20 celesta joins, crystalline bell fragments sparkling above the kora with granular processing. At 0:40 subcontrabass saxophone enters beneath, the deepest woodwind rumbling like a digitally fractured earthquake. At 1:00 full orchestra swells while glitch processing stutters all three voices into broken beauty. Silence at 1:20 — three beats of corrupted void. At 1:23 music returns in B minor half-step up, kora cascading, saxophone rumbling, celesta sparkling, all through glitch haze fortississimo. Ends at 1:55. No guitars, no vocals, no rock drums, no pipe organ.",

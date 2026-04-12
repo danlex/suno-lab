@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v118 (2026-04-12)
+Last updated: v119 (2026-04-12)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v118))
+  root((Suno craft v119))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -22,6 +22,7 @@ mindmap
         Fugue — imitative voices, stretto compression [v113]
         Arch form — palindromic ABCBA [v114]
         Rondo — iterative refrain ABACA [v115]
+        Theme-and-variations — same melody, different timbres [v119]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -63,6 +64,7 @@ mindmap
         Future garage v116
       Technique fusion — new category
         Orchestral glitch v118 — first technique not genre
+        Theme-and-variations v119 — triple deep revival
       Pure orchestral forms
         Bolero v110, Passacaglia v111
         Lone-center v112, Fugue v113
@@ -118,16 +120,17 @@ mindmap
 - armonica, string quartet, viola da gamba (Baroque, used in v113 — UPDATE: used once)
 - spinet, virginal (harpsichord family)
 
-### First-used this session (v112-v118)
+### First-used this session (v112-v119)
 - felt piano (v112), shakuhachi (v114), bass oboe (v114), cornet (v115), mellotron (v116)
 
-### Revived this session (v112-v118)
+### Revived this session (v112-v119)
 - cristal baschet (v112, from v93), glass harmonica (v112, from v79)
 - waterphone (v114, from v94), cimbalom (v115, from v98), frame drums (v115, from v96)
 - handpan (v116, from v97), piccolo (v116, from v83)
 - erhu (v117, from v102), glockenspiel (v117, from v83)
 - kora (v118, from v31 — **86-version gap, deepest revival in repo**)
 - subcontrabass sax (v118, from v86), celesta (v118, from v99)
+- theremin (v119, from v101), tubular bells (v119, from v101), contrabassoon (v119, from v103)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -145,8 +148,9 @@ mindmap
 | Fugue | v113 | Imitative voices entering, stretto | Done |
 | Arch form (ABCBA) | v114 | Palindromic mirror | Done |
 | Rondo (ABACA) | v115 | Iterative refrain returns | Done |
+| Theme-and-variations | v119 | Same melody through different timbres | Done |
 
-**Not yet explored:** Theme-and-variations, Sonata form (exposition-dev-recap), Canon/Round, Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo, Concerto grosso (solo group vs full ensemble).
+**Not yet explored:** Sonata form (exposition-dev-recap), Canon/Round, Chaconne (rejected — "arbitrary distinction" from passacaglia), Ricercare, Passamezzo, Concerto grosso (solo group vs full ensemble).
 
 ## Duration experiment — CONCLUDED
 
@@ -183,11 +187,11 @@ mindmap
 
 | v | Title | Genre | Key | BPM | Featured trio |
 |---|-------|-------|-----|-----|---------------|
-| 114 | The First and Last Note Are the Same | neoclassical arch form | D→Eb minor | 66 | shakuhachi + bass oboe + waterphone |
 | 115 | What Keeps Coming Back | neoclassical rondo | F→F# minor | 84 | cornet + cimbalom + frame drums |
 | 116 | The Room After Everyone Left | orchestral future garage | B→C minor | 130 | mellotron + handpan + piccolo |
 | 117 | The Bell That Wept | gothic symphonic neoclassical | C#→D minor | 76 | bandoneon + erhu + glockenspiel |
 | 118 | What Happens When the Music Breaks | orchestral glitch | Bb→B minor | 95 | kora + subcontrabass sax + celesta |
+| 119 | The Same Story Told Three Ways | orchestral theme-and-variations | F#→G minor | 62 | theremin + tubular bells + contrabassoon |
 
 ## Next-cycle priorities
 
@@ -197,7 +201,7 @@ mindmap
 4. ~~Try fugue, arch form, rondo~~ ✅ (v113, v114, v115)
 5. ~~Revive pre-synthesis instruments~~ ✅ (kora v118 = deepest at 86-version gap)
 6. ~~Return to electronic fusion~~ ✅ (v116 future garage, v118 glitch)
-7. Try theme-and-variations or sonata form
+7. ~~Try theme-and-variations or sonata form~~ ✅ (v119 theme-and-variations)
 8. Try a duo (2 instruments) instead of trio — test whether fewer instruments = more Suno focus
 9. Fix novelty_surface.py negative-prompt counting bug
 10. Codify /suno skill submission fixes (5 fixes logged in results-tracker)
