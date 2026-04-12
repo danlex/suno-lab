@@ -1,0 +1,17 @@
+name: "the-moment-before-the-patterns-align"
+version: 127
+style: "ORCHESTRAL MINIMALISM film score for a crystals-forming scene, total duration 1:00 to 2:00, with NYCKELHARPA + FELT PIANO + CORNET, three voices repeating identical short patterns at slightly different tempos, drifting in and out of phase, A major to B-flat major, 116 BPM, instrumental. From 0:00 felt piano enters alone — a muted pattern repeating in steady precision. At 0:15 nyckelharpa joins with the same pattern played slightly faster, the two voices drifting apart. At 0:35 cornet adds the pattern at a third tempo, three layers weaving interference through shifting phase. At 1:00 full orchestra enters with sustained string pads beneath the shifting cells, mathematical beauty emerging from drift. Silence at 1:25 — one beat where patterns briefly align. At 1:28 music returns in B-flat major half-step up, all three voices locked in fortississimo unison. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "The Moment Before the Patterns Align"
+lyrics: |
+  [Short Instrumental Intro]
+  [First Pattern]
+  [Phase Drift Begins]
+  [Three Layer Interference]
+  [Orchestral Emergence]
+  [Alignment]
+  [Unison]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, Swedish folk, Reich"
+notes: "v127 — ORCHESTRAL MINIMALISM PHASE SHIFTING. Second step beyond classical forms into 20th-century avant-garde. Phase shifting: identical short repeating patterns played at slightly different tempos drift apart, creating emergent interference patterns, then eventually realign. Fundamentally opposite of v126's micropolyphony (chaotic cloud) — phase music is PRECISE and mathematical but produces emergent texture. RESEARCH: Wikipedia Phase Music + Reich biography confirm technique origin (1965 tape loops 'It's Gonna Rain,' live musician adaptation by 1970s, orchestral expansion in 'The Desert Music' and 'Music for Ensemble and Orchestra'). Added 'Reich' to exclude_styles since his name is synonymous with the technique (and composer names are blocklist). INSTRUMENTS: All three are still single-use deep revivals before this cycle. Nyckelharpa (v111, 16-version gap — DEEPEST currently available) = Swedish keyed fiddle with sympathetic strings, precise and resonant. Felt piano (v112, 15-version gap) = dampened piano, close and intimate, perfect for minimalist clarity. Cornet (v115, 12-version gap) = smaller lyrical brass, sweet tone. Three voices from three families (bowed-string/keyboard/brass). NOVELTY: First minimalism. First phase shifting technique. 116 BPM = never used. A major → Bb major both underused. Wonder/emergence emotion (new territory). Added 'Swedish folk' to exclude_styles to prevent nyckelharpa from triggering Nordic folk. 976 chars."
+tags: [orchestral-minimalism, nyckelharpa, felt-piano, cornet, 116bpm, a-major, b-flat-major, phase-shifting, repeating-patterns, crystalline-emergence, deepest-revival-nyckelharpa, deep-revival-felt-piano, deep-revival-cornet, new-technique, new-genre, new-bpm, 20th-century-avant-garde, synthesis-era, research-driven]

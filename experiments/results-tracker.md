@@ -4,6 +4,33 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — v127 cycle (first minimalism + on-target durations)
+
+**Submitted:** v127 "The Moment Before the Patterns Align" — ORCHESTRAL MINIMALISM (phase shifting) with nyckelharpa + felt piano + cornet. **Clips: 1:04 and 1:13** — BOTH in the 1-2 minute target range.
+
+**What was tried:**
+- Phase shifting minimalism: identical short patterns at slightly different tempos, drifting in and out of phase, mathematical emergence from drift.
+- Trio of single-use instruments: nyckelharpa (v111, 16-gap — DEEPEST available), felt piano (v112, 15-gap), cornet (v115, 12-gap). All three families represented.
+- A major → Bb major. 116 BPM (never used).
+- Wonder/emergence emotion (new territory).
+
+**Why:**
+- Second 20th-century avant-garde technique after v126 micropolyphony. Minimalism is the opposite pole: precise mathematical emergence vs chaotic cloud.
+- Research: Wikipedia phase music / Reich biography confirm technique (1965 tape loops, live adaptation, orchestral works). Excluded 'Reich' from styles since composer names are blocklist.
+
+**What we learned:**
+- **MAJOR: on-target durations!** 1:04 and 1:13 — first prompt in recent memory to hit the 1-2 minute window on BOTH clips. Hypothesis: minimalism + moderate BPM (116) + structured lyrics metatags (8 clear sections) may produce tighter duration control than ambient/slow pieces.
+- **0-width viewport bug recurred.** First tab (786902650) had 0x0 viewport — form submissions went through but silently (could not verify via screenshot). Created new tab (786902668), verified v127 had not appeared in library, resubmitted. Second submission produced 4 clips total — both tabs' Create clicks eventually registered. Wasted 2 extra credits.
+- v126 confirmed: 2:28 and 2:12 — both exceed 2:00 cap.
+
+**Harness insight:** After browser reconnect, ALWAYS verify viewport with screenshot BEFORE submitting. If 0-width error, create new tab and check library for duplicate submissions before resubmitting.
+
+**Open:**
+- Listen to v127 to verify phase shifting rendered (vs collapsed into homophony)
+- Next: other avant-garde techniques (spectral, aleatoric, 12-tone, stochastic)
+
+---
+
 ## 2026-04-12 — v126 cycle (first 20th-century avant-garde + horror)
 
 **Submitted:** v126 "A Room That Breathes On Its Own" — ORCHESTRAL MICROPOLYPHONY HORROR with clavichord + viola da gamba + mellotron.
