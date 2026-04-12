@@ -1,6 +1,6 @@
 {
-  "total_prompts": 117,
-  "latest_version": 117,
+  "total_prompts": 118,
+  "latest_version": 118,
   "instruments": {
     "organ": [
       1,
@@ -66,7 +66,8 @@
       114,
       115,
       116,
-      117
+      117,
+      118
     ],
     "pipe organ": [
       1,
@@ -124,7 +125,8 @@
       114,
       115,
       116,
-      117
+      117,
+      118
     ],
     "piano": [
       1,
@@ -276,7 +278,15 @@
       49,
       64,
       85,
-      100
+      100,
+      118
+    ],
+    "celesta": [
+      69,
+      91,
+      92,
+      99,
+      118
     ],
     "contrabass": [
       79,
@@ -305,12 +315,6 @@
       34,
       79,
       112
-    ],
-    "celesta": [
-      69,
-      91,
-      92,
-      99
     ],
     "oboe": [
       65,
@@ -377,6 +381,10 @@
       97,
       116
     ],
+    "kora": [
+      31,
+      118
+    ],
     "ondes martenot": [
       80,
       111
@@ -388,6 +396,10 @@
     "prepared piano": [
       89,
       95
+    ],
+    "subcontrabass saxophone": [
+      86,
+      118
     ],
     "taiko": [
       95,
@@ -436,9 +448,6 @@
     "hurdy gurdy": [
       113
     ],
-    "kora": [
-      31
-    ],
     "marimba": [
       103
     ],
@@ -465,9 +474,6 @@
     ],
     "steelpan": [
       107
-    ],
-    "subcontrabass saxophone": [
-      86
     ],
     "tenor saxophone": [
       107
@@ -556,7 +562,8 @@
       108,
       109,
       110,
-      116
+      116,
+      118
     ],
     "neoclassical": [
       1,
@@ -695,6 +702,11 @@
       101,
       111
     ],
+    "b-flat minor": [
+      86,
+      102,
+      118
+    ],
     "eb major": [
       37,
       51,
@@ -712,10 +724,6 @@
     "b minor": [
       76,
       116
-    ],
-    "b-flat minor": [
-      86,
-      102
     ],
     "bb major": [
       41,
@@ -847,7 +855,8 @@
     ],
     "95": [
       60,
-      107
+      107,
+      118
     ],
     "96": [
       91
@@ -926,6 +935,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 118,
+      "title": "What Happens When the Music Breaks",
+      "name": "what-happens-when-the-music-breaks",
+      "featured": [],
+      "genre": "orchestral",
+      "key": "b-flat minor",
+      "bpm": 95
+    },
     {
       "version": 117,
       "title": "The Bell That Wept",
