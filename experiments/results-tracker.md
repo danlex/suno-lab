@@ -4,6 +4,31 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v125 cycle (last unexplored form + deepest revival)
+
+**Submitted:** v125 "Every Step Is the Same Step" — ORCHESTRAL PASSAMEZZO with balafon + hurdy gurdy + shakuhachi. Last unexplored form complete.
+
+**What was tried:**
+- Passamezzo antico: Renaissance Italian dance with repeating ground bass pattern (i-iv-i-V-i-III-iv-i in minor). The harmonic pattern cannot resolve, producing an obsessive/insistent quality.
+- BALAFON (v106, 18-version gap — DEEPEST currently available revival) + HURDY GURDY (v113, 11-gap) + SHAKUHACHI (v114, 10-gap). Three different world traditions fused into orchestral framework.
+- Bb minor → B minor (both rare keys). 124 BPM (never used).
+- Obsessive pursuit emotion (new territory).
+
+**Why:**
+- Passamezzo was the only remaining unexplored classical form. Its repeating ground bass maps perfectly to the "insomniac's endless dance" concept.
+- Research: Wikipedia + Grokipedia confirm passamezzo antico's somber minor mode, introspective quality. Contemporary usage includes modern arrangements (Ammerbach brass quintet 2011, Capella de Ministrers 2014).
+
+**What we learned:**
+- v124 "The Frequency of Still Water" completed: **2:42 and 3:34**. The 3:34 clip exceeds the 2:00 cap — reinforces evolution.md conclusion that duration is NOT prompt-controllable. At 50 BPM (very slow), Suno produced long clips despite explicit duration constraints.
+
+**Milestone:** 15 architectural forms now complete. Bolero, passacaglia, lone-center, fugue, arch, rondo, glitch (technique), theme-and-variations, canon, dissolution, concerto grosso, sonata, ricercare, passamezzo + default build-silence-return.
+
+**Open:**
+- Listen to v125 to hear if ground bass pattern renders as unbroken repetition
+- Future cycles: new genre fusions, new emotional territories, duo/solo experiments
+
+---
+
 ## 2026-04-12 — v124 cycle (first ricercare + ambient drone)
 
 **Submitted:** v124 "The Frequency of Still Water" — ORCHESTRAL AMBIENT RICERCARE with hardanger fiddle + mbira + oboe d'amore. First ricercare form and ambient drone genre.

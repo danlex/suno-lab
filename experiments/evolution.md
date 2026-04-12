@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v124 (2026-04-12)
+Last updated: v125 (2026-04-12)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v124))
+  root((Suno craft v125))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -28,6 +28,7 @@ mindmap
         Concerto grosso — solo group vs full orchestra [v122]
         Sonata — two themes, development, recapitulation [v123]
         Ricercare — slow searching drone meditation [v124]
+        Passamezzo — repeating ground bass, obsessive [v125]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -144,6 +145,7 @@ mindmap
 - cor anglais (v122, from v104), music box (v122, from v108), upright bass (v122, from v109)
 - flugelhorn (v123, from v106), tenor saxophone (v123, from v107), steel tongue drum (v123, from v108)
 - hardanger fiddle (v124, from v111), mbira (v124, from v109), oboe d'amore (v124, from v110)
+- balafon (v125, from v106 — **18-gap, deepest revival of this session**), hurdy gurdy (v125, from v113), shakuhachi (v125, from v114)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -167,8 +169,9 @@ mindmap
 | Concerto grosso | v122 | Solo group (concertino) vs full orchestra (ripieno) | Done |
 | Sonata | v123 | Two themes → development → recapitulation → coda | Done |
 | Ricercare | v124 | Slow searching drone meditation | Done |
+| Passamezzo | v125 | Repeating ground bass, obsessive | Done |
 
-**Not yet explored:** Chaconne (rejected — "arbitrary distinction" from passacaglia), Passamezzo.
+**Not yet explored:** Chaconne (rejected — "arbitrary distinction" from passacaglia). **All classical architectural forms complete.** Next direction: new genre fusions, new emotional territories, duo/solo experiments.
 
 ## Duration experiment — CONCLUDED
 
@@ -213,6 +216,7 @@ mindmap
 | 122 | What the Attic Remembers | orchestral concerto grosso | B→C MAJOR (virgin) | 78 | cor anglais + music box + upright bass |
 | 123 | Two Voices in the Same Rain | orchestral noir sonata | Eb→E minor | 102 | flugelhorn + tenor sax + steel tongue drum |
 | 124 | The Frequency of Still Water | orchestral ambient ricercare | F#→G MAJOR | 50 | hardanger fiddle + mbira + oboe d'amore |
+| 125 | Every Step Is the Same Step | orchestral passamezzo | Bb→B minor | 124 | balafon + hurdy gurdy + shakuhachi |
 
 ## Next-cycle priorities
 

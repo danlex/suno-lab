@@ -1,5 +1,36 @@
 [
   {
+    "name": "every-step-is-the-same-step",
+    "version": 125,
+    "style": "ORCHESTRAL PASSAMEZZO film score for an insomniac's endless dance, total duration 1:00 to 2:00, with BALAFON + HURDY GURDY + SHAKUHACHI, three voices locked in the same repeating harmonic ground that cannot release, B-flat minor to B minor, 124 BPM, instrumental. From 0:00 balafon enters alone — wooden xylophone pulsing in obsessive duple meter, each strike a step that won't be the last. At 0:18 hurdy gurdy joins, medieval drone strings buzzing a melody that circles the same harmonic ground. At 0:40 shakuhachi rises above, breath-heavy Japanese flute cutting jagged phrases through the texture. At 1:00 full orchestra joins, strings and brass locked to the relentless pattern. Silence at 1:25 — one beat where the dancer almost stops. At 1:28 music returns in B minor half-step up, all three voices fortississimo, pattern still unbroken. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "Every Step Is the Same Step",
+    "lyrics": "[Short Instrumental Intro]\n[Ground Bass]\n[Drone Entry]\n[Jagged Melody]\n[Locked Pattern]\n[Silence]\n[Return]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, zen meditation, new age, African folk, medieval folk, Japanese folk, Renaissance fair",
+    "notes": "v125 — ORCHESTRAL PASSAMEZZO. Last unexplored classical form now complete (14 forms done). Passamezzo antico = Italian Renaissance dance with repeating ground bass pattern (i-iv-i-V-i-III-iv-i in minor) that cannot resolve — perfect for an 'obsessive pursuit' emotional territory. RESEARCH: Grokipedia + Wikipedia confirm 'passo e mezzo' ('step and a half'), 16th century Italian court dance, ground bass foundation enabling variation/improvisation above strict harmonic pattern. Antico variant = somber minor mode, introspective. Modern usage: Ammerbach arrangement for brass quintet (2011), Capella de Ministrers recording (2014). INSTRUMENTS: Balafon (v106, 18-version gap — DEEPEST currently available revival) = West African wooden xylophone, percussive and rhythmic. Hurdy gurdy (v113, 11-version gap) = medieval drone + melody instrument with buzzing bridge. Shakuhachi (v114, 10-version gap) = Japanese bamboo flute, breath-heavy, can cut jagged phrases. Three instruments from three different world traditions fused into orchestral passamezzo. Added 'African folk, medieval folk, Japanese folk, Renaissance fair' to exclude_styles to prevent any single world-music triggering. NOVELTY: Passamezzo = last unexplored form. 124 BPM = never used. Bb minor (×3) → B minor (×2) both relatively rare. Obsessive pursuit = new emotion (distinct from recent meditative/noir/nostalgic). The arc template breaks from silence-before-climax slightly: silence is ONE beat only ('where the dancer almost stops'), reinforcing the pattern-unbroken quality. 953 chars.",
+    "tags": [
+      "orchestral-passamezzo",
+      "balafon",
+      "hurdy-gurdy",
+      "shakuhachi",
+      "124bpm",
+      "b-flat-minor",
+      "b-minor",
+      "ground-bass",
+      "obsessive-pursuit",
+      "insomniac-dance",
+      "deepest-revival-balafon",
+      "deep-revival-hurdy-gurdy",
+      "deep-revival-shakuhachi",
+      "last-unexplored-form",
+      "new-bpm",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "every-step-is-the-same-step-v125.yaml",
+    "_slug": "every-step-is-the-same-step-v125"
+  },
+  {
     "name": "the-frequency-of-still-water",
     "version": 124,
     "style": "ORCHESTRAL AMBIENT RICERCARE film score for a still-water-at-dawn scene, total duration 1:00 to 2:00, with HARDANGER FIDDLE + MBIRA + OBOE D'AMORE, slow searching meditation where each voice explores the same theme through sustained drone textures, F-sharp major to G major, 50 BPM, instrumental. From 0:00 hardanger fiddle enters with sustained bowing — sympathetic strings humming beneath a slow melody, each note held until it dissolves. At 0:20 mbira joins, tiny metallic repetitions pulsing within the drone like ripples on glass. At 0:45 oboe d'amore rises slowly, warm double-reed singing the searching theme above the texture. At 1:10 all three voices sustain together while orchestra adds deep pads of string harmony beneath. Silence at 1:25 — the drone thins to one held note. At 1:28 music blooms in G major half-step up, all voices fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
