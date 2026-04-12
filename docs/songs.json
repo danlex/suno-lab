@@ -1,5 +1,37 @@
 [
   {
+    "name": "the-first-and-last-note-are-the-same",
+    "version": 114,
+    "style": "NEOCLASSICAL FILM SCORE for a mirror memory scene, total duration 1:30 to 2:00, with SHAKUHACHI + BASS OBOE + WATERPHONE, palindromic arch-form architecture where the second half mirrors the first, D minor to E-flat minor, 66 BPM, instrumental. From 0:00 shakuhachi states the primary motif alone — bamboo flute with breath-forward tone, a single line of haunting longing unfolding in empty space. At 0:18 bass oboe joins with a low counter-voice, two reed instruments converging. At 0:38 waterphone rises at the arch apex, bowed metal rods sending spectral overtones, chamber strings bloom behind the trio. Silence at 1:05 — three beats of void. At 1:08 music returns in E-flat minor half-step up, waterphone thundering, texture mirrors the first half in reverse — bass oboe falls away at 1:30, shakuhachi plays alone again at 1:42, the arch closing where it began. Ends at 1:52. No guitars, no vocals, no drums, no pipe organ.",
+    "title": "The First and Last Note Are the Same",
+    "lyrics": "",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, ambient drone, lo-fi, vocals, singing, electronic, EDM, zen meditation, new age, pipe organ",
+    "notes": "v114 — NEOCLASSICAL FILM SCORE with palindromic ARCH FORM architecture. First arch form (ABCBA) in the repo — second half mirrors the first in reverse. Contrasts with v110 bolero (linear orchestration-growth), v111 passacaglia (linear bass-ostinato-variation), v112 cathedral (lone-center-world-grows), v113 fugue (imitative-entries-then-stretto). Arch form is the first SYMMETRIC architecture in 114 prompts. RESEARCH: Wikipedia/Britannica chaconne-vs-passacaglia exploration revealed the distinction is 'arbitrary and historically unfounded' per scholarly consensus — pivoted from chaconne to arch form for a genuinely distinct architectural novelty. Bartók's arch forms (Music for Strings/Percussion/Celesta, String Quartet 4/5) as the primary reference for compressed symmetric structures in 20th-century classical. LEARNED: (1) Arch form is ABCBA — after the apex (C section), the B and A material return in reverse, creating a mirror around the center. Fits 1:30-2:00 compressed runtime by placing the apex around the halfway mark. (2) Shakuhachi (never used in 113 prior) = Japanese bamboo flute with breath-forward tone, fits the 'lone voice in empty space' opening; novelty_surface confirmed first use. (3) Bass oboe (never used) = oboe family member pitched an octave below standard oboe, rare dark reed, first use confirmed. (4) Waterphone (v85, v93, v94 — last 20 versions ago) = bowed metal-rod instrument producing spectral overtones, deep revival. DURATION FIX: v113 produced one version at 0:44 (below the 1:00 floor) so v114 uses 'total duration 1:30 to 2:00' instead of '1:00 to 2:00' to raise the floor. First empirical iteration on the duration language. 928 chars.",
+    "tags": [
+      "neoclassical-film-score",
+      "arch-form",
+      "shakuhachi",
+      "bass-oboe",
+      "waterphone",
+      "66bpm",
+      "d-minor",
+      "e-flat-minor",
+      "palindromic",
+      "symmetric",
+      "first-use-shakuhachi",
+      "first-use-bass-oboe",
+      "revival-waterphone",
+      "mirror-memory-scene",
+      "duration-fix-v113",
+      "2-minute-cue",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "the-first-and-last-note-are-the-same-v114.yaml",
+    "_slug": "the-first-and-last-note-are-the-same-v114"
+  },
+  {
     "name": "the-question-that-keeps-being-asked",
     "version": 113,
     "style": "NEOCLASSICAL FUGUE FILM SCORE for a slow grief scene, total duration 1:00 to 2:00, with CLAVICHORD + HURDY GURDY + VIOLA DA GAMBA, three Baroque voices answering each other through a descending subject, E minor to F minor, 60 BPM, instrumental. From 0:00 clavichord states the subject alone — intimate keyboard tones trembling in the stillness of an empty chapel. At 0:20 hurdy gurdy enters with the answer a fifth above, wheel-fiddle drone weaving around the clavichord. At 0:45 viola da gamba rises with the subject in its deepest voice, Baroque bowed strings grounding the conversation. From 1:00 all three voices counterpoint in stretto, entries crowding closer. Chamber strings bloom at 1:10. Silence at 1:25 — three beats of stillness. At 1:30 music returns in F minor half-step up, three voices in unison over a chamber swell, fortississimo. Ends at 1:50. No guitars, no vocals, no drums, no pipe organ.",

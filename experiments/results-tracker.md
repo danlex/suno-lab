@@ -4,6 +4,36 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-12 — v114 cycle (first arch form + duration-language iteration)
+
+**Submitted:** v114 "The First and Last Note Are the Same" — NEOCLASSICAL FILM SCORE with shakuhachi + bass oboe + waterphone. First palindromic ARCH FORM (ABCBA) in the repo. Two repo first-uses (shakuhachi, bass oboe) + one deep revival (waterphone, last in v94 — 20 versions ago).
+
+**What was tried:**
+- First symmetric architecture — arch form where the second half mirrors the first in reverse. Contrasts with all prior linear forms (v110 bolero, v111 passacaglia, v112 lone-center, v113 fugue).
+- Duration-language iteration: tightened "total duration 1:00 to 2:00" → "1:30 to 2:00" to raise the floor after v113's 0:44 undershoot.
+- First use of shakuhachi. Needed new exclude_styles entries ("zen meditation", "new age") to prevent the Japanese flute from triggering wrong aesthetic.
+
+**Why:**
+- Research (chaconne vs passacaglia) revealed the distinction is "arbitrary and historically unfounded" per scholarship, so pivoted from chaconne to arch form for cleaner form-novelty signal.
+- v113's 0:44 undershoot demanded a duration-language fix this cycle to test whether a higher floor holds.
+
+**What we learned:**
+- **Form-hijack bug (continued from v113) was bigger than I thought.** When I first clicked Create for v114, nothing submitted. Investigation revealed (a) the lyrics field had been auto-filled with `[Climax] AAAHH... AAHH...` from a hijack when I interacted with the detail panel, (b) Suno likely refused the submit because instrumental=on + lyrics=non-empty is contradictory state. Fix: clear lyrics field explicitly before every submission, not just trust the initial state. This should go in the `/suno` skill hardening.
+- **Post-submit verification fix works.** Instead of inspecting form state after clicking Create (which gets hijacked), polled the workspace for the new title appearing as a song-link. Clean and reliable — confirmed v114 submitted on the second Create click without ambiguity.
+- **Pending:** does the "1:30 to 2:00" language actually raise the floor, or does Suno still undershoot? Verify by listening to both v114 versions.
+
+**Harness additions this cycle:**
+- Post-submit verification via title-poll (applied in-session; should be codified in `.claude/skills/suno/SKILL.md` next cycle)
+- `exclude_styles` pattern for shakuhachi/non-Western flutes: add "zen meditation, new age" to prevent wrong aesthetic triggering
+- Lyrics-field clear step before submission (new /suno skill step)
+
+**Open:**
+- Listen to v113 + v114 in a batch to verify duration constraint actually works
+- Codify the /suno post-submit fix + lyrics-clear step in the skill
+- Next cycle should try another unexplored form: theme-and-variations, rondo, or sonata form
+
+---
+
 ## 2026-04-12 — v113 cycle (first 1–2 minute duration test)
 
 **Submitted:** v113 "The Question That Keeps Being Asked" — NEOCLASSICAL FUGUE FILM SCORE with clavichord + hurdy gurdy + viola da gamba. First fugue form in the repo. Three never-used Baroque instruments as a historically-coherent trio.
