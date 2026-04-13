@@ -1,5 +1,37 @@
 [
   {
+    "name": "the-intervals-your-ear-forgot",
+    "version": 132,
+    "style": "ORCHESTRAL QUARTER-TONE film score for a glassblower-at-dawn scene, total duration 1:00 to 2:00, with CRISTAL BASCHET + CIMBALOM + PICCOLO, 24-note equal temperament where each pitch has a quarter-tone neighbor sliding in and out, C-sharp major to D major, 106 BPM, instrumental. From 0:00 cristal baschet enters alone — bowed glass rods, continuous glissandi between the keys of the piano. At 0:20 cimbalom joins, hammered strings with microtonal bends between each note. At 0:45 piccolo rises, shrill trills splitting each whole step into four. At 1:15 full orchestra enters, strings in quarter-tone harmonic fields, woodwinds bending sustained chords, brass holding just-intonation intervals. Silence at 1:25 — four seconds of rest. At 1:30 music returns in D major half-step up, all three voices fortississimo with crystalline microtonal bloom. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "The Intervals Your Ear Forgot",
+    "lyrics": "[Short Instrumental Intro]\n[Glass Glissando]\n[Hammered Microtones]\n[Shrill Quarter-Tone Trills]\n[Quarter-Tone Harmonic Field]\n[Silence]\n[Return Half-Step Up]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, experimental noise, free jazz, atonal",
+    "notes": "v132 — ORCHESTRAL QUARTER-TONE MICROTONAL. Seventh 20th-century avant-garde technique after micropolyphony (v126), minimalism (v127), spectral (v128), aleatoric (v129), twelve-tone (v130), stochastic (v131). Quarter-tone = 24-note equal temperament — each half-step split in two. All non-percussive orchestral instruments can play microtonal gradations: winds via embouchure + altered fingerings, strings via fingerboard placement. RESEARCH: Microtonality research confirms orchestral feasibility. Notation uses double-flat/double-sharp symbols with arrows or dedicated glyphs. Composer name blocklist — Ives, Haba, Maneri, Grisey, Partch all omitted. Tonal framing kept (C#→D major) to avoid v130 atonal duration collapse. INSTRUMENTS: Cristal baschet (×3, last v112 — 20-gap) = bowed glass rods, naturally continuous pitch, literal microtonal instrument. Cimbalom (×2, last v115 — 17-gap) = hammered dulcimer, capable of microtonal bends between strikes. Piccolo (×2, last v116 — 16-gap) = highest woodwind, shrill microtonal trills. Three deep revivals, each from a distinct family: bowed glass, struck string, edge-blown wind. NOVELTY: First quarter-tone / microtonal. 106 BPM = never used. C# major (×2) = near-virgin key. Crystalline / between-the-notes emotion (new territory). 932 chars.",
+    "tags": [
+      "orchestral-quarter-tone",
+      "microtonal",
+      "cristal-baschet",
+      "cimbalom",
+      "piccolo",
+      "106bpm",
+      "c-sharp-major",
+      "d-major",
+      "24-note-equal-temperament",
+      "glassblower-scene",
+      "deep-revival-cristal-baschet-20-gap",
+      "deep-revival-cimbalom-17-gap",
+      "deep-revival-piccolo-16-gap",
+      "new-technique",
+      "new-bpm",
+      "20th-century-avant-garde",
+      "tonal-framing",
+      "research-driven"
+    ],
+    "_file": "the-intervals-your-ear-forgot-v132.yaml",
+    "_slug": "the-intervals-your-ear-forgot-v132"
+  },
+  {
     "name": "the-shape-probability-takes",
     "version": 131,
     "style": "ORCHESTRAL STOCHASTIC film score for a weather-front-rolling-in scene, total duration 1:00 to 2:00, with PREPARED PIANO + CONTRABASS CLARINET + TUBA, probability-density writing where pitches emerge from Gaussian distributions, E minor to F minor, 94 BPM, instrumental. From 0:00 contrabass clarinet enters alone — long chromatic held tones with slow microtonal drift. At 0:18 prepared piano joins, muted hammers inside-the-piano, pointillistic attacks scattered by chance. At 0:42 tuba rises, low brass gravitational field while strings form clouds of randomized pitch density, each section a statistical distribution rather than counterpoint. Peak density at 1:15, woodwinds and brass layering probability masses. Silence at 1:22 — three seconds of void. At 1:25 music returns in F minor half-step up, all three voices fortississimo emerging from the cloud. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
