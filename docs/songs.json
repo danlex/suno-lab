@@ -1,5 +1,36 @@
 [
   {
+    "name": "the-melody-that-changes-color",
+    "version": 135,
+    "style": "ORCHESTRAL KLANGFARBENMELODIE film score for a lighthouse-beam-sweeping scene, total duration 1:00 to 2:00, with THEREMIN + TUBULAR BELLS + FLUGELHORN, tone-color melody where each note comes from a different instrument, the melody made of timbres not pitches, A major to B-flat major, 126 BPM, instrumental. From 0:00 theremin sings note one, gliding pitch. At 0:06 tubular bells strike note two, sharp metallic. At 0:12 flugelhorn plays note three, warm muted brass. Three voices alternate, each note a different color. At 0:40 orchestra enters, strings, woodwinds, brass passing the tune one note at a time. Peak 1:15 all three featured voices lock into one chord of mixed timbres. Silence at 1:22 — three seconds. At 1:25 music returns in B-flat major half-step up, fortississimo, the orchestra in one brilliant color. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "The Melody That Changes Color",
+    "lyrics": "[Short Instrumental Intro]\n[Theremin Note One]\n[Tubular Bell Note Two]\n[Flugelhorn Note Three]\n[Orchestral Color-Trade]\n[Mixed-Timbre Chord]\n[Silence]\n[Return in One Color]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, sci-fi",
+    "notes": "v135 — ORCHESTRAL KLANGFARBENMELODIE. German = 'tone-color melody'. Instead of a melody being a sequence of pitches played by one instrument, each note comes from a different instrument — the melody becomes a progression of timbres. Originated with Schoenberg's 1911 Harmonielehre, most famous in Webern's Op. 10. Composer names omitted per blocklist. DISTINCT from: theme-and-variations (v119, same melody different colors block by block); this technique changes timbre note-by-note. INSTRUMENTS chosen for maximum timbral contrast: Theremin (×2, last v119 — 16-gap) = continuous gliding pitch, eerie/vocal. Tubular bells (×2, last v119 — 16-gap) = sharp metallic strike, long decay. Flugelhorn (×2, last v123 — 12-gap) = warm muted brass, velvety. Three completely different attack profiles and spectral signatures — ideal for the technique. Add 'sci-fi' to exclude_styles because theremin often drags Suno into that category. DURATION STRATEGY: tonal (A→Bb MAJOR), rhythmic alternation (strong pulse language), explicit exclusion of 'atonal' + 'microtonal' + 'sci-fi'. NOVELTY: First klangfarbenmelodie. 126 BPM = never used. Bb major (×2 → 3). Lighthouse-beam = novel image, suggests sweep + coloring. Sudden-color-shift emotion. 906 chars.",
+    "tags": [
+      "orchestral-klangfarbenmelodie",
+      "tone-color-melody",
+      "theremin",
+      "tubular-bells",
+      "flugelhorn",
+      "126bpm",
+      "a-major",
+      "b-flat-major",
+      "lighthouse-scene",
+      "deep-revival-theremin-16-gap",
+      "deep-revival-tubular-bells-16-gap",
+      "revival-flugelhorn-12-gap",
+      "new-technique",
+      "new-bpm",
+      "early-20th-century",
+      "tonal-framing",
+      "research-driven"
+    ],
+    "_file": "the-melody-that-changes-color-v135.yaml",
+    "_slug": "the-melody-that-changes-color-v135"
+  },
+  {
     "name": "the-line-you-only-hear-together",
     "version": 134,
     "style": "ORCHESTRAL HOQUETUS film score for a hummingbird-in-slow-motion scene, total duration 1:00 to 2:00, with ONDES MARTENOT + COR ANGLAIS + BASS FLUTE, medieval hocket where a melodic line is split between voices so rapidly each seems incomplete alone, F-sharp major to G major, 118 BPM, instrumental. From 0:00 bass flute enters with a descending line that breaks off every third note. At 0:18 cor anglais fills the gaps, each fragment continuing where the flute stopped. At 0:40 ondes martenot joins with continuous gliding pitch, weaving the third voice through the cracks. At 1:10 full orchestra takes the pattern, strings, woodwinds, brass trading a single line in rapid alternation. Peak 1:20 where all three voices lock into unison. Silence at 1:25 — four seconds. At 1:30 music returns in G major half-step up, fortississimo, the line finally unbroken. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
