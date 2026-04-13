@@ -4,6 +4,34 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — v141 cycle (first toccata + three-deep-revival trio)
+
+**Submitted:** v141 "Where the Bells Run Ahead" — ORCHESTRAL TOCCATA with celesta + glass harmonica + subcontrabass saxophone.
+
+**What was tried:**
+- Toccata form: Baroque virtuosic improvisatory form, rapid runs/arpeggios alternating with chordal and fugal sections, loose sectional structure. Distinct from fugue (pure imitation) — toccata juxtaposes improvisation with fugal writing.
+- Trio = CELESTA (v118, 23-gap) + GLASS HARMONICA (v112, 29-gap) + SUBCONTRABASS SAXOPHONE (v118, 23-gap). All three gap ≥ 23 — deepest-revival-trio of recent cycles. Three families: keyboard / friction-glass idiophone / low woodwind.
+- 121 BPM (never used). F# minor to G minor half-step modulation. Scene: bell-tower-at-first-light.
+- Research source: Britannica + Wikipedia toccata entries (2026-04-13 WebSearch).
+
+**Why:**
+- Completing Baroque forms not yet in evolution.md mindmap. Toccata is the canonical virtuosic keyboard idiom of the period — orchestrating it forces the celesta/glass-harmonica voices to carry runs that would normally sit in one pair of hands.
+
+**Clips:**
+- `fe1c1774-5fdd-4ff5-82ac-439cc1db03c7`
+- `875c1796-06a1-49ef-84ea-69bb2ab80242`
+- (Durations pending — captured on screenshot mid-generation.)
+
+**What we learned:**
+- TBD on duration — will revisit after listening. If clips are short again, the short-output pattern isn't specific to ritornello (v140) — it's something about the 3-min framing itself or this trio mix.
+- Confirmed form_input + voice-modal-trap workaround still holds. Double-Create click not needed this cycle — clips appeared from the first click.
+
+**Open:**
+- Need to listen to v140 + v141 side by side and update evolution.md with whichever 3-min framing worked.
+- Still pending: exercise the new suno-researcher and suno-judge subagents (requires session restart).
+
+---
+
 ## 2026-04-13 — v140 cycle (first ritornello form)
 
 **Submitted:** v140 "What Returns from the Winter Sea" — ORCHESTRAL RITORNELLO concerto grosso with cornet + nyckelharpa + felt piano.

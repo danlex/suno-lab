@@ -1,0 +1,19 @@
+name: "where-the-bells-run-ahead"
+version: 141
+style: "ORCHESTRAL TOCCATA for a bell-tower-at-first-light scene, total duration around 3:00, with CELESTA + GLASS HARMONICA + SUBCONTRABASS SAXOPHONE against orchestral tutti, virtuosic runs alternating with chordal and fugal sections, F# minor to G minor, 121 BPM, instrumental. From 0:00 celesta opens alone with cascading arpeggios like bronze bells, light-footed runs climbing into cold air. At 0:25 glass harmonica joins above, friction-glass partials floating through the celesta figuration. At 1:00 subcontrabass saxophone enters far below, chordal pedal tones under the runs, orchestra swelling in fugal imitation. Peak at 2:00, the three voices locked with the tutti, runs dissolving into block chords. Silence at 2:10, five seconds still as dawn unbroken. At 2:15 the toccata returns in G minor fortississimo, half-step up, runs paired to massed strings. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Where the Bells Run Ahead"
+lyrics: |
+  [Short Instrumental Intro]
+  [Celesta Cascading Arpeggios Alone]
+  [Glass Harmonica Floats Above]
+  [Subcontrabass Saxophone Deep Pedal]
+  [Orchestra Enters in Fugal Imitation]
+  [Runs Dissolve into Block Chords]
+  [Peak at Two Minutes]
+  [Silence]
+  [Return in G Minor Fortississimo]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cocktail jazz, smooth jazz"
+notes: "v141 — ORCHESTRAL TOCCATA. Baroque virtuosic form: rapid runs and arpeggios alternating with chordal/fugal sections, improvisational feel over loose sectional structure. Distinct from v141-prior fugue/canon work — toccata is the juxtaposition of improvisatory and fugal passages, not pure imitation. Research source: Britannica + Wikipedia toccata entries, 2026-04-13 WebSearch. Composer names associated with the form omitted per blocklist. DURATION: ~3-min arc with 121 BPM walking pulse (fast enough to carry cascading runs), matches v137+ 3-min override. INSTRUMENTS: Celesta (×5, last v118 — 23-gap) = bell-like keyboard for rapid toccata arpeggios, the idiomatic voice. Glass harmonica (×5, last v112 — 29-gap) = friction-glass partials that float unmoored in the 1-4kHz band, pairs with celesta as a second bell-color. Subcontrabass saxophone (×2, last v118 — 23-gap) = deep pedal fundament to anchor the upper running voices. Three families: keyboard, metallic idiophone / friction, low woodwind. All three deep revivals (gap >=23). NOVELTY: First orchestral toccata. 121 BPM = never used. F# minor uncommon. Scene bell-tower-at-first-light = new dawn-architectural image. Cascading-virtuosity emotion. 941 chars."
+tags: [orchestral-toccata, baroque-form, virtuosic, celesta, glass-harmonica, subcontrabass-saxophone, 121bpm, f-sharp-minor, g-minor, bell-tower-scene, dawn, three-minute-arc, revival-celesta-23-gap, revival-glass-harmonica-29-gap, revival-subcontrabass-sax-23-gap, new-technique, new-bpm, duration-3min, baroque-renaissance, research-driven]
