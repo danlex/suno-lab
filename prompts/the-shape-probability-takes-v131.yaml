@@ -1,0 +1,17 @@
+name: "the-shape-probability-takes"
+version: 131
+style: "ORCHESTRAL STOCHASTIC film score for a weather-front-rolling-in scene, total duration 1:00 to 2:00, with PREPARED PIANO + CONTRABASS CLARINET + TUBA, probability-density writing where pitches emerge from Gaussian distributions, E minor to F minor, 94 BPM, instrumental. From 0:00 contrabass clarinet enters alone — long chromatic held tones with slow microtonal drift. At 0:18 prepared piano joins, muted hammers inside-the-piano, pointillistic attacks scattered by chance. At 0:42 tuba rises, low brass gravitational field while strings form clouds of randomized pitch density, each section a statistical distribution rather than counterpoint. Peak density at 1:15, woodwinds and brass layering probability masses. Silence at 1:22 — three seconds of void. At 1:25 music returns in F minor half-step up, all three voices fortississimo emerging from the cloud. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "The Shape Probability Takes"
+lyrics: |
+  [Short Instrumental Intro]
+  [Chromatic Drift]
+  [Pointillistic Scatter]
+  [Gravitational Field]
+  [Probability Cloud Peak]
+  [Silence]
+  [Return Half-Step Up]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, experimental noise, free jazz, atonal"
+notes: "v131 — ORCHESTRAL STOCHASTIC. Sixth 20th-century avant-garde technique after micropolyphony (v126), minimalism (v127), spectral (v128), aleatoric (v129), twelve-tone (v130). Stochastic = probability-density composition: pitches/durations/timbres emerge from statistical distributions (Gaussian, Poisson, Markov chains) rather than deterministic writing. RESEARCH: Pithoprakta (1955-56) and Achorripsis (1957) were foundational orchestral works modeling large-scale sonic behavior via probability — 'clouds of sound' formalism, kinetic-theory-of-gases applied to orchestration. Composer name omitted per blocklist. KEY LESSON FROM v130: atonal framing shortened Suno output durations (all clips <1:00). Fix: use tonal framing (E minor → F minor) while keeping stochastic textural language. Added 'atonal' to exclude_styles. INSTRUMENTS: Prepared piano (×2, last v95 — **36-VERSION GAP, DEEPEST REVIVAL OF THIS SESSION after v129's 37-gap french horn**) = inside-the-piano muted hammers, percussive pointillistic attacks perfect for probability scatter. Contrabass clarinet (×2, last v97 — 34-gap) = lowest woodwind, chromatic microtonal drift across wide range. Tuba (×2, last v104 — 27-gap) = deep brass gravitational field anchoring statistical clouds. Three deep revivals in one trio = rarest palette since session began. NOVELTY: First stochastic. 94 BPM = never used. F minor key (×? check). Mathematical-beauty / emergent-form emotion. Tonal framing preserved to avoid v130 duration collapse. 943 chars."
+tags: [orchestral-stochastic, prepared-piano, contrabass-clarinet, tuba, 94bpm, e-minor, f-minor, probability-density, gaussian-distribution, weather-scene, deepest-revival-prepared-piano-36-gap, deep-revival-contrabass-clarinet-34-gap, deep-revival-tuba-27-gap, new-technique, new-bpm, 20th-century-avant-garde, tonal-framing, duration-fix-attempt, research-driven]

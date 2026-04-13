@@ -2,7 +2,7 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v130 (2026-04-13)
+Last updated: v131 (2026-04-13)
 
 ## Mindmap (Mermaid)
 
@@ -34,6 +34,7 @@ mindmap
         Spectral — overtone-derived harmony [v128]
         Aleatoric — chance/indeterminate, performer choice [v129]
         Twelve-tone serialism — atonal, all 12 pitches equal [v130]
+        Stochastic — probability-density, Gaussian distributions [v131]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -189,8 +190,9 @@ mindmap
 | Spectral | v128 | Harmonies derived from overtone series analysis | Done |
 | Aleatoric | v129 | Indeterminate pitches/timings, performer chooses within framework | Done |
 | Twelve-tone serialism | v130 | Atonal, all 12 chromatic pitches equal | Done (short-duration artifact) |
+| Stochastic | v131 | Probability-density writing, Gaussian distributions over pitch/timbre | Done (tonal framing to avoid v130 duration collapse; first clip still came in 0:29) |
 
-**Classical forms + 5 major avant-garde techniques complete.** Next frontier: stochastic, musique concrète.
+**Classical forms + 6 major avant-garde techniques complete.** Next frontier: musique concrète, granular synthesis, integral serialism.
 
 ## Duration experiment — CONCLUDED
 
