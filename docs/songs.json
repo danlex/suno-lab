@@ -1,5 +1,37 @@
 [
   {
+    "name": "the-river-that-never-stops-running",
+    "version": 138,
+    "style": "ORCHESTRAL MOTO PERPETUO film score for a river-rapids scene, total duration around 3:00, with GLASS MARIMBA + BASS TROMBONE + VIOLA DA GAMBA, continuous sixteenth-note motion that never stops, B-flat major to B major, 136 BPM, instrumental. From 0:00 viola da gamba alone runs the perpetual line, bowed sixteenths circling a pentatonic pattern. At 0:25 glass marimba enters with parallel sixteenths an octave above, mallets blurring across crystal bars. At 1:00 bass trombone joins with slower counterpoint in eighth notes. At 2:00 full orchestra layers in, strings sustaining the pulse, woodwinds passing the line through register, brass anchoring against the moving voices. Peak 2:05 with full motoric texture. Silence at 2:10 — five seconds where the motion stops. At 2:15 music returns in B major half-step up, fortississimo, sixteenths racing again. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "The River That Never Stops Running",
+    "lyrics": "[Short Instrumental Intro]\n[Perpetual Sixteenths Alone]\n[Glass Marimba Octave Above]\n[Bass Trombone Counterpoint]\n[Orchestral Motoric Layering]\n[Peak Motoric Texture]\n[Silence]\n[Return Half-Step Up Racing]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone",
+    "notes": "v138 — ORCHESTRAL MOTO PERPETUO. Italian = 'perpetual motion'. Continuous unbroken stream of equal-length notes (typically sixteenths) maintained throughout. Famous in Paganini's Op. 11 violin moto perpetuo, Rimsky-Korsakov's Flight of the Bumblebee, and many Baroque toccatas. Composer names omitted per blocklist. DURATION HYPOTHESIS: motoric continuous-pulse texture should fight Suno's tendency to truncate. Strong rhythmic engine = sustained generation. Second ~3-minute prompt under new duration target. INSTRUMENTS: Glass marimba (×2, last v121 — 17-gap) = crystal bars, mallet blur ideal for sixteenth-note runs. Bass trombone (×2, last v121 — 17-gap) = low brass, slower counterpoint anchoring perpetual upper voices. Viola da gamba (×2, last v126 — 12-gap) = Baroque bowed string with deep chest register, capable of fluid bowed sixteenths. Three completely different attack profiles all sustaining the motion. NOVELTY: First moto perpetuo. 136 BPM = never used. Bb major (×2 → 3). River-rapids scene = kinetic, water-energy emotion (new). Pentatonic motion pattern (mentioned for tonal anchor). 939 chars.",
+    "tags": [
+      "orchestral-moto-perpetuo",
+      "perpetuum-mobile",
+      "glass-marimba",
+      "bass-trombone",
+      "viola-da-gamba",
+      "136bpm",
+      "b-flat-major",
+      "b-major",
+      "river-rapids",
+      "three-minute-arc",
+      "revival-glass-marimba-17-gap",
+      "revival-bass-trombone-17-gap",
+      "revival-viola-da-gamba-12-gap",
+      "new-technique",
+      "new-bpm",
+      "duration-3min",
+      "motoric-pulse",
+      "duration-hypothesis-test"
+    ],
+    "_file": "the-river-that-never-stops-running-v138.yaml",
+    "_slug": "the-river-that-never-stops-running-v138"
+  },
+  {
     "name": "the-forest-that-sings-in-fifths",
     "version": 137,
     "style": "ORCHESTRAL ORGANUM film score for a snow-silent-forest-clearing-at-dawn scene, total duration around 3:00, with HARPSICHORD + HARDANGER FIDDLE + MARIMBA, medieval parallel-voice polyphony where three lines move in consonant 4ths, 5ths, octaves, G minor to A-flat minor, 72 BPM, instrumental. From 0:00 harpsichord alone states a plainchant-shaped melody, slow and measured. At 0:25 hardanger fiddle joins five notes higher in strict parallel, sympathetic strings resonating. At 1:00 marimba enters an octave below, wooden pulses on every strong beat, three voices locked in consonant motion. At 2:00 orchestra enters, strings doubling the organum, woodwinds sustaining the drone, brass in parallel 5ths. Silence at 2:10 — five seconds of forest stillness. At 2:15 music returns in A-flat minor half-step up, fortississimo, parallel motion preserved. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
