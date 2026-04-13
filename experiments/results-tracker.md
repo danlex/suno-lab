@@ -4,6 +4,30 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — v128 cycle (first spectral + two first-use instruments)
+
+**Submitted:** v128 "Every Sound Contains a Thousand Sounds" — ORCHESTRAL SPECTRAL with spinet + bowed vibraphone + musical saw.
+
+**What was tried:**
+- Spectral music: harmonic structures derived from overtone series analysis. Explicit in prompt: "strings playing only the 2nd, 3rd, 5th, 7th partials, crystalline overtone chords."
+- TWO first-use instruments in one prompt: SPINET (never used in 127 prior prompts) + MUSICAL SAW (never used). Plus BOWED VIBRAPHONE (v99, 28-version gap — DEEPEST available revival).
+- Eb major → E major. 86 BPM (never used).
+- Scene: cathedral bell decay — perfect for spectral/overtone focus.
+
+**Why:**
+- Third avant-garde technique after micropolyphony (v126, chaotic cloud) and minimalism (v127, precise emergence). Spectral = structured from sound analysis itself.
+- Research: Wikipedia + Grokipedia + Fineberg paper confirm 1970s Paris emergence (Grisey/Murail — not named per blocklist). Additive instrumental synthesis. Microtones common.
+
+**What we learned:**
+- First Create click failed silently AGAIN (form still pre-submit). Second click went through. This is now the 3rd time this pattern has appeared (v120, v127, v128). Suno's Create button may need a hover+focus before click registers.
+- v127 all 4 clips finalized: **0:44, 0:49, 1:04, 1:13** — 3 of 4 within 1-2 min target, one just below. Minimalism + moderate BPM continues to produce tight durations.
+
+**Open:**
+- Next avant-garde: aleatoric, 12-tone/serialism, stochastic
+- First-use count: spinet, musical saw (this cycle) — very few first-use instruments remaining
+
+---
+
 ## 2026-04-13 — v127 cycle (first minimalism + on-target durations)
 
 **Submitted:** v127 "The Moment Before the Patterns Align" — ORCHESTRAL MINIMALISM (phase shifting) with nyckelharpa + felt piano + cornet. **Clips: 1:04 and 1:13** — BOTH in the 1-2 minute target range.

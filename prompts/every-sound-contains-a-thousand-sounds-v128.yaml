@@ -1,0 +1,17 @@
+name: "every-sound-contains-a-thousand-sounds"
+version: 128
+style: "ORCHESTRAL SPECTRAL film score for a cathedral-bell-decay scene, total duration 1:00 to 2:00, with SPINET + BOWED VIBRAPHONE + MUSICAL SAW, overtone-rich harmonies derived from the partials inside each fundamental tone, E-flat major to E major, 86 BPM, instrumental. From 0:00 spinet enters alone — plucked keyboard striking a single note whose overtones shimmer above. At 0:18 bowed vibraphone rises, metallic bars bowed into pure harmonic sustain, each overtone a separate voice. At 0:40 musical saw adds microtonal glissandi, bending pitch between the partials. At 1:00 orchestra joins — strings playing only the 2nd, 3rd, 5th, 7th partials, crystalline overtone chords. Silence at 1:25 — overtones hang in the air. At 1:28 music returns in E major half-step up, all three voices fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Every Sound Contains a Thousand Sounds"
+lyrics: |
+  [Short Instrumental Intro]
+  [Fundamental]
+  [Overtone Layers]
+  [Microtonal Glissandi]
+  [Spectral Chord]
+  [Silence]
+  [Return]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, folk, experimental noise"
+notes: "v128 — ORCHESTRAL SPECTRAL. Third 20th-century avant-garde technique after v126 micropolyphony and v127 minimalism. Spectral music derives harmonic structure from analyzing the overtone series of fundamental frequencies — chords are literally built from the partials (2nd, 3rd, 5th, 7th harmonics) of a fundamental note. Emerged in Paris 1970s as alternative to serialism. Uses microtonal tuning to access the non-equal-tempered overtone series. RESEARCH: Wikipedia Spectral Music + Grokipedia + Fineberg 'Basics of Spectral' confirm technique. Key technique: additive instrumental synthesis (instruments play discrete components of a sound). Aesthetic not dogma — flexible. INSTRUMENTS: Spinet (NEVER USED — first use in 127 prior prompts) = smaller harpsichord variant with bright, plucked overtones. Bowed vibraphone (v99, 28-version gap — DEEPEST currently available revival) = metallic bars bowed into pure harmonic sustain, reveals individual overtones. Musical saw (NEVER USED — first use) = bowed saw blade, haunting microtonal glissandi, accesses non-equal-tempered pitches. All three instruments chosen for their rich overtone content. TWO FIRST-USES in one prompt! NOVELTY: First spectral technique. First spinet. First musical saw. 86 BPM = never used. Eb major → E major both relatively underused. Wonder/revelation emotion (new territory). 953 chars."
+tags: [orchestral-spectral, spinet, bowed-vibraphone, musical-saw, 86bpm, e-flat-major, e-major, overtone-series, microtonal, harmonic-partials, first-use-spinet, first-use-musical-saw, deep-revival-bowed-vibraphone, new-technique, new-bpm, 20th-century-avant-garde, synthesis-era, research-driven]

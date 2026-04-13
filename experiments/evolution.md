@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v127 (2026-04-13)
+Last updated: v128 (2026-04-13)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v127))
+  root((Suno craft v128))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -31,6 +31,7 @@ mindmap
         Passamezzo — repeating ground bass, obsessive [v125]
         Micropolyphony — dense cloud, no melody [v126]
         Minimalism phase shifting — patterns drift in and out [v127]
+        Spectral — overtone-derived harmony [v128]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -151,6 +152,12 @@ mindmap
 - clavichord (v126, from v113), viola da gamba (v126, from v113), mellotron (v126, from v116)
 - nyckelharpa (v127, from v111), felt piano (v127, from v112), cornet (v127, from v115)
 
+### First-used this session (v126-v128)
+- spinet (v128, FIRST USE), musical saw (v128, FIRST USE) — both never-before-used
+
+### Deepest revival this session
+- bowed vibraphone (v128, from v99 — **28-version gap, new record for this session**)
+
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
 - timpani ×27, cello ×26, string orchestra ×19
@@ -176,8 +183,9 @@ mindmap
 | Passamezzo | v125 | Repeating ground bass, obsessive | Done |
 | Micropolyphony | v126 | 20th-century dense cloud, no melody | Done |
 | Minimalism phase shifting | v127 | Repeated patterns drift in and out of phase | Done |
+| Spectral | v128 | Harmonies derived from overtone series analysis | Done |
 
-**Classical forms + 2 avant-garde techniques complete.** Next frontier: spectral music, aleatoric, 12-tone/serialism, stochastic, and new emotional territories.
+**Classical forms + 3 avant-garde techniques complete.** Next frontier: aleatoric, 12-tone/serialism, stochastic, musique concrète, and new emotional territories.
 
 ## Duration experiment — CONCLUDED
 
@@ -225,6 +233,7 @@ mindmap
 | 125 | Every Step Is the Same Step | orchestral passamezzo | Bb→B minor | 124 | balafon + hurdy gurdy + shakuhachi |
 | 126 | A Room That Breathes On Its Own | orchestral micropolyphony horror | Ab→A minor | 68 | clavichord + viola da gamba + mellotron |
 | 127 | The Moment Before the Patterns Align | orchestral minimalism | A→Bb MAJOR | 116 | nyckelharpa + felt piano + cornet |
+| 128 | Every Sound Contains a Thousand Sounds | orchestral spectral | Eb→E MAJOR | 86 | spinet + bowed vibraphone + musical saw |
 
 ## Next-cycle priorities
 
