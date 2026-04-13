@@ -1,5 +1,37 @@
 [
   {
+    "name": "where-each-note-decides-itself",
+    "version": 129,
+    "style": "ORCHESTRAL ALEATORIC film score for a star-chart-drawn-from-chance scene, total duration 1:00 to 2:00, with FRENCH HORN + HARP + WATERPHONE, indeterminate pitches and timings where each player chooses within a framework, D-flat minor to D minor, 82 BPM, instrumental. From 0:00 waterphone enters alone — bowed metallic rods producing unpredictable harmonics. At 0:18 harp joins with glissandi across indeterminate pitch sets, fingers choosing notes from possibilities. At 0:40 french horn rises, muted brass playing microtonal bends and multiphonics. At 1:00 full orchestra enters — strings in clouds of indeterminate pitches, woodwinds choosing entry points, controlled chaos forming cosmic pattern. Silence at 1:25 — chance held still. At 1:28 music returns in D minor half-step up, all three voices fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "Where Each Note Decides Itself",
+    "lyrics": "[Short Instrumental Intro]\n[Indeterminate Entry]\n[Chance Glissandi]\n[Microtonal Brass]\n[Controlled Chaos]\n[Silence]\n[Return]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, experimental noise, free jazz",
+    "notes": "v129 — ORCHESTRAL ALEATORIC. Fourth 20th-century avant-garde technique after micropolyphony (v126, dense cloud), minimalism (v127, precise patterns), spectral (v128, overtone-derived). Aleatoric = chance/indeterminate music. Performers make decisions within a framework — pitch sets, time windows, graphic notation. From Latin 'alea' = dice. RESEARCH: MasterClass + Wikipedia + Britannica confirm technique. Foundational work 'Music of Changes' (1951). Three types: random procedures → fixed score, mobile form, indeterminate notation. Paired with composers who are all blocklist (names omitted). INSTRUMENTS: French horn (×5, last v92 — **37-VERSION GAP, DEEPEST REVIVAL OF THE ENTIRE SESSION**) = warm brass, capable of multiphonics and microtonal bends. Harp (×7, v118, 11-gap) = glissandi across indeterminate pitch sets, archetypal chance-music instrument. Waterphone (×4, v114, 15-gap) = bowed metallic rods producing inherently unpredictable harmonics, literal aleatoric instrument. NOVELTY: First aleatoric. 82 BPM = never used. Db minor (×1) = near-virgin key. French horn 37-gap sets new depth record for this session. Wonder/indeterminacy emotion (new). Added 'experimental noise, free jazz' to exclude_styles to prevent the aleatoric concept from triggering abstract-noise territory. 920 chars.",
+    "tags": [
+      "orchestral-aleatoric",
+      "french-horn",
+      "harp",
+      "waterphone",
+      "82bpm",
+      "d-flat-minor",
+      "d-minor",
+      "indeterminate",
+      "chance-music",
+      "star-chart",
+      "deepest-revival-french-horn-37-gap",
+      "revival-harp",
+      "revival-waterphone",
+      "new-technique",
+      "new-bpm",
+      "20th-century-avant-garde",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "where-each-note-decides-itself-v129.yaml",
+    "_slug": "where-each-note-decides-itself-v129"
+  },
+  {
     "name": "every-sound-contains-a-thousand-sounds",
     "version": 128,
     "style": "ORCHESTRAL SPECTRAL film score for a cathedral-bell-decay scene, total duration 1:00 to 2:00, with SPINET + BOWED VIBRAPHONE + MUSICAL SAW, overtone-rich harmonies derived from the partials inside each fundamental tone, E-flat major to E major, 86 BPM, instrumental. From 0:00 spinet enters alone — plucked keyboard striking a single note whose overtones shimmer above. At 0:18 bowed vibraphone rises, metallic bars bowed into pure harmonic sustain, each overtone a separate voice. At 0:40 musical saw adds microtonal glissandi, bending pitch between the partials. At 1:00 orchestra joins — strings playing only the 2nd, 3rd, 5th, 7th partials, crystalline overtone chords. Silence at 1:25 — overtones hang in the air. At 1:28 music returns in E major half-step up, all three voices fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",

@@ -4,6 +4,30 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — v129 cycle (first aleatoric + deepest-ever revival)
+
+**Submitted:** v129 "Where Each Note Decides Itself" — ORCHESTRAL ALEATORIC with french horn + harp + waterphone.
+
+**What was tried:**
+- Aleatoric (chance) music: indeterminate pitches and timings, performers choose within a framework. From Latin 'alea' = dice. Fourth 20th-century avant-garde technique.
+- FRENCH HORN (v92, **37-version gap — new session depth record**) + HARP (v118, 11-gap) + WATERPHONE (v114, 15-gap). Brass / plucked string / metallic ambient trio.
+- Db minor (×1) → D minor. 82 BPM (never used).
+
+**Why:**
+- Completing the canonical 20th-century avant-garde sequence: micropolyphony (v126) → minimalism (v127) → spectral (v128) → aleatoric (v129).
+- Research: Wikipedia + MasterClass + Britannica confirm technique. Foundational work 'Music of Changes' (1951, composer blocklist so not named). Three types: random procedures → fixed score, mobile form, indeterminate notation.
+
+**What we learned:**
+- **v128 on-target durations:** 1:32 and 1:38 — BOTH within 1-2 minute range. Spectral + 86 BPM + structured lyrics metatags produced tight duration control (like v127's 1:04/1:13). Pattern forming: moderate-BPM + 8-section lyrics + avant-garde genre labels = reliable target durations.
+- First Create click failed silently AGAIN (4th time: v120, v127, v128, v129). This is now well-established as systematic Suno UI behavior — first click dismisses menu, second click submits. Codify into /suno skill.
+- Browser disconnected mid-cycle, reconnected cleanly per `feedback_browser_self_fix.md`.
+
+**Open:**
+- Next avant-garde: stochastic, 12-tone serialism, musique concrète
+- Listen to verify aleatoric chance elements rendered vs determinate collapse
+
+---
+
 ## 2026-04-13 — Review & Publish cycle
 
 **Reviewed:** 10 songs from v119 to v128 (generated in last 25 hours)

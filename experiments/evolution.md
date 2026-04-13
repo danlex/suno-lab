@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v128 (2026-04-13)
+Last updated: v129 (2026-04-13)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v128))
+  root((Suno craft v129))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -32,6 +32,7 @@ mindmap
         Micropolyphony — dense cloud, no melody [v126]
         Minimalism phase shifting — patterns drift in and out [v127]
         Spectral — overtone-derived harmony [v128]
+        Aleatoric — chance/indeterminate, performer choice [v129]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -156,7 +157,8 @@ mindmap
 - spinet (v128, FIRST USE), musical saw (v128, FIRST USE) — both never-before-used
 
 ### Deepest revival this session
-- bowed vibraphone (v128, from v99 — **28-version gap, new record for this session**)
+- **french horn (v129, from v92 — 37-version gap, NEW RECORD)**
+- bowed vibraphone (v128, from v99 — 28-version gap)
 
 ### Overexposed — use as backdrop only, never feature
 - pipe organ ×50+, organ ×58+, piano ×40+
@@ -184,8 +186,9 @@ mindmap
 | Micropolyphony | v126 | 20th-century dense cloud, no melody | Done |
 | Minimalism phase shifting | v127 | Repeated patterns drift in and out of phase | Done |
 | Spectral | v128 | Harmonies derived from overtone series analysis | Done |
+| Aleatoric | v129 | Indeterminate pitches/timings, performer chooses within framework | Done |
 
-**Classical forms + 3 avant-garde techniques complete.** Next frontier: aleatoric, 12-tone/serialism, stochastic, musique concrète, and new emotional territories.
+**Classical forms + 4 avant-garde techniques complete (canonical 20th-century sequence done).** Next frontier: 12-tone/serialism, stochastic, musique concrète.
 
 ## Duration experiment — CONCLUDED
 
@@ -234,6 +237,7 @@ mindmap
 | 126 | A Room That Breathes On Its Own | orchestral micropolyphony horror | Ab→A minor | 68 | clavichord + viola da gamba + mellotron |
 | 127 | The Moment Before the Patterns Align | orchestral minimalism | A→Bb MAJOR | 116 | nyckelharpa + felt piano + cornet |
 | 128 | Every Sound Contains a Thousand Sounds | orchestral spectral | Eb→E MAJOR | 86 | spinet + bowed vibraphone + musical saw |
+| 129 | Where Each Note Decides Itself | orchestral aleatoric | Db→D minor | 82 | french horn + harp + waterphone |
 
 ## Next-cycle priorities
 
