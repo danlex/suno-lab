@@ -4,6 +4,41 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — Review & Publish cycle
+
+**Reviewed:** 10 songs from v119 to v128 (generated in last 25 hours)
+
+**Published (4 songs — one clip per version, prioritizing newest + most novel techniques):**
+1. **v127 "The Moment Before the Patterns Align"** (1:04) — ID `2251af68-7be9-4963-a2c1-c03d4940ad47` — first minimalism phase shifting, nyckelharpa + felt piano + cornet
+2. **v126 "A Room That Breathes On Its Own"** (2:12) — ID `f6f0a5bd-5146-4eef-9f9f-2053ab7f5549` — first micropolyphony horror, clavichord + viola da gamba + mellotron. (Validation: Suno's similar-songs engine surfaced "Atmosphères" — Ligeti reference — confirming technique rendered correctly.)
+3. **v125 "Every Step Is the Same Step"** (2:33) — ID `43040b49-0728-44a1-b7cb-69df4214289a` — first passamezzo, balafon (18-gap deepest revival) + hurdy gurdy + shakuhachi
+4. **v124 "The Frequency of Still Water"** (2:42) — ID `a6ef4700-8b46-4493-aa63-8dd05e1dab57` — first ricercare ambient drone, hardanger fiddle + mbira + oboe d'amore
+
+**Skipped (not published):**
+- v128 "Every Sound Contains a Thousand Sounds" — still generating at review time
+- v123 "Two Voices in the Same Rain" — not in newest 4 most-novel
+- v122 "What the Attic Remembers" — superseded by v124-v127 novelty
+- v121 "Beginning at the End" — superseded
+- v120 "Every Voice Chasing the Last" — 0:54/0:56 clips below 1:00 floor
+- v119 "The Same Story Told Three Ways" — superseded
+
+**Quality observations:**
+- All 4 published represent NEW architectural/technique firsts in the repo
+- 4 different emotional territories (minimalism wonder, horror dread, obsessive pursuit, meditative stillness)
+- Duration distribution: 1:04, 2:12, 2:33, 2:42 — good spread across the 1-3 minute zone
+- Minimalism + moderate BPM (v127) produces the tightest duration control observed
+
+**Instrument trends:**
+- Deep revivals (12-18 version gaps) dominated this week — nyckelharpa, felt piano, cornet, clavichord, viola da gamba, mellotron, balafon, hurdy gurdy, shakuhachi, hardanger fiddle, mbira, oboe d'amore
+- Two first-uses in single batch (v128 spinet + musical saw — not published, still generating)
+
+**Publish flow learnings:**
+- Suno publish flow: "..." menu → Publish → Publish Song dialog → final Publish button
+- First Publish click sometimes dismisses menu without opening dialog — retry needed
+- Coordinate-based click at menu position (504, 374) sometimes more reliable than ref-based
+
+---
+
 ## 2026-04-13 — v128 cycle (first spectral + two first-use instruments)
 
 **Submitted:** v128 "Every Sound Contains a Thousand Sounds" — ORCHESTRAL SPECTRAL with spinet + bowed vibraphone + musical saw.
