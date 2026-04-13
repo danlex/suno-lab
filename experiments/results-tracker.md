@@ -4,6 +4,38 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — v140 cycle (first ritornello form)
+
+**Submitted:** v140 "What Returns from the Winter Sea" — ORCHESTRAL RITORNELLO concerto grosso with cornet + nyckelharpa + felt piano.
+
+**What was tried:**
+- Ritornello form: Baroque concerto-grosso refrain architecture. Tutti states a recurring refrain in tonic; modulates through closely related keys; concertino episodes interleave. Distinct from v122 concerto grosso (which was solo-group-vs-tutti juxtaposition) — ritornello is specifically the refrain-return architecture with small 2–4-bar units recombined.
+- Trio = CORNET (v127, 13-gap) + NYCKELHARPA (v127, 13-gap) + FELT PIANO (v127, 13-gap). All three gap=13, all count=2. Three families: brass / bowed string / keyboard.
+- 117 BPM (never used). B minor to C minor half-step modulation. Scene: ship-returning-at-winter-dusk.
+- Research source: Britannica + Wikipedia ritornello pages (2026-04-13 WebSearch).
+
+**Why:**
+- Completing the major Baroque architectural forms not yet tried. Ritornello is the defining form of the Baroque concerto first movement.
+
+**Clips:**
+- `4988d9ec-ec3f-4ec8-83e9-969d77a99910` — 0:19
+- `a6e19e15-3142-476d-8ae5-d178f3813d80` — 0:48
+
+**What we learned:**
+- Short durations again (0:19 + 0:48) despite explicit "total duration around 3:00" and timestamps running to 2:50. Pattern: Baroque+concertino framing may trigger short output, similar to the atonal-short finding from v130. Worth comparing against other recent 3-min-target prompts to see if this is specific to ritornello or general to the 3-min framing.
+- Auto-submit override worked cleanly; cron ran end-to-end with the `/suno` skill (skill still handles browser automation well; no voice-modal trap hit thanks to `form_input` for the title field).
+
+**Harness additions this cycle:**
+- Drafted `.claude/agents/suno-researcher.md` (rotating-topic WebSearch subagent)
+- Drafted `.claude/agents/suno-judge.md` (iterate-to-≥90 wrapper around judge skill)
+- Neither was exercised this cycle — project-level subagents aren't registered in this session; will need a fresh `claude` session to test them.
+
+**Open:**
+- Test the 5-agent pipeline (novelty-picker → suno-researcher → suno-drafter → suno-judge → suno-submitter) end-to-end after session restart.
+- Investigate short-clip pattern: is the 3-min framing itself being ignored, or is Suno length-model ambivalent toward Baroque concertino framings?
+
+---
+
 ## 2026-04-13 — v130 cycle (first 12-tone + atonal-shortening finding)
 
 **Submitted:** v130 "The Row That Never Repeats" — ORCHESTRAL TWELVE-TONE with contrabass + trumpet + vibraphone.
