@@ -1,0 +1,18 @@
+name: "the-line-you-only-hear-together"
+version: 134
+style: "ORCHESTRAL HOQUETUS film score for a hummingbird-in-slow-motion scene, total duration 1:00 to 2:00, with ONDES MARTENOT + COR ANGLAIS + BASS FLUTE, medieval hocket where a melodic line is split between voices so rapidly each seems incomplete alone, F-sharp major to G major, 118 BPM, instrumental. From 0:00 bass flute enters with a descending line that breaks off every third note. At 0:18 cor anglais fills the gaps, each fragment continuing where the flute stopped. At 0:40 ondes martenot joins with continuous gliding pitch, weaving the third voice through the cracks. At 1:10 full orchestra takes the pattern, strings, woodwinds, brass trading a single line in rapid alternation. Peak 1:20 where all three voices lock into unison. Silence at 1:25 — four seconds. At 1:30 music returns in G major half-step up, fortississimo, the line finally unbroken. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "The Line You Only Hear Together"
+lyrics: |
+  [Short Instrumental Intro]
+  [Broken Line]
+  [Gap-Fill]
+  [Gliding Third Voice]
+  [Orchestral Trading]
+  [Unison Lock]
+  [Silence]
+  [Return Half-Step Up Unbroken]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+notes: "v134 — ORCHESTRAL HOQUETUS. Medieval hocket (literally 'hiccup') — a single melodic line split between voices so rapidly that each voice alone sounds broken, but together they form one line. 13th-14th century Notre Dame school / Ars Antiqua. Second medieval-era technique after v133 isorhythm. RESEARCH: hocket = staggered interlocking texture. Composer name (Machaut's 'Hoquetus David') omitted. Notable revival in 20th-century minimalism and modern rhythmic music. DURATION STRATEGY: continued from v133. Tonal (F#→G MAJOR), rhythmic trading language (pulse-based), explicit microtonal/atonal exclusion. Expecting 1:00–2:00. INSTRUMENTS: Ondes martenot (×2, last v111 — 23-gap) = early keyboard with continuous gliding pitch, a single-voice instrument perfect for hocket lines; exclude 'electronic' and 'synthesizer' to prevent Suno category drift. Cor anglais (×2, last v122 — 12-gap) = alto oboe, warm legato, natural gap-filling voice. Bass flute (×2, last v120 — 14-gap) = breath-rich low woodwind, sets the first descending fragments. All three are sustaining single-line instruments — ideal hocket palette. NOVELTY: First hoquetus. 118 BPM = never used. F# major established (×2→3). Hummingbird-scene = novel image. Fragmentation-into-wholeness emotion. 940 chars."
+tags: [orchestral-hoquetus, hocket, medieval, ondes-martenot, cor-anglais, bass-flute, 118bpm, f-sharp-major, g-major, hummingbird-scene, deep-revival-ondes-martenot-23-gap, revival-cor-anglais-12-gap, revival-bass-flute-14-gap, new-technique, new-bpm, ars-antiqua, notre-dame-school, tonal-framing, research-driven]

@@ -15,3 +15,10 @@ State: Draft YAML at `prompts/the-intervals-your-ear-forgot-v132.yaml` (932 char
 Action taken: Aborted submission per constraint #4. Committed + pushed the draft so next session / cron can pick it up.
 Next cycle should: Before drafting v133, check whether v132 has been submitted to Suno; if not, submit v132 first via `/suno prompts/the-intervals-your-ear-forgot-v132.yaml`.
 Resolution: v132 submitted on the next cron fire (browser reconnected). Clips 0:28 + 0:13 — microtonal description also shortens durations even with tonal framing. Noted for evolution.md. URLs recorded in suno_urls.json. **Duration finding: quarter-tone/microtonal language shortens Suno output, like v130 atonal.** Tonal key signatures alone don't protect against it.
+
+## 2026-04-13 — v134 failed at submit (form partially filled)
+
+Reason: Chrome MCP extension dropped mid-type on the title field. Lyrics + style + exclude_styles already entered. Title field had old v133 title still showing, triple-click attempted, then disconnect before new title typed.
+State: Form partially populated in tab 786902650. Draft YAML at `prompts/the-line-you-only-hear-together-v134.yaml` committed.
+Action taken: Aborted per constraint #4. No retry.
+Next cycle should: Check if the Suno tab still has the v134 form. If yes, finish title + Create. If workspace rebuilt, resubmit fresh via `/suno prompts/the-line-you-only-hear-together-v134.yaml`.
