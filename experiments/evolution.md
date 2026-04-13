@@ -2,13 +2,13 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v129 (2026-04-13)
+Last updated: v130 (2026-04-13)
 
 ## Mindmap (Mermaid)
 
 ```mermaid
 mindmap
-  root((Suno craft v129))
+  root((Suno craft v130))
     Techniques — What works
       Frisson triggers
         Silence before climax
@@ -33,6 +33,7 @@ mindmap
         Minimalism phase shifting — patterns drift in and out [v127]
         Spectral — overtone-derived harmony [v128]
         Aleatoric — chance/indeterminate, performer choice [v129]
+        Twelve-tone serialism — atonal, all 12 pitches equal [v130]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -187,8 +188,9 @@ mindmap
 | Minimalism phase shifting | v127 | Repeated patterns drift in and out of phase | Done |
 | Spectral | v128 | Harmonies derived from overtone series analysis | Done |
 | Aleatoric | v129 | Indeterminate pitches/timings, performer chooses within framework | Done |
+| Twelve-tone serialism | v130 | Atonal, all 12 chromatic pitches equal | Done (short-duration artifact) |
 
-**Classical forms + 4 avant-garde techniques complete (canonical 20th-century sequence done).** Next frontier: 12-tone/serialism, stochastic, musique concrète.
+**Classical forms + 5 major avant-garde techniques complete.** Next frontier: stochastic, musique concrète.
 
 ## Duration experiment — CONCLUDED
 
@@ -238,6 +240,7 @@ mindmap
 | 127 | The Moment Before the Patterns Align | orchestral minimalism | A→Bb MAJOR | 116 | nyckelharpa + felt piano + cornet |
 | 128 | Every Sound Contains a Thousand Sounds | orchestral spectral | Eb→E MAJOR | 86 | spinet + bowed vibraphone + musical saw |
 | 129 | Where Each Note Decides Itself | orchestral aleatoric | Db→D minor | 82 | french horn + harp + waterphone |
+| 130 | The Row That Never Repeats | orchestral twelve-tone | ATONAL | 98 | contrabass + trumpet + vibraphone |
 
 ## Next-cycle priorities
 

@@ -1,5 +1,38 @@
 [
   {
+    "name": "the-row-that-never-repeats",
+    "version": 130,
+    "style": "ORCHESTRAL TWELVE-TONE film score for a cryptographer-at-dawn scene, total duration 1:00 to 2:00, with CONTRABASS + TRUMPET + VIBRAPHONE, twelve chromatic pitches treated equally in a tone row where no note repeats until all have sounded, atonal chromatic field from C transposed up a half-step, 98 BPM, instrumental. From 0:00 contrabass states the prime row alone — twelve pitches in sequence, each equal. At 0:18 vibraphone plays the retrograde, row backwards. At 0:40 trumpet enters with the inversion, interval direction reversed. At 1:00 full orchestra joins — strings, woodwinds, brass in overlapping row transpositions, no key center, pure chromatic architecture. Silence at 1:25 — the code held unresolved. At 1:28 music returns with the row transposed up a half-step, all three voices fortississimo in retrograde inversion. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
+    "title": "The Row That Never Repeats",
+    "lyrics": "[Short Instrumental Intro]\n[Prime Row]\n[Retrograde]\n[Inversion]\n[Full Chromatic Field]\n[Silence]\n[Retrograde Inversion]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, zen meditation, new age, tonal, key-centered, major key, minor key",
+    "notes": "v130 — ORCHESTRAL TWELVE-TONE. Fifth 20th-century avant-garde technique after the canonical four (micropolyphony, minimalism, spectral, aleatoric). Twelve-tone serialism organizes all 12 chromatic pitches into a tone row — each pitch sounds before any repeats. Four row forms: prime (P), retrograde (R), inversion (I), retrograde inversion (RI). Key characteristic: no tonal center, no key hierarchy, all 12 pitches egalitarian. RESEARCH: MasterClass + Wikipedia + Britannica confirm technique. Originator's composer name omitted per blocklist. 'Variations for Orchestra' cited as exemplar. Structure: tone row stays in strict order throughout, can be transposed but not rearranged. INSTRUMENTS: Contrabass (×5, last v97 — **32-VERSION GAP, DEEPEST AVAILABLE AFTER v129's FRENCH HORN (37-gap)**) = lowest bowed string, chromatic lines possible across its full range. Trumpet (×3, last v106, 23-gap) = lyrical brass, can voice chromatic clearly. Vibraphone (×3, last v110, 19-gap) = mallet percussion with motor vibrato, all 12 pitches equally easy. Three voices from different families playing row transformations. NOVELTY: First 12-tone/serialism. 98 BPM = never used. First atonal framing in the repo (no traditional key center). Intellectual rigor / systematic beauty emotion (new territory). Added 'tonal, key-centered' to exclude_styles to prevent Suno from defaulting to tonal harmony. 963 chars.",
+    "tags": [
+      "orchestral-twelve-tone",
+      "contrabass",
+      "trumpet",
+      "vibraphone",
+      "98bpm",
+      "atonal",
+      "chromatic-field",
+      "tone-row",
+      "serialism",
+      "cryptographer-scene",
+      "deepest-revival-contrabass-32-gap",
+      "revival-trumpet",
+      "revival-vibraphone",
+      "new-technique",
+      "new-bpm",
+      "first-atonal",
+      "20th-century-avant-garde",
+      "synthesis-era",
+      "research-driven"
+    ],
+    "_file": "the-row-that-never-repeats-v130.yaml",
+    "_slug": "the-row-that-never-repeats-v130"
+  },
+  {
     "name": "where-each-note-decides-itself",
     "version": 129,
     "style": "ORCHESTRAL ALEATORIC film score for a star-chart-drawn-from-chance scene, total duration 1:00 to 2:00, with FRENCH HORN + HARP + WATERPHONE, indeterminate pitches and timings where each player chooses within a framework, D-flat minor to D minor, 82 BPM, instrumental. From 0:00 waterphone enters alone — bowed metallic rods producing unpredictable harmonics. At 0:18 harp joins with glissandi across indeterminate pitch sets, fingers choosing notes from possibilities. At 0:40 french horn rises, muted brass playing microtonal bends and multiphonics. At 1:00 full orchestra enters — strings in clouds of indeterminate pitches, woodwinds choosing entry points, controlled chaos forming cosmic pattern. Silence at 1:25 — chance held still. At 1:28 music returns in D minor half-step up, all three voices fortississimo. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",

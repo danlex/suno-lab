@@ -4,6 +4,31 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-13 — v130 cycle (first 12-tone + atonal-shortening finding)
+
+**Submitted:** v130 "The Row That Never Repeats" — ORCHESTRAL TWELVE-TONE with contrabass + trumpet + vibraphone.
+
+**What was tried:**
+- 12-tone serialism: all 12 chromatic pitches treated equally, no note repeats until all have sounded. Row forms: prime, retrograde, inversion, retrograde-inversion. Fifth 20th-century avant-garde technique.
+- CONTRABASS (v97, 32-gap — deepest available after v129 french horn) + TRUMPET (v106, 23-gap) + VIBRAPHONE (v110, 19-gap).
+- First ATONAL framing (no traditional key center). 98 BPM (never used).
+- Added 'tonal, key-centered, major key, minor key' to exclude_styles.
+
+**Why:**
+- Completing the major 20th-century avant-garde techniques. 12-tone/serialism is the foundational atonal technique of the entire century.
+
+**What we learned:**
+- **MAJOR FINDING: Atonal framing produces very short durations.** Four clips generated (double-submit): **0:19, 0:23, 0:34, 0:48** — all under the 1:00 floor. Contrast with v128 spectral (1:32/1:38, in-target) and v127 minimalism (1:04/1:13, in-target). Hypothesis: the absence of tonal center / forbidden minor/major keys in exclude_styles may signal "short/incomplete" to Suno's length model. Tonal music tends to have full cadential structure; atonal breaks this expectation.
+- v129 aleatoric clips: 1:14 and 0:54 — one in target, one under. Aleatoric marginally better than fully atonal but still shorter.
+- First Create click failed silently (5th time: v120, v127, v128, v129, v130). Absolutely systematic Suno UI behavior. NEEDS codifying.
+
+**Open:**
+- Codify "click Create twice by default" into /suno skill
+- Avoid 'atonal' framing unless specifically desired (short clips)
+- Next avant-garde: stochastic, musique concrète
+
+---
+
 ## 2026-04-13 — v129 cycle (first aleatoric + deepest-ever revival)
 
 **Submitted:** v129 "Where Each Note Decides Itself" — ORCHESTRAL ALEATORIC with french horn + harp + waterphone.
