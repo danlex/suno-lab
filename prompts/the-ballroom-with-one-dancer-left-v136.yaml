@@ -1,0 +1,18 @@
+name: "the-ballroom-with-one-dancer-left"
+version: 136
+style: "ORCHESTRAL CHACONNE film score for a last-dance-at-an-empty-ballroom scene, total duration 1:00 to 2:00, with UPRIGHT BASS + OBOE D'AMORE + MUSIC BOX, Baroque ground-bass dance where a repeating eight-bar bass line anchors elaborate variations above, D minor to E-flat minor, 64 BPM, instrumental. From 0:00 upright bass states the chaconne line alone, pizzicato pulses on a slow descending tetrachord. At 0:18 oboe d'amore enters with the first variation, warm plaintive ornament weaving over the bass. At 0:40 music box joins, tiny crystalline arpeggios decorating every fourth beat. At 1:05 strings, woodwinds, brass layer further variations, the bass unchanged beneath. Peak 1:20 with full orchestral variation climax. Silence at 1:25 — four seconds. At 1:30 music returns in E-flat minor half-step up, fortississimo, bass line transposed, the dance unfinished. Ends at 1:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "The Ballroom With One Dancer Left"
+lyrics: |
+  [Short Instrumental Intro]
+  [Ground Bass Alone]
+  [Oboe d'Amore First Variation]
+  [Music Box Ornament]
+  [Orchestral Variations Pile]
+  [Variation Climax]
+  [Silence]
+  [Return Half-Step Up]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+notes: "v136 — ORCHESTRAL CHACONNE. Baroque ground-bass dance form — a repeating harmonic/bass pattern (traditionally 4 or 8 bars, descending tetrachord) supports an unbroken chain of variations above. Distinct from v111 passacaglia (more severe, slow) and v125 passamezzo (Renaissance pre-chaconne). Chaconne = later, more fluid, dance-derived, often major or minor-with-relative-major. DURATION STRATEGY: deliberate retreat from avant-garde labels after v135 klangfarbenmelodie came short (0:17). Chaconne is maximally tonal + pulse-based + rhythmically grounded — best v131 / v134 pattern (both hit 1:17+). INSTRUMENTS: Upright bass (×2, last v122 — 14-gap) = pizzicato bass ground, rhythmic pulse. Oboe d'amore (×2, last v124 — 12-gap) = alto oboe, warm plaintive, Baroque-adjacent wind. Music box (×2, last v122 — 14-gap) = tiny crystalline treble, high register counterpoint. Bass + mid + sparkle — a complete ensemble around the ground. NOVELTY: First chaconne. 64 BPM = never used. D minor (×8 → 9) — classic chaconne key. Eb minor (×3 → 4). Empty-ballroom-at-dawn scene = novel image. Grief-with-formal-poise emotion. 949 chars."
+tags: [orchestral-chaconne, baroque, ground-bass, upright-bass, oboe-damore, music-box, 64bpm, d-minor, e-flat-minor, ballroom-scene, revival-upright-bass-14-gap, revival-oboe-damore-12-gap, revival-music-box-14-gap, new-technique, new-bpm, tonal-framing, pulse-based, duration-strategy]
