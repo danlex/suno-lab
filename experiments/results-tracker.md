@@ -4,6 +4,46 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-15 — Review & Publish cycle + v142 (first stile concitato)
+
+**Submitted:** v142 "What the Candle Outran" — ORCHESTRAL STILE CONCITATO with french horn + mbira + contrabass clarinet. Judge 98/100 (PASS iter 1). Clip UUIDs: `0b989d8b-7f08-4bec-a220-2d0db3acc3f3`, `87b3c550-a691-425a-a059-f99cbb8cb1e2`. F minor → F# minor half-step modulation, 134 BPM, scribe-racing-the-candle scene.
+
+**Reviewed:** 14 song-versions from v128 to v141 (since prior Review & Publish on 2026-04-13 covered v124–v127).
+
+**Published (5 songs — one clip per version, prioritizing newest + most novel architectural firsts + duration ≥1:00):**
+1. **v141 "Where the Bells Run Ahead"** (2:39) — first toccata; celesta + glass harmonica + subcontrabass saxophone — clip `fe1c1774-5fdd-4ff5-82ac-439cc1db03c7`
+2. **v137 "The Forest That Sings in Fifths"** (2:39) — first organum (medieval parallel-fifths polyphony); harpsichord + hardanger fiddle + mellotron
+3. **v134 "The Line You Only Hear Together"** (1:17) — first hoquetus (rhythmic interlocking); ondes martenot + cor anglais + bass flute
+4. **v129 "Where Each Note Decides Itself"** (1:14) — first aleatoric (chance music); french horn + harp + waterphone
+5. **v128 "Every Sound Contains a Thousand Sounds"** (1:38) — first spectral (overtone-based); spinet + bowed vibraphone + musical saw
+
+**Skipped (not published):**
+- v140 "What Returns from the Winter Sea" ritornello — clips 0:19 / 0:48 below 1:00 floor
+- v139 "The Pilgrim Walk in Parallel Thirds" fauxbourdon (1:33/1:57) — overlap with v137 organum (parallel-intervals axis); only one chosen for diversity
+- v138 "The River That Never Stops Running" moto perpetuo (0:59/1:07) — marginal duration, displaced by stronger candidates
+- v136 "The Ballroom With One Dancer Left" chaconne (0:44/0:57) — under floor
+- v135 "The Melody That Changes Color" klangfarbenmelodie (0:17/0:58) — under floor
+- v133 "The Cycles Realign at Midnight" isorhythm (1:12) — eligible but displaced by 5-cap; consider next cycle
+- v132 "The Intervals Your Ear Forgot" quarter-tone (0:13/0:28) — under floor
+- v131 "The Shape Probability Takes" stochastic (1:57) — already published in prior batch
+- v130 "The Row That Never Repeats" 12-tone (0:19/0:23/0:34/0:48) — all under floor (confirms prior atonal-shortening finding)
+
+**Spread of published batch:**
+- 5 distinct architectural firsts: toccata (rhythmic perpetuum), organum (medieval parallel intervals), hoquetus (rhythmic interlocking), aleatoric (chance/probability), spectral (overtone harmonics)
+- Era spread: medieval (organum, hoquetus) ↔ early-Baroque (toccata) ↔ 20th-century avant-garde (aleatoric, spectral)
+- Duration distribution: 1:14, 1:17, 1:38, 2:39, 2:39 — bimodal, no clip under 1:14
+
+**Process notes:**
+- Suno publish flow: row "..." menu → Publish → Publish Song dialog → final Publish button. Confirmed reliable; no menu-dismiss retries needed this cycle.
+- The "Publish clip" inline button (next to share) opens the song detail panel rather than the publish dialog — use the row "..." menu instead.
+- Pagination next-arrow can be obscured by the open detail panel — close the panel before paginating.
+
+**Open:**
+- Verify v142 stile concitato durations after generation completes.
+- Track whether published medieval-form clips (organum, hoquetus) attract differently-shaped audience than 20th-century ones (spectral, aleatoric) on the public /explore feed.
+
+---
+
 ## 2026-04-13 — v141 cycle (first toccata + three-deep-revival trio)
 
 **Submitted:** v141 "Where the Bells Run Ahead" — ORCHESTRAL TOCCATA with celesta + glass harmonica + subcontrabass saxophone.

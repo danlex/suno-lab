@@ -1,0 +1,30 @@
+name: "what-the-candle-outran"
+version: 142
+style: "ORCHESTRAL STILE CONCITATO film score for a scribe-racing-the-candle scene, total duration around 3:00, with FRENCH HORN + MBIRA + CONTRABASS CLARINET, early Baroque agitated style of rapid repeated notes, F minor to F-sharp minor, 134 BPM, instrumental. From 0:00 mbira pulses alone in rapid repeated tines, thumb-plucked iron, candle flame trembling. At 0:25 contrabass clarinet enters below with sixteenth-note tonguing, pedal tones pressed into the room. At 1:00 french horn rises with stopped-horn fanfare, repeated pitches cutting the floor. At 2:00 orchestra floods in, strings tremolando, woodwinds passing the concitato figure, brass punching downbeats. Silence at 2:10, five seconds of held breath as the candle gutters. At 2:15 the concitato returns in F-sharp minor fortississimo, half-step up, mbira doubled by pizzicato, horn and clarinet hammering. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What the Candle Outran"
+lyrics: |
+  [Short Instrumental Intro]
+  [Mbira Pulsing in Rapid Tines]
+  [Contrabass Clarinet Agitated Below]
+  [French Horn Stopped Fanfare]
+  [Orchestral Bloom Concitato]
+  [Peak Tutti Repeated Notes]
+  [Silence]
+  [Return Half-Step Up in F-sharp Minor]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, Zimbabwean folk, mbira traditional, African folk, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+notes: |
+  Testing ORCHESTRAL STILE CONCITATO — the early-Baroque "agitated style" introduced in the 1638 preface to the eighth book of madrigals, defined by rapid repeated notes, sixteenth-note tremolos, and driving tonguing to carry the passion of urgency and combat. A foundational dramatic technique; the first composer to codify it wrote that music had described softness and moderation but never agitation — and we omit composer names per repo blocklist. Research source: encyclopedic entries on stile concitato and its adoption by later Baroque opera composers.
+
+  Duration strategy per v137+ override: target 2:30-3:30, phrase "total duration around 3:00" in first 200 chars, timestamps 0:00 / 0:25 / 1:00 / 2:00 / silence 2:10 / return 2:15 / end 2:50. Tonal framing (F minor to F-sharp minor half-step) plus pulse-based 134 BPM to give Suno enough rhythmic spine to sustain the full 3-minute shape — avoids the short-artifact failure mode seen in v130/v131 avant-garde drafts.
+
+  Trio rationale:
+  - french horn: x6, last v129 — 13-gap, brass family, stopped-horn rapid fanfare
+  - mbira: x2, last v124 — 18-gap, metallic idiophone family, thumb-plucked rapid tines as agitato floor (Zimbabwean folk excluded)
+  - contrabass clarinet: x3, last v131 — 11-gap, woodwind family, low sixteenth-note tonguing as pedal pulse
+
+  Three different instrument families (brass + metallic_idiophones + woodwinds), all gaps >= 11, no overlap with v137-v141. Novelty claims: first stile concitato, first use of 134 BPM (surface novelty confirmed via novelty_surface.json), F minor to F-sharp minor modulation fresh for this session window, scribe-racing-the-candle scene is new in repo. Title "What the Candle Outran" varies from recent "The/Where" openings.
+
+  Final style char count: 947.
+tags: [orchestral-stile-concitato, baroque-form, agitated-style, rapid-repeated-notes, french-horn, mbira, contrabass-clarinet, 134bpm, f-minor, f-sharp-minor, scribe-racing-candle-scene, three-minute-arc, revival-french-horn-13-gap, revival-mbira-18-gap, revival-contrabass-clarinet-11-gap, new-technique, new-bpm, duration-3min, baroque-renaissance, research-driven]
