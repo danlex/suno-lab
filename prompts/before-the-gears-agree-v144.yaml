@@ -1,0 +1,31 @@
+name: "before-the-gears-agree"
+version: 144
+style: "ORCHESTRAL PHASE PROCESS film score for a clockmaker-workshop-before-dawn scene, total duration around 3:00, CRISTAL BASCHET + PICCOLO + CIMBALOM, two patterns drift in tempo then realign as kaleidoscopic counterpoint, F-sharp minor to G minor, 113 BPM, instrumental. From 0:00 cristal baschet rubs a slow bowed-glass cell, pitches ringing like cooling brass in lamplight. At 0:25 piccolo enters in unison then drifts a breath ahead each bar, voices slipping like mismatched escapements. At 1:00 cimbalom hammers a steady pulse, struck wires ticking the workshop awake as strings tremolando bloom. At 2:00 orchestra locks into peak density, horns pressing drift into shimmering interference. Silence at 2:10, six seconds as gears stop. At 2:15 the cell returns in G minor fortississimo, half-step up, cristal baschet and piccolo realigned, cimbalom driving beneath. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Before the Gears Agree"
+lyrics: |
+  [Short Instrumental Intro]
+  [Cristal Baschet Slow Bowed-Glass Cell]
+  [Piccolo Unison Then Drifts Ahead]
+  [Cimbalom Steady Pulse Strings Bloom]
+  [Orchestral Bloom Phase Interference]
+  [Peak Tutti Shimmering Drift]
+  [Silence]
+  [Return Half-Step Up in G Minor]
+  [End]
+instrumental: true
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, smooth jazz, lounge"
+notes: |
+  Testing ORCHESTRAL PHASE PROCESS — a 20th-century compositional approach where two identical melodic patterns begin in unison at slightly divergent tempos, drifting gradually out of phase across the arc and forming shifting rhythmic patterns as beats diverge and realign into kaleidoscopic counterpoint. Associated strongly with mid-century American minimalist process music; we omit all composer and performer names per repo blocklist. Research-driven: the sonic signature of "almost together" has a natural 3-minute audibility — listeners feel the slippage accrete and resolve — which makes it ideal for the v137+ duration-3min template.
+
+  Duration strategy per v137+ override: target 2:30-3:30, phrase "total duration around 3:00" in first 200 chars, timestamps 0:00 / 0:25 / 1:00 / 2:00 / silence 2:10 / return 2:15 / end 2:50. Tonal framing (F-sharp minor to G minor half-step up) plus pulse-based 113 BPM gives Suno a rhythmic spine that sustains the phase-drift shape without collapsing into ambient artifact.
+
+  Trio rationale:
+  - cristal baschet: x4, last v132 — 12-gap, bowed_strings/glass family, sustains the phase cell as slow bowed-glass drone so the drift is audible against a stable ringing source
+  - piccolo: x3, last v132 — 12-gap, woodwinds family, takes the same cell in unison then drifts a breath ahead each bar, its high breath-attack making the misalignment vivid
+  - cimbalom: x3, last v132 — 12-gap, metallic_idiophones family, struck-wire pulse beneath both voices driving the 113 BPM pulse and contrasting dry attack against sustained glass
+
+  Three different families (bowed-glass + woodwinds + metallic-idiophones), each gap 12, zero overlap with v138-v143 (winter sea, pilgrim thirds, bells ahead, candle outran, chase answering, toccata celesta). Fresh axis: non-Baroque, non-medieval — shifts from v142 stile concitato and v143 caccia to an early-20thc process frame. Novelty claims: first orchestral phase-process prompt in the repo, first use of 113 BPM (confirmed unused via novelty_surface.json), F-sharp minor as starting key is uncommon, clockmaker-workshop-before-dawn scene is new and temporally imageable. Title "Before the Gears Agree" is a "Before the X" opening per drafter variation rules; metaphor of workshop clocks nearly-synchronizing mirrors the phase-drift-then-realign arc.
+
+  Final style char count: 949.
+tags: [orchestral-phase-process, early-20thc-form, process-music, cristal-baschet, piccolo, cimbalom, 113bpm, f-sharp-minor, g-minor, clockmaker-workshop-before-dawn-scene, three-minute-arc, revival-cristal-baschet-12-gap, revival-piccolo-12-gap, revival-cimbalom-12-gap, new-technique, new-bpm, duration-3min, research-driven]

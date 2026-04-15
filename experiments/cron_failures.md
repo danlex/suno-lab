@@ -28,3 +28,9 @@ step: submit
 yaml: prompts/where-the-chase-keeps-answering-v143.yaml
 judge_score: 99
 reason: Chrome MCP extension not connected at submission time (after successful publish cycle + v142 submit in same session). Draft + judge pass is preserved; next cron fire picks it up or resubmits.
+
+## 2026-04-15 v144 submit — browser disconnect (same session)
+step: submit
+yaml: prompts/before-the-gears-agree-v144.yaml
+judge_score: 99
+reason: Chrome MCP still not connected on this hourly fire. v143 also pending. Two drafts queued.

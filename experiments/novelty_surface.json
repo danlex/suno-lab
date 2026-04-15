@@ -1,6 +1,6 @@
 {
-  "total_prompts": 142,
-  "latest_version": 142,
+  "total_prompts": 143,
+  "latest_version": 143,
   "instruments": {
     "organ": [
       1,
@@ -91,7 +91,8 @@
       139,
       140,
       141,
-      142
+      142,
+      143
     ],
     "pipe organ": [
       1,
@@ -174,7 +175,8 @@
       139,
       140,
       141,
-      142
+      142,
+      143
     ],
     "piano": [
       1,
@@ -326,7 +328,8 @@
       114,
       120,
       125,
-      134
+      134,
+      143
     ],
     "contrabass": [
       79,
@@ -381,6 +384,14 @@
       124,
       136
     ],
+    "vibraphone": [
+      85,
+      99,
+      110,
+      128,
+      130,
+      143
+    ],
     "clarinet": [
       84,
       97,
@@ -395,13 +406,6 @@
       35,
       36
     ],
-    "vibraphone": [
-      85,
-      99,
-      110,
-      128,
-      130
-    ],
     "viola": [
       45,
       92,
@@ -415,6 +419,12 @@
       94,
       114,
       129
+    ],
+    "bowed vibraphone": [
+      85,
+      99,
+      128,
+      143
     ],
     "contrabass clarinet": [
       84,
@@ -455,11 +465,6 @@
       102,
       121,
       138
-    ],
-    "bowed vibraphone": [
-      85,
-      99,
-      128
     ],
     "cimbalom": [
       98,
@@ -531,6 +536,11 @@
       124,
       142
     ],
+    "mellotron": [
+      116,
+      126,
+      143
+    ],
     "music box": [
       108,
       122,
@@ -565,6 +575,11 @@
       86,
       118,
       141
+    ],
+    "tenor saxophone": [
+      107,
+      123,
+      143
     ],
     "theremin": [
       101,
@@ -607,10 +622,6 @@
       31,
       118
     ],
-    "mellotron": [
-      116,
-      126
-    ],
     "shakuhachi": [
       114,
       125
@@ -626,10 +637,6 @@
     "taiko": [
       95,
       96
-    ],
-    "tenor saxophone": [
-      107,
-      123
     ]
   },
   "genres": {
@@ -725,7 +732,8 @@
       139,
       140,
       141,
-      142
+      142,
+      143
     ],
     "neoclassical": [
       1,
@@ -977,6 +985,9 @@
     ],
     "e-flat major": [
       128
+    ],
+    "g-sharp minor": [
+      143
     ]
   },
   "bpms": {
@@ -1102,6 +1113,9 @@
     "106": [
       132
     ],
+    "107": [
+      143
+    ],
     "108": [
       62
     ],
@@ -1198,6 +1212,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 143,
+      "title": "Where the Chase Keeps Answering",
+      "name": "where-the-chase-keeps-answering",
+      "featured": [],
+      "genre": "orchestral",
+      "key": "g-sharp minor",
+      "bpm": 107
+    },
     {
       "version": 142,
       "title": "What the Candle Outran",
