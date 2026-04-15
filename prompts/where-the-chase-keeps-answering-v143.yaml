@@ -1,0 +1,31 @@
+name: "where-the-chase-keeps-answering"
+version: 143
+style: "ORCHESTRAL CACCIA film score for a hunters-crossing-winter-meadow scene, total duration around 3:00, with BOWED VIBRAPHONE + TENOR SAXOPHONE + MELLOTRON, 14th-century Trecento canon of two voices chasing over a long-note tenor, G-sharp minor to A minor, 107 BPM, instrumental. From 0:00 mellotron breathes a low tenor drone, tape-flute warmth under frost-lit air. At 0:25 bowed vibraphone enters with the canonic subject, shimmering bars ringing the chase into open space. At 1:00 tenor saxophone answers one beat behind, warm reed against cold metal, canon locking into pursuit. At 2:00 strings tremolando and low horns press the orchestra beneath, woodwinds doubling the voices as the hunt thickens. Silence at 2:10, six seconds held as the quarry vanishes. At 2:15 the canon returns in A minor fortississimo, half-step up, stretto compressed, mellotron sustained. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Where the Chase Keeps Answering"
+lyrics: |
+  [Short Instrumental Intro]
+  [Mellotron Low Tenor Drone]
+  [Bowed Vibraphone Canonic Subject]
+  [Tenor Saxophone Answer One Beat Behind]
+  [Orchestral Bloom Canon Thickens]
+  [Peak Tutti Hunt]
+  [Silence]
+  [Return Half-Step Up in A Minor]
+  [End]
+instrumental: true
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, smooth jazz, lounge"
+notes: |
+  Testing ORCHESTRAL CACCIA — the 14th-century Italian Trecento canonic form in which two upper voices chase each other in strict canon at the unison over a slower untexted tenor. The form's name literally means "hunt" and its canonic structure was chosen to depict the audible pursuit of huntsmen after their prey, often with descriptive onomatopoeia in the text. A foundational Ars Nova form; we omit composer names per repo blocklist. Research source: encyclopedic entries on caccia, the Trecento, and its canon-as-chase symbolism.
+
+  Duration strategy per v137+ override: target 2:30-3:30, phrase "total duration around 3:00" in first 200 chars, timestamps 0:00 / 0:25 / 1:00 / 2:00 / silence 2:10 / return 2:15 / end 2:50. Tonal framing (G-sharp minor to A minor half-step up) plus pulse-based 107 BPM to give Suno a rhythmic spine that sustains the full 3-minute shape without collapsing into short ambient artifact.
+
+  Trio rationale:
+  - mellotron: x2, last v126 — 17-gap, keyboards family, sustained tape-flute tenor drone as the caccia's long-note foundation
+  - bowed vibraphone: x3, last v128 — 15-gap, mallet_perc family, canonic subject voice one, metallic shimmer in the upper register
+  - tenor saxophone: x2, last v123 — 20-gap, woodwinds family, canonic answer voice two at the unison one beat behind, warm reed contrast to the cold metal of the vibraphone
+
+  Three different instrument families (keyboards + mallet_perc + woodwinds), all gaps >= 15, zero overlap with v138-v142 (winter sea, pilgrim thirds, river running, bells ahead, candle outran). Novelty claims: first orchestral caccia in the repo, first use of 107 BPM (confirmed unused via novelty_surface.json), G-sharp minor not yet used as a starting key, A minor as destination of modulation is fresh context, hunters-crossing-winter-meadow scene is new. Title "Where the Chase Keeps Answering" is a "Where X" opening per drafter variation rules; metaphor of a canon's answer always arriving one beat behind echoes the caccia's structural character.
+
+  Final style char count: 950.
+tags: [orchestral-caccia, medieval-form, trecento, ars-nova, canon-chase, bowed-vibraphone, tenor-saxophone, mellotron, 107bpm, g-sharp-minor, a-minor, hunters-crossing-winter-meadow-scene, three-minute-arc, revival-mellotron-17-gap, revival-bowed-vibraphone-15-gap, revival-tenor-saxophone-20-gap, new-technique, new-bpm, duration-3min, medieval-renaissance, research-driven]

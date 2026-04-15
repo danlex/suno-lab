@@ -22,3 +22,9 @@ Reason: Chrome MCP extension dropped mid-type on the title field. Lyrics + style
 State: Form partially populated in tab 786902650. Draft YAML at `prompts/the-line-you-only-hear-together-v134.yaml` committed.
 Action taken: Aborted per constraint #4. No retry.
 Next cycle should: Check if the Suno tab still has the v134 form. If yes, finish title + Create. If workspace rebuilt, resubmit fresh via `/suno prompts/the-line-you-only-hear-together-v134.yaml`.
+
+## 2026-04-15 v143 submit — browser disconnect
+step: submit
+yaml: prompts/where-the-chase-keeps-answering-v143.yaml
+judge_score: 99
+reason: Chrome MCP extension not connected at submission time (after successful publish cycle + v142 submit in same session). Draft + judge pass is preserved; next cron fire picks it up or resubmits.
