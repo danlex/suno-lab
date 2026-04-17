@@ -1,5 +1,26 @@
 [
   {
+    "name": "what-the-moonlight-left-behind",
+    "version": 147,
+    "style": "HAUNTING CELLO ELEGY three-minute miniature for a moonlit-cathedral-at-midnight scene, total duration around 3:00, with solo CELLO + HARP + OBOE against hushed string orchestra, ethereal melancholy where beauty and sorrow are indistinguishable, cello enters alone at 0:00 with a slow melody like a prayer whispered into stone, harp answers at 0:25 with arpeggios shimmering like candlelight on marble, oboe joins at 1:00 floating above with a keening line aching with longing, strings emerge like mist, peak intensity at 2:00 where cello climbs into soprano register against full orchestra, everything dissolves to harp alone at 2:10 hanging in darkness, melody returns at 2:15 lifted from B minor into C minor with cello and oboe intertwined over trembling strings, fading into silence, 66 BPM largo, no electronics, no synthesizers, no drums, no guitars, no harsh sounds",
+    "title": "What the Moonlight Left Behind",
+    "lyrics": "[Solo Cello — Low Register Prayer]\n[Harp Arpeggios Like Candlelight]\n[Oboe Floating Above — Spiritual Longing]\n[Strings Emerge Like Mist]\n[Cello Climbs to Soprano Register — Peak Emotion]\n[Dissolve to Harp Alone — Single Chord in Darkness]\n[Melody Returns Half-Step Higher — Cello and Oboe Intertwined]\n[Fading Into Silence]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, R&B, dark ambient, noise, industrial, Arabic, Indian classical, triumphant, heroic, upbeat",
+    "notes": "v147 continues classical beauty direction: HAUNTING/MELANCHOLIC territory (vs v145 tender, v146 triumphant). Inspired by Fauré's Élégie, Elgar's Cello Concerto, Piazzolla's Oblivion — pieces where cello becomes the human voice at its most vulnerable. Standard instruments (cello, harp, oboe) for mainstream emotional beauty. Dopamine triggers: (1) cello climbing from bass to soprano register = physical lift, (2) the dissolve-to-single-harp-chord = breathtaking stillness, (3) half-step B minor→C minor modulation, (4) oboe keening = the instrument closest to crying. 66 BPM largo for maximum emotional weight.",
+    "tags": [
+      "haunting",
+      "cello-elegy",
+      "classical-beauty",
+      "melancholic",
+      "ethereal",
+      "dopamine",
+      "largo"
+    ],
+    "_file": "what-the-moonlight-left-behind-v147.yaml",
+    "_slug": "what-the-moonlight-left-behind-v147"
+  },
+  {
     "name": "everything-the-climb-was-for",
     "version": 146,
     "style": "TRIUMPHANT ORCHESTRAL SYMPHONY three-minute film cue for a summit-at-dawn scene, total duration around 3:00, with FRENCH HORN + solo VIOLIN + TIMPANI against full string orchestra and brass, heroic and soaring where the music swells until the chest aches with triumph, french horn enters alone at 0:00 with a noble call across a mountain ridge, violin answers at 0:25 carrying the melody higher, timpani rolls at 1:00 as the full orchestra ignites and the theme broadens into a magnificent ascending phrase, strings and brass build relentlessly, peak grandeur at 2:00 with horn and violin in soaring unison above the orchestra, then a single sustained violin note at 2:10 floating in stillness, the theme erupts at 2:15 lifted from E-flat major into E major with timpani thundering and brass blazing in radiant fortissimo, resolving into a luminous chord, 132 BPM allegro, no electronics, no synthesizers, no guitars, no pop elements, no ambient textures",
