@@ -1,0 +1,41 @@
+name: "carry-me-home"
+version: 159
+style: "Gospel-inspired orchestral power ballad, soulful female vocals, choir harmonies, piano, organ, strings, uplifting and transcendent, spiritual, building to overwhelming climax, cinematic"
+title: "Carry Me Home"
+lyrics: |
+  [Solo Piano - Intimate]
+  I've been walking through the valley
+  Where the shadows never end
+  With a heart too heavy for my body
+  And a soul too tired to mend
+
+  [Organ and Strings Enter]
+  But I hear a voice that's calling
+  Through the thunder and the rain
+  Saying child you've carried long enough
+  Now let me carry you again
+
+  [Choir Enters - Building]
+  Carry me home
+  Carry me home
+  Through the fire and the flood
+  Carry me home
+
+  [Full Gospel Climax - Everything]
+  I don't need to be unbroken
+  I just need to be held
+  Every crack lets in the morning light
+  Every wound has stories to tell
+
+  Carry me home
+  Carry me home
+
+  [Quiet Piano Ending]
+  I'm coming home
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, rock, metal, hip hop, rap, EDM, country"
+notes: "v159: Gospel-inspired power ballad. Testing a completely different emotional/genre axis. Gospel + orchestra = maximum emotional transcendence. The crack/light metaphor is universal. Simple prompt, powerful lyrics, choir for the climax."
+tags: [gospel, orchestral, choir, soulful, vocal, spiritual, cinematic, power ballad, uplifting]
