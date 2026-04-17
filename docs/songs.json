@@ -1,5 +1,28 @@
 [
   {
+    "name": "what-the-flames-refused-to-say",
+    "version": 161,
+    "style": "Flamenco-inspired orchestral passion, Spanish guitar, powerful female vocals, dramatic strings, cajon percussion, intense and fiery, emotional crescendo, cinematic, classical crossover",
+    "title": "What the Flames Refused to Say",
+    "lyrics": "[Spanish Guitar Solo - Passionate]\nIn the courtyard where the jasmine burns\nI danced until my feet bled red\nEvery step a word unspoken\nEvery turn a prayer unsaid\n\n[Strings and Cajon Enter - Driving]\nThey told me fire was for the reckless\nThey told me passion was a sin\nBut the flames that burn the brightest\nAre the ones that burn within\n\n[Full Orchestra - Explosive]\nI am the storm they tried to silence\nI am the song they tried to cage\nEvery note a revolution\nEvery breath a turning page\n\n[Quiet Guitar - Intimate]\nThe courtyard holds its breath tonight\n\n[Final Eruption - Everything]\nAnd the flames\nThe flames refused to say\nWhat my body always knew\nThat I was born to burn this way\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle",
+    "notes": "v161: Flamenco-classical crossover. Spanish guitar + orchestra + cajon = rhythmic fire. Testing if strong cultural identity + driving rhythm produces better Suno results (research says driving rhythm helps coherence). Passionate/defiant emotional territory.",
+    "tags": [
+      "flamenco",
+      "orchestral",
+      "spanish guitar",
+      "passionate",
+      "vocal",
+      "cinematic",
+      "dramatic",
+      "classical crossover"
+    ],
+    "_file": "what-the-flames-refused-to-say-v161.yaml",
+    "_slug": "what-the-flames-refused-to-say-v161"
+  },
+  {
     "name": "the-sea-remembers-your-name",
     "version": 160,
     "style": "Celtic orchestral ballad, Irish folk, female vocals, fiddle, tin whistle, bodhran drum, sweeping strings, emotional and longing, cinematic, beautiful melodies",
