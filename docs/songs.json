@@ -1,5 +1,25 @@
 [
   {
+    "name": "the-light-that-finds-you-last",
+    "version": 145,
+    "style": "ROMANTIC PIANO CONCERTO three-minute miniature for a reunion-after-years scene, total duration around 3:00, with solo PIANO + solo VIOLIN + solo CELLO against lush string orchestra, achingly beautiful late Romantic emotion where every note aches with longing before resolving into tenderness, piano enters alone at 0:00 with a melody like a half-remembered lullaby, violin joins at 0:25 weaving around the piano like two voices finishing each other's sentences, cello rises at 1:00 with a broad singing theme, full strings bloom underneath building warmth, peak density at 2:00 where all three soloists converge in passionate unison then piano drops to near-silence at 2:10, melody returns at 2:15 lifted from D-flat major into D major with orchestra surging like sunrise, gentle piano coda echoes the opening lullaby, 72 BPM adagio, no electronics, no synthesizers, no drums, no rock guitars, no harsh sounds",
+    "title": "The Light That Finds You Last",
+    "lyrics": "[Short Instrumental Intro]\n[Solo Piano — Simple Lullaby Melody]\n[Violin Enters Gently]\n[Piano and Violin Intertwine]\n[Cello Rises With Broad Singing Theme]\n[String Orchestra Blooms Underneath]\n[Building Warmth and Richness]\n[All Three Soloists Together — Peak Emotion]\n[Sudden Hush — Piano Alone, Near Silence]\n[Held Breath]\n[Melody Returns Half-Step Higher — Full Orchestra Surges]\n[Sunrise Flooding the Room]\n[Gentle Piano Coda — Echo of the Lullaby]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, R&B, ambient drone, dark ambient, noise, industrial, Arabic, Indian classical",
+    "notes": "DIRECTION SHIFT (v145): Per user feedback, moving away from technique-first experiments toward pure classical beauty and emotional dopamine. This is a Romantic piano concerto in the spirit of Rachmaninoff's Piano Concerto No. 2 slow movement, Barber's Adagio for Strings, and Chopin's Ballade No. 1. Standard classical instruments (piano, violin, cello) instead of exotic deep-revival trios. The dopamine triggers are: (1) prediction-reward from the returning lullaby melody, (2) the silence-to-climax goosebump moment, (3) the half-step modulation from Db to D major (darkness to light), (4) the unison passage where three soloists converge. Scene: reunion after long separation. 72 BPM adagio for maximum emotional space.",
+    "tags": [
+      "romantic",
+      "piano-concerto",
+      "classical-beauty",
+      "dopamine",
+      "emotional",
+      "adagio"
+    ],
+    "_file": "the-light-that-finds-you-last-v145.yaml",
+    "_slug": "the-light-that-finds-you-last-v145"
+  },
+  {
     "name": "before-the-gears-agree",
     "version": 144,
     "style": "ORCHESTRAL PHASE PROCESS film score for a clockmaker-workshop-before-dawn scene, total duration around 3:00, CRISTAL BASCHET + PICCOLO + CIMBALOM, two patterns drift in tempo then realign as kaleidoscopic counterpoint, F-sharp minor to G minor, 113 BPM, instrumental. From 0:00 cristal baschet rubs a slow bowed-glass cell, pitches ringing like cooling brass in lamplight. At 0:25 piccolo enters in unison then drifts a breath ahead each bar, voices slipping like mismatched escapements. At 1:00 cimbalom hammers a steady pulse, struck wires ticking the workshop awake as strings tremolando bloom. At 2:00 orchestra locks into peak density, horns pressing drift into shimmering interference. Silence at 2:10, six seconds as gears stop. At 2:15 the cell returns in G minor fortississimo, half-step up, cristal baschet and piccolo realigned, cimbalom driving beneath. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.",
