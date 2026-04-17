@@ -1,5 +1,25 @@
 [
   {
+    "name": "the-storm-that-never-apologized",
+    "version": 148,
+    "style": "Devastating orchestral requiem, full symphony orchestra, total duration around 3:00, dramatic stormy extreme dynamics from pianissimo to fortissimo. At 0:00 single solo cello note cutting through silence, raw and exposed. Strings enter at 0:25 building unstoppable crescendo, melody simple and inevitable. At 1:00 brass erupts with thunderous power, timpani pounding, violins sawing aggressive tremolo, full orchestra unleashing furious energy. At 1:30 crashing chords against soaring violin melody, relentless tension. At 2:00 everything cuts to total silence. At 2:05 lone piano plays the theme fragile and broken. At 2:15 orchestra detonates fortississimo D minor to E-flat minor, twice the fury, brass blazing strings screaming timpani thundering to shattering climax at 2:50, 88 BPM, no electronics, no synthesizers, no guitars, no gentle textures",
+    "title": "The Storm That Never Apologized",
+    "lyrics": "[Solo Cello — One Raw Note in Silence]\n[Strings Enter One by One — Unstoppable Crescendo]\n[Brass Erupts — Thunderous Power — Timpani Pounding]\n[Full Orchestra Fury — Crashing Chords]\n[Storm Intensifies — Relentless]\n[Total Silence]\n[Lone Piano — Theme Fragile and Broken]\n[Orchestra Detonates — Fortississimo — Twice the Fury]\n[Shattering Climax]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, gentle, ambient, lo-fi, new age, meditation, Arabic, Indian classical",
+    "notes": "COMPLETE APPROACH RESET per user feedback: 'mediocre, feel nothing, match the masters, tornado/cascade/eclipse.' Problems with v143-v147: poetic descriptions that mean nothing musically, exotic instruments Suno can't render well, everything sounds the same bland 'pretty.' Fix: (1) Direct visceral musical language — 'crashing', 'thunderous', 'screaming', 'detonates' (2) Standard orchestra — Suno knows what a full symphony sounds like (3) EXTREME dynamic contrast — solo cello to full orchestra fury (4) Silence as weapon — total cutoff at 2:00 then lone piano = maximum goosebumps (5) Simple inevitable melody, not clever technique. Target: Barber's Adagio climax, Beethoven's 5th opening, Rachmaninoff concerto fury.",
+    "tags": [
+      "orchestral-requiem",
+      "devastating",
+      "classical-beauty",
+      "extreme-dynamics",
+      "monumental",
+      "dopamine"
+    ],
+    "_file": "the-storm-that-never-apologized-v148.yaml",
+    "_slug": "the-storm-that-never-apologized-v148"
+  },
+  {
     "name": "what-the-moonlight-left-behind",
     "version": 147,
     "style": "HAUNTING CELLO ELEGY three-minute miniature for a moonlit-cathedral-at-midnight scene, total duration around 3:00, with solo CELLO + HARP + OBOE against hushed string orchestra, ethereal melancholy where beauty and sorrow are indistinguishable, cello enters alone at 0:00 with a slow melody like a prayer whispered into stone, harp answers at 0:25 with arpeggios shimmering like candlelight on marble, oboe joins at 1:00 floating above with a keening line aching with longing, strings emerge like mist, peak intensity at 2:00 where cello climbs into soprano register against full orchestra, everything dissolves to harp alone at 2:10 hanging in darkness, melody returns at 2:15 lifted from B minor into C minor with cello and oboe intertwined over trembling strings, fading into silence, 66 BPM largo, no electronics, no synthesizers, no drums, no guitars, no harsh sounds",
