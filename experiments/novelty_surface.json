@@ -1,6 +1,6 @@
 {
-  "total_prompts": 151,
-  "latest_version": 151,
+  "total_prompts": 152,
+  "latest_version": 152,
   "instruments": {
     "organ": [
       1,
@@ -260,7 +260,8 @@
       97,
       146,
       148,
-      150
+      150,
+      152
     ],
     "cello": [
       33,
@@ -794,7 +795,8 @@
       15,
       16,
       18,
-      55
+      55,
+      152
     ],
     "romantic": [
       145,
@@ -1267,6 +1269,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 152,
+      "title": "The Last Cathedral",
+      "name": "the-last-cathedral",
+      "featured": [],
+      "genre": "cinematic",
+      "key": null,
+      "bpm": null
+    },
     {
       "version": 151,
       "title": "What Waits at the Bottom of the Stairs",

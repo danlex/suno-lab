@@ -1,0 +1,17 @@
+name: "the-last-cathedral"
+version: 152
+style: "Classical symphony, full orchestra, strings, brass, timpani, emotional and dramatic, sweeping melodies, loud and soft contrasts, building to a massive climax, cinematic, instrumental"
+title: "The Last Cathedral"
+lyrics: |
+  [Soft Piano Introduction]
+  [Strings Enter Slowly]
+  [Building Intensity]
+  [Full Orchestra]
+  [Dramatic Crescendo]
+  [Quiet Moment - Solo Violin]
+  [Massive Climax - Full Orchestra and Choir]
+  [End]
+instrumental: true
+exclude_styles: "electronic, rock, metal, hip hop, rap, pop, EDM, country, folk"
+notes: "v152: EXPERIMENT — ultra-short simple style prompt inspired by top Suno songs research. The best-performing orchestral songs on Suno use 6-10 word style prompts, NOT 900-char detailed instructions. Testing whether 'less is more' produces better actual music. Compare results with v148-v151 detailed prompts."
+tags: [classical, symphony, orchestral, cinematic, emotional, experiment-simple-prompt]

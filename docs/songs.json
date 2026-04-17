@@ -1,5 +1,25 @@
 [
   {
+    "name": "the-last-cathedral",
+    "version": 152,
+    "style": "Classical symphony, full orchestra, strings, brass, timpani, emotional and dramatic, sweeping melodies, loud and soft contrasts, building to a massive climax, cinematic, instrumental",
+    "title": "The Last Cathedral",
+    "lyrics": "[Soft Piano Introduction]\n[Strings Enter Slowly]\n[Building Intensity]\n[Full Orchestra]\n[Dramatic Crescendo]\n[Quiet Moment - Solo Violin]\n[Massive Climax - Full Orchestra and Choir]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, pop, EDM, country, folk",
+    "notes": "v152: EXPERIMENT — ultra-short simple style prompt inspired by top Suno songs research. The best-performing orchestral songs on Suno use 6-10 word style prompts, NOT 900-char detailed instructions. Testing whether 'less is more' produces better actual music. Compare results with v148-v151 detailed prompts.",
+    "tags": [
+      "classical",
+      "symphony",
+      "orchestral",
+      "cinematic",
+      "emotional",
+      "experiment-simple-prompt"
+    ],
+    "_file": "the-last-cathedral-v152.yaml",
+    "_slug": "the-last-cathedral-v152"
+  },
+  {
     "name": "what-waits-at-the-bottom-of-the-stairs",
     "version": 151,
     "style": "Suspenseful orchestral thriller score, full symphony orchestra, total duration around 3:00, unbearable tension building to a terrifying revelation. At 0:00 low strings play a slow creeping ostinato in the bass, menacing and deliberate. At 0:25 solo violin enters with a high thin melody above, fragile against the darkness below. At 1:00 woodwinds add dissonant clusters, brass stabs punctuate unpredictably, the texture becoming increasingly agitated. At 1:30 snare drum enters with a military rhythm driving the tension forward relentlessly. At 2:00 full orchestra surges with violent crescendo, strings sawing fortissimo, brass screaming dissonant chords. At 2:10 total silence, four seconds of dread. At 2:15 the ostinato returns pianissimo shifted from E minor to F minor, half-step up, every instrument entering one by one building to a colossal shattering fortissimo climax at 2:50 that feels like a door being kicked open, 100 BPM, no electronics, no synthesizers, no guitars",
