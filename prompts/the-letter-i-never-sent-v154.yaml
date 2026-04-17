@@ -1,0 +1,44 @@
+name: "the-letter-i-never-sent"
+version: 154
+style: "Cinematic orchestral ballad, deep male baritone vocals, piano and strings, emotional and intimate, building to powerful orchestral climax, heartbreaking, classical crossover"
+title: "The Letter I Never Sent"
+lyrics: |
+  [Soft Solo Piano]
+  I wrote your name a thousand times
+  On pages no one reads
+  The ink ran dry but still I tried
+  To plant forgotten seeds
+
+  [Strings Enter Gently]
+  The house still smells like Sunday mornings
+  The chair still holds your shape
+  I keep the door unlocked at night
+  In case you find your way
+
+  [Building - Cello and Violin Join]
+  But the letter I never sent
+  Says everything I meant
+  That the years between us
+  Were the years I should have spent
+
+  [Full Orchestra - Powerful]
+  Holding you closer
+  Saying it louder
+  Being the man
+  Who never walked away
+
+  [Quiet - Piano Alone]
+  The letter sits inside my coat
+  Against my beating heart
+
+  [Final Crescendo - Full Orchestra Returns]
+  And every word still burns like fire
+  The way it did
+  From the start
+
+  [End]
+instrumental: false
+vocal_gender: male
+exclude_styles: "electronic, rock, metal, hip hop, rap, EDM, pop, country"
+notes: "v154: Male baritone vocal ballad. Research-driven: (1) short 179-char style prompt per top Suno findings (2) vocals for engagement (3) section metatags [Soft Solo Piano], [Building], [Full Orchestra] do structural work (4) only 8 exclude styles per 'less is more' negative prompting. Emotional territory: regret/longing. Original lyrics about a father who never said what mattered."
+tags: [classical, ballad, baritone, orchestral, vocal, emotional, cinematic, heartbreaking]

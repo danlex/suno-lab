@@ -1,5 +1,28 @@
 [
   {
+    "name": "the-letter-i-never-sent",
+    "version": 154,
+    "style": "Cinematic orchestral ballad, deep male baritone vocals, piano and strings, emotional and intimate, building to powerful orchestral climax, heartbreaking, classical crossover",
+    "title": "The Letter I Never Sent",
+    "lyrics": "[Soft Solo Piano]\nI wrote your name a thousand times\nOn pages no one reads\nThe ink ran dry but still I tried\nTo plant forgotten seeds\n\n[Strings Enter Gently]\nThe house still smells like Sunday mornings\nThe chair still holds your shape\nI keep the door unlocked at night\nIn case you find your way\n\n[Building - Cello and Violin Join]\nBut the letter I never sent\nSays everything I meant\nThat the years between us\nWere the years I should have spent\n\n[Full Orchestra - Powerful]\nHolding you closer\nSaying it louder\nBeing the man\nWho never walked away\n\n[Quiet - Piano Alone]\nThe letter sits inside my coat\nAgainst my beating heart\n\n[Final Crescendo - Full Orchestra Returns]\nAnd every word still burns like fire\nThe way it did\nFrom the start\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "male",
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, EDM, pop, country",
+    "notes": "v154: Male baritone vocal ballad. Research-driven: (1) short 179-char style prompt per top Suno findings (2) vocals for engagement (3) section metatags [Soft Solo Piano], [Building], [Full Orchestra] do structural work (4) only 8 exclude styles per 'less is more' negative prompting. Emotional territory: regret/longing. Original lyrics about a father who never said what mattered.",
+    "tags": [
+      "classical",
+      "ballad",
+      "baritone",
+      "orchestral",
+      "vocal",
+      "emotional",
+      "cinematic",
+      "heartbreaking"
+    ],
+    "_file": "the-letter-i-never-sent-v154.yaml",
+    "_slug": "the-letter-i-never-sent-v154"
+  },
+  {
     "name": "i-was-the-fire",
     "version": 153,
     "style": "Dramatic operatic aria, powerful female soprano vocals, full symphony orchestra, sweeping strings, brass fanfares, emotional and passionate, classical crossover, cinematic, building from intimate piano to overwhelming orchestral climax, beautiful and heartbreaking",
