@@ -1,5 +1,29 @@
 [
   {
+    "name": "i-was-the-fire",
+    "version": 153,
+    "style": "Dramatic operatic aria, powerful female soprano vocals, full symphony orchestra, sweeping strings, brass fanfares, emotional and passionate, classical crossover, cinematic, building from intimate piano to overwhelming orchestral climax, beautiful and heartbreaking",
+    "title": "I Was the Fire",
+    "lyrics": "[Soft Piano]\nI stood where the silence grew\nWatched the world forget my name\nEvery scar became a door\nEvery door became a flame\n\n[Strings Enter]\nThey said the light would never reach me\nThey said the cold would never leave\nBut something burned beneath the surface\nSomething they could not believe\n\n[Full Orchestra Building]\nI was the fire they tried to bury\nI was the voice they could not break\nRising from the deepest shadow\nBurning brighter with each ache\n\n[Orchestral Climax - Fortissimo]\nI was the fire\nI was the fire\nAnd nothing\nNothing could put me out\n\n[Quiet Piano Return]\nNow I stand where the silence ends\nAnd the world remembers my name\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, pop, EDM, country, folk, jazz",
+    "notes": "v153: FIRST VOCAL SONG in the classical beauty era. Research from Suno Explore shows vocal songs get 10x engagement vs instrumentals (43 likes vs 2 likes). Using simpler prompt style (268 chars) per v152 experiment. Dramatic soprano aria — think operatic power ballad, classical crossover. Original lyrics about resilience and inner strength. Testing if vocals + orchestra + emotional lyrics = the formula for Suno success.",
+    "tags": [
+      "classical",
+      "opera",
+      "soprano",
+      "orchestral",
+      "vocal",
+      "emotional",
+      "cinematic",
+      "aria",
+      "dramatic"
+    ],
+    "_file": "i-was-the-fire-v153.yaml",
+    "_slug": "i-was-the-fire-v153"
+  },
+  {
     "name": "the-last-cathedral",
     "version": 152,
     "style": "Classical symphony, full orchestra, strings, brass, timpani, emotional and dramatic, sweeping melodies, loud and soft contrasts, building to a massive climax, cinematic, instrumental",

@@ -1,0 +1,39 @@
+name: "i-was-the-fire"
+version: 153
+style: "Dramatic operatic aria, powerful female soprano vocals, full symphony orchestra, sweeping strings, brass fanfares, emotional and passionate, classical crossover, cinematic, building from intimate piano to overwhelming orchestral climax, beautiful and heartbreaking"
+title: "I Was the Fire"
+lyrics: |
+  [Soft Piano]
+  I stood where the silence grew
+  Watched the world forget my name
+  Every scar became a door
+  Every door became a flame
+
+  [Strings Enter]
+  They said the light would never reach me
+  They said the cold would never leave
+  But something burned beneath the surface
+  Something they could not believe
+
+  [Full Orchestra Building]
+  I was the fire they tried to bury
+  I was the voice they could not break
+  Rising from the deepest shadow
+  Burning brighter with each ache
+
+  [Orchestral Climax - Fortissimo]
+  I was the fire
+  I was the fire
+  And nothing
+  Nothing could put me out
+
+  [Quiet Piano Return]
+  Now I stand where the silence ends
+  And the world remembers my name
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, rock, metal, hip hop, rap, pop, EDM, country, folk, jazz"
+notes: "v153: FIRST VOCAL SONG in the classical beauty era. Research from Suno Explore shows vocal songs get 10x engagement vs instrumentals (43 likes vs 2 likes). Using simpler prompt style (268 chars) per v152 experiment. Dramatic soprano aria — think operatic power ballad, classical crossover. Original lyrics about resilience and inner strength. Testing if vocals + orchestra + emotional lyrics = the formula for Suno success."
+tags: [classical, opera, soprano, orchestral, vocal, emotional, cinematic, aria, dramatic]

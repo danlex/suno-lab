@@ -1,6 +1,6 @@
 {
-  "total_prompts": 152,
-  "latest_version": 152,
+  "total_prompts": 153,
+  "latest_version": 153,
   "instruments": {
     "organ": [
       1,
@@ -228,7 +228,8 @@
       140,
       145,
       148,
-      149
+      149,
+      153
     ],
     "timpani": [
       15,
@@ -796,7 +797,8 @@
       16,
       18,
       55,
-      152
+      152,
+      153
     ],
     "romantic": [
       145,
@@ -1269,6 +1271,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 153,
+      "title": "I Was the Fire",
+      "name": "i-was-the-fire",
+      "featured": [],
+      "genre": "cinematic",
+      "key": null,
+      "bpm": null
+    },
     {
       "version": 152,
       "title": "The Last Cathedral",
