@@ -1,5 +1,27 @@
 [
   {
+    "name": "the-moment-the-whole-sky-opened",
+    "version": 150,
+    "style": "Ecstatic orchestral celebration, full symphony orchestra with choir, total duration around 3:00, overwhelming joy building from intimate beginnings to explosive grandeur. At 0:00 solo flute plays a simple dancing melody, light and innocent. At 0:25 strings pick it up pizzicato, adding playful rhythm. At 1:00 full orchestra joins with the melody transformed into a sweeping waltz, horns singing warmly, violins soaring. At 1:30 choir enters wordlessly adding pure vocal joy on top, the texture becoming radiant and immense. At 2:00 everything builds to maximum ecstasy, brass fanfares crashing over surging strings, timpani driving, choir reaching fortissimo. At 2:10 sudden pianissimo, just solo flute again for three heartbeats. At 2:15 the full orchestra and choir detonate back in A major, the melody blazing in radiant major key triumph, overwhelming and unstoppable to a glorious final chord at 2:50, 144 BPM vivace, no electronics, no synthesizers, no guitars, no darkness",
+    "title": "The Moment the Whole Sky Opened",
+    "lyrics": "[Solo Flute — Simple Dancing Melody]\n[Strings Pizzicato — Playful Rhythm]\n[Full Orchestra Sweeping Waltz — Horns Singing]\n[Choir Enters Wordlessly — Pure Vocal Joy]\n[Maximum Ecstasy — Brass Fanfares, Timpani, Choir Fortissimo]\n[Sudden Pianissimo — Solo Flute Alone]\n[Full Orchestra and Choir Detonate — Radiant Major Key Triumph]\n[Glorious Final Chord]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, dark, horror, ambient, lo-fi, Arabic, Indian classical",
+    "notes": "v150: ECSTATIC/JOYFUL territory. v148=fury, v149=yearning, v150=pure joy. Inspired by Beethoven's 9th finale, Mahler's 2nd Resurrection finale, Orff's Carmina Burana. Adding CHOIR for the first time in the classical beauty era — wordless voices add a dimension of pure human emotion no instrument can match. Simple flute melody that transforms into full orchestral celebration. 144 BPM vivace for maximum energy. The silence at 2:10 (solo flute returning) before the final explosion = maximum dopamine contrast.",
+    "tags": [
+      "orchestral",
+      "celebration",
+      "joyful",
+      "choir",
+      "classical-beauty",
+      "ecstatic",
+      "vivace",
+      "monumental"
+    ],
+    "_file": "the-moment-the-whole-sky-opened-v150.yaml",
+    "_slug": "the-moment-the-whole-sky-opened-v150"
+  },
+  {
     "name": "the-weight-of-every-beautiful-thing",
     "version": 149,
     "style": "Sweeping romantic piano concerto, full symphony orchestra, total duration around 3:00, achingly emotional with yearning intensity. Solo piano at 0:00 with deep rolling chords dark and powerful. At 0:25 soaring violin melody heartbreaking and simple, climbing higher each phrase. At 1:00 full strings swell, cellos counter-melody, texture overwhelming. At 1:30 brass enters, piano plays passionate virtuosic runs. At 2:00 piano crashing fortissimo against full orchestra in desperate yearning. At 2:10 devastating silence. At 2:15 solo piano pianissimo, theme transposed C minor to D-flat major, strings trembling, building to final overwhelming climax at 2:45 full orchestra blazing, 76 BPM, no electronics, no synthesizers, no guitars",
