@@ -1,0 +1,18 @@
+name: "what-waits-at-the-bottom-of-the-stairs"
+version: 151
+style: "Suspenseful orchestral thriller score, full symphony orchestra, total duration around 3:00, unbearable tension building to a terrifying revelation. At 0:00 low strings play a slow creeping ostinato in the bass, menacing and deliberate. At 0:25 solo violin enters with a high thin melody above, fragile against the darkness below. At 1:00 woodwinds add dissonant clusters, brass stabs punctuate unpredictably, the texture becoming increasingly agitated. At 1:30 snare drum enters with a military rhythm driving the tension forward relentlessly. At 2:00 full orchestra surges with violent crescendo, strings sawing fortissimo, brass screaming dissonant chords. At 2:10 total silence, four seconds of dread. At 2:15 the ostinato returns pianissimo shifted from E minor to F minor, half-step up, every instrument entering one by one building to a colossal shattering fortissimo climax at 2:50 that feels like a door being kicked open, 100 BPM, no electronics, no synthesizers, no guitars"
+title: "What Waits at the Bottom of the Stairs"
+lyrics: |
+  [Low Strings — Slow Creeping Ostinato]
+  [Solo Violin — High Thin Melody Above the Darkness]
+  [Woodwinds Dissonant — Brass Stabs Unpredictable]
+  [Snare Drum Military Rhythm — Relentless Drive]
+  [Full Orchestra Violent Crescendo — Strings Sawing, Brass Screaming]
+  [Total Silence — Four Seconds of Dread]
+  [Ostinato Returns Pianissimo — Half-Step Up]
+  [Colossal Shattering Climax]
+  [End]
+instrumental: true
+exclude_styles: "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, gentle, ambient, cheerful, upbeat, Arabic, Indian classical"
+notes: "v151: SUSPENSE/DREAD territory. Inspired by Shostakovich's String Quartet #8, Herrmann's Psycho score, Penderecki's Threnody. The creeping ostinato = something approaching in the dark. Solo violin above = vulnerability. The silence at 2:10 = the moment before the door opens. Direct musical force language: 'creeping', 'menacing', 'sawing', 'screaming', 'shattering'. 100 BPM for steady relentless dread."
+tags: [orchestral, suspense, thriller, dark, cinematic, classical, intense, film score]
