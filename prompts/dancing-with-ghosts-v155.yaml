@@ -1,0 +1,39 @@
+name: "dancing-with-ghosts"
+version: 155
+style: "Haunting waltz, female soprano, orchestra and piano, melancholic and beautiful, romantic classical, sweeping strings, dark elegance, cinematic"
+title: "Dancing With Ghosts"
+lyrics: |
+  [Gentle Piano Waltz]
+  The ballroom fills with candlelight
+  But no one else is here
+  I spin across the marble floor
+  And hold what disappears
+
+  [Strings Swell]
+  Your shadow leads me through the dark
+  Your whisper finds my ear
+  We dance the way we used to dance
+  Before you left this sphere
+
+  [Full Orchestra - Sweeping]
+  Round and round the chandelier
+  Our reflection in the glass
+  Every waltz a little slower
+  Every moment meant to last
+
+  [Powerful Climax]
+  I'm dancing with your ghost tonight
+  And the music never ends
+  The orchestra plays on and on
+  For lovers and for friends
+
+  [Soft Piano Ending]
+  The candles flicker one by one
+  Until the last light bends
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, rock, metal, hip hop, rap, EDM, pop"
+notes: "v155: Haunting soprano waltz — ghost story romance. Short 139-char style. Waltz rhythm gives Suno a strong rhythmic spine (research says driving rhythm helps coherence)."
+tags: [classical, waltz, soprano, orchestral, vocal, haunting, romantic, cinematic]

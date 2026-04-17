@@ -1,5 +1,28 @@
 [
   {
+    "name": "dancing-with-ghosts",
+    "version": 155,
+    "style": "Haunting waltz, female soprano, orchestra and piano, melancholic and beautiful, romantic classical, sweeping strings, dark elegance, cinematic",
+    "title": "Dancing With Ghosts",
+    "lyrics": "[Gentle Piano Waltz]\nThe ballroom fills with candlelight\nBut no one else is here\nI spin across the marble floor\nAnd hold what disappears\n\n[Strings Swell]\nYour shadow leads me through the dark\nYour whisper finds my ear\nWe dance the way we used to dance\nBefore you left this sphere\n\n[Full Orchestra - Sweeping]\nRound and round the chandelier\nOur reflection in the glass\nEvery waltz a little slower\nEvery moment meant to last\n\n[Powerful Climax]\nI'm dancing with your ghost tonight\nAnd the music never ends\nThe orchestra plays on and on\nFor lovers and for friends\n\n[Soft Piano Ending]\nThe candles flicker one by one\nUntil the last light bends\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, EDM, pop",
+    "notes": "v155: Haunting soprano waltz — ghost story romance. Short 139-char style. Waltz rhythm gives Suno a strong rhythmic spine (research says driving rhythm helps coherence).",
+    "tags": [
+      "classical",
+      "waltz",
+      "soprano",
+      "orchestral",
+      "vocal",
+      "haunting",
+      "romantic",
+      "cinematic"
+    ],
+    "_file": "dancing-with-ghosts-v155.yaml",
+    "_slug": "dancing-with-ghosts-v155"
+  },
+  {
     "name": "the-letter-i-never-sent",
     "version": 154,
     "style": "Cinematic orchestral ballad, deep male baritone vocals, piano and strings, emotional and intimate, building to powerful orchestral climax, heartbreaking, classical crossover",
