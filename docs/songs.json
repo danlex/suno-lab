@@ -1,5 +1,28 @@
 [
   {
+    "name": "before-you-close-your-eyes",
+    "version": 157,
+    "style": "Intimate acoustic lullaby, gentle female vocals, fingerpicked guitar, soft cello, warm and tender, emotional, singer-songwriter, cinematic folk",
+    "title": "Before You Close Your Eyes",
+    "lyrics": "[Gentle Fingerpicked Guitar]\nThe world outside is spinning fast\nBut here the night is still\nI'll hold the dark at bay for you\nThe way I always will\n\n[Soft Cello Enters]\nYour tiny hands around my thumb\nYour breath against my chest\nOf all the things I've ever done\nThis moment is the best\n\n[Building Warmth - Strings Join]\nBefore you close your eyes tonight\nKnow this one thing is true\nThe universe could burn away\nAnd I'd still be holding you\n\n[Quiet Ending - Guitar Alone]\nSleep now\nSleep now\nI'm here\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, EDM, pop, loud",
+    "notes": "v157: Intimate lullaby. Different from everything else — quiet, small, personal. A mother singing to her child. Guitar + cello + voice. Testing if tender intimacy hits harder than orchestral bombast.",
+    "tags": [
+      "lullaby",
+      "acoustic",
+      "tender",
+      "vocal",
+      "emotional",
+      "folk",
+      "intimate",
+      "cinematic"
+    ],
+    "_file": "before-you-close-your-eyes-v157.yaml",
+    "_slug": "before-you-close-your-eyes-v157"
+  },
+  {
     "name": "rise-from-the-ashes",
     "version": 156,
     "style": "Epic cinematic orchestral anthem, powerful mixed choir, thunderous percussion, brass fanfares, soaring strings, triumphant and overwhelming, battle hymn, dramatic and monumental",

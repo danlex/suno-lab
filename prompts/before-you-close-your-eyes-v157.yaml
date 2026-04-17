@@ -1,0 +1,34 @@
+name: "before-you-close-your-eyes"
+version: 157
+style: "Intimate acoustic lullaby, gentle female vocals, fingerpicked guitar, soft cello, warm and tender, emotional, singer-songwriter, cinematic folk"
+title: "Before You Close Your Eyes"
+lyrics: |
+  [Gentle Fingerpicked Guitar]
+  The world outside is spinning fast
+  But here the night is still
+  I'll hold the dark at bay for you
+  The way I always will
+
+  [Soft Cello Enters]
+  Your tiny hands around my thumb
+  Your breath against my chest
+  Of all the things I've ever done
+  This moment is the best
+
+  [Building Warmth - Strings Join]
+  Before you close your eyes tonight
+  Know this one thing is true
+  The universe could burn away
+  And I'd still be holding you
+
+  [Quiet Ending - Guitar Alone]
+  Sleep now
+  Sleep now
+  I'm here
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, rock, metal, hip hop, rap, EDM, pop, loud"
+notes: "v157: Intimate lullaby. Different from everything else — quiet, small, personal. A mother singing to her child. Guitar + cello + voice. Testing if tender intimacy hits harder than orchestral bombast."
+tags: [lullaby, acoustic, tender, vocal, emotional, folk, intimate, cinematic]
