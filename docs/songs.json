@@ -1,5 +1,27 @@
 [
   {
+    "name": "the-room-where-it-happened",
+    "version": 158,
+    "style": "Dark cinematic solo piano, minimal, suspenseful, emotional, noir atmosphere, intimate and haunting, modern classical, contemplative",
+    "title": "The Room Where It Happened",
+    "lyrics": "[Instrumental]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, EDM, pop, orchestral, loud",
+    "notes": "v158: Solo piano noir. Minimal — just one instrument doing everything. Testing if Suno can produce a devastatingly beautiful solo piano piece without any orchestra. Dark, contemplative, cinematic.",
+    "tags": [
+      "piano",
+      "solo",
+      "dark",
+      "cinematic",
+      "minimal",
+      "noir",
+      "instrumental",
+      "contemplative"
+    ],
+    "_file": "the-room-where-it-happened-v158.yaml",
+    "_slug": "the-room-where-it-happened-v158"
+  },
+  {
     "name": "before-you-close-your-eyes",
     "version": 157,
     "style": "Intimate acoustic lullaby, gentle female vocals, fingerpicked guitar, soft cello, warm and tender, emotional, singer-songwriter, cinematic folk",
