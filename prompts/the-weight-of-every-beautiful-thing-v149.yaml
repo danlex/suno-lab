@@ -1,0 +1,18 @@
+name: "the-weight-of-every-beautiful-thing"
+version: 149
+style: "Sweeping romantic piano concerto, full symphony orchestra, total duration around 3:00, achingly emotional with yearning intensity. Solo piano at 0:00 with deep rolling chords dark and powerful. At 0:25 soaring violin melody heartbreaking and simple, climbing higher each phrase. At 1:00 full strings swell, cellos counter-melody, texture overwhelming. At 1:30 brass enters, piano plays passionate virtuosic runs. At 2:00 piano crashing fortissimo against full orchestra in desperate yearning. At 2:10 devastating silence. At 2:15 solo piano pianissimo, theme transposed C minor to D-flat major, strings trembling, building to final overwhelming climax at 2:45 full orchestra blazing, 76 BPM, no electronics, no synthesizers, no guitars"
+title: "The Weight of Every Beautiful Thing"
+lyrics: |
+  [Solo Piano — Deep Rolling Chords, Dark and Powerful]
+  [Soaring Violin Melody — Heartbreaking, Climbing Higher]
+  [Full String Orchestra Swells — Cellos Counter-Melody]
+  [Brass Enters — Piano Passionate Virtuosic Runs]
+  [Piano Crashing Fortissimo Against Full Orchestra]
+  [Devastating Silence]
+  [Solo Piano Returns Pianissimo — Theme in Major]
+  [Strings Re-enter Trembling — Final Overwhelming Climax]
+  [End]
+instrumental: true
+exclude_styles: "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, gentle, ambient, lo-fi, new age, meditation, Arabic, Indian classical"
+notes: "v149: Rachmaninoff Piano Concerto #2 energy. Research: the slow movement's power comes from (1) simple melody that embodies longing, (2) unexpected delayed resolutions via suspensions, (3) chromatic bass movement in half steps, (4) clarinet/strings trading the melody = conversation between vulnerability and power. Applied: piano vs full orchestra = vulnerability vs overwhelming force. The silence at 2:10 is the moment where longing becomes unbearable. C minor → Db major modulation = darkness suddenly cracking open into painful beauty."
+tags: [romantic-concerto, piano, orchestral, devastating, classical-beauty, monumental]

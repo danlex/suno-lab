@@ -1,5 +1,25 @@
 [
   {
+    "name": "the-weight-of-every-beautiful-thing",
+    "version": 149,
+    "style": "Sweeping romantic piano concerto, full symphony orchestra, total duration around 3:00, achingly emotional with yearning intensity. Solo piano at 0:00 with deep rolling chords dark and powerful. At 0:25 soaring violin melody heartbreaking and simple, climbing higher each phrase. At 1:00 full strings swell, cellos counter-melody, texture overwhelming. At 1:30 brass enters, piano plays passionate virtuosic runs. At 2:00 piano crashing fortissimo against full orchestra in desperate yearning. At 2:10 devastating silence. At 2:15 solo piano pianissimo, theme transposed C minor to D-flat major, strings trembling, building to final overwhelming climax at 2:45 full orchestra blazing, 76 BPM, no electronics, no synthesizers, no guitars",
+    "title": "The Weight of Every Beautiful Thing",
+    "lyrics": "[Solo Piano — Deep Rolling Chords, Dark and Powerful]\n[Soaring Violin Melody — Heartbreaking, Climbing Higher]\n[Full String Orchestra Swells — Cellos Counter-Melody]\n[Brass Enters — Piano Passionate Virtuosic Runs]\n[Piano Crashing Fortissimo Against Full Orchestra]\n[Devastating Silence]\n[Solo Piano Returns Pianissimo — Theme in Major]\n[Strings Re-enter Trembling — Final Overwhelming Climax]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, gentle, ambient, lo-fi, new age, meditation, Arabic, Indian classical",
+    "notes": "v149: Rachmaninoff Piano Concerto #2 energy. Research: the slow movement's power comes from (1) simple melody that embodies longing, (2) unexpected delayed resolutions via suspensions, (3) chromatic bass movement in half steps, (4) clarinet/strings trading the melody = conversation between vulnerability and power. Applied: piano vs full orchestra = vulnerability vs overwhelming force. The silence at 2:10 is the moment where longing becomes unbearable. C minor → Db major modulation = darkness suddenly cracking open into painful beauty.",
+    "tags": [
+      "romantic-concerto",
+      "piano",
+      "orchestral",
+      "devastating",
+      "classical-beauty",
+      "monumental"
+    ],
+    "_file": "the-weight-of-every-beautiful-thing-v149.yaml",
+    "_slug": "the-weight-of-every-beautiful-thing-v149"
+  },
+  {
     "name": "the-storm-that-never-apologized",
     "version": 148,
     "style": "Devastating orchestral requiem, full symphony orchestra, total duration around 3:00, dramatic stormy extreme dynamics from pianissimo to fortissimo. At 0:00 single solo cello note cutting through silence, raw and exposed. Strings enter at 0:25 building unstoppable crescendo, melody simple and inevitable. At 1:00 brass erupts with thunderous power, timpani pounding, violins sawing aggressive tremolo, full orchestra unleashing furious energy. At 1:30 crashing chords against soaring violin melody, relentless tension. At 2:00 everything cuts to total silence. At 2:05 lone piano plays the theme fragile and broken. At 2:15 orchestra detonates fortississimo D minor to E-flat minor, twice the fury, brass blazing strings screaming timpani thundering to shattering climax at 2:50, 88 BPM, no electronics, no synthesizers, no guitars, no gentle textures",
