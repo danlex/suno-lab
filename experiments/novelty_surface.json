@@ -1,6 +1,6 @@
 {
-  "total_prompts": 154,
-  "latest_version": 154,
+  "total_prompts": 156,
+  "latest_version": 156,
   "instruments": {
     "organ": [
       1,
@@ -230,7 +230,8 @@
       148,
       149,
       153,
-      154
+      154,
+      155
     ],
     "timpani": [
       15,
@@ -768,7 +769,8 @@
       148,
       150,
       151,
-      154
+      154,
+      156
     ],
     "neoclassical": [
       1,
@@ -800,7 +802,8 @@
       18,
       55,
       152,
-      153
+      153,
+      155
     ],
     "concerto": [
       145,
@@ -1273,6 +1276,24 @@
     ]
   },
   "titles": [
+    {
+      "version": 156,
+      "title": "Rise from the Ashes",
+      "name": "rise-from-the-ashes",
+      "featured": [],
+      "genre": "orchestral",
+      "key": null,
+      "bpm": null
+    },
+    {
+      "version": 155,
+      "title": "Dancing With Ghosts",
+      "name": "dancing-with-ghosts",
+      "featured": [],
+      "genre": "cinematic",
+      "key": null,
+      "bpm": null
+    },
     {
       "version": 154,
       "title": "The Letter I Never Sent",
