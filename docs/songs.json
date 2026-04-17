@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-sea-remembers-your-name",
+    "version": 160,
+    "style": "Celtic orchestral ballad, Irish folk, female vocals, fiddle, tin whistle, bodhran drum, sweeping strings, emotional and longing, cinematic, beautiful melodies",
+    "title": "The Sea Remembers Your Name",
+    "lyrics": "[Tin Whistle Solo]\nThe cliffs stand guard where you once stood\nThe waves still call your name\nI left a lantern on the shore\nTo guide you home again\n\n[Fiddle and Bodhran Enter]\nThe fishing boats come back at dawn\nBut yours never returned\nThe sea took everything I had\nAnd everything I earned\n\n[Full Celtic Orchestra - Building]\nBut the sea remembers your name\nIt sings it through the storms\nAnd every tide that touches shore\nIs your arms around my form\n\n[Powerful Climax - Strings and Choir]\nI'll wait until the ocean dries\nI'll wait until the stars grow cold\nThe sea remembers your name my love\nAnd so does this heart I hold\n\n[Quiet Tin Whistle Return]\nThe lantern burns\nThe lantern burns\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, EDM, pop",
+    "notes": "v160: Celtic/Irish orchestral ballad. Fiddle + tin whistle + bodhran = strong cultural identity. Story of a fisherman's wife waiting. Different from everything else — folk roots + orchestral sweep.",
+    "tags": [
+      "celtic",
+      "irish",
+      "folk",
+      "orchestral",
+      "vocal",
+      "emotional",
+      "cinematic",
+      "fiddle",
+      "ballad"
+    ],
+    "_file": "the-sea-remembers-your-name-v160.yaml",
+    "_slug": "the-sea-remembers-your-name-v160"
+  },
+  {
     "name": "carry-me-home",
     "version": 159,
     "style": "Gospel-inspired orchestral power ballad, soulful female vocals, choir harmonies, piano, organ, strings, uplifting and transcendent, spiritual, building to overwhelming climax, cinematic",

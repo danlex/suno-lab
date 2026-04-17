@@ -1,0 +1,39 @@
+name: "the-sea-remembers-your-name"
+version: 160
+style: "Celtic orchestral ballad, Irish folk, female vocals, fiddle, tin whistle, bodhran drum, sweeping strings, emotional and longing, cinematic, beautiful melodies"
+title: "The Sea Remembers Your Name"
+lyrics: |
+  [Tin Whistle Solo]
+  The cliffs stand guard where you once stood
+  The waves still call your name
+  I left a lantern on the shore
+  To guide you home again
+
+  [Fiddle and Bodhran Enter]
+  The fishing boats come back at dawn
+  But yours never returned
+  The sea took everything I had
+  And everything I earned
+
+  [Full Celtic Orchestra - Building]
+  But the sea remembers your name
+  It sings it through the storms
+  And every tide that touches shore
+  Is your arms around my form
+
+  [Powerful Climax - Strings and Choir]
+  I'll wait until the ocean dries
+  I'll wait until the stars grow cold
+  The sea remembers your name my love
+  And so does this heart I hold
+
+  [Quiet Tin Whistle Return]
+  The lantern burns
+  The lantern burns
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, rock, metal, hip hop, rap, EDM, pop"
+notes: "v160: Celtic/Irish orchestral ballad. Fiddle + tin whistle + bodhran = strong cultural identity. Story of a fisherman's wife waiting. Different from everything else — folk roots + orchestral sweep."
+tags: [celtic, irish, folk, orchestral, vocal, emotional, cinematic, fiddle, ballad]
