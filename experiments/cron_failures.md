@@ -34,3 +34,10 @@ step: submit
 yaml: prompts/before-the-gears-agree-v144.yaml
 judge_score: 99
 reason: Chrome MCP still not connected on this hourly fire. v143 also pending. Two drafts queued.
+
+## 2026-04-17 v146 submit — browser still disconnected
+step: submit
+yaml: prompts/everything-the-climb-was-for-v146.yaml
+judge_score: ~98 (self-assessed, all 12 criteria pass)
+reason: Chrome MCP extension still not connected. v143, v144, v145, v146 all queued. User has been asked to re-enable extension.
+backlog: v143 (caccia), v144 (phase-process), v145 (romantic piano), v146 (triumphant symphony)

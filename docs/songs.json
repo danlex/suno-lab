@@ -1,5 +1,25 @@
 [
   {
+    "name": "everything-the-climb-was-for",
+    "version": 146,
+    "style": "TRIUMPHANT ORCHESTRAL SYMPHONY three-minute film cue for a summit-at-dawn scene, total duration around 3:00, with FRENCH HORN + solo VIOLIN + TIMPANI against full string orchestra and brass, heroic and soaring where the music swells until the chest aches with triumph, french horn enters alone at 0:00 with a noble call across a mountain ridge, violin answers at 0:25 carrying the melody higher, timpani rolls at 1:00 as the full orchestra ignites and the theme broadens into a magnificent ascending phrase, strings and brass build relentlessly, peak grandeur at 2:00 with horn and violin in soaring unison above the orchestra, then a single sustained violin note at 2:10 floating in stillness, the theme erupts at 2:15 lifted from E-flat major into E major with timpani thundering and brass blazing in radiant fortissimo, resolving into a luminous chord, 132 BPM allegro, no electronics, no synthesizers, no guitars, no pop elements, no ambient textures",
+    "title": "Everything the Climb Was For",
+    "lyrics": "[French Horn Call — Solo, Noble, Distant]\n[Solo Violin Answers, Carrying the Melody Higher]\n[Timpani Rolls — Full Orchestra Ignites]\n[Theme Broadens — Magnificent Ascending Phrase]\n[Sweeping Strings and Brass Build]\n[Peak Grandeur — Horn and Violin in Soaring Unison]\n[Sudden Stillness — Single Sustained Violin Note]\n[Theme Erupts Half-Step Higher — Timpani Thunder, Brass Blaze]\n[Radiant Fortissimo — Luminous Final Chord]\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, rock, metal, hip hop, rap, jazz, blues, country, folk, punk, EDM, dubstep, trap, house, techno, pop, R&B, ambient drone, dark ambient, noise, industrial, Arabic, Indian classical",
+    "notes": "v146 continues the classical beauty direction from v145 but in a completely different emotional territory: TRIUMPHANT vs v145's TENDER. Inspired by Dvořák's New World Symphony finale, Stravinsky's Firebird Suite finale, Beethoven's Eroica. Standard orchestral instruments (french horn, violin, timpani) — mainstream heroic palette, not exotic experiments. Dopamine triggers: (1) ascending melodic phrases that physically lift, (2) timpani thunder at climax, (3) the stillness-to-eruption goosebump moment, (4) half-step Eb→E major modulation = darkness to blazing light. Research: 2025 film scores (Desplat's Frankenstein, Richter's Hamnet) show solo instrument + full orchestra interplay as the dominant emotional technique.",
+    "tags": [
+      "triumphant",
+      "symphony",
+      "classical-beauty",
+      "heroic",
+      "dopamine",
+      "allegro"
+    ],
+    "_file": "everything-the-climb-was-for-v146.yaml",
+    "_slug": "everything-the-climb-was-for-v146"
+  },
+  {
     "name": "the-light-that-finds-you-last",
     "version": 145,
     "style": "ROMANTIC PIANO CONCERTO three-minute miniature for a reunion-after-years scene, total duration around 3:00, with solo PIANO + solo VIOLIN + solo CELLO against lush string orchestra, achingly beautiful late Romantic emotion where every note aches with longing before resolving into tenderness, piano enters alone at 0:00 with a melody like a half-remembered lullaby, violin joins at 0:25 weaving around the piano like two voices finishing each other's sentences, cello rises at 1:00 with a broad singing theme, full strings bloom underneath building warmth, peak density at 2:00 where all three soloists converge in passionate unison then piano drops to near-silence at 2:10, melody returns at 2:15 lifted from D-flat major into D major with orchestra surging like sunrise, gentle piano coda echoes the opening lullaby, 72 BPM adagio, no electronics, no synthesizers, no drums, no rock guitars, no harsh sounds",
