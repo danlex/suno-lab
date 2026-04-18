@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-mountain-that-refused-to-kneel",
+    "version": 169,
+    "style": "Andean dark orchestral, powerful dark female mezzo-soprano, charango, pan flutes, deep percussion, dramatic strings, cinematic and ancient, mountain grandeur, building from mist to earthquake",
+    "title": "The Mountain That Refused to Kneel",
+    "lyrics": "[Pan Flutes - High and Lonely]\nThey came with chains and golden crosses\nThey came to name what had no name\nBut the mountain watched them from above\nAnd the mountain felt no shame\n\n[Charango and Deep Drums Enter]\nI am the daughter of the condor\nI am the sister of the stone\nMy blood runs colder than the glacier\nMy heart beats harder than the bone\n\n[Full Orchestra - Towering Power]\nThe mountain refused to kneel\nThe mountain refused to break\nAnd every empire that has climbed me\nHas crumbled in my wake\n\n[Quiet - Pan Flute and Voice Alone]\nThe snow still falls on sacred ground\nWhere no flag has ever flown\n\n[Explosive Final - Everything]\nThe mountain refused to kneel\nAnd I am made of mountain\nEvery step they took to conquer me\nJust made me more a fountain\n\nOf fury and of grace\nOf fury and of grace\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v169: Andean/South American dark orchestral. Charango + pan flutes for Andean cultural identity. Mountain = resistance to colonialism. Condor symbolism. Completing the world tour: Spain → Gothic → Russia → Japan → Norse → Greece → Africa → Andes. Same formula: dark mezzo-soprano + driving percussion + cultural mythology + power lyrics.",
+    "tags": [
+      "andean",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "charango",
+      "pan flutes",
+      "cinematic",
+      "mountain",
+      "resistance"
+    ],
+    "_file": "the-mountain-that-refused-to-kneel-v169.yaml",
+    "_slug": "the-mountain-that-refused-to-kneel-v169"
+  },
+  {
     "name": "the-ancestors-dream-forward",
     "version": 168,
     "style": "Afro-futuristic dark orchestral, powerful dark female mezzo-soprano, talking drums, kalimba, deep bass, dramatic strings, cinematic and otherworldly, tribal rhythms meet symphonic power, intense and transcendent",
