@@ -1,5 +1,28 @@
 [
   {
+    "name": "the-ancestors-dream-forward",
+    "version": 168,
+    "style": "Afro-futuristic dark orchestral, powerful dark female mezzo-soprano, talking drums, kalimba, deep bass, dramatic strings, cinematic and otherworldly, tribal rhythms meet symphonic power, intense and transcendent",
+    "title": "The Ancestors Dream Forward",
+    "lyrics": "[Kalimba and Talking Drums - Rhythmic and Hypnotic]\nMy grandmother sang to the stars\nBefore the stars had names\nShe wove the future into cloth\nAnd set the past in flames\n\n[Deep Bass and Strings Enter]\nThey thought we'd forget the rhythm\nThey thought we'd lose the song\nBut the drums remember everything\nThe drums have played along\n\n[Full Orchestra - Transcendent Power]\nThe ancestors dream forward\nNot back into the dust\nEvery beat a blueprint\nEvery chord a trust\n\n[Quiet - Kalimba Alone]\nIn the space between the heartbeats\nWhere the old world meets the new\n\n[Explosive Final - Everything]\nThe ancestors dream forward\nThrough the blood that runs in me\nEvery voice that ever sang\nStill sings inside of me\n\nWe dream forward\nWe dream forward\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v168: Afro-futuristic dark orchestral. Talking drums + kalimba for cultural identity. Ancestral wisdom/future vision theme. Different from all previous cultural entries — West African roots + futuristic orchestral. Still dark mezzo-soprano + driving rhythm + cultural mythology.",
+    "tags": [
+      "afro-futuristic",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "talking drums",
+      "kalimba",
+      "cinematic",
+      "transcendent"
+    ],
+    "_file": "the-ancestors-dream-forward-v168.yaml",
+    "_slug": "the-ancestors-dream-forward-v168"
+  },
+  {
     "name": "the-oracle-speaks-in-fire",
     "version": 167,
     "style": "Mediterranean dark orchestral, powerful dark female mezzo-soprano, bouzouki, dramatic choir, heavy percussion, cinematic and ancient, mythological intensity, building from whisper to thunder",
