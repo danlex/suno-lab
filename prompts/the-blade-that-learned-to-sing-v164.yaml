@@ -1,0 +1,39 @@
+name: "the-blade-that-learned-to-sing"
+version: 164
+style: "Japanese-inspired dark orchestral, powerful dark female mezzo-soprano, taiko drums, koto, dramatic strings, cinematic and intense, warrior spirit, building from silence to fury, haunting and beautiful"
+title: "The Blade That Learned to Sing"
+lyrics: |
+  [Koto Solo - Delicate and Haunting]
+  They forged me in the silence
+  Between the hammer and the flame
+  A thousand folds of patience
+  Before I earned my name
+
+  [Taiko Drums Enter - Driving]
+  I was not born for gentle hands
+  I was not made for peace
+  The steel remembers every blow
+  That gave my edge release
+
+  [Full Orchestra - Powerful and Dark]
+  I am the blade that learned to sing
+  Not the song they wanted heard
+  Every slash a syllable
+  Every strike a word
+
+  [Quiet Koto Return]
+  In the garden after battle
+  Cherry blossoms touch the ground
+
+  [Explosive Final Chorus - Taiko and Orchestra]
+  I am the blade that learned to sing
+  And my song will shake the earth
+  They tried to break me on the anvil
+  But the anvil gave me birth
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi"
+notes: "v164: Japanese-inspired dark orchestral. Taiko drums for driving rhythm (user likes driving percussion). Koto for cultural identity. Samurai/blade mythology. Same formula as v163 wolves (Slavic), v161 flames (flamenco), v162 cathedral (gothic) — strong cultural anchor + dark mezzo-soprano + emotional power lyrics."
+tags: [japanese, orchestral, dark, mezzo-soprano, taiko, koto, cinematic, warrior, dramatic]

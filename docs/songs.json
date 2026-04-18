@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-blade-that-learned-to-sing",
+    "version": 164,
+    "style": "Japanese-inspired dark orchestral, powerful dark female mezzo-soprano, taiko drums, koto, dramatic strings, cinematic and intense, warrior spirit, building from silence to fury, haunting and beautiful",
+    "title": "The Blade That Learned to Sing",
+    "lyrics": "[Koto Solo - Delicate and Haunting]\nThey forged me in the silence\nBetween the hammer and the flame\nA thousand folds of patience\nBefore I earned my name\n\n[Taiko Drums Enter - Driving]\nI was not born for gentle hands\nI was not made for peace\nThe steel remembers every blow\nThat gave my edge release\n\n[Full Orchestra - Powerful and Dark]\nI am the blade that learned to sing\nNot the song they wanted heard\nEvery slash a syllable\nEvery strike a word\n\n[Quiet Koto Return]\nIn the garden after battle\nCherry blossoms touch the ground\n\n[Explosive Final Chorus - Taiko and Orchestra]\nI am the blade that learned to sing\nAnd my song will shake the earth\nThey tried to break me on the anvil\nBut the anvil gave me birth\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v164: Japanese-inspired dark orchestral. Taiko drums for driving rhythm (user likes driving percussion). Koto for cultural identity. Samurai/blade mythology. Same formula as v163 wolves (Slavic), v161 flames (flamenco), v162 cathedral (gothic) — strong cultural anchor + dark mezzo-soprano + emotional power lyrics.",
+    "tags": [
+      "japanese",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "taiko",
+      "koto",
+      "cinematic",
+      "warrior",
+      "dramatic"
+    ],
+    "_file": "the-blade-that-learned-to-sing-v164.yaml",
+    "_slug": "the-blade-that-learned-to-sing-v164"
+  },
+  {
     "name": "the-wolves-know-my-name",
     "version": 163,
     "style": "Dark Slavic orchestral epic, powerful dark female mezzo-soprano, dramatic choir, heavy cello and bass, war drums, intense and brooding, cinematic, Russian classical influence, building to devastating climax",
