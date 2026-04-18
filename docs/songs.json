@@ -1,5 +1,30 @@
 [
   {
+    "name": "every-voice-that-ever-sang",
+    "version": 173,
+    "style": "Grand cinematic world orchestra, powerful dark female mezzo-soprano, massive choir, percussion from every continent, strings and brass, triumphant and overwhelming, building from single voice to global symphony, transcendent finale",
+    "title": "Every Voice That Ever Sang",
+    "lyrics": "[Single Voice - Unaccompanied and Raw]\nI have been the fire and the blade\nI have been the mountain and the wave\nI have walked through every story\nAnd I carry every grave\n\n[Drums Enter From All Directions]\nFrom the highlands to the temple\nFrom the forest to the shore\nEvery rhythm ever beaten\nBeats inside me more and more\n\n[Full World Orchestra and Choir - Massive]\nEvery voice that ever sang\nStill echoes in the dark\nEvery drum that ever thundered\nStill reverberates the heart\n\n[Quiet - Solo Voice with Single Drum]\nWe are not so different\nWe never really were\n\n[Grand Finale - Everything Converging]\nEvery voice that ever sang\nSings through me tonight\nFrom the ashes and the oceans\nFrom the shadow and the light\n\nWe are one song\nWe are one song\nWe have always been one song\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v173: WORLD TOUR FINALE. All 11 cultures converge into one song — the dark mezzo-soprano reveals she has been every woman in every myth, singing across all civilizations. 'Percussion from every continent' lets Suno blend all the rhythmic identities. The lyrics tie together fire (Spain), blade (Japan), mountain (Andes), wave (Polynesia), forest (Russia), temple (Greece), highland (Scotland). This is the culmination.",
+    "tags": [
+      "world",
+      "orchestral",
+      "finale",
+      "dark",
+      "mezzo-soprano",
+      "choir",
+      "cinematic",
+      "triumphant",
+      "transcendent",
+      "global"
+    ],
+    "_file": "every-voice-that-ever-sang-v173.yaml",
+    "_slug": "every-voice-that-ever-sang-v173"
+  },
+  {
     "name": "the-ocean-carved-my-bones",
     "version": 172,
     "style": "Polynesian dark orchestral, powerful dark female mezzo-soprano, deep war chant choir, heavy tribal percussion, conch shell horn, dramatic strings, cinematic and primal, ocean power, building from chant to tsunami",

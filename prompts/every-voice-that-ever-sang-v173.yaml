@@ -1,0 +1,43 @@
+name: "every-voice-that-ever-sang"
+version: 173
+style: "Grand cinematic world orchestra, powerful dark female mezzo-soprano, massive choir, percussion from every continent, strings and brass, triumphant and overwhelming, building from single voice to global symphony, transcendent finale"
+title: "Every Voice That Ever Sang"
+lyrics: |
+  [Single Voice - Unaccompanied and Raw]
+  I have been the fire and the blade
+  I have been the mountain and the wave
+  I have walked through every story
+  And I carry every grave
+
+  [Drums Enter From All Directions]
+  From the highlands to the temple
+  From the forest to the shore
+  Every rhythm ever beaten
+  Beats inside me more and more
+
+  [Full World Orchestra and Choir - Massive]
+  Every voice that ever sang
+  Still echoes in the dark
+  Every drum that ever thundered
+  Still reverberates the heart
+
+  [Quiet - Solo Voice with Single Drum]
+  We are not so different
+  We never really were
+
+  [Grand Finale - Everything Converging]
+  Every voice that ever sang
+  Sings through me tonight
+  From the ashes and the oceans
+  From the shadow and the light
+
+  We are one song
+  We are one song
+  We have always been one song
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi"
+notes: "v173: WORLD TOUR FINALE. All 11 cultures converge into one song — the dark mezzo-soprano reveals she has been every woman in every myth, singing across all civilizations. 'Percussion from every continent' lets Suno blend all the rhythmic identities. The lyrics tie together fire (Spain), blade (Japan), mountain (Andes), wave (Polynesia), forest (Russia), temple (Greece), highland (Scotland). This is the culmination."
+tags: [world, orchestral, finale, dark, mezzo-soprano, choir, cinematic, triumphant, transcendent, global]
