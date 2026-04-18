@@ -1,0 +1,40 @@
+name: "the-memory-that-watches-back"
+version: 181
+style: "Dark cinematic orchestral three-minute miniature for a memory-haunt scene, total duration around 3:00, with KORA, WATERPHONE, and CONTRABASSOON as featured soloists over a bed of sul ponticello strings bowed near the bridge creating a glassy metallic harmonic haze, powerful dark female mezzo-soprano entering at 0:25 over the spectral string shimmer, the kora plucking ghostly arpeggios through the haze while the waterphone moans beneath and the contrabassoon anchors with low pedal growls, col legno battuto enters at 1:15 adding percussive dread as the texture thickens toward full density at 2:00, four seconds of silence at 2:10 strips everything bare, then full-bow strings return fortississimo in A minor half-step up from A-flat minor at 59 BPM with all three soloists converging for the final descent, no electronic elements, no synthesizers, no drums, no bright timbres, no resolution"
+title: "The Memory That Watches Back"
+lyrics: |
+  [Sul Ponticello Strings - Glassy and Spectral]
+  There is a memory that watches back
+  From the far side of the glass
+  It knows your face better than you do
+  It remembers what you let pass
+
+  [Kora and Waterphone Enter - Ghostly]
+  I locked it in a room I built
+  From years of looking away
+  But memories don't age like we do
+  They grow sharper every day
+
+  [Col Legno and Full Orchestra - Dread Building]
+  The memory that watches back
+  Has eyes that never close
+  It sits inside the quiet rooms
+  Where no one ever goes
+
+  [Silence - Four Seconds]
+
+  [Return in A Minor - Full Bow - Everything]
+  The memory that watches back
+  Is not the enemy I feared
+  It's just the truth I couldn't hold
+  Until I finally appeared
+
+  I see you now
+  I see you now
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, drums"
+notes: "v181: Sul ponticello texture scoring — extended string technique (bow near bridge = glassy metallic overtones) as primary orchestral bed, never used before in 180 versions. Col legno battuto adds percussive pulse without drums. Kora (gap=63, West African harp-lute), waterphone (gap=52, eerie bowed idiophone), contrabassoon (gap=48, lowest woodwind). All three from different families. 59 BPM unused. Ab minor → A minor half-step up (Ab minor gap=119, single prior use v62). Theme: memory as a sentient presence — not haunting but watching, waiting to be acknowledged. The sul ponticello haze = the distortion of recollection."
+tags: [sul ponticello, col legno, dark orchestral, mezzo-soprano, kora, waterphone, contrabassoon, cinematic, memory, spectral]

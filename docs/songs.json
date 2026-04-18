@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-memory-that-watches-back",
+    "version": 181,
+    "style": "Dark cinematic orchestral three-minute miniature for a memory-haunt scene, total duration around 3:00, with KORA, WATERPHONE, and CONTRABASSOON as featured soloists over a bed of sul ponticello strings bowed near the bridge creating a glassy metallic harmonic haze, powerful dark female mezzo-soprano entering at 0:25 over the spectral string shimmer, the kora plucking ghostly arpeggios through the haze while the waterphone moans beneath and the contrabassoon anchors with low pedal growls, col legno battuto enters at 1:15 adding percussive dread as the texture thickens toward full density at 2:00, four seconds of silence at 2:10 strips everything bare, then full-bow strings return fortississimo in A minor half-step up from A-flat minor at 59 BPM with all three soloists converging for the final descent, no electronic elements, no synthesizers, no drums, no bright timbres, no resolution",
+    "title": "The Memory That Watches Back",
+    "lyrics": "[Sul Ponticello Strings - Glassy and Spectral]\nThere is a memory that watches back\nFrom the far side of the glass\nIt knows your face better than you do\nIt remembers what you let pass\n\n[Kora and Waterphone Enter - Ghostly]\nI locked it in a room I built\nFrom years of looking away\nBut memories don't age like we do\nThey grow sharper every day\n\n[Col Legno and Full Orchestra - Dread Building]\nThe memory that watches back\nHas eyes that never close\nIt sits inside the quiet rooms\nWhere no one ever goes\n\n[Silence - Four Seconds]\n\n[Return in A Minor - Full Bow - Everything]\nThe memory that watches back\nIs not the enemy I feared\nIt's just the truth I couldn't hold\nUntil I finally appeared\n\nI see you now\nI see you now\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, drums",
+    "notes": "v181: Sul ponticello texture scoring — extended string technique (bow near bridge = glassy metallic overtones) as primary orchestral bed, never used before in 180 versions. Col legno battuto adds percussive pulse without drums. Kora (gap=63, West African harp-lute), waterphone (gap=52, eerie bowed idiophone), contrabassoon (gap=48, lowest woodwind). All three from different families. 59 BPM unused. Ab minor → A minor half-step up (Ab minor gap=119, single prior use v62). Theme: memory as a sentient presence — not haunting but watching, waiting to be acknowledged. The sul ponticello haze = the distortion of recollection.",
+    "tags": [
+      "sul ponticello",
+      "col legno",
+      "dark orchestral",
+      "mezzo-soprano",
+      "kora",
+      "waterphone",
+      "contrabassoon",
+      "cinematic",
+      "memory",
+      "spectral"
+    ],
+    "_file": "the-memory-that-watches-back-v181.yaml",
+    "_slug": "the-memory-that-watches-back-v181"
+  },
+  {
     "name": "the-vigil-at-the-crossroads",
     "version": 180,
     "style": "Dark early Romantic orchestral three-minute miniature for a night vigil scene, total duration around 3:00, with OPHICLEIDE, ERHU, and FRAME DRUMS as featured soloists against a bed of tremolo strings and low brass, powerful dark female mezzo-soprano singing over the hollow moaning ophicleide pedal tones that rise from below like prayers from underground, the erhu crying above in thin mournful lines while frame drums pulse a slow heartbeat rhythm at 71 BPM in G-sharp minor modulating to A minor at the climax after four seconds of held silence at 2:10, the texture building from the ophicleide alone at 0:00 through erhu joining at 0:25 and frame drums entering at 1:00 toward full orchestral density at 2:00 before the silence strips everything away and the return crashes in fortississimo half-step up with all three soloists converging, no electronic elements, no synthesizers, no percussion beyond frame drums, no bright timbres, no major-key resolution",
