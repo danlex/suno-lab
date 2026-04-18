@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-crown-i-forged-myself",
+    "version": 178,
+    "style": "Symphonic metal, dark female mezzo-soprano, powerful electric guitar, full orchestra, driving double bass drums, dramatic choir, cinematic and fierce, gothic rock meets classical grandeur, explosive energy",
+    "title": "The Crown I Forged Myself",
+    "lyrics": "[Heavy Guitar Riff and Orchestra]\nThey handed me a kingdom\nMade of paper and of lies\nA throne of empty promises\nBeneath indifferent skies\n\n[Driving Drums and Bass Enter]\nSo I melted down their golden cage\nAnd hammered it to steel\nForged a crown from every wound\nThey thought would never heal\n\n[Full Symphonic Metal - Massive]\nThis is the crown I forged myself\nFrom fire and from will\nNo birthright and no blessing\nJust the strength to climb the hill\n\n[Quiet - Clean Guitar and Voice]\nThey'll write their histories without me\nThey always do\n\n[Explosive Final - Everything]\nBut the crown I forged myself\nBurns brighter than their sun\nAnd every queen who built her throne\nFrom nothing\nHas already won\n\nAlready won\nAlready won\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "hip hop, rap, pop, country, gentle, lo-fi, happy, folk",
+    "notes": "v178: Symphonic metal — Nightwish/Within Temptation energy. Electric guitar + full orchestra + dark mezzo-soprano + choir + driving drums. The user liked 'Interstellar' (gothic orchestral rock) — this pushes further into metal territory while keeping the orchestral grandeur. Female empowerment theme continues from the world tour.",
+    "tags": [
+      "symphonic metal",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "guitar",
+      "choir",
+      "gothic",
+      "cinematic",
+      "powerful",
+      "rock"
+    ],
+    "_file": "the-crown-i-forged-myself-v178.yaml",
+    "_slug": "the-crown-i-forged-myself-v178"
+  },
+  {
     "name": "the-weight-of-unsaid-things",
     "version": 177,
     "style": "Dark ambient orchestral with spoken word, dark female mezzo-soprano alternating between singing and spoken word poetry, minimal piano, deep cello drone, atmospheric, intimate and devastating, cinematic noir, whispered intensity",
