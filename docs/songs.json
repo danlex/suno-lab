@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-wolves-know-my-name",
+    "version": 163,
+    "style": "Dark Slavic orchestral epic, powerful dark female mezzo-soprano, dramatic choir, heavy cello and bass, war drums, intense and brooding, cinematic, Russian classical influence, building to devastating climax",
+    "title": "The Wolves Know My Name",
+    "lyrics": "[War Drums - Primal and Steady]\nThey sent me to the forest\nWhere the frozen rivers sleep\nThey said no woman survives the wolves\nThey said no woman runs that deep\n\n[Dark Cello and Choir Enter]\nBut the wolves they did not eat me\nThey circled and they bowed\nThey saw the fire behind my eyes\nAnd they howled with me out loud\n\n[Full Orchestra and Choir - Massive]\nThe wolves know my name\nThe wolves know my name\nI am not the girl they buried\nI am the beast that came\n\n[Quiet - Solo Voice]\nMy mother said be gentle\nMy father said be strong\n\n[Explosive Final Chorus - Everything]\nBut the wolves they taught me something\nThat neither of them could\nThat the thing they call a monster\nIs just a woman\nMisunderstood\n\nThe wolves know my name\nAnd they sing it through the trees\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, Arabic",
+    "notes": "v163: Slavic/Russian dark orchestral epic. Dark mezzo-soprano per user preference. War drums for driving rhythm. Choir for power. Wolf/forest mythology = strong cultural identity. Lyrics about female power + being underestimated. Should hit the same axis as flamenco (v161) and gothic cathedral (v162) which user liked.",
+    "tags": [
+      "slavic",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "choir",
+      "cinematic",
+      "dramatic",
+      "war drums",
+      "powerful"
+    ],
+    "_file": "the-wolves-know-my-name-v163.yaml",
+    "_slug": "the-wolves-know-my-name-v163"
+  },
+  {
     "name": "the-cathedral-inside-my-chest",
     "version": 162,
     "style": "Gothic symphonic, dark mezzo-soprano vocals, powerful and haunting, full orchestra with heavy strings, pipe organ, thunderous drums, cinematic dark beauty, dramatic crescendos, emotional and intense",

@@ -1,0 +1,43 @@
+name: "the-wolves-know-my-name"
+version: 163
+style: "Dark Slavic orchestral epic, powerful dark female mezzo-soprano, dramatic choir, heavy cello and bass, war drums, intense and brooding, cinematic, Russian classical influence, building to devastating climax"
+title: "The Wolves Know My Name"
+lyrics: |
+  [War Drums - Primal and Steady]
+  They sent me to the forest
+  Where the frozen rivers sleep
+  They said no woman survives the wolves
+  They said no woman runs that deep
+
+  [Dark Cello and Choir Enter]
+  But the wolves they did not eat me
+  They circled and they bowed
+  They saw the fire behind my eyes
+  And they howled with me out loud
+
+  [Full Orchestra and Choir - Massive]
+  The wolves know my name
+  The wolves know my name
+  I am not the girl they buried
+  I am the beast that came
+
+  [Quiet - Solo Voice]
+  My mother said be gentle
+  My father said be strong
+
+  [Explosive Final Chorus - Everything]
+  But the wolves they taught me something
+  That neither of them could
+  That the thing they call a monster
+  Is just a woman
+  Misunderstood
+
+  The wolves know my name
+  And they sing it through the trees
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, Arabic"
+notes: "v163: Slavic/Russian dark orchestral epic. Dark mezzo-soprano per user preference. War drums for driving rhythm. Choir for power. Wolf/forest mythology = strong cultural identity. Lyrics about female power + being underestimated. Should hit the same axis as flamenco (v161) and gothic cathedral (v162) which user liked."
+tags: [slavic, orchestral, dark, mezzo-soprano, choir, cinematic, dramatic, war drums, powerful]
