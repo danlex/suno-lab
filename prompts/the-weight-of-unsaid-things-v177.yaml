@@ -1,0 +1,44 @@
+name: "the-weight-of-unsaid-things"
+version: 177
+style: "Dark ambient orchestral with spoken word, dark female mezzo-soprano alternating between singing and spoken word poetry, minimal piano, deep cello drone, atmospheric, intimate and devastating, cinematic noir, whispered intensity"
+title: "The Weight of Unsaid Things"
+lyrics: |
+  [Deep Cello Drone - Atmospheric]
+  [Spoken Word - Whispered]
+  There are words that live inside your chest
+  Like stones you swallowed as a child
+  Heavy enough to keep you grounded
+  Too heavy to ever be compiled
+
+  [Minimal Piano Enters]
+  [Singing - Dark and Intimate]
+  The weight of unsaid things
+  Could fill an ocean floor
+  Every silence between lovers
+  Is a slowly closing door
+
+  [Spoken Word Over Strings]
+  I wanted to tell you that the morning
+  you left without looking back
+  I stood at the window for three hours
+  watching the space where your car had been
+  as if staring long enough
+  could bring you back
+
+  [Full Dark Orchestra - Emotional Surge]
+  [Singing]
+  The weight of unsaid things
+  Will crush us in the end
+  Not the words we said in anger
+  But the love we didn't send
+
+  [Whispered - Piano Alone]
+  I should have said it
+  I should have said it all
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, rock, country, happy, upbeat"
+notes: "v177: Spoken word + singing hybrid. Testing if alternating between spoken poetry and dark singing creates more emotional impact than pure singing. The spoken word sections are raw, confessional, prose-like. The singing sections are the emotional release. Noir aesthetic — dark ambient + minimal piano + cello drone."
+tags: [spoken word, orchestral, dark, mezzo-soprano, ambient, intimate, poetry, cinematic, noir]
