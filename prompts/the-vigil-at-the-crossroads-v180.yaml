@@ -1,0 +1,40 @@
+name: "the-vigil-at-the-crossroads"
+version: 180
+style: "Dark early Romantic orchestral three-minute miniature for a night vigil scene, total duration around 3:00, with OPHICLEIDE, ERHU, and FRAME DRUMS as featured soloists against a bed of tremolo strings and low brass, powerful dark female mezzo-soprano singing over the hollow moaning ophicleide pedal tones that rise from below like prayers from underground, the erhu crying above in thin mournful lines while frame drums pulse a slow heartbeat rhythm at 71 BPM in G-sharp minor modulating to A minor at the climax after four seconds of held silence at 2:10, the texture building from the ophicleide alone at 0:00 through erhu joining at 0:25 and frame drums entering at 1:00 toward full orchestral density at 2:00 before the silence strips everything away and the return crashes in fortississimo half-step up with all three soloists converging, no electronic elements, no synthesizers, no percussion beyond frame drums, no bright timbres, no major-key resolution"
+title: "The Vigil at the Crossroads"
+lyrics: |
+  [Ophicleide Pedal Tone - Hollow and Moaning]
+  I have been standing at the crossroads
+  Where the living meet the gone
+  Where the midnight air tastes silver
+  And the silence sings its song
+
+  [Erhu Enters Above - Thin and Mournful]
+  My mother came here before me
+  Her mother came before her
+  We stand where the veil is thinnest
+  And we wait for what we were
+
+  [Frame Drums and Full Orchestra - Building]
+  The vigil at the crossroads
+  Is the oldest prayer we know
+  Not spoken but endured
+  Not answered but made whole
+
+  [Silence - Four Seconds]
+
+  [Return in A Minor - Fortississimo - Everything]
+  The vigil at the crossroads
+  Has no beginning and no end
+  We come here not to find the dead
+  But to remember how to mend
+
+  The vigil
+  The vigil
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, synthesizer, rock"
+notes: "v180: OPHICLEIDE first use — keyed conical-bore brass from early 19th century with moaning, hollow-dark tone between serpent and tuba. Zero prior uses across 179 versions. Paired with erhu (gap=63, Chinese bowed string) and frame drums (gap=65, primal percussion). Research found ophicleide revival in period orchestras 2025-2026 restoring early Romantic repertoire. Three-family trio (brass/strings/percussion). 71 BPM unused. G# minor → A minor half-step modulation. Night vigil theme — ancestral feminine lineage keeping watch at the boundary between worlds. Stile concitato tremolo strings from v179 carried forward as orchestral bed."
+tags: [ophicleide, early romantic, dark orchestral, mezzo-soprano, erhu, frame drums, cinematic, vigil, ancestral, nocturnal]
