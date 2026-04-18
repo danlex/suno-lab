@@ -1,0 +1,42 @@
+name: "the-road-that-has-no-end"
+version: 170
+style: "Romani dark orchestral, passionate dark female mezzo-soprano, solo violin, cimbalom, hand clapping rhythm, dramatic strings, fiery and emotional, cinematic, wild intensity building to frenzy"
+title: "The Road That Has No End"
+lyrics: |
+  [Solo Violin - Wild and Free]
+  I was born beneath a wagon wheel
+  With music in my veins
+  No walls could ever hold me
+  No borders no remains
+
+  [Cimbalom and Hand Claps Enter - Driving]
+  My mother danced through thunder
+  My father played through rain
+  We carried all we needed
+  In melody and flame
+
+  [Full Orchestra - Passionate Frenzy]
+  The road that has no end
+  Is the only road I know
+  Every mile a different sky
+  Every stranger has a soul
+
+  [Quiet - Violin and Voice Alone]
+  They pity us our wandering
+  But we pity them their chains
+
+  [Explosive Final - Wild Celebration]
+  The road that has no end
+  Is the richest road of all
+  We have nothing but the music
+  And the music has it all
+
+  Dance now
+  Dance now
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi"
+notes: "v170: Romani/Gypsy dark orchestral. Solo violin + cimbalom for cultural identity. Hand clapping for driving rhythm. Nomadic freedom theme. Close to flamenco energy (v161 was user's favorite) — both share passionate intensity + violin/guitar dominance + dance rhythm. Testing if this adjacent cultural space also resonates."
+tags: [romani, gypsy, orchestral, dark, mezzo-soprano, violin, cimbalom, passionate, cinematic, dance]

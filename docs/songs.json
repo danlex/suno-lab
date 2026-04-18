@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-road-that-has-no-end",
+    "version": 170,
+    "style": "Romani dark orchestral, passionate dark female mezzo-soprano, solo violin, cimbalom, hand clapping rhythm, dramatic strings, fiery and emotional, cinematic, wild intensity building to frenzy",
+    "title": "The Road That Has No End",
+    "lyrics": "[Solo Violin - Wild and Free]\nI was born beneath a wagon wheel\nWith music in my veins\nNo walls could ever hold me\nNo borders no remains\n\n[Cimbalom and Hand Claps Enter - Driving]\nMy mother danced through thunder\nMy father played through rain\nWe carried all we needed\nIn melody and flame\n\n[Full Orchestra - Passionate Frenzy]\nThe road that has no end\nIs the only road I know\nEvery mile a different sky\nEvery stranger has a soul\n\n[Quiet - Violin and Voice Alone]\nThey pity us our wandering\nBut we pity them their chains\n\n[Explosive Final - Wild Celebration]\nThe road that has no end\nIs the richest road of all\nWe have nothing but the music\nAnd the music has it all\n\nDance now\nDance now\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v170: Romani/Gypsy dark orchestral. Solo violin + cimbalom for cultural identity. Hand clapping for driving rhythm. Nomadic freedom theme. Close to flamenco energy (v161 was user's favorite) — both share passionate intensity + violin/guitar dominance + dance rhythm. Testing if this adjacent cultural space also resonates.",
+    "tags": [
+      "romani",
+      "gypsy",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "violin",
+      "cimbalom",
+      "passionate",
+      "cinematic",
+      "dance"
+    ],
+    "_file": "the-road-that-has-no-end-v170.yaml",
+    "_slug": "the-road-that-has-no-end-v170"
+  },
+  {
     "name": "the-mountain-that-refused-to-kneel",
     "version": 169,
     "style": "Andean dark orchestral, powerful dark female mezzo-soprano, charango, pan flutes, deep percussion, dramatic strings, cinematic and ancient, mountain grandeur, building from mist to earthquake",
