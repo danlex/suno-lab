@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-signal-beneath-the-skin",
+    "version": 174,
+    "style": "Dark cinematic trip-hop orchestral hybrid, powerful dark female mezzo-soprano, deep bass, orchestral strings, glitchy beats, atmospheric pads, brooding and intense, slow burn building to explosive release, modern and ancient colliding",
+    "title": "The Signal Beneath the Skin",
+    "lyrics": "[Deep Bass Pulse and Atmospheric Pads]\nThere's a frequency the world forgot\nBuried underneath the noise\nA signal older than the satellites\nOlder than the voice\n\n[Glitchy Beats and Strings Enter]\nI feel it humming in my fingertips\nI feel it burning in my spine\nSomething ancient waking up inside\nCrossing every line\n\n[Full Orchestra Over Electronic Bass - Massive]\nThe signal beneath the skin\nThe signal beneath the bone\nWe are all receivers\nAnd we've never been alone\n\n[Stripped Back - Voice and Bass Only]\nTurn off the screens\nTurn off the light\nListen\n\n[Explosive Hybrid Climax - Everything]\nThe signal beneath the skin\nHas been singing all along\nEvery heartbeat is an answer\nEvery breath has been a song\n\nWe are the signal\nWe are the signal\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "hip hop, rap, pop, country, gentle, lo-fi, happy, cheerful",
+    "notes": "v174: NEW DIRECTION — dark electronic-orchestral hybrid. Trip-hop bass + glitchy beats + full orchestra + dark mezzo-soprano. Testing if the user's taste for dark powerful vocals + driving rhythm extends beyond pure acoustic/orchestral into electronic hybrid territory. Massive Attack / Portishead energy meets cinematic orchestra.",
+    "tags": [
+      "trip-hop",
+      "orchestral",
+      "hybrid",
+      "dark",
+      "mezzo-soprano",
+      "electronic",
+      "cinematic",
+      "atmospheric",
+      "glitch"
+    ],
+    "_file": "the-signal-beneath-the-skin-v174.yaml",
+    "_slug": "the-signal-beneath-the-skin-v174"
+  },
+  {
     "name": "every-voice-that-ever-sang",
     "version": 173,
     "style": "Grand cinematic world orchestra, powerful dark female mezzo-soprano, massive choir, percussion from every continent, strings and brass, triumphant and overwhelming, building from single voice to global symphony, transcendent finale",
