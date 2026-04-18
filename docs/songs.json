@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-cathedral-inside-my-chest",
+    "version": 162,
+    "style": "Gothic symphonic, dark mezzo-soprano vocals, powerful and haunting, full orchestra with heavy strings, pipe organ, thunderous drums, cinematic dark beauty, dramatic crescendos, emotional and intense",
+    "title": "The Cathedral Inside My Chest",
+    "lyrics": "[Pipe Organ - Dark and Massive]\nThere's a cathedral inside my chest\nWhere the silence screams your name\nEvery stone was laid with sorrow\nEvery window stained with blame\n\n[Heavy Strings and Drums Enter]\nI built these walls to keep you out\nBut the echoes let you in\nYour voice reverberates through marble halls\nWhere the light has grown so thin\n\n[Full Gothic Orchestra - Powerful]\nI am the keeper of the ruins\nI am the ghost that guards the gate\nThe bells still ring at midnight\nFor a love that came too late\n\n[Quiet - Solo Voice and Organ]\nAnd in the nave where shadows kneel\nI whisper to the dark\n\n[Explosive Final Chorus]\nThe cathedral inside my chest\nStill stands though the world falls apart\nEvery crack a constellation\nEvery scar a work of art\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v162: Gothic symphonic per user feedback — wants Evanescence-style dark mezzo-soprano, not generic soprano. Using 'dark mezzo-soprano, powerful and haunting' instead of just 'female vocals'. Pipe organ + heavy strings + thunderous drums = gothic cathedral energy. User liked flamenco passion, gospel power, battle anthem — all have DRIVING RHYTHM + POWERFUL VOCALS + EMOTIONAL LYRICS. This targets the same axis with gothic flavor.",
+    "tags": [
+      "gothic",
+      "symphonic",
+      "dark",
+      "mezzo-soprano",
+      "orchestral",
+      "vocal",
+      "cinematic",
+      "dramatic",
+      "powerful"
+    ],
+    "_file": "the-cathedral-inside-my-chest-v162.yaml",
+    "_slug": "the-cathedral-inside-my-chest-v162"
+  },
+  {
     "name": "what-the-flames-refused-to-say",
     "version": 161,
     "style": "Flamenco-inspired orchestral passion, Spanish guitar, powerful female vocals, dramatic strings, cajon percussion, intense and fiery, emotional crescendo, cinematic, classical crossover",

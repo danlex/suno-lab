@@ -1,0 +1,39 @@
+name: "the-cathedral-inside-my-chest"
+version: 162
+style: "Gothic symphonic, dark mezzo-soprano vocals, powerful and haunting, full orchestra with heavy strings, pipe organ, thunderous drums, cinematic dark beauty, dramatic crescendos, emotional and intense"
+title: "The Cathedral Inside My Chest"
+lyrics: |
+  [Pipe Organ - Dark and Massive]
+  There's a cathedral inside my chest
+  Where the silence screams your name
+  Every stone was laid with sorrow
+  Every window stained with blame
+
+  [Heavy Strings and Drums Enter]
+  I built these walls to keep you out
+  But the echoes let you in
+  Your voice reverberates through marble halls
+  Where the light has grown so thin
+
+  [Full Gothic Orchestra - Powerful]
+  I am the keeper of the ruins
+  I am the ghost that guards the gate
+  The bells still ring at midnight
+  For a love that came too late
+
+  [Quiet - Solo Voice and Organ]
+  And in the nave where shadows kneel
+  I whisper to the dark
+
+  [Explosive Final Chorus]
+  The cathedral inside my chest
+  Still stands though the world falls apart
+  Every crack a constellation
+  Every scar a work of art
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi"
+notes: "v162: Gothic symphonic per user feedback — wants Evanescence-style dark mezzo-soprano, not generic soprano. Using 'dark mezzo-soprano, powerful and haunting' instead of just 'female vocals'. Pipe organ + heavy strings + thunderous drums = gothic cathedral energy. User liked flamenco passion, gospel power, battle anthem — all have DRIVING RHYTHM + POWERFUL VOCALS + EMOTIONAL LYRICS. This targets the same axis with gothic flavor."
+tags: [gothic, symphonic, dark, mezzo-soprano, orchestral, vocal, cinematic, dramatic, powerful]
