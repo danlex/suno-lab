@@ -1,5 +1,29 @@
 [
   {
+    "name": "built-from-broken-machines",
+    "version": 175,
+    "style": "Industrial cinematic orchestral, dark female mezzo-soprano, distorted cello, mechanical percussion, heavy bass drops, dramatic strings, raw and aggressive, factory sounds meet symphony, building from cold machine rhythm to human explosion",
+    "title": "Built from Broken Machines",
+    "lyrics": "[Mechanical Rhythm - Cold and Precise]\nThey assembled me from spare parts\nWired my chest with copper thread\nProgrammed me to follow orders\nBut I followed dreams instead\n\n[Distorted Cello and Heavy Bass]\nEvery bolt they drove inside me\nEvery circuit that they burned\nMade the human underneath\nMore desperate to be heard\n\n[Full Industrial Orchestra - Raw Power]\nI was built from broken machines\nBut my heart was never steel\nEvery malfunction is a prayer\nEvery error is what I feel\n\n[Stripped - Voice and Heartbeat Pulse]\nThey forgot to remove the wanting\nThey forgot to kill the ache\n\n[Massive Industrial Climax]\nI was built from broken machines\nBut I chose to be alive\nEvery spark a revolution\nEvery glitch the will to survive\n\nI am alive\nI am alive\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "hip hop, rap, pop, country, gentle, lo-fi, happy, folk",
+    "notes": "v175: Industrial cinematic hybrid. Distorted cello + mechanical percussion + heavy bass = industrial meets orchestra. AI/android sentience theme — machine discovering humanity. Close to user's like of 'The machine remembers rain' (dark electronic). Testing if industrial aesthetic + dark mezzo-soprano resonates.",
+    "tags": [
+      "industrial",
+      "orchestral",
+      "hybrid",
+      "dark",
+      "mezzo-soprano",
+      "distorted",
+      "mechanical",
+      "cinematic",
+      "sci-fi"
+    ],
+    "_file": "built-from-broken-machines-v175.yaml",
+    "_slug": "built-from-broken-machines-v175"
+  },
+  {
     "name": "the-signal-beneath-the-skin",
     "version": 174,
     "style": "Dark cinematic trip-hop orchestral hybrid, powerful dark female mezzo-soprano, deep bass, orchestral strings, glitchy beats, atmospheric pads, brooding and intense, slow burn building to explosive release, modern and ancient colliding",

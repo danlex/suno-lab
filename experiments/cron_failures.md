@@ -41,3 +41,8 @@ yaml: prompts/everything-the-climb-was-for-v146.yaml
 judge_score: ~98 (self-assessed, all 12 criteria pass)
 reason: Chrome MCP extension still not connected. v143, v144, v145, v146 all queued. User has been asked to re-enable extension.
 backlog: v143 (caccia), v144 (phase-process), v145 (romantic piano), v146 (triumphant symphony)
+
+## 2026-04-18 v175 submit — Create button not responding
+step: submit
+yaml: prompts/built-from-broken-machines-v175.yaml
+reason: Create button clicked multiple times but workspace shows no generating songs. Possible credit exhaustion or Suno rate limit after 27 songs in this session. YAML saved, next session can retry.
