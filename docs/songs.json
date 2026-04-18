@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-oracle-speaks-in-fire",
+    "version": 167,
+    "style": "Mediterranean dark orchestral, powerful dark female mezzo-soprano, bouzouki, dramatic choir, heavy percussion, cinematic and ancient, mythological intensity, building from whisper to thunder",
+    "title": "The Oracle Speaks in Fire",
+    "lyrics": "[Bouzouki Solo - Ancient and Haunting]\nThey climb the mountain seeking truth\nThrough smoke and sacred stone\nBut truth has never been a gift\nIt strips you to the bone\n\n[Heavy Percussion and Strings Enter]\nI am the voice beneath the temple\nI am the flame that never sleeps\nThey ask me for their futures\nBut their past is what I keep\n\n[Full Orchestra and Choir - Massive]\nThe oracle speaks in fire\nThe oracle speaks in flame\nAnd every answer costs a kingdom\nEvery truth demands a name\n\n[Quiet - Voice and Bouzouki Alone]\nThey want the prophecy of victory\nBut I see only rain\n\n[Explosive Final Chorus]\nThe oracle speaks in fire\nAnd fire does not lie\nThe bravest ones who came to me\nWere brave enough to cry\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v167: Greek/Mediterranean dark orchestral. Bouzouki for cultural identity. Oracle/temple mythology. Continuing the cultural power series after the intimate interlude (v166). Same formula: dark mezzo-soprano + driving percussion + cultural mythology + emotional power lyrics.",
+    "tags": [
+      "mediterranean",
+      "greek",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "bouzouki",
+      "choir",
+      "mythological",
+      "cinematic"
+    ],
+    "_file": "the-oracle-speaks-in-fire-v167.yaml",
+    "_slug": "the-oracle-speaks-in-fire-v167"
+  },
+  {
     "name": "teach-me-how-to-stay",
     "version": 166,
     "style": "Intimate dark piano ballad, dark mezzo-soprano vocals, raw and vulnerable, cello accompaniment, emotional and stripped back, cinematic, building to powerful orchestral release, heartbreaking beauty",

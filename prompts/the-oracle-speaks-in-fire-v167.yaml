@@ -1,0 +1,39 @@
+name: "the-oracle-speaks-in-fire"
+version: 167
+style: "Mediterranean dark orchestral, powerful dark female mezzo-soprano, bouzouki, dramatic choir, heavy percussion, cinematic and ancient, mythological intensity, building from whisper to thunder"
+title: "The Oracle Speaks in Fire"
+lyrics: |
+  [Bouzouki Solo - Ancient and Haunting]
+  They climb the mountain seeking truth
+  Through smoke and sacred stone
+  But truth has never been a gift
+  It strips you to the bone
+
+  [Heavy Percussion and Strings Enter]
+  I am the voice beneath the temple
+  I am the flame that never sleeps
+  They ask me for their futures
+  But their past is what I keep
+
+  [Full Orchestra and Choir - Massive]
+  The oracle speaks in fire
+  The oracle speaks in flame
+  And every answer costs a kingdom
+  Every truth demands a name
+
+  [Quiet - Voice and Bouzouki Alone]
+  They want the prophecy of victory
+  But I see only rain
+
+  [Explosive Final Chorus]
+  The oracle speaks in fire
+  And fire does not lie
+  The bravest ones who came to me
+  Were brave enough to cry
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi"
+notes: "v167: Greek/Mediterranean dark orchestral. Bouzouki for cultural identity. Oracle/temple mythology. Continuing the cultural power series after the intimate interlude (v166). Same formula: dark mezzo-soprano + driving percussion + cultural mythology + emotional power lyrics."
+tags: [mediterranean, greek, orchestral, dark, mezzo-soprano, bouzouki, choir, mythological, cinematic]
