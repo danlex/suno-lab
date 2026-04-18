@@ -1,0 +1,39 @@
+name: "teach-me-how-to-stay"
+version: 166
+style: "Intimate dark piano ballad, dark mezzo-soprano vocals, raw and vulnerable, cello accompaniment, emotional and stripped back, cinematic, building to powerful orchestral release, heartbreaking beauty"
+title: "Teach Me How to Stay"
+lyrics: |
+  [Solo Piano - Raw and Exposed]
+  I know how to leave a room
+  Before the silence gets too loud
+  I know how to build a wall
+  From nothing but a crowd
+
+  [Cello Enters - Aching]
+  But you stand there in the doorway
+  Like the morning stands in light
+  And for the first time in forever
+  I don't want to take the flight
+
+  [Building - Strings Join]
+  Teach me how to stay
+  When every part of me says run
+  Teach me how to trust the ground
+  Beneath a setting sun
+
+  [Full Orchestra - Emotional Release]
+  I've been the storm my whole life
+  I've been the one who disappears
+  But something in your quiet voice
+  Undoes me more than years
+
+  [Quiet Piano Return - Almost Breaking]
+  Teach me how to stay
+  Just teach me how to stay
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, rock, metal, country"
+notes: "v166: Vulnerable intimate love song. Breaking from the warrior/battle pattern (v161-165) with raw emotional vulnerability. Still dark mezzo-soprano but stripped back — piano + cello, not war drums. Testing if the user likes the voice in a quieter setting. The lyrics explore fear of intimacy/commitment — universal but deeply personal."
+tags: [intimate, piano ballad, dark, mezzo-soprano, vulnerable, emotional, cello, cinematic, love song]

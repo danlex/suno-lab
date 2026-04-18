@@ -1,5 +1,29 @@
 [
   {
+    "name": "teach-me-how-to-stay",
+    "version": 166,
+    "style": "Intimate dark piano ballad, dark mezzo-soprano vocals, raw and vulnerable, cello accompaniment, emotional and stripped back, cinematic, building to powerful orchestral release, heartbreaking beauty",
+    "title": "Teach Me How to Stay",
+    "lyrics": "[Solo Piano - Raw and Exposed]\nI know how to leave a room\nBefore the silence gets too loud\nI know how to build a wall\nFrom nothing but a crowd\n\n[Cello Enters - Aching]\nBut you stand there in the doorway\nLike the morning stands in light\nAnd for the first time in forever\nI don't want to take the flight\n\n[Building - Strings Join]\nTeach me how to stay\nWhen every part of me says run\nTeach me how to trust the ground\nBeneath a setting sun\n\n[Full Orchestra - Emotional Release]\nI've been the storm my whole life\nI've been the one who disappears\nBut something in your quiet voice\nUndoes me more than years\n\n[Quiet Piano Return - Almost Breaking]\nTeach me how to stay\nJust teach me how to stay\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, rock, metal, country",
+    "notes": "v166: Vulnerable intimate love song. Breaking from the warrior/battle pattern (v161-165) with raw emotional vulnerability. Still dark mezzo-soprano but stripped back — piano + cello, not war drums. Testing if the user likes the voice in a quieter setting. The lyrics explore fear of intimacy/commitment — universal but deeply personal.",
+    "tags": [
+      "intimate",
+      "piano ballad",
+      "dark",
+      "mezzo-soprano",
+      "vulnerable",
+      "emotional",
+      "cello",
+      "cinematic",
+      "love song"
+    ],
+    "_file": "teach-me-how-to-stay-v166.yaml",
+    "_slug": "teach-me-how-to-stay-v166"
+  },
+  {
     "name": "the-shield-wall-holds",
     "version": 165,
     "style": "Norse-inspired dark orchestral, deep male baritone and dark female mezzo-soprano duet, war horns, heavy tribal drums, dramatic choir, cinematic and powerful, viking battle energy, intense and raw",
