@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-trembling-before-the-prayer",
+    "version": 179,
+    "style": "Dark orchestral stile concitato, powerful dark female mezzo-soprano, agitated tremolo strings, duduk, ondes martenot, cimbalom, rapid sixteenth-note pulses building to overwhelming crescendo, cinematic and anguished, ancient grief meets modern intensity, 63 BPM, C-sharp minor to D minor",
+    "title": "The Trembling Before the Prayer",
+    "lyrics": "[Tremolo Strings - Agitated and Low]\nThere is a trembling before the prayer\nA moment the body knows\nWhen every word you meant to say\nDissolves before it goes\n\n[Duduk and Cimbalom Enter - Aching]\nI stood outside the gates of God\nWith nothing but my name\nAnd all the trembling in my hands\nWas not from cold but shame\n\n[Full Agitated Orchestra - Overwhelming]\nThe trembling before the prayer\nIs the prayer itself\nEvery shaking breath a candle\nLit against the dark we felt\n\n[Stripped - Voice and Ondes Martenot Alone]\nI am not worthy\nI was never worthy\n\n[Final Crescendo - Key Lifts to D Minor - Everything]\nBut the trembling before the prayer\nIs what the heavens hear\nNot the polished words of saints\nBut the shaking voice of fear\n\nThe trembling\nThe trembling\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "hip hop, rap, pop, country, gentle, lo-fi, happy, electronic, EDM",
+    "notes": "v179: Stile concitato (Baroque 'agitated style') — rapid repeated tremolo strings as rhythmic engine instead of drums. Duduk (gap=143, highest novelty) + ondes martenot + cimbalom trio from three distinct instrument families. 63 BPM (unused). C# minor to D minor half-step modulation at climax. Theme: the vulnerability of approaching the sacred — not the prayer itself but the trembling before it. Contrast between agitated strings and the stillness of the voice.",
+    "tags": [
+      "stile concitato",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "duduk",
+      "ondes martenot",
+      "cimbalom",
+      "tremolo",
+      "baroque",
+      "cinematic"
+    ],
+    "_file": "the-trembling-before-the-prayer-v179.yaml",
+    "_slug": "the-trembling-before-the-prayer-v179"
+  },
+  {
     "name": "the-crown-i-forged-myself",
     "version": 178,
     "style": "Symphonic metal, dark female mezzo-soprano, powerful electric guitar, full orchestra, driving double bass drums, dramatic choir, cinematic and fierce, gothic rock meets classical grandeur, explosive energy",

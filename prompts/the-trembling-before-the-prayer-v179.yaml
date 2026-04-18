@@ -1,0 +1,42 @@
+name: "the-trembling-before-the-prayer"
+version: 179
+style: "Dark orchestral stile concitato, powerful dark female mezzo-soprano, agitated tremolo strings, duduk, ondes martenot, cimbalom, rapid sixteenth-note pulses building to overwhelming crescendo, cinematic and anguished, ancient grief meets modern intensity, 63 BPM, C-sharp minor to D minor"
+title: "The Trembling Before the Prayer"
+lyrics: |
+  [Tremolo Strings - Agitated and Low]
+  There is a trembling before the prayer
+  A moment the body knows
+  When every word you meant to say
+  Dissolves before it goes
+
+  [Duduk and Cimbalom Enter - Aching]
+  I stood outside the gates of God
+  With nothing but my name
+  And all the trembling in my hands
+  Was not from cold but shame
+
+  [Full Agitated Orchestra - Overwhelming]
+  The trembling before the prayer
+  Is the prayer itself
+  Every shaking breath a candle
+  Lit against the dark we felt
+
+  [Stripped - Voice and Ondes Martenot Alone]
+  I am not worthy
+  I was never worthy
+
+  [Final Crescendo - Key Lifts to D Minor - Everything]
+  But the trembling before the prayer
+  Is what the heavens hear
+  Not the polished words of saints
+  But the shaking voice of fear
+
+  The trembling
+  The trembling
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "hip hop, rap, pop, country, gentle, lo-fi, happy, electronic, EDM"
+notes: "v179: Stile concitato (Baroque 'agitated style') — rapid repeated tremolo strings as rhythmic engine instead of drums. Duduk (gap=143, highest novelty) + ondes martenot + cimbalom trio from three distinct instrument families. 63 BPM (unused). C# minor to D minor half-step modulation at climax. Theme: the vulnerability of approaching the sacred — not the prayer itself but the trembling before it. Contrast between agitated strings and the stillness of the voice."
+tags: [stile concitato, orchestral, dark, mezzo-soprano, duduk, ondes martenot, cimbalom, tremolo, baroque, cinematic]
