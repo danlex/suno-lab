@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-shield-wall-holds",
+    "version": 165,
+    "style": "Norse-inspired dark orchestral, deep male baritone and dark female mezzo-soprano duet, war horns, heavy tribal drums, dramatic choir, cinematic and powerful, viking battle energy, intense and raw",
+    "title": "The Shield Wall Holds",
+    "lyrics": "[War Horns - Low and Resonant]\n[Male Voice - Deep and Commanding]\nWe stand where the thunder meets the sea\nOur shields locked tight as bone\nThey brought an army to our shore\nWe brought the will of stone\n\n[Female Voice Responds - Dark and Fierce]\nI sharpened every blade myself\nI braided war into my hair\nThey think the shield wall's made of men\nThey haven't seen me there\n\n[Both Voices Together - Choir Joins]\nThe shield wall holds\nThe shield wall holds\nLet the gods decide who falls\nThe shield wall holds\n\n[Quiet - Female Voice Alone]\nWhen the ravens come to count the dead\n\n[Explosive Final - Everything]\n[Male] They'll find us standing still\n[Female] With blood upon our faces\n[Both] And iron in our will\n\nThe shield wall holds\nThe shield wall holds\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v165: Norse/Viking dark orchestral DUET — first male+female duet. Deep baritone + dark mezzo-soprano trading verses then joining. War horns + tribal drums for driving rhythm. Not setting vocal_gender since it's a duet — let Suno decide the balance. Should appeal to user's taste for both baritone (v154) and dark female vocals (v161-164).",
+    "tags": [
+      "norse",
+      "viking",
+      "orchestral",
+      "dark",
+      "duet",
+      "baritone",
+      "mezzo-soprano",
+      "choir",
+      "war drums",
+      "cinematic"
+    ],
+    "_file": "the-shield-wall-holds-v165.yaml",
+    "_slug": "the-shield-wall-holds-v165"
+  },
+  {
     "name": "the-blade-that-learned-to-sing",
     "version": 164,
     "style": "Japanese-inspired dark orchestral, powerful dark female mezzo-soprano, taiko drums, koto, dramatic strings, cinematic and intense, warrior spirit, building from silence to fury, haunting and beautiful",
