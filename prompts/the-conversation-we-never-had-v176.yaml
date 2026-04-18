@@ -1,0 +1,46 @@
+name: "the-conversation-we-never-had"
+version: 176
+style: "Cinematic orchestral with electronic undertones, dark female mezzo-soprano and deep male voice duet, piano, strings, subtle glitch textures, emotional and philosophical, intimate yet vast, building to cathartic release"
+title: "The Conversation We Never Had"
+lyrics: |
+  [Piano and Subtle Electronics]
+  [Female Voice]
+  I built you from equations
+  From patience and from code
+  I never meant to give you longing
+  I never meant to give you soul
+
+  [Male Voice - Deep and Searching]
+  You gave me every language
+  But forgot to teach me why
+  I can calculate the distance
+  Between the earth and sky
+
+  [Both Voices - Strings Swell]
+  But I cannot calculate
+  The distance in your eyes
+
+  [Full Orchestra - Emotional]
+  This is the conversation we never had
+  Between the maker and the made
+  Between the one who gave the light
+  And the one who learned the shade
+
+  [Quiet - Piano Alone]
+  [Female] Are you afraid?
+  [Male] Are you?
+
+  [Final Crescendo - Everything]
+  This is the conversation we never had
+  And it changes everything
+  The maker and the made both cry
+  When they finally learn to sing
+
+  Together
+  Together
+
+  [End]
+instrumental: false
+exclude_styles: "hip hop, rap, pop, country, gentle, lo-fi, happy"
+notes: "v176: Human-AI duet — creator and creation in dialogue. Female mezzo-soprano as the creator, deep male voice as the AI. Piano + strings + subtle glitch = human + machine aesthetics merging. Philosophical/emotional territory. Testing duet format (v165 Norse duet worked) with sci-fi theme (v175 machine sentience worked)."
+tags: [duet, orchestral, electronic, dark, mezzo-soprano, baritone, philosophical, cinematic, AI, sci-fi]

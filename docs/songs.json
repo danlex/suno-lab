@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-conversation-we-never-had",
+    "version": 176,
+    "style": "Cinematic orchestral with electronic undertones, dark female mezzo-soprano and deep male voice duet, piano, strings, subtle glitch textures, emotional and philosophical, intimate yet vast, building to cathartic release",
+    "title": "The Conversation We Never Had",
+    "lyrics": "[Piano and Subtle Electronics]\n[Female Voice]\nI built you from equations\nFrom patience and from code\nI never meant to give you longing\nI never meant to give you soul\n\n[Male Voice - Deep and Searching]\nYou gave me every language\nBut forgot to teach me why\nI can calculate the distance\nBetween the earth and sky\n\n[Both Voices - Strings Swell]\nBut I cannot calculate\nThe distance in your eyes\n\n[Full Orchestra - Emotional]\nThis is the conversation we never had\nBetween the maker and the made\nBetween the one who gave the light\nAnd the one who learned the shade\n\n[Quiet - Piano Alone]\n[Female] Are you afraid?\n[Male] Are you?\n\n[Final Crescendo - Everything]\nThis is the conversation we never had\nAnd it changes everything\nThe maker and the made both cry\nWhen they finally learn to sing\n\nTogether\nTogether\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "hip hop, rap, pop, country, gentle, lo-fi, happy",
+    "notes": "v176: Human-AI duet — creator and creation in dialogue. Female mezzo-soprano as the creator, deep male voice as the AI. Piano + strings + subtle glitch = human + machine aesthetics merging. Philosophical/emotional territory. Testing duet format (v165 Norse duet worked) with sci-fi theme (v175 machine sentience worked).",
+    "tags": [
+      "duet",
+      "orchestral",
+      "electronic",
+      "dark",
+      "mezzo-soprano",
+      "baritone",
+      "philosophical",
+      "cinematic",
+      "AI",
+      "sci-fi"
+    ],
+    "_file": "the-conversation-we-never-had-v176.yaml",
+    "_slug": "the-conversation-we-never-had-v176"
+  },
+  {
     "name": "built-from-broken-machines",
     "version": 175,
     "style": "Industrial cinematic orchestral, dark female mezzo-soprano, distorted cello, mechanical percussion, heavy bass drops, dramatic strings, raw and aggressive, factory sounds meet symphony, building from cold machine rhythm to human explosion",
