@@ -4,6 +4,61 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-04-18 — Review & Publish cycle (v142–v162, approach reset + vocal era)
+
+**Reviewed:** 21 song-versions from v142 to v162 (covering April 15–18).
+
+**Major approach changes in this batch:**
+1. **v148: Approach reset** — switched from 900-char detailed timestamps to direct musical force language ("crashing", "thunderous", "screaming") per user feedback ("mediocre, feel nothing, match the masters")
+2. **v152: Simple prompt experiment** — tested 182-char keyword prompts (inspired by top Suno songs research showing 3-10 keyword styles outperform 900-char paragraphs)
+3. **v153+: Vocal era** — added lyrics and vocals after research showed vocal songs get 10x engagement on Suno
+4. **v162: Evanescence direction** — user requested dark mezzo-soprano instead of generic soprano
+
+**User-liked songs (published based on direct user likes in Suno UI):**
+1. **v161 "What the Flames Refused to Say"** (2:33) — flamenco-classical crossover, Spanish guitar + cajon + female vocals
+2. **v159 "Carry Me Home"** (2:42) — gospel-inspired power ballad, soulful female vocals + choir
+3. **v156 "Rise from the Ashes"** (2:22 + 2:32) — epic battle anthem with mixed choir, thunderous percussion
+4. **v155 "Dancing With Ghosts"** (2:42 + 2:08) — haunting soprano waltz, ghost story romance
+5. **v154 "The Letter I Never Sent"** (2:49) — baritone ballad, father's unsent letter
+6. **"The machine remembers rain"** (4:11) — older dark melodic techno piece, also liked
+7. **"Interstellar"** (3:57) — older gothic orchestral rock, also liked
+
+**Also published (earlier in session, before user likes were available):**
+- v149 "The Weight of Every Beautiful Thing" (2:33) — romantic piano concerto
+- v148 "The Storm That Never Apologized" (2:37) — orchestral requiem
+- v147 "What the Moonlight Left Behind" (2:54) — cello elegy
+- v146 "Everything the Climb Was For" (2:28) — triumphant symphony
+- v145 "The Light That Finds You Last" (3:44) — romantic piano concerto
+- v143 "Where the Chase Keeps Answering" (2:10) — orchestral caccia
+- v153 "I Was the Fire" (2:54) — soprano aria (first vocal in new era)
+- v152 "The Last Cathedral" (2:37) — simple prompt experiment
+
+**Not published:**
+- v162 "The Cathedral Inside My Chest" — just submitted, still generating
+- v160 "The Sea Remembers Your Name" — Celtic folk, not liked by user
+- v158 "The Room Where It Happened" — solo piano noir, not liked
+- v157 "Before You Close Your Eyes" — lullaby, not liked
+- v151 "What Waits at the Bottom of the Stairs" — thriller, published earlier but not liked
+- v150 "The Moment the Whole Sky Opened" — choir celebration, published but not liked
+- v144 "Before the Gears Agree" — phase process, 0:14 clip too short
+- v142 "What the Candle Outran" — stile concitato, published earlier
+
+**User taste analysis from likes:**
+- Strong vocals + emotional lyrics = mandatory (every liked song has vocals)
+- Driving rhythm helps (flamenco cajon, gospel drums, battle percussion)
+- Cultural identity matters (flamenco, gospel, gothic, Celtic)
+- Pure instrumentals got zero likes in this batch
+- Dark/powerful female vocals preferred over generic soprano (Evanescence reference)
+- Baritone ballad also liked — not just female vocals
+
+**Key research findings applied:**
+- Top Suno songs use 3-10 keyword styles, not 900-char detailed prompts
+- Section metatags in lyrics ([Full Orchestra - Powerful]) do more structural work than style-field timestamps
+- Vocal songs get 10x engagement vs instrumentals on Suno
+- 2-3 negative prompts max, not 20+
+
+---
+
 ## 2026-04-15 — Review & Publish cycle + v142 (first stile concitato)
 
 **Submitted:** v142 "What the Candle Outran" — ORCHESTRAL STILE CONCITATO with french horn + mbira + contrabass clarinet. Judge 98/100 (PASS iter 1). Clip UUIDs: `0b989d8b-7f08-4bec-a220-2d0db3acc3f3`, `87b3c550-a691-425a-a059-f99cbb8cb1e2`. F minor → F# minor half-step modulation, 134 BPM, scribe-racing-the-candle scene.
