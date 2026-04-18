@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-ocean-carved-my-bones",
+    "version": 172,
+    "style": "Polynesian dark orchestral, powerful dark female mezzo-soprano, deep war chant choir, heavy tribal percussion, conch shell horn, dramatic strings, cinematic and primal, ocean power, building from chant to tsunami",
+    "title": "The Ocean Carved My Bones",
+    "lyrics": "[Deep Percussion and Chant - Primal]\nBefore the maps were drawn\nBefore the compass turned\nWe read the stars like scripture\nAnd the ocean was our church\n\n[Conch Horn and Strings Enter]\nA thousand miles of water\nCould not keep us from the shore\nWe sailed into the unknown\nAnd the unknown made us more\n\n[Full Orchestra and War Choir - Massive]\nThe ocean carved my bones\nThe ocean made me strong\nEvery wave that tried to drown me\nBecame another song\n\n[Quiet - Voice Alone with Distant Drums]\nMy ancestors crossed horizons\nWith nothing but the tide\n\n[Explosive Final - War Chant and Orchestra]\nThe ocean carved my bones\nAnd I am made of waves\nEvery storm that ever broke me\nTaught me how to be brave\n\nWe are the ocean\nWe are the ocean\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v172: Polynesian/Maori dark orchestral. Deep war chant choir + tribal percussion + conch horn for Pacific Island identity. Ocean navigation mythology. Haka-inspired intensity. The world tour continues: 11th culture.",
+    "tags": [
+      "polynesian",
+      "maori",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "war chant",
+      "tribal",
+      "ocean",
+      "cinematic",
+      "primal"
+    ],
+    "_file": "the-ocean-carved-my-bones-v172.yaml",
+    "_slug": "the-ocean-carved-my-bones-v172"
+  },
+  {
     "name": "the-hill-where-we-were-free",
     "version": 171,
     "style": "Scottish Highland dark orchestral, powerful dark female mezzo-soprano, bagpipes, Celtic fiddle, bodhran drum, dramatic strings, cinematic and fierce, battle lament, raw emotion building to defiant glory",
