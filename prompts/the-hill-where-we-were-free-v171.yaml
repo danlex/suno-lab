@@ -1,0 +1,42 @@
+name: "the-hill-where-we-were-free"
+version: 171
+style: "Scottish Highland dark orchestral, powerful dark female mezzo-soprano, bagpipes, Celtic fiddle, bodhran drum, dramatic strings, cinematic and fierce, battle lament, raw emotion building to defiant glory"
+title: "The Hill Where We Were Free"
+lyrics: |
+  [Bagpipes - Lone and Defiant]
+  They painted their faces blue
+  They stood upon the hill
+  With nothing but the highland wind
+  And an unbreakable will
+
+  [Fiddle and Bodhran Enter - Fierce]
+  My brothers fell like autumn leaves
+  My sisters held the line
+  We fought for every blade of grass
+  We bled for every pine
+
+  [Full Orchestra - Thundering]
+  On the hill where we were free
+  Where the sky kissed the sword
+  Every voice became a war cry
+  Every heartbeat struck a chord
+
+  [Quiet - Voice and Bagpipes Alone]
+  The mist still holds their memory
+  The stones still know their song
+
+  [Explosive Final - Defiant Glory]
+  On the hill where we were free
+  We are free forever still
+  No crown no chain no empire
+  Can take away the hill
+
+  The hill
+  The hill
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi"
+notes: "v171: Scottish Highland dark orchestral. Bagpipes + fiddle + bodhran = strong Celtic warrior identity. Battle lament about freedom. Close to Celtic folk (v160) but much darker and more intense — battle energy like v156 Rise from the Ashes (which user liked). Testing Highland warrior aesthetic."
+tags: [scottish, highland, orchestral, dark, mezzo-soprano, bagpipes, fiddle, battle, cinematic, celtic]

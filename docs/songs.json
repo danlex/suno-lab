@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-hill-where-we-were-free",
+    "version": 171,
+    "style": "Scottish Highland dark orchestral, powerful dark female mezzo-soprano, bagpipes, Celtic fiddle, bodhran drum, dramatic strings, cinematic and fierce, battle lament, raw emotion building to defiant glory",
+    "title": "The Hill Where We Were Free",
+    "lyrics": "[Bagpipes - Lone and Defiant]\nThey painted their faces blue\nThey stood upon the hill\nWith nothing but the highland wind\nAnd an unbreakable will\n\n[Fiddle and Bodhran Enter - Fierce]\nMy brothers fell like autumn leaves\nMy sisters held the line\nWe fought for every blade of grass\nWe bled for every pine\n\n[Full Orchestra - Thundering]\nOn the hill where we were free\nWhere the sky kissed the sword\nEvery voice became a war cry\nEvery heartbeat struck a chord\n\n[Quiet - Voice and Bagpipes Alone]\nThe mist still holds their memory\nThe stones still know their song\n\n[Explosive Final - Defiant Glory]\nOn the hill where we were free\nWe are free forever still\nNo crown no chain no empire\nCan take away the hill\n\nThe hill\nThe hill\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi",
+    "notes": "v171: Scottish Highland dark orchestral. Bagpipes + fiddle + bodhran = strong Celtic warrior identity. Battle lament about freedom. Close to Celtic folk (v160) but much darker and more intense — battle energy like v156 Rise from the Ashes (which user liked). Testing Highland warrior aesthetic.",
+    "tags": [
+      "scottish",
+      "highland",
+      "orchestral",
+      "dark",
+      "mezzo-soprano",
+      "bagpipes",
+      "fiddle",
+      "battle",
+      "cinematic",
+      "celtic"
+    ],
+    "_file": "the-hill-where-we-were-free-v171.yaml",
+    "_slug": "the-hill-where-we-were-free-v171"
+  },
+  {
     "name": "the-road-that-has-no-end",
     "version": 170,
     "style": "Romani dark orchestral, passionate dark female mezzo-soprano, solo violin, cimbalom, hand clapping rhythm, dramatic strings, fiery and emotional, cinematic, wild intensity building to frenzy",
