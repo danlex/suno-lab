@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-elegy-we-carry-forward",
+    "version": 191,
+    "style": "Dark Baroque tombeau three-minute miniature in the manner of a grave memorial elegy, total duration around 3:00, with NYCKELHARPA, CELESTA, and CORNET as featured soloists in an intimate chamber texture, style brise broken arpeggiated chords dissolving into silence, unmeasured rhythmic freedom where each phrase breathes like held grief, the nyckelharpa bowing slow ornamental lines with sympathetic string resonance beneath, the celesta striking crystalline notes that decay into empty air, the cornet singing warm muted legato phrases like a distant farewell at 51 BPM in E minor modulating to F minor at the climax, solo nyckelharpa in broken-chord style at 0:00, voice entering at 0:25 as if interrupting private grief, celesta at 0:50, cornet at 1:15, full chamber strings at 1:40, peak at 2:00 then dissolving to silence at 2:10, return half-step up stripped bare and unresolved, no electronic elements, no drums, no bright timbres, no resolution, no pop",
+    "title": "The Elegy We Carry Forward",
+    "lyrics": "[Nyckelharpa - Broken Chords Dissolving]\nWe carry our dead in the songs we sing\nNot in the words but in the weight\nThe way a note can hold a name\nWithout ever having to state\n\n[Celesta Enters - Crystalline and Fading]\nMy mother hummed a melody\nHer mother hummed before\nI don't remember all the words\nBut I remember what they're for\n\n[Cornet and Full Chamber - Memorial Building]\nThe elegy we carry forward\nIs never written down\nIt lives between the generations\nLike a thread beneath the ground\n\n[Silence - Dissolving]\nRemember\n\n[Return in F Minor - Stripped and Unresolved]\nThe elegy we carry forward\nGets heavier with time\nNot because the grief grows deeper\nBut because the love refines\n\nCarry forward\nCarry forward\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, new age, bright, happy",
+    "notes": "v191: TOMBEAU form (first use) — 17th-century French Baroque memorial elegy. Style brisé (broken arpeggiated chords), unmeasured rhythmic freedom, grief dissolving into silence. Nyckelharpa (gap=51, Swedish keyed fiddle with sympathetic strings), celesta (gap=50, crystalline keyboard), cornet (gap=51, warm Renaissance brass). 51 BPM = slowest unused BPM, suits the grave memorial character. E minor → F minor half-step up. Daniela DAN voice. Theme: the way grief and love are passed between generations through music — the songs we inherit without knowing all the words.",
+    "tags": [
+      "vocal",
+      "daniela-dan-voice",
+      "tombeau",
+      "baroque",
+      "memorial",
+      "nyckelharpa",
+      "celesta",
+      "cornet",
+      "elegy",
+      "intimate",
+      "style brise"
+    ],
+    "_file": "the-elegy-we-carry-forward-v191.yaml",
+    "_slug": "the-elegy-we-carry-forward-v191"
+  },
+  {
     "name": "a-hundred-colours-in-the-dark",
     "version": 190,
     "style": "Dark cinematic chamber orchestral three-minute miniature for a midnight revelation scene, total duration around 3:00, with SARANGI, HURDY GURDY, and FELT PIANO as featured soloists over sparse dark strings, natural intimate vocal performance supported by the sarangi's sympathetic resonance halo where thirty-five resonant strings shimmer around every bowed note creating built-in room reverb, the hurdy gurdy adding a sustained drone beneath with warm buzzing overtones, the felt piano striking dampened notes that bloom and decay like candlelight at 65 BPM in G minor modulating to A-flat minor at the climax, solo sarangi murmuring a searching phrase at 0:00, voice entering at 0:20, hurdy gurdy drone at 0:45, felt piano at 1:00, full dark strings at 1:30, peak at 2:00 then silence at 2:10 with only sarangi halo remaining, return half-step up at 2:15, no electronic elements, no drums, no tabla, no bright timbres, no world music cliches",

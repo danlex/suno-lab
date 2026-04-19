@@ -1,6 +1,6 @@
 {
-  "total_prompts": 190,
-  "latest_version": 190,
+  "total_prompts": 191,
+  "latest_version": 191,
   "instruments": {
     "organ": [
       1,
@@ -502,6 +502,12 @@
       136,
       187
     ],
+    "nyckelharpa": [
+      111,
+      127,
+      140,
+      191
+    ],
     "oboe d'amore": [
       110,
       124,
@@ -621,11 +627,6 @@
       116,
       126,
       143
-    ],
-    "nyckelharpa": [
-      111,
-      127,
-      140
     ],
     "prepared piano": [
       89,
@@ -877,7 +878,11 @@
       173,
       187
     ],
-    "concerto": [
+    "baroque": [
+      188,
+      191
+    ],
+    "romantic": [
       145,
       149
     ],
@@ -887,9 +892,6 @@
     ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "passacaglia": [
       111
@@ -958,6 +960,21 @@
       64,
       187
     ],
+    "e minor": [
+      11,
+      47,
+      56,
+      63,
+      85,
+      99,
+      105,
+      113,
+      131,
+      139,
+      151,
+      183,
+      191
+    ],
     "c minor": [
       15,
       16,
@@ -971,20 +988,6 @@
       100,
       104,
       149
-    ],
-    "e minor": [
-      11,
-      47,
-      56,
-      63,
-      85,
-      99,
-      105,
-      113,
-      131,
-      139,
-      151,
-      183
     ],
     "f minor": [
       12,
@@ -1151,6 +1154,9 @@
     ],
     "50": [
       124
+    ],
+    "51": [
+      191
     ],
     "52": [
       88
@@ -1403,6 +1409,17 @@
     ]
   },
   "titles": [
+    {
+      "version": 191,
+      "title": "The Elegy We Carry Forward",
+      "name": "the-elegy-we-carry-forward",
+      "featured": [
+        "nyckelharpa"
+      ],
+      "genre": "baroque",
+      "key": "e minor",
+      "bpm": 51
+    },
     {
       "version": 190,
       "title": "A Hundred Colours in the Dark",
@@ -1799,7 +1816,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -1835,7 +1852,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },
