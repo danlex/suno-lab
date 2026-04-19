@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-beautiful-thing-has-already-passed",
+    "version": 189,
+    "style": "Dark fado-noir chamber orchestral three-minute miniature for a saudade scene of irreversible longing, total duration around 3:00, with VIOLA, GLASS MARIMBA, and CLAVICHORD as featured soloists over muted chamber strings and a slow chromatic descending bass line, natural intimate vocal performance floating above minor-key arpeggios with flat-nine jazz chords and bittersweet harmonic tension, the viola drawing long sustained lines of aching beauty, the glass marimba ringing translucent bell tones that shimmer and decay, the clavichord adding delicate percussive keyboard whispers beneath at 61 BPM in B minor modulating to C minor at the climax, solo clavichord establishing the descending bass at 0:00, voice entering at 0:15, viola at 0:40, glass marimba at 1:00, full muted strings at 1:30, peak at 2:00 then silence at 2:10, return half-step up with the same sorrow transfigured, no electronic elements, no drums, no percussion beyond glass marimba, no flamenco, no Arabic",
+    "title": "The Beautiful Thing Has Already Passed",
+    "lyrics": "[Clavichord - Descending Bass Alone]\nThe beautiful thing has already passed\nIt left the way that light leaves glass\nNot shattered but dissolved\nNot broken but surpassed\n\n[Viola Enters - Aching Sustained Lines]\nI knew it while it was still here\nThe way you know a wave will break\nThat knowing didn't save a thing\nIt only made it harder to forsake\n\n[Glass Marimba and Full Muted Strings]\nThe beautiful thing has already passed\nAnd I am what it left behind\nA room still warm from where you sat\nA cup still holding what you poured like wine\n\n[Silence - Bass Line Stops]\nIt was here\n\n[Return in C Minor - Same Sorrow Transfigured]\nThe beautiful thing has already passed\nBut passing is not gone\nIt lives inside the ache I carry\nLike a bell that's always rung\n\nAlways rung\nAlways rung\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, flamenco, Arabic, Middle Eastern, new age",
+    "notes": "v189: FADO-NOIR × CHAMBER STRINGS (first fado fusion). Saudade = Portuguese emotional register of bittersweet longing for something irrecoverable. Jazz-noir harmony (flat-nine chords, chromatic descending bass). Viola (gap=51), glass marimba (gap=51), clavichord (gap=50). 61 BPM unused. B minor → C minor half-step up. Daniela DAN voice — the saudade concept suits an intimate natural voice perfectly. Theme: the awareness of beauty while it's still present, knowing it will pass. The descending bass line = the irreversible passage of time.",
+    "tags": [
+      "vocal",
+      "daniela-dan-voice",
+      "fado-noir",
+      "saudade",
+      "chamber",
+      "viola",
+      "glass marimba",
+      "clavichord",
+      "cinematic",
+      "longing"
+    ],
+    "_file": "the-beautiful-thing-has-already-passed-v189.yaml",
+    "_slug": "the-beautiful-thing-has-already-passed-v189"
+  },
+  {
     "name": "the-lullaby-that-never-landed",
     "version": 188,
     "style": "Baroque siciliana three-minute miniature in lilting 6/8 meter for a bittersweet lullaby scene, total duration around 3:00, with OBOE D'AMORE, VIOLA DA GAMBA, and HARPSICHORD as featured soloists creating a warm Baroque chamber texture around a natural intimate vocal performance, the dotted pastoral rhythm rocking gently like a boat on dark water, the oboe d'amore singing long yearning phrases above the harpsichord's delicate continuo figures while the viola da gamba anchors with low sustained bowing at 58 BPM in F minor modulating to G-flat minor at the climax, the arrangement sparse and restrained letting the voice breathe in long phrases over the lilting pulse, solo harpsichord establishing the rocking rhythm at 0:00 with voice at 0:15, oboe d'amore at 0:40, viola da gamba at 1:00, full chamber strings at 1:30, peak at 2:00 then silence at 2:10 with bare rocking pulse alone, return fortississimo half-step up, no electronic elements, no drums, no folk, no regional color",
