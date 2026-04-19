@@ -1,40 +1,20 @@
 name: "the-dance-that-stopped-mid-phrase"
 version: 192
-style: "Dark jazz waltz three-minute miniature in haunted 3/4 meter for a noir ballroom scene, total duration around 3:00, with GLASS HARMONICA, TUBA, and MARIMBA as featured soloists over tremolo chamber strings and muted brass, natural intimate vocal performance floating above the ghostly waltz rotation like a haunting presence, the glass harmonica singing eerie sustained tones that hang in the air, the tuba anchoring the noir harmonic underworld with low dark roots, the marimba providing soft wooden pulse in the waltz rhythm at 75 BPM in C minor modulating to D-flat minor at the climax, muted brass and tuba establishing the waltz pulse at 0:00, voice entering like a ghost at 0:25, glass harmonica at 0:45, marimba at 1:00, full tremolo strings at 1:30, peak dissonance at 2:00, silence at 2:10, return half-step up for a final rotation that fades mid-phrase, no electronic elements, no drums, no bright timbres, no resolution, no cabaret"
+style: "Dark jazz waltz three-minute miniature in haunted 3/4 meter for a noir ballroom scene, total duration around 3:00, with GLASS HARMONICA, TUBA, and MARIMBA as featured soloists over tremolo chamber strings and muted brass, purely instrumental, the glass harmonica singing eerie sustained tones that hang in the air, the tuba anchoring the noir harmonic underworld with low dark roots, the marimba providing soft wooden pulse in the waltz rhythm at 75 BPM in C minor modulating to D-flat minor at the climax, muted brass and tuba establishing the waltz pulse at 0:00, voice entering like a ghost at 0:25, glass harmonica at 0:45, marimba at 1:00, full tremolo strings at 1:30, peak dissonance at 2:00, silence at 2:10, return half-step up for a final rotation that fades mid-phrase, no electronic elements, no drums, no bright timbres, no resolution, no cabaret"
 title: "The Dance That Stopped Mid-Phrase"
 lyrics: |
   [Muted Brass and Tuba - Waltz Pulse in the Dark]
-  There was a dance that stopped mid-phrase
-  The music still turning in the air
-  A waltz for two that ended at one
-  A hand still reaching for what wasn't there
 
   [Glass Harmonica Enters - Eerie and Sustained]
-  The chandelier still throws its light
-  Across the floor where no one moves
-  The shadows dance in perfect time
-  To music only absence proves
 
   [Full Tremolo Strings and Marimba - Ghostly Building]
-  The dance that stopped mid-phrase
-  Still echoes in the walls
-  Every empty ballroom knows
-  The weight of what the silence calls
 
   [Silence - The Dance Stops]
-  One more turn
 
   [Return in D-flat Minor - Final Rotation Fading]
-  The dance that stopped mid-phrase
-  Was not the last one played
-  It was the first one ever meant
-  For someone who had stayed
-
-  Who stayed
-  Who stayed
 
   [End]
-instrumental: false
+instrumental: true
 exclude_styles: "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, cabaret, tango, bright, happy"
 notes: "v192: DARK JAZZ WALTZ (first waltz form + first dark jazz fusion). 3/4 meter noir atmosphere — muted brass + tremolo strings supply ghostly rotation while jazz underworld harmonics (tritones, minor ninths) prevent resolution. Glass harmonica (gap=51, ethereal spatial disorientation), tuba (gap=61, deepest brass), marimba (gap=54, warm wooden pulse). 75 BPM unused. C minor → Db minor half-step up. Daniela DAN voice. Theme: a dance that stops mid-phrase — the emptiness of a ballroom after the dancers leave, absence as presence."
 tags: [vocal, daniela-dan-voice, dark jazz, waltz, noir, glass harmonica, tuba, marimba, cinematic, haunted, 3/4]
