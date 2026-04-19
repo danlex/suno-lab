@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-lullaby-that-never-landed",
+    "version": 188,
+    "style": "Baroque siciliana three-minute miniature in lilting 6/8 meter for a bittersweet lullaby scene, total duration around 3:00, with OBOE D'AMORE, VIOLA DA GAMBA, and HARPSICHORD as featured soloists creating a warm Baroque chamber texture around a natural intimate vocal performance, the dotted pastoral rhythm rocking gently like a boat on dark water, the oboe d'amore singing long yearning phrases above the harpsichord's delicate continuo figures while the viola da gamba anchors with low sustained bowing at 58 BPM in F minor modulating to G-flat minor at the climax, the arrangement sparse and restrained letting the voice breathe in long phrases over the lilting pulse, solo harpsichord establishing the rocking rhythm at 0:00 with voice at 0:15, oboe d'amore at 0:40, viola da gamba at 1:00, full chamber strings at 1:30, peak at 2:00 then silence at 2:10 with bare rocking pulse alone, return fortississimo half-step up, no electronic elements, no drums, no folk, no regional color",
+    "title": "The Lullaby That Never Landed",
+    "lyrics": "[Harpsichord - Rocking 6/8 Rhythm Alone]\nI sang you something half-remembered\nA melody with missing parts\nThe kind of song that lives in doorways\nBetween the sleeping and the starts\n\n[Oboe d'Amore Enters - Yearning]\nIt wasn't meant to make you peaceful\nIt wasn't meant to close your eyes\nIt was the sound of someone trying\nTo turn their worry into lullabies\n\n[Full Chamber Strings - Bittersweet Building]\nThe lullaby that never landed\nStill circles in the air above\nA song too honest to be gentle\nToo gentle to be anything but love\n\n[Silence - Bare Rocking Pulse]\nSleep now\n\n[Return in G-flat Minor - Warm and Full]\nThe lullaby that never landed\nWas never meant to touch the ground\nIt was the shape of what I felt for you\nBefore I learned to make a sound\n\nBefore the sound\nBefore the sound\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, operatic, folk, regional, new age, ambient",
+    "notes": "v188: SICILIANA form (first use) — Baroque dance-form in lilting 6/8 meter, dotted rhythms, minor key, rocking pastoral sway. Research confirmed zero prior uses. Perfectly intimate for Daniela DAN voice — the form creates space for the voice to breathe. Oboe d'amore (gap=52, Baroque alto oboe), viola da gamba (gap=50, Renaissance bowed string), harpsichord (gap=51, Baroque keyboard). All three from the same era = authentic Baroque chamber. 58 BPM unused. F minor → Gb minor half-step up. Theme: a lullaby that never quite arrives — the attempt to soothe as an act of love itself.",
+    "tags": [
+      "vocal",
+      "daniela-dan-voice",
+      "siciliana",
+      "baroque",
+      "oboe d'amore",
+      "viola da gamba",
+      "harpsichord",
+      "lullaby",
+      "intimate",
+      "chamber"
+    ],
+    "_file": "the-lullaby-that-never-landed-v188.yaml",
+    "_slug": "the-lullaby-that-never-landed-v188"
+  },
+  {
     "name": "the-room-where-we-were-honest",
     "version": 187,
     "style": "Intimate cinematic ballad three-minute miniature for a late-night confession scene, total duration around 3:00, with MUSIC BOX, FLUGELHORN, and UPRIGHT BASS as featured soloists creating a warm chamber atmosphere around a natural intimate vocal performance, the music box tinkling fragile melodic fragments like childhood memories surfacing, the flugelhorn breathing warm golden tones in sustained legato phrases, the upright bass walking slow dark roots beneath at 73 BPM in D major modulating to E-flat major at the climax, sparse piano chords and soft strings joining gradually, the arrangement designed to frame and support the voice never competing with it, solo music box from 0:00 with voice entering at 0:15, flugelhorn at 0:40, upright bass at 1:00, full warm orchestra at 1:30, peak at 2:00 then near-silence at 2:10 with voice alone over single piano note, return half-step up fortississimo at 2:15, no electronic elements, no heavy drums, no distortion, no shouting",
