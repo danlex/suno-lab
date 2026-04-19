@@ -1,0 +1,20 @@
+name: "the-geometry-of-rain"
+version: 193
+style: "Dark cinematic orchestral three-minute miniature for a rain-on-glass scene, total duration around 3:00, purely instrumental with TRUMPET, MBIRA, and BOWED VIBRAPHONE as featured soloists over dark sustained strings and low brass, the trumpet playing muted legato phrases like distant signals through fog, the mbira plucking rapid metallic patterns that mimic rainfall on tin roofs, the bowed vibraphone sustaining long shimmering metallic tones that bloom and decay like light through wet glass at 77 BPM in A minor modulating to B-flat minor at the climax, solo mbira establishing the rain pattern at 0:00, muted trumpet entering at 0:25, bowed vibraphone at 0:50, full dark strings and low brass at 1:15, dense rainfall texture at 2:00, silence at 2:10 with single mbira note, return fortississimo half-step up at 2:15 with all three over full orchestra, no vocals, no singing, no electronic elements, no synthesizers, no drums, no bright major resolution"
+title: "The Geometry of Rain"
+lyrics: |
+  [Solo Mbira - Metallic Rainfall Pattern]
+
+  [Muted Trumpet Enters - Distant Signal Through Fog]
+
+  [Bowed Vibraphone and Full Dark Strings - Shimmering Bloom]
+
+  [Silence - Single Mbira Note]
+
+  [Return in B-flat Minor - Full Orchestra Rain]
+
+  [End]
+instrumental: true
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, vocals, singing, new age, ambient pads"
+notes: "v193: Instrumental. Trumpet (gap=63, highest available), mbira (gap=51, African thumb piano — metallic tines = rainfall), bowed vibraphone (gap=50, eerie sustained metal). Three-family trio: brass/idiophone/mallet percussion. 77 BPM unused. A minor → Bb minor half-step up. Theme: rain as geometry — the patterns rainfall makes on different surfaces, each instrument representing a different material being rained upon (trumpet = distant city, mbira = tin roof, bowed vibraphone = glass window)."
+tags: [instrumental, dark orchestral, trumpet, mbira, bowed vibraphone, cinematic, rain, geometric, noir]
