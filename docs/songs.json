@@ -1,5 +1,29 @@
 [
   {
+    "name": "a-hundred-colours-in-the-dark",
+    "version": 190,
+    "style": "Dark cinematic chamber orchestral three-minute miniature for a midnight revelation scene, total duration around 3:00, with SARANGI, HURDY GURDY, and FELT PIANO as featured soloists over sparse dark strings, natural intimate vocal performance supported by the sarangi's sympathetic resonance halo where thirty-five resonant strings shimmer around every bowed note creating built-in room reverb, the hurdy gurdy adding a sustained drone beneath with warm buzzing overtones, the felt piano striking dampened notes that bloom and decay like candlelight at 65 BPM in G minor modulating to A-flat minor at the climax, solo sarangi murmuring a searching phrase at 0:00, voice entering at 0:20, hurdy gurdy drone at 0:45, felt piano at 1:00, full dark strings at 1:30, peak at 2:00 then silence at 2:10 with only sarangi halo remaining, return half-step up at 2:15, no electronic elements, no drums, no tabla, no bright timbres, no world music cliches",
+    "title": "A Hundred Colours in the Dark",
+    "lyrics": "[Solo Sarangi - Searching and Shimmering]\nThere are colours that only exist in the dark\nShades the daylight has never claimed\nThey live inside the notes that tremble\nIn the strings that have no name\n\n[Hurdy Gurdy Drone Enters - Warm Buzzing]\nI found them in the space between\nThe question and the prayer\nA hundred colours in the silence\nPainted on the midnight air\n\n[Felt Piano and Full Dark Strings - Building]\nA hundred colours in the dark\nAnd every one of them is true\nThe reds I never spoke aloud\nThe blues I kept from you\n\n[Silence - Only Sarangi Halo]\nEvery colour\n\n[Return in A-flat Minor - Everything Converging]\nA hundred colours in the dark\nAre brighter than the sun\nBecause the things we feel in shadow\nAre the ones that weigh a ton\n\nA hundred colours\nA hundred colours\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, world music, Indian classical, Bollywood, tabla",
+    "notes": "v190: SARANGI first use — South Asian bowed lute with ~35 sympathetic resonance strings creating a shimmering halo around every note. Name means 'a hundred colours.' Closest acoustic instrument to the human singing voice — pairs naturally with Daniela DAN's intimate delivery. Hurdy gurdy (gap=51, medieval drone), felt piano (gap=50, dampened/muted piano). 65 BPM unused. G minor → Ab minor half-step up. Theme: the emotions that only exist in darkness — the colours of feeling that daylight can't show. The sarangi's sympathetic strings = the hidden resonance of unspoken emotion.",
+    "tags": [
+      "vocal",
+      "daniela-dan-voice",
+      "sarangi",
+      "hurdy gurdy",
+      "felt piano",
+      "cinematic",
+      "chamber",
+      "midnight",
+      "sympathetic resonance",
+      "intimate"
+    ],
+    "_file": "a-hundred-colours-in-the-dark-v190.yaml",
+    "_slug": "a-hundred-colours-in-the-dark-v190"
+  },
+  {
     "name": "the-beautiful-thing-has-already-passed",
     "version": 189,
     "style": "Dark fado-noir chamber orchestral three-minute miniature for a saudade scene of irreversible longing, total duration around 3:00, with VIOLA, GLASS MARIMBA, and CLAVICHORD as featured soloists over muted chamber strings and a slow chromatic descending bass line, natural intimate vocal performance floating above minor-key arpeggios with flat-nine jazz chords and bittersweet harmonic tension, the viola drawing long sustained lines of aching beauty, the glass marimba ringing translucent bell tones that shimmer and decay, the clavichord adding delicate percussive keyboard whispers beneath at 61 BPM in B minor modulating to C minor at the climax, solo clavichord establishing the descending bass at 0:00, voice entering at 0:15, viola at 0:40, glass marimba at 1:00, full muted strings at 1:30, peak at 2:00 then silence at 2:10, return half-step up with the same sorrow transfigured, no electronic elements, no drums, no percussion beyond glass marimba, no flamenco, no Arabic",

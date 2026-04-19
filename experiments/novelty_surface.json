@@ -1,6 +1,6 @@
 {
-  "total_prompts": 189,
-  "latest_version": 189,
+  "total_prompts": 190,
+  "latest_version": 190,
   "instruments": {
     "organ": [
       1,
@@ -705,6 +705,9 @@
     ],
     "ophicleide": [
       180
+    ],
+    "sarangi": [
+      190
     ]
   },
   "genres": {
@@ -833,7 +836,8 @@
       184,
       185,
       186,
-      189
+      189,
+      190
     ],
     "neoclassical": [
       1,
@@ -870,14 +874,16 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187
     ],
     "concerto": [
       145,
       149
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -999,7 +1005,8 @@
       93,
       101,
       111,
-      137
+      137,
+      190
     ],
     "b minor": [
       76,
@@ -1186,6 +1193,9 @@
     ],
     "64": [
       136
+    ],
+    "65": [
+      190
     ],
     "66": [
       80,
@@ -1394,6 +1404,17 @@
   },
   "titles": [
     {
+      "version": 190,
+      "title": "A Hundred Colours in the Dark",
+      "name": "a-hundred-colours-in-the-dark",
+      "featured": [
+        "sarangi"
+      ],
+      "genre": "orchestral",
+      "key": "g minor",
+      "bpm": 65
+    },
+    {
       "version": 189,
       "title": "The Beautiful Thing Has Already Passed",
       "name": "the-beautiful-thing-has-already-passed",
@@ -1517,7 +1538,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -1661,7 +1682,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

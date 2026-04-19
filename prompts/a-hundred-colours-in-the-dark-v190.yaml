@@ -1,0 +1,40 @@
+name: "a-hundred-colours-in-the-dark"
+version: 190
+style: "Dark cinematic chamber orchestral three-minute miniature for a midnight revelation scene, total duration around 3:00, with SARANGI, HURDY GURDY, and FELT PIANO as featured soloists over sparse dark strings, natural intimate vocal performance supported by the sarangi's sympathetic resonance halo where thirty-five resonant strings shimmer around every bowed note creating built-in room reverb, the hurdy gurdy adding a sustained drone beneath with warm buzzing overtones, the felt piano striking dampened notes that bloom and decay like candlelight at 65 BPM in G minor modulating to A-flat minor at the climax, solo sarangi murmuring a searching phrase at 0:00, voice entering at 0:20, hurdy gurdy drone at 0:45, felt piano at 1:00, full dark strings at 1:30, peak at 2:00 then silence at 2:10 with only sarangi halo remaining, return half-step up at 2:15, no electronic elements, no drums, no tabla, no bright timbres, no world music cliches"
+title: "A Hundred Colours in the Dark"
+lyrics: |
+  [Solo Sarangi - Searching and Shimmering]
+  There are colours that only exist in the dark
+  Shades the daylight has never claimed
+  They live inside the notes that tremble
+  In the strings that have no name
+
+  [Hurdy Gurdy Drone Enters - Warm Buzzing]
+  I found them in the space between
+  The question and the prayer
+  A hundred colours in the silence
+  Painted on the midnight air
+
+  [Felt Piano and Full Dark Strings - Building]
+  A hundred colours in the dark
+  And every one of them is true
+  The reds I never spoke aloud
+  The blues I kept from you
+
+  [Silence - Only Sarangi Halo]
+  Every colour
+
+  [Return in A-flat Minor - Everything Converging]
+  A hundred colours in the dark
+  Are brighter than the sun
+  Because the things we feel in shadow
+  Are the ones that weigh a ton
+
+  A hundred colours
+  A hundred colours
+
+  [End]
+instrumental: false
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, world music, Indian classical, Bollywood, tabla"
+notes: "v190: SARANGI first use — South Asian bowed lute with ~35 sympathetic resonance strings creating a shimmering halo around every note. Name means 'a hundred colours.' Closest acoustic instrument to the human singing voice — pairs naturally with Daniela DAN's intimate delivery. Hurdy gurdy (gap=51, medieval drone), felt piano (gap=50, dampened/muted piano). 65 BPM unused. G minor → Ab minor half-step up. Theme: the emotions that only exist in darkness — the colours of feeling that daylight can't show. The sarangi's sympathetic strings = the hidden resonance of unspoken emotion."
+tags: [vocal, daniela-dan-voice, sarangi, hurdy gurdy, felt piano, cinematic, chamber, midnight, sympathetic resonance, intimate]
