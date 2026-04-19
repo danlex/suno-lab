@@ -1,6 +1,6 @@
 {
-  "total_prompts": 183,
-  "latest_version": 183,
+  "total_prompts": 184,
+  "latest_version": 184,
   "instruments": {
     "organ": [
       1,
@@ -692,6 +692,9 @@
     "bandoneon": [
       182
     ],
+    "baryton": [
+      184
+    ],
     "double bass": [
       178
     ],
@@ -821,7 +824,8 @@
       179,
       180,
       181,
-      182
+      182,
+      184
     ],
     "neoclassical": [
       1,
@@ -858,13 +862,15 @@
       155,
       157,
       158,
-      162,
-      173,
-      178
+      173
     ],
-    "concerto": [
+    "romantic": [
       145,
       149
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -998,17 +1004,18 @@
       135,
       150
     ],
+    "d-flat major": [
+      92,
+      108,
+      121,
+      145,
+      184
+    ],
     "b minor": [
       76,
       116,
       140,
       147
-    ],
-    "d-flat major": [
-      92,
-      108,
-      121,
-      145
     ],
     "e-flat minor": [
       79,
@@ -1131,6 +1138,9 @@
     ],
     "54": [
       86
+    ],
+    "55": [
+      184
     ],
     "56": [
       82
@@ -1354,6 +1364,17 @@
   },
   "titles": [
     {
+      "version": 184,
+      "title": "The Shimmer Beneath the Strings",
+      "name": "the-shimmer-beneath-the-strings",
+      "featured": [
+        "baryton"
+      ],
+      "genre": "orchestral",
+      "key": "d-flat major",
+      "bpm": 55
+    },
+    {
       "version": 183,
       "title": "The Descent That Holds Us Still",
       "name": "the-descent-that-holds-us-still",
@@ -1411,7 +1432,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -1555,7 +1576,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -1672,7 +1693,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -1708,7 +1729,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },
