@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-voices-that-never-resolve",
+    "version": 185,
+    "style": "Dark drone polyphonic orchestral three-minute miniature for an austere cathedral scene, total duration around 3:00, with STEEL TONGUE DRUM, BASS FLUTE, and THEREMIN as featured soloists over a three-voice polyphonic texture where a sustained cello pedal drone anchors two independently moving upper vocal lines in raw unresolved dissonance, dark orchestral voices in sustained seconds and fourths against the drone breathing in and out without consonant resolution, purely instrumental, the steel tongue drum marking slow ritual pulse, the bass flute doubling the second voice in hollow breathy tones, the theremin shadowing the third voice in eerie wavering pitch at 57 BPM in A-flat major modulating to A major, drone alone from 0:00, upper voices entering at 0:25 in close dissonance, full strings at 1:00, peak density at 2:00, silence at 2:10, return stripped bare fortississimo half-step up at 2:15, no electronic effects, no synthesizers, no drums, no triadic resolution",
+    "title": "The Voices That Never Resolve",
+    "lyrics": "[Cello Drone - Sustained and Dark]\n\n[Bass Flute and Steel Tongue Drum Enter - Ritual Pulse]\n\n[Full Strings and Theremin - Raw Dissonance Building]\n\n[Silence - Drone Alone]\n\n[Return in A Major - Stripped and Bare - Everything Converging]\n\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, folk",
+    "notes": "v185: GEORGIAN POLYPHONIC SINGING × DARK ORCHESTRAL — first vocal polyphony fusion (all 39 prior fusions were electronic × orchestral or Weimar cabaret). Three-voice drone texture with unresolved dissonances (seconds, fourths). Steel tongue drum (gap=62) + bass flute (gap=51) + theremin (gap=50). 57 BPM unused. Ab major → A major (Ab major gap=142, highest key novelty in entire dataset). Theme: the beauty of harmonic tension that refuses to resolve — dissonance as truth, consonance as comfort.",
+    "tags": [
+      "drone polyphony",
+      "dark orchestral",
+      "mezzo-soprano",
+      "steel tongue drum",
+      "bass flute",
+      "theremin",
+      "dissonance",
+      "austere",
+      "cinematic",
+      "ritual"
+    ],
+    "_file": "the-voices-that-never-resolve-v185.yaml",
+    "_slug": "the-voices-that-never-resolve-v185"
+  },
+  {
     "name": "the-shimmer-beneath-the-strings",
     "version": 184,
     "style": "Dark Renaissance orchestral three-minute miniature for a candlelit chamber scene, total duration around 3:00, with BARYTON, SHAKUHACHI, and HANDPAN as featured soloists over sustained orchestral strings, powerful dark female mezzo-soprano over the baryton's dual-resonance shimmer where bowed tones produce warm dark shadow overlaid with sympathetic metallic halo, the shakuhachi breathing mournful tones like wind through stone while the handpan rings bell-like overtones at 55 BPM in D-flat major modulating to D major at the climax, solo baryton alone from 0:00 establishing the shimmer-shadow texture, shakuhachi entering at 0:25, handpan at 1:00 as full strings bloom beneath, building to peak density at 2:00 then stripping to bare baryton sympathetic resonance at 2:10 in silence, return fortississimo half-step up at 2:15 with all three converging, no electronic elements, no synthesizers, no drums, no bright pop timbres",

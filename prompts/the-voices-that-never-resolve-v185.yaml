@@ -1,0 +1,20 @@
+name: "the-voices-that-never-resolve"
+version: 185
+style: "Dark drone polyphonic orchestral three-minute miniature for an austere cathedral scene, total duration around 3:00, with STEEL TONGUE DRUM, BASS FLUTE, and THEREMIN as featured soloists over a three-voice polyphonic texture where a sustained cello pedal drone anchors two independently moving upper vocal lines in raw unresolved dissonance, dark orchestral voices in sustained seconds and fourths against the drone breathing in and out without consonant resolution, purely instrumental, the steel tongue drum marking slow ritual pulse, the bass flute doubling the second voice in hollow breathy tones, the theremin shadowing the third voice in eerie wavering pitch at 57 BPM in A-flat major modulating to A major, drone alone from 0:00, upper voices entering at 0:25 in close dissonance, full strings at 1:00, peak density at 2:00, silence at 2:10, return stripped bare fortississimo half-step up at 2:15, no electronic effects, no synthesizers, no drums, no triadic resolution"
+title: "The Voices That Never Resolve"
+lyrics: |
+  [Cello Drone - Sustained and Dark]
+
+  [Bass Flute and Steel Tongue Drum Enter - Ritual Pulse]
+
+  [Full Strings and Theremin - Raw Dissonance Building]
+
+  [Silence - Drone Alone]
+
+  [Return in A Major - Stripped and Bare - Everything Converging]
+
+  [End]
+instrumental: true
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, folk"
+notes: "v185: GEORGIAN POLYPHONIC SINGING × DARK ORCHESTRAL — first vocal polyphony fusion (all 39 prior fusions were electronic × orchestral or Weimar cabaret). Three-voice drone texture with unresolved dissonances (seconds, fourths). Steel tongue drum (gap=62) + bass flute (gap=51) + theremin (gap=50). 57 BPM unused. Ab major → A major (Ab major gap=142, highest key novelty in entire dataset). Theme: the beauty of harmonic tension that refuses to resolve — dissonance as truth, consonance as comfort."
+tags: [drone polyphony, dark orchestral, mezzo-soprano, steel tongue drum, bass flute, theremin, dissonance, austere, cinematic, ritual]
