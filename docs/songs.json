@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-descent-that-holds-us-still",
+    "version": 183,
+    "style": "Dark neoclassical orchestral three-minute miniature built on a lamento bass ground, total duration around 3:00, with STEELPAN, PREPARED PIANO, and COR ANGLAIS as featured soloists over a chromatic descending tetrachord repeated in the lowest strings creating grief-stasis where the bass pulls inexorably downward while upper voices resist, powerful dark female mezzo-soprano singing above the harmonic tension, the steelpan ringing bright metallic tones against the darkness like tears catching light, the prepared piano adding dampened percussive resonance, the cor anglais threading mournful lines through suspended harmonies that never resolve, solo cello spelling the descending tetrachord alone at 0:00, trio entering at 0:25, full orchestra at 1:00 with the ground bass still grinding beneath, peak at 2:00 then silence at 2:10, return in E minor half-step up from E-flat minor at 53 BPM fortississimo, no electronic elements, no synthesizers, no drums, no flamenco, no bright resolution",
+    "title": "The Descent That Holds Us Still",
+    "lyrics": "[Solo Cello - Chromatic Descent Alone]\nThere is a line that gravity draws\nThrough every life that breaks\nA downward pull no prayer can stop\nA path no courage takes\n\n[Steelpan and Cor Anglais Enter - Bright Against Dark]\nWe thought if we were strong enough\nThe falling would reverse\nBut strength just means you feel each step\nOf the descent in verse\n\n[Full Orchestra Over Ground Bass - Grief Building]\nThe descent that holds us still\nIs not the enemy we name\nIt is the ground beneath the grief\nThe architecture of the pain\n\n[Silence - Four Seconds]\n\n[Return in E Minor - Everything Converging]\nThe descent that holds us still\nWill carry us below\nUntil we find the bottom note\nWhere even sorrow lets us go\n\nLet go\nLet go\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, flamenco, Spanish guitar",
+    "notes": "v183: LAMENTO BASS — chromatic descending tetrachord ground bass (first use, distinct from passacaglia v111 and passamezzo v125). The bass descends inexorably while upper voices resist, creating suspended harmonies that never fully resolve = grief-stasis. Steelpan (gap=63, Caribbean metallic brightness against dark ground), prepared piano (gap=52, dampened percussive resonance), cor anglais (gap=49, mournful double-reed). 53 BPM unused. Eb minor → E minor half-step up. Theme: the descent is not the enemy — it's the architecture of how we process grief. The ground bass is the metaphor: it keeps descending but the music keeps building above it.",
+    "tags": [
+      "lamento bass",
+      "ground bass",
+      "dark orchestral",
+      "mezzo-soprano",
+      "steelpan",
+      "prepared piano",
+      "cor anglais",
+      "cinematic",
+      "grief",
+      "neoclassical"
+    ],
+    "_file": "the-descent-that-holds-us-still-v183.yaml",
+    "_slug": "the-descent-that-holds-us-still-v183"
+  },
+  {
     "name": "the-show-that-never-ended",
     "version": 182,
     "style": "Dark cabaret orchestral 2:30 to 3:30 film cue for a theatrical alienation scene, total duration around 3:00, with BANDONEON, BASS CLARINET, and GLOCKENSPIEL as featured soloists weaving through a sardonic Weimar-inflected groove over dark orchestral strings, powerful dark female mezzo-soprano delivering theatrical melodic lines with biting dissonance, the bandoneon wheezing dark chords beneath while the bass clarinet snakes above in minor-key arabesques and the glockenspiel strikes cold metallic accents like breaking glass, plucked double bass anchoring a lurching off-kilter rhythm at 67 BPM in B-flat minor modulating to B minor at the climax, cabaret trio alone from 0:00 to 0:45 then orchestral strings infiltrate at 0:50 building to full density at 1:30 before stripping to silence at 2:10, return with cabaret and orchestra locked in unison fortississimo half-step up, no electronic elements, no synthesizers, no drums beyond brushed snare, no bright major resolution, no pop structure",

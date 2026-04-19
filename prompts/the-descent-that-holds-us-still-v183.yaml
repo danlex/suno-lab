@@ -1,0 +1,40 @@
+name: "the-descent-that-holds-us-still"
+version: 183
+style: "Dark neoclassical orchestral three-minute miniature built on a lamento bass ground, total duration around 3:00, with STEELPAN, PREPARED PIANO, and COR ANGLAIS as featured soloists over a chromatic descending tetrachord repeated in the lowest strings creating grief-stasis where the bass pulls inexorably downward while upper voices resist, powerful dark female mezzo-soprano singing above the harmonic tension, the steelpan ringing bright metallic tones against the darkness like tears catching light, the prepared piano adding dampened percussive resonance, the cor anglais threading mournful lines through suspended harmonies that never resolve, solo cello spelling the descending tetrachord alone at 0:00, trio entering at 0:25, full orchestra at 1:00 with the ground bass still grinding beneath, peak at 2:00 then silence at 2:10, return in E minor half-step up from E-flat minor at 53 BPM fortississimo, no electronic elements, no synthesizers, no drums, no flamenco, no bright resolution"
+title: "The Descent That Holds Us Still"
+lyrics: |
+  [Solo Cello - Chromatic Descent Alone]
+  There is a line that gravity draws
+  Through every life that breaks
+  A downward pull no prayer can stop
+  A path no courage takes
+
+  [Steelpan and Cor Anglais Enter - Bright Against Dark]
+  We thought if we were strong enough
+  The falling would reverse
+  But strength just means you feel each step
+  Of the descent in verse
+
+  [Full Orchestra Over Ground Bass - Grief Building]
+  The descent that holds us still
+  Is not the enemy we name
+  It is the ground beneath the grief
+  The architecture of the pain
+
+  [Silence - Four Seconds]
+
+  [Return in E Minor - Everything Converging]
+  The descent that holds us still
+  Will carry us below
+  Until we find the bottom note
+  Where even sorrow lets us go
+
+  Let go
+  Let go
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, flamenco, Spanish guitar"
+notes: "v183: LAMENTO BASS — chromatic descending tetrachord ground bass (first use, distinct from passacaglia v111 and passamezzo v125). The bass descends inexorably while upper voices resist, creating suspended harmonies that never fully resolve = grief-stasis. Steelpan (gap=63, Caribbean metallic brightness against dark ground), prepared piano (gap=52, dampened percussive resonance), cor anglais (gap=49, mournful double-reed). 53 BPM unused. Eb minor → E minor half-step up. Theme: the descent is not the enemy — it's the architecture of how we process grief. The ground bass is the metaphor: it keeps descending but the music keeps building above it."
+tags: [lamento bass, ground bass, dark orchestral, mezzo-soprano, steelpan, prepared piano, cor anglais, cinematic, grief, neoclassical]
