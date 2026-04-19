@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-room-where-we-were-honest",
+    "version": 187,
+    "style": "Intimate cinematic ballad three-minute miniature for a late-night confession scene, total duration around 3:00, with MUSIC BOX, FLUGELHORN, and UPRIGHT BASS as featured soloists creating a warm chamber atmosphere around a natural intimate vocal performance, the music box tinkling fragile melodic fragments like childhood memories surfacing, the flugelhorn breathing warm golden tones in sustained legato phrases, the upright bass walking slow dark roots beneath at 73 BPM in D major modulating to E-flat major at the climax, sparse piano chords and soft strings joining gradually, the arrangement designed to frame and support the voice never competing with it, solo music box from 0:00 with voice entering at 0:15, flugelhorn at 0:40, upright bass at 1:00, full warm orchestra at 1:30, peak at 2:00 then near-silence at 2:10 with voice alone over single piano note, return half-step up fortississimo at 2:15, no electronic elements, no heavy drums, no distortion, no shouting",
+    "title": "The Room Where We Were Honest",
+    "lyrics": "[Music Box - Fragile and Alone]\nThere was a room where we were honest\nWhere the walls forgot to judge\nWhere the words came out unfinished\nAnd the silence didn't budge\n\n[Flugelhorn Enters - Warm and Golden]\nYou told me things you'd never spoken\nI told you things I'd never heard\nAnd something in the space between us\nBecame more true than any word\n\n[Full Warm Orchestra - Building]\nThe room where we were honest\nHas no address and no key\nIt only opens when we stop pretending\nWe are who we claim to be\n\n[Voice Alone - Over Single Piano Note]\nI miss that room\n\n[Return in E-flat Major - Everything Warm]\nThe room where we were honest\nLives inside the breath we share\nEvery time we drop the armor\nWe are already there\n\nAlready there\nAlready there\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, operatic",
+    "notes": "v187: First song with Daniela DAN custom voice (user's wife). Intimate cinematic ballad — the arrangement is designed to frame the voice, not compete with it. Music box (gap=51) for childhood/nostalgia, flugelhorn (gap=52) for warmth, upright bass (gap=51) for grounding. 73 BPM unused. D major → Eb major (D major gap=122). Theme: vulnerability and honesty in relationships — the space where we stop performing and become real. No operatic style — natural, intimate, personal delivery. NEVER use Daniela's name in lyrics.",
+    "tags": [
+      "vocal",
+      "daniela-dan-voice",
+      "intimate",
+      "ballad",
+      "music box",
+      "flugelhorn",
+      "upright bass",
+      "cinematic",
+      "confession",
+      "warm"
+    ],
+    "_file": "the-room-where-we-were-honest-v187.yaml",
+    "_slug": "the-room-where-we-were-honest-v187"
+  },
+  {
     "name": "the-architecture-of-falling-light",
     "version": 186,
     "style": "Dark cinematic orchestral three-minute miniature for a cathedral-at-dawn scene, total duration around 3:00, purely instrumental with BALAFON, TUBULAR BELLS, and HARDANGER FIDDLE as featured soloists over dark orchestral strings and low brass, the balafon cascading wooden melodic fragments like scattered prayer beads while tubular bells strike deep cathedral chimes that ring and decay slowly and the hardanger fiddle draws long dark lines with sympathetic string resonance beneath, the texture building from solo balafon at 0:00 through tubular bells joining at 0:25 and hardanger fiddle entering at 1:00 toward full orchestral density at 2:00 before four seconds of held silence at 2:10 strips everything to a single tubular bell strike, return fortississimo in B minor half-step up from B-flat minor at 69 BPM with all three soloists converging over full orchestra, no vocals, no singing, no electronic elements, no synthesizers, no drums, no bright major resolution",
