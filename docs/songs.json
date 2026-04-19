@@ -1,5 +1,28 @@
 [
   {
+    "name": "the-architecture-of-falling-light",
+    "version": 186,
+    "style": "Dark cinematic orchestral three-minute miniature for a cathedral-at-dawn scene, total duration around 3:00, purely instrumental with BALAFON, TUBULAR BELLS, and HARDANGER FIDDLE as featured soloists over dark orchestral strings and low brass, the balafon cascading wooden melodic fragments like scattered prayer beads while tubular bells strike deep cathedral chimes that ring and decay slowly and the hardanger fiddle draws long dark lines with sympathetic string resonance beneath, the texture building from solo balafon at 0:00 through tubular bells joining at 0:25 and hardanger fiddle entering at 1:00 toward full orchestral density at 2:00 before four seconds of held silence at 2:10 strips everything to a single tubular bell strike, return fortississimo in B minor half-step up from B-flat minor at 69 BPM with all three soloists converging over full orchestra, no vocals, no singing, no electronic elements, no synthesizers, no drums, no bright major resolution",
+    "title": "The Architecture of Falling Light",
+    "lyrics": "[Solo Balafon - Cascading Wooden Fragments]\n\n[Tubular Bells Join - Cathedral Chimes Ringing]\n\n[Hardanger Fiddle and Full Strings - Dark Sympathetic Resonance]\n\n[Silence - Single Tubular Bell Strike]\n\n[Return in B Minor - Full Orchestra Converging]\n\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, vocals, singing",
+    "notes": "v186: Instrumental — first purely instrumental since v185 shift (no more default woman voice). Balafon (gap=61, West African wooden xylophone), tubular bells (gap=51, orchestral chimes), hardanger fiddle (gap=49, Norwegian folk fiddle with sympathetic strings). Three families: mallet percussion, bells, bowed strings. 69 BPM unused. Bb minor → B minor half-step up (Bb minor gap=128). Theme: light entering a cathedral — the geometry of morning through stained glass, each beam a separate instrument voice. The balafon = scattered light fragments, tubular bells = the architecture itself, hardanger fiddle = the shadow the light casts.",
+    "tags": [
+      "instrumental",
+      "dark orchestral",
+      "balafon",
+      "tubular bells",
+      "hardanger fiddle",
+      "cinematic",
+      "cathedral",
+      "dawn",
+      "sympathetic strings"
+    ],
+    "_file": "the-architecture-of-falling-light-v186.yaml",
+    "_slug": "the-architecture-of-falling-light-v186"
+  },
+  {
     "name": "the-voices-that-never-resolve",
     "version": 185,
     "style": "Dark drone polyphonic orchestral three-minute miniature for an austere cathedral scene, total duration around 3:00, with STEEL TONGUE DRUM, BASS FLUTE, and THEREMIN as featured soloists over a three-voice polyphonic texture where a sustained cello pedal drone anchors two independently moving upper vocal lines in raw unresolved dissonance, dark orchestral voices in sustained seconds and fourths against the drone breathing in and out without consonant resolution, purely instrumental, the steel tongue drum marking slow ritual pulse, the bass flute doubling the second voice in hollow breathy tones, the theremin shadowing the third voice in eerie wavering pitch at 57 BPM in A-flat major modulating to A major, drone alone from 0:00, upper voices entering at 0:25 in close dissonance, full strings at 1:00, peak density at 2:00, silence at 2:10, return stripped bare fortississimo half-step up at 2:15, no electronic effects, no synthesizers, no drums, no triadic resolution",
