@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-show-that-never-ended",
+    "version": 182,
+    "style": "Dark cabaret orchestral 2:30 to 3:30 film cue for a theatrical alienation scene, total duration around 3:00, with BANDONEON, BASS CLARINET, and GLOCKENSPIEL as featured soloists weaving through a sardonic Weimar-inflected groove over dark orchestral strings, powerful dark female mezzo-soprano delivering theatrical melodic lines with biting dissonance, the bandoneon wheezing dark chords beneath while the bass clarinet snakes above in minor-key arabesques and the glockenspiel strikes cold metallic accents like breaking glass, plucked double bass anchoring a lurching off-kilter rhythm at 67 BPM in B-flat minor modulating to B minor at the climax, cabaret trio alone from 0:00 to 0:45 then orchestral strings infiltrate at 0:50 building to full density at 1:30 before stripping to silence at 2:10, return with cabaret and orchestra locked in unison fortississimo half-step up, no electronic elements, no synthesizers, no drums beyond brushed snare, no bright major resolution, no pop structure",
+    "title": "The Show That Never Ended",
+    "lyrics": "[Bandoneon and Bass Clarinet - Sardonic and Lurching]\nThey sold the tickets to a show\nThat never had an end\nThe curtain rises every night\nOn wounds we can't defend\n\n[Glockenspiel Enters - Cold and Bright]\nThe audience applauds the grief\nThey call it entertainment\nThey watch the women on the stage\nPerform their own containment\n\n[Full Dark Orchestra Surges In]\nThe show that never ended\nPlays on through smoke and gin\nWe dance because the music plays\nNot because we want to spin\n\n[Silence - Four Seconds]\n\n[Return in B Minor - Cabaret and Orchestra Unite]\nThe show that never ended\nWill outlive every war\nBecause the stage is just the world\nAnd we are what they pay for\n\nTake a bow\nTake a bow\n\n[End]\n",
+    "instrumental": false,
+    "vocal_gender": "female",
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, upbeat",
+    "notes": "v182: WEIMAR CABARET × DARK ORCHESTRAL — first theatrical genre fusion in 182 versions (all prior fusions were electronic × orchestral). Bandoneon (NEVER USED, 0 prior), bass clarinet (NEVER USED, 0 prior), glockenspiel (gap=49). Research found that 1920s Berlin cabaret used sardonic small-ensemble texture (solo clarinet, accordion/bandoneon, plucked bass) to create theatrical alienation. Fused here with dark cinematic orchestral swells = the cabaret band as intimate sardonic foreground, orchestra as ironic commentary. 67 BPM unused. Bb minor → B minor half-step up (Bb minor gap=124). Theme: performance as survival, the stage as a metaphor for the masks we wear.",
+    "tags": [
+      "weimar cabaret",
+      "dark orchestral",
+      "bandoneon",
+      "bass clarinet",
+      "glockenspiel",
+      "theatrical",
+      "mezzo-soprano",
+      "cinematic",
+      "dissonant",
+      "noir"
+    ],
+    "_file": "the-show-that-never-ended-v182.yaml",
+    "_slug": "the-show-that-never-ended-v182"
+  },
+  {
     "name": "the-memory-that-watches-back",
     "version": 181,
     "style": "Dark cinematic orchestral three-minute miniature for a memory-haunt scene, total duration around 3:00, with KORA, WATERPHONE, and CONTRABASSOON as featured soloists over a bed of sul ponticello strings bowed near the bridge creating a glassy metallic harmonic haze, powerful dark female mezzo-soprano entering at 0:25 over the spectral string shimmer, the kora plucking ghostly arpeggios through the haze while the waterphone moans beneath and the contrabassoon anchors with low pedal growls, col legno battuto enters at 1:15 adding percussive dread as the texture thickens toward full density at 2:00, four seconds of silence at 2:10 strips everything bare, then full-bow strings return fortississimo in A minor half-step up from A-flat minor at 59 BPM with all three soloists converging for the final descent, no electronic elements, no synthesizers, no drums, no bright timbres, no resolution",

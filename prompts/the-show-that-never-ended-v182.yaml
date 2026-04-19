@@ -1,0 +1,40 @@
+name: "the-show-that-never-ended"
+version: 182
+style: "Dark cabaret orchestral 2:30 to 3:30 film cue for a theatrical alienation scene, total duration around 3:00, with BANDONEON, BASS CLARINET, and GLOCKENSPIEL as featured soloists weaving through a sardonic Weimar-inflected groove over dark orchestral strings, powerful dark female mezzo-soprano delivering theatrical melodic lines with biting dissonance, the bandoneon wheezing dark chords beneath while the bass clarinet snakes above in minor-key arabesques and the glockenspiel strikes cold metallic accents like breaking glass, plucked double bass anchoring a lurching off-kilter rhythm at 67 BPM in B-flat minor modulating to B minor at the climax, cabaret trio alone from 0:00 to 0:45 then orchestral strings infiltrate at 0:50 building to full density at 1:30 before stripping to silence at 2:10, return with cabaret and orchestra locked in unison fortississimo half-step up, no electronic elements, no synthesizers, no drums beyond brushed snare, no bright major resolution, no pop structure"
+title: "The Show That Never Ended"
+lyrics: |
+  [Bandoneon and Bass Clarinet - Sardonic and Lurching]
+  They sold the tickets to a show
+  That never had an end
+  The curtain rises every night
+  On wounds we can't defend
+
+  [Glockenspiel Enters - Cold and Bright]
+  The audience applauds the grief
+  They call it entertainment
+  They watch the women on the stage
+  Perform their own containment
+
+  [Full Dark Orchestra Surges In]
+  The show that never ended
+  Plays on through smoke and gin
+  We dance because the music plays
+  Not because we want to spin
+
+  [Silence - Four Seconds]
+
+  [Return in B Minor - Cabaret and Orchestra Unite]
+  The show that never ended
+  Will outlive every war
+  Because the stage is just the world
+  And we are what they pay for
+
+  Take a bow
+  Take a bow
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, gentle, lo-fi, happy, bright, rock, metal, upbeat"
+notes: "v182: WEIMAR CABARET × DARK ORCHESTRAL — first theatrical genre fusion in 182 versions (all prior fusions were electronic × orchestral). Bandoneon (NEVER USED, 0 prior), bass clarinet (NEVER USED, 0 prior), glockenspiel (gap=49). Research found that 1920s Berlin cabaret used sardonic small-ensemble texture (solo clarinet, accordion/bandoneon, plucked bass) to create theatrical alienation. Fused here with dark cinematic orchestral swells = the cabaret band as intimate sardonic foreground, orchestra as ironic commentary. 67 BPM unused. Bb minor → B minor half-step up (Bb minor gap=124). Theme: performance as survival, the stage as a metaphor for the masks we wear."
+tags: [weimar cabaret, dark orchestral, bandoneon, bass clarinet, glockenspiel, theatrical, mezzo-soprano, cinematic, dissonant, noir]
