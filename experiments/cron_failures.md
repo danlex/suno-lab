@@ -46,3 +46,10 @@ backlog: v143 (caccia), v144 (phase-process), v145 (romantic piano), v146 (trium
 step: submit
 yaml: prompts/built-from-broken-machines-v175.yaml
 reason: Create button clicked multiple times but workspace shows no generating songs. Possible credit exhaustion or Suno rate limit after 27 songs in this session. YAML saved, next session can retry.
+
+## 2026-04-19 17:30 — v192 failed at submit
+
+Reason: Chrome MCP extension disconnected during submission attempt
+State: v192 YAML drafted at prompts/the-dance-that-stopped-mid-phrase-v192.yaml, not submitted to Suno
+Action taken: Logged failure, will commit draft and push. Next cycle should reconnect and submit.
+Next cycle should: Open claude.ai to reconnect extension, then submit v192 before drafting v193

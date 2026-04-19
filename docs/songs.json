@@ -1,5 +1,30 @@
 [
   {
+    "name": "the-dance-that-stopped-mid-phrase",
+    "version": 192,
+    "style": "Dark jazz waltz three-minute miniature in haunted 3/4 meter for a noir ballroom scene, total duration around 3:00, with GLASS HARMONICA, TUBA, and MARIMBA as featured soloists over tremolo chamber strings and muted brass, natural intimate vocal performance floating above the ghostly waltz rotation like a haunting presence, the glass harmonica singing eerie sustained tones that hang in the air, the tuba anchoring the noir harmonic underworld with low dark roots, the marimba providing soft wooden pulse in the waltz rhythm at 75 BPM in C minor modulating to D-flat minor at the climax, muted brass and tuba establishing the waltz pulse at 0:00, voice entering like a ghost at 0:25, glass harmonica at 0:45, marimba at 1:00, full tremolo strings at 1:30, peak dissonance at 2:00, silence at 2:10, return half-step up for a final rotation that fades mid-phrase, no electronic elements, no drums, no bright timbres, no resolution, no cabaret",
+    "title": "The Dance That Stopped Mid-Phrase",
+    "lyrics": "[Muted Brass and Tuba - Waltz Pulse in the Dark]\nThere was a dance that stopped mid-phrase\nThe music still turning in the air\nA waltz for two that ended at one\nA hand still reaching for what wasn't there\n\n[Glass Harmonica Enters - Eerie and Sustained]\nThe chandelier still throws its light\nAcross the floor where no one moves\nThe shadows dance in perfect time\nTo music only absence proves\n\n[Full Tremolo Strings and Marimba - Ghostly Building]\nThe dance that stopped mid-phrase\nStill echoes in the walls\nEvery empty ballroom knows\nThe weight of what the silence calls\n\n[Silence - The Dance Stops]\nOne more turn\n\n[Return in D-flat Minor - Final Rotation Fading]\nThe dance that stopped mid-phrase\nWas not the last one played\nIt was the first one ever meant\nFor someone who had stayed\n\nWho stayed\nWho stayed\n\n[End]\n",
+    "instrumental": false,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, opera, cabaret, tango, bright, happy",
+    "notes": "v192: DARK JAZZ WALTZ (first waltz form + first dark jazz fusion). 3/4 meter noir atmosphere — muted brass + tremolo strings supply ghostly rotation while jazz underworld harmonics (tritones, minor ninths) prevent resolution. Glass harmonica (gap=51, ethereal spatial disorientation), tuba (gap=61, deepest brass), marimba (gap=54, warm wooden pulse). 75 BPM unused. C minor → Db minor half-step up. Daniela DAN voice. Theme: a dance that stops mid-phrase — the emptiness of a ballroom after the dancers leave, absence as presence.",
+    "tags": [
+      "vocal",
+      "daniela-dan-voice",
+      "dark jazz",
+      "waltz",
+      "noir",
+      "glass harmonica",
+      "tuba",
+      "marimba",
+      "cinematic",
+      "haunted",
+      "3/4"
+    ],
+    "_file": "the-dance-that-stopped-mid-phrase-v192.yaml",
+    "_slug": "the-dance-that-stopped-mid-phrase-v192"
+  },
+  {
     "name": "the-elegy-we-carry-forward",
     "version": 191,
     "style": "Dark Baroque tombeau three-minute miniature in the manner of a grave memorial elegy, total duration around 3:00, with NYCKELHARPA, CELESTA, and CORNET as featured soloists in an intimate chamber texture, style brise broken arpeggiated chords dissolving into silence, unmeasured rhythmic freedom where each phrase breathes like held grief, the nyckelharpa bowing slow ornamental lines with sympathetic string resonance beneath, the celesta striking crystalline notes that decay into empty air, the cornet singing warm muted legato phrases like a distant farewell at 51 BPM in E minor modulating to F minor at the climax, solo nyckelharpa in broken-chord style at 0:00, voice entering at 0:25 as if interrupting private grief, celesta at 0:50, cornet at 1:15, full chamber strings at 1:40, peak at 2:00 then dissolving to silence at 2:10, return half-step up stripped bare and unresolved, no electronic elements, no drums, no bright timbres, no resolution, no pop",
