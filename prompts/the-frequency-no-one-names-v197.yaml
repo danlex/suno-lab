@@ -1,0 +1,20 @@
+name: "the-frequency-no-one-names"
+version: 197
+style: "Dark cinematic orchestral three-minute miniature for an abandoned observatory scene, total duration around 3:00, purely instrumental with SINGING SAW, HARP, and FRENCH HORN as featured soloists over sustained dark strings, the singing saw producing eerie wavering sustained tones that bend between pitches like a voice from another dimension, the harp plucking delicate arpeggios that cascade downward like starlight falling, the French horn singing warm golden legato phrases that ground the ethereal texture in something human at 87 BPM in E minor modulating to F minor at the climax, solo singing saw establishing the otherworldly tone at 0:00, harp entering at 0:25 with cascading arpeggios, French horn at 0:50, full dark strings at 1:15, peak density at 2:00 where all three converge, silence at 2:10 with single singing saw bend, return fortississimo half-step up at 2:15, no vocals, no singing, no electronic elements, no synthesizers, no drums"
+title: "The Frequency No One Names"
+lyrics: |
+  [Solo Singing Saw - Eerie Wavering Tones]
+
+  [Harp Enters - Cascading Starlight Arpeggios]
+
+  [French Horn and Full Dark Strings - Warm and Grounding]
+
+  [Silence - Single Singing Saw Bend]
+
+  [Return in F Minor - Full Orchestra Fortississimo]
+
+  [End]
+instrumental: true
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, vocals, singing, new age, ambient pads"
+notes: "v197: SINGING SAW first use — a bowed hand saw that produces eerie wavering sustained tones bending between pitches. Creates an otherworldly, almost vocal quality without actual vocals. Harp (gap=50, crystalline cascades), French horn (gap=51, warm golden sustain). 87 BPM unused. E minor → F minor half-step up. Theme: a frequency that exists but has no name — the sound between the notes, the resonance of empty space."
+tags: [instrumental, dark orchestral, singing saw, harp, french horn, cinematic, otherworldly, observatory, ethereal]

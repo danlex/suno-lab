@@ -1,6 +1,6 @@
 {
-  "total_prompts": 196,
-  "latest_version": 196,
+  "total_prompts": 197,
+  "latest_version": 197,
   "instruments": {
     "organ": [
       1,
@@ -716,6 +716,9 @@
     ],
     "sarangi": [
       190
+    ],
+    "singing saw": [
+      197
     ]
   },
   "genres": {
@@ -849,7 +852,8 @@
       193,
       194,
       195,
-      196
+      196,
+      197
     ],
     "neoclassical": [
       1,
@@ -886,7 +890,9 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187
     ],
     "chamber": [
@@ -896,10 +902,6 @@
     "concerto": [
       145,
       149
-    ],
-    "symphonic": [
-      162,
-      178
     ],
     "2-step garage": [
       100
@@ -1005,7 +1007,8 @@
       139,
       151,
       183,
-      191
+      191,
+      197
     ],
     "f minor": [
       12,
@@ -1298,6 +1301,9 @@
     "86": [
       128
     ],
+    "87": [
+      197
+    ],
     "88": [
       63,
       148
@@ -1443,6 +1449,17 @@
     ]
   },
   "titles": [
+    {
+      "version": 197,
+      "title": "The Frequency No One Names",
+      "name": "the-frequency-no-one-names",
+      "featured": [
+        "singing saw"
+      ],
+      "genre": "orchestral",
+      "key": "e minor",
+      "bpm": 87
+    },
     {
       "version": 196,
       "title": "The Weight of Every Shadow",
@@ -1644,7 +1661,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -1788,7 +1805,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
