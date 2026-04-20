@@ -40,12 +40,31 @@ def load_prompts():
     return songs
 
 
+def slim_song(s):
+    """Strip heavy fields for the web JSON — keep only what the UI needs."""
+    notes = s.get("notes", "") or ""
+    # Truncate notes to first 200 chars for the web — full text stays in YAML
+    if len(notes) > 200:
+        notes = notes[:200] + "..."
+    return {
+        "v": s.get("version"),
+        "n": s.get("name", ""),
+        "t": s.get("title", ""),
+        "s": s.get("style", ""),
+        "g": s.get("tags", []),
+        "i": 1 if s.get("instrumental") else 0,
+        "o": notes,
+        "f": s.get("_file", ""),
+    }
+
+
 def main():
     songs = load_prompts()
-    # Write JSON data file
+    # Write slim JSON (no lyrics, no vocal_gender, no _slug — ~60% smaller)
+    slim = [slim_song(s) for s in songs]
     out_json = DOCS_DIR / "songs.json"
     with open(out_json, "w", encoding="utf-8") as f:
-        json.dump(songs, f, ensure_ascii=False, indent=2)
+        json.dump(slim, f, ensure_ascii=False, separators=(",", ":"))
     print(f"wrote {out_json} ({len(songs)} songs)")
 
     # Write index.html
@@ -61,8 +80,8 @@ INDEX_HTML_TEMPLATE = r"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Suno Music Prompt Laboratory — 126+ Cinematic Orchestral Experiments</title>
-<meta name="description" content="Searchable archive of 126+ iterative Suno AI prompts for cinematic, orchestral, and experimental music. Explores 16 architectural forms (bolero, passacaglia, fugue, canon, sonata, concerto grosso, micropolyphony, ricercare, passamezzo, theme-and-variations, rondo, arch, dissolution, and more) with embedded Suno v5.5 players, engineering notes, and structured metadata.">
+<title>Suno Music Prompt Laboratory — 196+ Cinematic Orchestral Experiments</title>
+<meta name="description" content="Searchable archive of 196+ iterative Suno AI prompts for cinematic, orchestral, and experimental music. Explores 30+ architectural forms and genre fusions with engineering notes and structured metadata.">
 <meta name="keywords" content="Suno AI, prompt engineering, cinematic music, orchestral music, AI music generation, film score, neoclassical, ambient, micropolyphony, passacaglia, fugue, canon, sonata, concerto grosso, theme and variations, Suno v5.5">
 <meta name="author" content="Alexandru DAN">
 <meta name="robots" content="index, follow, max-image-preview:large">
@@ -144,6 +163,8 @@ INDEX_HTML_TEMPLATE = r"""<!doctype html>
   .section-label { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; margin-top: 14px; margin-bottom: 4px; }
   .notes { color: #9a9ab0; font-size: 0.85rem; line-height: 1.5; font-style: italic; }
   .instrumental-badge { display: inline-block; padding: 1px 8px; background: #1a3a2a; color: #7fd9a0; font-size: 0.7rem; border-radius: 999px; margin-left: 6px; }
+  .style-preview { color: #c0c0d4; font-size: 0.88rem; line-height: 1.5; cursor: pointer; }
+  .style-preview:hover { color: var(--accent-2); }
   details summary { cursor: pointer; color: var(--accent-2); font-size: 0.82rem; margin-top: 6px; user-select: none; }
   details summary:hover { color: var(--accent); }
   details[open] summary { margin-bottom: 6px; }
@@ -203,28 +224,31 @@ function escapeHtml(s) {
 }
 
 function renderSong(s) {
-  const tags = (s.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('');
-  const instrumental = s.instrumental ? '<span class="instrumental-badge">instrumental</span>' : '';
-  const exclude = s.exclude_styles ? `<div class="section-label">Exclude</div><div class="notes">${escapeHtml(s.exclude_styles)}</div>` : '';
-  const notes = s.notes ? `<details><summary>Notes</summary><div class="notes">${escapeHtml(s.notes)}</div></details>` : '';
-  const title = s.title || s.name || '';
+  const tags = (s.g || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('');
+  const instrumental = s.i ? '<span class="instrumental-badge">instrumental</span>' : '';
+  const notes = s.o ? `<details><summary>Notes</summary><div class="notes">${escapeHtml(s.o)}</div></details>` : '';
+  const title = s.t || s.n || '';
   const ids = SUNO_URLS[title] || [];
   const players = ids.map(id =>
     `<iframe src="https://suno.com/embed/${id}" width="100%" height="120" frameborder="0" allow="autoplay" loading="lazy" style="border-radius:10px;margin-top:8px;"></iframe>`
   ).join('');
   const playerSection = players ? `<div class="section-label">Listen</div>${players}` : '';
+  const styleText = escapeHtml(s.s || '');
+  const stylePreview = styleText.length > 150 ? styleText.slice(0, 150) + '...' : styleText;
+  const styleSection = styleText.length > 150
+    ? `<details><summary class="style-preview">${stylePreview}</summary><div class="style-block">${styleText}</div></details>`
+    : `<div class="style-block">${styleText}</div>`;
   return `
-    <article class="song" data-search="${escapeHtml((s.title||'') + ' ' + (s.name||'') + ' ' + (s.style||'') + ' ' + (s.tags||[]).join(' ') + ' ' + (s.notes||''))}">
+    <article class="song">
       <div class="song-head">
-        <span class="version">v${escapeHtml(s.version)}</span>
-        <h2 class="title">${escapeHtml(s.title || s.name || '(untitled)')}${instrumental}</h2>
-        <span class="name-slug">${escapeHtml(s._file || '')}</span>
+        <span class="version">v${escapeHtml(s.v)}</span>
+        <h2 class="title">${escapeHtml(title || '(untitled)')}${instrumental}</h2>
+        <span class="name-slug">${escapeHtml(s.f || '')}</span>
       </div>
       ${playerSection}
       <div class="tags">${tags}</div>
       <div class="section-label">Style</div>
-      <div class="style-block">${escapeHtml(s.style || '')}</div>
-      ${exclude}
+      ${styleSection}
       ${notes}
     </article>
   `;
@@ -280,20 +304,30 @@ async function load() {
   ALL = await r.json();
   if (u.ok) SUNO_URLS = await u.json();
   countEl.textContent = ALL.length;
-  const maxV = ALL.reduce((m, s) => Math.max(m, s.version || 0), 0);
+  const maxV = ALL.reduce((m, s) => Math.max(m, s.v || 0), 0);
   latestEl.textContent = 'v' + maxV;
+  buildIndex();
   setList(ALL);
 }
 
+let searchTimer;
+// Pre-build search index once on load for faster filtering
+let SEARCH_INDEX = [];
+function buildIndex() {
+  SEARCH_INDEX = ALL.map(s => ({
+    s,
+    hay: ((s.t||'') + ' ' + (s.n||'') + ' ' + (s.s||'') + ' ' + (s.g||[]).join(' ') + ' ' + (s.o||'')).toLowerCase()
+  }));
+}
 searchEl.addEventListener('input', () => {
-  const q = searchEl.value.toLowerCase().trim();
-  if (!q) { setList(ALL); return; }
-  const terms = q.split(/\s+/);
-  const filtered = ALL.filter(s => {
-    const hay = ((s.title||'') + ' ' + (s.name||'') + ' ' + (s.style||'') + ' ' + (s.tags||[]).join(' ') + ' ' + (s.notes||'')).toLowerCase();
-    return terms.every(t => hay.includes(t));
-  });
-  setList(filtered);
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    const q = searchEl.value.toLowerCase().trim();
+    if (!q) { setList(ALL); return; }
+    const terms = q.split(/\s+/);
+    const filtered = SEARCH_INDEX.filter(e => terms.every(t => e.hay.includes(t))).map(e => e.s);
+    setList(filtered);
+  }, 200);
 });
 
 load();
