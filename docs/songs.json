@@ -1,5 +1,28 @@
 [
   {
+    "name": "the-sound-that-iron-remembers",
+    "version": 194,
+    "style": "Dark experimental orchestral three-minute miniature for a frozen-forge scene, total duration around 3:00, purely instrumental with NAIL VIOLIN, SUBCONTRABASS SAXOPHONE, and CRISTAL BASCHET as featured soloists over dark sustained strings, the nail violin bowed across iron nails creating a glassy metallic wail, the subcontrabass saxophone breathing deep bass tones, the cristal baschet ringing wet glass harmonics that shimmer at 79 BPM in F-sharp minor modulating to G minor at the climax, solo nail violin establishing the eerie metallic sustain at 0:00, subcontrabass saxophone entering at 0:25 with deep bass undercurrent, cristal baschet at 0:50 adding glass shimmer, full dark strings at 1:15, peak density at 2:00 where all three friction instruments converge, silence at 2:10 with single nail violin tone, return fortississimo half-step up at 2:15, no vocals, no singing, no electronic elements, no synthesizers, no drums, no bright timbres",
+    "title": "The Sound That Iron Remembers",
+    "lyrics": "[Solo Nail Violin - Glassy Metallic Wail]\n\n[Subcontrabass Saxophone Enters - Earth Exhaling]\n\n[Cristal Baschet and Full Dark Strings - Glass and Metal Converging]\n\n[Silence - Single Nail Violin Tone]\n\n[Return in G Minor - Full Orchestra Fortississimo]\n\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, vocals, singing, folk, new age, ambient pads",
+    "notes": "v194: NAIL VIOLIN first use — 1740s friction idiophone, iron nails bowed with horsehair creating sustained glassy metallic wail. Subcontrabass saxophone (gap=53, deepest woodwind), cristal baschet (gap=50, glass friction rods). All three produce sustained tones through friction/breath — three completely different mechanisms creating otherworldly sustains. 79 BPM unused. F# minor → G minor half-step up. Theme: the memory stored in metal — what iron remembers from the forge, the blacksmith's hammer, the anvil.",
+    "tags": [
+      "instrumental",
+      "dark orchestral",
+      "nail violin",
+      "subcontrabass saxophone",
+      "cristal baschet",
+      "experimental",
+      "metallic",
+      "friction",
+      "otherworldly"
+    ],
+    "_file": "the-sound-that-iron-remembers-v194.yaml",
+    "_slug": "the-sound-that-iron-remembers-v194"
+  },
+  {
     "name": "the-geometry-of-rain",
     "version": 193,
     "style": "Dark cinematic orchestral three-minute miniature for a rain-on-glass scene, total duration around 3:00, purely instrumental with TRUMPET, MBIRA, and BOWED VIBRAPHONE as featured soloists over dark sustained strings and low brass, the trumpet playing muted legato phrases like distant signals through fog, the mbira plucking rapid metallic patterns that mimic rainfall on tin roofs, the bowed vibraphone sustaining long shimmering metallic tones that bloom and decay like light through wet glass at 77 BPM in A minor modulating to B-flat minor at the climax, solo mbira establishing the rain pattern at 0:00, muted trumpet entering at 0:25, bowed vibraphone at 0:50, full dark strings and low brass at 1:15, dense rainfall texture at 2:00, silence at 2:10 with single mbira note, return fortississimo half-step up at 2:15 with all three over full orchestra, no vocals, no singing, no electronic elements, no synthesizers, no drums, no bright major resolution",
