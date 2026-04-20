@@ -1,0 +1,20 @@
+name: "the-dance-that-would-not-stop"
+version: 195
+style: "Dark orchestral tarantella three-minute miniature in frenzied 6/8 compound meter, total duration around 3:00, purely instrumental with PICCOLO, BASS TROMBONE, and VIBRAPHONE as featured soloists over driving strings and brass, the piccolo shrieking the relentless da-da-da tarantella pattern high above, the bass trombone growling dark accents beneath like the earth cracking open, the vibraphone striking rapid metallic runs that shimmer and cascade at 81 BPM accelerating through the piece in D minor alternating with D major modulating to E-flat minor at the climax, solo piccolo establishing the 6/8 kick at 0:00, bass trombone entering at 0:20, vibraphone at 0:45, full driving strings at 1:00, accelerating density layering waves of brass and woodwinds, peak frenzy at 2:00, drop to near-silence at 2:05 with only frame drum pulse, return fortississimo half-step up in major mode for accelerating coda, no vocals, no singing, no electronic elements, no synthesizers"
+title: "The Dance That Would Not Stop"
+lyrics: |
+  [Solo Piccolo - Frenzied 6/8 Kick Pattern]
+
+  [Bass Trombone Enters - Dark Earth Cracking]
+
+  [Vibraphone and Driving Strings - Accelerating Frenzy]
+
+  [Silence - Frame Drum Pulse Only]
+
+  [Return in E-flat Minor - Accelerating Coda Fortississimo]
+
+  [End]
+instrumental: true
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, vocals, singing, folk, new age"
+notes: "v195: TARANTELLA form (first use) — Southern Italian frenzied 6/8 dance with relentlessly accelerating pulse and alternating major/minor tonality. Piccolo (gap=51, highest woodwind for piercing frenzy), bass trombone (gap=57, deepest brass for dark grounding), vibraphone (gap=52, metallic cascade). 81 BPM unused — starts here and accelerates. D minor/major → Eb minor half-step up. Theme: a dance that cannot stop — the irresistible pull of rhythm itself, the body moving before the mind gives permission."
+tags: [instrumental, dark orchestral, tarantella, piccolo, bass trombone, vibraphone, 6/8, frenzied, accelerating, dance]

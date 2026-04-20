@@ -1,5 +1,29 @@
 [
   {
+    "name": "the-dance-that-would-not-stop",
+    "version": 195,
+    "style": "Dark orchestral tarantella three-minute miniature in frenzied 6/8 compound meter, total duration around 3:00, purely instrumental with PICCOLO, BASS TROMBONE, and VIBRAPHONE as featured soloists over driving strings and brass, the piccolo shrieking the relentless da-da-da tarantella pattern high above, the bass trombone growling dark accents beneath like the earth cracking open, the vibraphone striking rapid metallic runs that shimmer and cascade at 81 BPM accelerating through the piece in D minor alternating with D major modulating to E-flat minor at the climax, solo piccolo establishing the 6/8 kick at 0:00, bass trombone entering at 0:20, vibraphone at 0:45, full driving strings at 1:00, accelerating density layering waves of brass and woodwinds, peak frenzy at 2:00, drop to near-silence at 2:05 with only frame drum pulse, return fortississimo half-step up in major mode for accelerating coda, no vocals, no singing, no electronic elements, no synthesizers",
+    "title": "The Dance That Would Not Stop",
+    "lyrics": "[Solo Piccolo - Frenzied 6/8 Kick Pattern]\n\n[Bass Trombone Enters - Dark Earth Cracking]\n\n[Vibraphone and Driving Strings - Accelerating Frenzy]\n\n[Silence - Frame Drum Pulse Only]\n\n[Return in E-flat Minor - Accelerating Coda Fortississimo]\n\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, vocals, singing, folk, new age",
+    "notes": "v195: TARANTELLA form (first use) — Southern Italian frenzied 6/8 dance with relentlessly accelerating pulse and alternating major/minor tonality. Piccolo (gap=51, highest woodwind for piercing frenzy), bass trombone (gap=57, deepest brass for dark grounding), vibraphone (gap=52, metallic cascade). 81 BPM unused — starts here and accelerates. D minor/major → Eb minor half-step up. Theme: a dance that cannot stop — the irresistible pull of rhythm itself, the body moving before the mind gives permission.",
+    "tags": [
+      "instrumental",
+      "dark orchestral",
+      "tarantella",
+      "piccolo",
+      "bass trombone",
+      "vibraphone",
+      "6/8",
+      "frenzied",
+      "accelerating",
+      "dance"
+    ],
+    "_file": "the-dance-that-would-not-stop-v195.yaml",
+    "_slug": "the-dance-that-would-not-stop-v195"
+  },
+  {
     "name": "the-sound-that-iron-remembers",
     "version": 194,
     "style": "Dark experimental orchestral three-minute miniature for a frozen-forge scene, total duration around 3:00, purely instrumental with NAIL VIOLIN, SUBCONTRABASS SAXOPHONE, and CRISTAL BASCHET as featured soloists over dark sustained strings, the nail violin bowed across iron nails creating a glassy metallic wail, the subcontrabass saxophone breathing deep bass tones, the cristal baschet ringing wet glass harmonics that shimmer at 79 BPM in F-sharp minor modulating to G minor at the climax, solo nail violin establishing the eerie metallic sustain at 0:00, subcontrabass saxophone entering at 0:25 with deep bass undercurrent, cristal baschet at 0:50 adding glass shimmer, full dark strings at 1:15, peak density at 2:00 where all three friction instruments converge, silence at 2:10 with single nail violin tone, return fortississimo half-step up at 2:15, no vocals, no singing, no electronic elements, no synthesizers, no drums, no bright timbres",
