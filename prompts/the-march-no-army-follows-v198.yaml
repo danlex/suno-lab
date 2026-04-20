@@ -1,0 +1,20 @@
+name: "the-march-no-army-follows"
+version: 198
+style: "Dark cinematic orchestral march three-minute miniature in heavy 4/4 for a ghostly procession scene, total duration around 3:00, purely instrumental with TROMBONE, OBOE, and CONTRABASS as featured soloists over full dark orchestra with timpani accents, the trombone declaiming heavy dark fanfare phrases that echo and decay, the oboe threading a lonely searching melody above the march like a widow walking behind a coffin, the contrabass driving the relentless heavy march pulse with pizzicato and bowed alternation at 89 BPM in G minor modulating to A-flat minor at the climax, timpani and contrabass establishing the heavy march at 0:00, trombone fanfare entering at 0:20, oboe melody at 0:45, full dark brass and strings at 1:15, layered march density building at 2:00, silence at 2:10 where the march stops mid-step, return fortississimo half-step up at 2:15, no vocals, no singing, no electronic elements, no synthesizers, no bright timbres"
+title: "The March No Army Follows"
+lyrics: |
+  [Timpani and Contrabass - Heavy March Pulse]
+
+  [Trombone Fanfare - Dark and Echoing]
+
+  [Oboe Melody Above - Lonely and Searching]
+
+  [Silence - March Stops Mid-Step]
+
+  [Return in A-flat Minor - Full Orchestra March Fortississimo]
+
+  [End]
+instrumental: true
+exclude_styles: "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock, metal, vocals, singing, new age, folk, military march"
+notes: "v198: Dark orchestral march — heavy 4/4 processional. Trombone (gap=59), oboe (gap=51), contrabass (gap=56). 89 BPM unused. G minor → Ab minor half-step up. Theme: a march for a procession no army follows — a funeral march that has outlived the dead, the rhythm itself as a kind of grief that keeps walking. The oboe melody is the human presence; the trombone is the ceremony; the contrabass is the ground that receives them all."
+tags: [instrumental, dark orchestral, march, trombone, oboe, contrabass, cinematic, processional, heavy, timpani]
