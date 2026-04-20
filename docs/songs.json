@@ -1,5 +1,28 @@
 [
   {
+    "name": "the-weight-of-every-shadow",
+    "version": 196,
+    "style": "Dark post-rock orchestral three-minute miniature for a slow-motion collapse scene, total duration around 3:00, purely instrumental with TENOR SAXOPHONE, MELLOTRON, and CONTRABASS CLARINET as featured soloists over layered dark strings building in waves, the tenor saxophone playing slow searching phrases that bend and sustain like smoke unfurling, the mellotron adding vintage analog string and choir textures that wash in and out like breath, the contrabass clarinet anchoring with impossibly low woody growls at 83 BPM in C minor modulating to D-flat minor at the climax, solo tenor saxophone alone at 0:00 establishing the searching mood, mellotron fading in at 0:30 with analog warmth, contrabass clarinet at 1:00, post-rock crescendo strings building in layered waves from 1:15 to peak density at 2:00, drop to silence at 2:10 with single saxophone note, return fortississimo half-step up with full orchestra, no vocals, no singing, no electronic effects, no drums, no bright timbres",
+    "title": "The Weight of Every Shadow",
+    "lyrics": "[Solo Tenor Saxophone - Searching and Smoky]\n\n[Mellotron Fades In - Vintage Analog Warmth]\n\n[Contrabass Clarinet and Post-Rock Strings - Building in Waves]\n\n[Silence - Single Saxophone Note]\n\n[Return in D-flat Minor - Full Orchestra Fortississimo]\n\n[End]\n",
+    "instrumental": true,
+    "exclude_styles": "electronic, hip hop, rap, EDM, pop, country, lo-fi, rock guitars, metal, vocals, singing, new age, ambient pads",
+    "notes": "v196: Post-rock orchestral — layered crescendo strings building in waves (post-rock structural approach applied to pure orchestra). Tenor saxophone (gap=53, jazz noir), mellotron (gap=53, vintage analog textures), contrabass clarinet (gap=54, lowest woodwind). 83 BPM unused. C minor → Db minor half-step up. Theme: the accumulation of small darknesses — how shadows layer and compound until they have physical weight.",
+    "tags": [
+      "instrumental",
+      "post-rock",
+      "orchestral",
+      "tenor saxophone",
+      "mellotron",
+      "contrabass clarinet",
+      "dark",
+      "layered",
+      "cinematic"
+    ],
+    "_file": "the-weight-of-every-shadow-v196.yaml",
+    "_slug": "the-weight-of-every-shadow-v196"
+  },
+  {
     "name": "the-dance-that-would-not-stop",
     "version": 195,
     "style": "Dark orchestral tarantella three-minute miniature in frenzied 6/8 compound meter, total duration around 3:00, purely instrumental with PICCOLO, BASS TROMBONE, and VIBRAPHONE as featured soloists over driving strings and brass, the piccolo shrieking the relentless da-da-da tarantella pattern high above, the bass trombone growling dark accents beneath like the earth cracking open, the vibraphone striking rapid metallic runs that shimmer and cascade at 81 BPM accelerating through the piece in D minor alternating with D major modulating to E-flat minor at the climax, solo piccolo establishing the 6/8 kick at 0:00, bass trombone entering at 0:20, vibraphone at 0:45, full driving strings at 1:00, accelerating density layering waves of brass and woodwinds, peak frenzy at 2:00, drop to near-silence at 2:05 with only frame drum pulse, return fortississimo half-step up in major mode for accelerating coda, no vocals, no singing, no electronic elements, no synthesizers",

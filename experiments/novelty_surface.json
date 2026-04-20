@@ -1,6 +1,6 @@
 {
-  "total_prompts": 195,
-  "latest_version": 195,
+  "total_prompts": 196,
+  "latest_version": 196,
   "instruments": {
     "organ": [
       1,
@@ -535,6 +535,12 @@
       134,
       179
     ],
+    "tenor saxophone": [
+      107,
+      123,
+      143,
+      196
+    ],
     "trombone": [
       102,
       121,
@@ -655,11 +661,6 @@
       95,
       96,
       164
-    ],
-    "tenor saxophone": [
-      107,
-      123,
-      143
     ],
     "theremin": [
       101,
@@ -847,7 +848,8 @@
       190,
       193,
       194,
-      195
+      195,
+      196
     ],
     "neoclassical": [
       1,
@@ -958,6 +960,22 @@
       148,
       195
     ],
+    "c minor": [
+      15,
+      16,
+      50,
+      55,
+      57,
+      71,
+      74,
+      82,
+      84,
+      100,
+      104,
+      149,
+      192,
+      196
+    ],
     "d major": [
       27,
       29,
@@ -973,21 +991,6 @@
       49,
       64,
       187
-    ],
-    "c minor": [
-      15,
-      16,
-      50,
-      55,
-      57,
-      71,
-      74,
-      82,
-      84,
-      100,
-      104,
-      149,
-      192
     ],
     "e minor": [
       11,
@@ -1283,6 +1286,9 @@
     "82": [
       129
     ],
+    "83": [
+      196
+    ],
     "84": [
       115
     ],
@@ -1437,6 +1443,17 @@
     ]
   },
   "titles": [
+    {
+      "version": 196,
+      "title": "The Weight of Every Shadow",
+      "name": "the-weight-of-every-shadow",
+      "featured": [
+        "tenor saxophone"
+      ],
+      "genre": "orchestral",
+      "key": "c minor",
+      "bpm": 83
+    },
     {
       "version": 195,
       "title": "The Dance That Would Not Stop",
