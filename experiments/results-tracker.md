@@ -4,6 +4,29 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-05-19 — v210 cycle (neo-soul orchestral fusion — best score of run)
+
+**Submitted:** v210 "A Light the Room Still Holds" (instrumental; hurdy gurdy + celesta + contrabass clarinet) — clips `4810bf66-b46a-4840-abc7-ceda42f143a9`, `a76edf32-e307-499f-b015-5870a8954bc9`
+
+**What was tried:**
+- One meaningful change from v209: a new GENRE-FUSION axis — **neo-soul orchestral fusion**. Extended jazz harmony (suspended 9ths/11ths/13ths) on a slow-burning sighing groove, orchestra sinking INTO the groove (no march/fanfare); "warmth that aches." Continues the beauty-first direction with a different mechanism than v209's collapse-to-solo.
+- Unusual deep-revival trio reframed to fit the warmth: hurdy gurdy as the slow-burn neo-soul VAMP (not medieval pastiche), celesta as the jazz-extension shimmer, contrabass clarinet as warm reed bass.
+- Key D-sharp minor → E minor (half-step UP at the ~1:50 swell — embers brightening before fading, not a triumph). 101 BPM. Scene: a light the room still holds (warm intimacy after everyone has gone). The orchestrator deliberately discarded novelty's "frozen cathedral" scene as tonally clashing with the neo-soul warmth — merged coherently instead.
+
+**Why:**
+- Synthesis era covered electronic genres only; neo-soul (jazz-extended-harmony groove) was an untouched fusion axis. Continues the corrected emotional/varied-axis mandate (no return to form-as-engine).
+
+**What we learned:**
+- **Judge 100/100 in 1 iteration — the best score in the v207–v210 run.** Concrete evidence the beauty-first / emotional-axis redirect outperforms the academic form-as-engine pieces (97–98). Validates the orchestrator's quality-gate intervention at v209.
+- Drafter race recurred: it sent a comprehensive "done" report, lead dispatched judge, THEN drafter sent the literal "FINAL" with a small exclude_styles edit. Firm rule now: dispatch judge ONLY on the message containing the literal "FINAL" token, never on the first comprehensive-looking report. Judge re-read fresh; exclude_styles additions preserved; no corruption.
+- Submitter scope narrowed to submit+report-clips only worked cleanly (no log race, no incomplete commit); lead owns the full close-out — see [[feedback_submitter_owns_no_logs]].
+
+**Harness additions this cycle:** sequenced pipeline finalized — submitter = submit+report only; lead = logs+build+commit+push; judge dispatched only on literal "FINAL".
+
+**Open:** v211 inputs not yet fetched (held until v210 confirmed submitted — now done). Continue emotional/varied-axis; consider the electronic+orchestra synthesis-fusion direction next for energy contrast.
+
+---
+
 ## 2026-05-19 — v209 cycle (orchestral collapse-to-solo — beauty-first course-correction)
 
 **Submitted:** v209 "What the Spring Forgets" (instrumental, late-Romantic; viola da gamba + glockenspiel + theremin) — clips `1b602245-6a32-4db4-a3a0-214583f0f8c4`, `bffa20b4-ab69-4996-a842-3459bb98116b`

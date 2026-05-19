@@ -1,0 +1,66 @@
+name: "a-light-the-room-still-holds"
+version: 210
+style: "NEO-SOUL ORCHESTRAL FUSION at last embers after everyone has gone, total duration around 3:00. HURDY GURDY + CELESTA + CONTRABASS CLARINET open a slow-burn vamp in D-sharp minor at 101 BPM: hurdy gurdy sustains a warm droning groove, its reedy tone wrapping the harmony like smoke from dying coals; celesta dapples jazz-extension shimmer, ninths glinting; contrabass clarinet breathes the bass below, round as the last heat of the room. At 0:25 strings and muted brass sink into the groove. At 1:00 the harmonic swell builds, strings thickening, the ache deepening. At 1:50 the harmony lifts to E minor — soft and inevitable — the full orchestra blooms, embers briefly orange before they fade. At 2:10 silence four seconds. At 2:15 hurdy gurdy alone restates the vamp, celesta and contrabass clarinet returning, the orchestra dissolving to a final breath. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers. Underscore for embers."
+title: "A Light the Room Still Holds"
+lyrics: |
+  [Short Instrumental Intro — hurdy gurdy vamp alone, D-sharp minor]
+
+  [Celesta Jazz Shimmer Enters — ninths glinting above]
+
+  [Contrabass Clarinet Bass Line — round warmth beneath]
+
+  [Strings and Muted Brass Sink In — groove deepens]
+
+  [Harmonic Swell — strings thicken, ache builds]
+
+  [Harmony Lifts — E minor, full orchestra blooms]
+
+  [Silence]
+
+  [Hurdy Gurdy Alone — vamp restated, celesta and bass return]
+
+  [Orchestra Dissolves — final breath]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, hip-hop, trap, drum machine, funk, disco, jazz fusion, medieval drone, R&B vocals, rap, gospel choir, smooth jazz"
+notes: |
+  v210 introduces NEO-SOUL ORCHESTRAL FUSION as the genre frame — a deliberate synthesis of neo-soul's harmonic vocabulary (extended chord colors, slow-burn groove, jazz-inflected shimmer, emotional warmth) with a full late-Romantic orchestral string and brass body. The distinguishing feature is that the orchestra does not lift the neo-soul material upward into cinematic grandeur: instead, it sinks into the groove, adding weight and ache without changing the genre's essential warmth and restraint. The harmonic swell at 1:00 builds through Romantic string-writing, but the underlying vamp never becomes a march or a fanfare — it stays slow-burn and intimate throughout.
+
+  The emotional register is deliberately the opposite of v209's "orchestral collapse" grief: v210 is warm, aching, and present rather than bereft. The scene — last embers after everyone has gone — is about the warmth that lingers after departure, not the cold that follows. The half-step modulation upward (D-sharp minor → E minor at 1:50) reads as the embers briefly brightening before fading, not as a triumph.
+
+  Composer-omission confession: neo-soul harmonic practice draws on a tradition of soul, jazz, and R&B songwriters and arrangers this catalog cannot name per blocklist rules.
+
+  Duration strategy: tonal (D-sharp minor modulating a half-step UP to E minor at the harmonic swell, ~1:50 — upward brightening as the embers briefly glow, then silence, then return in E minor) + pulse-based (101 BPM, moderato groove, not previously used in catalog) + 3-minute framing per v137+ override. The silence at 2:10 and solo restatement at 2:15 echo the catalog's established silence-before-return device, but in a neo-soul register rather than a cinematic one.
+
+  Featured trio:
+  - HURDY GURDY: mechanically bowed string instrument with continuous drone strings; provides the slow-burn vamp foundation, its reedy, warm, slightly gritty tone anchoring the neo-soul harmonic color throughout; opens and closes the piece alone.
+  - CELESTA: keyboard instrument with struck metal plates producing a soft, luminous tone; supplies jazz-extension shimmer (ninths, thirteenths) above the vamp — the harmonic sophistication that places the piece in neo-soul territory rather than Romantic.
+  - CONTRABASS CLARINET: the lowest member of the clarinet family; breathes the bass line with round, warm, wood-reed resonance, an ideal neo-soul bass voice — deep without being percussive, present without being intrusive.
+
+  Scene anchor: last embers after everyone has gone — the room still warm, the gathering over, the ache of lingering presence; the hurdy gurdy vamp as the heat, the celesta shimmer as the last light playing on surfaces, the contrabass clarinet as the low sound of the room settling.
+
+  Novelty claims: first NEO-SOUL ORCHESTRAL FUSION prompt in catalog; 101 BPM not previously used; D-sharp minor to E minor modulation is new; last-embers-after-everyone-has-gone scene is new; hurdy gurdy + celesta + contrabass clarinet trio is new.
+
+  One meaningful change from v209: v209 used orchestral collapse — maximum density stripped to one bereft voice — as the climactic structure, with an inverse (downward) half-step modulation encoding loss. v210 inverts the emotional register: the structure stays present and warm throughout, the modulation goes upward (brightening not darkening), and the return after silence is a gentle restoration rather than a bereft survivor. Genre shifts from late-Romantic grief-register to neo-soul warmth-register.
+
+  Style char count: 948.
+tags:
+  - neo-soul-orchestral-fusion
+  - hurdy-gurdy
+  - celesta
+  - contrabass-clarinet
+  - 101bpm
+  - d-sharp-minor
+  - e-minor
+  - last-embers-after-everyone-has-gone-scene
+  - half-step-up-modulation
+  - slow-burn-vamp
+  - jazz-extension-shimmer
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - warm-register
+  - groove-plus-orchestra
