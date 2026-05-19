@@ -35,6 +35,26 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+
+## 2026-05-19 — Hourly cycle v207 (asymmetric 7-beat pulse era)
+
+**Submitted:** v207 "Where the Bell Finally Lands"
+**Clip UUIDs:** 69aeb0a4-673c-459e-aa69-69938d911b29, 30327539-82cc-41dc-817d-70445f6e7240
+**Durations:** 1:18 + 2:34
+**Judge score:** 97/100
+
+**New technique (v207):** ASYMMETRIC 7-BEAT PULSE as structural drama engine — a 3+4 grouping that withholds beat-1 arrival for nearly two minutes, delivering it fused with a half-step key modulation (C-sharp minor → D minor) as simultaneous tonal and rhythmic resolution. The inherent forward lurch of an odd meter that never fully resolves creates controlled urgency without chaos. Purely orchestral: no electronics required.
+
+**Featured trio:** COR ANGLAIS (states + restates the 7-beat figure, enters first and closes alone) + TUBA (pedal drone, frozen-air floor, joins fortissimo unison at climax) + TUBULAR BELLS (marks beat 1 each cycle from 1:00, rings new D-minor tonic at climax).
+
+**Scene anchor:** Iron bell-tower at first frost — asymmetric tolling that never resolves until the bell lands on the hour. Thumbnails generated bell-tower imagery spontaneously.
+
+**Novelty claims:** First ASYMMETRIC 7-BEAT PULSE prompt in catalog; 97 BPM new; C-sharp minor → D minor modulation new; beat-1-withheld climax structure new; iron-bell-tower-at-first-frost scene new.
+
+**One meaningful change from v206:** v206 used a timbral-state arc (col legno → sul ponticello → arco); v207 uses a metric arc (asymmetric pulse withheld → released). Also entirely new trio.
+
+---
+
 ## 2026-04-18 — Review & Publish cycle (v142–v162, approach reset + vocal era)
 
 **Reviewed:** 21 song-versions from v142 to v162 (covering April 15–18).

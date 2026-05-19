@@ -2,7 +2,7 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v206 (2026-05-19)
+Last updated: v207 (2026-05-19)
 
 ## Mindmap (Mermaid)
 
@@ -36,6 +36,7 @@ mindmap
         Twelve-tone serialism — atonal, all 12 pitches equal [v130]
         Stochastic — probability-density, Gaussian distributions [v131]
         Col Legno Structural Arc — three bow-contact states: col legno battuto → sul ponticello tremolo → arco return; acoustic climax is the *return* of normal tone [v206]
+        Asymmetric Metric Arc — 7-beat 3+4 pulse withholds beat-1 arrival for ~2 min, releases it fused with half-step modulation; rhythmic + tonal resolution delivered as single blow [v207]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
