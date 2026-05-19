@@ -1,0 +1,64 @@
+name: "where-the-bell-finally-lands"
+version: 207
+style: "ASYMMETRIC 7-BEAT PULSE at an iron bell-tower at first frost, total duration around 3:00. COR ANGLAIS + TUBA + TUBULAR BELLS carry a 3+4 grouping that leans forward without landing. At 0:00 cor anglais states the figure over bare strings in C-sharp minor at 97 BPM, its melancholic reed on a tuba pedal — low-brass floor under frozen air. At 1:00 tubular bells begin striking beat 1 of each cycle with a cold metallic toll; winds double the inner rhythm so the pulse presses into the chest, leaning without resolving. Near 1:50 full orchestra arrives on beat 1 for the first time: the cycle lands, key lifts to D minor, tuba and strings in fortissimo unison, bells ringing the new tonic — two minutes of lean released in one blow. Five seconds of silence. At 2:10 cor anglais restates the figure alone, stripped to origin, cold and clear as frost at dawn. Austere, ceremonial. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Where the Bell Finally Lands"
+lyrics: |
+  [Short Instrumental Intro — cor anglais alone, bare strings]
+
+  [Cor Anglais States the 7-Beat Figure]
+
+  [Tuba Pedal Drone Beneath]
+
+  [Tubular Bells Mark Beat One — winds double rhythm]
+
+  [Orchestral Bloom — 3+4 pulse presses forward]
+
+  [Full Orchestra Lands — fortissimo, D minor]
+
+  [Silence]
+
+  [Cor Anglais Restatement — stripped to origin]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, raga, Carnatic, Hindustani, sitar, tabla, Bollywood, Indian classical, tala"
+notes: |
+  v207 introduces the ASYMMETRIC 7-BEAT PULSE as structural backbone — a 7-beat rhythmic cycle grouped 3+4, used in Western orchestral writing as the motor of an entire piece rather than as local color or time-signature curiosity. The inherent forward lurch of an odd meter that never fully resolves until the cycle restarts creates a state of controlled urgency: listeners feel the lean without experiencing chaos, because the ensemble holds the grouping with clarity and purpose. The technique belongs to the broader tradition of Western odd-meter orchestral writing from the late 19th century onward, used by composers this catalog cannot name per blocklist rules.
+
+  The concept was synthesized from research into asymmetric-meter orchestral treatment, focusing on how the 3+4 grouping can become a structural drama engine: the piece withholds beat-1 arrival across nearly two minutes, then delivers it fused with a key modulation — tonal and rhythmic resolution simultaneously. The title names that event directly.
+
+  Composer-omission confession: several canonical odd-meter orchestral works informed this concept, but no composer or performer names appear per blocklist rules.
+
+  Duration strategy: tonal (C-sharp minor modulating a half-step up to D minor at the first beat-1 landing, ~1:50) + pulse-based (97 BPM, moderato, not previously used in catalog) + 3-minute framing per v137+ override.
+
+  Featured trio — three families with deep revival gaps:
+  - COR ANGLAIS: oboe-family reed, the melancholic lead voice that states and restates the 7-beat figure; enters first at 0:00, returns alone at 2:10 to close.
+  - TUBA: low-brass anchor, pedal drone sustaining the frozen-air floor throughout; joins the fortissimo unison at the climactic landing (~1:50).
+  - TUBULAR BELLS: ceremonial metallic idiophone; begins marking beat 1 of each cycle at 1:00, becomes the rhythmic signal that makes the asymmetric pulse audible; rings the new D-minor tonic at the climax.
+
+  Scene anchor: iron bell-tower at first frost — the asymmetric tolling that never quite resolves until the bell finally lands on the hour; silence before dawn; cor anglais as the sound of cold air through iron grates.
+
+  Novelty claims: first ASYMMETRIC 7-BEAT PULSE prompt in catalog; 97 BPM not previously used; C-sharp minor to D minor modulation is new; iron-bell-tower-at-first-frost scene is new; beat-1 withheld climax structure is new.
+
+  One meaningful change from v206: v206 used a col legno structural arc (three bow-contact states) as its engine; v207 replaces the timbral-state arc with a metric one — the asymmetric pulse IS the drama, and timbral texture serves the meter rather than driving independently. Also entirely new trio (cor anglais, tuba, tubular bells vs. waterphone, contrabassoon, flugelhorn).
+
+  Style char count: 946.
+tags:
+  - orchestral-asymmetric-7-beat-pulse
+  - cor-anglais
+  - tuba
+  - tubular-bells
+  - 97bpm
+  - c-sharp-minor
+  - d-minor
+  - iron-bell-tower-at-first-frost-scene
+  - 3-plus-4-grouping
+  - beat-1-withheld-climax
+  - half-step-modulation
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - asymmetric-meter
+  - perpetual-forward-lean
