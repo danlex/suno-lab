@@ -228,7 +228,7 @@ function renderSong(s) {
   const instrumental = s.i ? '<span class="instrumental-badge">instrumental</span>' : '';
   const notes = s.o ? `<details><summary>Notes</summary><div class="notes">${escapeHtml(s.o)}</div></details>` : '';
   const title = s.t || s.n || '';
-  const ids = SUNO_URLS[title] || [];
+  const ids = (SUNO_URLS[title] || []).slice(0, 1);
   const players = ids.map(id =>
     `<iframe src="https://suno.com/embed/${id}" width="100%" height="120" frameborder="0" allow="autoplay" loading="lazy" style="border-radius:10px;margin-top:8px;"></iframe>`
   ).join('');
