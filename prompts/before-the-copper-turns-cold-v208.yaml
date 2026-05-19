@@ -1,0 +1,65 @@
+name: "before-the-copper-turns-cold"
+version: 208
+style: "FRENCH OVERTURE FORM at rain on a copper roof at dusk, total duration around 3:00. PREPARED PIANO + HANDPAN + BASS FLUTE open in slow overdotted march at 93 BPM in G-sharp major: prepared piano strikes with clinking muted resonance, handpan rings low bell-tones, bass flute breathes a stately melodic line. At 1:00 the texture snaps into a fast fugal section — the march theme unwound into quick imitative entries, prepared piano scattering bright percussive interjections, bass flute threading a running counterline, handpan carrying metallic pulse, rain on copper a presence. At 2:00 the fugal churn stills: a brief slow return, the march theme resurfaces, key lifts a half-step to A major — warmer, copper roof in last dusk light — prepared piano ringing with fuller sustain, bass flute holding the melody below, handpan settling to long resonant strokes. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers. Film score for dusk."
+title: "Before the Copper Turns Cold"
+lyrics: |
+  [Short Instrumental Intro — prepared piano, sparse]
+
+  [Slow Overdotted March — handpan bell-tones enter]
+
+  [Bass Flute Stately Melody]
+
+  [Fast Fugal Section — imitative entries accelerate]
+
+  [Prepared Piano Scatters — bass flute runs counterline]
+
+  [Handpan Pulse Drives — rain on copper]
+
+  [Fugal Churn Stills]
+
+  [Brief Slow Return — key lifts to A major]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Baroque pastiche, harpsichord, basso continuo, period performance"
+notes: |
+  v208 introduces FRENCH OVERTURE FORM as the macro-structural engine — a three-part form from the Western Baroque orchestral tradition (late 17th century) consisting of (1) a slow opening in a stately overdotted rhythm, where every main beat is exaggerated — long-short-short — giving the march a weighty, ceremonial lurch; (2) a fast imitative middle section in which the opening theme is broken into quick fugal entries across the ensemble, creating momentum through stretto-like chasing; and (3) a brief slow return that mirrors the opening, often providing the emotional resolution. The form was used throughout the period by composers this catalog cannot name per blocklist rules (Lully, Handel, Purcell, Rameau, Telemann, and others are omitted).
+
+  The meaningful transposition here: applying the French overture three-part shape to an instrumental trio of prepared piano, handpan, and bass flute — an anachronistic combination that the form has never held. The overdotted gravity of the opening suits the prepared piano's muted clinking; the fugal middle works naturally for three contrapuntally independent voices; the slow return delivers the half-step key lift (G-sharp major → A major) as the emotional pivot, the warmer key arriving precisely when the overdotted dignity is restored.
+
+  Composer-omission confession: the French overture tradition is inseparable from specific 17th–18th century figures, none of whom can be named per blocklist rules. Described instead through formal attributes: overdotted march, fast fugal, brief slow return.
+
+  Duration strategy: tonal (G-sharp major modulating a half-step up to A major at the slow-return pivot, ~2:00) + pulse-based (93 BPM, moderato, not previously used in catalog) + 3-minute framing per v137+ override. The slow opening and slow return bracket a faster middle, so 93 BPM governs the opening march; the fugal section implies a faster internal tempo through shorter note values rather than a BPM change.
+
+  Featured trio:
+  - PREPARED PIANO: piano with objects placed on or between strings, producing muted clinking and percussive tones; serves as both melodic and coloristic percussion, leading the overdotted march attacks and scattering bright interjections in the fugal section.
+  - HANDPAN: steel hand-pan idiophone with warm bell-like resonance; rings low bell-tones in the slow march, carries metallic rhythmic pulse in the fugal section, settles to long resonant strokes in the slow return.
+  - BASS FLUTE: lowest member of the flute family, an octave below concert flute; breathes the stately melodic line in the opening, threads a running counterline in the fugal section, holds the melody below in the slow return.
+
+  Scene anchor: rain on a copper roof at dusk — the slow march is the rain settling in, the fugal section is the water running down channels, the slow return is the last copper light before dark.
+
+  Novelty claims: first FRENCH OVERTURE FORM prompt in catalog; 93 BPM not previously used; G-sharp major to A major modulation is new; rain-on-a-copper-roof-at-dusk scene is new; prepared piano + handpan + bass flute trio is new.
+
+  One meaningful change from v207: v207 built drama from a metric device (asymmetric 7-beat pulse withheld then released); v208 builds drama from a macro-formal device (three-part French overture shape, where the return of the slow movement is itself the pivot rather than a metric landing). Entirely new trio.
+
+  Style char count: 928.
+tags:
+  - orchestral-french-overture-form
+  - prepared-piano
+  - handpan
+  - bass-flute
+  - 93bpm
+  - g-sharp-major
+  - a-major
+  - rain-on-a-copper-roof-at-dusk-scene
+  - overdotted-march
+  - fast-fugal-middle
+  - slow-return
+  - half-step-modulation
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - baroque-form-revival
+  - anachronistic-trio

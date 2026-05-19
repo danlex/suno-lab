@@ -1,6 +1,6 @@
 {
-  "total_prompts": 207,
-  "latest_version": 207,
+  "total_prompts": 208,
+  "latest_version": 208,
   "instruments": {
     "organ": [
       1,
@@ -97,7 +97,8 @@
       159,
       162,
       206,
-      207
+      207,
+      208
     ],
     "pipe organ": [
       1,
@@ -185,7 +186,8 @@
       144,
       162,
       206,
-      207
+      207,
+      208
     ],
     "piano": [
       1,
@@ -249,7 +251,8 @@
       202,
       203,
       204,
-      205
+      205,
+      208
     ],
     "cello": [
       33,
@@ -379,7 +382,8 @@
       125,
       134,
       143,
-      150
+      150,
+      208
     ],
     "harp": [
       37,
@@ -523,6 +527,12 @@
       130,
       193
     ],
+    "bass flute": [
+      100,
+      120,
+      134,
+      208
+    ],
     "bowed vibraphone": [
       85,
       99,
@@ -552,6 +562,12 @@
       123,
       135,
       206
+    ],
+    "handpan": [
+      97,
+      116,
+      133,
+      208
     ],
     "marimba": [
       103,
@@ -583,6 +599,12 @@
       134,
       179
     ],
+    "prepared piano": [
+      89,
+      95,
+      131,
+      208
+    ],
     "tenor saxophone": [
       107,
       123,
@@ -605,11 +627,6 @@
       106,
       125,
       186
-    ],
-    "bass flute": [
-      100,
-      120,
-      134
     ],
     "bass trombone": [
       102,
@@ -641,11 +658,6 @@
       117,
       133
     ],
-    "handpan": [
-      97,
-      116,
-      133
-    ],
     "hardanger fiddle": [
       111,
       124,
@@ -670,11 +682,6 @@
       116,
       126,
       143
-    ],
-    "prepared piano": [
-      89,
-      95,
-      131
     ],
     "steel tongue drum": [
       108,
@@ -920,9 +927,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187
     ],
     "chamber": [
@@ -930,13 +935,17 @@
       192,
       203
     ],
-    "concerto": [
-      145,
-      149
-    ],
     "passacaglia": [
       111,
       202
+    ],
+    "romantic": [
+      145,
+      149
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -1200,6 +1209,9 @@
     ],
     "db major": [
       46
+    ],
+    "g-sharp major": [
+      208
     ]
   },
   "bpms": {
@@ -1368,6 +1380,9 @@
     "92": [
       65
     ],
+    "93": [
+      208
+    ],
     "94": [
       131
     ],
@@ -1511,6 +1526,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 208,
+      "title": "Before the Copper Turns Cold",
+      "name": "before-the-copper-turns-cold",
+      "featured": [],
+      "genre": null,
+      "key": "g-sharp major",
+      "bpm": 93
+    },
     {
       "version": 207,
       "title": "Where the Bell Finally Lands",
@@ -1817,7 +1841,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -1961,7 +1985,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2078,7 +2102,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -2114,7 +2138,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

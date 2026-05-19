@@ -4,6 +4,28 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-05-19 — v208 cycle (French overture structural form)
+
+**Submitted:** v208 "Before the Copper Turns Cold" (instrumental orchestral; prepared piano + handpan + bass flute) — clips `75e63e60-f5b2-4c2d-b92c-8c831aa597e8`, `1746a7cf-910d-406b-b494-475b84d02660` (still generating; copper-roof thumbnails)
+
+**What was tried:**
+- One meaningful change from v207 (asymmetric-meter arc): the structural backbone is now a Baroque tri-part **French overture** — slow over-dotted ceremonial march (0:00–1:00) → fast fugal/imitative middle (1:00–2:00) → brief slow over-dotted return as elegy with the key lift (~2:00). Form-as-drama via tempo/texture pivot, not a single climax.
+- First **major-key** arc in a long run: G-sharp major → A major half-step lift (both keys near-unused; deliberate brightness against the catalog's minor-dominant history).
+- 93 BPM (first use), scene = "rain on a copper roof at dusk."
+
+**Why:**
+- Rotating research surfaced the French overture as a tri-part form absent from evolution.md's architectural-forms list. Novelty picker chose prepared piano + handpan + bass flute (gaps 74–77; keyboards / metallic-idiophone / woodwind) + unused BPM + zero-use key.
+
+**What we learned:**
+- Judge 97/100 in 1 iteration (only fix: a purpose phrase). Third consecutive 97–98 first-pass score — the "one durable structural inversion + deep-revival trio + unused BPM + half-step at the pivot" template is stable and reliable.
+- Composer-name discipline worked cleanly: Baroque-pastiche/period trigger words (harpsichord, basso continuo, period performance) confined to exclude_styles; none leaked into style/title/lyrics.
+
+**Harness additions this cycle:** none new (autonomy allowlist + pipelined team established in v206–v207 still holding; zero approval prompts all session).
+
+**Open:** v209 inputs not yet fetched (held until v208 confirmed submitted — now done).
+
+---
+
 ## 2026-05-19 — v206 cycle (col legno structural arc + team pipeline)
 
 **Submitted:** v206 "What the Foundry Releases" (instrumental orchestral; waterphone + contrabassoon + flugelhorn) — clips `10c72fef-3806-4900-99e0-cf5029d6917e`, `9c446676-a2d2-478f-a8dd-7ceb5c5c6336`
