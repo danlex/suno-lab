@@ -1,0 +1,40 @@
+name: "the-long-memory-of-a-single-string"
+version: 202
+style: "Solo theorbo passacaglia, unaccompanied Baroque lute alone, single instrument throughout, no other instruments. G Mixolydian, moderate tempo 80 BPM. An eight-bar ground bass repeats while increasingly ornamented variations unfold on the upper strings. Theorbo's long bass strings provide harmonic foundation, treble strings carry melodic figuration with rapid passaggi, trills, and divisions. Inspired by Robert de Visee, Bellerofonte Castaldi, and Sylvius Leopold Weiss, fused with the patient unfolding of Bach Chaconne. Each variation gradually elaborates the bass line, not building toward a climax, but continuously revealing new ornamental layers. Modal and bright but archaic, contemplative without grief, ancient hand on resonant strings. No ensemble, no orchestra, no piano, no harpsichord, no percussion, no vocals, no synth, no electronic, no reverb wash, no climax-arc, no half-step modulation. Pure single-instrument intimacy. 80 BPM, G Mixolydian, single instrument only."
+title: "The Long Memory of a Single String"
+lyrics: |
+  [Short Instrumental Intro]
+  [Solo theorbo alone, eight-bar ground bass in G Mixolydian]
+
+  [Variation 1]
+  [Bass stated plain, gentle ornamental treble line above]
+
+  [Variation 2]
+  [Bass repeats, treble adds running eighth notes and a single trill]
+
+  [Variation 3]
+  [Bass repeats, sixteenth-note divisions begin in the treble]
+
+  [Variation 4]
+  [Bass remains, counter-melody on middle strings]
+
+  [Variation 5]
+  [Bass continues, rapid passaggi and arpeggiation in the treble]
+
+  [Variation 6]
+  [Bass repeats, divisions become more chromatic, ornaments more elaborate]
+
+  [Variation 7]
+  [Bass remains, treble plays highest register with rapid figuration]
+
+  [Variation 8]
+  [Bass repeats one final time, treble simplifies to plain melodic statement]
+
+  [Coda]
+  [Theorbo holds a final G Mixolydian chord, lets it ring and decay slowly]
+
+  [End]
+instrumental: true
+exclude_styles: "vocals, voice, singing, choir, ensemble, orchestra, strings section, piano, harpsichord, harp, percussion, drums, synth, electronic, autotune, pop, rock, reverb wash, climax build, half-step modulation, silence before climax, cinematic monumental, doom, lament, ballad, minor key"
+notes: "Basin-break continued on a different axis from v201. v201 inverted to fast major-key ensemble moto perpetuo; v202 inverts to slow solo single-instrument variation form. Theorbo never used solo in catalog. Passacaglia form (ground bass + variations) replaces climax-arc — continuous unfolding, no peak, no fall. G Mixolydian escapes the minor/major binary the catalog has been stuck in. Single-instrument constraint forces total novelty in texture: zero ensemble, zero wash, zero accompaniment. Reference points: Bach Chaconne, Bellerofonte Castaldi capricci, Robert de Visee suites."
+tags: [baroque, theorbo, passacaglia, solo, single-instrument, G-mixolydian, basin-break, instrumental, lute, variations, ground-bass, archaic]

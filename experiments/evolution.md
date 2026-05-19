@@ -224,6 +224,8 @@ mindmap
 | Cultural-trigger exclusions | v114+ | Default — add per-instrument when needed |
 | Technique fusion (not genre) | v118 | New — glitch was first, explore more |
 | Duration language | v113-v117 | **DEAD — stop using, zero effect** |
+| Extended-technique structural arc | v206 | New — col legno→ponticello→arco as the form itself, the timbre shift is the climax |
+| Pipelined team (research/novelty overlap submit) | v206 | New — suno-cycle team; next-version inputs computed while current submits |
 
 ## Last 5 prompts at a glance
 

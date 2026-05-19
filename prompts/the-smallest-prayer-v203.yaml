@@ -1,0 +1,31 @@
+name: "the-smallest-prayer"
+version: 203
+style: "Slow intimate art song for solo female voice, gentle classical chamber accompaniment, comfort-range mezzo-soprano singing only between G4 and D5 throughout, sustained legato vowels with stepwise melodic motion, no leaps above an octave, no high notes, no climax. Tempo 60 BPM, C major, simple diatonic harmony, no modulation. Solo piano plays sparse arpeggiated chords with cello sustaining a single line beneath. No orchestra, no strings section, no synth, no drums, no percussion, no harp, no electronic, no reverb, no autotune, no choir. The voice carries the melody alone with breath and space around every note. Sustained vowels held 4-8 beats, no rapid consonants, no melisma, no ornament. Folk-hymn classical aesthetic in the spirit of Leonard Cohen Come Healing fused with Arvo Part Spiegel im Spiegel. 60 BPM, C major, range G4-D5 only, voice in chest mix not head voice, full breath support, no strain. Pure intimacy, single voice."
+title: "The Smallest Prayer"
+lyrics: |
+  [Solo Piano Intro]
+
+  [Verse 1 — slow, mid register, sustained vowels]
+  Hold me where the night is wide
+  Hold me where the day begins
+  Hold me as the river dreams
+  Hold me as the morning sings
+
+  [Sustained vowels]
+  Ahhh... ahhh...
+
+  [Verse 2 — same mid register]
+  Bring me to the open shore
+  Bring me to the quiet door
+  Bring me where the sky returns
+  Bring me where the candle burns
+
+  [Outro — sustained vowels]
+  Ahhh... ahhh... ahhh...
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "high notes, soprano coloratura, stratospheric, head voice strain, climax, half-step modulation, silence before climax, orchestral wash, strings section, choir, synth, drums, percussion, harp, electronic, autotune, reverb wash, pop, rock, melisma, ornament, fast tempo, ballad cliche"
+notes: "Diagnostic test for Daniela DAN clone quality. NOT a basin-break artistic statement. Designed as the friendliest possible terrain for the clone: pinned to G4-D5 comfort range, 60 BPM, sustained vowels, stepwise motion, sparse classical chamber backing, simple diatonic harmony. If the clone sounds clean here, her voice is usable for future vocal cycles. If still guttural, source recording needs replacing. Submit with Daniela DAN voice selected AND Audio Influence boosted to ~60% (commits Suno to the clone instead of averaging weakly). Reference points: Leonard Cohen 'Come Healing,' Arvo Part 'Spiegel im Spiegel.'"
+tags: [diagnostic, daniela-dan, clone-test, low-stakes, classical, art-song, C-major, G4-D5, sustained-vowels, comfort-range]

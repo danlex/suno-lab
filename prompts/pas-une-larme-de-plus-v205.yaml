@@ -1,0 +1,48 @@
+name: "pas-une-larme-de-plus"
+version: 205
+style: "Chanson réaliste française défiante dans le style d'Édith Piaf 'Non Je Ne Regrette Rien' et 'Padam Padam'. Voix de contralto pleine voix de poitrine entre A3 et E5, techniques signature Piaf: alternance entre chuchotement et belt, sob breaks aux pics émotionnels, mots parlés interjetés, accelerando aux refrains. Tempo base 88 BPM, accelerando à 102 BPM aux refrains, rallentando dramatique à la coda. Accordéon musette double la voix à l'unisson, contrebasse pizzicato, violon discret, piano droit, trompette solo au break café-concert. Lead vocal doubled and slightly detuned for warmth, chorusing on sustained notes. Sustained accordion pad supports every vocal phrase. Warm chest-mix timbre, full breath support, no strain. G minor, modulation D mineur au pont, retour G mineur. Esprit défiance, fierté, refus de pitié. No autotune, no synth, no electronic, no rock, no pop, no soprano, no head voice, no harsh treble, no sibilance, no nasality. Pure chanson réaliste théâtrale."
+title: "Pas Une Larme De Plus"
+lyrics: |
+  [Intro — accordéon seul, rubato]
+
+  [Couplet 1 — voix chuchotée]
+  J'ai pleuré toute la nuit
+  J'ai pleuré pour rien du tout
+  J'ai pleuré comme on fait
+  Quand on n'a plus rien d'autre
+
+  [Couplet 2 — voix monte]
+  Mais ce matin la pluie s'arrête
+  Le soleil entre par la fenêtre
+  Et je regarde mon visage
+  Dans le miroir d'un autre âge
+
+  [Refrain — pleine voix, accelerando]
+  Pas une larme de plus
+  Pas une larme pour toi
+  Pas une larme de plus
+  Je marche, et je tiens droit
+
+  [Break — trompette solo café-concert]
+
+  [Couplet 3 — parlé / chanté]
+  (parlé) Tu pensais que j'allais mourir
+  (parlé) Tu pensais que j'allais te suivre
+  (chanté) Mais tu ne me connais pas
+  Tu ne m'as jamais connue
+
+  [Refrain Final — voix doublée, fortissimo, sob break]
+  Pas une larme de plus
+  Pas une larme pour toi
+  Pas une larme de plus
+  Je vis, et je tiens droit
+
+  [Coda — rallentando, presque chuchoté]
+  (parlé doucement) Et toi... tu peux partir.
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "autotune, synth, electronic, rock, pop, modern production, soprano, coloratura, head voice, high notes, stratospheric, harsh treble, sibilance, breath noise, pitch wobble, throat constriction, nasality, climax build cinematic, half-step modulation up, drum kit, choir wash, reverb wash, English lyrics, mumble, gentle ballad"
+notes: "v205 — Builds on v204's working formula by adding Piaf's signature theatrical techniques: sob breaks, whisper-to-belt dynamic shifts, spoken interjections mid-verse, accelerando into choruses + rallentando into coda, trumpet solo break in café-concert style, modulation to dominant (D minor) at bridge then back to G minor. Different emotional register from v204: defiance instead of waiting. Same supportive-arrangement formula (accordion doubles voice at unison, doubled/chorused vocal, sustained pad behind every phrase). Daniela DAN voice with Audio Influence ~80%, range strictly A3-E5 chest voice. The point is to test whether layering Piaf-signature theatrics on top of the proven supportive formula produces *better* results without breaking the clone."
+tags: [chanson, piaf, french, valse, defiance, daniela-dan, contralto, A3-E5, sob-break, whisper-belt, spoken-interjection, trumpet-cafe-concert, supportive-arrangement, doubled-vocal]

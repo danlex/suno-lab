@@ -1,0 +1,36 @@
+name: "the-hour-we-forgot-to-mourn"
+version: 201
+style: "Ecstatic Baroque-minimalist concerto grosso in moto perpetuo style, A major, fast and bright at 140 BPM, joyful and unstoppable. Harpsichord drives continuous sixteenth-note motion, violins double and ornament with rapid arpeggios, solo wooden recorder weaves a leaping melodic line above, tympani pulses on downbeats, tambourine and small bells shimmer underneath. The piece never lifts up dramatically and never quiets, runs at full energy throughout, no climax-arc, no silence-before-climax, no half-step modulation, no minor key. Inspired by Vivaldi summer concerto finale fused with Steve Reich pulse-driven minimalism and Tchaikovsky pizzicato scherzo. Pure exuberance, dancing, leaping, sun-drunk, the opposite of grief. No vocals, no autotune, no rock, no electronic, no synth, no drum kit, no piano, no harp, no orchestral string-section wash. Pure acoustic Baroque chamber ensemble. 140 BPM, A major, no modulation, continuous motion."
+title: "The Hour We Forgot to Mourn"
+lyrics: |
+  [Short Instrumental Intro]
+  [Harpsichord opens with continuous sixteenth-note moto perpetuo figure, A major]
+
+  [First Section]
+  [Violins enter doubling the harpsichord line, then begin to ornament]
+  [Tympani pulses quietly on downbeats]
+
+  [Second Section]
+  [Solo wooden recorder enters above with a leaping melodic line]
+  [Tambourine shimmer joins, bells underneath]
+  [Harpsichord and violins keep the perpetual motion below]
+
+  [Third Section — exchange]
+  [Recorder and first violins trade phrases back and forth]
+  [Harpsichord ornaments freely, never stopping]
+  [Tympani pulse intensifies but tempo stays steady, no build]
+
+  [Fourth Section]
+  [All instruments interlock, dense polyphonic moto perpetuo]
+  [Recorder soars in upper register with rapid figuration]
+  [Tambourine and bells continuous]
+
+  [Coda]
+  [Full ensemble unison flourish, fast running scales upward]
+  [Final cadence on bright A major chord, abrupt cut]
+
+  [End]
+instrumental: true
+exclude_styles: "vocals, voice, singing, choir, autotune, pop, electronic, rock, drums kit, synth, piano, harp, orchestral wash, climax build, slow ballad, minor key, doom, lament, half-step modulation, silence before climax, cinematic monumental"
+notes: "Basin-break. Inverts every recent reflex: A major (not minor), 140 BPM (not 60-70), moto perpetuo with no climax-arc, period Baroque palette (harpsichord/recorder/tympani — no piano, no harp, no string wash). Vocabulary deliberately avoids 'sublime/monumental/cinematic/visceral/stratospheric.' Reference points: Vivaldi 'Summer' finale, Reich 'Music for 18 Musicians,' Tchaikovsky pizzicato scherzo. Goal: an ecstatic, sun-drunk, unstoppable piece — the opposite of every recent doom-arc song. Pure instrumental per current rule."
+tags: [baroque, moto-perpetuo, harpsichord, recorder, A-major, basin-break, ecstatic, instrumental, vivaldi, reich, tchaikovsky-scherzo]

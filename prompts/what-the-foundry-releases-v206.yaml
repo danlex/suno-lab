@@ -1,0 +1,62 @@
+name: "what-the-foundry-releases"
+version: 206
+style: "COL LEGNO STRUCTURAL ARC at a foundry at the moment of cooling, total duration around 3:00. WATERPHONE + CONTRABASSOON + FLUGELHORN anchor three timbral states. From 0:00 to 1:10 the string section strikes with wooden bow-backs in col legno battuto at 103 BPM in A-flat minor, a dry skeletal rattle like cooling machinery; waterphone shimmers above with metallic resonance while contrabassoon breathes its subterranean growl beneath. At 1:10 strings shift to sul ponticello tremolo, bowing near the bridge for a bright metallic shimmer as texture thins, the orange glow of the metal fading to grey. Near 1:50 a silence of five seconds. At 2:00 the arco strings return in A minor, warm bowed tone flooding back — the return of melody itself is the catharsis. Flugelhorn enters, warm and mournful. Underscore for a foundry cooling scene, film score pacing. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What the Foundry Releases"
+lyrics: |
+  [Short Instrumental Intro — col legno battuto strikes, dry]
+
+  [Waterphone Shimmer Rises]
+
+  [Contrabassoon Growl Enters]
+
+  [Skeletal Rattle Builds — 103 BPM, A-flat minor]
+
+  [Sul Ponticello Tremolo — shimmer thins]
+
+  [Silence]
+
+  [Arco Return — warm bowed tone, A minor]
+
+  [Flugelhorn Sings Over Strings]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Scandinavian folk, Japanese folk"
+notes: |
+  v206 introduces the COL LEGNO STRUCTURAL ARC — a technique in which the string section's primary texture transitions through three distinct timbral states across the duration of a single piece: (1) col legno battuto (striking strings with the wooden back of the bow, producing a dry percussive rattle, favored in early-20th-century orchestral writing), (2) sul ponticello tremolo (bowing close to the bridge for metallic, shimmering overtones), and (3) full arco return (warm sustained bowing), where the reappearance of normal bowed tone is itself the climactic event. No electronic layer is required — the acoustic drama is entirely built into the strings' changing mode of contact with the instrument.
+
+  The concept was synthesized from research into extended string techniques and their structural (not coloristic) use. Comparable precedents omit named composers per blocklist rules.
+
+  Featured trio — three deep-revival families (metallic idiophone / woodwind / brass):
+  - WATERPHONE: spectral metallic resonance, bowed and struck; sits over the col legno skeleton as spectral shimmer.
+  - CONTRABASSOON: subterranean reed growl; the furnace breath anchoring the lowest register throughout.
+  - FLUGELHORN: warm, mournful brass; withheld until the arco catharsis, arriving as the human voice the piece has been denying.
+
+  Scene anchor: foundry at the moment of cooling — col legno rattle = mechanical cooling machinery; sul ponticello shimmer = the glow of solidifying metal; arco return = the warm release of the finished form.
+
+  Duration strategy: tonal (A-flat minor modulating to A minor at the arco climax — sharpest half-step pivot available) + pulse-based (103 BPM, andante-moderato, not present in catalog) + 3-minute framing per v137+ override.
+
+  Novelty claims: first COL LEGNO STRUCTURAL ARC prompt in catalog; 103 BPM not previously used; A-flat minor to A minor modulation is new; foundry-cooling scene is new.
+
+  One meaningful change from v205: entire paradigm shift — from chanson réaliste vocal to instrumental structural arc; technique-first rather than voice-first; three-state bow-contact arc replaces verse/chorus structure.
+
+  Style char count: 883.
+tags:
+  - orchestral-col-legno-structural-arc
+  - waterphone
+  - contrabassoon
+  - flugelhorn
+  - 103bpm
+  - a-flat-minor
+  - a-minor
+  - foundry-at-the-moment-of-cooling-scene
+  - col-legno-battuto
+  - sul-ponticello
+  - arco-return-climax
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - three-timbral-states
+  - half-step-modulation

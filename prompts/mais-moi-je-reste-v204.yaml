@@ -1,0 +1,45 @@
+name: "mais-moi-je-reste"
+version: 204
+style: "Chanson réaliste française dans le style d'Édith Piaf, valse musette 3/4, voix de contralto en pleine voix de poitrine entre A3 et E5, vibrato chaleureux sur les notes tenues, théâtrale et rubato, parfois parlée. Tempo modéré 96 BPM. Accordéon musette joue la mélodie principale en doublant la voix à l'unisson sur chaque phrase, contrebasse pizzicato sur les temps forts, violon discret en contrechant, piano droit en arrière-plan pour les accords soutenus. Lead vocal doubled and slightly detuned for warmth, gentle chorusing on sustained notes. Sustained accordion pad supports every vocal phrase. Warm chest-mix timbre, full breath support, no strain. G minor, modulation en Bb majeur au pont. Esprit Pigalle années 1950. Référence: Padam Padam et Sous le ciel de Paris. No autotune, no synth, no electronic, no rock, no pop, no soprano, no head voice, no harsh treble, no sibilance, no breath noise, no pitch wobble, no nasality. Pure chanson réaliste acoustique, intime et théâtrale."
+title: "Mais Moi Je Reste"
+lyrics: |
+  [Intro — accordéon musette seul, valse 3/4]
+
+  [Couplet 1 — voix de poitrine, théâtrale]
+  Tu m'avais promis Paris
+  Tu m'avais promis l'aurore
+  Tu m'as laissé sous la pluie
+  Et le ciel pleure encore
+
+  [Couplet 2]
+  Je t'attends dans le café
+  Où tu m'avais embrassée
+  La fumée de ma cigarette
+  Dessine ton visage en silhouette
+
+  [Refrain — accordéon double la voix à l'unisson]
+  Mais moi je reste, je reste
+  Je ne pleurerai pas
+  Mais moi je reste, je reste
+  Tu reviendras... ou pas
+
+  [Couplet 3 — rubato, presque parlé]
+  Le verre est vide, mon cœur est plein
+  D'un amour qui ne sert à rien
+  Mais s'il faut encore attendre
+  Je saurai bien apprendre
+
+  [Refrain final — voix doublée, accordéon swelling]
+  Mais moi je reste, je reste
+  Sous le ciel de Paris
+  Mais moi je reste, je reste
+  Toute seule... ainsi soit-il
+
+  [Outro — accordéon seul, fade lent]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "autotune, synth, electronic, rock, pop, modern production, soprano, coloratura, head voice, high notes, stratospheric, harsh treble, sibilance, breath noise, pitch wobble, throat constriction, nasality, climax build, half-step modulation, silence before climax, drum kit, choir wash, reverb wash, English lyrics, mumble, whispered"
+notes: "v204 — French chanson réaliste in the spirit of Édith Piaf, with three voice-quality techniques baked into the prompt: (1) timbre-shaping language ('warm chest-mix timbre, full breath support'), (2) supportive arrangement (accordion doubles the vocal melody at the unison on every phrase, sustained pad behind every phrase) to mask weak notes, (3) doubling/chorusing ('lead vocal doubled and slightly detuned for warmth'). Tessitura strictly A3-E5 chest voice, no head voice, no climbing high. Daniela DAN voice with Audio Influence ~80%. Theme: a woman waiting in a Parisian bistro for a lover who left. Valse musette 3/4 at 96 BPM, G minor with Bb major bridge. References: Padam Padam, Sous le ciel de Paris, Hymne à l'amour. If this lands clean, the supportive-arrangement technique scales to all future Daniela cycles."
+tags: [chanson, piaf, french, valse-musette, accordeon, daniela-dan, contralto, chest-voice, A3-E5, supportive-arrangement, doubled-vocal, voice-quality-techniques]

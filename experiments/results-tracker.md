@@ -4,6 +4,28 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-05-19 — v206 cycle (col legno structural arc + team pipeline)
+
+**Submitted:** v206 "What the Foundry Releases" (instrumental orchestral; waterphone + contrabassoon + flugelhorn) — clips `10c72fef-3806-4900-99e0-cf5029d6917e`, `9c446676-a2d2-478f-a8dd-7ceb5c5c6336`
+
+**What was tried:**
+- One meaningful change from v205 (French chanson w/ cloned voice): hard pivot back to instrumental, with a *structural* extended-technique arc. Strings spend the first ~2/3 as skeletal percussion (col legno battuto) → sul ponticello tremolo → silence → full arco return. The return of the bowed tone IS the climax; no electronic layer, no added instrument at the peak.
+- Half-step modulation A-flat minor → A minor coincident with the arco return (timbral + tonal catharsis fused).
+- 103 BPM (first use in catalog), scene = "foundry at the moment of cooling."
+
+**Why:**
+- Rotating research surfaced col-legno-as-primary-structure as a documented film-scoring inversion never used v93–v205. Novelty picker chose the deep-revival trio (gaps 71–77) + unused BPM + low-use key.
+
+**What we learned:**
+- Specialist `col legno battuto` / `sul ponticello` jargon is load-bearing here; judge flagged it as the only point risk (v5.5 orchestral training expected to parse it). Verify on listen whether Suno renders col legno percussively vs. ignoring it.
+- Submitter confirmed: Chrome extension can drop mid-wait *after* Create is clicked without losing the generation — reconnect and re-verify workspace rather than re-submitting.
+
+**Harness additions this cycle:** Created persistent `suno-cycle` team (lead + researcher + novelty + drafter + judge + submitter) with pipelined overlap — v207 research/novelty run while v206 submits.
+
+**Open:** v207 inputs ready (misra capu 7-beat tala orchestral concept; novelty trio pending). Backlog v200–v205 committed alongside v206.
+
+---
+
 ## 2026-04-18 — Review & Publish cycle (v142–v162, approach reset + vocal era)
 
 **Reviewed:** 21 song-versions from v142 to v162 (covering April 15–18).

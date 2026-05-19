@@ -1,0 +1,39 @@
+name: "i-will-not-outlive-your-voice"
+version: 200
+style: "Sublime neoclassical operatic aria, soprano coloratura climbing relentlessly higher through the entire song, Diva Dance vocal exuberance fused with Liebestod intensity and Adagio for Strings stillness. Solo piano descending, cello low, harp arpeggios shimmer, strings build underneath but never crowd the voice. Soprano enters mid register and ascends continuously, each section climbing higher. Tempo 64 BPM. Three half-step modulations: D minor to E minor to F minor to F-sharp minor, soprano climbing with the keys. Silence before the bridge, then soprano launches into coloratura ascending passage, sustained high notes piling: high C5, high D5, high E5, high F5. Climax is sustained F6 above the staff, pure stratospheric tone, unwavering. Visceral deep love, the voice refusing to come down. No autotune, no pop, no electronic, no drums, no brass, no synth, no reverb wash. Pure classical chamber-orchestral acoustic intimacy, only the voice keeps rising."
+title: "I Will Not Outlive Your Voice"
+lyrics: |
+  [Short Instrumental Intro]
+
+  [Verse 1 — D minor, mid register]
+  I built a house from your last word
+  And all the doors lead back to you
+  The candle I lit cannot die out
+  The dark outside cannot break through
+
+  [Pre-Chorus — modulate up to E minor, soprano climbing]
+  Take what is left and call it ours
+  Take what is left and call it love
+
+  [Silence]
+
+  [Bridge — modulate up to F minor, soprano coloratura ascending, sustained high notes piling higher]
+  I will not outlive your voice
+  (ascending — high C, high D, high E)
+  I will not outlive your voice
+  (climbing — high F, no breath, no return)
+  I will not outlive
+
+  [Chorus — modulate up to F-sharp minor, soprano stratospheric, sustained F6 over full strings]
+  Burn until the night forgets
+  Burn until the stars confess
+  We were the fire the dark could not undress
+  Burn until there is nothing left
+  (soprano sustains F6 above the staff, unwavering)
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "autotune, pop, electronic, rock, drums, brass, synth, reverb wash, ballad, country, hip hop, rap"
+notes: "Persona-fishing run, ascent edition. Three stacked half-step modulations (D minor → E minor → F minor → F#m) with soprano climbing alongside. Bridge is a coloratura ascending passage piling sustained high notes. Final chorus sits in stratospheric F6 territory (Diva Dance reach). Goal: a take worth saving as a Persona for future cycles, and to push the clone past comfort into visceral high-register drama."
+tags: [classical, opera, soprano, daniela-dan, persona-fishing, doomed-lovers, liebestod, coloratura, stratospheric, diva-dance]
