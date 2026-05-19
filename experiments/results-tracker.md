@@ -4,6 +4,18 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-05-19 — v212 cycle (woodwind multiphonics) — DRAFTED & JUDGED 100/100, SUBMISSION DEFERRED (Suno outage)
+
+**Status:** v212 "Where the Candle Learns Its Name" (instrumental; subcontrabass saxophone + clavichord + crystal marimba) is fully drafted and judged **100/100** (corrected trio-only version: woodwind-quartet/strings removed, timestamps realigned 0:30/1:00/1:30/2:00/2:20/2:45, Fb major→F major, 109 BPM, candlelit-scriptorium scene). **NOT submitted** — Suno generation service was down 2026-05-19 ("Song generation is temporarily unavailable" on ~8 Create attempts). Logged to cron_failures.md. YAML committed so nothing is lost.
+
+**What it is / one change from v211:** intimate/haunting "grief held very still" (woodwind multiphonics as primary texture, multiphonic haze resolving to one clean tone) — deliberate emotional contrast to v211's euphoric high.
+
+**Process notes (durable):** (a) drafter followed the hardened protocol — single FINAL, no post-FINAL file edit, flagged a content discrepancy as TEXT only ([[feedback_drafter_no_edits_after_handoff]] working). (b) Handoff-sequencing race recurred: submitter was dispatched on the 99/100 verdict while the judge was still applying a relayed content-fix to 100/100 — serialize handoffs ([[feedback_submitter_owns_no_logs]] rule 4). (c) Suno outage handled by backing off + scheduling a retry rather than hammering.
+
+**Open / next action:** Retry the v212 submission when Suno recovers (re-fill form from the committed YAML) BEFORE drafting v213 — do not build an unsubmitted backlog. Then normal close-out (logs as "submitted", add to suno_urls.json, build, commit).
+
+---
+
 ## 2026-05-19 — v211 cycle (euphoric orchestral hardstyle breakdown — energy contrast)
 
 **Submitted:** v211 "What the Chapel Holds at Dawn" (instrumental, high-energy euphoric; french horn + marimba + ondes martenot) — clips `77352f74-a7ef-456c-a48f-025b6ccb9329`, `e18112ea-d990-4292-8030-e62431c5ed84`

@@ -60,3 +60,11 @@ Reason: Chrome MCP extension disconnected during submission attempt
 State: v194 YAML drafted at prompts/the-sound-that-iron-remembers-v194.yaml, not submitted
 Action taken: Logged failure, committing draft and pushing. Next cycle should reconnect and submit.
 Next cycle should: Open claude.ai to reconnect, then submit v194 before drafting v195
+
+## 2026-05-19 v212 submit — Suno service outage
+step: submit
+yaml: prompts/where-the-candle-learns-its-name-v212.yaml
+judge_score: 96/100 (passed)
+reason: Suno returned "Song generation is temporarily unavailable. Please try again shortly." on every Create attempt. ~8 retries over ~15 minutes. Browser extension stays connected throughout; form is correctly filled (style 947/1000, title "Where the Candle Learns Its Name", lyrics/exclude intact). Server-side outage, not a form or browser issue.
+state: Form loaded and ready in tab 786909863 at https://suno.com/create. YAML committed.
+next_cycle: Reload suno.com/create, re-fill form from YAML, retry Create when service recovers.

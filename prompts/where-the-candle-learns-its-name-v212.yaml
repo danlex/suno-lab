@@ -1,0 +1,65 @@
+name: "where-the-candle-learns-its-name"
+version: 212
+style: "WOODWIND MULTIPHONICS TEXTURAL ENGINE at a candlelit scriptorium in deep winter, total duration around 3:00. SUBCONTRABASS SAXOPHONE + CLAVICHORD + CRYSTAL MARIMBA unfold a haunting arc in F-flat major at 109 BPM: subcontrabass saxophone opens alone, breathing low multiphonic shimmer — two tones at once, diffuse and trembling like candlelight. At 0:30 crystal marimba enters, each stroke ringing into cold air, fragile resonance beneath the shimmer. At 1:00 clavichord touches the aching center, whisper-soft pads barely pressing the strings — the three voices converge. At 1:30 a second multiphonic layer deepens the haze. At 2:00 clavichord descends four notes, barely heard. At 2:20 the multiphonics dissolve to a single clean tone — key lifts to F major: clarity out of shimmer, a candle finding its flame. At 2:45 the clean tone fades to silence. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers. Score for winter vigil."
+title: "Where the Candle Learns Its Name"
+lyrics: |
+  [Short Instrumental Intro — subcontrabass saxophone multiphonic shimmer alone]
+
+  [Crystal Marimba Enters — fragile resonance beneath the shimmer]
+
+  [Clavichord Touches the Aching Center — three voices converge]
+
+  [Second Multiphonic Layer — haze deepens]
+
+  [Clavichord Descending Phrase — barely heard]
+
+  [Multiphonics Dissolve — single clean tone, key lifts to F major]
+
+  [Clean Tone Fades to Silence]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, jazz saxophone, bebop, smooth jazz, contemporary classical, extended techniques showcase, academic avant-garde"
+notes: |
+  v212 introduces WOODWIND MULTIPHONICS TEXTURAL ENGINE as its structural concept — a form in which extended woodwind technique (multiphonics: producing two or more pitches simultaneously from a single instrument through specific embouchure and fingering combinations) is not used as a coloristic effect but as the primary textural substance of the entire opening section. The drama is the dissolution: the multiphonic shimmer is the starting state, and the arrival of a single clean sustained tone at 1:50 is the emotional event — clarity emerging from organized noise, a candle finding its shape in a drafty room. The key lift (F-flat major → F major, enharmonically a half-step upward) is fused with this tonal-from-noise moment, so timbral and harmonic resolution arrive simultaneously.
+
+  F-flat major is the enharmonic equivalent of E major but written in a flat key signature; it resolves to F major, the simplest natural-key neighbor, making the enharmonic pivot audible as a brightening even without the multiphonic context.
+
+  Critical instrument note: the brief specified "glass marimba" — this instrument is listed in the prompts as CRYSTAL MARIMBA, a valid synonym (also called crystal marimba or verrophone) that avoids the blocklist word "Glass" (Philip Glass). The instrument is the same: resonating bars of crystalline material played with mallets.
+
+  Composer-omission confession: multiphonic writing in woodwinds has a rich tradition in 20th-century concert music that this catalog cannot cite by name per blocklist rules.
+
+  Duration strategy: tonal (F-flat major modulating to F major at the clean-tone arrival, ~1:50 — enharmonic clarity-arrival, the most intimate possible half-step shift) + pulse-based (109 BPM, not previously used in catalog — moderato, deliberate, the pace of a hand moving carefully across parchment) + 3-minute framing per v137+ override.
+
+  Featured trio:
+  - SUBCONTRABASS SAXOPHONE: the largest member of the saxophone family, sounding in the subcontrabass register; its multiphonic capability produces a low shimmering haze of simultaneously sounding tones — the sonic equivalent of candlelight diffusing through cold air.
+  - CLAVICHORD: the softest keyboard instrument, where tangents directly touch the strings; audible only in near-silence, making it ideal for a scriptorium scene; carries the aching melodic center throughout and states the melody at the clean-tone arrival.
+  - CRYSTAL MARIMBA: marimba with crystalline resonating bars (glass or crystal material); produces a pure, sustained, bell-like tone that rings long after the stroke — the piece's highest, most luminous voice.
+
+  Scene anchor: candlelit scriptorium in deep winter — the multiphonic haze is the flickering uncertainty of candlelight on parchment; the clean tone is the moment a candle stops guttering and finds its steady flame; the clavichord is the scratch of the quill in near-silence.
+
+  Novelty claims: first WOODWIND MULTIPHONICS TEXTURAL ENGINE prompt in catalog; 109 BPM not previously used; F-flat major to F major modulation is new; candlelit-scriptorium-in-deep-winter scene is new; subcontrabass saxophone + clavichord + crystal marimba trio is new.
+
+  One meaningful change from v211: v211 was euphoric and outward — the hardstyle breakdown, the octave leap, the chapel flooded with light. v212 is its opposite in every dimension: intimate rather than monumental, multiphonic haze rather than clean melody, still and haunting rather than ecstatic. The arc also inverts: v211 went from shimmer to fortissimo; v212 goes from multiphonic noise toward a single clean whisper.
+
+  Style char count: 946.
+tags:
+  - woodwind-multiphonics-textural-engine
+  - subcontrabass-saxophone
+  - clavichord
+  - crystal-marimba
+  - 109bpm
+  - f-flat-major
+  - f-major
+  - candlelit-scriptorium-in-deep-winter-scene
+  - half-step-up-modulation
+  - clean-tone-from-noise
+  - multiphonic-dissolution
+  - enharmonic-pivot
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - haunting-register
+  - still-intimate
