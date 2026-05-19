@@ -22,7 +22,16 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 **Harness additions this cycle:** Created persistent `suno-cycle` team (lead + researcher + novelty + drafter + judge + submitter) with pipelined overlap — v207 research/novelty run while v206 submits.
 
-**Open:** v207 inputs ready (misra capu 7-beat tala orchestral concept; novelty trio pending). Backlog v200–v205 committed alongside v206.
+**v200–v206 backlog (committed this cycle):**
+- v200 "I Will Not Outlive Your Voice" — chanson réaliste, wordless soprano + clarinet + string quartet
+- v201 "The Hour We Forgot to Mourn" — Baroque moto perpetuo, harpsichord + recorder + tympani
+- v202 "The Long Memory of a Single String" — solo theorbo passacaglia
+- v203 "The Smallest Prayer" — intimate chamber elegy (Daniela DAN clone diagnostic)
+- v204 "Mais Moi Je Reste" — chanson réaliste, valse musette, accordion + voice
+- v205 "Pas Une Larme de Plus" — chanson réaliste w/ Piaf theatrics (sob breaks, whisper-to-belt)
+- v206 "What the Foundry Releases" — COL LEGNO STRUCTURAL ARC (this cycle's submission)
+
+**Open:** v207 inputs ready (misra capu 7-beat asymmetric-meter orchestral concept; tuba + cor anglais + tubular bells, C#m→Dm, 97 BPM).
 
 ---
 
