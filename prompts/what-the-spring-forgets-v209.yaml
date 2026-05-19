@@ -1,0 +1,70 @@
+name: "what-the-spring-forgets"
+version: 209
+style: "ORCHESTRAL COLLAPSE-TO-SOLO ARC at a clockwork music box unwinding at midnight, total duration around 3:00. VIOLA DA GAMBA + GLOCKENSPIEL + THEREMIN carry a late-Romantic theme born in B minor at 99 BPM: viola da gamba states the melody alone at 0:00, warm and intimate over bare tremolo strings, glockenspiel ticking softly beneath like a clockwork mechanism winding. At 0:30 woodwinds join, then brass, then the full string body, theremin swelling its eerie wave through the layered build. At 1:45 the orchestra reaches full tutti — and cuts. Hard silence for two beats, then viola da gamba alone, key dropped to A-sharp minor, the same melody now bereft, theremin a thin ghost thread beneath. At 2:15 long held string tones creep back under the solo, quiet and unresolved. Near 2:50 one final orchestral breath, then silence as the mechanism runs down. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers. Underscore for midnight."
+title: "What the Spring Forgets"
+lyrics: |
+  [Solo Viola da Gamba — theme alone, bare tremolo strings beneath]
+
+  [Glockenspiel Ticking — clockwork mechanism winding]
+
+  [Woodwinds Enter — theme begins to swell]
+
+  [Brass and Full Strings — layered Romantic build, theremin rising]
+
+  [Full Tutti Peak]
+
+  [Hard Cut — orchestra gone]
+
+  [Viola da Gamba Alone — A-sharp minor, bereft, theremin ghost]
+
+  [Strings Creep Back — long held tones, unresolved]
+
+  [Final Orchestral Breath]
+
+  [Silence]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, clockpunk, steampunk, music box novelty, toy music, triumphant climax, wall of sound"
+notes: |
+  v209 introduces the ORCHESTRAL COLLAPSE-TO-SOLO ARC as its central structural and emotional device — not a technique demonstration but a beauty-first emotional arc in the register of the most devastating late-Romantic orchestral writing. The form is precisely: solo voice states a theme, the full orchestra is layered in until maximum tutti density is reached, then the orchestra CUTS in one hard gesture, leaving the solo voice alone with the theme. The cut IS the climax — grief made audible. The listener's expectation (that the swell will continue rising) is inverted by the sudden stripping-away. This deliberately reverses the catalog's predominant "silence before climax / then fortissimo return" arc; here the fortissimo is reached and then everything is taken away.
+
+  The clockwork music box metaphor serves the arc: the glockenspiel is the comb tines winding the mechanism; the orchestral build is the spring at maximum tension; the hard cut is the spring breaking; the viola da gamba's bereft solo is the last note still turning as the mechanism winds down toward midnight. The strings creeping back at 2:15 are not a recovery — they are the slow drag of stopped clockwork settling into silence.
+
+  Composer-omission confession: the emotional register and structural precedents for this arc — the solo-against-orchestra confrontation, the grief of a bereft voice after orchestral fullness — are inseparable from a tradition of named composers and works this catalog cannot cite per blocklist rules.
+
+  Duration strategy: tonal (B minor modulating a half-step DOWN to A-sharp minor at the hard cut, ~1:45 — an inverse darkening modulation, in contrast to the catalog's near-universal upward half-step at the climax; A-sharp minor is a zero-use tonal area) + pulse-based (99 BPM, not previously used) + 3-minute framing per v137+ override.
+
+  Featured trio:
+  - VIOLA DA GAMBA: baroque gut-string bowed instrument, warmer and darker than cello; states the theme at the very start AND is the lone survivor of the orchestral collapse — the grief voice that carries the melody alone into A-sharp minor.
+  - GLOCKENSPIEL: bright metallic bar-percussion; the clockwork ticking woven into the opening and the swell, marking the mechanism's turning.
+  - THEREMIN: continuous eerie wavering tone through the Romantic build; reduced to a thin ghost thread beneath the bereft viola da gamba solo — present but barely, like a fading electrical field.
+
+  Scene anchor: clockwork music box unwinding at midnight — the box winds to full tension (tutti peak), the spring breaks (hard cut), a single voice keeps turning as it winds down toward silence.
+
+  Novelty claims: first ORCHESTRAL COLLAPSE-TO-SOLO ARC prompt in catalog; 99 BPM not previously used; B minor to A-sharp minor (half-step DOWN, inverse direction) is new — catalog has used only upward modulation at climax; clockwork-music-box-at-midnight scene is new; viola da gamba + glockenspiel + theremin trio is new.
+
+  One meaningful change from v208: v208 used a three-part French overture form (slow → fast fugal → slow return) with a half-step UP key lift at the restored slow movement — brightness returning. v209 inverts both the structural logic (full collapse rather than formal restoration) and the tonal direction (half-step DOWN = loss, not arrival). The emotional register shifts from ceremonial-but-resolving to devastating and unresolved.
+
+  Style char count: 925.
+tags:
+  - orchestral-collapse-to-solo-arc
+  - viola-da-gamba
+  - glockenspiel
+  - theremin
+  - 99bpm
+  - b-minor
+  - a-sharp-minor
+  - clockwork-music-box-unwinding-at-midnight-scene
+  - half-step-down-modulation
+  - hard-cut-climax
+  - inverse-modulation
+  - beauty-first
+  - grief-register
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - orchestra-to-solo
+  - bereft-voice

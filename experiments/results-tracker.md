@@ -4,6 +4,30 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-05-19 — v209 cycle (orchestral collapse-to-solo — beauty-first course-correction)
+
+**Submitted:** v209 "What the Spring Forgets" (instrumental, late-Romantic; viola da gamba + glockenspiel + theremin) — clips `1b602245-6a32-4db4-a3a0-214583f0f8c4`, `bffa20b4-ab69-4996-a842-3459bb98116b`
+
+**What was tried:**
+- One meaningful change from v208 (and a deliberate axis break from the v206–v208 "form/technique-as-engine" run): an emotional, beauty-first arc — **orchestral collapse-to-solo**. A lush theme is born in solo viola da gamba, swells through layered orchestral build to full tutti (~1:45), then the orchestra HARD-CUTS away leaving the solo alone — the cut IS the climax (grief made audible), not a setup for another wave. Inverts the catalog's overused "silence before climax."
+- **Inverse modulation**: B minor → A-sharp minor, a half-step DOWN at the collapse (catalog almost always modulates up; downward = deflation/loss). A# minor was a zero-use tonal area.
+- 99 BPM (first use), scene = "clockwork music box unwinding at midnight" (four-register sensory mapping).
+
+**Why:**
+- Orchestrator quality gate: the researcher's first v209 idea (orchestral toccata) was a 4th consecutive Baroque/form-as-engine concept. Rejected and redirected per standing user guidance ([[feedback_classic_beauty_dopamine]], [[feedback_monumental_not_mediocre]]) toward emotional, beauty-first music. Researcher returned the collapse-to-solo concept; novelty picked the deep-revival trio (gaps 71–76) + unused BPM.
+
+**What we learned:**
+- The lead must enforce thematic variety, not just relay concepts — three structure-as-engine cycles in a row was drift. Caught and corrected mid-pipeline.
+- Drafter self-revised after an early hand-off (first draft used gradual fragmentation, not the briefed hard cut) → created a drafter/judge file race. Process fix: do not dispatch judge until the drafter sends a FINAL confirmation. Judge re-read fresh; no stale merge.
+- Submitter race fixed: this cycle the submitter was explicitly barred from writing logs (lead owns logging — [[feedback_submitter_owns_no_logs]]); sequenced handoff (submit → lead logs → submitter commits) prevents the duplicate entry.
+- Judge 98/100 in 1 iteration (only fix: purpose phrase). Fourth straight 97–98 first pass.
+
+**Harness additions this cycle:** [[feedback_submitter_owns_no_logs]] memory created + applied; sequenced submit/log/commit handoff established.
+
+**Open:** v210 inputs not yet fetched (held until v209 confirmed submitted — now done). Continue the emotional/varied-axis direction; do not snap back to form-as-engine.
+
+---
+
 ## 2026-05-19 — v208 cycle (French overture structural form)
 
 **Submitted:** v208 "Before the Copper Turns Cold" (instrumental orchestral; prepared piano + handpan + bass flute) — clips `75e63e60-f5b2-4c2d-b92c-8c831aa597e8`, `1746a7cf-910d-406b-b494-475b84d02660` (still generating; copper-roof thumbnails)

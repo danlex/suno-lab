@@ -2,7 +2,7 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v208 (2026-05-19)
+Last updated: v209 (2026-05-19)
 
 ## Mindmap (Mermaid)
 
@@ -38,6 +38,7 @@ mindmap
         Col Legno Structural Arc — three bow-contact states: col legno battuto → sul ponticello tremolo → arco return; acoustic climax is the *return* of normal tone [v206]
         Asymmetric Metric Arc — 7-beat 3+4 pulse withholds beat-1 arrival for ~2 min, releases it fused with half-step modulation; rhythmic + tonal resolution delivered as single blow [v207]
         French Overture — Baroque tri-part: slow over-dotted ceremonial march → fast fugal/imitative middle → brief slow over-dotted return as elegy; form-as-drama via tempo/texture pivot, first sustained major-key arc [v208]
+        Orchestral Collapse-to-Solo — theme swells to full tutti then HARD-CUTS to one solo voice; the cut IS the climax (grief), inverse half-step DOWN modulation; inverts "silence before climax" — beauty-first not technique-first [v209]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -230,6 +231,8 @@ mindmap
 | Extended-technique structural arc | v206 | New — col legno→ponticello→arco as the form itself, the timbre shift is the climax |
 | Pipelined team (research/novelty overlap submit) | v206 | New — suno-cycle team; next-version inputs computed while current submits |
 | French overture tri-part form | v208 | New — slow over-dotted → fast fugal → slow return; confine period/pastiche + composer words to exclude_styles only |
+| Orchestral collapse-to-solo | v209 | New — tutti hard-cut to lone solo as climax; inverse downward modulation; beauty-first emotional axis (deliberate break from form-as-engine run) |
+| Lead enforces thematic variety | v209 | New — orchestrator rejects/redirects research that repeats the recent axis; don't just relay concepts |
 
 ## Last 5 prompts at a glance
 
