@@ -4,6 +4,29 @@ Per-cycle record of what was tried, why, and what we learned. Append new entries
 
 ---
 
+## 2026-05-19 — v211 cycle (euphoric orchestral hardstyle breakdown — energy contrast)
+
+**Submitted:** v211 "What the Chapel Holds at Dawn" (instrumental, high-energy euphoric; french horn + marimba + ondes martenot) — clips `77352f74-a7ef-456c-a48f-025b6ccb9329`, `e18112ea-d990-4292-8030-e62431c5ed84`
+
+**What was tried:**
+- One meaningful change from v210 (warm neo-soul): a deliberate ENERGY contrast after several slow/aching pieces — the cinematic breakdown of euphoric hardstyle realized with full live orchestra, kick removed. Yearning anthemic progression with relative-major lifts, octave-leap melody, ecstatic build to a dawn-flood payoff.
+- French horn carries the anthemic octave-leap; marimba is the forward pulse REPLACING the kick (no percussion-driven beat); ondes martenot substitutes for the genre's supersaw stacks.
+- Key C-flat major → C major (half-step UP at the drop ~1:50 = darkness to first light). 105 BPM. Scene: what the chapel holds at dawn (first light through frosted panes).
+
+**Why:**
+- Synthesis-era axis (electronic genre + orchestra) but emotional/anthemic, not academic. Continues the corrected beauty-first mandate while restoring high-energy dopamine after the slow run.
+
+**What we learned:**
+- Judge 96/100 in 1 iteration (only fix: a purpose phrase). Stays in the strong band; the euphoric-anthem axis works.
+- Drafter post-FINAL re-edit recurred a 3rd time (added 4 exclude_styles terms after FINAL) → dedicated memory created ([[feedback_drafter_no_edits_after_handoff]]): forbid the drafter from editing after its completion signal; it must report further changes as TEXT; judge is sole writer after handoff. Mitigated cleanly (judge re-read fresh, no clobber).
+- **Website-playback gap found & fixed:** the site (http://suno.alexandrudan.com/) only renders Suno embed players for titles present in `docs/suno_urls.json`, which hadn't been updated since Apr 13 — every song this session was unlistenable on the site. Backfilled v206–v210, and **added the suno_urls.json update as a permanent close-out step** (memory [[feedback_submitter_owns_no_logs]] updated). v211's entry added this close-out.
+
+**Harness additions this cycle:** suno_urls.json update is now part of every close-out; drafter-no-edits-after-handoff rule memorialized.
+
+**Open:** v212 inputs not yet fetched (held until v211 confirmed submitted — now done). Continue emotional/varied-axis; alternate energy registers (had euphoric high — consider a contrasting register next).
+
+---
+
 ## 2026-05-19 — v210 cycle (neo-soul orchestral fusion — best score of run)
 
 **Submitted:** v210 "A Light the Room Still Holds" (instrumental; hurdy gurdy + celesta + contrabass clarinet) — clips `4810bf66-b46a-4840-abc7-ceda42f143a9`, `a76edf32-e307-499f-b015-5870a8954bc9`

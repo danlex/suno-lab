@@ -1,0 +1,67 @@
+name: "what-the-chapel-holds-at-dawn"
+version: 211
+style: "EUPHORIC ORCHESTRAL HARDSTYLE BREAKDOWN at first light through a frosted chapel window, total duration around 3:00. FRENCH HORN + MARIMBA + ONDES MARTENOT drive a beauty-first arc in C-flat major at 105 BPM: marimba hammers the hardstyle pulse, its wooden attack replacing the kick — propulsive; french horn soars the anthemic octave-leap melody above, wide open and luminous; ondes martenot sings a continuous aching tone, trembling like cold light through frosted panes. At 0:25 strings swell in the breakdown shimmer. At 1:00 full orchestral tutti builds, brass and woodwinds layering the melody in counterpoint. At 1:50 everything strips to marimba alone for four beats — then the orchestra returns at full force, key lifts to C major, the chapel flooded with light. French horn sings the octave-leap phrase fortissimo, ondes martenot beneath. Ends at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers. Score for dawn."
+title: "What the Chapel Holds at Dawn"
+lyrics: |
+  [Short Instrumental Intro — marimba hardstyle pulse alone]
+
+  [French Horn Octave-Leap Melody Enters — luminous, anthemic]
+
+  [Ondes Martenot Aching Tone — trembling beneath]
+
+  [Strings Swell — breakdown shimmer builds]
+
+  [Full Orchestral Tutti — brass, woodwinds, counterpoint surge]
+
+  [Marimba Alone — four beats, stripped bare]
+
+  [Orchestra Returns — key lifts to C major, chapel flooded]
+
+  [French Horn Fortissimo — octave leap in new key]
+
+  [Ondes Martenot Sustains — final breath]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, hardstyle kick drum, gabber, industrial, rave, trance, techno, dance floor, four-on-the-floor, distorted bass, hardcore, festival"
+notes: |
+  v211 introduces EUPHORIC ORCHESTRAL HARDSTYLE BREAKDOWN as its structural and emotional concept — a genre-crossing that borrows hardstyle's distinctive formal arc (the breakdown strip followed by the euphoric drop/return) while removing every electronic element and replacing them with live acoustic orchestra. The defining formal feature of hardstyle — the build to full density, the sudden strip-back to minimal texture (often just kick and a single melodic element), then the full-force return — is preserved intact, but realized entirely in acoustic instruments. The marimba takes the kick's role: its wooden attack provides the forward propulsion that hardstyle depends on without triggering electronic genre associations. The euphoria is produced by acoustic means: the octave-leap in french horn, the counterpoint surge in the tutti, the key lift at the drop.
+
+  The concept is beauty-first: the aim is the specific euphoric feeling of a hardstyle breakdown — the release, the light flooding in, the soaring melody arriving at the moment of greatest force — translated into an orchestral language that can produce that response without electronic mediation.
+
+  Composer-omission confession: orchestral genre fusion has precedents across 20th-century concert music that this catalog cannot name per blocklist rules.
+
+  Duration strategy: tonal (C-flat major modulating a half-step UP to C major at the drop/return, ~1:50 — the enharmonic flip from the sharpest flat key to the simplest natural key is itself an arrival, a clearing; C major reads as light) + pulse-based (105 BPM, not previously used in catalog — moderato-allegretto, brisk enough to carry the hardstyle groove without becoming driving) + 3-minute framing per v137+ override.
+
+  Featured trio:
+  - FRENCH HORN: warm, rounded brass with wide dynamic range; carries the anthemic octave-leap melody that is the piece's emotional center — the phrase that soars at the drop and returns fortissimo in C major at the climax.
+  - MARIMBA: wooden mallet percussion with warm resonant attack; replaces the hardstyle kick drum, providing forward pulse and the strip-back moment (marimba alone for four beats) that defines the breakdown structure.
+  - ONDES MARTENOT: early electronic instrument with a continuous, voice-like singing tone controlled by a keyboard and ribbon; provides the aching continuous thread beneath the harmony — the trembling quality of light through frosted panes — distinct from any synthesizer and classified as acoustic/electro-acoustic.
+
+  Scene anchor: first light through a frosted chapel window at dawn — the hardstyle build is the gradual brightening; the strip to marimba is the held breath before the sun clears the horizon; the C major return is the chapel flooded with light.
+
+  Novelty claims: first EUPHORIC ORCHESTRAL HARDSTYLE BREAKDOWN prompt in catalog; 105 BPM not previously used; C-flat major to C major modulation is new (enharmonic clarity-arrival); first-light-through-frosted-chapel-window scene is new; french horn + marimba + ondes martenot trio is new.
+
+  One meaningful change from v210: v210 used a neo-soul warm-groove structure — slow-burn, intimate, aching warmth; emotional register restrained and inward. v211 swings to the opposite end of the euphoria scale: the hardstyle breakdown is outward, soaring, arriving, light-flooded. Same beauty-first mandate, opposite emotional direction.
+
+  Style char count: 941.
+tags:
+  - euphoric-orchestral-hardstyle-breakdown
+  - french-horn
+  - marimba
+  - ondes-martenot
+  - 105bpm
+  - c-flat-major
+  - c-major
+  - first-light-through-frosted-chapel-window-scene
+  - half-step-up-modulation
+  - breakdown-drop-structure
+  - kick-replacement-marimba
+  - octave-leap-melody
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - euphoric-register
+  - acoustic-hardstyle

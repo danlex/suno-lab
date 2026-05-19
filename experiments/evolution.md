@@ -2,7 +2,7 @@
 
 This file is my evolving knowledge of Suno prompt craft. Update it at the end of every cycle with any new learning. Data anchors refresh by running `python3 scripts/novelty_surface.py`.
 
-Last updated: v210 (2026-05-19)
+Last updated: v211 (2026-05-19)
 
 ## Mindmap (Mermaid)
 
@@ -40,6 +40,7 @@ mindmap
         French Overture — Baroque tri-part: slow over-dotted ceremonial march → fast fugal/imitative middle → brief slow over-dotted return as elegy; form-as-drama via tempo/texture pivot, first sustained major-key arc [v208]
         Orchestral Collapse-to-Solo — theme swells to full tutti then HARD-CUTS to one solo voice; the cut IS the climax (grief), inverse half-step DOWN modulation; inverts "silence before climax" — beauty-first not technique-first [v209]
         Neo-Soul Orchestral Fusion — extended jazz harmony (9ths/11ths/13ths) on a slow-burn sighing groove, orchestra sinks INTO the groove; warmth that aches; scored 100/100 — best of the v207-v210 run, validates beauty-first over form-as-engine [v210]
+        Euphoric Orchestral Hardstyle Breakdown — genre's anthemic breakdown realized with live orchestra, kick removed; octave-leap melody, relative-major lifts, half-step lift = dawn-flood payoff; marimba replaces the kick [v211]
         Build-silence-return — standard linear [v93-v108]
       Prompt craft
         Timestamps — explicit time anchors in style
@@ -235,6 +236,8 @@ mindmap
 | Orchestral collapse-to-solo | v209 | New — tutti hard-cut to lone solo as climax; inverse downward modulation; beauty-first emotional axis (deliberate break from form-as-engine run) |
 | Lead enforces thematic variety | v209 | New — orchestrator rejects/redirects research that repeats the recent axis; don't just relay concepts |
 | Beauty-first beats form-as-engine | v210 | Confirmed — emotional/genre-fusion axes (v209-v210) score 98-100 vs academic form pieces 97; prefer emotional payload over technique demos |
+| suno_urls.json update in close-out | v211 | New — site only plays titles present in docs/suno_urls.json; add the new song's title→clip-UUIDs every close-out or it's unlistenable on http://suno.alexandrudan.com/ |
+| Drafter is read-only after handoff | v211 | New — suno-drafter reliably re-edits post-FINAL (3x); forbid file edits after its completion signal, it reports changes as text, judge is sole writer |
 | Sequenced submit/close-out + literal FINAL gate | v210 | New — submitter submits+reports only; lead owns logs+build+commit+push; dispatch judge only on the drafter's literal "FINAL" message |
 
 ## Last 5 prompts at a glance
