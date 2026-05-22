@@ -1,0 +1,118 @@
+name: "when-the-horn-finds-open-air"
+version: 215
+style: "STOPPED HORN CUIVRÉ extended-technique arc at a lantern-lit scriptorium before dawn,\
+  \ total duration around 3:00. STOPPED HORN + CRISTAL BASCHET + FELT PIANO unfurl a\
+  \ whisper-to-bite drama in D-flat minor at 122 BPM: at 0:00 stopped horn enters alone,\
+  \ hand sealing the bell, piano dynamic — tone tender and dull, a muted bite in cold\
+  \ air over sparse cristal baschet bowed harmonics. At 0:25 felt piano joins below,\
+  \ muffled warmth like lamplight on parchment. At 1:00 cristal baschet blooms; the horn\
+  \ pushes outward, hand-stopped pressure rising toward cuivré — the buzzy cracked brass\
+  \ edge. At 2:00 peak: forte cuivré crackle, flutter-tongue bite. Silence at 2:10, five\
+  \ seconds. At 2:15 horn returns open-bell in D minor, half-step up — clean tone,\
+  \ fortississimo, clarity out of distortion, the scriptorium lit. Ends at 2:50. No\
+  \ guitars, no vocals, no rock drums, no brass band, no synthesizers. Underscore for\
+  \ a single held breath in cold stone."
+title: "When the Horn Finds Open Air"
+lyrics: |
+  [Short Instrumental Intro — stopped horn alone, muted bite in cold air]
+
+  [Felt Piano Enters — muffled warmth under the horn]
+
+  [Cristal Baschet Blooms — bowed harmonics thicken, horn pushes toward cuivré]
+
+  [Peak Density — forte cuivré crackle, flutter-tongue bite]
+
+  [Silence]
+
+  [Open-Bell Return — clean horn tone, half-step up to D minor]
+
+  [Resolution — clarity out of distortion, scriptorium lit]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi,\
+  \ vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age,\
+  \ experimental noise, free jazz, atonal, microtonal, quarter-tone, brass band, military\
+  \ brass, fanfare ensemble, jazz trumpet, bebop, smooth jazz, horror ambient, battle\
+  \ music, war drums"
+notes: |
+  v215 introduces STOPPED HORN CUIVRÉ as its structural concept — the catalog's first
+  brass extended-technique prompt. Stopped horn is a centuries-old technique in which
+  the player seals the bell with their right hand, splitting the timbre into two extremes
+  depending on dynamic level: at piano the tone becomes tender, dull, and quasi-muted
+  (the "muted bite" quality); at forte the resonance cracks into a wild buzzy edge called
+  cuivré (French: "brassy"), an effect that transforms the instrument into something
+  almost unrecognizable. Flutter-tongue — rapid tongue articulation producing a percussive
+  trill — is used at the peak to intensify the cuivré crackle. The drama is a
+  whisper-to-bite binary from a single instrument; the emotional resolution is the
+  open-bell return — the hand lifts, the bell opens, and the horn's natural clean tone
+  emerges as clarity out of self-imposed distortion.
+
+  concept_source: Stopped horn / cuivré is a core technique of the natural horn tradition,
+  developed primarily in the 18th and early 19th centuries when valved instruments were
+  not yet standard; players used hand-stopping not only for coloristic effect but to
+  play chromatic pitches the natural instrument could not reach otherwise. The cuivré
+  quality at forte is documented in orchestral writing across the Romantic period and in
+  20th-century horn pedagogy. This catalog cannot name specific composers per blocklist rules.
+
+  Composer-omission confession: stopped horn and cuivré have rich documented histories
+  in concert and orchestral writing from the Classical era onward; this catalog cannot
+  cite any composer or performer by name per blocklist rules.
+
+  Duration strategy: tonal (D-flat minor opening → D minor at the open-bell return,
+  an enharmonic half-step lift that makes the tonal arrival coincide with the timbral
+  resolution — the key brightening and the distortion lifting are one simultaneous event)
+  + pulse-based (122 BPM, first use in catalog — moderato-allegretto, deliberate enough
+  for the hand-stopped dynamics to register without feeling rushed) + 3-minute framing
+  per v137+ override.
+
+  Featured trio:
+  - STOPPED HORN (×0 as primary technique — catalog first): the French horn played with
+    hand sealing the bell; whisper-to-bite centerpiece carrying the full dynamic arc from
+    tender/dull piano to forte cuivré crackle and finally open-bell clarity at 2:15.
+  - CRISTAL BASCHET (×5, last v144 — 71-gap): invented 1952 by the Baschet brothers;
+    metal and crystal rods bowed with wet fingertips, harmonic-rich sustained tones in the
+    1–4 kHz range that produce spatial disorientation — the brain cannot locate the source;
+    provides the fragile ethereal shimmer above the stopped horn throughout.
+  - FELT PIANO (×3, last v140 — 75-gap): standard grand piano with felt strips inserted
+    between hammers and strings; each struck note becomes muffled, intimate, and warm,
+    the attack softened to a breath — provides the warm harmonic foundation beneath.
+
+  Scene anchor: a lantern-lit scriptorium before dawn — the stopped horn's muted dullness
+  is the cold stone silence before first light; the cuivré crackle is distortion (doubt,
+  strain, the darkness before dawn); the open-bell return in D minor at 2:15 is clean
+  light arriving — a single held breath released into clarity.
+
+  Novelty claims: first STOPPED HORN CUIVRÉ prompt in catalog (first brass
+  extended-technique entry); 122 BPM not previously used in any catalog YAML; D-flat minor
+  to D minor modulation is new; lantern-lit-scriptorium-before-dawn scene not previously
+  used; stopped horn + cristal baschet + felt piano trio is new; cuivré + flutter-tongue
+  combination not previously used.
+
+  Style char count: 945.
+tags:
+  - stopped-horn-cuivré
+  - orchestral-stopped-horn-cuivré
+  - stopped-horn
+  - cristal-baschet
+  - felt-piano
+  - 122bpm
+  - d-flat-minor
+  - d-minor
+  - lantern-lit-scriptorium-before-dawn-scene
+  - half-step-up-modulation
+  - open-bell-return
+  - cuivré-crackle
+  - flutter-tongue
+  - hand-stopped
+  - muted-bite
+  - timbral-resolution
+  - brass-extended-technique
+  - revival-cristal-baschet-71-gap
+  - revival-felt-piano-75-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - whisper-to-bite-arc

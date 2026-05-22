@@ -258,6 +258,8 @@ mindmap
 | 128 | Every Sound Contains a Thousand Sounds | orchestral spectral | Eb→E MAJOR | 86 | spinet + bowed vibraphone + musical saw |
 | 129 | Where Each Note Decides Itself | orchestral aleatoric | Db→D minor | 82 | french horn + harp + waterphone |
 | 130 | The Row That Never Repeats | orchestral twelve-tone | ATONAL | 98 | contrabass + trumpet + vibraphone |
+| ... | (v131–v214 not logged in this table) | — | — | — | — |
+| 215 | When the Horn Finds Open Air | brass extended-technique cuivré arc | Db→D minor | 122 | stopped horn + cristal baschet + felt piano |
 
 ## Next-cycle priorities
 
