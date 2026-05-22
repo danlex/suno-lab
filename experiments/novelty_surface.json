@@ -1,6 +1,6 @@
 {
-  "total_prompts": 213,
-  "latest_version": 213,
+  "total_prompts": 214,
+  "latest_version": 214,
   "instruments": {
     "organ": [
       1,
@@ -103,7 +103,8 @@
       210,
       211,
       212,
-      213
+      213,
+      214
     ],
     "pipe organ": [
       1,
@@ -197,7 +198,8 @@
       210,
       211,
       212,
-      213
+      213,
+      214
     ],
     "piano": [
       1,
@@ -609,6 +611,12 @@
       134,
       207
     ],
+    "cornet": [
+      115,
+      127,
+      140,
+      214
+    ],
     "flugelhorn": [
       106,
       123,
@@ -627,11 +635,23 @@
       133,
       208
     ],
+    "hardanger fiddle": [
+      111,
+      124,
+      137,
+      214
+    ],
     "hurdy gurdy": [
       113,
       125,
       139,
       210
+    ],
+    "mbira": [
+      109,
+      124,
+      142,
+      214
     ],
     "nyckelharpa": [
       111,
@@ -698,11 +718,6 @@
       125,
       186
     ],
-    "cornet": [
-      115,
-      127,
-      140
-    ],
     "felt piano": [
       112,
       127,
@@ -713,20 +728,10 @@
       121,
       138
     ],
-    "hardanger fiddle": [
-      111,
-      124,
-      137
-    ],
     "kora": [
       31,
       118,
       181
-    ],
-    "mbira": [
-      109,
-      124,
-      142
     ],
     "mellotron": [
       116,
@@ -961,16 +966,11 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187
     ],
-    "baroque": [
-      188,
-      191
-    ],
     "chamber": [
+      191,
       192,
       203
     ],
@@ -982,8 +982,15 @@
       111,
       202
     ],
+    "symphonic": [
+      162,
+      178
+    ],
     "2-step garage": [
       100
+    ],
+    "baroque": [
+      188
     ],
     "minimalist": [
       201
@@ -1187,6 +1194,11 @@
       124,
       134
     ],
+    "g-sharp minor": [
+      143,
+      180,
+      214
+    ],
     "a-flat major": [
       90,
       185
@@ -1218,10 +1230,6 @@
     "g major": [
       42,
       120
-    ],
-    "g-sharp minor": [
-      143,
-      180
     ],
     "ab major": [
       43
@@ -1508,6 +1516,9 @@
     "118": [
       134
     ],
+    "119": [
+      214
+    ],
     "120": [
       1,
       54,
@@ -1584,6 +1595,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 214,
+      "title": "Before the Gate Finds Stillness",
+      "name": "before-the-gate-finds-stillness",
+      "featured": [],
+      "genre": null,
+      "key": "g-sharp minor",
+      "bpm": 119
+    },
     {
       "version": 213,
       "title": "Before the Forest Closes In",
@@ -1805,7 +1825,7 @@
       "featured": [
         "nyckelharpa"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
@@ -1944,7 +1964,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2088,7 +2108,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
