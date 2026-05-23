@@ -1,0 +1,111 @@
+name: "every-gap-an-engine"
+version: 217
+style: "ORCHESTRAL HOCKET at an ironworks yard at high noon, total duration around 3:00. OPHICLEIDE + BARYTON + STEELPAN lock into interlocking voices in E-flat major at 127 BPM: at 0:00 ophicleide opens alone — deep brass weight, a rising figure shaped by its own rests. At 0:40 baryton threads in on bowed sympathetic strings, answering each gap, weaving a stuttering melodic relay without drums. At 1:20 steelpan punches in as the top hocket voice, bright percussive attack filling syncopated gaps — interlocking web at full density, relentless as hammers on iron. At 2:00 peak: all three in strict alternating rests, continuous forward drive. Silence at 2:10, five seconds: one voice bare. At 2:20 all three re-enter a half-step up in E major — brighter, harder, fortississimo. Decisive close at 2:50. Cinematic tuned percussion, not calypso. No guitars, no rock drums, no vocals, no pipe organ, no synthesizers. Score for a machine that never stops."
+title: "Every Gap an Engine"
+lyrics: |
+  [Short Instrumental Intro — ophicleide alone, rising figure cut by its own rests]
+
+  [Baryton Enters — bowed sympathetic strings answer each gap, two-voice relay]
+
+  [Steelpan Punches In — top hocket voice, bright attack fills syncopated gaps]
+
+  [Full Interlocking Web — all three voices, maximum density and drive]
+
+  [Peak — strict alternating rests, relentless forward motion]
+
+  [Silence — one voice bare]
+
+  [Return Half-Step Up — all three re-enter in E major, fortississimo]
+
+  [Final Drive — bright noon light flooding the yard]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, calypso, steel band, Caribbean, African drumming, drum circle, folk, battle music, war drums, percussion ensemble"
+notes: |
+  v217 introduces ORCHESTRAL HOCKET as its structural concept — the catalog's first
+  prompt built entirely around this medieval and early-modern rhythmic device. Hocket
+  (the English term, from medieval Latin) is a technique in which a single melodic line is split across
+  two or more voices in strict alternation: where one voice sounds, the others rest,
+  and where the others sound, the first rests. The result is a continuous forward
+  melodic impulse that is relentlessly propulsive even though each individual voice
+  plays sparsely. The technique appears extensively in 13th–14th century polyphony and
+  resurfaces in minimalist and spectral orchestral writing of the late 20th century as
+  a rhythmic engine that produces drive without percussion.
+
+  concept_source (what was researched): orchestral hocket as a catalog-first rhythmic
+  engine — the fundamental insight is that the GAPS between notes are themselves
+  rhythmically load-bearing. Each rest is filled by another voice, so the silences are
+  not empty but driven. This produces relentless forward propulsion without drums, which
+  makes it ideal for an instrumental-only cinematic score that must feel kinetic and
+  mechanical. The technique is also a deliberate tonal flip from v212–v216 (slow,
+  introspective, shimmer-based) toward something bright, mechanical, and alive.
+
+  Composer-omission confession: hocket has a documented history in medieval polyphony
+  and in 20th-century orchestral minimalism that this catalog cannot cite by composer
+  name per blocklist rules. The technique itself is named and described without reference
+  to specific practitioners.
+
+  Duration strategy: tonal (E-flat major opening → E major at the fortississimo return
+  at 2:20 — a clean half-step lift that lands simultaneously with the full re-entry of
+  all three voices, making tonal and textural resolution coincide) + pulse-based
+  (127 BPM, brisk and driving — not previously used in catalog; fast enough to make the
+  hocket relay feel mechanical and urgent, slow enough to let each voice articulation
+  register distinctly) + 3-minute framing per v137+ override.
+
+  Featured trio:
+  - OPHICLEIDE: a 19th-century keyed brass instrument — the precursor to the tuba,
+    built with a wide conical bore and large key-covered tone holes; produces a deep,
+    weighty brass tone with a slight roughness compared to modern brass; takes the first
+    hocket voice, opening alone with a rising figure shaped by its own rests, and anchors
+    the harmonic foundation throughout.
+  - BARYTON: a bowed string instrument of the viol family with additional sympathetic
+    strings that resonate freely beneath the bowed strings, adding a warm silvery
+    undertow to every note; takes the second hocket voice, entering at 0:40 to answer
+    the ophicleide's rests with bowed warmth and sympathetic-string shimmer.
+  - STEELPAN: a tuned metal percussion instrument from Trinidad and Tobago — rendered
+    here as cinematic tuned metal (NOT calypso or steel-band): bright, cutting attack,
+    each note a precise metallic strike; takes the top hocket voice at 1:20, punching
+    syncopated attacks into the gaps left by ophicleide and baryton, the highest and
+    brightest strand of the relay.
+
+  Scene anchor: an ironworks yard at high noon — sparks, hammers, interlocking machine
+  rhythms, the bright hard light of noon on metal surfaces. The hocket relay mirrors the
+  interlocking cadence of industrial machinery: each part moves in the gaps the others
+  leave, the whole yard moving as one continuous engine even though no single part ever
+  sounds continuously.
+
+  Novelty claims: first ORCHESTRAL HOCKET prompt in catalog; first ophicleide-led hocket
+  prompt in catalog; 127 BPM not previously used in catalog; E-flat major to E major
+  modulation (purely major half-step lift) is new in catalog; ironworks-yard-at-high-noon
+  scene is new; ophicleide + baryton + steelpan trio is new and has not appeared in any
+  combination.
+
+  One meaningful change from v212–v216: those versions were slow, introspective, and
+  shimmer-based (multiphonics, stopped horn, mensuration canon, sympathetic strings).
+  v217 is the deliberate kinetic counter-voice: bright, mechanical, forward-driven,
+  127 BPM, no shimmer, no haze — pure relay momentum. The scene mirrors this: not a
+  scriptorium or chapel but an ironworks yard at noon.
+
+  Style char count: 941.
+tags:
+  - orchestral-hocket
+  - ophicleide
+  - baryton
+  - steelpan
+  - 127bpm
+  - e-flat-major
+  - e-major
+  - ironworks-yard-at-high-noon-scene
+  - half-step-up-modulation
+  - stuttering-melodic-relay
+  - interlocking-voices
+  - alternating-rests
+  - hocket-counterpoint
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - kinetic-mechanical
+  - industrial-kinetic
