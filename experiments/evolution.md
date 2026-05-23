@@ -260,6 +260,7 @@ mindmap
 | 130 | The Row That Never Repeats | orchestral twelve-tone | ATONAL | 98 | contrabass + trumpet + vibraphone |
 | ... | (v131–v214 not logged in this table) | — | — | — | — |
 | 215 | When the Horn Finds Open Air | brass extended-technique cuivré arc | Db→D minor | 122 | stopped horn + cristal baschet + felt piano |
+| 216 | A Hall the Water Will Not Leave | bell-halo two-voice structure | Bb→B minor | 123 | nyckelharpa + tenor saxophone + mellotron |
 
 ## Next-cycle priorities
 
