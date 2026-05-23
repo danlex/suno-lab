@@ -60,6 +60,15 @@ Updated 2026-04-13. Target ~3:00. Timestamps can shift ±10 seconds per section.
 
 6. **Submit** via `/suno prompts/[file].yaml`. This loads browser tools and fills the Suno UI in Advanced mode, clicks Create. If the browser is disconnected or Suno is unreachable, **abort the cycle** — log to `experiments/cron_failures.md` and exit. Never auto-retry submissions.
 
+6b. **Publish the new song on Suno (PRE-AUTHORIZED — never ask the user).** After Create succeeds and you have the first clip UUID, make it public so it appears on the public profile. Flow (coordinates are for a ~1568-wide viewport; re-read from a screenshot if the viewport differs):
+   - Navigate to `suno.com/song/{first_uuid}` and wait ~3s (loads scrolled to top).
+   - Screenshot. The action-row "..." (More) button is at x≈565; its Y varies with description length (~440–485). Read the actual Y.
+   - Click "...". The dropdown opens at a FIXED position regardless of button Y.
+   - **Safety:** if the menu shows "Unpublish" the song is already public — press Escape and skip. If it shows "Publish", continue.
+   - Click "Publish" (≈488,426). A "Publish Song" dialog opens (~2s). Confirm it's present.
+   - Click the dialog's "Publish" button (≈987,645). Wait ~3s; dialog closes = published.
+   - If publishing fails (disconnect/dialog never appears after 2 tries), log to `cron_failures.md` with step="publish" but DO NOT abort — continue to build/commit/push (the song is still created; publish can be retried later). Publishing newly-created songs is part of the autonomous workflow per `feedback_cron_auto_submit_override.md` — do not pause for approval.
+
 7. **Rebuild site**: `python3 scripts/build_site.py`
 
 8. **Update evolution.md + results-tracker.md** — append a new cycle-log entry with what was tried, why, what was learned. Move any newly-applied technique from "next-cycle priorities" to "cycle technique register".
