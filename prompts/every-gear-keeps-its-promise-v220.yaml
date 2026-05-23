@@ -1,0 +1,109 @@
+name: "every-gear-keeps-its-promise"
+version: 220
+style: "PERPETUUM MOBILE for a clockwork orrery turning through the cold night, total duration around 3:00, with HARPSICHORD + GLASS HARMONICA + CONTRABASSOON — unbroken sixteenth-note motion in F minor, 131 BPM, no resolution. The harpsichord launches the ostinato at 0:00, full speed from the first beat, a bass anchor that never stops. The glass harmonica glides in at 0:20, ethereal overtones circling as kinetic shimmer. At 1:00 the contrabassoon enters — sub-bass, antique depth — and a dark-toned string slab thickens the motion, no cadential landing. The spinning plateau from 1:45 holds tension flat: no silence, no modulation, only the turning of gears and planetary arms. From 2:15 layers dissolve: glass harmonica fades, then strings, then contrabassoon; harpsichord spins down in F minor, ending by winding away. Underscore for a mechanism that has never known stillness. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Every Gear Keeps Its Promise"
+lyrics: |
+  [Short Instrumental Intro — harpsichord ostinato launches, full speed from the first beat]
+
+  [Glass Harmonica Spins In — ethereal overtones circling above the continuo]
+
+  [Contrabassoon Enters Beneath — sub-bass counterweight, antique depth under the spin]
+
+  [String Slab Thickens — sul tasto density expanding into the existing motion]
+
+  [Full Spinning Plateau — maximum kinetic density, tension held flat, no release]
+
+  [Layers Begin to Dissolve — glass harmonica fades out, then strings withdraw]
+
+  [Contrabassoon Descends Away — deepest voice the last to go]
+
+  [Harpsichord Alone Winding Down — spinning figuration slowing in F minor]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle,
+  lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation,
+  new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Baroque
+  pastiche, Renaissance dance, harpsichord novelty, jig, continuo parody, early music
+  dance, period performance comedy"
+notes: |
+  PERPETUUM MOBILE (also: moto perpetuo, toccata perpetuo) is a compositional
+  form defined by a single iron rule: the stream of equal-value notes — typically
+  sixteenth notes — must never pause. No rest, no fermata, no breath, no cadential
+  landing. The form is documented in Baroque keyboard toccatas and later in 19th-century
+  virtuoso concert etudes; this catalog cannot cite individual composers per blocklist
+  policy. The defining emotional register is not drama but hypnosis: sustained kinetic
+  tension held flat by the refusal to resolve, not by building and releasing.
+
+  Research note: This prompt was developed specifically to break the four-version arc
+  (v216, v217, v218, v219) that all used the same structural skeleton — quiet entry,
+  build, silence around 2:00-2:10, half-step-up modulation and fortississimo return.
+  That architecture is deeply effective but was repeating too frequently. PERPETUUM
+  MOBILE breaks every reflex of that form: there is no silence, no modulation, no
+  half-step return, no climax-and-release. Tension is held flat by ceaseless motion.
+  The piece ends not by landing but by winding away — the gears slowing to stillness
+  in the same key they started, F minor unchanged.
+
+  Composer-omission confession: perpetuum mobile writing has documented history in
+  Baroque keyboard literature and 19th-century concert etude tradition. No composer
+  names appear per blocklist rules; the form itself is the subject.
+
+  Duration strategy: 131 BPM provides a pulse fast enough to make sixteenth-note
+  motion feel genuinely ceaseless (at 131 BPM, four sixteenths per beat = 524
+  sixteenth notes per minute — a true stream) while remaining slow enough for the
+  glass harmonica overtones to sustain between attacks. Tonal anchor is stable F minor
+  throughout with zero modulation — first use of a non-modulating perpetuum mobile in
+  this catalog. Target 2:30–3:30 per v137+ override.
+
+  Featured trio with version gaps:
+  - HARPSICHORD (×6, last v201 — 19-gap): the ground-bass ostinato driver and continuo
+    anchor. Harpsichord's plucked attack is ideal for perpetual motion — each sixteenth
+    note articulates cleanly without blurring into the next. Here cast not as ornamental
+    Baroque color but as the mechanical core, the gear that turns all other gears.
+  - GLASS HARMONICA (×8, last v192 — 28-gap): ethereal spinning overtones in the upper
+    register. The glass harmonica's sustained bowl-tones circle continuously above the
+    harpsichord ostinato, providing the celestial shimmer of the orrery's rotating
+    spheres — continuous sound that glides rather than attacks, contrasting the
+    harpsichord's articulated pulse.
+  - CONTRABASSOON (×5, last v206 — 14-gap): sub-bass counterweight of antique depth.
+    The contrabassoon enters last, at 1:00, settling under the spinning texture like
+    a slow underground gear, its low reed tone providing tonal gravity without
+    resolution — the mechanism's foundation stone.
+
+  Scene anchor: a clockwork orrery turning ceaselessly through the night — brass gears
+  meshing, planets wheeling on their articulated arms, dust suspended in the mechanism's
+  slow glow. The orrery has no pause state; it is built to run. The piece is its sound.
+
+  Novelty claims: first named PERPETUUM MOBILE prompt in catalog using this exact
+  technique label (v138 used ORCHESTRAL MOTO PERPETUO — a related but distinct framing:
+  that version still included silence-before-climax and half-step modulation; this
+  version excludes both categorically); 131 BPM first use in catalog; F minor stable
+  non-modulating arc is new (all prior F minor prompts modulated to F-sharp minor);
+  harpsichord + glass harmonica + contrabassoon trio never previously combined; clockwork
+  orrery scene not previously used; spin-down dissolution ending (no cadential landing)
+  replaces the silence-return skeleton for the first time since v216.
+
+  Final style char count: 944.
+tags:
+  - orchestral-perpetuum-mobile
+  - harpsichord
+  - glass-harmonica
+  - contrabassoon
+  - 131bpm
+  - f-minor
+  - clockwork-orrery-scene
+  - revival-harpsichord-19-gap
+  - revival-glass-harmonica-28-gap
+  - revival-contrabassoon-14-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - perpetual-motion
+  - ceaseless-sixteenth-note
+  - no-cadential-landing
+  - no-silence
+  - no-modulation
+  - spin-down-ending
+  - kinetic-shimmer
+  - instrumental

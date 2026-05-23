@@ -264,10 +264,11 @@ mindmap
 | 217 | Every Gap an Engine | orchestral hocket (interlocking voices) | Eb→E major | 127 | ophicleide + baryton + steelpan |
 | 218 | Where the Valley Loses the Light | granular shimmer cloud (timbre-first) | C#→D minor | 125 | cimbalom + bowed vibraphone + duduk |
 | 219 | Light Without Fixed Source | chromatic planing (parallel chord slabs) | F#→G minor | 129 | glass marimba + oboe d'amore + singing saw |
+| 220 | Every Gear Keeps Its Promise | perpetuum mobile (ceaseless 16ths, no silence/no mod) | F minor (stable) | 131 | harpsichord + glass harmonica + contrabassoon |
 
 ## Next-cycle priorities
 
-**ARC SHAPE IS REPEATING (flagged v219):** v216–v219 all used the same arc — entry → build → [Silence] at ~1:45-2:10 → return half-step up. The *techniques* vary but the dramatic skeleton is identical, and the judge is now docking concept-novelty for it. Next cycles: vary the arc itself — try no-silence continuous forms, terraced/through-composed, arch (ABCBA), or climax-at-the-front. Don't reflexively reach for silence+half-step-return.
+**ARC BROKEN (v220):** v216–v219 all shared the entry → build → [Silence] ~2:00 → half-step-up return skeleton; the judge was docking concept-novelty for it. v220 (perpetuum mobile) is the first deliberate break: no silence, no modulation, no climax-and-release — flat kinetic tension held by ceaseless sixteenth-note motion, ending by winding down in stable F minor (judge 94/100, with Key/BPM scored 4/10 by design since the missing modulation IS the point). Keep diversifying the arc for the next few cycles before any silence+half-step-return reappears — candidates still untried: terraced/through-composed, arch (ABCBA), climax-at-the-front, accelerando-to-collapse.
 
 1. ~~Apply timestamps~~ ✅ (v112+)
 2. ~~Apply purpose phrase~~ ✅ (v112+)
