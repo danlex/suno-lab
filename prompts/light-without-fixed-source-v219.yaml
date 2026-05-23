@@ -1,0 +1,100 @@
+name: "light-without-fixed-source"
+version: 219
+style: "CHROMATIC PLANING across ice-lake-at-dusk, total duration around 3:00,\
+  \ featuring GLASS MARIMBA + OBOE D'AMORE + SINGING SAW in strict parallel chord\
+  \ slabs. Score for a lone figure crossing a vast frozen lake at dusk — cold breath\
+  \ misting, light without fixed source, weightless drift. 129 BPM, F-sharp minor.\
+  \ The glass marimba strikes the planed chord block at 0:00 — hovering luminosity,\
+  \ no tonal gravity, gliding through tonal space. At 0:30 the oboe d'amore enters\
+  \ warm and nasal in parallel above; the singing saw joins as an eerie bowed metallic\
+  \ blur, all three voices moving as one chromatic side-slip. String slab thickens\
+  \ the motion. At 1:45 the texture strips to near-silence, one sustained node held.\
+  \ At 2:05 the full planed slab lifts a half-step to G minor — sliding harmonic\
+  \ shimmer returned, still hovering. The block fades through 2:40, unresolved but\
+  \ lifted. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Light Without Fixed Source"
+lyrics: |
+  [Short Instrumental Intro]
+
+  [Glass Marimba Planed Chord Block]
+
+  [Oboe D'Amore Joins Parallel Above]
+
+  [Singing Saw Eerie Metallic Top Voice]
+
+  [Full Parallel Slab Blooms]
+
+  [Strip to Near-Silence]
+
+  [Silence]
+
+  [Half-Step Lift — G Minor Return]
+
+  [Slab Fades Hovering]
+
+  [End]
+instrumental: true
+vocal_gender: null
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle,\
+  \ lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation,\
+  \ new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, impressionist,\
+  \ whole-tone scale, minimalist phasing, ambient electronica, musical saw novelty,\
+  \ Scandinavian folk"
+notes: |
+  CHROMATIC PLANING (also called "real parallelism" or parallel harmony) is a harmonic
+  device in which an entire chord block — every voice simultaneously — moves by the
+  same interval at once, preserving the chord's internal color while sliding through
+  tonal space with no harmonic gravity, no preparation, and no resolution imperative.
+  It flourished in the late-Romantic and early-20th-century French orchestral tradition,
+  though this catalog uses no composer names per blocklist policy.
+
+  Research summary: Chromatic planing is used as a catalog-first harmonic device here —
+  the trio moves in strict parallel motion, functioning as a single sliding object rather
+  than three independent contrapuntal voices. The "resolution" is not a tonal landing but
+  a geometric lift: the whole slab slides up a half-step from F-sharp minor to G minor,
+  which IS the climax mechanic. This is weightlessness as compositional structure, not
+  tension-release. Composer omission noted: the technique is associated with French
+  orchestral writing of the early 20th century, but per the blocklist no composer names
+  appear anywhere in this prompt.
+
+  Duration strategy: 129 BPM with a tonal (parallel harmony) anchor sustains Suno's
+  3-min arc naturally; the pulse is present in the marimba attack but the harmonic
+  stasis counterbalances forward drive. Target is 2:30–3:30 per v137+ override.
+
+  Featured trio with version gaps:
+  - GLASS MARIMBA ×3, last v138 — 81-version gap. Crystalline struck glass-barred
+    marimba; the shimmering core of the chord slab, striking parallel intervals.
+  - OBOE D'AMORE ×4, last v188 — 31-version gap. Warm, slightly nasal mid voice;
+    glides in parallel above the marimba as the second planed layer.
+  - SINGING SAW ×1, last v197 — 22-version gap. Eerie bowed metallic top voice;
+    the tonal blur that completes the three-voice chromatic side-slip.
+
+  Novelty claims:
+  - First CHROMATIC PLANING prompt in catalog (v1–v218).
+  - BPM 129 is new — never used (catalog range 36–210, but 129 is a gap between 128 and 130).
+  - F-sharp minor → G minor (half-step lift planing resolution) combination never used.
+  - Frozen-lake-at-dusk / weightless-drift scene is new.
+  - Trio of glass marimba + oboe d'amore + singing saw never combined before.
+
+  Final style char count: 944.
+tags:
+  - orchestral-chromatic-planing
+  - glass-marimba
+  - oboe-damore
+  - singing-saw
+  - 129bpm
+  - f-sharp-minor
+  - g-minor
+  - ice-frozen-lake-at-dusk-scene
+  - revival-glass-marimba-81-gap
+  - revival-oboe-damore-31-gap
+  - revival-singing-saw-22-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - parallel-harmony
+  - chromatic-side-slip
+  - no-tonal-gravity
+  - weightless-drift
+  - instrumental
