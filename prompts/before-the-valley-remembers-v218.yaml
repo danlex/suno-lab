@@ -1,0 +1,128 @@
+name: "before-the-valley-remembers"
+version: 218
+style: "GRANULAR SHIMMER CLOUD over a high mountain pass at first light, total duration
+  around 3:00. CIMBALOM + BOWED VIBRAPHONE + DUDUK, C-sharp minor, 125 BPM: at 0:00
+  cimbalom strikes fragment into drifting hammered-string haze — no melody, only
+  dissolving texture that breathes. Bowed vibraphone holds the high ceiling,
+  crystalline overtones in cold mist. At 0:45 the duduk rises: one clear breathy
+  voice, mournful and searching, climbing above the dissolving texture — cinematic
+  solo wind, not folk. At 1:30 the cloud deepens as the duduk peaks. At 2:00 the
+  shimmer strips to near-silence; duduk holds one note alone, five bare seconds. At
+  2:10 the cloud returns transformed — brighter, higher, half-step up in D minor,
+  carrying the melody the duduk introduced, fortississimo. By 2:45 the haze settles
+  and fades. Underscore for a figure dissolving into cold morning fog. No guitars,
+  no rock drums, no vocals, no pipe organ, no synthesizers."
+title: "Where the Valley Loses the Light"
+lyrics: |
+  [Short Instrumental Intro — cimbalom strikes dissolving into shimmer cloud, no melody]
+
+  [Bowed Vibraphone Sustains — crystalline overtone ceiling, drifting breath-like haze]
+
+  [Duduk Rises from the Cloud — single clear voice, mournful and searching]
+
+  [Duduk Climbs — cloud deepens beneath, maximum contrast of voice against dissolving haze]
+
+  [Peak — full shimmer cloud and solo duduk at the summit]
+
+  [Silence — duduk alone on one note, five bare seconds]
+
+  [Cloud Returns Transformed — half-step up in D minor, brighter register, fortississimo]
+
+  [Haze Settles and Fades]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, gentle, lo-fi,
+  vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age,
+  experimental noise, free jazz, atonal, microtonal, quarter-tone, Armenian folk,
+  Balkan folk, Romani, gypsy, klezmer, folk dance, Middle Eastern folk, Hungarian folk,
+  ambient electronica, drone loop, electronic pad, new age drone, world fusion"
+notes: |
+  v218 introduces GRANULAR SHIMMER CLOUD as its structural concept — a 2026
+  timbre-first scoring texture in which instrument attacks are granularly fragmented
+  and time-stretched into a slow-drifting atmospheric haze that retains an organic,
+  breath-like quality while dissolving any melodic identity into pure overtone color.
+  The technique originates in computer-music granular synthesis (splitting an audio
+  stream into tiny "grains" of a few milliseconds each, then redistributing and
+  time-stretching them) but has migrated into acoustic-ensemble notation as extended
+  instruction sets for live players — bowing pressure maps, rhythmically scattered
+  pizzicato attacks, and sustained harmonics that approximate the same dissolution.
+  The result is a living cloud of overtones: texture that breathes but carries no
+  recognizable line.
+
+  concept_source (what was researched): granular shimmer cloud as a 2026 timbre-first
+  scoring trend in catalog-first instrumental film and game music. The core insight is
+  the dramatic contrast structure: a continuous atmospheric haze of fragmented overtones
+  provides a backdrop of near-zero melodic information against which a SINGLE clear
+  voice emerges with maximum perceptual contrast. The drama is entirely textural —
+  dissolution versus emergence — not harmonic or formal. This is deliberately opposite
+  to v217's hocket approach (relentless pulse, no shimmer) and to v216's bell-halo
+  structure (triadic clarity throughout). v218 is the first prompt in this catalog
+  that places a breath-like dissolving haze as the PRIMARY structural element.
+
+  Composer-omission confession: granular technique has a documented history in
+  electroacoustic and spectral composition of the late 20th and early 21st century
+  that this catalog cannot cite by composer name per blocklist rules. The technique
+  itself is described without reference to specific practitioners.
+
+  Duration strategy: tonal (C-sharp minor opening → D minor at the transformed return
+  at 2:10 — a chromatic half-step lift that raises the entire shimmer cloud by one
+  semitone, making the return perceptibly brighter in color without a dramatic rupture)
+  + pulse-based (125 BPM, not previously used in catalog — moderate and unhurried,
+  slow enough for the granular texture to feel like suspended time, fast enough to
+  prevent stasis) + 3-minute framing per v137+ override.
+
+  Featured trio:
+  - CIMBALOM: a large hammered-dulcimer of Hungarian and Romani origin — tuned strings
+    struck by padded mallets with immediate decay and a bright overtone tail. Here cast
+    as the PRIMARY CLOUD GENERATOR: strikes are fragmented and smeared into continuous
+    haze — no recognizable melodic line, only dissolving hammered-string shimmer. Robust
+    folk exclusions suppress its Romani-ensemble associations.
+  - BOWED VIBRAPHONE: vibraphone played with bows rather than mallets — produces a
+    sustained, singing tone with slow attack and long crystalline decay; rendered as
+    pure overtone sustain. Here it is the HIGH CEILING of the cloud: glassy harmonics
+    floating above the cimbalom fragments, cold and spacious.
+  - DUDUK: an ancient double-reed wind instrument of Armenian origin with a wide bore,
+    producing a warm, breathy, distinctly human tone in the mid-low range. Here rendered
+    strictly as CINEMATIC SOLO WIND, not as Armenian folk instrument — the EMERGENT
+    VOICE that rises out of the cloud at 0:45 with maximum timbral contrast against the
+    dissolving haze. Robust folk exclusions suppress folk and world-music associations.
+
+  Scene anchor: fog swallowing a high mountain pass at first light — shapes dissolving
+  and re-forming in cold haze, a single distant voice carrying across the valley. The
+  cimbalom haze is the fog itself; the bowed vibraphone is the cold air above the
+  treeline; the duduk is the one human sound that crosses the valley before the light
+  fully arrives.
+
+  Novelty claims: first GRANULAR SHIMMER CLOUD prompt in catalog; first
+  cimbalom-as-cloud-generator prompt in catalog; first bowed-vibraphone-as-overtone-
+  ceiling prompt in catalog; 125 BPM not previously used in catalog (new-bpm);
+  C-sharp minor to D minor chromatic modulation is new; high-mountain-pass-at-
+  first-light-fog-dissolution scene is new; cimbalom + bowed vibraphone + duduk trio
+  is new and has not appeared in any combination.
+
+  Style char count: 937.
+tags:
+  - orchestral-granular-shimmer-cloud
+  - granular-shimmer-cloud
+  - cimbalom
+  - bowed-vibraphone
+  - duduk
+  - 125bpm
+  - c-sharp-minor
+  - d-minor
+  - high-mountain-pass-at-first-light-scene
+  - fog-dissolution-scene
+  - half-step-up-modulation
+  - dissolving-texture
+  - breath-like-overtone-haze
+  - emergent-solo-voice
+  - timbre-first
+  - cloud-generator
+  - cinematic-solo-wind
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - fog-haze-dissolution

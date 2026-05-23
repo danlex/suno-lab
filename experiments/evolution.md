@@ -262,6 +262,7 @@ mindmap
 | 215 | When the Horn Finds Open Air | brass extended-technique cuivré arc | Db→D minor | 122 | stopped horn + cristal baschet + felt piano |
 | 216 | A Hall the Water Will Not Leave | bell-halo two-voice structure | Bb→B minor | 123 | nyckelharpa + tenor saxophone + mellotron |
 | 217 | Every Gap an Engine | orchestral hocket (interlocking voices) | Eb→E major | 127 | ophicleide + baryton + steelpan |
+| 218 | Where the Valley Loses the Light | granular shimmer cloud (timbre-first) | C#→D minor | 125 | cimbalom + bowed vibraphone + duduk |
 
 ## Next-cycle priorities
 

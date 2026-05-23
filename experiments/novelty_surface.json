@@ -1,6 +1,6 @@
 {
-  "total_prompts": 217,
-  "latest_version": 217,
+  "total_prompts": 218,
+  "latest_version": 218,
   "instruments": {
     "organ": [
       1,
@@ -106,7 +106,8 @@
       213,
       214,
       216,
-      217
+      217,
+      218
     ],
     "pipe organ": [
       1,
@@ -203,7 +204,8 @@
       213,
       214,
       216,
-      217
+      217,
+      218
     ],
     "piano": [
       1,
@@ -447,6 +449,24 @@
       141,
       210
     ],
+    "cimbalom": [
+      98,
+      115,
+      132,
+      144,
+      170,
+      179,
+      218
+    ],
+    "duduk": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      179,
+      218
+    ],
     "glass harmonica": [
       32,
       33,
@@ -474,6 +494,15 @@
       136,
       147
     ],
+    "vibraphone": [
+      85,
+      99,
+      110,
+      128,
+      130,
+      143,
+      218
+    ],
     "viola": [
       45,
       92,
@@ -482,14 +511,6 @@
       138,
       189,
       209
-    ],
-    "cimbalom": [
-      98,
-      115,
-      132,
-      144,
-      170,
-      179
     ],
     "clarinet": [
       84,
@@ -507,14 +528,6 @@
       144,
       215
     ],
-    "duduk": [
-      32,
-      33,
-      34,
-      35,
-      36,
-      179
-    ],
     "trombone": [
       102,
       121,
@@ -523,14 +536,6 @@
       198,
       213
     ],
-    "vibraphone": [
-      85,
-      99,
-      110,
-      128,
-      130,
-      143
-    ],
     "waterphone": [
       85,
       93,
@@ -538,6 +543,13 @@
       114,
       129,
       206
+    ],
+    "bowed vibraphone": [
+      85,
+      99,
+      128,
+      143,
+      218
     ],
     "contrabass clarinet": [
       84,
@@ -606,12 +618,6 @@
       121,
       138,
       213
-    ],
-    "bowed vibraphone": [
-      85,
-      99,
-      128,
-      143
     ],
     "clavichord": [
       113,
@@ -986,13 +992,13 @@
       192,
       203
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "passacaglia": [
       111,
       202
-    ],
-    "romantic": [
-      145,
-      149
     ],
     "symphonic": [
       162,
@@ -1165,6 +1171,12 @@
       145,
       184
     ],
+    "c-sharp minor": [
+      117,
+      179,
+      207,
+      218
+    ],
     "e-flat minor": [
       79,
       109,
@@ -1186,11 +1198,6 @@
       39,
       110,
       203
-    ],
-    "c-sharp minor": [
-      117,
-      179,
-      207
     ],
     "d-flat minor": [
       103,
@@ -1552,6 +1559,9 @@
     "124": [
       125
     ],
+    "125": [
+      218
+    ],
     "126": [
       135
     ],
@@ -1619,6 +1629,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 218,
+      "title": "Where the Valley Loses the Light",
+      "name": "before-the-valley-remembers",
+      "featured": [],
+      "genre": null,
+      "key": "c-sharp minor",
+      "bpm": 125
+    },
     {
       "version": 217,
       "title": "Every Gap an Engine",
@@ -2276,7 +2295,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -2312,7 +2331,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
