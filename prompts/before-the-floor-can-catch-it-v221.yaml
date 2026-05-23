@@ -1,0 +1,112 @@
+name: "before-the-floor-can-catch-it"
+version: 221
+style: "TARANTELLA ACCELERANDO-TO-COLLAPSE on a foundry floor splitting at first thaw, total duration around 3:00, PICCOLO + FLUGELHORN + WATERPHONE in A-flat minor at 133 BPM, terraced surges climbing until the music shatters. Col-legno and pizzicato strings lock the 6/8 ostinato from 0:00. Piccolo ignites at 0:20 in high register with the frenzied dance figure. First terrace at 0:30: tempo climbs, flugelhorn enters in warm mid-brass velvet. Second terrace at 1:15 adds density; A-flat minor brightens to A-flat major — parallel-major velocity lift, not half-step modulation. Stretto from 2:00: voices lock in unison, waterphone bowed-friction undertow rising from whisper to menace. From 2:15 all three converge on one unbroken accelerating breath. At 2:45 the piece does not slow — it stops mid-phrase, cut by its own speed. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers. Film score for a machine that cannot decelerate."
+title: "Before the Floor Can Catch It"
+lyrics: |
+  [Short Instrumental Intro — col-legno strings ignite the 6/8 ostinato cage]
+
+  [Piccolo Ignites — frenzied high-register dance figure above the string pulse]
+
+  [First Terrace — tempo surges, flugelhorn swells in warm mid-brass velvet]
+
+  [Second Terrace — density rises, A-flat minor brightens to A-flat major velocity lift]
+
+  [Stretto Compression — all voices lock unison, waterphone undertow swells to menace]
+
+  [Unbroken Surge — piccolo and flugelhorn and waterphone converging, tempo climbing]
+
+  [Peak Velocity Cut-Off — piece stops mid-phrase at maximum speed, no resolution]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle,
+  lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation,
+  new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Italian
+  folk, folk dance, tarantella novelty, Neapolitan pastiche, dance suite, fiddle jig,
+  rustic folk, Mediterranean folk"
+notes: |
+  TARANTELLA ACCELERANDO-TO-COLLAPSE is a structural form built on a single
+  organizing principle: the tempo never stops accelerating. Unlike conventional
+  ternary or sonata structures, the arc here is purely kinetic — each formal
+  section exists not as a harmonic region but as a faster rung on a continuously
+  ascending velocity ladder. The tarantella's authentic 6/8 rhythmic engine and
+  parallel-major brightening device (the shift from minor to the same-root major
+  as velocity peaks) are historical features of the southern European dance
+  tradition, active in concert music from the 18th century onward. No individual
+  composer names appear per blocklist rules.
+
+  Research note: The defining discovery here is that tarantella's harmonic
+  brightening (minor → parallel major) is not a modulation in the chromatic
+  sense — it is a velocity-born transformation, the dancer moving too fast for
+  the darkness to hold. This catalog has used half-step-up modulations after
+  silence as its primary climax device through v216-v219, and v220 introduced
+  a ceaseless-motion arc with no modulation at all. V221 introduces a third
+  structural logic: the parallel-major lift at velocity peak as emotional payoff,
+  combined with a hard cut-off that substitutes for any form of resolution. The
+  piece does not resolve; it simply runs out of floor.
+
+  Composer-omission confession: the tarantella has a rich concert-music
+  lineage through the 18th and 19th centuries, and the stretto-accelerando
+  device appears in formal fugue and concerto writing across multiple eras.
+  No composer names appear in this prompt per blocklist policy.
+
+  Duration strategy: 133 BPM establishes the base pulse; the piece's terraced
+  accelerando means perceived tempo at the 2:45 collapse is substantially higher.
+  A-flat minor grounds the opening darkness; the parallel-major lift at 1:15
+  provides the emotional pivot that a conventional half-step modulation would
+  normally deliver — here achieved through mode rather than pitch. Target
+  duration 2:30-3:30 per v137+ override.
+
+  Featured trio with version gaps:
+  - PICCOLO (×6, last v195 — 26-gap): the frenzied dancer, highest voice in
+    the trio, driving the 6/8 dance figure in piercing high register. The piccolo's
+    natural shrillness becomes an asset at velocity: it cuts through the string
+    ostinato and the brass without blurring. Cast as the figure that sets the
+    dance in motion and never relents.
+  - FLUGELHORN (×5, last v206 — 15-gap): warm velvet mid-brass carrying the
+    melodic surge. The flugelhorn's softer edge compared to trumpet makes it
+    ideal for the swelling melodic line of the first terrace — not a fanfare
+    but a surging statement, catching fire against the cold rhythmic engine.
+  - WATERPHONE (×7, last v206 — 15-gap): bowed-friction undertow. The
+    waterphone produces continuous bowed-metal resonance, ideal for the stretto
+    section's growing menace. Unlike percussion, it sustains and swells, providing
+    a thermal undertow beneath the piccolo/flugelhorn convergence. At the collapse
+    it has swelled to full menace — one of the three voices still sounding at
+    the hard cut.
+  Low strings (col-legno, pizzicato) drive the 6/8 ostinato throughout as
+  supporting texture — they are the rhythmic engine, not a named soloist.
+  The trio discipline (three featured instruments only) is maintained.
+
+  Novelty claims: first TARANTELLA ACCELERANDO-TO-COLLAPSE in catalog by
+  technique label; first use of parallel-major velocity lift as primary harmonic
+  device (all prior modulations were chromatic half-step or octave); 133 BPM
+  is a catalog first use (132 and 134 appear but 133 does not); piccolo last
+  appeared v195 (26-gap, deepest piccolo revival in catalog); flugelhorn and
+  waterphone both at 15-gap; foundry-floor-splitting-at-thaw scene not
+  previously used; cut-off-at-peak-velocity ending (no resolution, no silence,
+  no modulation) is a new structural terminus for this catalog.
+
+  Final style char count: 942.
+tags:
+  - orchestral-tarantella-accelerando-to-collapse
+  - piccolo
+  - flugelhorn
+  - waterphone
+  - 133bpm
+  - a-flat-minor
+  - a-flat-major
+  - foundry-floor-thaw-scene
+  - revival-piccolo-26-gap
+  - revival-flugelhorn-15-gap
+  - revival-waterphone-15-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - tarantella
+  - parallel-major-velocity-lift
+  - accelerando-to-collapse
+  - no-resolution
+  - no-silence
+  - cut-off-at-peak
+  - instrumental

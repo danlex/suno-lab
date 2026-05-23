@@ -265,10 +265,13 @@ mindmap
 | 218 | Where the Valley Loses the Light | granular shimmer cloud (timbre-first) | C#→D minor | 125 | cimbalom + bowed vibraphone + duduk |
 | 219 | Light Without Fixed Source | chromatic planing (parallel chord slabs) | F#→G minor | 129 | glass marimba + oboe d'amore + singing saw |
 | 220 | Every Gear Keeps Its Promise | perpetuum mobile (ceaseless 16ths, no silence/no mod) | F minor (stable) | 131 | harpsichord + glass harmonica + contrabassoon |
+| 221 | Before the Floor Can Catch It | tarantella accelerando-to-collapse (hard cut-off, no resolution) | Ab minor → Ab MAJOR (parallel-major lift) | 133 | piccolo + flugelhorn + waterphone |
 
 ## Next-cycle priorities
 
-**ARC BROKEN (v220):** v216–v219 all shared the entry → build → [Silence] ~2:00 → half-step-up return skeleton; the judge was docking concept-novelty for it. v220 (perpetuum mobile) is the first deliberate break: no silence, no modulation, no climax-and-release — flat kinetic tension held by ceaseless sixteenth-note motion, ending by winding down in stable F minor (judge 94/100, with Key/BPM scored 4/10 by design since the missing modulation IS the point). Keep diversifying the arc for the next few cycles before any silence+half-step-return reappears — candidates still untried: terraced/through-composed, arch (ABCBA), climax-at-the-front, accelerando-to-collapse.
+**ARC DIVERSIFYING (v220–v221):** v216–v219 all shared the entry → build → [Silence] ~2:00 → half-step-up return skeleton; the judge was docking concept-novelty for it. v220 (perpetuum mobile) broke it first — flat kinetic tension, no silence/no modulation, winding down in stable F minor (judge 94). v221 (tarantella accelerando-to-collapse, judge 95) is the second new arc: continuous acceleration through terraced surges to a hard cut-off at peak velocity, with the harmonic payoff delivered by a **parallel-major lift (Ab minor → Ab major)** instead of a half-step modulation — a genuinely different "brighten at climax" device worth reusing. Arcs still untried: arch (ABCBA), climax-at-the-front, true terraced/through-composed without acceleration.
+
+**⚠ SHORT-DURATION WATCH (v221):** v221's two clips came back at 0:42 and 1:34 — both well under the 2:30–3:30 target. Possible causes to probe next cycle: (a) the [End] tag plus the "stops mid-phrase / cut by its own speed" language may have signaled Suno to terminate early; (b) very sparse lyrics scaffolding (7 short metatag lines, no repeated/extended sections) gives Suno little structure to fill 3:00. Mitigation to try: more/longer structural sections in the lyrics field, drop or soften terminal "cut-off" language, or add explicit "lyrics/sections continue through ~2:50" framing. Watch whether v220 also rendered short.
 
 1. ~~Apply timestamps~~ ✅ (v112+)
 2. ~~Apply purpose phrase~~ ✅ (v112+)
