@@ -1,0 +1,122 @@
+name: "what-the-vellum-keeps"
+version: 222
+style: "ADDITIVE STRATUM SCORING for a scriptorium at first candle, total duration around 3:00, with BASS CLARINET + TRUMPET + CROTALES — irreversible accretion in D-sharp minor, 137 BPM, nothing removed. The bass clarinet enters alone at 0:00, a sub-bass reed column holding in candlelit silence, the first stratum. Low strings settle beneath at 0:25, thickening the foundation. The trumpet locks in at 1:00, mid-register brass unwavering, deposited above and held. At 1:35 violas spread across the inner voice, binding reed to brass. The crotales arrive at 2:00, ultra-high metallic shimmer falling like candlelight on vellum, and remain. All three strata sustain together from 2:15; the full stack holds from 2:30 through 2:55 in total saturation, nothing withdrawn. The piece ends on a long sustained chord that rings and fades. Underscore for illuminated pages accumulating in dark. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What the Vellum Keeps"
+lyrics: |
+  [Short Instrumental Intro — bass clarinet alone in candlelit dark, sub-bass reed, first stratum]
+
+  [Bass Clarinet Holds the Foundation — sub-bass column sustained, the permanent first layer]
+
+  [Low Strings Settle Beneath — foundation thickens, nothing displaced]
+
+  [Trumpet Deposits Its Stratum — mid-register brass locks in above the reed, permanent]
+
+  [Violas Bind the Inner Voice — chorale texture spreading between bass and brass]
+
+  [Crotales Arrive and Remain — ultra-high metallic shimmer, the final stratum descends and holds]
+
+  [Full Saturation — all three strata sounding together, total textural accumulation]
+
+  [Saturation Sustains — the complete stack holding, nothing withdrawn, all layers present]
+
+  [Long Sustained Chord Rings and Fades]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle,
+  lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation,
+  new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Hungarian
+  folk, Moldovan folk, gypsy, clarinet quintet, jazz improvisation, pop brass, fanfare,
+  big band"
+notes: |
+  ADDITIVE STRATUM SCORING is a through-composed technique in which discrete
+  instrumental layers enter one by one, each locking in permanently once deposited.
+  No layer is removed, no recapitulation occurs, and the climax is simply the moment
+  of total saturation — all strata sounding simultaneously. The form is related to
+  additive process music documented from the mid-20th century onward; no individual
+  composer is cited here per catalog blocklist policy.
+
+  Concept source: the technique is distinguished from standard crescendo-building
+  by its irreversibility — each stratum is a permanent deposit, not a dynamic swell
+  that can subside. Harmonic interest derives from the accretion of contrasting
+  timbres across three registers (sub-bass reed / mid-bright brass / ultra-high
+  metallic transient) rather than from key change or silence-before-climax.
+  This is a new arc for the catalog: true through-composed accretion with no
+  modulation, no silence drop, no half-step return.
+
+  Composer-omission confession: additive process writing has documented history in
+  post-1950 art music and minimalist composition. No composer or performer names
+  appear per blocklist rules; the structural form is the sole subject.
+
+  Duration-fix reasoning (addressing v221's 0:42 and 1:34 clips): v221 likely
+  truncated because (1) the lyrics scaffold was only 7 lines with no sustained
+  plateau section, giving Suno too little structure to fill 3:00, and (2) language
+  about motion "stopping mid-phrase" may have signaled an early end. For v222,
+  the lyrics scaffold has 10 sections including an explicit "[Full Saturation]"
+  plateau, a "[Saturation Sustains]" continuation, and a "[Long Sustained Chord
+  Rings and Fades]" terminal section — giving Suno a clear signal to carry all
+  layers to full length. The style explicitly states "the full stack holds from
+  2:30 through 2:55" so the model understands the piece runs to ~3:00. The ending
+  is a sustained chord that rings rather than a cut-off, which encourages Suno to
+  hold to natural length rather than truncating.
+
+  Duration strategy: 137 BPM provides a steady underlying pulse that holds constant
+  throughout — the tempo does not accelerate. Tonal anchor is D-sharp minor, stable
+  and non-modulating (1 prior catalog use at v210). The no-modulation is authentic
+  to additive-stratum form: each new stratum brings harmonic color through timbre
+  contrast, not through key change. Target 2:30–3:30 per v137+ override.
+
+  Featured trio with version gaps:
+  - BASS CLARINET (first appearance in 222-version catalog — never used before):
+    the sub-bass reed foundation, the first stratum. The bass clarinet's low register
+    fills the bottom of the texture with a warm, column-like tone that sustains without
+    vibrato intrusion, making it the ideal permanent ground layer for an accretion piece.
+    Distinct from "clarinet" (last v210) and "contrabass clarinet" (last v210) —
+    bass clarinet occupies the register between them and is a catalog debut.
+  - TRUMPET (×5, last v193 — 29-gap): mid-register bright brass, the middle stratum.
+    The trumpet's unwavering projection and penetrating harmonic presence make it
+    the ideal second deposit: once it locks in above the bass clarinet, it holds
+    the center of the texture with authority. Gap of 29 versions makes this a deep revival.
+  - CROTALES (first appearance in 222-version catalog — never used before): ultra-high
+    metallic transient shimmer, the final stratum. Crotales (small antique cymbals tuned
+    to specific pitches) produce overtone-rich, bell-like attacks in the highest register,
+    their shimmer falling like candlelight sparks on vellum. They arrive last at 2:00
+    and remain, their persistent high-register shimmer completing the three-octave stack.
+
+  Scene anchor: a scriptorium at first candle — the hour when a single flame is lit
+  over a blank page of vellum and the night's work of illumination begins. Each
+  instrumental layer is a new deposit of pigment or ink: once laid down, it cannot
+  be removed. The piece is the act of illumination heard as sound.
+
+  Novelty claims: first named ADDITIVE STRATUM SCORING prompt in catalog; first use
+  of bass clarinet (catalog debut); first use of crotales (catalog debut); trumpet
+  revival at 29-gap (last v193); 137 BPM first catalog use (gap between 136 at v138
+  and 138 at v71/94/100); D-sharp minor second use only (first at v210); bass clarinet
+  + trumpet + crotales trio never previously combined; scriptorium-at-first-candle
+  scene not previously used; true irreversible-accretion arc new to catalog (no silence,
+  no modulation, no half-step return, no dissolution ending).
+
+  Final style char count: 949.
+tags:
+  - orchestral-additive-stratum-scoring
+  - bass-clarinet
+  - trumpet
+  - crotales
+  - 137bpm
+  - d-sharp-minor
+  - scriptorium-at-first-candle-scene
+  - revival-trumpet-29-gap
+  - new-instrument-bass-clarinet
+  - new-instrument-crotales
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - irreversible-accretion
+  - additive-process
+  - no-modulation
+  - no-silence-drop
+  - no-recapitulation
+  - total-saturation-climax
+  - three-register-stack
+  - instrumental

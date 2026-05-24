@@ -266,6 +266,7 @@ mindmap
 | 219 | Light Without Fixed Source | chromatic planing (parallel chord slabs) | F#→G minor | 129 | glass marimba + oboe d'amore + singing saw |
 | 220 | Every Gear Keeps Its Promise | perpetuum mobile (ceaseless 16ths, no silence/no mod) | F minor (stable) | 131 | harpsichord + glass harmonica + contrabassoon |
 | 221 | Before the Floor Can Catch It | tarantella accelerando-to-collapse (hard cut-off, no resolution) | Ab minor → Ab MAJOR (parallel-major lift) | 133 | piccolo + flugelhorn + waterphone |
+| 222 | What the Vellum Keeps | additive stratum scoring (irreversible accretion, no return/no mod) | D# minor (stable) | 133 | bass clarinet + trumpet + crotales |
 
 ## Next-cycle priorities
 
