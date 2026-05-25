@@ -20,9 +20,8 @@ Run one full autonomous cycle in `/Users/adan/work/claude/code/suno`:
    - **3-instrument featured trio** in ALL CAPS after "with" — check `experiments/novelty_surface.json` to ensure at least one is genuinely new (zero prior uses) or a deep revival (>15 versions old)
    - **Target duration: ~3 minutes (2:30–3:30).** Updated 2026-04-13 after the 1–2 min cap was lifted. Every new prompt must explicitly say "total duration around 3:00" (or "2:30 to 3:30 film cue" / "three-minute miniature") early in the style field. All timestamps must fit within 0:00–3:00. Entry → build → silence → return → end gets a full three-minute arc. See the 3-min template below.
    - **Explicit timestamps** — at least 4 time anchors *within 0:00–3:00* (e.g., 0:00 / 0:25 / 1:00 / 2:00 / silence at 2:10 / return at 2:15 / end at 2:50)
-   - Key with half-step modulation (e.g., "D minor to Eb minor")
-   - BPM
-   - Silence-before-climax + return — silence is 4–6 seconds at ~2:10
+   - Key + BPM (BPM should be fresh — check `experiments/novelty_surface.json` bpms)
+   - **Arc shape: pick a fresh one. Do NOT reflexively use silence-before-climax + half-step-up return.** That skeleton was overused v216–v219 and the judge now docks concept-novelty for it. Recent fresh arcs: perpetuum mobile / flat kinetic tension (v220), accelerando-to-collapse (v221), additive accretion to saturation (v222). Still untried: arch (ABCBA), climax-at-the-front. Half-step modulation is now OPTIONAL, not mandatory — choose the harmonic device that fits the concept (stable key, parallel-major lift, etc.). The silence+half-step template below is ONE option, not the default. See evolution.md "next-cycle priorities".
    - 4+ inline "no X" negatives + comprehensive `exclude_styles`
    - Conversational flowing prose, 850-950 chars
    - Detailed `notes` field explaining what was researched, what was learned, what's novel
@@ -69,13 +68,27 @@ Updated 2026-04-13. Target ~3:00. Timestamps can shift ±10 seconds per section.
    - Click the dialog's "Publish" button (≈987,645). Wait ~3s; dialog closes = published.
    - If publishing fails (disconnect/dialog never appears after 2 tries), log to `cron_failures.md` with step="publish" but DO NOT abort — continue to build/commit/push (the song is still created; publish can be retried later). Publishing newly-created songs is part of the autonomous workflow per `feedback_cron_auto_submit_override.md` — do not pause for approval.
 
-7. **Rebuild site**: `python3 scripts/build_site.py`
+7. **Save + publish (single reusable command — do NOT hand-run build/commit/push):**
+   ```
+   python3 scripts/finish_cycle.py --version N \
+       --clips <UUID1> <UUID2> \
+       --technique "<short arc/technique label>" \
+       --key "<key>" --bpm <bpm> \
+       --trio "<inst1> + <inst2> + <inst3>"
+   ```
+   This registers the clip UUIDs in `docs/suno_urls.json` (the site's embedded
+   players — the step that was silently skipped for v220/v221), appends the
+   `evolution.md` tracker row, runs `build_site.py`, stages ONLY the cycle files
+   (never `git add -A`), commits (`Add v### ...`), and pushes to origin main.
+   It is the single entrypoint so the publish step is never missed again.
 
-8. **Update evolution.md + results-tracker.md** — append a new cycle-log entry with what was tried, why, what was learned. Move any newly-applied technique from "next-cycle priorities" to "cycle technique register".
+8. **Narrative learning (optional)** — if the cycle produced a real insight,
+   add a sentence to evolution.md "next-cycle priorities" (the table row is
+   already handled by finish_cycle.py).
 
-9. **Commit + push**: add the new prompt YAML + docs/songs.json + experiments/*.md + experiments/novelty_surface.json. Commit message format: `Add v### [genre] with [instruments]`. Push to origin main.
-
-10. **Final sanity check**: if any prior step failed silently (empty commit, push rejected, build script error), log to `experiments/cron_failures.md`.
+9. **Final sanity check**: if any prior step failed silently (empty commit, push
+   rejected, build error, missing suno_urls entry), log to
+   `experiments/cron_failures.md`.
 
 ## Failure log format
 
