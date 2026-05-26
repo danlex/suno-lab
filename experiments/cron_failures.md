@@ -68,3 +68,10 @@ judge_score: 96/100 (passed)
 reason: Suno returned "Song generation is temporarily unavailable. Please try again shortly." on every Create attempt. ~8 retries over ~15 minutes. Browser extension stays connected throughout; form is correctly filled (style 947/1000, title "Where the Candle Learns Its Name", lyrics/exclude intact). Server-side outage, not a form or browser issue.
 state: Form loaded and ready in tab 786909863 at https://suno.com/create. YAML committed.
 next_cycle: Reload suno.com/create, re-fill form from YAML, retry Create when service recovers.
+
+## 2026-05-26 — v223 failed at submit
+
+Reason: Chrome MCP extension disconnected — could not reach suno.com/create after one connection retry.
+State: `prompts/what-one-reed-remembers-v223.yaml` exists on disk (untracked), judged 96/100 by the suno-judge subagent, awaiting submission. Concept: CLIMAX-AT-THE-FRONT arc with chalumeau (catalog debut) + tuba + theremin, stable B minor, 139 BPM, "What One Reed Remembers". Title is fresh, all gating passed; only the submit step is blocked.
+Action taken: Aborted the cycle per runbook ("Never auto-retry submissions"). Nothing committed. No `docs/suno_urls.json` or `evolution.md` change. The YAML is preserved untracked so the work isn't lost — submission can be retried by re-running the suno-submitter agent against the same path once the Chrome extension is reconnected.
+Next cycle should: if v223 is still on disk untracked when the next cron fires (`17 * * * *`), retry the submit step on it (skip the research/draft/judge stages — they're already done). Only draft a fresh v224 if v223 was committed or removed in the meantime.
