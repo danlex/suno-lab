@@ -1,0 +1,113 @@
+name: "what-one-reed-remembers"
+version: 223
+style: "CLIMAX-AT-THE-FRONT orchestral deconstruction — lantern-keeper crossing a frozen canal — total duration around 3:00, featuring CHALUMEAU + TUBA + THEREMIN. B minor, 139 BPM, stable. The piece ignites at full density: TUBA grounds the bass like ice under pressure, THEREMIN floats sourceless above massed brass, and the orchestra burns at peak weight for the first twenty seconds. Then the shedding begins — brass drops at 0:30, strings thin by 1:00, TUBA withdraws at 1:20, leaving THEREMIN and CHALUMEAU in spare dialogue. By 1:45 the THEREMIN dissolves; by 2:00 the CHALUMEAU stands alone. It holds the opening theme in its low register — warm, smoky, irreducibly human — from 2:00 through 2:55, a single reed against frozen stillness. The 139 BPM pulse outlasts every voice it once carried. Timbral subtraction is the arc. Underscore for a lantern-keeper crossing alone. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What One Reed Remembers"
+lyrics: |
+  [Short Instrumental Intro — full orchestra ignites at peak density, TUBA and brass at maximum weight]
+
+  [THEREMIN Rises Above the Tutti — sourceless tone floating over massed brass and low strings]
+
+  [First Shedding Wave — brass section withdraws, strings begin to thin, grandeur cooling]
+
+  [TUBA Descends Away — the subterranean foundation retreats, mid-register texture exposed]
+
+  [THEREMIN and CHALUMEAU in Dialogue — two voices across cold air, everything else gone]
+
+  [THEREMIN Dissolves Into the Dark — the electronic tone fades out, CHALUMEAU stands alone]
+
+  [CHALUMEAU Holds the Theme Alone — warm low-register reed carrying the opening phrase forward]
+
+  [Single Reed Against Frozen Stillness — chalumeau sustains the melody, 139 BPM pulse beneath]
+
+  [Lantern Recedes Into the Mist — chalumeau's final breath rings into silence, long fade]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle,
+  lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation,
+  new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Baroque
+  pastiche, early-music revival, period performance, theremin novelty, horror theremin"
+notes: |
+  CLIMAX-AT-THE-FRONT is an inverted structural arc in which the piece opens at its
+  moment of maximum orchestral density and then progressively sheds instruments in
+  waves until a single voice carries the remaining material alone. Rather than building
+  toward a climax, the emotional payoff is the act of subtraction itself — what survives
+  the grandeur is the revelation. The form has precedents in late-Romantic orchestral
+  codas and in certain minimalist process-pieces, but this catalog cannot cite individual
+  composer names per blocklist policy. The technique is used here for the first time as
+  a named primary arc in this catalog.
+
+  Research note: The brief for v223 explicitly inverts the four-version arc pattern
+  (v216–v219) that used quiet entry → orchestral bloom → silence around 2:00–2:10 →
+  half-step-up modulation → fortississimo return. v220 broke the modulation reflex via
+  PERPETUUM MOBILE; v223 breaks the growth-toward-climax reflex entirely by placing the
+  climax first. No silence-before-climax; no half-step modulation; the harmonic device
+  is timbral subtraction in stable B minor throughout.
+
+  Composer-omission confession: the inverted arc has documented precedents in orchestral
+  literature including late-Romantic codas and 20th-century process music. No composer
+  or work names appear per blocklist rules.
+
+  Duration strategy (v221/v222 regression context): v221 rendered at 0:42/1:34 due to
+  an insufficient lyrics scaffold; v222 fixed this at 2:53/3:07 by expanding to 8+
+  structural sections. v223 continues that fix: 10 structural metatag sections are
+  provided, each receding stratum receives its own section, and the chalumeau solo
+  section is split into two sustained entries plus a final fade section. An explicit
+  late timestamp ("from 2:00 through 2:55") in the style field signals to Suno that
+  the piece must run close to 3:00. The closing metatag uses "long fade" language to
+  ensure the chalumeau ending sustains and rings rather than cutting off mid-phrase.
+  Target: 2:30–3:30 per v137+ override.
+
+  Featured trio with version gaps:
+  - CHALUMEAU (catalog debut — ×1, first appearance in 223 versions): the surviving
+    voice. A late-Baroque single-reed instrument, predecessor of the modern clarinet,
+    deliberately confined to roughly a ninth in the low register (approximately E3–F4),
+    warm and smoky with a slightly hollow, breathy quality that modern woodwinds have
+    refined away. Cast as the lantern's single flame — the last voice that outlasts
+    the orchestral dark.
+  - TUBA (×N, last v207 — 16-gap): the subterranean anchor of the opening tutti.
+    The tuba's low-end weight gives the opening grandeur its gravitational foundation,
+    making its withdrawal at 1:20 a felt loss rather than a mere thinning. A giant
+    cannot be the survivor in this arc; it is among the first to recede.
+  - THEREMIN (×N, last v209 — 14-gap): a continuous electronic sine floating sourceless
+    above the massed opening brass. In the receding middle section (1:20–1:45), theremin
+    and chalumeau share a brief two-voice dialogue — two untethered sounds, one electronic
+    and one archaic reed — before the theremin dissolves into the cold air, leaving the
+    chalumeau alone.
+
+  Scene anchor: a lantern-keeper crossing a frozen canal at night. The lantern is the
+  chalumeau — warm, small, irreducibly present against the vast cold dark. The surrounding
+  city orchestra that opened the night has gone silent; the ice cracks far off; a single
+  breath-warm tone moves through the stillness. The 139 BPM pulse is the keeper's
+  footsteps — steady, never stopping, outlasting the grandeur that once accompanied them.
+
+  Novelty claims: first named CLIMAX-AT-THE-FRONT prompt in catalog (inverted arc,
+  no prior use of this technique label); CHALUMEAU catalog debut (×1, never appeared
+  in 223 versions); 139 BPM first use in catalog (the BPM list jumps 138 → 140, making
+  139 a gap); B minor stable non-modulating (7 prior uses, last v209, gap 14 — used
+  here with a categorically different structural arc); frozen-canal lantern-keeper scene
+  never previously used; timbral-subtraction-as-sole-harmonic-device not previously
+  applied in this catalog.
+
+  Final style char count: 947.
+tags:
+  - orchestral-climax-at-the-front
+  - chalumeau
+  - tuba
+  - theremin
+  - 139bpm
+  - b-minor
+  - lantern-keeper-crossing-a-frozen-canal-scene
+  - revival-tuba-16-gap
+  - revival-theremin-14-gap
+  - chalumeau-catalog-debut
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - inverted-arc
+  - timbral-subtraction
+  - no-modulation
+  - no-climax-return
+  - single-surviving-voice
+  - instrumental
