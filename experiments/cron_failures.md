@@ -75,3 +75,10 @@ Reason: Chrome MCP extension disconnected — could not reach suno.com/create af
 State: `prompts/what-one-reed-remembers-v223.yaml` exists on disk (untracked), judged 96/100 by the suno-judge subagent, awaiting submission. Concept: CLIMAX-AT-THE-FRONT arc with chalumeau (catalog debut) + tuba + theremin, stable B minor, 139 BPM, "What One Reed Remembers". Title is fresh, all gating passed; only the submit step is blocked.
 Action taken: Aborted the cycle per runbook ("Never auto-retry submissions"). Nothing committed. No `docs/suno_urls.json` or `evolution.md` change. The YAML is preserved untracked so the work isn't lost — submission can be retried by re-running the suno-submitter agent against the same path once the Chrome extension is reconnected.
 Next cycle should: if v223 is still on disk untracked when the next cron fires (`17 * * * *`), retry the submit step on it (skip the research/draft/judge stages — they're already done). Only draft a fresh v224 if v223 was committed or removed in the meantime.
+
+### 2026-05-26 — v223 retry-attempt — still disconnected
+
+Reason: Explicit retry run against this same YAML. `open -a "Google Chrome" https://claude.ai` issued; tabs_context_mcp called again — still returns "Browser extension is not connected." One reconnect attempt exhausted per runbook; no second retry within this run.
+State: `prompts/what-one-reed-remembers-v223.yaml` still untracked on disk, unchanged. Form never opened.
+Action taken: Logged retry failure. YAML preserved untracked. No commits.
+Next cycle should: Reconnect Chrome extension manually, then re-run submitter against `prompts/what-one-reed-remembers-v223.yaml`.
