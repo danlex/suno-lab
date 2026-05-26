@@ -82,3 +82,19 @@ Reason: Explicit retry run against this same YAML. `open -a "Google Chrome" http
 State: `prompts/what-one-reed-remembers-v223.yaml` still untracked on disk, unchanged. Form never opened.
 Action taken: Logged retry failure. YAML preserved untracked. No commits.
 Next cycle should: Reconnect Chrome extension manually, then re-run submitter against `prompts/what-one-reed-remembers-v223.yaml`.
+
+
+## 2026-05-26 — v223 submission retry failed
+
+- **Prompt**: prompts/what-one-reed-remembers-v223.yaml
+- **Title**: What One Reed Remembers
+- **Reason**: browser_disconnected — extension not connected after one retry attempt (open claude.ai → re-check)
+- **Context**: User had manually reconnected extension prior to request, but extension was still reporting disconnected at submission time
+- **Action**: No further auto-retry per instructions. User is actively monitoring.
+
+### 2026-05-26 — cron fire, no-op — bridge still down
+
+Reason: `list_connected_browsers` returned `[]` at the top of the cycle — Chrome extension not bridged to this Claude session. Short-circuited before research/draft/judge to avoid spending an agent chain on a submit that cannot land. Per [[reconnect_chrome.sh]] flow run last hour, the helper did not re-establish a bridge.
+State: `prompts/what-one-reed-remembers-v223.yaml` still on disk, untracked, judged 96/100. Three consecutive submit attempts across two cron hours have all failed at the bridge check.
+Action taken: Logged. No agents spawned. No commits beyond this log.
+Next cycle should: Same short-circuit. Only run the full pipeline (or the v223 retry) when `list_connected_browsers` returns at least one entry. User must reconnect the extension manually (extension icon in Chrome toolbar / chrome://extensions toggle / signed-in claude.ai session).
