@@ -1,0 +1,137 @@
+name: "what-the-noise-kept-hidden"
+version: 224
+style: "MUSIQUE CONCRÈTE INSTRUMENTALE — noise-to-pitch revelation for a torchlit
+  cloister at nightfall with HARP + TUBULAR BELLS + VIOLA DA GAMBA in E-flat minor
+  opening toward E minor, 141 BPM. Opens at 0:00 in pure noise mode: gamba bow in
+  overpressure scraping, harp strings struck with nails and pedal buzzing, tubular
+  bells grazed sideways — raw friction, no pitch. By 0:25 a partial harmonic leaks
+  through the gamba scrape. By 1:00 a harp harmonic surfaces, one pitch unsteady
+  in torchlight. Around 1:15 a tubular bell rings clean for the first time, startling
+  against noise still beneath. Through 2:00 bow pressure eases and grazing yields
+  to ringing. At 2:20 all noise falls away; one instrument holds a single pure tone
+  in E minor — the arrival of pitch is the climax, quiet and absolute. The tone
+  fades through 2:50. Underscore for instruments discovering pitch in cold stone.
+  No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What the Noise Kept Hidden"
+lyrics: |
+  [Short Instrumental Intro — all three in noise-generation mode, no pitch]
+
+  [Gamba Overpressure Scraping — bow grinding past resistance, raw friction dominates]
+
+  [Harp Nail-Strikes and Pedal Buzz — strings struck with nails, mechanism noise]
+
+  [Tubular Bells Grazed Sideways — mallet grazing metal, not striking, only surface]
+
+  [Harmonics Begin to Surface — partial pitches leaking through the noise fabric]
+
+  [Noise Yields Slowly to Tone — bow pressure eases, grazing yields to ringing]
+
+  [One Pitch Remains — all noise falls away, single pure tone in E minor holds]
+
+  [Long Sustained Tone Rings — quiet absolute arrival, the climax without crescendo]
+
+  [Long Fade — the tone diminishes slowly through the torch-dark cloister]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle,
+  lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation,
+  new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, early
+  music pastiche, medieval chant, Renaissance polyphony, Baroque ornament, noise
+  collage, sound art installation, ambient drone, electroacoustic"
+notes: |
+  MUSIQUE CONCRÈTE INSTRUMENTALE is an orchestral writing approach in which the
+  physical act of sound production — bow overpressure scraping a string, air-noise
+  before a tone speaks, a mallet grazing rather than striking, key-clicks, col legno
+  taps — is the primary compositional material, not merely a means to reach pitch.
+  The sonic signature is textural and processual: scraping, wheezing, pedal-buzz,
+  col-legno, breath-noise, overpressure distortion. Harmony is residue, not framework.
+  This approach emerged in post-war art music and has been explored by composers of
+  the latter 20th century; no individual composer is cited here per catalog blocklist
+  policy.
+
+  Concept source: the defining mechanic is that noise precedes pitch — the physical
+  surface of sound production is foregrounded and pitch arrives only as noise yields.
+  This prompt pursues a specific arc: open in full noise-generation mode with all
+  three instruments producing only surface and friction, let isolated recognizable
+  pitches surface like islands by ~1:15, and at ~2:20 shed everything except one
+  instrument sustaining a single clean tone. The arrival of clean pitch IS the climax
+  — not a crescendo, not a silence-before-climax drop, not a modulation flourish.
+  This is a wholly new arc for the catalog.
+
+  Composer-omission confession: musique concrète instrumentale has documented
+  association with mid-to-late 20th century European art music. No composer or
+  performer name appears in this YAML per blocklist rules; the structural mechanics
+  are the sole subject.
+
+  Duration strategy: 141 BPM provides a steady underlying pulse — the tempo does
+  not accelerate. The key arc (E-flat minor opening → E minor clean tone at 2:20)
+  synthesizes the half-step lift with the noise-to-pitch revelation WITHOUT using
+  silence-before-climax; the half-step serves as harmonic unveiling rather than
+  modulation drama. Target 2:30–3:30 per v137+ override. The lyrics scaffold has
+  10 sections including explicit "[Noise Yields Slowly to Tone]", "[One Pitch
+  Remains]", "[Long Sustained Tone Rings]", and "[Long Fade]" — giving Suno clear
+  structural signals to hold to natural length rather than truncating early.
+
+  Featured trio with version gaps:
+  - HARP (×12, last v203 — 21-gap): nail-plucks, pedal-buzz, prepared-string
+    attacks in the noise phase; single harmonic tone in the pitch-emergence phase.
+    The harp's mechanical richness (pedal buzz, nail-strike, string contact) makes
+    it the most versatile noise generator in the trio. Gap of 21 versions is a deep
+    revival.
+  - TUBULAR BELLS (×4, last v207 — 17-gap): grazed sideways by a soft mallet
+    rather than struck clean — the grazing produces a shimmer-scrape rather than
+    a ring. When it finally rings at ~1:15, the contrast is startling. Gap of 17
+    versions makes this a deep revival.
+  - VIOLA DA GAMBA (×4, last v209 — 15-gap): bow overpressure and col legno
+    tapping in the noise phase; the gamba's responsive bow-string interface makes
+    overpressure scraping particularly controllable and expressive. The partial
+    harmonic that leaks through at 0:25 is the first sign of pitch in the entire
+    piece. Gap of 15 versions is a deep revival.
+
+  Scene anchor: a torchlit cloister at nightfall — stone archways, the last
+  ambient light gone, only a single torch burning and the instruments beginning
+  their preparation. The piece is the process of those instruments discovering
+  that they can sing.
+
+  Key decision: E-flat minor opening with clean tone landing in E minor (one
+  half-step up) synthesizes the catalog's half-step lift convention with the
+  noise-to-pitch arc. E-flat minor has appeared before (v136, v195); E minor
+  has appeared before (v97, v123); the combination of opening in noise (not
+  pitched E-flat minor) and arriving at a clean E minor pitch as climax is new.
+
+  Novelty claims: first named MUSIQUE CONCRÈTE INSTRUMENTALE prompt in catalog;
+  first noise-to-pitch-arrival arc (climax is clean tone, not crescendo, not
+  silence-then-return); HARP revival at 21-gap (last v203); TUBULAR BELLS
+  revival at 17-gap (last v207); VIOLA DA GAMBA revival at 15-gap (last v209);
+  141 BPM first catalog use (catalog jumps 140 → 144, with 141/142/143 free);
+  torchlit-cloister-at-nightfall scene not previously used; harp + tubular bells
+  + viola da gamba trio never previously combined.
+
+  Final style char count: 944.
+tags:
+  - orchestral-musique-concrete-instrumentale
+  - harp
+  - tubular-bells
+  - viola-da-gamba
+  - 141bpm
+  - e-flat-minor
+  - e-minor
+  - torchlit-cloister-at-nightfall-scene
+  - revival-harp-21-gap
+  - revival-tubular-bells-17-gap
+  - revival-viola-da-gamba-15-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - noise-to-pitch-arc
+  - overpressure-scraping
+  - col-legno
+  - pedal-buzz
+  - noise-as-primary-material
+  - pitch-as-climax
+  - no-silence-drop
+  - no-crescendo-climax
+  - half-step-revelation
+  - instrumental

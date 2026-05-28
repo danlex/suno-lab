@@ -1,6 +1,6 @@
 {
-  "total_prompts": 223,
-  "latest_version": 223,
+  "total_prompts": 224,
+  "latest_version": 224,
   "instruments": {
     "organ": [
       1,
@@ -112,7 +112,8 @@
       220,
       221,
       222,
-      223
+      223,
+      224
     ],
     "pipe organ": [
       1,
@@ -215,7 +216,8 @@
       220,
       221,
       222,
-      223
+      223,
+      224
     ],
     "piano": [
       1,
@@ -426,7 +428,8 @@
       147,
       200,
       201,
-      203
+      203,
+      224
     ],
     "contrabass": [
       79,
@@ -480,6 +483,16 @@
       147,
       219
     ],
+    "viola": [
+      45,
+      92,
+      113,
+      126,
+      138,
+      189,
+      209,
+      224
+    ],
     "celesta": [
       69,
       91,
@@ -524,15 +537,6 @@
       130,
       143,
       218
-    ],
-    "viola": [
-      45,
-      92,
-      113,
-      126,
-      138,
-      189,
-      209
     ],
     "waterphone": [
       85,
@@ -660,6 +664,20 @@
       207,
       223
     ],
+    "tubular bells": [
+      101,
+      119,
+      135,
+      207,
+      224
+    ],
+    "viola da gamba": [
+      113,
+      126,
+      138,
+      209,
+      224
+    ],
     "bass flute": [
       100,
       120,
@@ -756,23 +774,11 @@
       141,
       212
     ],
-    "tubular bells": [
-      101,
-      119,
-      135,
-      207
-    ],
     "upright bass": [
       109,
       122,
       136,
       213
-    ],
-    "viola da gamba": [
-      113,
-      126,
-      138,
-      209
     ],
     "balafon": [
       106,
@@ -1020,13 +1026,13 @@
       192,
       203
     ],
-    "concerto": [
-      145,
-      149
-    ],
     "passacaglia": [
       111,
       202
+    ],
+    "romantic": [
+      145,
+      149
     ],
     "symphonic": [
       162,
@@ -1201,6 +1207,13 @@
       145,
       184
     ],
+    "e-flat minor": [
+      79,
+      109,
+      123,
+      213,
+      224
+    ],
     "f-sharp minor": [
       89,
       119,
@@ -1219,12 +1232,6 @@
       179,
       207,
       218
-    ],
-    "e-flat minor": [
-      79,
-      109,
-      123,
-      213
     ],
     "c major": [
       39,
@@ -1651,6 +1658,9 @@
       104,
       201
     ],
+    "141": [
+      224
+    ],
     "144": [
       150
     ],
@@ -1677,6 +1687,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 224,
+      "title": "What the Noise Kept Hidden",
+      "name": "what-the-noise-kept-hidden",
+      "featured": [],
+      "genre": null,
+      "key": "e-flat minor",
+      "bpm": 141
+    },
     {
       "version": 223,
       "title": "What One Reed Remembers",
@@ -2388,7 +2407,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -2424,7 +2443,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

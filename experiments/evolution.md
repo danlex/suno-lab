@@ -268,6 +268,7 @@ mindmap
 | 221 | Before the Floor Can Catch It | tarantella accelerando-to-collapse (hard cut-off, no resolution) | Ab minor → Ab MAJOR (parallel-major lift) | 133 | piccolo + flugelhorn + waterphone |
 | 222 | What the Vellum Keeps | additive stratum scoring (irreversible accretion, no return/no mod) | D# minor (stable) | 133 | bass clarinet + trumpet + crotales |
 | 223 | What One Reed Remembers | climax-at-the-front (inverted arc, single voice survives) | B minor (stable) | 139 | chalumeau + tuba + theremin |
+| 224 | What the Noise Kept Hidden | musique concrete instrumentale (noise-to-pitch revelation) | E-flat minor -> E minor (half-step revelation) | 141 | harp + tubular bells + viola da gamba |
 
 ## Next-cycle priorities
 
