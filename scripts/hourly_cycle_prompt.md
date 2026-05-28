@@ -6,9 +6,13 @@
 
 Run one full autonomous cycle in `/Users/adan/work/claude/code/suno`:
 
-1. **Orient** — read `MEMORY.md`, `experiments/evolution.md`, and `git log --oneline -5` to know the current state. Identify the latest version number from `ls prompts/ | grep -oE 'v[0-9]+' | sort -V | tail -1`. Next version = latest + 1.
+1. **Orient + bootstrap (single reusable command — do NOT hand-run `ls`/`grep`/`echo`):** run
+   ```
+   python3 scripts/cycle_start.py
+   ```
+   It prints JSON `{"last_version", "next_version", "prompt_count", "novelty_refreshed"}` AND refreshes `experiments/novelty_surface.json`. Use `next_version` as N — never compute the version with inline bash (CLAUDE.md "Scripting discipline"). Then read `MEMORY.md` and `experiments/evolution.md` (via the Read tool) for current state.
 
-2. **Refresh the novelty surface** — run `python3 scripts/novelty_surface.py`. This regenerates `experiments/novelty_surface.json` with the current used-instruments/keys/BPMs/genres from every prompt YAML.
+2. **Novelty surface is already refreshed by step 1** (`cycle_start.py` runs `novelty_surface.py` for you unless you pass `--no-novelty`). Consult `experiments/novelty_surface.json` for used instruments/keys/BPMs/genres before drafting.
 
 3. **Research ONE topic** (mandatory — never skip):
    - Rotate through: (a) new unusual instruments, (b) new genre fusions, (c) 2026 Suno prompt techniques, (d) film scoring trends, (e) Baroque/Classical architectural forms not yet tried.

@@ -89,10 +89,19 @@ The project runs an autonomous hourly generation cycle. Each cycle:
 4. **Save** — Rebuild website (`python3 scripts/build_site.py`), commit, and push to git
 
 ### After each cycle, always:
-- `python3 scripts/build_site.py` to rebuild `docs/songs.json` and `docs/index.html`
-- `git add` the new prompt YAML + updated docs + README
-- `git commit` with descriptive message
-- `git push` to keep GitHub Pages and repo up to date
+Run the reusable close-out script — do **not** hand-type the steps:
+- `python3 scripts/finish_cycle.py --version <N> --clips <uuid1> <uuid2> [--technique ... --key ... --bpm ... --trio ...]`
+  - It registers clip UUIDs in `docs/suno_urls.json`, appends the `evolution.md` row, rebuilds the site (`build_site.py`), stages only the cycle's files (never `git add -A`), commits, and pushes.
+
+### Scripting discipline (contract — non-negotiable)
+- **No vanilla / one-off script execution. The user does not approve it — full stop.** Do not run ad-hoc inline `bash` (incl. `ls | grep | sort`, `echo`, heredocs) or `python3 -c "..."` snippets to perform ANY deterministic, recurring cycle step. This explicitly includes: **computing the next version number**, refreshing the novelty surface, registering URLs, building the site, logging, committing/pushing, and inspecting prompt/JSON/YAML state.
+- Every deterministic, repeatable step MUST live in a **reusable, parametrized script** under `scripts/` and be invoked as `python3 scripts/<name>.py ...`. Current entrypoints:
+  - `scripts/cycle_start.py` — computes the next version number from `prompts/` and refreshes `experiments/novelty_surface.json`. Use this instead of `ls prompts/ | grep …`.
+  - `scripts/novelty_surface.py` — regenerates the novelty surface.
+  - `scripts/finish_cycle.py` — full save+publish close-out (URLs, evolution row, build, stage, commit, push).
+  - `scripts/build_site.py` — rebuilds `docs/`.
+- If a needed deterministic step has **no script yet, WRITE one** (parametrized, reusable, committed via the next `finish_cycle.py`) and run that — never improvise a one-off, even "just this once."
+- The ONLY acceptable raw `bash` is a genuinely non-deterministic, throwaway diagnostic that no script could sensibly own (e.g. `ps`/`kill` while debugging a stuck process, `git status`). When in doubt, assume it needs a script.
 
 ### Current era: Synthesis (v93+)
 Combining electronic genres (dubstep, trance, trap, prog house, breakbeat, psytrance) with full orchestra + unusual instruments (waterphone, glass harmonica, taiko, prepared piano, handpan, contrabass clarinet, cimbalom, pipe organ). Always instrumental. Key frisson triggers: silence-before-climax, half-step modulation, Shepard tones.
