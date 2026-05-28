@@ -1,0 +1,82 @@
+name: "before-the-ledger-closes"
+version: 227
+title: "Before the Ledger Closes"
+instrumental: true
+
+style: "RITORNELLO FORM underscore for a last-lamp archive scene, total duration around 3:00, CONTRABASS CLARINET + ONDES MARTENOT + MUSIC BOX as solo episode trio. D-flat minor, 143 BPM. Dense strings and low brass press the opening refrain into the floor — ceremonial, march-like, unhurried. Around 0:25 the CONTRABASS CLARINET steps forward alone, sub-bass breath searching toward the dominant, like someone reading an entry aloud in an empty archive late at night. Around 0:55 the ONDES MARTENOT joins, electromagnetic shimmer swooping into the relative major as lamplight bends across shelves. By 1:30 the MUSIC BOX threads in beside them, brittle clockwork counting the last minutes before dawn. Near 2:20 the full orchestra returns in the home key — homecoming is the climax, resolution by return alone. The ensemble settles to a closed cadence by 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+
+  [Full Ensemble Ritornello — Tonic]
+
+  [Contrabass Clarinet Episode — Dominant Search]
+
+  [Ritornello Fragment Returns]
+
+  [Ondes Martenot Episode — Relative Major Shimmer]
+
+  [Music Box Joins — Clockwork Intimacy]
+
+  [2:20 — Full Ritornello Homecoming, D-flat Minor]
+
+  [Settled Cadential Close]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, baroque pastiche, harpsichord, antiquarian revival, early music choral, Scandinavian folk, Japanese folk"
+
+tags:
+  - orchestral-ritornello-form
+  - contrabass-clarinet
+  - ondes-martenot
+  - music-box
+  - 143bpm
+  - d-flat-minor
+  - archivist-at-last-lamp-before-dawn-scene
+  - revival-contrabass-clarinet-17-gap
+  - revival-ondes-martenot-16-gap
+  - revival-music-box-18-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - ritornello-technique-new
+
+notes: |
+  RITORNELLO FORM is a Baroque structural principle in which a full-ensemble refrain
+  (the ritornello) alternates with contrasting solo episodes; the refrain recurs in
+  different keys across the piece and its final return in the home tonic functions as
+  the structural climax — no silence beat or half-step modulation required, because
+  the homecoming itself supplies the resolution. This form was widespread in the
+  early eighteenth century, shaping concerti, arias, and overtures across European
+  courts and churches. Research for this version focused on the contrast dynamic
+  between a dense tutti refrain and exposed solo voices pushing harmonically outward
+  through successive episodes, then collapsing back to the home key with relief.
+  Composer names are intentionally omitted per project blocklist.
+
+  ROLE ASSIGNMENT: the orchestra (strings + low brass) carries the tutti ritornello
+  refrain — ceremonial, locked, march-like. The featured trio are the SOLO EPISODE
+  voices exclusively. CONTRABASS CLARINET (last v210, gap ×17) — sub-bass organic
+  breath, leads Episode 1, drives the harmonic search toward the dominant. ONDES
+  MARTENOT (last v211, gap ×16) — electromagnetic shimmer and swooping melodic line,
+  leads Episode 2, drifts into the relative major. MUSIC BOX (last v209, gap ×18) —
+  brittle clockwork intimacy, joins Episode 3 beside the other two, counting the last
+  minutes before dawn. All three get exposed moments across the three episodes.
+
+  KEY DECISION: staying in D-flat minor for the entire arc. D minor is heavily used in
+  the catalog; D-flat minor is rarer and its flat-side tonality fits the lamplight scene
+  — a slightly muffled, domestic darkness. The ritornello homecoming to D-flat minor at
+  2:20 is the climax. No modulation trick needed.
+
+  DURATION STRATEGY: tonal anchor (D-flat minor, orchestral strings + low brass) plus
+  pulse anchor (143 BPM march, unhurried but forward-moving) framed in the 3-min arc
+  per v137+ override. BPM 143 is unused in the recent catalog (137/139/141/142/146
+  taken).
+
+  NOVELTY: first RITORNELLO FORM technique in the catalog. Trio represents three deep
+  revivals — contrabass clarinet (17-gap), ondes martenot (16-gap), music box (18-gap).
+  143 BPM is new. D-flat minor is underused. Scene (archivist at last lamp before dawn)
+  is new.
+
+  STYLE CHAR COUNT: 938 (within 850–950 target).
