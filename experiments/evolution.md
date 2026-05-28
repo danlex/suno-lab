@@ -269,6 +269,7 @@ mindmap
 | 222 | What the Vellum Keeps | additive stratum scoring (irreversible accretion, no return/no mod) | D# minor (stable) | 133 | bass clarinet + trumpet + crotales |
 | 223 | What One Reed Remembers | climax-at-the-front (inverted arc, single voice survives) | B minor (stable) | 139 | chalumeau + tuba + theremin |
 | 224 | What the Noise Kept Hidden | musique concrete instrumentale (noise-to-pitch revelation) | E-flat minor -> E minor (half-step revelation) | 141 | harp + tubular bells + viola da gamba |
+| 225 | Before the Ferryman Speaks | isorhythmic convergence (talea/color phase-lock) | G-sharp minor -> A minor (convergence half-step) | 142 | cor anglais + hurdy gurdy + handpan |
 
 ## Next-cycle priorities
 
