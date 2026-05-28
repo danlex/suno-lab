@@ -1,0 +1,69 @@
+name: "what-the-scribe-could-not-finish"
+version: 226
+title: "What the Scribe Could Not Finish"
+instrumental: true
+
+style: "STILE CONCITATO ARC, scriptorium-before-candles-fail, total duration around 3:00. C minor to C-sharp minor, 146 BPM. BASS FLUTE + CELESTA + GLOCKENSPIEL over agitated strings. Built on violent affective switching — molle stillness hard-cut to concitato fury, not crescendo. Opens 0:00 in molle: BASS FLUTE breathes a slow aching line, CELESTA holds icy sustains, GLOCKENSPIEL drops sparse strikes like a quill on parchment. First concitato at 0:45: CELESTA rapid repeated notes, GLOCKENSPIEL tremolo rolls, BASS FLUTE flutter-tonguing in bursts. Hard collapse at 1:25 — BASS FLUTE alone, slower and graver. Second concitato at 1:50 lifts to C-sharp minor: GLOCKENSPIEL hammers fast figures while CELESTA carries the aching molle line. Final texture from 2:30 holds both states — agitation unresolved, softness never restored. Underscore for a scriptorium at candle-end. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+
+  [Bass Flute Opens — Slow Molle Aching Line]
+
+  [Celesta and Glockenspiel Enter — Sparse, Like Candlelight]
+
+  [First Concitato Eruption at 0:45 — Rapid Repeated Notes and Tremolo Fury]
+
+  [Hard Collapse at 1:25 — Bass Flute Alone, Graver and Slower]
+
+  [Second Concitato Wave at 1:50 — C-sharp Minor, Fury Fused with Grief]
+
+  [Both States Held at 2:30 — Agitation and Stillness at Once]
+
+  [Unresolved Fade — Neither Fury Nor Stillness Wins]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, lute, harpsichord, Baroque period pastiche, early-music choral, Renaissance ensemble, sacred polyphony, figured-bass accompaniment"
+
+tags:
+  - orchestral-stile-concitato-arc
+  - bass-flute
+  - celesta
+  - glockenspiel
+  - 146bpm
+  - new-bpm
+  - c-minor
+  - c-sharp-minor
+  - scriptorium-before-candles-fail-scene
+  - revival-bass-flute-18-gap
+  - revival-celesta-16-gap
+  - revival-glockenspiel-17-gap
+  - new-technique
+  - stile-concitato
+  - molle-concitato-arc
+  - duration-3min
+  - research-driven
+  - delicate-trio-concitato
+  - affective-switching
+
+notes: |
+  TECHNIQUE: Stile concitato (the "agitated style") is a Baroque compositional doctrine, codified in the early 17th century, that distinguishes between contrasting emotional states — concitato (warlike, turbulent: rapid repeated notes at high speed, tremolo fury) and molle (soft, lyrical: slow, long-tone stillness) — and uses hard cuts between them rather than gradual dynamic shaping. The structural engine is violent affective switching, not crescendo or decrescendo, so each return feels transformed rather than merely louder or softer.
+
+  CONCEPT SOURCE: Rather than applying this doctrine to the traditional string-tremolo fury vehicle it was built for, this prompt reassigns the roles to a delicate trio. BASS FLUTE (breathy low register, flutter-tongue for concitato, slow aching tone for molle), CELESTA (rapid repeated-note figures for concitato, icy sustained partials for molle), and GLOCKENSPIEL (fast mallet tremolo rolls for concitato, sparse single strikes for molle) together carry the affective switching. Orchestral strings support and amplify but do not lead. A delicate-instrument reading of a battle doctrine — this is the core novelty.
+
+  COMPOSER OMISSION: The principal historical figure associated with this doctrine has been omitted per the hard blocklist. All historical claims reference the technique itself, not its originator.
+
+  DURATION STRATEGY: Target 2:30–3:30 (cue ~3:00) per the v137+ override. Arc uses tonal contrast (molle in C minor at 0:00, first concitato at 0:45, molle collapse at 1:25, second concitato at 1:50 lifting to C-sharp minor for the fused finale) and pulse-based intensity (146 BPM throughout, with trio attack rates creating the perceived speed differential between states). The half-step modulation to C-sharp minor is folded into the second concitato wave rather than a separate silence trick — fury and key lift arrive simultaneously, making the grief feel more desperate. Final texture from 2:30 refuses resolution — both states suspended to fade.
+
+  NOVELTY CLAIMS:
+  - BASS FLUTE: woodwinds, last used v208, gap 18 versions (x18)
+  - CELESTA: keyboards, last used v210, gap 16 versions (x16)
+  - GLOCKENSPIEL: mallet percussion, last used v209, gap 17 versions (x17)
+  - BPM 146: unused in catalog (recent run: 137, 139, 141, 142 taken; 146 free)
+  - Key: C minor to C-sharp minor half-step lift, not previously paired with this trio
+  - Scene: scriptorium-before-candles-fail — first use, not in catalog
+  - Technique: STILE CONCITATO ARC as structural engine — first use in catalog
+  - Delicate-trio concitato reading: first in catalog
+
+  FINAL STYLE CHAR COUNT: 938

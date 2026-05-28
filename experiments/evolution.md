@@ -270,6 +270,7 @@ mindmap
 | 223 | What One Reed Remembers | climax-at-the-front (inverted arc, single voice survives) | B minor (stable) | 139 | chalumeau + tuba + theremin |
 | 224 | What the Noise Kept Hidden | musique concrete instrumentale (noise-to-pitch revelation) | E-flat minor -> E minor (half-step revelation) | 141 | harp + tubular bells + viola da gamba |
 | 225 | Before the Ferryman Speaks | isorhythmic convergence (talea/color phase-lock) | G-sharp minor -> A minor (convergence half-step) | 142 | cor anglais + hurdy gurdy + handpan |
+| 226 | What the Scribe Could Not Finish | stile concitato arc (concitato/molle affective switching) | C minor -> C-sharp minor (fused-finale half-step) | 146 | bass flute + celesta + glockenspiel |
 
 ## Next-cycle priorities
 
