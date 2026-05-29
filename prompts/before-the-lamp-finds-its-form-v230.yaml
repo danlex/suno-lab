@@ -1,0 +1,94 @@
+name: "before-the-lamp-finds-its-form"
+version: 230
+title: "What the Fog Gives Back"
+instrumental: true
+
+style: "Hybrid cinematic orchestral, GRANULAR ORCHESTRAL DECOMPOSITION, lighthouse before dawn, total duration around 3:00, B major to C major, 149 BPM. CRISTAL BASCHET + TENOR SAXOPHONE + FRENCH HORN over sul ponticello tremolo strings. A warm B-major chord opens — horn round, saxophone breathing its broad tone, cristal baschet adding bowed-glass shimmer. Dissolution begins 0:30: horn turns stopped into spectral smear, saxophone shifts to breath-tone and flutter, strings thin to glass-thread tremolo. By 1:00 cristal baschet fractures into grain haze; by 1:30 no instrument keeps its name — shimmer, breath-smear, bowed glass. Haze holds to 2:05; lowest strings stir. At 2:20 saxophone recovers full tone. At 2:30 cristal baschet reconstitutes in C major — chord locks bright and clear. Reconstitution is the climax. Settle by 2:50. Film score for lighthouse reconstitution at dawn. No guitars, no vocals, no rock drums, no synthesizers, no pipe organ."
+
+lyrics: |
+  [Sustained Warm Opening]
+  [Cristal Baschet Shimmer Rises]
+  [Horn and Saxophone Dissolve]
+  [String Haze Deepens]
+  [Grain Cloud Holds]
+  [Lowest Register Stirs]
+  [Saxophone Reconstitutes]
+  [Full Chord Returns — C Major]
+  [Luminous Settle]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, ambient, drone, synthwave, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+
+tags:
+  - orchestral-granular-decomposition
+  - cristal-baschet
+  - tenor-saxophone
+  - french-horn
+  - 149bpm
+  - new-bpm
+  - b-major
+  - c-major
+  - b-major-rare-key
+  - lighthouse-before-dawn-scene
+  - revival-cristal-baschet-15-gap
+  - revival-tenor-saxophone-14-gap
+  - revival-french-horn-19-gap
+  - new-technique
+  - granular-decomposition-technique-new
+  - duration-3min
+  - research-driven
+  - hybrid-cinematic
+  - reconstitution-climax
+  - major-key-luminous
+
+notes: |
+  TECHNIQUE — GRANULAR ORCHESTRAL DECOMPOSITION: A hybrid-cinematic technique in which a
+  sustained orchestral chord is fractured into a cloud of micro-grains that lose their
+  instrumental identity, becoming pure textural shimmer, smear, and hovering haze, then
+  slowly re-coalesce back into a coherent recognizable orchestral voice. The emotional
+  payoff is reconstitution — the recovery of identity — not a conventional volume or
+  density climax. This is a contemporary cinematic scoring approach rather than a
+  historical period technique; it borrows perceptually from electronic granular synthesis
+  but is executed entirely through acoustic extended techniques.
+
+  CONCEPT SOURCE: Research confirmed that "granular synthesis" is an electronic/computer
+  music term (subdivision of sound into micro-grains), but the same perceptual effect can
+  be approached through acoustic orchestral extended techniques: sul ponticello + fast
+  tremolo strings produce glass-thread filaments; flutter-tongue and breath-tone saxophone
+  lose pitch center; stopped/muted french horn smears its brass identity; the cristal
+  baschet's bowed-glass friction shimmer naturally fractures into high-register shimmer
+  clouds. The reconstitution is staged low-to-high (strings restore warmth first, then
+  saxophone recovers full breath, then cristal baschet reconstitutes its singing tone)
+  so the return of identity is dramatized as a gradual luminous unlock.
+
+  ACOUSTIC GUARD APPLIED: "Granular" is forbidden as a synth trigger. The style front-loads
+  "Hybrid cinematic orchestral" to anchor the genre register and prevent Suno from routing
+  toward electronic/ambient textures. The exclude_styles field explicitly blocks ambient,
+  drone, synthwave, EDM, new age. No composer or artist names appear anywhere in the YAML.
+
+  TRIO ROLE ASSIGNMENT:
+  - CRISTAL BASCHET (×1, last v215 — 15-gap): shimmer/haze engine; bowed-glass friction tone
+    IS the grain-cloud's upper register; the reconstituting voice that unlocks C major.
+  - TENOR SAXOPHONE (×1, last v216 — 14-gap): reedy human-breath middle voice; breath-tone
+    and flutter during dissolution, full-bodied round tone at reconstitution.
+  - FRENCH HORN (×1, last v211 — 19-gap): warm brass weight; stopped and smeared during
+    dissolution, open bell and round tone when identity returns.
+  Orchestral strings provide the sul ponticello / tremolo haze bed.
+
+  NOVELTY CLAIMS:
+  - First GRANULAR ORCHESTRAL DECOMPOSITION technique in the catalog (v230).
+  - BPM 149 is unused: recent run 142/143/146/147/148 confirmed; 149 is new.
+  - B major is the rarest key in the catalog (only 1 prior use). The half-step lift to
+    C major is folded into the reconstitution climax — identity-return AND key-brightening
+    arrive together as a single luminous peak event. Deliberate major-key warmth, a
+    break from the recent run of minor-key elegies.
+  - Scene: tide-locked lighthouse before dawn (mist dissolving the beam, then lamp/form
+    resolving as dawn approaches). No prior scriptorium/scribe/ledger/forge/ferryman/flock
+    scene reused.
+
+  DURATION STRATEGY: Tonal arc (B major → granulation → C major reconstitution) provides
+  harmonic direction; 149 BPM provides an underlying pulse beneath sustained/textural
+  material (not a driving beat). 3-min framing per v137+ override (target 2:30–3:30,
+  cue ~3:00). All timestamps fall within 0:00–3:30.
+
+  FINAL STYLE CHAR COUNT: 933 (within 850–950 target, well under 1000 hard limit).

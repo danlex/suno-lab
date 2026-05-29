@@ -274,6 +274,7 @@ mindmap
 | 227 | Before the Ledger Closes | ritornello form (homecoming-as-climax refrain/episodes) | D-flat minor (stable, homecoming return) | 143 | contrabass clarinet + ondes martenot + music box |
 | 228 | What Color the Forge Remembers | klangfarbenmelodie (tone-color melody, timbral handoff) | A-flat major -> A major (half-step at color reunion) | 147 | prepared piano + upright bass + subcontrabass saxophone |
 | 229 | Before the Flock Decides | alap-jor-jhala velocity arc (rhythmic densification climax) | B-flat minor (stable, no modulation) | 148 | ophicleide + baryton + clavichord |
+| 230 | What the Fog Gives Back | granular orchestral decomposition (timbral dissolution + reconstitution-as-climax) | B major -> C major (half-step at reconstitution) | 149 | cristal baschet + tenor saxophone + french horn |
 
 ## Next-cycle priorities
 

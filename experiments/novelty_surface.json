@@ -1,6 +1,6 @@
 {
-  "total_prompts": 229,
-  "latest_version": 229,
+  "total_prompts": 230,
+  "latest_version": 230,
   "instruments": {
     "organ": [
       1,
@@ -118,7 +118,8 @@
       226,
       227,
       228,
-      229
+      229,
+      230
     ],
     "pipe organ": [
       1,
@@ -227,7 +228,8 @@
       226,
       227,
       228,
-      229
+      229,
+      230
     ],
     "piano": [
       1,
@@ -464,7 +466,8 @@
       129,
       142,
       146,
-      211
+      211,
+      230
     ],
     "celesta": [
       69,
@@ -535,6 +538,15 @@
       179,
       218
     ],
+    "cristal baschet": [
+      86,
+      93,
+      112,
+      132,
+      144,
+      215,
+      230
+    ],
     "duduk": [
       32,
       33,
@@ -570,14 +582,6 @@
       210,
       227
     ],
-    "cristal baschet": [
-      86,
-      93,
-      112,
-      132,
-      144,
-      215
-    ],
     "harpsichord": [
       105,
       121,
@@ -609,6 +613,14 @@
       144,
       195,
       221
+    ],
+    "tenor saxophone": [
+      107,
+      123,
+      143,
+      196,
+      216,
+      230
     ],
     "trombone": [
       102,
@@ -716,13 +728,6 @@
       141,
       212,
       228
-    ],
-    "tenor saxophone": [
-      107,
-      123,
-      143,
-      196,
-      216
     ],
     "theremin": [
       101,
@@ -1007,7 +1012,8 @@
       211,
       213,
       217,
-      223
+      223,
+      230
     ],
     "neoclassical": [
       1,
@@ -1045,9 +1051,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187
     ],
     "baroque": [
@@ -1058,13 +1062,17 @@
       192,
       203
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "passacaglia": [
       111,
       202
     ],
-    "romantic": [
-      145,
-      149
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -1302,6 +1310,10 @@
       124,
       134
     ],
+    "b major": [
+      122,
+      230
+    ],
     "bb major": [
       41,
       65
@@ -1331,9 +1343,6 @@
     ],
     "ab minor": [
       62
-    ],
-    "b major": [
-      122
     ],
     "b-flat major": [
       138
@@ -1712,6 +1721,9 @@
     "148": [
       229
     ],
+    "149": [
+      230
+    ],
     "150": [
       74
     ],
@@ -1732,6 +1744,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 230,
+      "title": "Before the Lamp Finds Its Form",
+      "name": "before-the-lamp-finds-its-form",
+      "featured": [],
+      "genre": "orchestral",
+      "key": "b major",
+      "bpm": 149
+    },
     {
       "version": 229,
       "title": "Before the Flock Decides",
@@ -2236,7 +2257,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2380,7 +2401,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2497,7 +2518,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -2533,7 +2554,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
