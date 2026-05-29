@@ -273,6 +273,7 @@ mindmap
 | 226 | What the Scribe Could Not Finish | stile concitato arc (concitato/molle affective switching) | C minor -> C-sharp minor (fused-finale half-step) | 146 | bass flute + celesta + glockenspiel |
 | 227 | Before the Ledger Closes | ritornello form (homecoming-as-climax refrain/episodes) | D-flat minor (stable, homecoming return) | 143 | contrabass clarinet + ondes martenot + music box |
 | 228 | What Color the Forge Remembers | klangfarbenmelodie (tone-color melody, timbral handoff) | A-flat major -> A major (half-step at color reunion) | 147 | prepared piano + upright bass + subcontrabass saxophone |
+| 229 | Before the Flock Decides | alap-jor-jhala velocity arc (rhythmic densification climax) | B-flat minor (stable, no modulation) | 148 | ophicleide + baryton + clavichord |
 
 ## Next-cycle priorities
 
