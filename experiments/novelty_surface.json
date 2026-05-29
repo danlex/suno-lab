@@ -1,6 +1,6 @@
 {
-  "total_prompts": 227,
-  "latest_version": 227,
+  "total_prompts": 228,
+  "latest_version": 228,
   "instruments": {
     "organ": [
       1,
@@ -116,7 +116,8 @@
       224,
       225,
       226,
-      227
+      227,
+      228
     ],
     "pipe organ": [
       1,
@@ -223,7 +224,8 @@
       224,
       225,
       226,
-      227
+      227,
+      228
     ],
     "piano": [
       1,
@@ -289,7 +291,8 @@
       204,
       205,
       208,
-      215
+      215,
+      228
     ],
     "cello": [
       33,
@@ -691,6 +694,20 @@
       188,
       219
     ],
+    "prepared piano": [
+      89,
+      95,
+      131,
+      208,
+      228
+    ],
+    "subcontrabass saxophone": [
+      86,
+      118,
+      141,
+      212,
+      228
+    ],
     "tenor saxophone": [
       107,
       123,
@@ -718,6 +735,13 @@
       135,
       207,
       224
+    ],
+    "upright bass": [
+      109,
+      122,
+      136,
+      213,
+      228
     ],
     "viola da gamba": [
       113,
@@ -774,29 +798,11 @@
       143,
       216
     ],
-    "prepared piano": [
-      89,
-      95,
-      131,
-      208
-    ],
     "steelpan": [
       107,
       120,
       183,
       217
-    ],
-    "subcontrabass saxophone": [
-      86,
-      118,
-      141,
-      212
-    ],
-    "upright bass": [
-      109,
-      122,
-      136,
-      213
     ],
     "balafon": [
       106,
@@ -998,8 +1004,7 @@
       211,
       213,
       217,
-      223,
-      227
+      223
     ],
     "neoclassical": [
       1,
@@ -1037,9 +1042,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187
     ],
     "baroque": [
@@ -1050,13 +1053,17 @@
       192,
       203
     ],
-    "concerto": [
-      145,
-      149
-    ],
     "passacaglia": [
       111,
       202
+    ],
+    "romantic": [
+      145,
+      149
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -1263,6 +1270,11 @@
       214,
       225
     ],
+    "a-flat major": [
+      90,
+      185,
+      228
+    ],
     "c major": [
       39,
       110,
@@ -1287,10 +1299,6 @@
       24,
       124,
       134
-    ],
-    "a-flat major": [
-      90,
-      185
     ],
     "bb major": [
       41,
@@ -1696,6 +1704,9 @@
     "146": [
       226
     ],
+    "147": [
+      228
+    ],
     "150": [
       74
     ],
@@ -1717,11 +1728,20 @@
   },
   "titles": [
     {
+      "version": 228,
+      "title": "What Color the Forge Remembers",
+      "name": "what-color-the-forge-remembers",
+      "featured": [],
+      "genre": null,
+      "key": "a-flat major",
+      "bpm": 147
+    },
+    {
       "version": 227,
       "title": "Before the Ledger Closes",
       "name": "before-the-ledger-closes",
       "featured": [],
-      "genre": "orchestral",
+      "genre": null,
       "key": "d-flat minor",
       "bpm": 143
     },
@@ -2202,7 +2222,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2346,7 +2366,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2463,7 +2483,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -2499,7 +2519,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

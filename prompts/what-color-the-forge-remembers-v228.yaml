@@ -1,0 +1,66 @@
+name: "what-color-the-forge-remembers"
+version: 228
+style: "KLANGFARBENMELODIE tone-color melody, foundry at first light, total duration around 3:00. PREPARED PIANO + UPRIGHT BASS + SUBCONTRABASS SAXOPHONE pass a near-static A-flat major harmony at 147 BPM: pitch barely moves; the melody is purely shifting timbral identity. Prepared piano opens alone — bronze buzz and muted string friction against forge warmth. At 0:40 upright bass enters on the same pitch, woody arco sustain and low pizzicato replacing the piano color while A-flat holds. At 1:20 subcontrabass saxophone breathes in, vast and slow, the lowest color enveloping the harmony whole. Strings sustain a soft bed. At 2:20 all three timbres sound together — reunion of colors, density as climax; harmony lifts a half-step to A major at the peak. At 2:45 the voices thin and settle. Underscore for a foundry at first light. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "What Color the Forge Remembers"
+lyrics: |
+  [Short Instrumental Intro — sustained A-flat harmony, forge silence before dawn]
+
+  [Prepared Piano Alone — bronze buzz and muted string friction, first color]
+
+  [Upright Bass Enters — woody arco sustain, same pitch, color shifts at 0:40]
+
+  [Subcontrabass Saxophone Breathes In — vast sub-register, lowest color, 1:20]
+
+  [Orchestral Bed Deepens — strings hold still, three colors approach convergence]
+
+  [All Three Colors Reunite — 2:20, same pitch glowing from three directions]
+
+  [Climax as Density — reunion of timbres, no modulation, pure color fullness]
+
+  [Voices Thin — settle and release, 2:45]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, hard rock, doom, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, free jazz, dissonant-cluster, microtonal, quarter-tone, harsh-noise-collage, harsh extended techniques, percussive chaos, bebop, smooth jazz"
+notes: |
+  KLANGFARBENMELODIE (tone-color melody) is a compositional technique in which timbre, not pitch, carries the melodic line. A single sustained chord or near-static harmony is passed between instruments in sequence; each handoff changes the sonic color while the pitch barely moves, so the "melody" the listener perceives is entirely the progression of shifting timbral identities. The technique emerged in early 20th-century European concert music and has been explored in orchestral and chamber contexts ever since, though this catalog cannot cite composers by name per blocklist rules.
+
+  Concept source: the same pitch-center glows differently as it passes through each instrument's color — prepared piano brings percussive-tonal friction (buzzes, muted string rattle, metallic preparations); upright bass brings woody arco sustain and low pizzicato; subcontrabass saxophone brings vast sub-register breath. The "melody" is a sequence of illuminations of the same note, not a sequence of different notes.
+
+  Composer-omission confession: the canonical architects of tone-color melody in orchestral writing cannot be named under this catalog's blocklist rules. Their absence from the notes does not diminish the technique's pedigree.
+
+  Key decision: A-flat major home throughout, held stable. The arc's drama is entirely timbral — no half-step lift is used at the climax, because the reunion-of-colors moment is the structural payoff and adding pitch modulation would compete with the timbral convergence. The reunion at 2:20 is the first time all three colors sound simultaneously on A-flat, and that density is the emotional event. A-flat major's richness in low strings and bass woodwind is ideal for the foundry register.
+
+  Duration strategy: tonal (A-flat major, stable, the harmonic stillness that lets timbral shifts register as events) + pulse-based (147 BPM as a shimmer rate beneath near-static harmony — the pulse is felt as an underlying glow frequency, not a driving beat) + 3-minute framing per v137+ override. Render target 2:30–3:30, cue around 3:00.
+
+  Featured trio (each with novelty gap from catalog):
+  - PREPARED PIANO: keyboards category, last used v208, gap 20. Interior percussive-tonal friction — metal objects on strings, muted sections, buzzing preparations produce a complex tonal-noise texture that glows against the forge warmth; the piece's first and most restless color.
+  - UPRIGHT BASS: plucked_strings category, last used v213, gap 15. Woody arco bowed sustain gives a long, warm, resinous color entirely different from the piano's metallic quality; pizzicato punctuations add a low plucked warmth. Second color, entering at 0:40.
+  - SUBCONTRABASS SAXOPHONE: woodwinds category, last used v212, gap 16. The largest saxophone, sounding in the sub-bass register; its vast slow breath envelops the harmony with the lowest and broadest color, entering at 1:20. The third and deepest illumination of the pitch-center.
+
+  Scene anchor: a foundry hearth at first light — molten metal shifting color as dawn light grows is a natural visual metaphor for tone-color melody. The forge glow is A-flat major, unchanging in pitch, but passing through amber, copper-red, and deep orange as the light shifts — each hue is one instrument's timbre.
+
+  Novelty claims: first KLANGFARBENMELODIE (tone-color melody) prompt in catalog; 147 BPM not previously used (recent run included 139/141/142/143/146); A-flat major home without modulation is a new key-as-sustained-bed approach; foundry-hearth-at-first-light scene is new; prepared piano + upright bass + subcontrabass saxophone trio is new; three simultaneous deep-gap revivals (prepared piano x1 last v208 gap 20; upright bass x1 last v213 gap 15; subcontrabass saxophone x1 last v212 gap 16).
+
+  Style char count: 943.
+tags:
+  - orchestral-klangfarbenmelodie
+  - klangfarbenmelodie
+  - tone-color-melody
+  - prepared-piano
+  - upright-bass
+  - subcontrabass-saxophone
+  - 147bpm
+  - new-bpm
+  - a-flat-major
+  - foundry-hearth-at-first-light-scene
+  - revival-prepared-piano-20-gap
+  - revival-upright-bass-15-gap
+  - revival-subcontrabass-saxophone-16-gap
+  - new-technique
+  - timbral-handoff
+  - reunion-of-colors
+  - near-static-harmony
+  - duration-3min
+  - research-driven
+  - instrumental
