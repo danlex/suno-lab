@@ -2,11 +2,13 @@
 
 Session-only crons die when Claude exits. After starting a fresh session in this repo, ask Claude to re-register these (it can use `CronCreate`).
 
-## 1. Suno cycle — every 15 minutes (at :07/:22/:37/:52)
+## 1. Suno cycle — every 30 minutes (at :08/:38)
 
-**Schedule:** `7,22,37,52 * * * *` (true 15-min cadence, offset off the :00/:15/:30/:45 marks to dodge congested minute boundaries)
+**Schedule:** `8,38 * * * *` (true 30-min cadence, offset off the :00/:30 marks to dodge congested minute boundaries)
 
-Updated 2026-05-28 from the prior hourly `17 * * * *` per user request ("upload one every 15 minutes"). Note: recurring crons are session-only (the `durable` flag does not persist to disk) and auto-expire after 7 days — re-register at session start and watch the 7-day window.
+History: hourly `17 * * * *` → 15-min `7,22,37,52` (2026-05-28, user "every 15 minutes") → 30-min `8,38` (2026-05-29). The 15-min cadence fired faster than a full cycle (5 agents + browser submit, plus occasional retries) could complete, so fires stacked into a backlog; 30 min gives enough headroom. Note: recurring crons are session-only (the `durable` flag does not persist to disk) and auto-expire after 7 days — re-register at session start and watch the 7-day window.
+
+**Backlog guard (baked into the prompt):** if multiple cron copies stack, treat them as ONE cycle (one new version per turn, not one per copy). If the latest `prompts/*-v<N>.yaml` is untracked (a prior submit died mid-flight), RETRY that version's submit+close-out rather than drafting a new one.
 
 **Prompt:**
 
