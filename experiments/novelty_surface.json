@@ -1,6 +1,6 @@
 {
-  "total_prompts": 231,
-  "latest_version": 231,
+  "total_prompts": 232,
+  "latest_version": 232,
   "instruments": {
     "organ": [
       1,
@@ -120,7 +120,8 @@
       228,
       229,
       230,
-      231
+      231,
+      232
     ],
     "pipe organ": [
       1,
@@ -231,7 +232,8 @@
       228,
       229,
       230,
-      231
+      231,
+      232
     ],
     "piano": [
       1,
@@ -501,6 +503,16 @@
       222,
       227
     ],
+    "duduk": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      179,
+      218,
+      232
+    ],
     "glass harmonica": [
       32,
       33,
@@ -549,15 +561,6 @@
       144,
       215,
       230
-    ],
-    "duduk": [
-      32,
-      33,
-      34,
-      35,
-      36,
-      179,
-      218
     ],
     "trombone": [
       102,
@@ -692,6 +695,13 @@
       207,
       225
     ],
+    "cornet": [
+      115,
+      127,
+      140,
+      214,
+      232
+    ],
     "flugelhorn": [
       106,
       123,
@@ -775,12 +785,6 @@
       138,
       209,
       224
-    ],
-    "cornet": [
-      115,
-      127,
-      140,
-      214
     ],
     "felt piano": [
       112,
@@ -1020,7 +1024,8 @@
       217,
       223,
       230,
-      231
+      231,
+      232
     ],
     "neoclassical": [
       1,
@@ -1063,24 +1068,24 @@
       178,
       187
     ],
+    "baroque": [
+      188,
+      191
+    ],
     "chamber": [
-      191,
       192,
       203
-    ],
-    "concerto": [
-      145,
-      149
     ],
     "passacaglia": [
       111,
       202
     ],
+    "romantic": [
+      145,
+      149
+    ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "minimalist": [
       201
@@ -1241,6 +1246,13 @@
       150,
       201
     ],
+    "c-sharp minor": [
+      117,
+      179,
+      207,
+      218,
+      232
+    ],
     "d-flat major": [
       92,
       108,
@@ -1267,12 +1279,6 @@
       126,
       206,
       221
-    ],
-    "c-sharp minor": [
-      117,
-      179,
-      207,
-      218
     ],
     "d-flat minor": [
       103,
@@ -1507,7 +1513,8 @@
       129
     ],
     "83": [
-      196
+      196,
+      232
     ],
     "84": [
       115
@@ -1751,6 +1758,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 232,
+      "title": "A Scale for Difficult Mixtures",
+      "name": "a-scale-for-difficult-mixtures",
+      "featured": [],
+      "genre": "orchestral",
+      "key": "c-sharp minor",
+      "bpm": 83
+    },
     {
       "version": 231,
       "title": "Where the Spring Holds Still",
@@ -2134,7 +2150,7 @@
       "featured": [
         "nyckelharpa"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -2534,7 +2550,7 @@
       "title": "The Weight of Every Beautiful Thing",
       "name": "the-weight-of-every-beautiful-thing",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -2570,7 +2586,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

@@ -1,0 +1,94 @@
+name: "a-scale-for-difficult-mixtures"
+version: 232
+title: "A Scale for Difficult Mixtures"
+
+style: "METRIC MODULATION ARC over apothecary-weighing-herbs-at-dusk, total duration around 3:00, instrumental with DUDUK + CORNET + SINGING SAW over warm orchestral strings, C-sharp minor at 83 BPM. A warm low reed voice opens measured phrases; dried herbs weigh on brass scales in fading candlelight. At 1:00 a triplet-eighth in the strings is declared the new quarter-note: a 3:2 ratio that broadens the pulse into a slower held-breath stanza. A muted cornet joins, burnished and intimate, bending warm brass into the held pause of a balanced mixture. At 2:00 a dotted subdivision becomes the new beat — a second 3:2 pivot pushing tempo past 83 into urgency. The singing saw rises with its keening glissando: rush to finish before candles burn down, key lifting to D minor as the tempo-exceeded moment crests. Strings settle by 2:50. Film score for an apothecary-at-dusk scene. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+  [Warm Reed Groove, Measured Pace]
+  [Strings Absorb the Pulse, 83 BPM]
+  [First Pivot — Triplet Becomes Beat]
+  [Muted Cornet Enters, Slowed Stanza]
+  [Second Pivot at 2:00 — Dotted Beat Declared]
+  [Singing Saw Rises, Tempo Exceeds Original]
+  [D Minor, Urgency Crests]
+  [Strings Settle, Candles Dim]
+  [End]
+
+instrumental: true
+
+exclude_styles: "Arabic, Middle Eastern, Armenian, world music, folk, traditional, ethnic, tribal, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Bollywood, jazz, ambient"
+
+tags:
+  - orchestral-metric-modulation-arc
+  - duduk
+  - cornet
+  - singing-saw
+  - 83bpm
+  - c-sharp-minor
+  - d-minor
+  - apothecary-weighing-herbs-at-dusk-scene
+  - revival-duduk-14-gap
+  - revival-cornet-18-gap
+  - revival-singing-saw-35-gap
+  - new-technique
+  - metric-modulation
+  - subdivision-pivot
+  - duration-3min
+  - research-driven
+  - tempo-exceeded-climax
+  - key-lift-second-pivot
+
+notes: |
+  v232: METRIC MODULATION ARC — a rhythm-axis technique in which a subdivision the listener has
+  already been hearing (e.g. a triplet-eighth) is redeclared the new quarter-note, shifting the
+  perceived beat by a clean mathematical ratio (3:2 or 2:3) without an abrupt stop. The technique
+  emerged prominently in mid-20th-century art music as composers sought ways to transition between
+  tempos that felt inevitable rather than imposed. The pivot value is already audible in the texture,
+  so the lurch is perceptible but not jarring.
+
+  Concept source: the arc here uses two pivots — first a 3:2 deceleration at ~1:00 (triplet-eighth
+  becomes the new beat, perceived pulse slows ~33%), then a second 3:2 acceleration at ~2:00 (dotted
+  subdivision becomes the beat, pushing perceived pulse back past the original 83 BPM). The
+  tempo-exceeded moment IS the climax — no silence-before-climax, no separate key-modulation drama.
+
+  Composer-omission note: this technique is strongly associated with mid-century composers whose
+  names appear on the blocklist (including one whose rhythmic innovations defined the technique's
+  reputation). No composer names appear anywhere in this YAML.
+
+  Duduk drift guard applied: the word "duduk" appears once in the style and trio list, but is never
+  described as "Armenian," "Middle Eastern," "folk," "traditional," "ethnic," or "solo." It is called
+  only a "warm low reed voice" with "sustained orchestral phrases." The exclude_styles field adds
+  Arabic, Middle Eastern, Armenian, world music, folk, traditional, ethnic, and Bollywood explicitly
+  to block pastiche drift at the Suno engine level.
+
+  Trio role assignment:
+  - DUDUK (×1 in v232, last v218, 14-gap): warm low reed voice, states the opening measured groove;
+    its sustained phrasing articulates each pivot's new pulse clearly.
+  - CORNET (×1 in v232, last v214, 18-gap): muted brass, enters in the slowed middle stanza; mellower
+    than trumpet or flugelhorn, its burnished intimate tone suits the held-breath balance moment.
+  - SINGING SAW (×1 in v232, last v197, 35-gap): bowed metal keening sine-tone, drifts in above the
+    second pivot and marks the tempo-exceeded climax with its glissando upper register — the only
+    instrument that can make urgency feel simultaneously otherworldly and mortal.
+
+  Key decision: C-sharp minor home key, with an optional half-step lift to D minor. Applied: the lift
+  coincides with the SECOND PIVOT at ~2:00 so that tempo-exceeded + key-lift land simultaneously —
+  doubling the perceived intensity of the climax without requiring a separate silence-before-drama
+  structural device. The two events reinforce each other.
+
+  Duration strategy: tonal-arc (C-sharp minor → D minor), pulse-arc (83 → ~55 → ~93 perceived BPM),
+  and the 3-minute render target align. No silence-before-climax used per technique brief; the
+  tempo-exceeded moment at ~2:00 is the climax anchor. Render target 2:30–3:30 per v137+ override.
+
+  Novelty claims:
+  - First METRIC MODULATION ARC technique in this catalog (new-technique).
+  - DUDUK: last v218, gap = 14 (deep revival).
+  - CORNET: last v214, gap = 18 (deep revival).
+  - SINGING SAW: last v197, gap = 35 (deepest revival in this trio).
+  - 83 BPM: previously used at v196 (gap = 36 from v232); slow-meditative tempo suits the apothecary
+    scene and the measured-weighing opening stanza.
+  - Scene: apothecary/herbalist weighing herbs at dusk by candlelight — no prior version uses this
+    scene.
+
+  Final style char count: 947.

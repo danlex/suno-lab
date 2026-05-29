@@ -276,6 +276,7 @@ mindmap
 | 229 | Before the Flock Decides | alap-jor-jhala velocity arc (rhythmic densification climax) | B-flat minor (stable, no modulation) | 148 | ophicleide + baryton + clavichord |
 | 230 | What the Fog Gives Back | granular orchestral decomposition (timbral dissolution + reconstitution-as-climax) | B major -> C major (half-step at reconstitution) | 149 | cristal baschet + tenor saxophone + french horn |
 | 231 | Where the Spring Holds Still | quartal harmony arc (registral collapse-to-unison climax) | E minor (loose tonal center blurred by quartal voicings, no modulation) | 145 | nyckelharpa + bass trombone + cimbalom |
+| 232 | A Scale for Difficult Mixtures | metric modulation arc (tempo-exceeded climax via subdivision pivots) | C-sharp minor -> D minor (half-step at second pivot) | 83 | duduk + cornet + singing saw |
 
 ## Next-cycle priorities
 
