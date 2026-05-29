@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+> ## ⚠ TOP-PRIORITY CONTRACT — READ FIRST
+> **No vanilla / one-off bash or `python3 -c` for ANY recurring cycle step. The user does not approve it.**
+> If a step is deterministic and recurs, it belongs in a committed reusable script under `scripts/` (write one if missing). This includes labelled diagnostic compounds (`echo "—status—"; git status …`, `ls | grep | sort`, chained `&&` shell pipelines for inspection, `python3 -c "import json; …"`). The full rule is below under "Scripting discipline (contract — non-negotiable)" — every cycle step MUST satisfy it.
+
 ## Project Overview
 
 This is a **Suno AI music generation prompt engineering workspace**. The goal is to craft, iterate on, and execute Suno prompts via browser automation (Claude-in-Chrome) against `suno.com/create`.
@@ -94,14 +98,31 @@ Run the reusable close-out script — do **not** hand-type the steps:
   - It registers clip UUIDs in `docs/suno_urls.json`, appends the `evolution.md` row, rebuilds the site (`build_site.py`), stages only the cycle's files (never `git add -A`), commits, and pushes.
 
 ### Scripting discipline (contract — non-negotiable)
-- **No vanilla / one-off script execution. The user does not approve it — full stop.** Do not run ad-hoc inline `bash` (incl. `ls | grep | sort`, `echo`, heredocs) or `python3 -c "..."` snippets to perform ANY deterministic, recurring cycle step. This explicitly includes: **computing the next version number**, refreshing the novelty surface, registering URLs, building the site, logging, committing/pushing, and inspecting prompt/JSON/YAML state.
-- Every deterministic, repeatable step MUST live in a **reusable, parametrized script** under `scripts/` and be invoked as `python3 scripts/<name>.py ...`. Current entrypoints:
-  - `scripts/cycle_start.py` — computes the next version number from `prompts/` and refreshes `experiments/novelty_surface.json`. Use this instead of `ls prompts/ | grep …`.
+- **No vanilla / one-off script execution. The user does not approve it — full stop.** Do not run ad-hoc inline `bash` (incl. `ls | grep | sort`, `echo` labels, heredocs, chained `&&` pipelines for inspection) or `python3 -c "..."` snippets to perform ANY deterministic, recurring cycle step. This explicitly includes: **computing the next version number**, refreshing the novelty surface, registering URLs, building the site, logging, committing/pushing, inspecting prompt/JSON/YAML state, AND **deciding draft-vs-resume** (whether the latest YAML is uncommitted).
+- Every deterministic, repeatable step MUST live in a **reusable, parametrized script** under `scripts/` and be invoked as `python3 scripts/<name>.py …`. Current entrypoints:
+  - `scripts/cycle_start.py` — computes the latest/next version from `prompts/`, refreshes `experiments/novelty_surface.json`, AND emits `recommended_action ∈ {"resume_submit","draft_new"}` + `recommended_version` so the orchestrator never needs `git status`/`ls` to decide. Use this instead of any shell composition.
   - `scripts/novelty_surface.py` — regenerates the novelty surface.
   - `scripts/finish_cycle.py` — full save+publish close-out (URLs, evolution row, build, stage, commit, push).
   - `scripts/build_site.py` — rebuilds `docs/`.
 - If a needed deterministic step has **no script yet, WRITE one** (parametrized, reusable, committed via the next `finish_cycle.py`) and run that — never improvise a one-off, even "just this once."
-- The ONLY acceptable raw `bash` is a genuinely non-deterministic, throwaway diagnostic that no script could sensibly own (e.g. `ps`/`kill` while debugging a stuck process, `git status`). When in doubt, assume it needs a script.
+- The ONLY acceptable raw `bash` is a **single, uncomposed, throwaway** diagnostic that no script could sensibly own (e.g. `ps aux | grep …` while debugging a stuck process, a bare `git status` to confirm the working tree). Composing it with `echo` labels, chaining via `&&` with other inspections, or wrapping it in a shell prologue is the violation.
+
+#### BANNED — explicit examples (these are vanilla cycle work; do not run them)
+- `ls prompts/ | grep -oE 'v[0-9]+' | sort -V | tail -1`
+- `echo "=== next version ==="; python3 scripts/cycle_start.py; echo "=== untracked ==="; git status --short prompts/`
+- `python3 -c "import json; d=json.load(open('docs/suno_urls.json')); print(len(d))"`
+- `python3 scripts/cycle_start.py && git status --short prompts/`
+- `cat prompts/*-v230.yaml | grep -E '^(style|title|instrumental):'`
+- any compound shell that *both* runs a script AND adds an `echo`/`git status`/`ls` for context
+
+#### ALLOWED — these are the only safe shell patterns
+- `python3 scripts/cycle_start.py` (the script alone)
+- `python3 scripts/finish_cycle.py --version N --clips A B …`
+- a bare `git status` or `ps aux | grep <pid>` (single, uncomposed, debugging-only)
+- `kill <pid>` (single, uncomposed, debugging a stuck process)
+
+#### When in doubt
+Default to writing a new script and running that. The user has repeated this rule multiple times; the failure mode is *always* "I added one little `echo`/`git status` to get context" — that "one little thing" is the violation. If a piece of state is worth observing routinely, it goes in a script.
 
 ### Current era: Synthesis (v93+)
 Combining electronic genres (dubstep, trance, trap, prog house, breakbeat, psytrance) with full orchestra + unusual instruments (waterphone, glass harmonica, taiko, prepared piano, handpan, contrabass clarinet, cimbalom, pipe organ). Always instrumental. Key frisson triggers: silence-before-climax, half-step modulation, Shepard tones.
