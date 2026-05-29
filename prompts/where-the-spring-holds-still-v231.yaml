@@ -1,0 +1,129 @@
+name: "where-the-spring-holds-still"
+version: 231
+title: "Where the Spring Holds Still"
+instrumental: true
+
+style: "Modern orchestral cinematic score, E minor, QUARTAL HARMONY ARC,\
+  \ total duration 3:00, NYCKELHARPA + BASS TROMBONE + CIMBALOM at 145 BPM.\
+  \ Open perfect fourths stack into hollow suspension — dense yet weightless,\
+  \ never resolving. The nyckelharpa opens alone at 0:00, sustaining open-fourth\
+  \ dyads on a bench-lamp-lit workbench, its sympathetic strings ringing like\
+  \ coiled watch-springs. Bass trombone enters at 0:25, anchoring the lowest\
+  \ fourth with cavernous weight. Cimbalom threads metallic glint at 1:00,\
+  \ tremolo across the dense buildup. Strings and winds fill inner quartal\
+  \ voices by register alone. At 2:10 the collapse: all fourths fold to a\
+  \ single bare unison, the stopped watch ticking again; cimbalom delivers\
+  \ one dry strike — the tick. The ensemble settles quietly. Film score for\
+  \ a horologer-examining-a-stopped-watch scene. No guitars, no vocals, no\
+  \ rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+  [Nyckelharpa Bare Fourth Drone]
+  [Bass Trombone Enters Low]
+  [Cimbalom Tremolo Threads In]
+  [Quartal Voices Stack and Saturate]
+  [Peak Cluster 6-Voice Tension]
+  [2:10 — Collapse to Bare Unison]
+  [Single Cimbalom Strike — The Tick]
+  [Ensemble Settles — Mechanism Resumes]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal,
+  gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer,
+  zen meditation, new age, experimental noise, free jazz, atonal, microtonal,
+  quarter-tone, jazz, modal jazz, swing, bebop, ambient, drone ambient"
+
+notes: |
+  TECHNIQUE — QUARTAL HARMONY ARC: Quartal harmony builds chords by stacking
+  perfect fourths (rather than thirds), producing an open, hollow, suspended
+  sound that sits between consonance and dissonance and never resolves in the
+  conventional dominant-to-tonic way. Associated with 20th-century orchestral
+  writing and modal contexts, it makes ensembles sound spatially dispersed —
+  dense yet weightless. The ARC here is registral/textural, not harmonic:
+  the piece opens on a bare two-voice quartal dyad, accumulates stacked voices
+  through the middle, reaches a saturated 6–7-part cluster, then collapses
+  suddenly to a single bare unison. That collapse IS the release — not a
+  chord resolution, not a silence-then-return, but the implosion of all
+  stacked tension into one point.
+
+  GENRE GUARD: Quartal harmony is associated with modal jazz idioms. To keep
+  this a modern-orchestral cinematic cue and not a jazz record, the style
+  opens with "Modern orchestral cinematic score" as the genre anchor. The
+  words jazz, modal jazz, swing, and bebop are excluded from both style and
+  exclude_styles. No composer or performer names appear anywhere.
+
+  SCENE: A horologer (watchmaker) at a bench, loupe in eye, probing a stopped
+  mechanism. The quartal suspension maps to stopped time — springs held in
+  tension, wheels frozen mid-tooth. The accumulating fourth-stack is the
+  watchmaker probing deeper into the movement. The collapse to a single unison
+  is the escapement releasing: the watch ticks, time resumes in one precise
+  metallic pulse. The title "Where the Spring Holds Still" plays on the
+  mainspring (the coiled energy source of a mechanical watch) and musical
+  suspension simultaneously.
+
+  TRIO ROLES & GAPS (all gaps measured from v231):
+  - NYCKELHARPA (×5, last v216 — 15-gap): bowed keyed strings with sympathetic
+    resonance strings that ring without being touched. Opens the piece alone
+    on a bare open-fourth dyad (E–A), the sympathetic strings humming like
+    a watch spring under tension. Sustains throughout as the harmonic floor.
+  - BASS TROMBONE (×4, last v213 — 18-gap): lowest brass voice. Enters at
+    ~0:25, anchoring the bottom of the fourth-stack with cavernous weight.
+    The unison-collapse (~2:10) lands squarely in its register — a single
+    deep note that the cimbalom then strikes above.
+  - CIMBALOM (×7, last v218 — 13-gap): hammered/struck strings with metallic
+    ring. Enters at ~1:00, threading rapid tremolo through the saturated
+    quartal cluster. At the collapse it delivers one clean, dry, isolated
+    strike — the watch's first tick. No other instrument matches the
+    mechanical-clock precision of that single blow.
+
+  KEY DECISION: E minor as tonal center, deliberately blurred by quartal
+  voicings (the open-fourth stacks obscure any clear tonic function — that
+  blurring is the point). No modulation is used; the collapse-to-unison IS
+  the harmonic event, landing on a bare E (or A, the fourth above) with no
+  triad implied. A half-step lift to F minor was considered but rejected:
+  the concept's release is registral/textural, and adding a key change risks
+  reading as a standard cinematic "lift" rather than the implosion the arc
+  describes. E minor center, no modulation — cleaner and truer to the concept.
+  E minor last used v197, gap 34.
+
+  BPM: 145 — a steady, mechanical clockwork pulse that fits the horologer
+  scene without driving or rushing. BPM 145 last used v98, gap 133 (deep
+  revival). Recent run: 146 (v226), 147 (v228), 148 (v229), 149 (v230).
+
+  DURATION STRATEGY: 145 BPM is measured but not lethargic; the quartal
+  accumulation arc fills ~2:50 naturally. Timestamps: 0:00 nyckelharpa bare
+  dyad; 0:25 bass trombone enters; 1:00 cimbalom joins with tremolo; 2:00
+  peak saturation; 2:10 collapse to unison + single cimbalom tick; 2:50 settle
+  and close. Render target 2:30–3:30 (cue ~3:00).
+
+  NOVELTY CLAIMS:
+  - First QUARTAL HARMONY ARC prompt in this catalog (technique debut).
+  - Nyckelharpa: 15-version gap (v216→v231).
+  - Bass trombone: 18-version gap (v213→v231) — deepest gap in this trio.
+  - Cimbalom: 13-version gap (v218→v231).
+  - BPM 145: 133-version gap (v98→v231).
+  - E minor: 34-version gap (v197→v231).
+  - Scene (horologer-examining-a-stopped-watch): catalog debut.
+
+  FINAL STYLE CHAR COUNT: 935 (within 850–950 target).
+
+tags:
+  - orchestral-quartal-harmony-arc
+  - nyckelharpa
+  - bass-trombone
+  - cimbalom
+  - 145bpm
+  - e-minor
+  - horologer-examining-a-stopped-watch-scene
+  - revival-nyckelharpa-15-gap
+  - revival-bass-trombone-18-gap
+  - revival-cimbalom-13-gap
+  - new-technique
+  - new-bpm-145-gap-133
+  - duration-3min
+  - research-driven
+  - quartal-harmony
+  - stacked-fourths
+  - clockwork-pulse
+  - registral-release
