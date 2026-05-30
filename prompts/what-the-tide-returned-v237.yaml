@@ -1,0 +1,80 @@
+name: "what-the-tide-returned-v237"
+version: 237
+title: "What the Tide Returned"
+instrumental: true
+
+style: "Monumental cinematic orchestral SICILIANO-TO-CABALETTA in E-flat minor to G-flat major, total duration around 3:00, 154 BPM. Trio leads: VIOLA DA GAMBA, OPHICLEIDE, MARIMBA. Part one: slow 6/8 lament from 0:00, viola da gamba carrying a long mourning line over a rocking string-bed in E-flat minor; full orchestra murmurs but holds its weight. At 1:30 a hard tempo lock — no fade, no silence — the ensemble snaps to strict 154 BPM and the key turns to G-flat major, an emotional inversion bright as sudden sunlight. The cabaletta gallops: marimba rolls lock the pulse; ophicleide delivers the theme in dark conical-bore brass strokes; viola da gamba pumps rhythmic foundation alongside full strings and brass. Density builds register by register to a tutti by 2:45 and settles on a final chord at 2:55. Scored in modern dramatic orchestral color — not period pastiche. No guitars, no vocals, no rock drums, no synthesizers, no pipe organ."
+
+lyrics: |
+  [Short Instrumental Intro]
+  The wrecked hull half-buried in wet sand at first light; gulls circle overhead as water retreats.
+
+  [Viola Da Gamba Opens the Lament]
+  Viola da gamba begins alone in E-flat minor, its long bowed phrases rising and falling like a mourner walking the shore; the siciliano's 6/8 lilt sways gently beneath.
+
+  [String Bed Murmurs Underneath]
+  Low strings provide a rocking figuration; woodwinds breathe in half-light; the orchestra holds its full weight in reserve, letting the lament speak at its own pace.
+
+  [Orchestra Thickens the Lament]
+  Horns and cellos enter in quiet parallel motion; the siciliano deepens, the shore stretching long and grey; something glints in the retreating water, barely visible.
+
+  [Hard Tempo Lock — Pivot to Cabaletta]
+  At 1:30 the ensemble locks into strict 154 BPM without a breath of silence; the key turns instantly to G-flat major — the same key signature, a completely different world; the gallop begins.
+
+  [Marimba Locks the Pulse]
+  Marimba rolls and double-stops drive the cabaletta rhythm forward; full strings and brass join immediately; the figure that glinted in the sand is now in hand and the running has started.
+
+  [Ophicleide Carries the Cabaletta Theme]
+  Ophicleide states the new major-mode theme in broad dark conical-bore strokes over the galloping rhythm; full woodwinds double the line an octave up; the shore recedes behind.
+
+  [Full Tutti Escalation]
+  Every section of the orchestra engages; register climbs measure by measure; marimba doubles speed; viola da gamba pumps eighth-note foundation in the bass; the salvaged thing is held high.
+
+  [Unison Tutti Statement]
+  By 2:45 the full orchestra drives to a unison statement of the cabaletta theme, fortissimo across all registers; nothing held back; the coast, the wreck, the tide all left behind.
+
+  [Settle on Final Chord]
+  The gallop releases into a broad G-flat major chord at 2:55; full orchestra sustains, then lets go.
+
+  [End]
+
+exclude_styles: "opera, choral, bel canto, vocals, singing, ambient, new age, EDM, electronic, rock, metal, acoustic guitar, Arabic, world music, tribal, baroque pastiche, period instrument, harpsichord, lute, synthesizer, lo-fi, jazz, free jazz, atonal, microtonal"
+
+tags:
+  - orchestral-siciliano-to-cabaletta
+  - technique-new
+  - viola-da-gamba
+  - ophicleide
+  - marimba
+  - 154bpm
+  - new-bpm
+  - e-flat-minor
+  - g-flat-major
+  - relative-major-pivot
+  - shipwreck-coast-scene
+  - revival-viola-da-gamba-13-gap
+  - revival-marimba-18-gap
+  - revival-ophicleide-8-gap
+  - duration-3min
+  - research-driven
+  - cinematic-orchestral
+  - two-part-arc
+  - tempo-shock
+
+notes: |
+  TECHNIQUE — SICILIANO-TO-CABALETTA: The siciliano is a Baroque-era dance/aria form in slow compound meter (6/8 or 12/8), characterized by a gentle dotted-rhythm lilt and minor-key melancholy; it was a standard slow movement type from the 17th–18th centuries. The cabaletta is a fast-paced concluding section of a multi-tempo operatic aria, marked by uniform-rhythm tutti momentum and a brilliant major-mode character; it originates in early 19th-century Italian operatic practice. This prompt fuses the two into a purely orchestral arc — no singers, no operatic framing — making the form-contrast itself the drama. No operatic composer names are cited per blocklist; the structural logic stands on its own.
+
+  CONCEPT SOURCE: Caller-designed two-part arc where Part 1 (~0:00–1:30) is a slow 6/8 lament in E-flat minor with sparse-lush orchestration and viola da gamba as solo voice; Part 2 (~1:30–2:55) is a fast 154 BPM gallop in G-flat major (relative major) with marimba locking the pulse and ophicleide carrying the theme. The hard tempo pivot at 1:30 — no silence, no fade — is the structural climax. No half-step modulation is used; the relative-major turn (same key signature, opposite emotional character) is the form-correct device.
+
+  KEY DECISION: E-flat minor → G-flat major is a relative-major pivot (they share the same six-flat key signature). This is NOT a half-step modulation and deliberately avoids the silence-before-climax + half-step formula used in v234/v236. The cabaletta's brightness comes from the modal inversion, not from chromatic shock.
+
+  DURATION DEFENSE: v234 and v236 both reached 3:00+ with full-orchestra dramatic arcs. This concept enforces similar duration via the cabaletta's tutti rhythm-lock and explicit timestamps: siciliano 0:00–1:30, pivot at 1:30, cabaletta 1:30–2:45, final chord 2:55. Dense lyric metatags (1–2 sentences each) and explicit full-orchestra scoring signal Suno to sustain the arc.
+
+  TRIO ROLES AND GAPS (verified against prompts/):
+    - VIOLA DA GAMBA (bowed_strings): last used v224, gap 13. Carries the siciliano lament line in long lyric bowed phrases; reappears in the cabaletta as eighth-note rhythmic foundation in the bass register.
+    - MARIMBA (mallet_perc): last used v219, gap 18. Locks the cabaletta pulse with rolls and double-stops; drives the gallop forward from the first moment of the pivot.
+    - OPHICLEIDE (keyed_brass): last used v229, gap 8. Delivers the cabaletta's major-mode theme in broad dark conical-bore strokes; its low-brass color contrasts with the marimba's brightness.
+
+  NOVELTY CLAIMS: First use of SICILIANO-TO-CABALETTA form as an orchestral prompt technique in this catalog. 154 BPM is a new tempo for this project. Relative-major pivot (E-flat minor → G-flat major) as climax device rather than half-step modulation is new. Shipwreck coast at low tide is a new scene. All three trio instruments are deep-catalog revivals.
+
+  STYLE CHAR COUNT: 938

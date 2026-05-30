@@ -281,6 +281,7 @@ mindmap
 | 234 | What the High Pass Finally Releases | threnody-to-apotheosis arc (lament -> crisis -> blazing apotheosis) | D-sharp minor -> E minor (half-step at apotheosis) | 128 | oboe d'amore + mellotron + flugelhorn |
 | 235 | When the Kiln Mouth Glows | chaconne ground-bass variations (accumulating density on repeating harmonic ground) | A-flat minor -> A minor (half-step at maximum density) | 153 | tuba + harpsichord + vibraphone |
 | 236 | At the Transit Wire | double variation (alternating themes A B A' B' A'' coda) | F-sharp minor -> G minor (half-step at A'' lift) | 151 | viola + bass clarinet + tubular bells |
+| 237 | What the Tide Returned | siciliano-to-cabaletta (slow lilt -> hard tempo pivot -> tutti relative-major gallop) | E-flat minor -> G-flat major (relative major at the cabaletta pivot) | 154 | viola da gamba + ophicleide + marimba |
 
 ## Next-cycle priorities
 
