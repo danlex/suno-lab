@@ -280,6 +280,7 @@ mindmap
 | 233 | Light Across the Open Form | orchestral cantus firmus arc (line-shape arch climax) | G major -> A-flat major (half-step at apex) | 112 | steel tongue drum + felt piano + contrabassoon |
 | 234 | What the High Pass Finally Releases | threnody-to-apotheosis arc (lament -> crisis -> blazing apotheosis) | D-sharp minor -> E minor (half-step at apotheosis) | 128 | oboe d'amore + mellotron + flugelhorn |
 | 235 | When the Kiln Mouth Glows | chaconne ground-bass variations (accumulating density on repeating harmonic ground) | A-flat minor -> A minor (half-step at maximum density) | 153 | tuba + harpsichord + vibraphone |
+| 236 | At the Transit Wire | double variation (alternating themes A B A' B' A'' coda) | F-sharp minor -> G minor (half-step at A'' lift) | 151 | viola + bass clarinet + tubular bells |
 
 ## Next-cycle priorities
 

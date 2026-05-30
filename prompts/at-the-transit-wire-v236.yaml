@@ -1,0 +1,72 @@
+name: "at-the-transit-wire-v236"
+version: 236
+title: "At the Transit Wire"
+instrumental: true
+
+style: "Monumental cinematic orchestral drama, DOUBLE VARIATION form, total duration around 3:00, F-sharp minor lifting to G minor, 151 BPM. VIOLA + BASS CLARINET + TUBULAR BELLS anchor this transit-observatory-at-dawn scene. Theme A: VIOLA lament over warm string pads and soft brass chorale, an astronomer at the transit-circle before dawn. Theme B at 0:30: BASS CLARINET striding march in low register, low brass and woodwinds marking celestial passage. Variation A-prime at 1:00 answers VIOLA with rising woodwinds, color deepening. B-prime at 1:30 turns fortissimo: BASS CLARINET and brass with timpani pound the march. At 2:00 full strings and brass reclaim Theme A luminously in G minor, the half-step lift as release. Coda at 2:30 layers both themes in a full-tutti climax, TUBULAR BELLS ringing each variation boundary and the transit moment. Strings settle at 2:55. No guitars, no vocals, no rock drums, no synthesizers, no pipe organ."
+
+lyrics: |
+  [Short Instrumental Intro]
+  The dome hums and the brass orrery clicks in the dark before dawn; the orchestra breathes, still.
+
+  [Viola Theme A — Lyric Lament]
+  VIOLA alone over warm string pads and a held brass chorale: a slow, patient cry in F-sharp minor, the astronomer's eye fixed to the transit-circle wire.
+
+  [Bass Clarinet Theme B — Striding March]
+  BASS CLARINET enters at 0:30 with a dark, measured stride; low brass and woodwinds step underneath like a celestial body crossing the meridian, unhurried and inevitable.
+
+  [Variation A-Prime — Woodwind Answer]
+  At 1:00 the VIOLA theme returns answered by rising oboe and bassoon, strings darkening behind it; the sky pales, the dome hums louder, the watch ticks.
+
+  [Variation B-Prime — Fortissimo Stride]
+  At 1:30 BASS CLARINET and the full brass hammer the march with timpani; the harmonic weight doubles, woodwinds and strings driving the stride to fortissimo.
+
+  [Orchestral Bloom — Full Strings and Brass]
+  At 2:00 full strings and brass take Theme A luminously in G minor, the half-step lift carrying years of patient watching into sudden, open radiance.
+
+  [Coda — Both Themes Layered]
+  At 2:30 VIOLA lament and BASS CLARINET march sound simultaneously over a full-tutti climax; TUBULAR BELLS ring the transit moment, clear and resonant above the surge.
+
+  [Silence]
+
+  [Return and Settle]
+  Strings and low brass ease down from 2:55; the observatory dome stills, a last TUBULAR BELL tone fading into the pre-dawn air.
+
+  [End]
+
+exclude_styles: "ambient, new age, zen meditation, atonal, microtonal, EDM, electronic, synthesizer, rock, metal, acoustic guitar, vocals, vocal choir, choral, baroque pastiche, period instrument, Arabic, world music, tribal, lo-fi, free jazz, experimental noise, gentle, pop"
+
+tags:
+  - orchestral-double-variation
+  - double-variation-technique-new
+  - viola
+  - bass-clarinet
+  - tubular-bells
+  - revival-viola-12-gap
+  - revival-bass-clarinet-14-gap
+  - revival-tubular-bells-12-gap
+  - 151bpm
+  - new-bpm-151
+  - f-sharp-minor
+  - g-minor
+  - transit-observatory-at-dawn-scene
+  - duration-3min
+  - research-driven
+  - new-technique
+  - full-orchestra
+
+notes: |
+  DOUBLE VARIATION is an alternating-variation form with two contrasting themes (A and B) that trade off across multiple variation cycles before converging in a coda — a structural device prominent in late 18th- and early 19th-century symphonic writing, revived here as a Suno arc scaffold. The form's built-in emotional-pivot sequence (lament → march → answer → fortissimo → release → fusion) gives Suno's narrative completion model clear targets at each stage, defending against the early truncation that hit v226/v232/v233 (<1:35) on sparse-experimental prompts. v234 reached 3:38/3:08 and v235 reached 2:24/2:33 with chaconne; the alternation requirement here forces dense full-orchestra writing throughout, and the coda's simultaneous layering of both themes provides the density peak that sustains duration past the 2:30 mark.
+
+  Trio roles and gaps (per novelty_surface.json and prompt catalog):
+  - VIOLA (bowed_strings) — last v224, gap ×12. Theme A voice: warm middle-register lyric lament, an astronomer's patient watch before dawn. Central body voice for duration defense.
+  - BASS CLARINET (woodwinds) — last v222, gap ×14. Theme B voice: dark striding march in the low register, rich harmonic weight beneath full-orchestra march passages.
+  - TUBULAR BELLS (mallet_perc) — last v224, gap ×12. Celestial-event markers: ring at each major variation boundary (0:00, 0:30, 1:00, 1:30, 2:00, 2:30) and at the coda's climax; like a transit chronograph marking star crossings.
+
+  Key decision: F-sharp minor home for Theme A's lament; the half-step modulation to G minor at 2:00 (A'') is the emotional release point — not an arbitrary key shift but tied to the astronomer finally witnessing the star cross the meridian wire. The modulation coincides with full strings + brass reclaiming Theme A, turning patient grief into open luminosity.
+
+  Scene: an observatory at the transit hour — an astronomer alone at the transit-circle telescope just before dawn, waiting for a star to cross the meridian wire; brass orrery clicking, dome humming, a single bell marking each chronograph event. Theme A = the astronomer's patient watch; Theme B = the celestial body's measured passage; coda = the transit moment itself. Scene is new (no scriptorium/scribe/ledger/forge/foundry/flock/murmuration/lighthouse/ferryman/canal/horologer/watchmaker/apothecary/anatomy-theatre/mountain-pass/kiln used).
+
+  Novelty claims: first DOUBLE VARIATION technique in catalog; 151 BPM is new (recent run: 149/148/147/146/145/143/142/141/128/112/83/153 taken); viola ×12 gap + bass clarinet ×14 gap + tubular bells ×12 gap = three deep revivals. Composer names omitted per blocklist.
+
+  Final style char count: 937.
