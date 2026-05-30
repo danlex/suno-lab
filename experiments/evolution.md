@@ -277,6 +277,7 @@ mindmap
 | 230 | What the Fog Gives Back | granular orchestral decomposition (timbral dissolution + reconstitution-as-climax) | B major -> C major (half-step at reconstitution) | 149 | cristal baschet + tenor saxophone + french horn |
 | 231 | Where the Spring Holds Still | quartal harmony arc (registral collapse-to-unison climax) | E minor (loose tonal center blurred by quartal voicings, no modulation) | 145 | nyckelharpa + bass trombone + cimbalom |
 | 232 | A Scale for Difficult Mixtures | metric modulation arc (tempo-exceeded climax via subdivision pivots) | C-sharp minor -> D minor (half-step at second pivot) | 83 | duduk + cornet + singing saw |
+| 233 | Light Across the Open Form | orchestral cantus firmus arc (line-shape arch climax) | G major -> A-flat major (half-step at apex) | 112 | steel tongue drum + felt piano + contrabassoon |
 
 ## Next-cycle priorities
 

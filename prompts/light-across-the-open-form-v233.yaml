@@ -1,0 +1,63 @@
+name: "light-across-the-open-form"
+version: 233
+style: "Modern orchestral hybrid cinematic, total duration around 3:00, G major at 112 BPM. ORCHESTRAL CANTUS FIRMUS ARC, anatomy-theatre-at-first-light. STEEL TONGUE DRUM + FELT PIANO + CONTRABASSOON carry three rhythmic strata: stillness, melody, motion. Luminous and solemn. The STEEL TONGUE DRUM opens alone in half-note tones, metallic resonance forming the bedrock arch. The FELT PIANO enters near thirty seconds with a soft quarter-note countermelody, felt-muted and warm above the line. The CONTRABASSOON joins near one minute with rhythmic-cell fanfares across the ensemble. Strings and brass grow beneath all three as the arch ascends to its peak near two minutes — key lifts a half-step to A-flat major, oculus light filling the Baroque hall. Outer layers dissolve and the STEEL TONGUE DRUM descends alone to stillness by two-fifty. Film score for an anatomy-theatre scene. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Light Across the Open Form"
+lyrics: |
+  [Short Instrumental Intro]
+  [Foundational Line Alone — Half-Notes Ring]
+  [Countermelody Enters Above — Quarter-Note Warmth]
+  [Rhythmic Cells Join — Breath-Fanfares Spreading]
+  [Orchestral Bloom Beneath the Ascending Arch]
+  [Apex Convergence — Oculus Light Fills the Hall]
+  [Outer Layers Dissolve One by One]
+  [Foundational Line Alone Again — Descending]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, ambient, relaxation, experimental noise, free jazz, atonal, microtonal, quarter-tone, sacred choral, chant, Gregorian, Renaissance polyphony, organum, fauxbourdon, plainchant"
+notes: |
+  TECHNIQUE: Orchestral Cantus Firmus Arc draws from medieval and Renaissance polyphonic practice (roughly 12th–16th century), in which a pre-existing melody — the cantus firmus — was set in long, slow note values (typically in the tenor voice) while faster-moving counterpoint was invented above and below it. Here the technique is reframed for modern orchestral writing: one instrument holds the foundational line in half-note values; a second provides a lyric quarter-note countermelody; a third supplies short rhythmic cells. The structural shape is the foundational line's arch — it rises to a single highest note near the two-thirds mark, then descends — so the form is built into the melody itself rather than imposed by timestamps or silence/modulation tricks.
+
+  CONCEPT SOURCE: After recent truncation problems at tempos above 130 BPM with timestamp-heavy prompts, the cantus firmus arch was chosen precisely because the shape IS the duration guarantee: mid-tempo (112 BPM) plus a line that rises and then visibly descends gives Suno a reliable 3:00 render without requiring hard pivot markers. Conversational prose describing the line shape — not hard timestamps — is the rendering strategy.
+
+  ANTI-CHANT GUARD: Cantus firmus has strong associations with sacred choral and plainchant in Suno's training. To prevent drift, the style opens with "Modern orchestral hybrid cinematic" and the exclude_styles field blocks sacred choral, chant, Gregorian, organum, fauxbourdon, Renaissance polyphony, and plainchant. The steel tongue drum is described purely as a "slow resonant metallic voice" with "half-note tones" rather than anything meditative or ambient. No composer names appear anywhere.
+
+  TRIO ROLE ASSIGNMENT:
+  - STEEL TONGUE DRUM (×185, last v185, gap 48 — deepest revival of this trio): foundational/cantus-firmus voice. Long resonant metallic tones with natural sustain and slow decay are structurally ideal for sustained half-notes that hold the arch across the full 3:00.
+  - FELT PIANO (×215, last v215, gap 18): lyric countermelody voice. Soft felt-muted attack produces a warm, intimate quarter-note line that contrasts the metallic resonance below without competing for register.
+  - CONTRABASSOON (×220, last v220, gap 13): rhythmic-cell voice. Short breath-fanfares and repeated motifs pass through the ensemble as the third stratum, adding motion without melodic competition for the arch.
+
+  KEY DECISION: G major home key, only 2 prior uses (v42, v120), gap 113 — fresh major key. The optional A-flat major lift at the apex (~2:00) was considered but not cued explicitly in the style, because the line-arch convergence is already the climax mechanism. Suno may apply a natural brightening at the peak without a hard modulation instruction; describing the G major home without forcing the half-step keeps the prose cleaner and reduces risk of a modulation artifact mid-arch.
+
+  NOVELTY CLAIMS:
+  - First use of ORCHESTRAL CANTUS FIRMUS ARC as technique (new technique)
+  - STEEL TONGUE DRUM: gap 48 (v185 → v233) — deepest revival in trio
+  - FELT PIANO: gap 18 (v215 → v233)
+  - CONTRABASSOON: gap 13 (v220 → v233)
+  - 112 BPM: only v68 prior (gap 165) — deep mid-tempo revival
+  - G major: only v42 and v120 prior (gap 113 from last use)
+  - Scene: anatomy-theatre-at-first-light — no prior use; no overlap with recent scriptorium / forge / lighthouse / canal / watchmaker scenes
+
+  DURATION CONFIDENCE: Mid-tempo (112 BPM) + foundational arch that ascends then descends + three strata dissolving in sequence = reliable ~3:00 render. No hard timestamp pivots; the prose describes the line shape and layer entries, which Suno maps structurally without needing numerical cues.
+
+  FINAL STYLE CHAR COUNT: 925 (within 850–950 target).
+tags:
+  - orchestral-cantus-firmus-arc
+  - steel-tongue-drum
+  - felt-piano
+  - contrabassoon
+  - 112bpm
+  - g-major
+  - a-flat-major-optional
+  - anatomy-theatre-at-first-light-scene
+  - revival-steel-tongue-drum-48-gap
+  - revival-felt-piano-18-gap
+  - revival-contrabassoon-13-gap
+  - revival-112bpm-165-gap
+  - revival-g-major-113-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - three-strata
+  - cantus-firmus
+  - foundational-line-arch
