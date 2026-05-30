@@ -1,0 +1,81 @@
+name: "cast-in-bronze-and-rung-once-v238"
+version: 238
+title: "Cast in Bronze and Rung Once"
+instrumental: true
+
+style: "Monumental cinematic orchestral THEMATIC METAMORPHOSIS ARC, bell-foundry scene, total duration around 3:00, B minor to C minor to C major, 155 BPM. COR ANGLAIS + FRENCH HORN + HARP. A single seed-theme stated by cor anglais alone at 0:00 — bare, unharmonized, fragile — over the faintest low-string breath. From 0:45 the theme inverts and fragments, traded between low brass and low strings in mounting dissonance; the orchestra thickens, the original melody barely recognizable yet felt in the bones. At 1:50 horns state the augmented theme over a sustained string bed in C minor — wider, more deliberate, the breath held. At 2:10 full orchestra restates the theme in C major at triple its original note-values: strings bloom, brass choir swells, woodwinds crown the line, harp filigree shimmers, timpani anchors below. Slow, immense, vindicated — the mode turn IS the payoff. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+  The bell-foundry at dusk: molten bronze just poured into the clay mold, steam rising, the master founder standing still — everything that the bell will become is already there, sealed in clay and silence.
+
+  [Cor Anglais States the Seed-Theme Alone]
+  Cor anglais enters unaccompanied at 0:00, stating the bare seed-theme in B minor — thin, exposed, unfurling like a single thread of smoke; the briefest string murmur stirs beneath at 0:10 but does not harmonize.
+
+  [String Bed Holds Its Breath]
+  Low strings provide the barest trembling bed, almost inaudible — the bronze cooling inside its mold, the potential ring locked in metal not yet free; the theme is still intact, still whole.
+
+  [Theme Inverts — Conflict Begins]
+  At 0:45 the theme inverts and fragments: low brass take the inverted figure, low strings pass it back in dissonance; the orchestra thickens layer by layer as the mold is struck and chips of clay scatter across the stone floor.
+
+  [Mounting Dissonance — Bronze Exposed]
+  Cellos and bassoons drive the fragmented theme in canon through rising dissonance; horns and trombones answer with the inversion; the original melody is barely recognizable but its skeleton is still felt — the bell metal exposed to cold air, will it crack?
+
+  [Pivot Breath — Augmented Theme in Horns]
+  At 1:50 the dissonance releases: French horns state the augmented theme over a wide, sustained string bed now shifting to C minor — each note stretched deliberate and broad, the founder lifting the bell from the floor and hanging it on the test frame; the breath held before the first strike.
+
+  [Full Orchestra — Transfiguration in C Major]
+  At 2:10 the hammer falls and the bell rings true: full orchestra restates the theme in C major at triple its original note-values, the string sections blooming, brass choir swelling across all registers, woodwinds crowning the line two octaves up; the mode turn from minor to major is the bell's first full-throated tone ringing out across the foundry yard.
+
+  [Harp Filigree and Timpani Ground]
+  Harp filigree shimmers above the brass choir in cascading arpeggios that mirror the bell's overtones; timpani rolls anchor the weight below; cor anglais reappears briefly in the upper woodwinds as a memory of the original bare theme, now glorified.
+
+  [Theme Glorified — Settle]
+  The full orchestra sustains the C major restatement through 2:45, growing broader and more deliberate with each measure; by 2:55 the texture thins gradually to strings alone, then a final harp arpeggio, then silence.
+
+  [End]
+
+exclude_styles: "ambient, new age, zen meditation, atonal, free jazz, EDM, electronic, synthesizer, rock, metal, acoustic guitar, vocals, singing, choral, opera, Arabic, world music, tribal, baroque pastiche, period instrument, harpsichord, lute, lo-fi, microtonal, quarter-tone"
+
+tags:
+  - orchestral-thematic-metamorphosis-arc
+  - technique-new
+  - cor-anglais
+  - french-horn
+  - harp
+  - 155bpm
+  - new-bpm
+  - b-minor
+  - c-minor
+  - c-major
+  - minor-to-major-transfiguration
+  - key-arc-three-stage
+  - bell-foundry-scene
+  - revival-cor-anglais-13-gap
+  - revival-harp-14-gap
+  - revival-french-horn-8-gap
+  - duration-3min
+  - research-driven
+  - cinematic-orchestral
+  - thematic-transformation
+  - vulnerability-conflict-transfiguration
+
+notes: |
+  TECHNIQUE — THEMATIC METAMORPHOSIS ARC: A compositional structure in which a single seed-theme is systematically transformed through augmentation (stretching note-values), inversion (flipping the melodic contour), fragmentation (breaking the theme into cells passed across sections), and reorchestration (rebuilding in new keys and with new instrumental colors) to track three phases of emotional change: vulnerability, conflict, and transfiguration. The technique has antecedents in 19th-century programme music and 20th-century dramatic orchestral writing — composer names are omitted per blocklist. The key element is that the listener hears the same material throughout, increasingly transformed, until the final major-mode arrival feels both surprising and inevitable.
+
+  CONCEPT SOURCE (caller-designed): Single seed-theme bared by cor anglais in B minor → inverted/fragmented across low brass and low strings in mounting dissonance → augmented theme in horns at the pivot breath (C minor) → full-orchestra C major restatement at triple note-values (transfiguration). The key arc B minor → C minor → C major is the harmonic engine: the half-step lift from B to C at the pivot breath creates harmonic tension that the major-mode arrival resolves with maximum brightness. No silence-before-climax device is used; instead the pivot breath (augmented theme, sustained string bed) performs the pre-climax suspension.
+
+  DURATION DEFENSE: Four consecutive full-length generation successes (v234, v235, v236, v237). Duration is enforced by: (a) explicit timestamps at 0:00, 0:45, 1:50, 2:10, 2:45, 2:55; (b) nine dense lyric metatags each 1–2 sentences describing what the orchestra does in each section; (c) full-orchestra scoring signals (brass choir, string sections, woodwinds, harp, timpani all named) that imply a long dramatic arc must be completed. Triple note-values at the transfiguration further slows the final section, extending duration naturally.
+
+  TRIO ROLES AND GAPS (verified against prompts/):
+    - COR ANGLAIS (woodwinds): last used v225, gap 13. States the seed-theme alone and unharmonized at 0:00 — fragile, the bell's potential ring locked in clay; reappears briefly in the transfiguration as a memory of the original bare statement now glorified.
+    - FRENCH HORN (brass): last used v230, gap 8. Emerges at the pivot breath (1:50) stating the augmented theme over sustained strings in C minor — the held breath before transformation; carries weight into the full-orchestra transfiguration.
+    - HARP (plucked strings): last used v224, gap 14. Provides cascading arpeggios that mirror the bell's overtones during the transfiguration; bell-like punctuation throughout the latter sections.
+
+  KEY DECISION: B minor home for vulnerability/conflict is natural for cor anglais's warm, reedy color. The half-step lift to C minor at the pivot breath (1:50) creates harmonic suspension without releasing the tension. The bloom into C major at 2:10 is the emotional payoff — the same half-step interval (B→C) now confirmed as a bright major-mode arrival rather than a dark chromatic shift. C major (no sharps, no flats) is the simplest, brightest key — maximum contrast against the B minor opening.
+
+  SCENE — BELL FOUNDRY: Distinct from v206 ("what-the-foundry-releases" — general metalworking) and v207 ("where-the-bell-finally-lands" — bell transport/placement). This prompt is specific to the bell-casting process: the pour, the cooling in the clay mold, the breaking out (conflict), the hanging on the test frame (pivot breath), and the first ring (transfiguration). The bell's first ring maps directly onto the theme's first full-voiced C major statement — the arc is the bell's birth.
+
+  NOVELTY CLAIMS: First use of THEMATIC METAMORPHOSIS ARC as a named orchestral technique in this catalog. 155 BPM is a new tempo. Three-stage key arc (B minor → C minor → C major) with half-step lift plus mode change is new. Bell-foundry-pour scene (cast/cool/break/ring narrative) is new. All three trio instruments are deep-catalog revivals.
+
+  STYLE CHAR COUNT: 934
