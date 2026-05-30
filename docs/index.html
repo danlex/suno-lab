@@ -3,23 +3,22 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Suno Music Prompt Laboratory — 196+ Cinematic Orchestral Experiments</title>
-<meta name="description" content="Searchable archive of 196+ iterative Suno AI prompts for cinematic, orchestral, and experimental music. Explores 30+ architectural forms and genre fusions with engineering notes and structured metadata.">
-<meta name="keywords" content="Suno AI, prompt engineering, cinematic music, orchestral music, AI music generation, film score, neoclassical, ambient, micropolyphony, passacaglia, fugue, canon, sonata, concerto grosso, theme and variations, Suno v5.5">
+<title>Suno Music Prompt Laboratory — 240+ Cinematic Orchestral Experiments</title>
+<meta name="description" content="Searchable archive of 240+ iterative Suno AI prompts for cinematic, orchestral, and experimental music. Explores 50+ architectural forms and genre fusions with engineering notes and structured metadata.">
+<meta name="keywords" content="Suno AI, prompt engineering, cinematic music, orchestral music, AI music generation, film score, neoclassical, chaconne, fugue, cantus firmus, klangfarbenmelodie, ritornello, threnody, Suno v5.5">
 <meta name="author" content="Alexandru DAN">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="theme-color" content="#ff6a3d">
 <link rel="canonical" href="https://suno.alexandrudan.com/">
 <link rel="alternate" type="application/json" href="https://suno.alexandrudan.com/songs.json" title="Songs JSON">
-<meta property="og:title" content="Suno Music Prompt Laboratory — 126+ Cinematic Orchestral Experiments">
-<meta property="og:description" content="Searchable archive of 126+ Suno AI prompts exploring 16 architectural forms of cinematic orchestral music. Embedded players, engineering notes, reproducible prompts.">
+<meta property="og:title" content="Suno Music Prompt Laboratory — 240+ Cinematic Orchestral Experiments">
+<meta property="og:description" content="240+ Suno AI prompts exploring 50+ architectural forms of cinematic orchestral music. Embedded players, engineering notes, reproducible prompts.">
 <meta property="og:url" content="https://suno.alexandrudan.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Suno Music Prompt Laboratory">
-<meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Suno Music Prompt Laboratory">
-<meta name="twitter:description" content="126+ Suno AI prompt experiments exploring 16 architectural forms of cinematic orchestral music.">
+<meta name="twitter:description" content="240+ iterative Suno AI prompt experiments.">
 <meta name="twitter:creator" content="@danlex77">
 <script type="application/ld+json">
 {
@@ -27,63 +26,102 @@
   "@type": "CollectionPage",
   "name": "Suno Music Prompt Laboratory",
   "url": "https://suno.alexandrudan.com/",
-  "description": "Searchable archive of 126+ iterative Suno AI prompts for cinematic, orchestral, and experimental music generation. Explores 16 architectural forms with embedded players and engineering notes.",
+  "description": "Searchable archive of iterative Suno AI prompts for cinematic, orchestral, and experimental music generation.",
   "inLanguage": "en",
-  "author": {
-    "@type": "Person",
-    "name": "Alexandru DAN",
-    "url": "https://alexandrudan.com"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Alexandru DAN",
-    "url": "https://alexandrudan.com"
-  },
-  "about": [
-    {"@type": "Thing", "name": "Suno AI"},
-    {"@type": "Thing", "name": "Prompt Engineering"},
-    {"@type": "Thing", "name": "Cinematic Music"},
-    {"@type": "Thing", "name": "Orchestral Music"},
-    {"@type": "Thing", "name": "Film Score Composition"}
-  ],
-  "keywords": "Suno AI, prompt engineering, cinematic music, orchestral, film score, neoclassical, ambient, micropolyphony, passacaglia, fugue, canon, sonata, concerto grosso"
+  "author": {"@type": "Person", "name": "Alexandru DAN", "url": "https://alexandrudan.com"}
 }
 </script>
 <style>
   :root {
     --bg: #0a0a0f;
+    --bg-soft: #0e0e16;
     --panel: #15151e;
     --panel-hover: #1d1d2a;
+    --panel-soft: #11111a;
     --text: #e8e8f0;
     --muted: #7a7a90;
+    --muted-2: #56566a;
     --accent: #ff6a3d;
     --accent-2: #ffb347;
+    --accent-3: #7aa2ff;
     --border: #26263a;
+    --border-soft: #1c1c2a;
     --tag: #2a2a40;
     --tag-text: #c5c5e0;
+    --tag-active: #ff6a3d;
+    --tag-active-text: #0a0a0f;
+    --good: #7fd9a0;
+    --warn: #ffb347;
   }
   * { box-sizing: border-box; }
-  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", Segoe UI, Roboto, sans-serif; }
-  body { max-width: 1100px; margin: 0 auto; padding: 48px 24px 96px; }
-  header { margin-bottom: 48px; }
-  h1 { font-size: 2.4rem; margin: 0 0 8px; background: linear-gradient(90deg, var(--accent), var(--accent-2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -0.02em; }
-  .subtitle { color: var(--muted); font-size: 1rem; margin: 0; }
-  .meta-bar { display: flex; gap: 24px; margin-top: 20px; flex-wrap: wrap; color: var(--muted); font-size: 0.9rem; }
-  .meta-bar strong { color: var(--text); }
-  input[type="search"] { width: 100%; padding: 14px 18px; background: var(--panel); border: 1px solid var(--border); border-radius: 12px; color: var(--text); font-size: 1rem; margin: 28px 0 36px; outline: none; transition: border-color 0.2s; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", Segoe UI, Roboto, sans-serif; -webkit-font-smoothing: antialiased; }
+  body { max-width: 1200px; margin: 0 auto; padding: 48px 24px 96px; }
+
+  /* Header */
+  header { margin-bottom: 36px; }
+  h1 { font-size: 2.6rem; margin: 0 0 6px; background: linear-gradient(90deg, var(--accent), var(--accent-2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -0.025em; }
+  .subtitle { color: var(--muted); font-size: 1.02rem; margin: 0 0 18px; max-width: 720px; line-height: 1.5; }
+  .meta-bar { display: flex; gap: 22px; color: var(--muted); font-size: 0.88rem; flex-wrap: wrap; }
+  .meta-bar strong { color: var(--text); font-variant-numeric: tabular-nums; }
+
+  /* Stats dashboard */
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin: 28px 0 28px; }
+  .stat-card { background: var(--panel-soft); border: 1px solid var(--border-soft); border-radius: 12px; padding: 16px 18px; }
+  .stat-label { color: var(--muted); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 8px; }
+  .stat-value { color: var(--text); font-size: 1.85rem; font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; line-height: 1; }
+  .stat-sub { color: var(--muted-2); font-size: 0.78rem; margin-top: 6px; }
+  .stat-bar { display: flex; height: 8px; margin-top: 10px; gap: 1px; border-radius: 4px; overflow: hidden; background: var(--bg-soft); }
+  .stat-bar > span { flex: 1; opacity: 0.85; transition: opacity 0.15s; }
+  .stat-bar > span:hover { opacity: 1; }
+
+  /* Controls */
+  .controls { background: var(--panel-soft); border: 1px solid var(--border-soft); border-radius: 14px; padding: 18px 20px; margin: 0 0 28px; }
+  .control-row { display: flex; gap: 12px; align-items: center; margin-bottom: 14px; flex-wrap: wrap; }
+  .control-row:last-child { margin-bottom: 0; }
+  input[type="search"] { flex: 1; min-width: 220px; padding: 12px 16px; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.95rem; outline: none; transition: border-color 0.15s; }
   input[type="search"]:focus { border-color: var(--accent); }
-  input[type="search"]::placeholder { color: var(--muted); }
-  .songs { display: flex; flex-direction: column; gap: 16px; }
-  .song { background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 24px 28px; transition: background 0.15s, border-color 0.15s; }
+  input[type="search"]::placeholder { color: var(--muted-2); }
+  select { padding: 10px 14px; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.9rem; outline: none; cursor: pointer; }
+  select:focus { border-color: var(--accent); }
+  .control-label { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; margin-right: 4px; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { padding: 4px 11px; background: var(--tag); color: var(--tag-text); font-size: 0.74rem; border-radius: 999px; cursor: pointer; border: 1px solid transparent; transition: background 0.12s, border-color 0.12s, color 0.12s; user-select: none; font-family: "SF Mono", Menlo, monospace; }
+  .chip:hover { border-color: var(--accent); }
+  .chip.active { background: var(--tag-active); color: var(--tag-active-text); font-weight: 600; }
+  .chip-count { opacity: 0.6; font-size: 0.68rem; margin-left: 2px; }
+  .chip.active .chip-count { opacity: 0.85; }
+
+  .filter-section { margin-top: 10px; }
+  .filter-section-label { color: var(--muted); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px; }
+  .clear-btn { padding: 5px 12px; background: transparent; color: var(--muted); border: 1px solid var(--border); border-radius: 999px; cursor: pointer; font-size: 0.74rem; transition: color 0.12s, border-color 0.12s; }
+  .clear-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* Result count */
+  .result-info { color: var(--muted); font-size: 0.85rem; margin: 0 0 18px; }
+  .result-info strong { color: var(--text); }
+
+  /* Songs */
+  .songs { display: flex; flex-direction: column; gap: 14px; }
+  .song { background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 22px 26px; transition: background 0.15s, border-color 0.15s; }
   .song:hover { background: var(--panel-hover); border-color: #3a3a5a; }
-  .song-head { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; margin-bottom: 10px; }
-  .version { display: inline-block; padding: 2px 10px; background: var(--accent); color: #0a0a0f; font-weight: 700; font-size: 0.75rem; border-radius: 999px; letter-spacing: 0.03em; }
-  .title { font-size: 1.35rem; font-weight: 600; margin: 0; color: var(--text); }
-  .name-slug { color: var(--muted); font-size: 0.8rem; font-family: "SF Mono", Menlo, monospace; margin-left: auto; }
-  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 14px; }
-  .tag { padding: 3px 10px; background: var(--tag); color: var(--tag-text); font-size: 0.72rem; border-radius: 999px; font-family: "SF Mono", Menlo, monospace; }
-  .style-block { color: #c0c0d4; font-size: 0.92rem; line-height: 1.55; margin: 8px 0; white-space: pre-wrap; }
+  .song-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
+  .version { display: inline-block; padding: 3px 10px; background: var(--accent); color: #0a0a0f; font-weight: 700; font-size: 0.74rem; border-radius: 999px; letter-spacing: 0.03em; font-variant-numeric: tabular-nums; }
+  .title { font-size: 1.32rem; font-weight: 600; margin: 0; color: var(--text); letter-spacing: -0.01em; }
+  .name-slug { color: var(--muted); font-size: 0.78rem; font-family: "SF Mono", Menlo, monospace; margin-left: auto; }
+
+  .song-meta { display: flex; gap: 14px; flex-wrap: wrap; color: var(--muted); font-size: 0.78rem; margin: 6px 0 12px; font-family: "SF Mono", Menlo, monospace; }
+  .song-meta span { display: inline-flex; align-items: center; gap: 4px; }
+  .song-meta .technique-label { color: var(--accent-2); }
+  .song-meta .key-label { color: var(--accent-3); }
+
+  .tags { display: flex; flex-wrap: wrap; gap: 5px; margin: 8px 0 12px; }
+  .tag { padding: 3px 10px; background: var(--tag); color: var(--tag-text); font-size: 0.7rem; border-radius: 999px; font-family: "SF Mono", Menlo, monospace; }
+  .tag-revival { background: #2a3a2a; color: #b0e0c5; }
+  .tag-new { background: #3a2a2a; color: #ffb347; }
+
   .section-label { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; margin-top: 14px; margin-bottom: 4px; }
+  .style-block { color: #c0c0d4; font-size: 0.92rem; line-height: 1.55; margin: 8px 0; white-space: pre-wrap; }
   .notes { color: #9a9ab0; font-size: 0.85rem; line-height: 1.5; font-style: italic; }
   .instrumental-badge { display: inline-block; padding: 1px 8px; background: #1a3a2a; color: #7fd9a0; font-size: 0.7rem; border-radius: 999px; margin-left: 6px; }
   .style-preview { color: #c0c0d4; font-size: 0.88rem; line-height: 1.5; cursor: pointer; }
@@ -91,28 +129,37 @@
   details summary { cursor: pointer; color: var(--accent-2); font-size: 0.82rem; margin-top: 6px; user-select: none; }
   details summary:hover { color: var(--accent); }
   details[open] summary { margin-bottom: 6px; }
-  footer { margin-top: 64px; text-align: center; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); padding-top: 24px; }
-  footer a { color: var(--accent-2); text-decoration: none; }
-  .hidden { display: none; }
-  .pagination { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 36px 0 0; flex-wrap: wrap; }
-  .pagination button { background: var(--panel); border: 1px solid var(--border); color: var(--text); padding: 8px 14px; border-radius: 8px; cursor: pointer; font-size: 0.85rem; transition: background 0.15s, border-color 0.15s; }
-  .pagination button:hover { background: var(--panel-hover); border-color: #3a3a5a; }
+
+  /* Pagination */
+  .pagination { display: flex; align-items: center; justify-content: center; gap: 6px; margin: 36px 0 0; flex-wrap: wrap; }
+  .pagination button { background: var(--panel); border: 1px solid var(--border); color: var(--text); padding: 7px 13px; border-radius: 8px; cursor: pointer; font-size: 0.85rem; transition: background 0.15s, border-color 0.15s; font-variant-numeric: tabular-nums; }
+  .pagination button:hover:not(:disabled) { background: var(--panel-hover); border-color: var(--accent); }
   .pagination button.active { background: var(--accent); color: #0a0a0f; font-weight: 700; border-color: var(--accent); }
   .pagination button:disabled { opacity: 0.3; cursor: default; }
-  .page-info { color: var(--muted); font-size: 0.82rem; margin: 0 8px; }
-  @media (max-width: 640px) {
-    body { padding: 32px 16px 72px; }
-    h1 { font-size: 1.8rem; }
-    .song { padding: 18px 20px; }
+  .page-info { color: var(--muted); font-size: 0.8rem; margin: 0 6px; }
+
+  footer { margin-top: 64px; text-align: center; color: var(--muted); font-size: 0.84rem; border-top: 1px solid var(--border); padding-top: 24px; }
+  footer a { color: var(--accent-2); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  .hidden { display: none; }
+
+  @media (max-width: 720px) {
+    body { padding: 32px 14px 72px; }
+    h1 { font-size: 1.95rem; }
+    .stat-card { padding: 12px 14px; }
+    .stat-value { font-size: 1.5rem; }
+    .song { padding: 16px 18px; }
     .name-slug { display: none; }
     .pagination button { padding: 6px 10px; font-size: 0.8rem; }
   }
 </style>
 </head>
 <body>
+
 <header>
   <h1>Suno Music Prompt Laboratory</h1>
-  <p class="subtitle">Iterative prompt engineering for Suno v5.5 — cinematic, orchestral, experimental.</p>
+  <p class="subtitle">Iterative prompt engineering for Suno v5.5 — cinematic, orchestral, experimental. Every prompt is a single hour-long cycle: research → drafted → judged ≥90 → submitted → published. Filter, search, sort.</p>
   <div class="meta-bar">
     <div>Total experiments: <strong id="count">—</strong></div>
     <div>Latest version: <strong id="latest">—</strong></div>
@@ -120,34 +167,281 @@
   </div>
 </header>
 
-<input id="search" type="search" placeholder="Search by title, tag, key, style, instrument…" autofocus>
+<section class="stats" id="stats"></section>
+
+<section class="controls">
+  <div class="control-row">
+    <input id="search" type="search" placeholder="Search by title, tag, technique, instrument, key, style…" autofocus>
+    <span class="control-label">Sort</span>
+    <select id="sort">
+      <option value="newest">Newest first</option>
+      <option value="oldest">Oldest first</option>
+    </select>
+    <button class="clear-btn" id="clearAll">Clear filters</button>
+  </div>
+  <div class="filter-section">
+    <div class="filter-section-label">Technique</div>
+    <div class="chips" id="techChips"></div>
+  </div>
+  <div class="filter-section">
+    <div class="filter-section-label">Featured instrument</div>
+    <div class="chips" id="instChips"></div>
+  </div>
+  <div class="filter-section">
+    <div class="filter-section-label">Key</div>
+    <div class="chips" id="keyChips"></div>
+  </div>
+</section>
+
+<p class="result-info"><strong id="resultCount">0</strong> songs match — page <strong id="pageNum">1</strong> of <strong id="pageTotal">1</strong></p>
 
 <main class="songs" id="songs"></main>
 <nav class="pagination" id="pagination"></nav>
 
 <footer>
-  Built by <a href="https://alexandrudan.com">alexandrudan.com</a> &middot; <a href="https://tvl.tech">tvl.tech</a>
+  Built by <a href="https://alexandrudan.com">alexandrudan.com</a> &middot; <a href="https://tvl.tech">tvl.tech</a> &middot; <a href="https://github.com/danlex/suno-lab">github.com/danlex/suno-lab</a>
 </footer>
 
 <script>
 const songsEl = document.getElementById('songs');
 const searchEl = document.getElementById('search');
+const sortEl = document.getElementById('sort');
 const countEl = document.getElementById('count');
 const latestEl = document.getElementById('latest');
+const statsEl = document.getElementById('stats');
+const techChipsEl = document.getElementById('techChips');
+const instChipsEl = document.getElementById('instChips');
+const keyChipsEl = document.getElementById('keyChips');
 const paginationEl = document.getElementById('pagination');
+const resultCountEl = document.getElementById('resultCount');
+const pageNumEl = document.getElementById('pageNum');
+const pageTotalEl = document.getElementById('pageTotal');
+const clearAllEl = document.getElementById('clearAll');
 const PER_PAGE = 20;
+
 let ALL = [];
 let SUNO_URLS = {};
+let SEARCH_INDEX = [];
 let currentPage = 1;
 let currentList = [];
+let activeFilters = { tech: null, inst: null, key: null };
+
+// Known instrument vocabulary — used to extract instruments from tag arrays.
+const INSTRUMENT_VOCAB = new Set([
+  'harp','tubular-bells','viola-da-gamba','cor-anglais','hurdy-gurdy','handpan',
+  'bass-flute','celesta','glockenspiel','contrabass-clarinet','ondes-martenot','music-box',
+  'prepared-piano','upright-bass','subcontrabass-saxophone','ophicleide','baryton','clavichord',
+  'cristal-baschet','tenor-saxophone','french-horn','nyckelharpa','bass-trombone','cimbalom',
+  'duduk','cornet','singing-saw','steel-tongue-drum','contrabassoon','felt-piano',
+  'oboe-d-amore','mellotron','flugelhorn','tuba','harpsichord','vibraphone','viola',
+  'bass-clarinet','marimba','glass-marimba','bowed-vibraphone','double-bass','waterphone',
+  'theremin','chalumeau','crotales','trumpet','trombone','piccolo','clarinet','oboe',
+  'bandoneon','shakuhachi','erhu','frame-drums','taiko','balafon','kora','guqin','sarangi',
+  'nail-violin','singing-saw','steelpan','mbira','bowed-vibraphone','glass-harmonica',
+]);
+
+const KEY_RE = /^([a-g])(-flat|-sharp)?-(minor|major)$/;
 
 function escapeHtml(s) {
   if (s == null) return '';
   return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
+function prettyKey(k) {
+  const m = k.match(KEY_RE);
+  if (!m) return k;
+  const note = m[1].toUpperCase();
+  const acc = m[2] === '-flat' ? '♭' : m[2] === '-sharp' ? '♯' : '';
+  return `${note}${acc} ${m[3]}`;
+}
+
+// Pretty-print a slug (kebab-case → Title Case).
+function prettySlug(s) {
+  return s.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function parseTags(g) {
+  const tags = (g || []).map(t => String(t).toLowerCase());
+  let technique = null, bpm = null, key = null;
+  const instruments = [];
+  const isNew = tags.includes('new-technique') || tags.includes('research-driven');
+  const isInstrumental = true;
+
+  for (const t of tags) {
+    // technique: tag containing "technique-new" or starting with "orchestral-"
+    if (!technique && (t.endsWith('-technique-new') || t.startsWith('orchestral-'))) {
+      technique = t.replace(/^orchestral-/, '').replace(/-technique-new$/, '');
+    }
+    // BPM: "157bpm"
+    if (!bpm) {
+      const m = t.match(/^(\d{2,3})bpm$/);
+      if (m) bpm = parseInt(m[1]);
+    }
+    // key: "f-sharp-minor", "g-major"
+    if (!key && KEY_RE.test(t)) key = t;
+    // instruments
+    if (INSTRUMENT_VOCAB.has(t)) instruments.push(t);
+  }
+  return { technique, bpm, key, instruments };
+}
+
+function buildIndex() {
+  SEARCH_INDEX = ALL.map(s => {
+    const parsed = parseTags(s.g);
+    return {
+      s,
+      parsed,
+      hay: ((s.t||'') + ' ' + (s.n||'') + ' ' + (s.s||'') + ' ' + (s.g||[]).join(' ') + ' ' + (s.o||'')).toLowerCase()
+    };
+  });
+}
+
+function computeStats() {
+  const techCounts = new Map();
+  const instCounts = new Map();
+  const keyCounts = new Map();
+  const bpmBuckets = new Map(); // bucket → count
+  let withBPM = 0;
+  let instrumentalCount = 0;
+
+  for (const e of SEARCH_INDEX) {
+    if (e.parsed.technique) techCounts.set(e.parsed.technique, (techCounts.get(e.parsed.technique)||0)+1);
+    for (const inst of e.parsed.instruments) {
+      instCounts.set(inst, (instCounts.get(inst)||0)+1);
+    }
+    if (e.parsed.key) keyCounts.set(e.parsed.key, (keyCounts.get(e.parsed.key)||0)+1);
+    if (e.parsed.bpm) {
+      withBPM++;
+      // bucket: 60-79, 80-99, 100-119, 120-139, 140-159, 160+
+      const b = Math.floor((e.parsed.bpm - 60) / 20);
+      const label = (b < 0) ? '<60' : (b >= 5) ? '160+' : `${60 + b*20}–${79 + b*20}`;
+      bpmBuckets.set(label, (bpmBuckets.get(label)||0)+1);
+    }
+    if (e.s.i) instrumentalCount++;
+  }
+
+  return { techCounts, instCounts, keyCounts, bpmBuckets, withBPM, instrumentalCount };
+}
+
+function renderStats() {
+  const { techCounts, instCounts, keyCounts, bpmBuckets, instrumentalCount } = computeStats();
+  const totalSongs = ALL.length;
+  const uniqueTech = techCounts.size;
+  const uniqueInst = instCounts.size;
+  const uniqueKey = keyCounts.size;
+
+  // Top technique
+  const topTech = [...techCounts.entries()].sort((a,b) => b[1] - a[1])[0];
+  // Top instrument
+  const topInst = [...instCounts.entries()].sort((a,b) => b[1] - a[1])[0];
+
+  // BPM distribution bar (ordered buckets)
+  const order = ['<60','60–79','80–99','100–119','120–139','140–159','160+'];
+  const max = Math.max(...[...bpmBuckets.values()], 1);
+  const barColors = ['#56566a','#7aa2ff','#7fd9a0','#ffd166','#ffb347','#ff6a3d','#cf4566'];
+  const barHtml = order.map((label, i) => {
+    const v = bpmBuckets.get(label) || 0;
+    const h = Math.max(2, Math.round(v / max * 100));
+    return `<span title="${label} BPM: ${v} songs" style="background: ${barColors[i]}; flex: ${v || 0.1}"></span>`;
+  }).join('');
+
+  statsEl.innerHTML = `
+    <div class="stat-card">
+      <div class="stat-label">Songs in catalog</div>
+      <div class="stat-value">${totalSongs}</div>
+      <div class="stat-sub">${instrumentalCount} instrumental · ${totalSongs - instrumentalCount} vocal</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Unique techniques</div>
+      <div class="stat-value">${uniqueTech}</div>
+      <div class="stat-sub">${topTech ? `Most used: <strong>${escapeHtml(prettySlug(topTech[0]))}</strong> (${topTech[1]}×)` : ''}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Unique instruments</div>
+      <div class="stat-value">${uniqueInst}</div>
+      <div class="stat-sub">${topInst ? `Most featured: <strong>${escapeHtml(prettySlug(topInst[0]))}</strong> (${topInst[1]}×)` : ''}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Unique keys</div>
+      <div class="stat-value">${uniqueKey}</div>
+      <div class="stat-sub">across 24 possible major/minor pairs</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">BPM distribution</div>
+      <div class="stat-value" style="font-size: 1.05rem; font-weight: 500; line-height: 1.3;">60–180+</div>
+      <div class="stat-bar">${barHtml}</div>
+      <div class="stat-sub">Hover bars for counts</div>
+    </div>
+  `;
+}
+
+function renderChips() {
+  const { techCounts, instCounts, keyCounts } = computeStats();
+  // Top 16 techniques by count
+  const topTech = [...techCounts.entries()].sort((a,b) => b[1] - a[1]).slice(0, 16);
+  techChipsEl.innerHTML = topTech.map(([t, c]) =>
+    `<span class="chip ${activeFilters.tech === t ? 'active' : ''}" data-filter="tech" data-value="${escapeHtml(t)}">${escapeHtml(prettySlug(t))} <span class="chip-count">${c}</span></span>`
+  ).join('');
+
+  // Top 20 instruments by count
+  const topInst = [...instCounts.entries()].sort((a,b) => b[1] - a[1]).slice(0, 20);
+  instChipsEl.innerHTML = topInst.map(([t, c]) =>
+    `<span class="chip ${activeFilters.inst === t ? 'active' : ''}" data-filter="inst" data-value="${escapeHtml(t)}">${escapeHtml(prettySlug(t))} <span class="chip-count">${c}</span></span>`
+  ).join('');
+
+  // Keys: all, sorted by count desc
+  const topKeys = [...keyCounts.entries()].sort((a,b) => b[1] - a[1]).slice(0, 20);
+  keyChipsEl.innerHTML = topKeys.map(([t, c]) =>
+    `<span class="chip ${activeFilters.key === t ? 'active' : ''}" data-filter="key" data-value="${escapeHtml(t)}">${escapeHtml(prettyKey(t))} <span class="chip-count">${c}</span></span>`
+  ).join('');
+
+  // Wire chip clicks
+  document.querySelectorAll('.chip').forEach(el => {
+    el.addEventListener('click', () => {
+      const f = el.dataset.filter, v = el.dataset.value;
+      activeFilters[f] = activeFilters[f] === v ? null : v;
+      renderChips();
+      applyFilters();
+    });
+  });
+}
+
+function applyFilters() {
+  const q = searchEl.value.toLowerCase().trim();
+  const terms = q ? q.split(/\s+/) : [];
+  const sort = sortEl.value;
+
+  let filtered = SEARCH_INDEX.filter(e => {
+    if (terms.length && !terms.every(t => e.hay.includes(t))) return false;
+    if (activeFilters.tech && e.parsed.technique !== activeFilters.tech) return false;
+    if (activeFilters.inst && !e.parsed.instruments.includes(activeFilters.inst)) return false;
+    if (activeFilters.key && e.parsed.key !== activeFilters.key) return false;
+    return true;
+  }).map(e => e.s);
+
+  if (sort === 'oldest') filtered = filtered.slice().reverse();
+  // newest is default order (already sorted desc by build_site)
+
+  currentList = filtered;
+  currentPage = 1;
+  renderPage();
+}
+
 function renderSong(s) {
-  const tags = (s.g || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('');
+  const tags = (s.g || []).map(t => {
+    let cls = 'tag';
+    if (t.startsWith('revival-')) cls += ' tag-revival';
+    if (t.startsWith('new-') || t === 'research-driven') cls += ' tag-new';
+    return `<span class="${cls}">${escapeHtml(t)}</span>`;
+  }).join('');
+  const parsed = parseTags(s.g);
+  const metaParts = [];
+  if (parsed.technique) metaParts.push(`<span class="technique-label">${escapeHtml(prettySlug(parsed.technique))}</span>`);
+  if (parsed.key) metaParts.push(`<span class="key-label">${escapeHtml(prettyKey(parsed.key))}</span>`);
+  if (parsed.bpm) metaParts.push(`<span>${parsed.bpm} BPM</span>`);
+  if (parsed.instruments.length) metaParts.push(`<span>${parsed.instruments.map(prettySlug).join(' · ')}</span>`);
+  const metaHtml = metaParts.length ? `<div class="song-meta">${metaParts.join('')}</div>` : '';
+
   const instrumental = s.i ? '<span class="instrumental-badge">instrumental</span>' : '';
   const notes = s.o ? `<details><summary>Notes</summary><div class="notes">${escapeHtml(s.o)}</div></details>` : '';
   const title = s.t || s.n || '';
@@ -157,10 +451,11 @@ function renderSong(s) {
   ).join('');
   const playerSection = players ? `<div class="section-label">Listen</div>${players}` : '';
   const styleText = escapeHtml(s.s || '');
-  const stylePreview = styleText.length > 150 ? styleText.slice(0, 150) + '...' : styleText;
-  const styleSection = styleText.length > 150
+  const stylePreview = styleText.length > 200 ? styleText.slice(0, 200) + '…' : styleText;
+  const styleSection = styleText.length > 200
     ? `<details><summary class="style-preview">${stylePreview}</summary><div class="style-block">${styleText}</div></details>`
     : `<div class="style-block">${styleText}</div>`;
+
   return `
     <article class="song">
       <div class="song-head">
@@ -168,6 +463,7 @@ function renderSong(s) {
         <h2 class="title">${escapeHtml(title || '(untitled)')}${instrumental}</h2>
         <span class="name-slug">${escapeHtml(s.f || '')}</span>
       </div>
+      ${metaHtml}
       ${playerSection}
       <div class="tags">${tags}</div>
       <div class="section-label">Style</div>
@@ -177,14 +473,15 @@ function renderSong(s) {
   `;
 }
 
-function totalPages() {
-  return Math.max(1, Math.ceil(currentList.length / PER_PAGE));
-}
+function totalPages() { return Math.max(1, Math.ceil(currentList.length / PER_PAGE)); }
 
 function renderPage() {
   const start = (currentPage - 1) * PER_PAGE;
   const page = currentList.slice(start, start + PER_PAGE);
   songsEl.innerHTML = page.map(renderSong).join('');
+  resultCountEl.textContent = currentList.length;
+  pageNumEl.textContent = currentPage;
+  pageTotalEl.textContent = totalPages();
   renderPagination();
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -195,27 +492,20 @@ function renderPagination() {
   let html = '';
   html += `<button ${currentPage === 1 ? 'disabled' : ''} onclick="goPage(${currentPage - 1})">Prev</button>`;
   for (let i = 1; i <= tp; i++) {
-    if (tp <= 7 || i === 1 || i === tp || Math.abs(i - currentPage) <= 1) {
+    if (tp <= 9 || i === 1 || i === tp || Math.abs(i - currentPage) <= 1) {
       html += `<button class="${i === currentPage ? 'active' : ''}" onclick="goPage(${i})">${i}</button>`;
     } else if (i === 2 && currentPage > 4) {
-      html += `<span class="page-info">...</span>`;
+      html += `<span class="page-info">…</span>`;
     } else if (i === tp - 1 && currentPage < tp - 3) {
-      html += `<span class="page-info">...</span>`;
+      html += `<span class="page-info">…</span>`;
     }
   }
-  html += `<span class="page-info">${currentList.length} songs</span>`;
   html += `<button ${currentPage === tp ? 'disabled' : ''} onclick="goPage(${currentPage + 1})">Next</button>`;
   paginationEl.innerHTML = html;
 }
 
 function goPage(p) {
   currentPage = Math.max(1, Math.min(p, totalPages()));
-  renderPage();
-}
-
-function setList(list) {
-  currentList = list;
-  currentPage = 1;
   renderPage();
 }
 
@@ -230,27 +520,22 @@ async function load() {
   const maxV = ALL.reduce((m, s) => Math.max(m, s.v || 0), 0);
   latestEl.textContent = 'v' + maxV;
   buildIndex();
-  setList(ALL);
+  renderStats();
+  renderChips();
+  applyFilters();
 }
 
 let searchTimer;
-// Pre-build search index once on load for faster filtering
-let SEARCH_INDEX = [];
-function buildIndex() {
-  SEARCH_INDEX = ALL.map(s => ({
-    s,
-    hay: ((s.t||'') + ' ' + (s.n||'') + ' ' + (s.s||'') + ' ' + (s.g||[]).join(' ') + ' ' + (s.o||'')).toLowerCase()
-  }));
-}
 searchEl.addEventListener('input', () => {
   clearTimeout(searchTimer);
-  searchTimer = setTimeout(() => {
-    const q = searchEl.value.toLowerCase().trim();
-    if (!q) { setList(ALL); return; }
-    const terms = q.split(/\s+/);
-    const filtered = SEARCH_INDEX.filter(e => terms.every(t => e.hay.includes(t))).map(e => e.s);
-    setList(filtered);
-  }, 200);
+  searchTimer = setTimeout(applyFilters, 180);
+});
+sortEl.addEventListener('change', applyFilters);
+clearAllEl.addEventListener('click', () => {
+  activeFilters = { tech: null, inst: null, key: null };
+  searchEl.value = '';
+  renderChips();
+  applyFilters();
 });
 
 load();
