@@ -1,0 +1,74 @@
+name: "raking-salt-before-the-tide-returns"
+version: 240
+title: "Raking Salt Before the Tide Returns"
+instrumental: true
+
+style: "Monumental cinematic orchestral SCHERZO-TRIO-SCHERZO, salt-pan at low tide, total duration around 3:00, 157 BPM, F minor to F-sharp minor, full orchestra: DOUBLE BASS + SUBCONTRABASS SAXOPHONE + HANDPAN. Scherzo A opens at 0:00 — full strings surge from bar one in propulsive 3/4, brass punching off-beat accents, woodwinds doubling; double bass drives the bottom with arco and pizzicato alternation, slightly menacing in F minor. At 1:05 the Trio B arrives as sudden textural retreat — strings drop out entirely; subcontrabass saxophone carries a lyrical breath line, handpan floats above with metallic shimmer, sparse pizzicato double bass marks cadence points. At 1:55 the scherzo returns tutti forte — timpani joins, low brass adds gravity, the motif compressed and urgent in F-sharp minor. Final cadence at 2:50. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+  Full strings and brass launch the scherzo at once — propulsive 3/4 drive, double bass hammering arco on the bottom, brass accents punching across the bar line, the rhythmic engine of labor in F minor.
+
+  [Scherzo A: Workers Raking the Pan]
+  Woodwinds double the melodic line as the strings push forward; the brine pumps thud on the downbeat, workers raking in cadenced strokes across the glittering salt crust, double bass alternating arco and pizzicato.
+
+  [Full Scherzo Peak, 0:50]
+  The whole orchestra locked in — brass, strings, woodwinds, percussion; the harvest at full pace, the salt-crust catching coastal light with every rake stroke.
+
+  [Trio B: The Wind Crosses the Pan, 1:05]
+  Strings drop away entirely. Subcontrabass saxophone carries a slow lyrical line in the sudden quiet — warm, low, breathing. Handpan floats above with metallic shimmer. Sparse pizzicato double bass marks the cadence points like footsteps.
+
+  [A Gull Cries Once, 1:30]
+  One worker rests and drinks. The wind moves across the open evaporation pond. A single gull overhead. The trio holds the stillness — saxophone breath, handpan shimmer, bass pulse.
+
+  [Scherzo Return: Tutti Forte, 1:55]
+  Full orchestra re-enters with sudden force — the scherzo motif compressed and more urgent than before. Timpani joins for the first time, low brass adds gravity. The key lifts to F-sharp minor: one step higher, the urgency renewed.
+
+  [The Tide Will Turn, 2:20]
+  Every voice in full force — strings, brass, woodwinds, timpani, double bass driving the bottom harder. The crop must be gathered before the sea returns. The rhythmic engine accelerates toward the final cadence.
+
+  [Final Cadence, 2:50]
+  All voices converge on the last downbeat — the harvest done, the salt packed, the tide beginning its return across the flat white pan.
+
+  [End]
+
+exclude_styles: "ambient, new age, zen meditation, atonal, microtonal, EDM, electronic, synthesizer, rock, metal, acoustic guitar, vocals, singing, vocal choral, sacred choral, baroque pastiche, period instrument, world music, Arabic, tribal, gentle, lo-fi, free jazz, experimental noise, waltz, minuet"
+
+tags:
+  - orchestral-scherzo-trio-scherzo
+  - scherzo-trio-scherzo
+  - technique-new
+  - double-bass
+  - subcontrabass-saxophone
+  - handpan
+  - revival-double-bass-62-gap
+  - revival-subcontrabass-saxophone-12-gap
+  - revival-handpan-15-gap
+  - 157bpm
+  - new-bpm
+  - f-minor
+  - f-sharp-minor
+  - salt-pan-at-low-tide-scene
+  - full-orchestra
+  - ternary-aba-form
+  - duration-3min
+  - research-driven
+  - new-technique
+
+notes: |
+  SCHERZO-TRIO-SCHERZO is the classical ternary ABA instrumental form in which a vigorous, propulsive Scherzo (Part A) is followed by a contrasting, quieter Trio (Part B), after which the Scherzo returns — usually literally, sometimes with variations. The form emerged in the late 18th century as a replacement for the minuet-trio-minuet pattern in symphonies and chamber music, and its defining quality is the abruptness of the Trio contrast: the sudden textural and dynamic retreat is structural, not accidental. The return of the Scherzo therefore arrives with renewed force precisely because of the contrast that preceded it.
+
+  Composer-omission note: no composer or performer names appear in this prompt per standing blocklist policy. The form is described by structural function only.
+
+  Duration defense: v239 truncated to 2:16/2:26 because the featured trio (ondes martenot + contrabass clarinet + bowed vibraphone) was unusual and spectrally sparse; Suno ended the generation early when the texture thinned. V240 addresses this through three mechanisms: (1) DOUBLE BASS as the body voice — an acoustic low-frequency anchor present in all three sections, providing the grounded resonance that gives Suno a continuous physical signal to sustain; (2) the SCHERZO sections are explicitly dense full-orchestra writing — strings, brass, woodwinds, and percussion all active from bar one; (3) the TRIO B is framed explicitly as a middle contrast, not a resolution — the return is telegraphed clearly in the style, giving Suno structural reason to continue past 2:00.
+
+  Trio roles and novelty gaps:
+  - DOUBLE BASS (bowed_strings, last v178, gap 62 — deepest revival in catalog): the body voice; drives the scherzo bass line with arco/pizzicato alternation in the outer sections; retreats to sparse pizzicato cadence-marking in the Trio; returns driving hard with timpani in the final scherzo. Physical anchor throughout all three sections.
+  - SUBCONTRABASS SAXOPHONE (woodwinds, last v228, gap 12): sub-bass breath column; doubles low strings in the scherzo; carries the Trio's lyrical line as its primary voice — warm, low, breathing; adds chordal voicings in the return.
+  - HANDPAN (metallic_idiophones, last v225, gap 15): metallic shimmer; punctuates the scherzo rhythmically; featured as the floating voice above the saxophone in the Trio B; provides bell-tone color in the scherzo return.
+
+  Key arc: F minor (Scherzo A and Trio B) → F-sharp minor (Scherzo return at 1:55) — a half-step lift on the return that gives the already-compressed motif renewed urgency, the harmonic equivalent of the tide beginning to turn.
+  BPM: 157 — not used in the recent sequential run (153/154/155/156 in v235–239). Fast propulsive scherzo tempo appropriate to the labor scene.
+  Scene: a salt-pan at low tide — vast rectangular evaporation ponds on the coast just after the tide has receded; brine being raked by workers, the dried-salt crust glittering in coastal light, gulls overhead, the slow pumping of fresh seawater. Scherzo = the propulsive rhythmic labor of raking and harvesting. Trio = a moment of stillness — wind crosses the pan, a worker drinks, a gull cries. Scherzo return = work resumes with urgency, the tide will turn. Scene is new (no prior salt-pan prompt in catalog).
+
+  Style char count: 887.
