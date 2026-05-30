@@ -1,0 +1,75 @@
+name: "indigo-and-madder-at-the-last-light"
+version: 239
+title: "Indigo and Madder at the Last Light"
+instrumental: true
+
+style: "Monumental orchestral HYMN-AND-FUGATO, dye-works at the last light, total duration around 3:00, 156 BPM, A to Bb major arc, full orchestra: ONDES MARTENOT + CONTRABASS CLARINET + BOWED VIBRAPHONE. Brass chorale opens in A major: horns and low brass over low strings, noble unison planting a short melodic cell. At 0:45 the fugato erupts — violins seize the cell, violas follow, cellos after, woodwinds rising with flutes and oboes on top, contrabass clarinet on the bass line with deep rumble. Bowed vibraphone shimmers in metallic arpeggios as canonic density compresses toward the 1:45 peak. At 2:00 the brass chorale returns in B-flat major — ondes martenot carries the expressive top voice while the fugato counterpoint weaves in strings below. Both textures reach the final cadence: chorale triumphant, fugato threading beneath. Timpani and full percussion throughout. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro]
+  [Brass Chorale, Dye Vats Simmering]
+  The slow hymn moves in A major — horns and low brass over low strings, a noble unison, the melodic cell planted in deep harmonic saturation as pigment blooms in still water.
+
+  [Fugato Eruption, Workers Crossing]
+  Violins seize the cell at 0:45, then violas, then cellos, woodwinds rising with flutes and oboes on top — overlapping voices like workers lifting and draping bolts of cloth, contrabass clarinet rumbling beneath.
+
+  [Bowed Vibraphone Arpeggios, Canonic Density]
+  Metallic shimmer threads through the canonic pile-up — the bowed vibraphone arcs above the strings while dissonance accumulates and the full orchestra surges toward the 1:45 peak.
+
+  [Orchestral Peak, All Voices]
+  Full string section, brass, woodwinds and timpani arrive together — the dye vats boiling, every bolt in motion, maximum density at 1:45.
+
+  [Silence]
+
+  [Hymn Returns in B-flat Major]
+  The brass chorale rises a half-step — ondes martenot carrying the expressive top voice above the full orchestra, the fugato counterpoint still weaving in strings and woodwinds beneath.
+
+  [Two Textures Together, Cloth in the Late Light]
+  Chorale triumphant above, fugato threading below — each dyed length catching the last sun, saturated color made visible as a kind of triumph.
+
+  [Final Unison Cadence]
+  Every voice converges — the chorale lands, the fugato resolves, and the last light holds the colors still.
+
+  [End]
+
+exclude_styles: "ambient, new age, zen meditation, atonal, microtonal, EDM, electronic, synthesizer, rock, metal, acoustic guitar, vocals, singing, vocal choral, sacred choral, Gregorian chant, baroque pastiche, period instrument, world music, Arabic, tribal, gentle, lo-fi, free jazz, experimental noise"
+
+tags:
+  - orchestral-hymn-and-fugato
+  - hymn-and-fugato
+  - technique-new
+  - ondes-martenot
+  - contrabass-clarinet
+  - bowed-vibraphone
+  - revival-ondes-martenot-12-gap
+  - revival-contrabass-clarinet-12-gap
+  - revival-bowed-vibraphone-21-gap
+  - 156bpm
+  - new-bpm
+  - a-major
+  - b-flat-major
+  - dye-works-at-the-last-light-scene
+  - full-orchestra
+  - brass-chorale
+  - fugato-eruption
+  - duration-3min
+  - research-driven
+  - new-technique
+
+notes: |
+  HYMN-AND-FUGATO is a three-part orchestral design (not a period form but a compositional procedure): a slow noble chorale-hymn states and plants a short melodic cell, which is then taken up imitatively in a fugato — a canonic eruption that never locks into a complete fugue but builds imitative density toward a climactic peak — before the hymn returns in a brighter key with the fugato still audible beneath it. The concept synthesizes the weight of chorale writing with the kinetic energy of imitative counterpoint, allowing both textures to coexist in the final section. The procedure was developed here as an original framing for this prompt series.
+
+  Duration defense: five consecutive successes with the full-orchestra anchor strategy (v137+ override). Although the featured trio — ondes martenot, contrabass clarinet, bowed vibraphone — is spectrally unusual and could tempt Suno toward chamber or ambient textures, the style anchors deeply in full orchestral forces: named brass section, full string section (low to high), flutes and oboes in the woodwinds, timpani and percussion bed. The trio members are featured colors within that full-orchestra context, not the sole voices.
+
+  Composer-omission note: no composer or performer names appear anywhere in this prompt, per standing blocklist policy. Canonical orchestral forms and procedures are described by structural function only.
+
+  Trio roles and novelty gaps:
+  - ONDES MARTENOT (early_electronic, last v227, gap 12): vocal-like sustained body line; carries the hymn's expressive top voice in the return above the full brass, adding otherworldly warmth to the chorale texture.
+  - CONTRABASS CLARINET (woodwinds, last v227, gap 12): deep low-register foundation; doubles the low strings in the chorale opening, adds dark resonant rumble to the fugato bass line at the peak.
+  - BOWED VIBRAPHONE (mallet_perc, last v218, gap 21): shimmering metallic halo; arpeggiated figures during the fugato build, bell-tone punctuation at the hymn return, bridging the chorale's sustained weight and the fugato's rhythmic pulse.
+
+  Key arc: A major (hymn, fugato) → B-flat major (hymn return at 2:00) — a half-step lift that rewards the fugato's climb and lands the return in a perceptibly brighter harmonic space.
+  BPM: 156 — not used in the recent run sequence (154/155/151/153/148/147); measured noble walking pulse appropriate to the chorale opening.
+  Scene: a Renaissance/early-industrial dye-works at sundown — vats of indigo and madder simmering, lengths of cloth hanging to drip from beams, the final pass of light catching saturated colors. Hymn = the slow steady simmer. Fugato = workers crossing with bolts, overlapping rhythmic activity. Hymn return = dyed cloth hung in the last light, each color made visible as triumph. Scene is new to this series (no prior dye-works prompt).
+
+  Style char count: 943.

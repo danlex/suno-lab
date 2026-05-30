@@ -283,6 +283,7 @@ mindmap
 | 236 | At the Transit Wire | double variation (alternating themes A B A' B' A'' coda) | F-sharp minor -> G minor (half-step at A'' lift) | 151 | viola + bass clarinet + tubular bells |
 | 237 | What the Tide Returned | siciliano-to-cabaletta (slow lilt -> hard tempo pivot -> tutti relative-major gallop) | E-flat minor -> G-flat major (relative major at the cabaletta pivot) | 154 | viola da gamba + ophicleide + marimba |
 | 238 | Cast in Bronze and Rung Once | thematic metamorphosis arc (single theme transformed across vulnerability/conflict/transfiguration) | B minor -> C minor -> C major (transfiguration in the parallel major) | 155 | cor anglais + french horn + harp |
+| 239 | Indigo and Madder at the Last Light | hymn-and-fugato (chorale -> fugato eruption -> hymn return with fugato underneath) | A major -> B-flat major (half-step at hymn return) | 156 | ondes martenot + contrabass clarinet + bowed vibraphone |
 
 ## Next-cycle priorities
 
