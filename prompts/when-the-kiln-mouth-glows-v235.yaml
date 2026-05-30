@@ -1,0 +1,78 @@
+name: "when-the-kiln-mouth-glows"
+version: 235
+title: "When the Kiln Mouth Glows"
+instrumental: true
+
+style: "Monumental cinematic orchestral chaconne ground-bass variations, total duration around 3:00, A-flat minor, 153 BPM, TUBA + HARPSICHORD + VIBRAPHONE with full strings and brass. A kiln at first light: bellows cycling in a steady pulse as heat radiates outward in waves. TUBA holds the 4-bar harmonic ground in deep low register, returning identically each cycle. HARPSICHORD weaves rapid figurations and broken-chord trills above the unchanged bass. VIBRAPHONE sustains shimmering upper-register chord-voicings, expanding each pass. Strings tremolo low to high; brass and woodwinds thicken every variation cycle, density mounting toward the kiln-mouth glow. Final cycles lift to A minor at peak density: brass choir fortissimo, woodwind cascades, full strings pressing the harmonic apex. Oboe, clarinet, horn, trumpet, trombone join the texture. Modern dramatic film-score weight. No guitars, no vocals, no rock drums, no synthesizers, no pipe organ."
+
+lyrics: |
+  [Short Instrumental Intro — Tuba Ground Alone]
+  The TUBA enters alone in A-flat minor, stating the 4-bar harmonic ground at a measured 153 BPM pulse; the bellows cycle begins, low and deliberate, heat not yet visible.
+
+  [First Variation — Harpsichord Ornaments the Ground]
+  The HARPSICHORD joins above the returning bass, its broken-chord figurations and trills flickering like the first lick of flame through the kiln door; the ground repeats unchanged beneath.
+
+  [Second Variation — Vibraphone Shimmer Enters]
+  VIBRAPHONE sustains shimmering chord-voicings in the upper register, a metallic glow ringing above the ornamental harpsichord; three voices now, each cycle the bass returning, heat building.
+
+  [Third Variation — Strings Tremolo Joins]
+  String tremolo enters from low cellos upward to violins, layering dense texture over the ground; the kiln-mouth begins to radiate, the harmonic pattern still locked in the tuba's deep pulse.
+
+  [Fourth Variation — Woodwinds Enter]
+  Oboe and clarinet weave new melodic lines between the ornaments; the ground bass returns, the accumulated density thickening with every cycle, the heat now visible in wavering air.
+
+  [Fifth Variation — Brass Choir Builds]
+  Horn and trumpet add a brass choir above the trombone; every instrument on the field now, the 4-bar harmonic pattern completing its cycle as fuel feeds the kiln in relentless rhythm.
+
+  [Peak Variation — Maximum Density]
+  All layers coincide at the harmonic apex of the ground; full strings fortissimo, brass choir blazing, harpsichord and vibraphone high above the tuba's unchanged foundation — the kiln mouth white-hot.
+
+  [Silence]
+  Four beats of silence, the bellows paused, the heat hanging.
+
+  [Return — Half-Step Lift to A Minor]
+  The ground returns a half-step higher in A minor, the full orchestra re-entering fortississimo; the final variation cycles burn bright and deliberate, every voice locked to the cycling harmonic ground.
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, folk, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, baroque pastiche, harpsichord concerto, period instrument, early music"
+
+tags:
+  - orchestral-chaconne-ground-bass-variations
+  - chaconne-ostinato-form
+  - tuba
+  - harpsichord
+  - vibraphone
+  - 153bpm
+  - a-flat-minor
+  - a-minor
+  - kiln-at-first-light-scene
+  - revival-tuba-12-gap
+  - revival-harpsichord-15-gap
+  - revival-vibraphone-17-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - monumental-cinematic-orchestral
+  - modern-dramatic-film-score
+
+notes: |
+  TECHNIQUE: Chaconne ground-bass variations is a Baroque-era compositional form (17th–18th century) in which a short harmonic/chord pattern — typically 4 bars, often in triple or compound meter — repeats throughout the entire work while successive variations accumulate density and ornamentation above it. Unlike the passacaglia (already in catalog at v197), which repeats a melodic bass line, the chaconne repeats a harmonic/chord sequence; the distinction is harmonic identity vs. melodic identity. The form is sometimes conflated in older scholarship but the distinction is maintained here per the IMPORTANT note in the brief.
+
+  CONCEPT SOURCE: The chaconne maps naturally to the kiln-at-first-light scene: each bellows-cycle is one repetition of the 4-bar ground; the rising heat is the variation density accumulating cycle by cycle. The TUBA provides the ground voice; the HARPSICHORD and VIBRAPHONE provide the primary ornamental voices; strings, brass, and woodwinds supply the variation-layer density. The form guarantees Suno keeps playing — the repeating harmonic bass is a structural anchor that prevents truncation (v226/v232/v233 lesson: sparse experimental prompts stall; the chaconne's dense accumulation is its own duration engine).
+
+  COMPOSER-OMISSION CONFESSION: Historical chaconne masters (17th–18th century) are known and intentionally unnamed per the blocklist protocol. Their forms inspired this prompt; their names do not appear.
+
+  DURATION DEFENSE: Chaconne form inherently generates ~3 minutes of content: 8–10 variation cycles at 153 BPM with a 4-bar ground = substantial clock time. The YAML has 9 metatag sections with 1–2 sentences each, supplying Suno dense material to render against each cycle. "Monumental cinematic orchestral" and "modern dramatic film-score" anchors prevent drift to sparse experimental textures. This follows the v234 lesson: full-orchestra dramatic arc hit 3:38 and 3:08.
+
+  KEY DECISION: A-flat minor home for variations 1–6; half-step lift to A minor at the return after silence (variations 7–8). The lift coincides with maximum density for the harmonic apex — a reinforcing double effect rather than relying on density alone. Stable A-flat minor through the bulk of the work gives the final lift maximum contrast.
+
+  TRIO ROLES AND NOVELTY GAPS:
+  - TUBA (brass) — last used v223, gap 12 — carries the 4-bar harmonic ground in deep low register; the foundation of every variation cycle; bellows-pulse voice.
+  - HARPSICHORD (keyboards) — last used v220, gap 15 — rapid figurations, broken chords, trills; incisive ornamental voice above the bass, first instrument above the ground.
+  - VIBRAPHONE (mallet_perc) — last used v218, gap 17 — metallic shimmer, sustained upper-register chord-voicings; bowed-like resonance at climax; second ornamental voice, spatial glow.
+
+  NOVELTY CLAIMS: First chaconne ground-bass variations prompt in the catalog. 153 BPM unused in recent run (112/128/141-149/83 taken). A-flat minor home with A minor lift is a new key combination. Kiln-at-first-light scene is new. All three instruments carry deep revival gaps (12/15/17 versions). Technique is catalog-debut.
+
+  FINAL STYLE CHAR COUNT: 949
