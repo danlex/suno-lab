@@ -1,0 +1,61 @@
+name: "when-the-doves-first-stir"
+version: 244
+style: |
+  SARABANDE-AND-DOUBLE at a dovecote at first light, total duration around 3:00. CORNET + TENOR SAXOPHONE + CROTALES. A major home, lifting to B-flat major at the tutti peak. 47 BPM stately processional. Neoclassical orchestral chamber music, warm and luminous.
+
+  Part one, sarabande: the CORNET states the theme in slow 3/4, stressed second beat giving it patient dignity, orchestral strings sustaining bare continuo beneath — the light barely begun.
+
+  Part two, the double: same melodic skeleton returns clothed in cascading filigree — passing tones, mordents, turns — as TENOR SAXOPHONE winds a reedy countermelodic line through the ornamentation. Around 2:30 the key lifts by a half-step to B-flat major and CROTALES crown the full tutti with bright high partials, like dust motes catching the dawn as the doves spiral upward into the light.
+
+  No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.
+title: "When the Doves First Stir"
+lyrics: |
+  [Intro]
+  [Sarabande]
+  [Sarabande Continues]
+  [Bridge]
+  [Double Begins]
+  [Double Develops]
+  [Tutti Bloom]
+  [Final Cadence]
+  [End]
+instrumental: true
+exclude_styles: "ambient, new age, zen meditation, atonal, EDM, rock, metal, Arabic, world music, folk, traditional, ethnic, baroque-pastiche, period-instrument, Spanish dance, French court, gentle, lo-fi, vocals, singing, electronic, synthesizer, free jazz, microtonal, quarter-tone, tribal"
+notes: |
+  TECHNIQUE — Sarabande-and-Double is a paired baroque form: a slow stately dance in 3/4 with characteristic stressed second beat (the sarabande), followed by an immediate restatement of the same melody but every structural note now elaborated into cascading ornaments — the "double." The form dates from 17th–18th century French and English keyboard and lute suites. concept_source: the double is not a variation in the usual sense; it is ornamental enrichment of an unchanged melodic skeleton, meaning the listener recognizes the tune while the texture transforms completely. No composer names cited per blocklist.
+
+  DURATION DEFENSE — The sarabande-and-double structure supplies a continuous melodic line for the full 3 minutes: the theme is stated bare in part 1, then continuously ornamented through part 2, never stopping. The CORNET (warm centered brass) is the body voice that carries the melody across both halves. Full orchestra (strings as continuo in part 1, woodwinds + brass + CROTALES joining in part 2) ensures timbral mass without the arc collapsing. The slow 47 BPM is the sarabande's contract — form-correct and essential to the dignity of the processional.
+
+  TRIO ROLES AND GAPS:
+  - CORNET ×232, last v232 — 12-gap revival; body voice; states sarabande theme bare, then carries it ornamented through the double.
+  - TENOR SAXOPHONE ×230, last v230 — 14-gap revival; middle reedy voice; joins the double with countermelodic ornamental winding.
+  - CROTALES — CATALOG DEBUT (never used); high partials mallet percussion; enters at the tutti peak (~2:30) like dust motes catching the dawn light, crowning the full ensemble with bright crystalline shimmer.
+
+  KEY ARC — A major (noble dawn brightness, the sarabande's home) lifts by a half-step to B-flat major at the double's tutti peak (~2:30). The warmth shift maps to the ornamentation breaking into full bloom.
+  BPM — 47, form-correct for sarabande (traditional range 40–60). New BPM for the catalog.
+
+  SCENE — Stone dovecote at the edge of a country estate, first light slanting through the cupola windows. The keeper's slow patient ascent up the spiral stair (sarabande) becomes the doves lifting into spiraling flight as the light grows (double). New scene — not used in recent versions.
+
+  LYRICS NOTE — Bare structural form labels only per the LYRICS RULE (2026-05-31). No descriptive prose, no instrument names inside brackets. 9 sections.
+
+  STYLE CHAR COUNT — 912.
+tags:
+  - orchestral-sarabande-and-double
+  - cornet
+  - tenor-saxophone
+  - crotales
+  - 47bpm
+  - new-bpm
+  - a-major
+  - b-flat-major
+  - dovecote-at-first-light-scene
+  - revival-cornet-12-gap
+  - revival-tenor-saxophone-14-gap
+  - crotales-catalog-debut
+  - new-technique
+  - duration-3min
+  - research-driven
+  - sarabande
+  - double-ornament
+  - neoclassical
+  - instrumental
