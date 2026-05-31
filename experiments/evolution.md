@@ -301,6 +301,7 @@ mindmap
 | 254 | Lux Solstitii | cinematic neoclassical 'returning light' arc (B minor -> C major parallel-major drop, slow-to-warm) | B minor -> C major (parallel major at the drop) | 106 | chalumeau + baryton + handpan |
 | 255 | Limen Descensus | modern Hollywood cinematic - descending procession (Build/Silence/Drop + BPM-aware 4:00-5:00 target) | E-flat minor -> E minor (half-step at Drop) | 135 | trumpet + contrabass clarinet + bowed vibraphone |
 | 256 | Crest of the First Light | modern Hollywood cinematic - ascending heroic arc (parallel-major triumph at the Drop, inverse of v255) | F-sharp minor -> F-sharp major (parallel major at the Drop) | 165 | ondes martenot + french horn + subcontrabass saxophone |
+| 257 | Linens | lyrical sweeping cinematic - 'what was lost' bittersweet arc (exposed-Drop test) | C-sharp minor -> D minor (half-step, both minor) | 138 | flugelhorn + contrabassoon + cristal baschet |
 
 ## Next-cycle priorities
 

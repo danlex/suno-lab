@@ -1,0 +1,55 @@
+name: "linens-v257"
+version: 257
+title: "Linens"
+instrumental: true
+
+style: "Bittersweet cinematic chamber piece — late-autumn light through a single window, a room undisturbed for fifteen years. Hollywood scoring stage with warm tape saturation and tight chamber reverb. Three voices: flugelhorn carries the surfacing memory in warm lyrical brass, contrabassoon holds the weight of years beneath, cristal baschet scatters spectral shimmer like dust motes in slanting light. C-sharp minor to D minor — a half-step rise that arrives as aching recognition, not release. 138 BPM, allegretto moderato, pulse measured and intimate. The architecture opens with the slow revealing, theme growing from one voice into layered voices. A true silence holds the moment of seeing. Then a rawer, exposed restatement: same theme transposed one step higher, played more slowly, fewer instruments, melody bare. Not louder. Not resolved. Just recognized. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo flugelhorn states the theme softly over cold ambience, a single voice in an empty room, 12 bars]
+  [Threshold: contrabassoon enters low beneath the flugelhorn, the weight of years accumulating, 16 bars]
+  [Theme Surfaces: flugelhorn melody expands over contrabassoon foundation, cristal baschet enters as spectral shimmer in the slanting light, 24 bars]
+  [Deepening: all three voices in dialogue, harmonic richness of C-sharp minor, theme turning in the light, 24 bars]
+  [Build: texture tightens, flugelhorn pressing higher, contrabassoon darkening, cristal baschet brightening, 32 bars]
+  [Counterpoint: flugelhorn and contrabassoon in intimate two-voice counterpoint, cristal baschet sustains underneath, 24 bars]
+  [Second Build: all three voices accumulate, harmonic tension rising through C-sharp minor, the drawer half-open, 24 bars]
+  [Silence: full ensemble stops, held breath, 8 bars of true silence, nothing underneath, 8 bars]
+  [Drop: solo flugelhorn alone in D minor, same theme transposed one step higher, played more slowly, melody bare and exposed, rawer, 32 bars]
+  [Drop Deepens: contrabassoon re-enters at low register, very soft, cristal baschet returns as faint shimmer, theme in D minor continues, 32 bars]
+  [Coda: theme fragments to a single sustained flugelhorn phrase, then one long low contrabassoon note fading, cristal baschet dissolves to silence, 16 bars]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, triumphant brass, fanfare, orchestra tutti, cinematic action, march, polka, klezmer, gypsy jazz"
+
+tags:
+  - flugelhorn
+  - contrabassoon
+  - cristal-baschet
+  - 138bpm
+  - c-sharp-minor
+  - d-minor
+  - late-autumn-scene
+  - revival-flugelhorn-12-gap
+  - revival-contrabassoon-12-gap
+  - revival-cristal-baschet-27-gap
+  - new-technique
+  - duration-3min
+  - research-driven
+  - instrumental
+  - bittersweet-drop
+  - build-silence-drop
+
+notes: |
+  Lyrical sweeping cinematic technique built on the "what was lost" arc — a bittersweet emotional shape in which the Build/Silence/Drop architecture resolves not into triumph or release but into aching restatement. The theme returns in the Drop section transposed one half-step higher (C-sharp minor to D minor), played more slowly with fewer instruments, the melody bare and exposed. The half-step rise is not celebration; it is recognition. Both key centers are minor, preserving the grief while the rise makes it rawer, more present, more seen.
+
+  Concept source: Following v256's triumphant ascent test, v257 tests the bittersweet inverse — same Build/Silence/Drop architecture but the Drop equals aching restatement instead of arrival. This validates whether the playbook moves carry emotional density across both joyful and sorrowful resolutions.
+
+  This technique is closely associated with a strand of late-twentieth-century cinematic scoring for films about memory, loss, and the weight of the past — composers whose names appear on the blocklist and are intentionally omitted here. The emotional mechanism is well-documented but has not appeared in this catalog before in its pure inverse-Drop form.
+
+  Duration strategy: 138 BPM places this firmly in the proven 130–160 band (Playbook Move 8). Bar total is 244, targeting 4:00–5:00 wall-clock. Parametrized colon-syntax lyrics with per-section bar counts provide length scaffolding (Move 1). Production tokens used: "Hollywood scoring stage," "warm tape saturation," "tight chamber reverb" — three from the Move 2 approved list, chosen for intimate-room rather than large-hall sound. Sentence case throughout (Move 3). Atmospheric-first opening (Move 4). Build/Silence/Drop stack present with true 8-bar silence (Move 7). Dead-weight superlatives stripped (Move 9).
+
+  Trio rationale: two body voices (flugelhorn, contrabassoon) plus one spectral (cristal baschet), satisfying the ≤1 spectral rule. Flugelhorn (gap 12): the warm lyrical brass voice, perfect for a surfacing memory — warmer and rounder than trumpet, intimate rather than declarative. Contrabassoon (gap 12): the cinematic woodwind weight, placed in the low register to embody the slow accumulation of years. Cristal baschet (gap 27): the spectral shimmer, used sparingly as atmospheric color — dust motes in light rather than a lead voice.
+
+  Scene: a photograph found in a drawer, late autumn afternoon, a face half-turned in black and white, fifteen years of folded linens between the finder and the found. The room still. The afternoon light exact. The recognition immediate and irreversible.
+
+  Novelty: bittersweet-inverse Drop architecture is new to the catalog. 138 BPM is in the proven duration band. C-sharp minor to D minor (both minor, half-step rise as sad arrival) is a key pairing not previously used. Style character count: 929.
