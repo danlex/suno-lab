@@ -18,9 +18,24 @@
     "version": 137
   },
   "03136b20-dbd4-4c04-8f47-2d76ba28f93a": {
+    "bpm": 164,
     "duration_seconds": 252,
     "duration_source": "close-out-logs",
-    "uuid": "03136b20-dbd4-4c04-8f47-2d76ba28f93a"
+    "file": "cortege-at-first-light-v252.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "cortege-at-first-light",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 938,
+    "technique": null,
+    "title": "Cortege at First Light",
+    "uuid": "03136b20-dbd4-4c04-8f47-2d76ba28f93a",
+    "version": 252
   },
   "068db6c4-9b15-4d16-ace2-0434586b8b5f": {
     "bpm": 74,
@@ -61,9 +76,24 @@
     "version": 245
   },
   "0979a659-60d0-429f-a201-ac93327295ad": {
+    "bpm": 90,
     "duration_seconds": 189,
     "duration_source": "close-out-logs",
-    "uuid": "0979a659-60d0-429f-a201-ac93327295ad"
+    "file": "neon-sur-asphalte-mouille-v253.yaml",
+    "instrumental": true,
+    "key": "d-minor",
+    "name": "neon-sur-asphalte-mouille",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 946,
+    "technique": null,
+    "title": "Neon sur Asphalte Mouille",
+    "uuid": "0979a659-60d0-429f-a201-ac93327295ad",
+    "version": 253
   },
   "0a1d17a4-fd84-4d6d-9103-6834b86463e3": {
     "bpm": 150,
@@ -294,9 +324,24 @@
     "version": 243
   },
   "12974521-f1c5-4168-a731-fd691d563697": {
+    "bpm": 90,
     "duration_seconds": 210,
     "duration_source": "close-out-logs",
-    "uuid": "12974521-f1c5-4168-a731-fd691d563697"
+    "file": "neon-sur-asphalte-mouille-v253.yaml",
+    "instrumental": true,
+    "key": "d-minor",
+    "name": "neon-sur-asphalte-mouille",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 946,
+    "technique": null,
+    "title": "Neon sur Asphalte Mouille",
+    "uuid": "12974521-f1c5-4168-a731-fd691d563697",
+    "version": 253
   },
   "13dc99f8-18f4-4c13-886d-1b63ceb4c1a5": {
     "bpm": 119,
@@ -1241,9 +1286,24 @@
     "version": 247
   },
   "674d2b1a-94b1-4257-b025-40f8c1549c60": {
+    "bpm": 164,
     "duration_seconds": 208,
     "duration_source": "close-out-logs",
-    "uuid": "674d2b1a-94b1-4257-b025-40f8c1549c60"
+    "file": "cortege-at-first-light-v252.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "cortege-at-first-light",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 938,
+    "technique": null,
+    "title": "Cortege at First Light",
+    "uuid": "674d2b1a-94b1-4257-b025-40f8c1549c60",
+    "version": 252
   },
   "67ff8b8f-641c-45e6-8bd8-806b61a7d95e": {
     "bpm": 114,
@@ -1393,6 +1453,26 @@
     "uuid": "705871ce-7a00-4190-ac8a-888aa241c576",
     "version": 224
   },
+  "7066907a-cdb5-4501-98d8-eca949a46dd7": {
+    "bpm": 106,
+    "duration_seconds": 204,
+    "duration_source": "close-out-logs",
+    "file": "lux-solstiti-v254.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "lux-solstiti",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 946,
+    "technique": null,
+    "title": "Lux Solstitii",
+    "uuid": "7066907a-cdb5-4501-98d8-eca949a46dd7",
+    "version": 254
+  },
   "719457ec-e164-4e61-91f8-d16980dee8db": {
     "bpm": 47,
     "duration_seconds": 62,
@@ -1525,6 +1605,26 @@
     "uuid": "77352f74-a7ef-456c-a48f-025b6ccb9329",
     "version": 211
   },
+  "819ba711-462c-4814-bd73-179e81ccbecb": {
+    "bpm": 106,
+    "duration_seconds": 204,
+    "duration_source": "close-out-logs",
+    "file": "lux-solstiti-v254.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "lux-solstiti",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 946,
+    "technique": null,
+    "title": "Lux Solstitii",
+    "uuid": "819ba711-462c-4814-bd73-179e81ccbecb",
+    "version": 254
+  },
   "81fcfb8a-b46b-4be9-8ea8-322b5227b4d7": {
     "bpm": 145,
     "duration_seconds": 153,
@@ -1580,6 +1680,26 @@
     "title": "The Question That Keeps Being Asked",
     "uuid": "85b310aa-be21-4514-9df2-f87a8bcd25f3",
     "version": 113
+  },
+  "88f128e2-a433-42c4-9abb-74bc37b13400": {
+    "bpm": 135,
+    "duration_seconds": 254,
+    "duration_source": "close-out-logs",
+    "file": "limen-descensus-v255.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "limen-descensus",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 949,
+    "technique": null,
+    "title": "Limen Descensus",
+    "uuid": "88f128e2-a433-42c4-9abb-74bc37b13400",
+    "version": 255
   },
   "8b3c1ed8-2970-47fa-845c-7f6a193297c6": {
     "bpm": 118,
@@ -2344,6 +2464,26 @@
     "title": "The Keeper in January",
     "uuid": "bacbe6e7-d3c2-431d-a1ce-eb688ccfa846",
     "version": 251
+  },
+  "bd07938c-8d66-4861-9edf-2fd8512b16b3": {
+    "bpm": 135,
+    "duration_seconds": 244,
+    "duration_source": "close-out-logs",
+    "file": "limen-descensus-v255.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "limen-descensus",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 949,
+    "technique": null,
+    "title": "Limen Descensus",
+    "uuid": "bd07938c-8d66-4861-9edf-2fd8512b16b3",
+    "version": 255
   },
   "bd34cbf6-3c56-4ee5-ad50-3ad53e70eb3f": {
     "bpm": 147,
