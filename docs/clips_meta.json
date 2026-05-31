@@ -17,6 +17,26 @@
     "uuid": "016ee20f-c2c3-4551-84b6-059b056fb47d",
     "version": 137
   },
+  "030b6cf0-b349-43e3-81c5-1e7444ecb072": {
+    "bpm": 166,
+    "duration_seconds": 209,
+    "duration_source": "close-out-logs",
+    "file": "le-cortege-v258.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "le-cortege-v258",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 938,
+    "technique": null,
+    "title": "Le Cortège",
+    "uuid": "030b6cf0-b349-43e3-81c5-1e7444ecb072",
+    "version": 258
+  },
   "03136b20-dbd4-4c04-8f47-2d76ba28f93a": {
     "bpm": 164,
     "duration_seconds": 252,
@@ -866,6 +886,26 @@
     "title": "Dopo la Chiusura",
     "uuid": "3ef4cc14-0bce-4a00-b398-01d86e7a4f22",
     "version": 249
+  },
+  "3f5f8b15-b223-4179-b30b-72a1629eadcf": {
+    "bpm": 166,
+    "duration_seconds": 219,
+    "duration_source": "close-out-logs",
+    "file": "le-cortege-v258.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "le-cortege-v258",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 938,
+    "technique": null,
+    "title": "Le Cortège",
+    "uuid": "3f5f8b15-b223-4179-b30b-72a1629eadcf",
+    "version": 258
   },
   "40ceee45-5835-4462-8d24-929c913ad2ca": {
     "bpm": 150,
