@@ -22,7 +22,7 @@ All of these, explicitly in the prompt:
 
 ## Hard constraints (judge rubric)
 
-- **Style char count: 850–950.** Count with `python3 -c "s='...'; print(len(s))"` via Bash before writing. Iterate the style until it lands in range.
+- **Style char count: 850–950.** Use the reusable script (NOT `python3 -c`): write the style to a temp file or pipe via stdin and run `python3 /Users/adan/work/claude/code/suno/scripts/text_tools.py in-range --min 850 --max 950` — it prints JSON `{length, in_range}` and exits 0 if in range. Iterate the style until it lands in range. Vanilla `python3 -c` is BANNED by `CLAUDE.md` scripting discipline.
 - **First 200 chars MUST contain** the technique (in ALL CAPS), the scene phrase, `"total duration around 3:00"` (or `"2:30 to 3:30 film cue"`), and the three uppercase trio names joined with ` + `.
 - **Timestamps within the 3-min arc template**: 0:00 / 0:25 / 1:00 / 2:00 / silence at 2:10 / return at 2:15 / ends at 2:50. Shift ±10s per section if the concept calls for it. Never go past 3:30.
 - **At least 4 inline "no X" negatives** in the style: always include `"No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."` at the end.
