@@ -286,6 +286,7 @@ mindmap
 | 239 | Indigo and Madder at the Last Light | hymn-and-fugato (chorale -> fugato eruption -> hymn return with fugato underneath) | A major -> B-flat major (half-step at hymn return) | 156 | ondes martenot + contrabass clarinet + bowed vibraphone |
 | 240 | Raking Salt Before the Tide Returns | scherzo-trio-scherzo (vigorous tutti -> lyric trio retreat -> tutti return with renewed force) | F minor -> F-sharp minor (half-step at scherzo return) | 157 | double bass + subcontrabass saxophone + handpan |
 | 241 | Iron and Glass at First Light | lament-bass ground (descending tetrachord ostinato with orchestrational accumulation) | G-sharp minor -> A minor (half-step at cycle 6 tutti) | 158 | baryton + bass flute + mbira |
+| 242 | Curtain Rises on a Whole Melody | hocket-and-fusion (stutter-weave hocket -> unison fusion arrival) | D-flat major -> D major (half-step at fusion) | 159 | upright bass + clavichord + piccolo |
 
 ## Next-cycle priorities
 

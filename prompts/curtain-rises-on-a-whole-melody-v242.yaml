@@ -1,0 +1,76 @@
+name: "curtain-rises-on-a-whole-melody"
+version: 242
+style: "Monumental dramatic film score using HOCKET-AND-FUSION in an opera-house-before-curtain scene, total duration around 3:00, featuring UPRIGHT BASS + CLAVICHORD + PICCOLO with full orchestra, D-flat major lifting to D major, 159 BPM. Two voices open alone: plucked UPRIGHT BASS anchors beats one and three while a piercing PICCOLO slices beats two and four — each rests so the other speaks, the melody existing only as their sum. A CLAVICHORD enters as third hocket voice; orchestral strings and woodwinds weave into the rhythmic mosaic, silences shrinking as the chain tightens. At the midpoint every line breaks to a sustained D-flat major chord held by full orchestra — the only moment freed from the stutter-weave. Then all voices lock into thundering unison: the melody arrives whole, key lifted to D major, brass and timpani and strings driving the overture theme together. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Curtain Rises on a Whole Melody"
+lyrics: |
+  [Short Instrumental Intro]
+  [Upright Bass Pizzicato Opens Alone]
+  The first plucked note lands on the silence; the next beat waits. A single bass voice stakes out the downbeats, leaving every other beat open.
+
+  [Piccolo Slices the Gaps]
+  A piccolo needle threads the empty beats — not harmony, not counterpoint, but the other half of one sentence. Together they form a phrase neither could speak alone.
+
+  [Clavichord Enters the Chain]
+  Shallow-key clavichord attacks fill the narrowing rests; orchestral strings and woodwinds cascade in, each voice claiming a sliver of the grid. The mosaic tightens beat by beat.
+
+  [Orchestral Chain Weaves Tighter]
+  The stutter-weave accelerates into near-continuous motion — every gap claimed, every silence answered. The full orchestra breathes as a single rhythmic engine.
+
+  [Sustained Chord — The Breath]
+  All motion stops. The full orchestra holds one sustained D-flat major chord, unhurried and resonant — the only undivided moment in the piece.
+
+  [Return to Unison — Key Lifts]
+  The chord releases and every voice locks into rhythmic unison. The melody arrives whole for the first time, key lifted to D major — brighter, wider, inevitable.
+
+  [Full Tutti — Overture Theme]
+  Brass, timpani, full strings, woodwinds, and the trio drive the overture theme together. The hocket's secret is revealed: it was always one melody, waiting to be spoken whole.
+
+  [Silence]
+
+  [End]
+instrumental: true
+exclude_styles: "ambient, new age, zen meditation, atonal, microtonal, EDM, electronic, synthesizer, rock, metal, acoustic guitar, Arabic, African, world music, folk, traditional, ethnic, baroque pastiche, period instrument, medieval sacred, sacred chant, choir, vocals, singing, lo-fi, free jazz, experimental noise"
+notes: |
+  HOCKET-AND-FUSION is a technique rooted in medieval European practice (13th–14th century) in which a single melodic line is divided between two or more voices that alternate in strict rests — each voice fills the other's silences, so the melody only exists as the sum of all parts. This prompt modernizes it with spatial call-and-answer staging and a structural arc that moves from sparse pair → expanding chain → sustained breath → full-orchestra rhythmic unison (the "fusion" payoff where the hocket resolves into a complete shared melody for the first time).
+
+  Concept source: hocket reframed for modern cinematic orchestra — pair-hocket opening, multi-voice chain expansion, single sustained chord as breath, then tutti rhythmic unison where all voices finally lock together and the melody arrives whole.
+
+  Composer-omission note: several major practitioners of hocket and interlocking rhythm in both Western and non-Western traditions were intentionally omitted per the hard blocklist (no composer or performer names permitted).
+
+  Duration strategy: UPRIGHT BASS is the body voice — continuous low plucked weight anchors the pulse and prevents Suno from losing rhythmic identity. The hocket structure itself enforces a constant rhythmic grid throughout, so even in the chain-expansion phase Suno has unambiguous beat placement. Full orchestra enters during the expansion and is indispensable at the fusion, giving the AI clear density escalation cues. Dense lyric sections (1-2 sentences each) encode the arc without over-specifying.
+
+  Trio roles and version gaps:
+  - UPRIGHT BASS (plucked strings, last v228, gap 14): BODY VOICE — pizzicato hocket bass, anchors beats 1 and 3 throughout.
+  - CLAVICHORD (keyboards, last v229, gap 13): MIDDLE HOCKET VOICE — rapid shallow-key attacks fill the narrowing gaps as the chain expands.
+  - PICCOLO (woodwinds, last v221, gap 21): TOP HOCKET VOICE — bright piercing accents on beats 2 and 4, the answering half of the seed phrase.
+
+  Key: D-flat major (home key; luminous and noble for the opera-house setting) → D major (half-step lift at the fusion; brighter arrival key). BPM: 159 (unused; brisk processional pulse suits the suspended-anticipation of an empty auditorium before the curtain rises).
+
+  Scene: an opera house before the curtain — empty auditorium, velvet curtain down, chairs arranged, programs on seats, instrument tuners offstage. The hocket arc maps the rituals of readiness: sparse pair = first violinist's A / one offstage horn answer; chain = more tuning, murmurs; sustained chord = conductor's downbeat; fusion / unison = the curtain rises and the overture theme arrives whole.
+
+  Cultural guard applied: hocket has both medieval European and West African interlocking-rhythm associations. All such descriptors were excluded from style and lyrics — no "motet," no "sacred chant," no "African," no "West African," no "polyrhythmic," no "ethnic," no "folk," no "traditional," no "world music." The technique is described purely as "stutter-weave," "rhythmic mosaic," and "rhythmic unison." "hocket" appears only as a neutral technique label.
+
+  Style char count: 947.
+tags:
+  - orchestral-hocket-and-fusion
+  - hocket-and-fusion
+  - technique-new
+  - upright-bass
+  - clavichord
+  - piccolo
+  - revival-upright-bass-14-gap
+  - revival-clavichord-13-gap
+  - revival-piccolo-21-gap
+  - 159bpm
+  - new-bpm
+  - d-flat-major
+  - d-major
+  - key-modulation
+  - opera-house-before-curtain-scene
+  - duration-3min
+  - research-driven
+  - new-technique
+  - pair-hocket
+  - chain-expansion
+  - rhythmic-unison-fusion
+  - full-orchestra
