@@ -1,0 +1,95 @@
+name: "crest-of-the-first-light"
+version: 256
+title: "Crest of the First Light"
+instrumental: true
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, horror stinger, trailer music, cinematic trailer, folk, traditional, ethnic, gypsy, klezmer"
+
+style: "Cold pre-dawn rockface and breath visible at altitude — Hollywood scoring stage presence, Decca-tree wide strings in the ascent, warm tape saturation lending the dawn its amber weight. Modern cinematic film cue in F-sharp minor climbing to F-sharp major at the ridge crest, 165 BPM. Ondes martenot threads the rope-line melody, a sustained spectral tone pulling upward through each handhold; french horn voices the climber's breath in the cold pre-dawn; subcontrabass saxophone grounds the stone weight beneath both. Tension accumulates pitch by pitch, a full silence holds the final reach, then the mode flips bright as the eastern horizon opens in horizontal gold — orchestration expands, ondes martenot sustains the long melodic light, french horn sings at the summit, subcontrabass saxophone holds the mountain as the cloud-sea below opens into infinite distance. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo subcontrabass saxophone alone, a slow low oscillation in F-sharp minor, the rock face cold and dark before the climb, 8 bars]
+  [Cold Ascent: french horn enters with the breath-phrase, ondes martenot threads the first upward rope-line above both, all three voices orient to the wall, 16 bars]
+  [Vertical Pitch: the climbing theme develops — ondes martenot pulling higher, french horn holding steady exertion, subcontrabass saxophone the immovable stone ground, 24 bars]
+  [Steeper Ground: density tightens, the rope-line melody climbs without resting, gloves against cold rock, french horn breath shortens to each move, 24 bars]
+  [Pre-Build: pace locks in, subcontrabass saxophone doubles the anchor figure, the summit cornice is visible above against the pale sky, 16 bars]
+  [Build: all three voices press upward without release — ondes martenot traces the rope-line in long sustained arcs, french horn pushes the climber's exertion to its limit, subcontrabass saxophone cycles the stone-weight figure with increasing density, the last vertical pitch before the ridge, 48 bars]
+  [Silence: full ensemble stops — the final reach before the cornice, glove on cold rock, breath held, nothing moves, 8 bars]
+  [Drop: mode flips to F-sharp major as the ridge crest is crossed and the eastern horizon opens — orchestration expands into wide stereo, ondes martenot sustains the long melodic light across the full horizon, french horn sings bright and wide in unison with the gold, subcontrabass saxophone holds the mountain steady beneath as the cloud-sea below opens into infinite distance, 48 bars]
+  [Summit Expanse: the major-key theme fully manifest, orchestration inhabits the breadth of the open sky — ondes martenot sustains the arc of light, french horn breathes freely at altitude, subcontrabass saxophone the deep mountain root unchanged, 40 bars]
+  [Coda: ondes martenot alone sustaining the final melodic arc of light, french horn fades to a breath, subcontrabass saxophone releases last into the open sky, 16 bars]
+  [End]
+
+notes: |
+  CREST OF THE FIRST LIGHT — direct test of the inverse-arc hypothesis against v255
+  ("Limen Descensus," 4:09 render). Where v255 descended from E-flat minor to E minor
+  (same modal darkness, half-step lift), v256 ascends from F-sharp minor to F-sharp major
+  at the identical Build/Silence/Drop pivot — same tonic, mode flips bright. The question
+  is whether the playbook's emotional-debt architecture works equally for triumphant
+  resolution as for threshold dread.
+
+  The technique is modern Hollywood cinematic scoring: a directed tonal arc (ascending
+  heroic) shaped by register density and sustained melodic line rather than electronic
+  texture, culminating in a parallel-major arrival at the Drop that restates the same
+  melodic shape in light. The film-scoring tradition this echoes goes unnamed per blocklist
+  discipline.
+
+  Concept source: direct inverse-arc test — v255 hit 4:09 with descent into minor; same
+  architecture now tests ascending into parallel major.
+
+  Duration strategy: 165 BPM sits just above the proven 130–160 band; per move 8, fast
+  BPM handles bar counts efficiently. 248 total bars targets 4:00–4:45 wall-clock.
+  Build/Silence/Drop pivot sits at bars 108–164 of 248 (63–66% of total), within the
+  60–70% target. Production tokens used: "Hollywood scoring stage presence," "Decca-tree
+  wide strings," "warm tape saturation." Parametrized colon-syntax lyrics with explicit
+  bar counts scaffold the render (v248 breakthrough). Sentence case throughout,
+  atmospheric-first opening with the scene anchor in the first clause, five inline
+  negatives at end of style.
+
+  Trio body-voice check: 2 body voices (french horn + subcontrabass saxophone) + 1
+  spectral (ondes martenot) — within the playbook's one-spectral ceiling. Ondes martenot
+  is borderline body in cinematic context as it sustains long melodic lines.
+
+  Trio roles and revival gaps:
+  - Ondes martenot: last used v239, 17-version gap. The rope-line voice — sustained
+    spectral tone that threads the climbing melody upward through each handhold in the
+    minor ascent, then sustains the long arc of light at the summit in F-sharp major.
+  - French horn: last used v247, 9-version gap. The climber's exerted breath — open-bell
+    tone in pre-dawn cold, phrase-lengths that shorten as effort increases, then expand
+    freely at the summit when the mode flips.
+  - Subcontrabass saxophone: last used v240, 16-version gap. The immovable stone weight
+    — deep slow anchor throughout, the mountain that does not change register whether in
+    shadow or gold; holds the tonic ground in both minor and major.
+
+  Key F-sharp minor → F-sharp major: same tonic, mode flips bright at the Drop — the
+  parallel-major arrival is the summit. BPM 165: first use at this exact tempo in the
+  catalog, just above the proven 130–160 band. Scene: mountain ridgeline at dawn, cold
+  pre-dawn shadow giving way to eastern horizon in horizontal gold, cloud-sea below —
+  vertical effort breaking into horizontal revelation.
+
+  Final style char count: 937.
+
+tags:
+  - modern-cinematic-film-cue
+  - ondes-martenot
+  - french-horn
+  - subcontrabass-saxophone
+  - 165bpm
+  - f-sharp-minor
+  - f-sharp-major
+  - mountain-dawn-scene
+  - revival-ondes-martenot-17-gap
+  - revival-french-horn-9-gap
+  - revival-subcontrabass-saxophone-16-gap
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - build-silence-drop
+  - two-body-trio
+  - parametrized-lyrics
+  - production-tokens
+  - hollywood-cinematic-lane
+  - move-8-duration-push
+  - parallel-major-arrival
+  - inverse-arc-test
