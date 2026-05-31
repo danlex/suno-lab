@@ -285,6 +285,7 @@ mindmap
 | 238 | Cast in Bronze and Rung Once | thematic metamorphosis arc (single theme transformed across vulnerability/conflict/transfiguration) | B minor -> C minor -> C major (transfiguration in the parallel major) | 155 | cor anglais + french horn + harp |
 | 239 | Indigo and Madder at the Last Light | hymn-and-fugato (chorale -> fugato eruption -> hymn return with fugato underneath) | A major -> B-flat major (half-step at hymn return) | 156 | ondes martenot + contrabass clarinet + bowed vibraphone |
 | 240 | Raking Salt Before the Tide Returns | scherzo-trio-scherzo (vigorous tutti -> lyric trio retreat -> tutti return with renewed force) | F minor -> F-sharp minor (half-step at scherzo return) | 157 | double bass + subcontrabass saxophone + handpan |
+| 241 | Iron and Glass at First Light | lament-bass ground (descending tetrachord ostinato with orchestrational accumulation) | G-sharp minor -> A minor (half-step at cycle 6 tutti) | 158 | baryton + bass flute + mbira |
 
 ## Next-cycle priorities
 

@@ -1,0 +1,80 @@
+name: "iron-and-glass-at-first-light"
+version: 241
+title: "Iron and Glass at First Light"
+
+style: "LAMENT-BASS GROUND cinematic orchestral, glasshouse-at-sunrise, total duration around 3:00. BARYTON + BASS FLUTE + MBIRA in G-sharp minor at 158 BPM. Baryton opens cycle 1 alone (0:00), bowed low, the descending chromatic tetrachord falling through condensation-hung grey light. Cycle 2 (0:25): strings rise in climbing counter-melody above the inexorable bass. Cycle 3 (0:50): bass flute breathes low counterpoint as sun crests the iron rafters. Cycle 4 (1:15): woodwinds add contrapuntal lines; mbira plucks brittle metal-tine accents. Cycle 5 (1:40): brass enters, full orchestra gathering like light through glass. Cycle 6 (2:05): tutti peak — strings, brass, winds, timpani; key lifts half-step to A minor while the tetrachord descends relentlessly below. Cycle 7 (2:30): voices strip away until baryton alone closes the final descent. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Short Instrumental Intro — Baryton alone, first grey light, bare tetrachord descends]
+
+  [Cycle 1: Baryton Descends — bowed low register, chromatic tetrachord, dripping condensation]
+
+  [Cycle 2: Strings Rise Above — counter-melody climbs while bass grinds inexorably down]
+
+  [Cycle 3: Bass Flute Breathes — low cool counterpoint as sunlight crests the iron rafters]
+
+  [Cycle 4: Woodwinds Layer In — contrapuntal lines thicken; mbira brittle-tine accents spark]
+
+  [Cycle 5: Brass Section Enters — full orchestra gathering, light flooding the glass dome]
+
+  [Cycle 6: Tutti at Peak — strings, brass, winds, timpani blaze; key shifts half-step to A minor]
+
+  [Cycle 7: Voices Strip Away — density dissolves, baryton alone descends the last tetrachord]
+
+  [End — the gardener at the path's end, the dome glowing, the descent complete]
+
+instrumental: true
+
+exclude_styles: "Arabic, African, tribal, world music, ethnic, folk, traditional, spiritual, trance, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, ambient, experimental noise, free jazz, atonal, microtonal, quarter-tone, baroque-pastiche, period-instrument, harpsichord-continuo"
+
+notes: |
+  TECHNIQUE: The lament-bass ground is a Baroque structural device in which a short descending chromatic tetrachord — typically four to five pitches descending from tonic through chromatic passing tones to the dominant — is repeated continuously in the bass throughout the entire composition (six to eight cycles). Above this fixed gravitational line the upper voices vary freely in texture, density, and harmonic strain, creating inexhaustible structural tension as the bass never stops descending while the melody above strains upward. The device reached its height in 17th-century English and Italian vocal lament forms; it is used here as a purely instrumental formal engine, stripped of all vocal and period-instrument associations.
+
+  CONCEPT SOURCE: The descending chromatic tetrachord as repeating bass ostinato generates continuous motion-against-stasis drama — the bass descent is "gravity" and the upper voices are "resistance." Cycle-by-cycle orchestrational accumulation (solo → strings → woodwinds → brass → tutti → dissolution) maps directly onto the seven-cycle arc, giving Suno clear structural signals without relying on silence-before-climax.
+
+  COMPOSER OMISSION: Several 17th-century composers central to the lament-bass tradition cannot be named under this catalog's blocklist rules. Their omission is intentional and acknowledged.
+
+  DURATION STRATEGY: Target 2:30–3:30 (cue ~3:00) per v137+ override. BARYTON is the body voice — its low bowed weight provides a continuous foundation the model can follow through all seven cycles. The cycle-by-cycle accumulation (each cycle ~22–25 seconds) forces narrative continuity: solo → strings → winds → mbira → brass → tutti → dissolution. No silence-before-climax is used; structural climax is cycle 6 tutti density, emotional resolution is cycle 7's return to solo baryton. The bass tetrachord never stops, giving the model a rhythmic/harmonic anchor for the full 2:50–3:00 duration.
+
+  KEY DECISION: G-sharp minor home for cycles 1–5. At cycle 6 (2:05) the bass shifts a half-step up to A minor — a powerful surprise within an "inexorable" form, where the descent that seemed locked forever suddenly arrives a semitone higher and blazes with the tutti. The tetrachord continues its chromatic descent in A minor throughout cycle 6, then cycle 7 strips back to baryton alone finishing in A minor (the gardener at the end of the path, the day declared).
+
+  MBIRA GUARD: Mbira is described exclusively as "brittle metal-tine accents" and "thumb-plucked metal tine" throughout. No African, kalimba, trance, world, ethnic, folk, traditional, or spiritual language appears anywhere. The exclude_styles field explicitly blocks African, ethnic, folk, traditional, spiritual, and trance. This guard is enforced at both the prompt-language level and the exclusion level.
+
+  FEATURED TRIO:
+  - BARYTON (bowed strings, novelty_surface shows last v184, but v229 actually used baryton in trio — true gap is ~12 versions; novelty_surface data was stale): THE BODY VOICE. A viola-da-gamba-family instrument with sympathetic strings that vibrate beneath the bow-played upper strings, producing a resonant shimmering halo. It carries the descending tetrachord throughout all seven cycles — the gravitational anchor of the entire piece.
+  - BASS FLUTE (woodwinds, last v226, gap 15 — ×15): joins cycle 3. The bass flute's low-register breathy tone provides a cool, earthy countermelody — the sound of humid air moving through the conservatory as the sun climbs.
+  - MBIRA (metallic idiophones, last v214, gap 27 — ×27): joins cycle 4. Described as brittle thumb-plucked metal tine — its dry, percussive attack provides accents above the tetrachord without any cultural coding.
+
+  NOVELTY CLAIMS:
+  - BARYTON: bowed strings, nominal gap ~12 (v229 to v241) — true cycle revival; novelty_surface showed stale v184 entry
+  - BASS FLUTE: woodwinds, last v226, gap 15 (×15)
+  - MBIRA: metallic idiophones, last v214, gap 27 (×27 — deepest revival in this trio)
+  - BPM 158: unused in catalog (157 taken by v240, 156 by v239; 158 is new — verified against novelty_surface.json)
+  - Technique: LAMENT-BASS GROUND as formal principle — first use in catalog
+  - Scene: Victorian glasshouse (botanical conservatory) at sunrise — first use in catalog
+  - Trio: baryton + bass flute + mbira — new combination, never assembled
+  - Key arc: G-sharp minor → A minor (half-step lift embedded in bass-ground ostinato) — new key pairing
+
+  FINAL STYLE CHAR COUNT: 910
+
+tags:
+  - orchestral-lament-bass-ground
+  - lament-bass-ground
+  - descending-chromatic-tetrachord
+  - baryton
+  - bass-flute
+  - mbira
+  - 158bpm
+  - new-bpm
+  - g-sharp-minor
+  - a-minor
+  - glasshouse-at-sunrise-scene
+  - revival-baryton-12-gap
+  - revival-bass-flute-15-gap
+  - revival-mbira-27-gap
+  - new-technique
+  - full-orchestra-tutti
+  - cycle-accumulation
+  - duration-3min
+  - research-driven
+  - instrumental
