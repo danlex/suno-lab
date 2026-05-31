@@ -1,0 +1,100 @@
+name: "cortege-at-first-light"
+version: 252
+title: "Cortege at First Light"
+instrumental: true
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, trailer music, gypsy, klezmer, folk, ethnic, choral, operatic"
+
+style: "Cold mist on a frozen coastal road at dawn — slow stone-step gravity, breath visible in air, a gun carriage winding toward shore. Polished studio mix, deep low-end definition, tight chamber reverb. Dark ceremonial orchestral processional in G-sharp minor moving to A minor at the drop, 164 BPM. Ophicleide carries the deep conical brass pedal and slow ceremonial theme — weight and articulation wrapped in black crepe. Nyckelharpa delivers the bowed melodic thread with sympathetic string resonance, each note trailing a halo of undertone. Cimbalom provides sparse metallic hammer strikes, deliberate and cold, like a muffled bell marking each step. Low strings support throughout. The arc builds through gathering density, reaches a full-ensemble stop — no pad, no sustain, true silence — then the same theme returns bare in A minor, ophicleide and nyckelharpa alone. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo ophicleide stating the slow ceremonial theme in G-sharp minor, low strings below, 12 bars]
+  [Nyckelharpa Enters: nyckelharpa joins with the melodic thread, sympathetic resonance audible, 12 bars]
+  [Cimbalom Joins: cimbalom adds sparse hammer strikes, all three voices in slow processional, 16 bars]
+  [First Swell: low strings thicken, ophicleide deepens the pedal, nyckelharpa rises in register, 16 bars]
+  [Middle March: full ensemble in measured step, cimbalom marking the pulse, density steady, 24 bars]
+  [Build: cimbalom rolls thickening, ophicleide pedal pressing low, nyckelharpa tremolo climbing, 40 bars]
+  [Long Build: all three voices pressing upward together, low strings swelling behind, 40 bars]
+  [Silence: full ensemble stops, 8 bars of complete stillness, no pad, no sustain, nothing]
+  [Drop: theme returns bare in A minor, ophicleide forte and plain, nyckelharpa carrying the melody, cimbalom silent, 32 bars]
+  [Coda: nyckelharpa alone fades, single ophicleide low note beneath, 16 bars]
+  [End]
+
+notes: |
+  SLOW PROCESSIONAL WITH BUILD/SILENCE/DROP — v252 applies the v248 playbook while testing two
+  safe upgrades derived from research into top-performing Suno cinematic songs: (1) pushing
+  total duration toward 4:00–6:00 by extending bar counts across ten sections, and (2) using
+  a deliberate [Build] → [Silence] → [Drop] bracket stack at roughly the 65% mark to generate
+  the emotional contrast that frisson depends on.
+
+  The technique is a slow ceremonial processional arc — a dark march that accumulates weight
+  through density rather than tempo, reaches a structural rupture (true silence, no pad), then
+  releases into an exposed bare restatement. The half-step key lift (G-sharp minor to A minor)
+  at the drop compounds the exposure — same theme, slightly higher, suddenly more raw.
+  Concept source: per experiments/suno_top_songs_research.md, top Suno cinematic songs use the
+  [Build] → [Silence] → [Drop] bracket stack at the 60-70% mark for emotional contrast, and
+  push past the 3:00 default render.
+
+  No composer names cited per blocklist discipline — though this technique echoes British
+  Romantic ceremonial writing whose practitioners are not named here.
+
+  Trio roles and revival gaps:
+  - Ophicleide: gap 15 versions. Conical brass pedal — a pre-valve brass instrument with
+    darker timbre than tuba, more articulate than serpent. Carries the processional theme
+    throughout and leads the bare drop statement.
+  - Nyckelharpa: gap 21 versions. Bowed keyed fiddle with sympathetic resonance strings — the
+    melodic anchor and the emotional thread, its sympathetic strings giving every note a halo.
+    Carries the melody plainly in the exposed drop.
+  - Cimbalom: gap 21 versions. Hungarian hammered dulcimer — metallic, percussive, deliberate.
+    Marks the funeral pulse through the march sections, then goes silent at the drop, which
+    makes the absence audible.
+
+  Duration strategy: total bar count ~216 bars across ten sections (Intro 12 + Nyckelharpa
+  12 + Cimbalom 16 + First Swell 16 + Middle March 24 + Build 40 + Long Build 40 + Silence 8
+  + Drop 32 + Coda 16 = 216 bars). At 164 BPM in 4/4 that is approximately 3:17 of pure
+  notation time; with Suno's natural rubato on slow ceremonial material and the deliberate
+  silence gap, actual render should reach 4:00–5:00.
+
+  Playbook moves applied (v248/v249/v252 discoveries):
+  - Parametrized colon-syntax lyrics with bar counts (10 sections, longer bar counts than
+    standard)
+  - Production-mix tokens: "polished studio mix," "deep low-end definition," "tight chamber
+    reverb"
+  - Sentence case throughout style (no ALL-CAPS form labels)
+  - Atmospheric-first opening (cold-mist scene before any technique label)
+  - Two body voices (ophicleide brass, nyckelharpa bowed strings) plus one percussive body
+    voice (cimbalom) — no spectral voices
+  - Five inline negatives in style
+  - Blocklist verified clean: no monumental, massive, epic, spectacular, Dune, frisson, or
+    composer names
+
+  BPM 164: unused in catalog — new-bpm novelty.
+  Key G-sharp minor → A minor: half-step lift at the emotional rupture point — not used in
+  this exact pairing previously.
+  Scene: royal burial cortege, frozen coastal road, dawn fog, gun carriage, mourners, banners
+  damp from mist — highly specific sensory anchor, not a generic "funeral" scene.
+
+  Final style char count: 938.
+
+tags:
+  - slow-processional
+  - ophicleide
+  - nyckelharpa
+  - cimbalom
+  - 164bpm
+  - g-sharp-minor
+  - a-minor
+  - burial-cortege-at-dawn-scene
+  - revival-ophicleide-15-gap
+  - revival-nyckelharpa-21-gap
+  - revival-cimbalom-21-gap
+  - new-bpm
+  - new-technique
+  - build-silence-drop-stack
+  - duration-4min-target
+  - parametrized-lyrics
+  - production-tokens
+  - two-body-trio
+  - duration-3min
+  - research-driven
+  - instrumental
