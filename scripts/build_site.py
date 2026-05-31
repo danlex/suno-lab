@@ -76,6 +76,11 @@ def main():
         f.write(INDEX_HTML_TEMPLATE)
     print(f"wrote {out_html}")
 
+    out_analytics = DOCS_DIR / "analytics.html"
+    with open(out_analytics, "w", encoding="utf-8") as f:
+        f.write(ANALYTICS_HTML_TEMPLATE)
+    print(f"wrote {out_analytics}")
+
 
 INDEX_HTML_TEMPLATE = r"""<!doctype html>
 <html lang="en">
@@ -243,6 +248,7 @@ INDEX_HTML_TEMPLATE = r"""<!doctype html>
     <div>Total experiments: <strong id="count">—</strong></div>
     <div>Latest version: <strong id="latest">—</strong></div>
     <div>Model: <strong>Suno v5.5</strong></div>
+    <div><a href="analytics.html" style="color: var(--accent-2); text-decoration: none;">→ Analytics</a></div>
   </div>
 </header>
 
@@ -616,6 +622,431 @@ clearAllEl.addEventListener('click', () => {
   renderChips();
   applyFilters();
 });
+
+load();
+</script>
+</body>
+</html>
+"""
+
+
+ANALYTICS_HTML_TEMPLATE = r"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catalog Analytics · Suno Music Prompt Laboratory</title>
+<meta name="description" content="Catalog intelligence for the Suno Music Prompt Laboratory: technique family distribution, version timeline, instrument lineage, BPM and key trends across 240+ iterative experiments.">
+<meta name="theme-color" content="#ff6a3d">
+<link rel="canonical" href="https://suno.alexandrudan.com/analytics.html">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --bg-soft: #0e0e16;
+    --panel: #15151e;
+    --panel-soft: #11111a;
+    --text: #e8e8f0;
+    --muted: #7a7a90;
+    --muted-2: #56566a;
+    --accent: #ff6a3d;
+    --accent-2: #ffb347;
+    --border: #26263a;
+    --border-soft: #1c1c2a;
+    /* Technique family palette */
+    --fam-formal: #6c8cff;
+    --fam-narrative: #ff8a55;
+    --fam-harmonic: #57d49a;
+    --fam-rhythmic: #ffd166;
+    --fam-textural: #c084fc;
+    --fam-other: #7a7a90;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", Segoe UI, Roboto, sans-serif; -webkit-font-smoothing: antialiased; }
+  body { max-width: 1200px; margin: 0 auto; padding: 48px 24px 96px; }
+  header { margin-bottom: 36px; }
+  .brand { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+  .brand-mark { color: var(--muted); font-size: 0.85rem; text-decoration: none; }
+  .brand-mark:hover { color: var(--accent); }
+  h1 { font-size: 2.2rem; margin: 4px 0 6px; background: linear-gradient(90deg, var(--accent), var(--accent-2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -0.02em; }
+  .subtitle { color: var(--muted); margin: 0 0 16px; font-size: 0.98rem; }
+
+  section { background: var(--panel-soft); border: 1px solid var(--border-soft); border-radius: 14px; padding: 22px 24px; margin-bottom: 22px; }
+  h2 { font-size: 1.15rem; margin: 0 0 4px; color: var(--text); letter-spacing: -0.01em; }
+  .section-sub { color: var(--muted); font-size: 0.85rem; margin: 0 0 18px; max-width: 680px; line-height: 1.5; }
+
+  /* Stat cards */
+  .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+  .stat { background: var(--bg-soft); border: 1px solid var(--border-soft); border-radius: 10px; padding: 14px 16px; }
+  .stat-label { color: var(--muted); font-size: 0.7rem; letter-spacing: 0.07em; text-transform: uppercase; margin-bottom: 6px; }
+  .stat-value { color: var(--text); font-size: 1.7rem; font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; line-height: 1; }
+  .stat-sub { color: var(--muted-2); font-size: 0.78rem; margin-top: 4px; }
+
+  /* Timeline */
+  .timeline-wrap { background: var(--bg-soft); border: 1px solid var(--border-soft); border-radius: 10px; padding: 16px; overflow-x: auto; }
+  .timeline-svg { width: 100%; height: 70px; display: block; }
+  .timeline-axis { color: var(--muted); font-size: 0.7rem; font-family: "SF Mono", Menlo, monospace; }
+
+  /* Family legend */
+  .legend { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 12px; }
+  .legend-item { display: inline-flex; align-items: center; gap: 6px; font-size: 0.78rem; color: var(--muted); }
+  .legend-swatch { width: 11px; height: 11px; border-radius: 3px; display: inline-block; }
+
+  /* Family distribution bars */
+  .fam-bar-row { display: grid; grid-template-columns: 180px 1fr 60px; gap: 12px; align-items: center; margin: 6px 0; }
+  .fam-bar-label { color: var(--text); font-size: 0.86rem; font-weight: 500; }
+  .fam-bar-track { background: var(--bg-soft); height: 22px; border-radius: 5px; overflow: hidden; }
+  .fam-bar-fill { height: 100%; border-radius: 5px 0 0 5px; }
+  .fam-bar-count { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; text-align: right; }
+
+  /* Instrument table */
+  .inst-table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+  .inst-table th { text-align: left; color: var(--muted); font-weight: 500; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; padding: 6px 10px; border-bottom: 1px solid var(--border-soft); }
+  .inst-table td { padding: 7px 10px; border-bottom: 1px solid var(--border-soft); color: var(--text); }
+  .inst-table tr:last-child td { border-bottom: none; }
+  .inst-table .num { font-variant-numeric: tabular-nums; color: var(--muted); }
+  .gap-deep { color: var(--accent-2); font-weight: 600; }
+  .gap-very-deep { color: var(--accent); font-weight: 700; }
+  .inst-name { font-family: "SF Mono", Menlo, monospace; font-size: 0.82rem; }
+  .inst-family { color: var(--muted); font-size: 0.74rem; font-family: "SF Mono", Menlo, monospace; }
+
+  /* BPM scatter */
+  .scatter-wrap { background: var(--bg-soft); border: 1px solid var(--border-soft); border-radius: 10px; padding: 12px; }
+  .scatter-svg { width: 100%; height: 320px; display: block; }
+  .scatter-grid { stroke: var(--border-soft); stroke-width: 1; }
+  .scatter-axis-label { fill: var(--muted); font-size: 11px; font-family: "SF Mono", Menlo, monospace; }
+  .scatter-dot { fill: var(--accent); opacity: 0.7; }
+
+  /* Key heatmap */
+  .keys-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 4px; max-width: 720px; }
+  .key-cell { background: var(--bg-soft); border: 1px solid var(--border-soft); padding: 8px 6px; border-radius: 6px; text-align: center; font-size: 0.78rem; color: var(--text); font-family: "SF Mono", Menlo, monospace; cursor: default; transition: background 0.15s; }
+  .key-cell.count-0 { opacity: 0.3; }
+  .key-cell .count { display: block; color: var(--muted); font-size: 0.7rem; margin-top: 2px; }
+  .key-row-label { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.07em; margin: 14px 0 6px; }
+
+  footer { margin-top: 48px; text-align: center; color: var(--muted); font-size: 0.84rem; border-top: 1px solid var(--border); padding-top: 22px; }
+  footer a { color: var(--accent-2); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  @media (max-width: 720px) {
+    body { padding: 32px 14px 72px; }
+    h1 { font-size: 1.7rem; }
+    .fam-bar-row { grid-template-columns: 130px 1fr 48px; gap: 8px; }
+    .keys-grid { grid-template-columns: repeat(6, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <a href="index.html" class="brand-mark">← Catalog</a>
+  </div>
+  <h1>Catalog Analytics</h1>
+  <p class="subtitle">Cross-version intelligence on the Suno Music Prompt Laboratory — technique families, instrument lineage, tempo and key trends across all <span id="totalVersions">—</span> versions.</p>
+</header>
+
+<section>
+  <h2>Snapshot</h2>
+  <p class="section-sub">High-level rollups across the whole catalog.</p>
+  <div class="stat-grid" id="snapshotStats"></div>
+</section>
+
+<section>
+  <h2>Version timeline</h2>
+  <p class="section-sub">One bar per version, colored by technique family. Hover for the title.</p>
+  <div class="timeline-wrap">
+    <svg id="timeline" class="timeline-svg" preserveAspectRatio="none"></svg>
+  </div>
+  <div class="legend" id="famLegend"></div>
+</section>
+
+<section>
+  <h2>Technique families</h2>
+  <p class="section-sub">How techniques cluster across the catalog — formal architecture, narrative/dramatic, harmonic device, rhythmic/temporal, textural/sound-design, other.</p>
+  <div id="famBars"></div>
+</section>
+
+<section>
+  <h2>Instrument lineage</h2>
+  <p class="section-sub">Top instruments by total appearances, with gap (versions since last use) and family. Deep-gap instruments are revival candidates — highlighted in orange.</p>
+  <div style="overflow-x: auto;">
+    <table class="inst-table">
+      <thead>
+        <tr><th>Instrument</th><th>Family</th><th>Uses</th><th>Last version</th><th>Gap</th></tr>
+      </thead>
+      <tbody id="instTable"></tbody>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>BPM over time</h2>
+  <p class="section-sub">Each dot is one version (x-axis) at its BPM (y-axis). Bands of clustering reveal tempo eras.</p>
+  <div class="scatter-wrap">
+    <svg id="bpmScatter" class="scatter-svg"></svg>
+  </div>
+</section>
+
+<section>
+  <h2>Key distribution</h2>
+  <p class="section-sub">Each cell is one key. Brighter = more uses. Click-target labels show the count.</p>
+  <div class="key-row-label">Major keys</div>
+  <div class="keys-grid" id="majorKeys"></div>
+  <div class="key-row-label">Minor keys</div>
+  <div class="keys-grid" id="minorKeys"></div>
+</section>
+
+<footer>
+  Built by <a href="https://alexandrudan.com">alexandrudan.com</a> &middot; <a href="index.html">Browse the catalog</a> &middot; <a href="https://github.com/danlex/suno-lab">github.com/danlex/suno-lab</a>
+</footer>
+
+<script>
+const FAMILY_RULES = [
+  { fam: 'formal', label: 'Formal architecture', color: 'var(--fam-formal)', match: ['cantus', 'passacaglia', 'chaconne', 'ritornello', 'hymn', 'cabaletta', 'scherzo', 'double-variation', 'lament-bass', 'hocket', 'fugue', 'canon', 'rondo', 'sonata', 'arch', 'concerto', 'theme-and-variations', 'french-overture', 'ricercare', 'passamezzo'] },
+  { fam: 'narrative', label: 'Narrative / dramatic', color: 'var(--fam-narrative)', match: ['threnody', 'apotheosis', 'climax', 'metamorphosis', 'thematic-meta', 'siciliano'] },
+  { fam: 'harmonic', label: 'Harmonic device', color: 'var(--fam-harmonic)', match: ['quartal', 'klangfarben', 'spectral', 'twelve-tone'] },
+  { fam: 'rhythmic', label: 'Rhythmic / temporal', color: 'var(--fam-rhythmic)', match: ['metric', 'alap', 'velocity', 'perpetuum', 'tarantella', 'isorhythm', 'stile-concitato', 'asymmetric-metric', 'col-legno'] },
+  { fam: 'textural', label: 'Textural / sound-design', color: 'var(--fam-textural)', match: ['granular', 'musique-concrete', 'additive', 'micropolyphony', 'minimalism', 'dissolution', 'aleatoric', 'stochastic'] },
+];
+
+const FAMILY_INFO = { formal: { color: 'var(--fam-formal)', label: 'Formal architecture' }, narrative: { color: 'var(--fam-narrative)', label: 'Narrative / dramatic' }, harmonic: { color: 'var(--fam-harmonic)', label: 'Harmonic device' }, rhythmic: { color: 'var(--fam-rhythmic)', label: 'Rhythmic / temporal' }, textural: { color: 'var(--fam-textural)', label: 'Textural / sound-design' }, other: { color: 'var(--fam-other)', label: 'Other' } };
+
+const INSTRUMENT_VOCAB = {
+  'harp': 'plucked_strings', 'tubular-bells': 'mallet_perc', 'viola-da-gamba': 'bowed_strings',
+  'cor-anglais': 'woodwinds', 'hurdy-gurdy': 'bowed_strings', 'handpan': 'metallic_idiophones',
+  'bass-flute': 'woodwinds', 'celesta': 'keyboards', 'glockenspiel': 'mallet_perc',
+  'contrabass-clarinet': 'woodwinds', 'ondes-martenot': 'early_electronic', 'music-box': 'keyboards',
+  'prepared-piano': 'keyboards', 'upright-bass': 'plucked_strings', 'subcontrabass-saxophone': 'woodwinds',
+  'ophicleide': 'brass', 'baryton': 'bowed_strings', 'clavichord': 'keyboards',
+  'cristal-baschet': 'bowed_strings', 'tenor-saxophone': 'woodwinds', 'french-horn': 'brass',
+  'nyckelharpa': 'bowed_strings', 'bass-trombone': 'brass', 'cimbalom': 'metallic_idiophones',
+  'duduk': 'woodwinds', 'cornet': 'brass', 'singing-saw': 'metallic_idiophones',
+  'steel-tongue-drum': 'metallic_idiophones', 'contrabassoon': 'woodwinds', 'felt-piano': 'keyboards',
+  'oboe-d-amore': 'woodwinds', 'mellotron': 'keyboards', 'flugelhorn': 'brass', 'tuba': 'brass',
+  'harpsichord': 'keyboards', 'vibraphone': 'mallet_perc', 'viola': 'bowed_strings',
+  'bass-clarinet': 'woodwinds', 'marimba': 'mallet_perc', 'glass-marimba': 'mallet_perc',
+  'bowed-vibraphone': 'mallet_perc', 'double-bass': 'bowed_strings', 'waterphone': 'metallic_idiophones',
+  'theremin': 'early_electronic', 'chalumeau': 'woodwinds', 'crotales': 'mallet_perc',
+  'trumpet': 'brass', 'trombone': 'brass', 'piccolo': 'woodwinds', 'clarinet': 'woodwinds',
+  'oboe': 'woodwinds', 'bandoneon': 'free_reed', 'shakuhachi': 'woodwinds', 'erhu': 'bowed_strings',
+  'frame-drums': 'percussion', 'taiko': 'percussion', 'balafon': 'mallet_perc', 'kora': 'plucked_strings',
+  'guqin': 'plucked_strings', 'sarangi': 'bowed_strings', 'nail-violin': 'metallic_idiophones',
+  'steelpan': 'mallet_perc', 'mbira': 'metallic_idiophones', 'glass-harmonica': 'bowed_strings',
+};
+
+const KEY_RE = /^([a-g])(-flat|-sharp)?-(minor|major)$/;
+const MAJOR_KEYS = ['c-major','c-sharp-major','d-flat-major','d-major','d-sharp-major','e-flat-major','e-major','f-major','f-sharp-major','g-flat-major','g-major','g-sharp-major','a-flat-major','a-major','a-sharp-major','b-flat-major','b-major'];
+const MINOR_KEYS = ['c-minor','c-sharp-minor','d-flat-minor','d-minor','d-sharp-minor','e-flat-minor','e-minor','f-minor','f-sharp-minor','g-minor','g-sharp-minor','a-flat-minor','a-minor','a-sharp-minor','b-flat-minor','b-minor'];
+
+function prettyKey(k) {
+  const m = k.match(KEY_RE);
+  if (!m) return k;
+  const acc = m[2] === '-flat' ? '♭' : m[2] === '-sharp' ? '♯' : '';
+  return `${m[1].toUpperCase()}${acc}${m[3] === 'minor' ? 'm' : ''}`;
+}
+
+function prettySlug(s) {
+  return s.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function classifyTechnique(t) {
+  if (!t) return 'other';
+  const s = t.toLowerCase();
+  for (const r of FAMILY_RULES) {
+    if (r.match.some(m => s.includes(m))) return r.fam;
+  }
+  return 'other';
+}
+
+function parseTags(g) {
+  const tags = (g || []).map(t => String(t).toLowerCase());
+  let technique = null, bpm = null, key = null;
+  const instruments = [];
+  for (const t of tags) {
+    if (!technique && (t.endsWith('-technique-new') || t.startsWith('orchestral-'))) {
+      technique = t.replace(/^orchestral-/, '').replace(/-technique-new$/, '');
+    }
+    if (!bpm) {
+      const m = t.match(/^(\d{2,3})bpm$/);
+      if (m) bpm = parseInt(m[1]);
+    }
+    if (!key && KEY_RE.test(t)) key = t;
+    if (INSTRUMENT_VOCAB[t]) instruments.push(t);
+  }
+  return { technique, bpm, key, instruments };
+}
+
+async function load() {
+  const songs = await fetch('songs.json').then(r => r.json());
+  songs.sort((a, b) => (a.v || 0) - (b.v || 0));  // ascending for timeline
+  const versions = songs.map(s => {
+    const parsed = parseTags(s.g);
+    return { ...s, parsed, family: classifyTechnique(parsed.technique) };
+  });
+  document.getElementById('totalVersions').textContent = versions.length;
+  renderSnapshot(versions);
+  renderTimeline(versions);
+  renderFamilyBars(versions);
+  renderInstruments(versions);
+  renderBPMScatter(versions);
+  renderKeyHeatmap(versions);
+}
+
+function renderSnapshot(versions) {
+  const minV = versions[0].v, maxV = versions[versions.length - 1].v;
+  const techniques = new Set(versions.map(v => v.parsed.technique).filter(Boolean));
+  const instruments = new Set();
+  versions.forEach(v => v.parsed.instruments.forEach(i => instruments.add(i)));
+  const bpms = versions.map(v => v.parsed.bpm).filter(x => x != null);
+  const meanBpm = bpms.length ? Math.round(bpms.reduce((a,b) => a+b, 0) / bpms.length) : '—';
+  const keys = new Set(versions.map(v => v.parsed.key).filter(Boolean));
+  const famCounts = {};
+  versions.forEach(v => { famCounts[v.family] = (famCounts[v.family] || 0) + 1; });
+  const topFam = Object.entries(famCounts).sort((a,b) => b[1] - a[1])[0];
+
+  document.getElementById('snapshotStats').innerHTML = `
+    <div class="stat"><div class="stat-label">Versions</div><div class="stat-value">${versions.length}</div><div class="stat-sub">v${minV} → v${maxV}</div></div>
+    <div class="stat"><div class="stat-label">Unique techniques</div><div class="stat-value">${techniques.size}</div><div class="stat-sub">Top family: <strong style="color: ${FAMILY_INFO[topFam[0]].color}">${FAMILY_INFO[topFam[0]].label}</strong> (${topFam[1]})</div></div>
+    <div class="stat"><div class="stat-label">Unique instruments</div><div class="stat-value">${instruments.size}</div><div class="stat-sub">tracked across catalog</div></div>
+    <div class="stat"><div class="stat-label">Mean BPM</div><div class="stat-value">${meanBpm}</div><div class="stat-sub">${bpms.length} versions with BPM tag</div></div>
+    <div class="stat"><div class="stat-label">Keys explored</div><div class="stat-value">${keys.size}<span style="color: var(--muted); font-size: 1rem; font-weight: 400;">/24</span></div><div class="stat-sub">of all major+minor pairs</div></div>
+  `;
+}
+
+function renderTimeline(versions) {
+  const svg = document.getElementById('timeline');
+  const w = svg.clientWidth || 1100;
+  const h = 70;
+  svg.setAttribute('viewBox', `0 0 ${w} ${h}`);
+  const n = versions.length;
+  const barW = Math.max(1.5, w / n - 0.5);
+  let html = '';
+  versions.forEach((v, i) => {
+    const x = i / n * w;
+    const fill = FAMILY_INFO[v.family].color;
+    const title = `v${v.v} · ${v.t || ''} · ${v.parsed.technique ? prettySlug(v.parsed.technique) : 'unclassified'}`;
+    html += `<rect x="${x.toFixed(2)}" y="14" width="${barW.toFixed(2)}" height="42" fill="${fill}" opacity="0.85"><title>${title}</title></rect>`;
+  });
+  // axis labels
+  html += `<text x="0" y="68" class="timeline-axis">v${versions[0].v}</text>`;
+  html += `<text x="${w-1}" y="68" class="timeline-axis" text-anchor="end">v${versions[n-1].v}</text>`;
+  svg.innerHTML = html;
+
+  // Legend
+  const legend = document.getElementById('famLegend');
+  legend.innerHTML = Object.entries(FAMILY_INFO).map(([k, v]) =>
+    `<span class="legend-item"><span class="legend-swatch" style="background:${v.color}"></span>${v.label}</span>`
+  ).join('');
+}
+
+function renderFamilyBars(versions) {
+  const counts = {};
+  versions.forEach(v => { counts[v.family] = (counts[v.family] || 0) + 1; });
+  const total = versions.length;
+  const order = ['formal', 'narrative', 'harmonic', 'rhythmic', 'textural', 'other'];
+  const max = Math.max(...Object.values(counts));
+  const html = order.map(fam => {
+    const c = counts[fam] || 0;
+    const pct = max ? (c / max * 100).toFixed(1) : 0;
+    const pctOfTotal = (c / total * 100).toFixed(0);
+    return `
+      <div class="fam-bar-row">
+        <div class="fam-bar-label">${FAMILY_INFO[fam].label}</div>
+        <div class="fam-bar-track"><div class="fam-bar-fill" style="width: ${pct}%; background: ${FAMILY_INFO[fam].color};"></div></div>
+        <div class="fam-bar-count">${c} <span style="color: var(--muted-2)">(${pctOfTotal}%)</span></div>
+      </div>
+    `;
+  }).join('');
+  document.getElementById('famBars').innerHTML = html;
+}
+
+function renderInstruments(versions) {
+  const maxV = Math.max(...versions.map(v => v.v));
+  const usage = new Map();  // name -> {count, lastV}
+  versions.forEach(v => {
+    v.parsed.instruments.forEach(inst => {
+      const prev = usage.get(inst) || { count: 0, lastV: 0 };
+      usage.set(inst, { count: prev.count + 1, lastV: Math.max(prev.lastV, v.v) });
+    });
+  });
+  const rows = [...usage.entries()].map(([name, info]) => ({
+    name, family: INSTRUMENT_VOCAB[name] || 'other',
+    count: info.count, lastV: info.lastV, gap: maxV - info.lastV
+  })).sort((a, b) => b.count - a.count || b.gap - a.gap);
+
+  // Show top 30
+  const html = rows.slice(0, 30).map(r => {
+    let gapClass = '';
+    if (r.gap >= 25) gapClass = 'gap-very-deep';
+    else if (r.gap >= 15) gapClass = 'gap-deep';
+    return `<tr>
+      <td><span class="inst-name">${prettySlug(r.name)}</span></td>
+      <td><span class="inst-family">${r.family}</span></td>
+      <td class="num">${r.count}</td>
+      <td class="num">v${r.lastV}</td>
+      <td class="num ${gapClass}">${r.gap}</td>
+    </tr>`;
+  }).join('');
+  document.getElementById('instTable').innerHTML = html;
+}
+
+function renderBPMScatter(versions) {
+  const svg = document.getElementById('bpmScatter');
+  const W = svg.clientWidth || 1100;
+  const H = 320;
+  const padL = 50, padR = 16, padT = 14, padB = 36;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+
+  const data = versions.map(v => ({ x: v.v, y: v.parsed.bpm })).filter(d => d.y != null);
+  if (!data.length) { svg.innerHTML = ''; return; }
+  const xMin = Math.min(...data.map(d => d.x));
+  const xMax = Math.max(...data.map(d => d.x));
+  const yMin = Math.min(60, Math.min(...data.map(d => d.y)));
+  const yMax = Math.max(200, Math.max(...data.map(d => d.y)));
+  const sx = x => padL + (x - xMin) / (xMax - xMin || 1) * (W - padL - padR);
+  const sy = y => padT + (1 - (y - yMin) / (yMax - yMin || 1)) * (H - padT - padB);
+
+  let html = '';
+  // grid lines (horizontal: every 20 BPM)
+  for (let y = 60; y <= 200; y += 20) {
+    const py = sy(y);
+    html += `<line class="scatter-grid" x1="${padL}" y1="${py}" x2="${W - padR}" y2="${py}"/>`;
+    html += `<text class="scatter-axis-label" x="${padL - 6}" y="${py + 4}" text-anchor="end">${y}</text>`;
+  }
+  // x axis
+  html += `<line class="scatter-grid" x1="${padL}" y1="${H - padB}" x2="${W - padR}" y2="${H - padB}"/>`;
+  // x ticks every ~25 versions
+  const step = Math.max(20, Math.round((xMax - xMin) / 8));
+  for (let v = Math.ceil(xMin / step) * step; v <= xMax; v += step) {
+    const px = sx(v);
+    html += `<text class="scatter-axis-label" x="${px}" y="${H - padB + 18}" text-anchor="middle">v${v}</text>`;
+  }
+  // dots
+  data.forEach(d => {
+    html += `<circle class="scatter-dot" cx="${sx(d.x).toFixed(1)}" cy="${sy(d.y).toFixed(1)}" r="3"><title>v${d.x}: ${d.y} BPM</title></circle>`;
+  });
+  // y axis label
+  html += `<text class="scatter-axis-label" x="${padL - 38}" y="${H/2}" text-anchor="middle" transform="rotate(-90 ${padL - 38} ${H/2})">BPM</text>`;
+  svg.innerHTML = html;
+}
+
+function renderKeyHeatmap(versions) {
+  const counts = new Map();
+  versions.forEach(v => { if (v.parsed.key) counts.set(v.parsed.key, (counts.get(v.parsed.key) || 0) + 1); });
+  const max = Math.max(...counts.values(), 1);
+  const renderRow = (keys, target) => {
+    const html = keys.map(k => {
+      const c = counts.get(k) || 0;
+      const alpha = c / max;
+      const bg = c > 0 ? `rgba(255, 106, 61, ${0.15 + 0.65 * alpha})` : 'var(--bg-soft)';
+      const cls = c === 0 ? 'count-0' : '';
+      return `<div class="key-cell ${cls}" style="background: ${bg};">${prettyKey(k)}<span class="count">${c}</span></div>`;
+    }).join('');
+    document.getElementById(target).innerHTML = html;
+  };
+  renderRow(MAJOR_KEYS, 'majorKeys');
+  renderRow(MINOR_KEYS, 'minorKeys');
+}
 
 load();
 </script>
