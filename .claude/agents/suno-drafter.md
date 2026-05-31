@@ -33,7 +33,7 @@ All of these, explicitly in the prompt:
 - **3 instruments only** in the featured trio. No 4th.
 - **Key and BPM** both appear in the style.
 - **Conversational flowing prose.** Not tag lists. Sentences with verbs.
-- **No blocklist words.** Never: `Dune`, `desert`, `sand`, `oasis`, `epic`, `massive`, `explosion`, `wall of sound`, `frisson`, `appoggiatura`, `Shepard tone`, `melisma`, or any composer or performer name (Machaut, Dufay, Xenakis, Schoenberg, Webern, Pärt, Ligeti, Reich, Glass, Riley, Bach, Mozart, Mahler, Stravinsky, Debussy, Ravel, Messiaen, Cage, Feldman — do not name any, ever).
+- **No blocklist words.** Never: `Dune`, `desert`, `sand`, `oasis`, `epic`, `massive`, `explosion`, `wall of sound`, `frisson`, `appoggiatura`, `Shepard tone`, `melisma`, `capo`, `da capo`, `DC`, or any composer or performer name (Machaut, Dufay, Xenakis, Schoenberg, Webern, Pärt, Ligeti, Reich, Glass, Riley, Bach, Mozart, Mahler, Stravinsky, Debussy, Ravel, Messiaen, Cage, Feldman — do not name any, ever). Why `capo`: Suno's auto-classifier matched "DA CAPO" against the German rapper CAPO in v246 and injected "German Rap, Hip Hop" into the style tags. Use English form labels — "ABA," "ABA-with-ornamented-return," "ternary-with-coda" — never the Italian.
 
 ## 3-minute arc template (default)
 
