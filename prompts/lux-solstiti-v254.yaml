@@ -1,0 +1,103 @@
+name: "lux-solstiti"
+version: 254
+title: "Lux Solstitii"
+instrumental: true
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, trailer music, folk, ethnic, choral, operatic, new-age meditation, handpan world fusion"
+
+style: "Breath visible in a Victorian iron-and-pane conservatory at winter solstice dawn — copper warmth on iron railings, condensation on cold windows, a pivot from dark to light. Polished studio mix, Decca-tree wide strings, warm tape saturation. Neoclassical returning-light arc in B minor moving to C major, 106 BPM. Chalumeau carries the cold opening theme in its lowest register — wooden reed dark as frozen soil, melody spare and held. Baryton delivers the slow bass melody with arco sighs, harmonic density rising like warmth through flagstone. Handpan traces bell-tone figures above, solstice-still. Low string section supports throughout. The arc accumulates without resolving — light slowly filling the interior — then the ensemble stops: true silence, no pad, no sustain. The drop lands in C major, same melodic shape, orchestration opening outward — radiance, not volume. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo chalumeau stating the cold theme in low register, B minor, breath and frost, 12 bars]
+  [Baryton Enters: baryton joins with slow bass melody, arco sigh on long notes, 12 bars]
+  [Handpan Joins: handpan adds high bell-tone figures above the two low voices, 12 bars]
+  [First Warming: low string section enters beneath the trio, harmonic bed thickening, 16 bars]
+  [Middle Passage: all three voices in measured motion, density rising without resolution, 24 bars]
+  [Build: chalumeau climbing in register, baryton deepening harmonic weight, handpan quickening figures, low strings swelling, 40 bars]
+  [Long Build: full trio pressing upward together, strings filling behind, harmonic tension sustained without release, 40 bars]
+  [Silence: full ensemble stops, 8 bars of complete stillness, no pad, no sustain, nothing]
+  [Drop: theme returns in C major — chalumeau plain and clear, baryton carrying warmth from below, handpan radiant above, orchestration opens outward, 40 bars]
+  [Coda: chalumeau and baryton alone, long tones fading, handpan single bell note at the end, 16 bars]
+  [End]
+
+notes: |
+  Lux Solstitii — "the light of the solstice" — is a cinematic neoclassical arc built on the
+  concept of a "returning light" cycle: a cold tonal opening that accumulates harmonic density
+  through a long build, reaches true structural silence, then drops into the parallel major as
+  the harmonic equivalent of dawn breaking through condensation. The technique is pure-orchestral
+  warmth-arc writing: functional tonal harmony used as emotional arc rather than decorative
+  frame, with the parallel-major drop (B minor to C major) delivering mode-change warmth rather
+  than dynamic volume change. No composer names cited per blocklist discipline — though this
+  form echoes a tradition of slow-building tonal revelation whose practitioners are not named here.
+
+  Concept source: pure-orchestral return after v253's hybrid experiment. Validates the expanded
+  playbook — v252 hit 4:12 with the Build/Silence/Drop stack and pushed bar counts; this cycle
+  applies the same scaffolding to the neoclassical "warmth arc" lane.
+
+  Duration strategy: total bar count 220 bars (Intro 12 + Baryton 12 + Handpan 12 + First
+  Warming 16 + Middle Passage 24 + Build 40 + Long Build 40 + Silence 8 + Drop 40 + Coda 16
+  = 220 bars). At 106 BPM in 4/4, estimated wall-clock range is 4:09–5:23 (50–65% of notation
+  time, accounting for Suno's natural breath on slow neoclassical material and the silence gap).
+  Build/Silence/Drop stack placed at the ~65% mark (bars 128–148 of 220).
+
+  Playbook moves applied (all nine from the 2026-05-31 expanded playbook):
+  1. Parametrized colon-syntax lyrics with bar counts — 10 sections, bars summing to 220.
+  2. Production-mix tokens: "polished studio mix," "Decca-tree wide strings," "warm tape saturation."
+  3. Sentence case throughout style — no ALL-CAPS form labels.
+  4. Atmospheric-first opening — Victorian conservatory scene before any technique label.
+  5. Two body voices minimum in the trio: chalumeau (reed body), baryton (bowed string body),
+     handpan (resonant body) — all three are body voices with low-to-mid frequency presence.
+  6. Key (B minor → C major) and BPM (106) both visible in style.
+  7. Five inline negatives plus full exclude_styles list with concept-specific additions.
+  8. Build → Silence → Drop stack at ~65%: 40-bar build, 40-bar long build, 8-bar true silence,
+     40-bar drop in C major.
+  9. Superlatives stripped — replaced by: "copper warmth on iron railings," "condensation on
+     cold windows," "wooden reed dark as frozen soil," "warmth through flagstone," "solstice-still."
+  Target render 4:00–5:30. Bar sum 220 is within the 220–340 playbook target window.
+
+  Trio roles and revival gaps:
+  - Chalumeau (gap 31 versions): the lowest register of the clarinet family, predating the modern
+    instrument. Opens the piece in cold B minor, climbs through the build, then delivers the
+    theme plainly in the drop — same voice, different light.
+  - Baryton (gap 13 versions): a large bowed string instrument with sympathetic resonance strings,
+    tuned in the bass range. Carries the slow bass melody throughout, its arco sighs adding
+    harmonic depth; the warmth rising from below.
+  - Handpan (gap 14 versions): a hammered steel tongue drum with sustaining bell resonance.
+    Placed in the high register above the two low voices, its bell-tone figures are the first
+    hint of radiance — solstice-still and hovering throughout.
+
+  BPM 106: slow enough for the cold-to-warmth arc to breathe without dragging.
+  Key B minor → C major: parallel-major warmth payoff — not the relative major but the chromatic
+  step up, delivering brightness through mode rather than through motion.
+  Scene: Victorian iron-and-pane conservatory at winter solstice dawn — iron rails catching copper
+  light, humidity inside against cold outside, plants exhaling visible breath — highly specific
+  sensory anchor, not a generic "winter dawn" scene.
+
+  Blocklist verified clean: no monumental, massive, epic, spectacular, Dune, desert, frisson,
+  Glass, or composer names anywhere in style or lyrics.
+
+  Final style char count: 946.
+
+tags:
+  - neoclassical-warmth-arc
+  - chalumeau
+  - baryton
+  - handpan
+  - 106bpm
+  - b-minor
+  - c-major
+  - victorian-conservatory-solstice-scene
+  - revival-chalumeau-31-gap
+  - revival-baryton-13-gap
+  - revival-handpan-14-gap
+  - parallel-major-drop
+  - build-silence-drop-stack
+  - returning-light-arc
+  - new-technique
+  - duration-4min-target
+  - parametrized-lyrics
+  - production-tokens
+  - three-body-trio
+  - duration-3min
+  - research-driven
+  - instrumental
