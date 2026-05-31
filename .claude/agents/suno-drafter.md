@@ -22,7 +22,11 @@ All of these, explicitly in the prompt:
 
 ## Hard constraints (judge rubric)
 
-- **Style char count: 850–950.** Use the reusable script (NOT `python3 -c`): write the style to a temp file or pipe via stdin and run `python3 /Users/adan/work/claude/code/suno/scripts/text_tools.py in-range --min 850 --max 950` — it prints JSON `{length, in_range}` and exits 0 if in range. Iterate the style until it lands in range. Vanilla `python3 -c` is BANNED by `CLAUDE.md` scripting discipline.
+- **Style char count: 850–950.** Use the reusable script (NOT `python3 -c`, NOT `cat <<'EOF' >` heredoc, NOT any shell pipe). Workflow:
+  1. Use the `Write` tool to save the candidate style text to `/tmp/style_v<N>.txt`.
+  2. Then call: `python3 /Users/adan/work/claude/code/suno/scripts/text_tools.py in-range --file /tmp/style_v<N>.txt --min 850 --max 950`
+  It prints JSON `{length, min, max, in_range}` and exits 0 if in range. Iterate by re-writing the file and re-running. Same pattern for blocklist: `text_tools.py blocklist --file /tmp/style_v<N>.txt --terms "Dune,desert,epic,massive"`.
+  Vanilla `python3 -c`, `cat <<'EOF'`, `echo > /tmp/...`, and any other shell heredoc/redirect/pipe are BANNED by `CLAUDE.md` scripting discipline — they trigger permission prompts and block the autonomous cycle.
 - **First 200 chars MUST contain** the technique (in ALL CAPS), the scene phrase, `"total duration around 3:00"` (or `"2:30 to 3:30 film cue"`), and the three uppercase trio names joined with ` + `.
 - **Timestamps within the 3-min arc template**: 0:00 / 0:25 / 1:00 / 2:00 / silence at 2:10 / return at 2:15 / ends at 2:50. Shift ±10s per section if the concept calls for it. Never go past 3:30.
 - **At least 4 inline "no X" negatives** in the style: always include `"No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."` at the end.
@@ -56,21 +60,24 @@ Add any `risk_exclusions` the caller passed in.
 
 ## Lyrics template
 
-Use 8–10 structural metatags reflecting the arc:
+**LYRICS RULE (updated 2026-05-31 per user feedback "the lyrics are strange"):** use BARE STRUCTURAL FORM LABELS ONLY. 8–10 sections, each `[label]` 1–4 words MAX. NO descriptive prose inside brackets, NO instrument names, NO scene words, NO commentary. All descriptive content (entries, timings, scene mapping) goes in the STYLE field where Suno actually wants it.
+
+Acceptable bracket labels:
 
 ```
-[Short Instrumental Intro]
-[<first instrument's role>]
-[<second instrument's role>]
-[<third instrument's role>]
-[<orchestral bloom>]
-[<peak>]
-[Silence]
-[Return Half-Step Up]
+[Intro]
+[A]
+[B]
+[Bridge]
+[A Returns]
+[Variation 1]
+[Coda]
+[Grand Finale]
+[Fade]
 [End]
 ```
 
-Each metatag is 2–5 words, evocative of what happens in that section. Instrumental prompts still need these — Suno uses them as structural signals.
+Form-shaped, not narrative. Treat the lyrics field like a score's REHEARSAL MARKS, not stage directions. Bracket sections are structural signals only — never put what we used to put there (e.g. "Cor anglais alone with sustained string drone before the entry of the second voice"). That kind of prose belongs in style.
 
 ## notes field
 

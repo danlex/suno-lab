@@ -25,6 +25,9 @@ import sys
 
 
 def read_text(args) -> str:
+    if getattr(args, "file", None):
+        with open(args.file, "r", encoding="utf-8") as fh:
+            return fh.read()
     if args.text is not None:
         return args.text
     return sys.stdin.read()
@@ -59,16 +62,19 @@ def main() -> int:
 
     p_count = sub.add_parser("count", help="Count characters.")
     p_count.add_argument("--text", help="Inline text. If omitted, reads stdin.")
+    p_count.add_argument("--file", help="Path to a file containing the text. Overrides --text and stdin.")
     p_count.set_defaults(func=cmd_count)
 
     p_range = sub.add_parser("in-range", help="Check whether length is within a range.")
     p_range.add_argument("--text", help="Inline text. If omitted, reads stdin.")
+    p_range.add_argument("--file", help="Path to a file containing the text. Overrides --text and stdin.")
     p_range.add_argument("--min", type=int, required=True)
     p_range.add_argument("--max", type=int, required=True)
     p_range.set_defaults(func=cmd_in_range)
 
     p_block = sub.add_parser("blocklist", help="Scan for forbidden substrings.")
     p_block.add_argument("--text", help="Inline text. If omitted, reads stdin.")
+    p_block.add_argument("--file", help="Path to a file containing the text. Overrides --text and stdin.")
     p_block.add_argument("--terms", required=True, help="Comma-separated list of banned substrings.")
     p_block.set_defaults(func=cmd_blocklist)
 
