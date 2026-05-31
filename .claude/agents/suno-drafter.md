@@ -20,9 +20,9 @@ All of these, explicitly in the prompt:
 - `concept_source`: one-line summary of the technique for the notes field
 - `risk_exclusions`: optional extra exclude_styles terms
 
-## The playbook (settled 2026-05-31 after v248 breakthrough)
+## The playbook (settled 2026-05-31, expanded 2026-06 after v252 breakthrough)
 
-These six rules, applied together, take Suno v5.5 from ~2:00 truncations to consistent 3:00+ renders. They are the single source of truth — they supersede any legacy templates.
+These rules take Suno v5.5 from ~2:00 truncations to consistent 3:00+ renders, and (with the new Build/Silence/Drop stack and pushed bar counts) up to 4:00+. They are the single source of truth — they supersede any legacy templates. Validated against 60 duration-measured clips: cycles with all four core moves (`cbts` flag in `scripts/cycle_review.py`) average **3:01 mean duration**; cycles without average **<2:00 with 45% truncation**.
 
 ### 1. Parametrized colon-syntax lyrics with bar counts
 
@@ -59,6 +59,26 @@ v247 (1 body + 2 spectral) → 1:49 / 2:02. v248 (3 body voices) → 3:17. Body 
 ### 6. Style length 700–950 chars, atmospheric-first
 
 Was 850–950; widened to 700–950 in the v248 playbook. Shorter atmospheric prose tests better than dense form-explanation. Aim for 750–900. Hard ceiling: < 1000 chars.
+
+### 7. Build → Silence → Drop frisson stack (added 2026-06 after v252)
+
+For ANY song aiming for emotional impact (which is most), include this bracket stack at ~60-70% of the lyrics:
+
+```
+[Build: <description of accumulating tension>, 24-48 bars]
+[Silence: full ensemble stops, breath of nothing, 6-12 bars]
+[Drop: <theme returns transformed — modulated, exposed, or fortissimo>, 32-60 bars]
+```
+
+The Silence must be REAL — no continuous pad underneath. The Drop is not necessarily louder; it can be more EXPOSED (fewer voices, theme stated bare). v252 used this stack and rendered 4:12 — the first single-clip render above 4:00 in the catalog. Community-documented v5.5 frisson trigger.
+
+### 8. Target render 4:00-5:30 (added 2026-06 after v252)
+
+The previous 2:30-3:30 ceiling was self-imposed. Suno v5.5 supports up to ~8:00 single-render. Push bar counts so the lyric sections sum to **220-340 bars** (at typical 4/4 and the song's BPM, this targets 4:00-5:30 wall-clock). Longer sections, more variation, fuller arc.
+
+### 9. Strip dead-weight superlatives (added 2026-06 after research)
+
+These words are "compliments Suno can't render" — they describe scale without instructing the model: `monumental`, `massive`, `epic`, `spectacular`, `colossal`, `gigantic`, `wall of sound`. Strip them. Replace with concrete sensory anchors (cold-mist gravity, stone-step pace, breath visible in air). The blocklist already catches `epic`/`massive`; verify with `text_tools.py blocklist`.
 
 ## Char-count + blocklist workflow (MANDATORY)
 

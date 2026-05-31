@@ -17,6 +17,11 @@
     "uuid": "016ee20f-c2c3-4551-84b6-059b056fb47d",
     "version": 137
   },
+  "03136b20-dbd4-4c04-8f47-2d76ba28f93a": {
+    "duration_seconds": 252,
+    "duration_source": "close-out-logs",
+    "uuid": "03136b20-dbd4-4c04-8f47-2d76ba28f93a"
+  },
   "068db6c4-9b15-4d16-ace2-0434586b8b5f": {
     "bpm": 74,
     "file": "the-cycles-realign-at-midnight-v133.yaml",
@@ -37,6 +42,8 @@
   },
   "07f86516-acee-48df-94ee-514708aa1eb9": {
     "bpm": 162,
+    "duration_seconds": 148,
+    "duration_source": "close-out-logs",
     "file": "what-each-ward-holds-v245.yaml",
     "instrumental": true,
     "key": "c-sharp-minor",
@@ -53,8 +60,15 @@
     "uuid": "07f86516-acee-48df-94ee-514708aa1eb9",
     "version": 245
   },
+  "0979a659-60d0-429f-a201-ac93327295ad": {
+    "duration_seconds": 189,
+    "duration_source": "close-out-logs",
+    "uuid": "0979a659-60d0-429f-a201-ac93327295ad"
+  },
   "0a1d17a4-fd84-4d6d-9103-6834b86463e3": {
     "bpm": 150,
+    "duration_seconds": 219,
+    "duration_source": "close-out-logs",
     "file": "where-the-fog-parts-for-iron-v250.yaml",
     "instrumental": true,
     "key": "g-minor",
@@ -127,6 +141,8 @@
   },
   "0c0ba4de-366c-4e81-9d5d-5e351fc0a08a": {
     "bpm": 154,
+    "duration_seconds": 479,
+    "duration_source": "close-out-logs",
     "file": "what-the-tide-returned-v237.yaml",
     "instrumental": true,
     "key": "e-flat-minor",
@@ -145,6 +161,8 @@
   },
   "0ce6d1d0-dac4-4647-b8fc-1856cc9fb82f": {
     "bpm": 153,
+    "duration_seconds": 144,
+    "duration_source": "close-out-logs",
     "file": "when-the-kiln-mouth-glows-v235.yaml",
     "instrumental": true,
     "key": "a-flat-minor",
@@ -163,6 +181,8 @@
   },
   "0d1be6bf-dbf2-400c-899d-780ab630c2e3": {
     "bpm": 154,
+    "duration_seconds": 209,
+    "duration_source": "close-out-logs",
     "file": "what-the-tide-returned-v237.yaml",
     "instrumental": true,
     "key": "e-flat-minor",
@@ -217,6 +237,8 @@
   },
   "0fe689c6-9b23-40a7-9565-0a25be9dd179": {
     "bpm": 142,
+    "duration_seconds": 188,
+    "duration_source": "close-out-logs",
     "file": "before-the-ferryman-speaks-v225.yaml",
     "instrumental": true,
     "key": "g-sharp-minor",
@@ -253,6 +275,8 @@
   },
   "11541c73-1f86-4c72-97d2-bc1ab382d272": {
     "bpm": 161,
+    "duration_seconds": 82,
+    "duration_source": "close-out-logs",
     "file": "frost-on-the-deckle-v243.yaml",
     "instrumental": true,
     "key": "d-flat-minor",
@@ -268,6 +292,11 @@
     "title": "Frost on the Deckle",
     "uuid": "11541c73-1f86-4c72-97d2-bc1ab382d272",
     "version": 243
+  },
+  "12974521-f1c5-4168-a731-fd691d563697": {
+    "duration_seconds": 210,
+    "duration_source": "close-out-logs",
+    "uuid": "12974521-f1c5-4168-a731-fd691d563697"
   },
   "13dc99f8-18f4-4c13-886d-1b63ceb4c1a5": {
     "bpm": 119,
@@ -289,6 +318,8 @@
   },
   "152e7462-e454-4129-bc7a-7808e540fe2f": {
     "bpm": 143,
+    "duration_seconds": 164,
+    "duration_source": "close-out-logs",
     "file": "before-the-ledger-closes-v227.yaml",
     "instrumental": true,
     "key": "d-flat-minor",
@@ -361,6 +392,8 @@
   },
   "1cf38b14-0b46-46c7-9cac-12ca23a9edbb": {
     "bpm": 152,
+    "duration_seconds": 132,
+    "duration_source": "close-out-logs",
     "file": "iron-canopy-at-last-light-v246.yaml",
     "instrumental": true,
     "key": "b-flat-minor",
@@ -433,6 +466,8 @@
   },
   "22a0cb52-3ce7-417c-8ae7-dbc1b0d770a9": {
     "bpm": 136,
+    "duration_seconds": 122,
+    "duration_source": "close-out-logs",
     "file": "dawn-the-falcon-lifts-v247.yaml",
     "instrumental": true,
     "key": "b-major",
@@ -523,6 +558,8 @@
   },
   "2e29f17f-ee24-4f59-b742-b6f9aef4b914": {
     "bpm": 142,
+    "duration_seconds": 159,
+    "duration_source": "close-out-logs",
     "file": "before-the-ferryman-speaks-v225.yaml",
     "instrumental": true,
     "key": "g-sharp-minor",
@@ -595,6 +632,8 @@
   },
   "31e8a02c-0dd8-420f-a592-1a3e9c1e9832": {
     "bpm": 112,
+    "duration_seconds": 63,
+    "duration_source": "close-out-logs",
     "file": "light-across-the-open-form-v233.yaml",
     "instrumental": true,
     "key": "g-major",
@@ -631,6 +670,8 @@
   },
   "3549ec31-df96-4d9f-ac49-3e3ac44c9bc2": {
     "bpm": 155,
+    "duration_seconds": 479,
+    "duration_source": "close-out-logs",
     "file": "cast-in-bronze-and-rung-once-v238.yaml",
     "instrumental": true,
     "key": "b-minor",
@@ -685,6 +726,8 @@
   },
   "38b46de3-ad03-4bd8-8dde-ecb7ac28bb0b": {
     "bpm": 153,
+    "duration_seconds": 153,
+    "duration_source": "close-out-logs",
     "file": "when-the-kiln-mouth-glows-v235.yaml",
     "instrumental": true,
     "key": "a-flat-minor",
@@ -721,6 +764,8 @@
   },
   "3ce0e088-5e2d-4ab4-8f6c-a12a4d3dfd77": {
     "bpm": 146,
+    "duration_seconds": 18,
+    "duration_source": "close-out-logs",
     "file": "what-the-scribe-could-not-finish-v226.yaml",
     "instrumental": true,
     "key": "c-minor",
@@ -739,6 +784,8 @@
   },
   "3ec6c5c5-66f4-4345-9991-ae126cf9b875": {
     "bpm": 83,
+    "duration_seconds": 94,
+    "duration_source": "close-out-logs",
     "file": "a-scale-for-difficult-mixtures-v232.yaml",
     "instrumental": true,
     "key": "c-sharp-minor",
@@ -757,6 +804,8 @@
   },
   "3ef4cc14-0bce-4a00-b398-01d86e7a4f22": {
     "bpm": 144,
+    "duration_seconds": 167,
+    "duration_source": "close-out-logs",
     "file": "dopo-la-chiusura-v249.yaml",
     "instrumental": true,
     "key": "f-minor",
@@ -811,6 +860,8 @@
   },
   "45430221-50d3-49d3-889c-ccf0dcf028d7": {
     "bpm": 152,
+    "duration_seconds": 142,
+    "duration_source": "close-out-logs",
     "file": "iron-canopy-at-last-light-v246.yaml",
     "instrumental": true,
     "key": "b-flat-minor",
@@ -847,6 +898,8 @@
   },
   "481cb966-bc52-4cfc-b522-a04decf38535": {
     "bpm": 143,
+    "duration_seconds": 138,
+    "duration_source": "close-out-logs",
     "file": "before-the-ledger-closes-v227.yaml",
     "instrumental": true,
     "key": "d-flat-minor",
@@ -865,6 +918,8 @@
   },
   "49fa9039-434e-4a1a-807b-a68d24e56177": {
     "bpm": 161,
+    "duration_seconds": 101,
+    "duration_source": "close-out-logs",
     "file": "frost-on-the-deckle-v243.yaml",
     "instrumental": true,
     "key": "d-flat-minor",
@@ -955,6 +1010,8 @@
   },
   "52d90dab-3a1a-4896-b893-4ce785a831ef": {
     "bpm": 146,
+    "duration_seconds": 38,
+    "duration_source": "close-out-logs",
     "file": "what-the-scribe-could-not-finish-v226.yaml",
     "instrumental": true,
     "key": "c-minor",
@@ -973,6 +1030,8 @@
   },
   "56aa9b2f-e627-4057-b0ee-1849bd1bfcd0": {
     "bpm": 149,
+    "duration_seconds": 184,
+    "duration_source": "close-out-logs",
     "file": "before-the-lamp-finds-its-form-v230.yaml",
     "instrumental": true,
     "key": "b-major",
@@ -991,6 +1050,8 @@
   },
   "57071671-9eb4-43c8-9e24-f17674546c43": {
     "bpm": 156,
+    "duration_seconds": 146,
+    "duration_source": "close-out-logs",
     "file": "indigo-and-madder-at-the-last-light-v239.yaml",
     "instrumental": true,
     "key": "a-major",
@@ -1009,6 +1070,8 @@
   },
   "57ad130f-5a0d-4c12-96c6-e715ec6f23f3": {
     "bpm": 159,
+    "duration_seconds": 118,
+    "duration_source": "close-out-logs",
     "file": "curtain-rises-on-a-whole-melody-v242.yaml",
     "instrumental": true,
     "key": "d-flat-major",
@@ -1045,6 +1108,8 @@
   },
   "5bec76f0-7638-49af-8745-5bffef08cf5c": {
     "bpm": 83,
+    "duration_seconds": 49,
+    "duration_source": "close-out-logs",
     "file": "a-scale-for-difficult-mixtures-v232.yaml",
     "instrumental": true,
     "key": "c-sharp-minor",
@@ -1063,6 +1128,8 @@
   },
   "5dd8c682-7de8-495f-ae55-785f88521e00": {
     "bpm": 128,
+    "duration_seconds": 188,
+    "duration_source": "close-out-logs",
     "file": "what-the-high-pass-finally-releases-v234.yaml",
     "instrumental": true,
     "key": "d-sharp-minor",
@@ -1081,6 +1148,8 @@
   },
   "5e3bdf7a-6a57-44b2-b68a-48d8335fb76a": {
     "bpm": 148,
+    "duration_seconds": 167,
+    "duration_source": "close-out-logs",
     "file": "before-the-flock-decides-v229.yaml",
     "instrumental": true,
     "key": "b-flat-minor",
@@ -1153,6 +1222,8 @@
   },
   "666269f4-15f1-4ce9-b677-1c05355a7a38": {
     "bpm": 136,
+    "duration_seconds": 109,
+    "duration_source": "close-out-logs",
     "file": "dawn-the-falcon-lifts-v247.yaml",
     "instrumental": true,
     "key": "b-major",
@@ -1168,6 +1239,11 @@
     "title": "Dawn the Falcon Lifts",
     "uuid": "666269f4-15f1-4ce9-b677-1c05355a7a38",
     "version": 247
+  },
+  "674d2b1a-94b1-4257-b025-40f8c1549c60": {
+    "duration_seconds": 208,
+    "duration_source": "close-out-logs",
+    "uuid": "674d2b1a-94b1-4257-b025-40f8c1549c60"
   },
   "67ff8b8f-641c-45e6-8bd8-806b61a7d95e": {
     "bpm": 114,
@@ -1243,6 +1319,8 @@
   },
   "6b908e66-9f81-43b9-82bb-6f7ff278a505": {
     "bpm": 47,
+    "duration_seconds": 67,
+    "duration_source": "close-out-logs",
     "file": "when-the-doves-first-stir-v244.yaml",
     "instrumental": true,
     "key": "a-major",
@@ -1297,6 +1375,8 @@
   },
   "705871ce-7a00-4190-ac8a-888aa241c576": {
     "bpm": 141,
+    "duration_seconds": 132,
+    "duration_source": "close-out-logs",
     "file": "what-the-noise-kept-hidden-v224.yaml",
     "instrumental": true,
     "key": "e-flat-minor",
@@ -1315,6 +1395,8 @@
   },
   "719457ec-e164-4e61-91f8-d16980dee8db": {
     "bpm": 47,
+    "duration_seconds": 62,
+    "duration_source": "close-out-logs",
     "file": "when-the-doves-first-stir-v244.yaml",
     "instrumental": true,
     "key": "a-major",
@@ -1333,6 +1415,8 @@
   },
   "71ee424e-cfe5-44af-b603-18a7e67e133d": {
     "bpm": 151,
+    "duration_seconds": 479,
+    "duration_source": "close-out-logs",
     "file": "at-the-transit-wire-v236.yaml",
     "instrumental": true,
     "key": "f-sharp-minor",
@@ -1369,6 +1453,8 @@
   },
   "74f69e68-d4e6-4cb7-ae8f-adb99588bc6d": {
     "bpm": 148,
+    "duration_seconds": 152,
+    "duration_source": "close-out-logs",
     "file": "before-the-flock-decides-v229.yaml",
     "instrumental": true,
     "key": "b-flat-minor",
@@ -1441,6 +1527,8 @@
   },
   "81fcfb8a-b46b-4be9-8ea8-322b5227b4d7": {
     "bpm": 145,
+    "duration_seconds": 153,
+    "duration_source": "close-out-logs",
     "file": "where-the-spring-holds-still-v231.yaml",
     "instrumental": true,
     "key": "e-minor",
@@ -1513,6 +1601,8 @@
   },
   "8b73e180-f839-461b-8fe1-12077d8c8f7d": {
     "bpm": 141,
+    "duration_seconds": 143,
+    "duration_source": "close-out-logs",
     "file": "what-the-noise-kept-hidden-v224.yaml",
     "instrumental": true,
     "key": "e-flat-minor",
@@ -1567,6 +1657,8 @@
   },
   "93d76af4-9498-47bb-9957-791492bbd678": {
     "bpm": 132,
+    "duration_seconds": 153,
+    "duration_source": "close-out-logs",
     "file": "rain-on-the-quai-v248.yaml",
     "instrumental": true,
     "key": "a-minor",
@@ -1657,6 +1749,8 @@
   },
   "98fb3ed4-5345-42a8-8fff-0892b7ec0109": {
     "bpm": 156,
+    "duration_seconds": 136,
+    "duration_source": "close-out-logs",
     "file": "indigo-and-madder-at-the-last-light-v239.yaml",
     "instrumental": true,
     "key": "a-major",
@@ -1675,6 +1769,8 @@
   },
   "9948b0ab-e3bc-4c79-aa85-ff52f3f3d559": {
     "bpm": 151,
+    "duration_seconds": 213,
+    "duration_source": "close-out-logs",
     "file": "at-the-transit-wire-v236.yaml",
     "instrumental": true,
     "key": "f-sharp-minor",
@@ -1747,6 +1843,8 @@
   },
   "9dd6bfcf-7372-48ba-94a2-0c102de59130": {
     "bpm": 150,
+    "duration_seconds": 199,
+    "duration_source": "close-out-logs",
     "file": "where-the-fog-parts-for-iron-v250.yaml",
     "instrumental": true,
     "key": "g-minor",
@@ -1891,6 +1989,8 @@
   },
   "a8b23a8d-0a53-4263-8bc2-726a6a87e423": {
     "bpm": 128,
+    "duration_seconds": 218,
+    "duration_source": "close-out-logs",
     "file": "what-the-high-pass-finally-releases-v234.yaml",
     "instrumental": true,
     "key": "d-sharp-minor",
@@ -1945,6 +2045,8 @@
   },
   "aba43bc3-49b5-4e9c-859d-287180a33caa": {
     "bpm": 158,
+    "duration_seconds": 193,
+    "duration_source": "close-out-logs",
     "file": "iron-and-glass-at-first-light-v241.yaml",
     "instrumental": true,
     "key": "g-sharp-minor",
@@ -1963,6 +2065,8 @@
   },
   "ac9a13f2-da76-45d2-97da-b1be1cafb5be": {
     "bpm": 159,
+    "duration_seconds": 138,
+    "duration_source": "close-out-logs",
     "file": "curtain-rises-on-a-whole-melody-v242.yaml",
     "instrumental": true,
     "key": "d-flat-major",
@@ -1999,6 +2103,8 @@
   },
   "ae380cb7-c22e-4168-b380-0ac5d8721351": {
     "bpm": 144,
+    "duration_seconds": 177,
+    "duration_source": "close-out-logs",
     "file": "dopo-la-chiusura-v249.yaml",
     "instrumental": true,
     "key": "f-minor",
@@ -2035,6 +2141,8 @@
   },
   "ae896260-f165-4f3b-9390-645b4d6b6444": {
     "bpm": 163,
+    "duration_seconds": 179,
+    "duration_source": "close-out-logs",
     "file": "the-keeper-in-january-v251.yaml",
     "instrumental": true,
     "key": "d-sharp-minor",
@@ -2053,6 +2161,8 @@
   },
   "b17771d4-355a-4b29-bd78-ba35b16d8f9e": {
     "bpm": 112,
+    "duration_seconds": 67,
+    "duration_source": "close-out-logs",
     "file": "light-across-the-open-form-v233.yaml",
     "instrumental": true,
     "key": "g-major",
@@ -2089,6 +2199,8 @@
   },
   "b26af6dc-fc34-424f-8d5d-f91ac15068b4": {
     "bpm": 149,
+    "duration_seconds": 138,
+    "duration_source": "close-out-logs",
     "file": "before-the-lamp-finds-its-form-v230.yaml",
     "instrumental": true,
     "key": "b-major",
@@ -2215,6 +2327,8 @@
   },
   "bacbe6e7-d3c2-431d-a1ce-eb688ccfa846": {
     "bpm": 163,
+    "duration_seconds": 162,
+    "duration_source": "close-out-logs",
     "file": "the-keeper-in-january-v251.yaml",
     "instrumental": true,
     "key": "d-sharp-minor",
@@ -2233,6 +2347,8 @@
   },
   "bd34cbf6-3c56-4ee5-ad50-3ad53e70eb3f": {
     "bpm": 147,
+    "duration_seconds": 183,
+    "duration_source": "close-out-logs",
     "file": "what-color-the-forge-remembers-v228.yaml",
     "instrumental": true,
     "key": "a-flat-major",
@@ -2287,6 +2403,8 @@
   },
   "c0a0d3d4-61f3-47b0-a2f4-1a95995813b1": {
     "bpm": 132,
+    "duration_seconds": 197,
+    "duration_source": "close-out-logs",
     "file": "rain-on-the-quai-v248.yaml",
     "instrumental": true,
     "key": "a-minor",
@@ -2395,6 +2513,8 @@
   },
   "c9235ebe-da0e-443c-84d2-553c39722136": {
     "bpm": 145,
+    "duration_seconds": 117,
+    "duration_source": "close-out-logs",
     "file": "where-the-spring-holds-still-v231.yaml",
     "instrumental": true,
     "key": "e-minor",
@@ -2503,6 +2623,8 @@
   },
   "d65a7ebf-65fb-4758-9834-cdf68cd26100": {
     "bpm": 155,
+    "duration_seconds": 479,
+    "duration_source": "close-out-logs",
     "file": "cast-in-bronze-and-rung-once-v238.yaml",
     "instrumental": true,
     "key": "b-minor",
@@ -2539,6 +2661,8 @@
   },
   "da0c06ce-513b-4872-ac8b-e292b913cd39": {
     "bpm": 157,
+    "duration_seconds": 182,
+    "duration_source": "close-out-logs",
     "file": "raking-salt-before-the-tide-returns-v240.yaml",
     "instrumental": true,
     "key": "f-minor",
@@ -2647,6 +2771,8 @@
   },
   "dee8d6a8-3518-4e40-92b6-03a82880db69": {
     "bpm": 147,
+    "duration_seconds": 148,
+    "duration_source": "close-out-logs",
     "file": "what-color-the-forge-remembers-v228.yaml",
     "instrumental": true,
     "key": "a-flat-major",
@@ -2899,6 +3025,8 @@
   },
   "f3d4e834-9b3b-4d4b-8eec-30701e727cfa": {
     "bpm": 158,
+    "duration_seconds": 218,
+    "duration_source": "close-out-logs",
     "file": "iron-and-glass-at-first-light-v241.yaml",
     "instrumental": true,
     "key": "g-sharp-minor",
@@ -2917,6 +3045,8 @@
   },
   "f441f85e-ab32-4602-a2c4-e98e1e1a3bdc": {
     "bpm": 162,
+    "duration_seconds": 128,
+    "duration_source": "close-out-logs",
     "file": "what-each-ward-holds-v245.yaml",
     "instrumental": true,
     "key": "c-sharp-minor",
@@ -2971,6 +3101,8 @@
   },
   "f70b1ebe-1931-48b3-8b9e-232e0da87dab": {
     "bpm": 157,
+    "duration_seconds": 172,
+    "duration_source": "close-out-logs",
     "file": "raking-salt-before-the-tide-returns-v240.yaml",
     "instrumental": true,
     "key": "f-minor",
