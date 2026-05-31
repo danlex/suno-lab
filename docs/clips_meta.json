@@ -961,6 +961,26 @@
     "uuid": "481cb966-bc52-4cfc-b522-a04decf38535",
     "version": 227
   },
+  "48b164a0-9c82-4bb7-9345-29801cc3b1d3": {
+    "bpm": 165,
+    "duration_seconds": 248,
+    "duration_source": "close-out-logs",
+    "file": "crest-of-the-first-light-v256.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "crest-of-the-first-light",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 937,
+    "technique": null,
+    "title": "Crest of the First Light",
+    "uuid": "48b164a0-9c82-4bb7-9345-29801cc3b1d3",
+    "version": 256
+  },
   "49fa9039-434e-4a1a-807b-a68d24e56177": {
     "bpm": 161,
     "duration_seconds": 101,
@@ -1960,6 +1980,26 @@
     "title": "What the Vellum Keeps",
     "uuid": "9ca803c6-91a9-43ca-a428-09f7659a983b",
     "version": 222
+  },
+  "9d98551a-d91e-445b-bac8-75b52847afa2": {
+    "bpm": 165,
+    "duration_seconds": 479,
+    "duration_source": "close-out-logs",
+    "file": "crest-of-the-first-light-v256.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "crest-of-the-first-light",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 937,
+    "technique": null,
+    "title": "Crest of the First Light",
+    "uuid": "9d98551a-d91e-445b-bac8-75b52847afa2",
+    "version": 256
   },
   "9dd6bfcf-7372-48ba-94a2-0c102de59130": {
     "bpm": 150,
