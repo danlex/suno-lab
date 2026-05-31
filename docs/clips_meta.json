@@ -1625,6 +1625,26 @@
     "uuid": "77352f74-a7ef-456c-a48f-025b6ccb9329",
     "version": 211
   },
+  "7ec77ec7-3305-47bc-a6ed-ac55e7a7373e": {
+    "bpm": 138,
+    "duration_seconds": 213,
+    "duration_source": "close-out-logs",
+    "file": "linens-v257.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "linens-v257",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 929,
+    "technique": null,
+    "title": "Linens",
+    "uuid": "7ec77ec7-3305-47bc-a6ed-ac55e7a7373e",
+    "version": 257
+  },
   "819ba711-462c-4814-bd73-179e81ccbecb": {
     "bpm": 106,
     "duration_seconds": 204,
@@ -1776,6 +1796,26 @@
     "title": "The Question That Keeps Being Asked",
     "uuid": "8c53253d-75e8-4836-b64b-47cce7d758a8",
     "version": 113
+  },
+  "8d3cb622-9a6a-44cf-af0a-6e322c257f56": {
+    "bpm": 138,
+    "duration_seconds": 172,
+    "duration_source": "close-out-logs",
+    "file": "linens-v257.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "linens-v257",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 929,
+    "technique": null,
+    "title": "Linens",
+    "uuid": "8d3cb622-9a6a-44cf-af0a-6e322c257f56",
+    "version": 257
   },
   "8dfcd2c0-2391-47c9-a918-30103325024c": {
     "bpm": 72,
