@@ -1,0 +1,115 @@
+name: "neon-sur-asphalte-mouille"
+version: 253
+title: "Neon sur Asphalte Mouille"
+instrumental: true
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, ambient drone, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, chiptune, EDM, choral, operatic, gypsy, klezmer, folk, ethnic"
+
+style: "An industrial city at midnight after rain — neon on wet asphalt, a steam vent breathing into a sodium streetlight, a black sedan idling at the corner, distant freeway hum. Cathedral reverb across everything, deep low-end definition, wide stereo stage. Cinematic orchestral darkwave hybrid in D minor, 90 BPM. Taiko carries the ceremonial body — deep skin percussion anchoring each pulse with deliberate restraint. Moog analog pad holds a slow warm drone underneath, darkwave signature, breathing in long sustained clouds. Tuba furnishes the orchestral weight — low brass stating the chromatic descent theme with unhurried menace. Cello ostinato threads the mid-register; brass tutti rises in the build. The arc gathers through layered darkness, presses into a full-ensemble rupture — silence, no pad — then drops: tuba states the modal-lifted theme bare over pad alone. No acoustic guitar, no vocals, no rock drum kit, no pipe organ, no chiptune."
+
+lyrics: |
+  [Intro: solo Moog analog pad establishing the D minor drone, taiko entering softly beneath, distant freeway texture, 16 bars]
+  [Pad Bloom: pad swells wider, taiko pulse firming into steady ceremonial beat, cello ostinato awakens in the mid-register, 16 bars]
+  [Tuba Enters: tuba states the chromatic descent theme over pad and ostinato, low brass dark and unhurried, 16 bars]
+  [First Swell: all three voices settle into the groove together, brass tutti joining under tuba, mid-register density thickening, 24 bars]
+  [Middle Dark: cello ostinato tightens its loop, taiko pulse grows more deliberate, tuba circles the chromatic motif, pad breathing slowly, 24 bars]
+  [Build: taiko accelerates in dynamics not tempo, pad layers thickening, tuba pressing the descent harder, brass tutti swelling behind, 48 bars]
+  [Long Build: all voices pressing together, cello ostinato rising in register, taiko driving, pad sustaining wide, brass tutti at near-full, 32 bars]
+  [Silence: full ensemble stops completely, no pad no sustain, 8 bars of empty room]
+  [Drop: tuba re-enters alone on the modal-lifted theme in D minor with brief chromatic rise, pad returns beneath as a single warm cloud, taiko resumes at half the density, 40 bars]
+  [Coda: pad fades slowly, taiko to single quiet strikes, tuba holds the final low D, 16 bars]
+  [End]
+
+notes: |
+  V253 EXPERIMENT — ORCHESTRAL-DARKWAVE HYBRID WITH SYNTHESIZER PERMITTED (ONE CYCLE).
+  Standard "no synthesizers" rule suspended for this version only, per user directive following
+  research showing that Suno's official Featured/Cinematic playlist is dominated by darkwave
+  hybrid output (dark synth-pop, orchestral + analog pad hybrids, 3:30–5:00 range) and that
+  pure-orchestral competes in the platform's weakest curatorial lane. This prompt hedges into
+  Suno's demonstrated strength.
+
+  The technique is cinematic orchestral-darkwave hybrid: slow brooding 90 BPM tempo, taiko +
+  analog synth pad foundation, cello ostinato + brass tutti for the orchestral layer, cathedral
+  reverb unifying both worlds. The Moog-style analog pad is the genre-bridge instrument — it
+  holds the darkwave drone while tuba carries the orchestral weight and taiko provides the
+  ceremonial body. The arc follows the research-confirmed [Build] → [Silence] → [Drop] bracket
+  stack at the 65% mark.
+
+  Concept source: per experiments/suno_top_songs_research.md — Suno's own Featured/Cinematic
+  playlist is 90% darkwave-hybrid. This is the lane the platform actually surfaces and rewards.
+  v253 hedges into the strength.
+
+  No composer or performer names cited per blocklist discipline — though this technique echoes
+  mid-2000s cinematic darkwave practitioners and Japanese film-score traditions whose names are
+  not listed here.
+
+  Trio roles and revival gaps:
+  - Taiko: gap 88 versions (last used v164). Ceremonial body percussion — deep skin drum that
+    anchors the rhythmic foundation without a rock drum kit's snare profile. Drives the build
+    through dynamics rather than tempo acceleration.
+  - Moog analog pad: catalog debut for this instrument descriptor. The darkwave signature —
+    warm analog drone sustaining below everything, breathing with the tempo. Provides the
+    hybrid lane's genre identity.
+  - Tuba: gap 17 versions (last used v235). Orchestral body weight — low brass carrying the
+    chromatic descent theme. Slower and darker than trumpet or French horn; its low register
+    sits alongside the taiko without competing.
+
+  v253 vs v252 distinctions:
+  - Synthesizer instrument (Moog analog pad) introduced for the first time — deliberate
+    experiment per research finding that darkwave-hybrid is Suno's strongest cinematic lane.
+  - exclude_styles does NOT block synthwave or electronic this cycle — darkwave family
+    explicitly permitted.
+  - Inline negatives swap "no synthesizers" for "no chiptune" — only narrow electronic blocked.
+  - Scene: modern noir city-at-night vs v252's frozen coastal processional — sharper,
+    more contemporary sensory anchor.
+  - Key: D minor stable home with chromatic descent motif vs v252's G-sharp minor → A minor
+    half-step lift.
+  - BPM 90: darkwave canonical tempo, deliberate slow-brooding pace.
+
+  Duration strategy: total bar count 240 bars across ten sections (Intro 16 + Pad Bloom 16 +
+  Tuba Enters 16 + First Swell 24 + Middle Dark 24 + Build 48 + Long Build 32 + Silence 8 +
+  Drop 40 + Coda 16 = 240 bars). At 90 BPM in 4/4 that is approximately 5:20 of pure
+  notation time; with Suno's natural rubato and the deliberate silence gap, actual render
+  should sit in the 4:00–5:30 target window.
+
+  Playbook moves applied (v248+ discoveries):
+  - Parametrized colon-syntax lyrics with bar counts (10 sections)
+  - Production-mix tokens: "cathedral reverb," "deep low-end definition," "wide stereo stage"
+  - Sentence case throughout style (no ALL-CAPS form labels)
+  - Atmospheric-first opening (midnight rain scene before any technique label)
+  - Two body voices (taiko percussion, tuba brass) plus Moog analog pad as hybrid signature
+  - Five inline negatives at end of style
+  - [Build] → [Silence] → [Drop] stack at ~65% mark (bar 152 of 240)
+  - Scene anchor: industrial midnight city after rain — modern noir, concrete and specific
+
+  Novelty claims:
+  - Moog analog pad: catalog debut
+  - Taiko: revival gap 88 versions
+  - Tuba: revival gap 17 versions
+  - BPM 90: darkwave canonical tempo
+  - Technique: first darkwave-hybrid cycle in catalog
+  - Synthesizer instrument permitted: first time in catalog
+
+  Final style char count: 946.
+
+tags:
+  - cinematic-orchestral-darkwave-hybrid
+  - taiko
+  - moog-analog-pad
+  - tuba
+  - 90bpm
+  - d-minor
+  - midnight-rain-city-scene
+  - revival-taiko-88-gap
+  - moog-analog-pad-debut
+  - revival-tuba-17-gap
+  - new-technique
+  - build-silence-drop-stack
+  - duration-4min-target
+  - duration-3min
+  - research-driven
+  - instrumental
+  - synthesizer-experiment-v253
+  - darkwave-hybrid
+  - parametrized-lyrics
+  - production-tokens

@@ -297,6 +297,7 @@ mindmap
 | 250 | Where the Fog Parts for Iron | modern Hollywood cinematic film cue (playbook 3-body trio + production tokens + parametrized lyrics) | G minor -> B-flat major (relative-major bridge) | 150 | bass trombone + harp + oboe d'amore |
 | 251 | The Keeper in January | Nordic noir cinematic (playbook generalization continues — 4 lanes confirmed) | D-sharp minor -> E minor (half-step at modulation) | 163 | trombone + viola + waterphone |
 | 252 | Cortege at First Light | slow processional cinematic with Build/Silence/Drop frisson stack — pushed-duration experiment (target 4:00-6:00) | G-sharp minor -> A minor (half-step at the drop) | 164 | ophicleide + nyckelharpa + cimbalom |
+| 253 | Neon sur Asphalte Mouille | cinematic orchestral-darkwave hybrid (synth experiment — Moog pad + taiko + tuba) | D minor (chromatic build, brief modal lift) | 90 | taiko + Moog analog pad + tuba |
 
 ## Next-cycle priorities
 
