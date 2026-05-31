@@ -1,0 +1,3098 @@
+{
+  "016ee20f-c2c3-4551-84b6-059b056fb47d": {
+    "bpm": 72,
+    "file": "the-forest-that-sings-in-fifths-v137.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "the-forest-that-sings-in-fifths",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 933,
+    "technique": "organum",
+    "title": "The Forest That Sings in Fifths",
+    "uuid": "016ee20f-c2c3-4551-84b6-059b056fb47d",
+    "version": 137
+  },
+  "068db6c4-9b15-4d16-ace2-0434586b8b5f": {
+    "bpm": 74,
+    "file": "the-cycles-realign-at-midnight-v133.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "the-cycles-realign-at-midnight",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 915,
+    "technique": "isorhythm",
+    "title": "The Cycles Realign at Midnight",
+    "uuid": "068db6c4-9b15-4d16-ace2-0434586b8b5f",
+    "version": 133
+  },
+  "07f86516-acee-48df-94ee-514708aa1eb9": {
+    "bpm": 162,
+    "file": "what-each-ward-holds-v245.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "what-each-ward-holds-v245",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "lyric-tone-poem",
+    "title": "What Each Ward Holds",
+    "uuid": "07f86516-acee-48df-94ee-514708aa1eb9",
+    "version": 245
+  },
+  "0a1d17a4-fd84-4d6d-9103-6834b86463e3": {
+    "bpm": 150,
+    "file": "where-the-fog-parts-for-iron-v250.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "where-the-fog-parts-for-iron",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 904,
+    "technique": null,
+    "title": "Where the Fog Parts for Iron",
+    "uuid": "0a1d17a4-fd84-4d6d-9103-6834b86463e3",
+    "version": 250
+  },
+  "0a1e77d6-1e06-4437-a30f-881ae9f45f60": {
+    "bpm": 124,
+    "file": "every-step-is-the-same-step-v125.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "every-step-is-the-same-step",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 927,
+    "technique": "passamezzo",
+    "title": "Every Step Is the Same Step",
+    "uuid": "0a1e77d6-1e06-4437-a30f-881ae9f45f60",
+    "version": 125
+  },
+  "0a523d0b-5d59-400d-9ae6-6292f53df7e0": {
+    "bpm": 133,
+    "file": "before-the-floor-can-catch-it-v221.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "before-the-floor-can-catch-it",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "tarantella-accelerando-to-collapse",
+    "title": "Before the Floor Can Catch It",
+    "uuid": "0a523d0b-5d59-400d-9ae6-6292f53df7e0",
+    "version": 221
+  },
+  "0ba7ca3f-2196-4616-b096-06c48f707ef2": {
+    "bpm": 130,
+    "file": "the-room-after-everyone-left-v116.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "the-room-after-everyone-left",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 903,
+    "technique": "future-garage",
+    "title": "The Room After Everyone Left",
+    "uuid": "0ba7ca3f-2196-4616-b096-06c48f707ef2",
+    "version": 116
+  },
+  "0c0ba4de-366c-4e81-9d5d-5e351fc0a08a": {
+    "bpm": 154,
+    "file": "what-the-tide-returned-v237.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "what-the-tide-returned-v237",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 938,
+    "technique": "siciliano-to-cabaletta",
+    "title": "What the Tide Returned",
+    "uuid": "0c0ba4de-366c-4e81-9d5d-5e351fc0a08a",
+    "version": 237
+  },
+  "0ce6d1d0-dac4-4647-b8fc-1856cc9fb82f": {
+    "bpm": 153,
+    "file": "when-the-kiln-mouth-glows-v235.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "when-the-kiln-mouth-glows",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "chaconne-ground-bass-variations",
+    "title": "When the Kiln Mouth Glows",
+    "uuid": "0ce6d1d0-dac4-4647-b8fc-1856cc9fb82f",
+    "version": 235
+  },
+  "0d1be6bf-dbf2-400c-899d-780ab630c2e3": {
+    "bpm": 154,
+    "file": "what-the-tide-returned-v237.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "what-the-tide-returned-v237",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 938,
+    "technique": "siciliano-to-cabaletta",
+    "title": "What the Tide Returned",
+    "uuid": "0d1be6bf-dbf2-400c-899d-780ab630c2e3",
+    "version": 237
+  },
+  "0d89d838-5b85-453d-96ff-9b81e6b6ccf6": {
+    "bpm": 74,
+    "file": "the-cycles-realign-at-midnight-v133.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "the-cycles-realign-at-midnight",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 915,
+    "technique": "isorhythm",
+    "title": "The Cycles Realign at Midnight",
+    "uuid": "0d89d838-5b85-453d-96ff-9b81e6b6ccf6",
+    "version": 133
+  },
+  "0f3aa1e1-a36e-41f0-afeb-ab5183109cb4": {
+    "bpm": 44,
+    "file": "what-lives-inside-the-piano-v89.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "what-lives-inside-the-piano",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 964,
+    "technique": null,
+    "title": "What Lives Inside the Piano",
+    "uuid": "0f3aa1e1-a36e-41f0-afeb-ab5183109cb4",
+    "version": 89
+  },
+  "0fe689c6-9b23-40a7-9565-0a25be9dd179": {
+    "bpm": 142,
+    "file": "before-the-ferryman-speaks-v225.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "before-the-ferryman-speaks",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 950,
+    "technique": "isorhythmic-convergence",
+    "title": "Before the Ferryman Speaks",
+    "uuid": "0fe689c6-9b23-40a7-9565-0a25be9dd179",
+    "version": 225
+  },
+  "10c72fef-3806-4900-99e0-cf5029d6917e": {
+    "bpm": 103,
+    "file": "what-the-foundry-releases-v206.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "what-the-foundry-releases",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 924,
+    "technique": "col-legno-structural-arc",
+    "title": "What the Foundry Releases",
+    "uuid": "10c72fef-3806-4900-99e0-cf5029d6917e",
+    "version": 206
+  },
+  "11541c73-1f86-4c72-97d2-bc1ab382d272": {
+    "bpm": 161,
+    "file": "frost-on-the-deckle-v243.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "frost-on-the-deckle",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "barcarolle-to-grand-finale",
+    "title": "Frost on the Deckle",
+    "uuid": "11541c73-1f86-4c72-97d2-bc1ab382d272",
+    "version": 243
+  },
+  "13dc99f8-18f4-4c13-886d-1b63ceb4c1a5": {
+    "bpm": 119,
+    "file": "before-the-gate-finds-stillness-v214.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "before-the-gate-finds-stillness",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": null,
+    "title": "Before the Gate Finds Stillness",
+    "uuid": "13dc99f8-18f4-4c13-886d-1b63ceb4c1a5",
+    "version": 214
+  },
+  "152e7462-e454-4129-bc7a-7808e540fe2f": {
+    "bpm": 143,
+    "file": "before-the-ledger-closes-v227.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "before-the-ledger-closes",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 922,
+    "technique": "ritornello-form",
+    "title": "Before the Ledger Closes",
+    "uuid": "152e7462-e454-4129-bc7a-7808e540fe2f",
+    "version": 227
+  },
+  "162e5d81-58f5-4cae-99bb-83432c8684cb": {
+    "bpm": 66,
+    "file": "a-voice-carved-from-electricity-v80.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "a-voice-carved-from-electricity",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 939,
+    "technique": null,
+    "title": "A Voice Carved from Electricity",
+    "uuid": "162e5d81-58f5-4cae-99bb-83432c8684cb",
+    "version": 80
+  },
+  "1746a7cf-910d-406b-b494-475b84d02660": {
+    "bpm": 93,
+    "file": "before-the-copper-turns-cold-v208.yaml",
+    "instrumental": true,
+    "key": "g-sharp-major",
+    "name": "before-the-copper-turns-cold",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "french-overture-form",
+    "title": "Before the Copper Turns Cold",
+    "uuid": "1746a7cf-910d-406b-b494-475b84d02660",
+    "version": 208
+  },
+  "1b602245-6a32-4db4-a3a0-214583f0f8c4": {
+    "bpm": 99,
+    "file": "what-the-spring-forgets-v209.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "what-the-spring-forgets",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 950,
+    "technique": "collapse-to-solo-arc",
+    "title": "What the Spring Forgets",
+    "uuid": "1b602245-6a32-4db4-a3a0-214583f0f8c4",
+    "version": 209
+  },
+  "1cf38b14-0b46-46c7-9cac-12ca23a9edbb": {
+    "bpm": 152,
+    "file": "iron-canopy-at-last-light-v246.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "iron-canopy-at-last-light",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": "da-capo-aria",
+    "title": "Iron Canopy at Last Light",
+    "uuid": "1cf38b14-0b46-46c7-9cac-12ca23a9edbb",
+    "version": 246
+  },
+  "1d45e767-3ec5-4e99-af86-3164fdd1ef76": {
+    "bpm": 106,
+    "file": "the-intervals-your-ear-forgot-v132.yaml",
+    "instrumental": true,
+    "key": "c-sharp-major",
+    "name": "the-intervals-your-ear-forgot",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 932,
+    "technique": "quarter-tone",
+    "title": "The Intervals Your Ear Forgot",
+    "uuid": "1d45e767-3ec5-4e99-af86-3164fdd1ef76",
+    "version": 132
+  },
+  "20c9019e-e182-419b-b254-bf98c3a3cf0f": {
+    "bpm": 76,
+    "file": "bar-55-of-89-v92.yaml",
+    "instrumental": true,
+    "key": "d-flat-major",
+    "name": "bar-55-of-89",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 923,
+    "technique": null,
+    "title": "Bar 55 of 89",
+    "uuid": "20c9019e-e182-419b-b254-bf98c3a3cf0f",
+    "version": 92
+  },
+  "2251af68-7be9-4963-a2c1-c03d4940ad47": {
+    "bpm": 116,
+    "file": "the-moment-before-the-patterns-align-v127.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "the-moment-before-the-patterns-align",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "minimalism",
+    "title": "The Moment Before the Patterns Align",
+    "uuid": "2251af68-7be9-4963-a2c1-c03d4940ad47",
+    "version": 127
+  },
+  "22a0cb52-3ce7-417c-8ae7-dbc1b0d770a9": {
+    "bpm": 136,
+    "file": "dawn-the-falcon-lifts-v247.yaml",
+    "instrumental": true,
+    "key": "b-major",
+    "name": "dawn-the-falcon-lifts-v247",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 915,
+    "technique": "concert-march-with-trio",
+    "title": "Dawn the Falcon Lifts",
+    "uuid": "22a0cb52-3ce7-417c-8ae7-dbc1b0d770a9",
+    "version": 247
+  },
+  "2383f2db-0e0a-49a6-ac74-6c4ef7e1d471": {
+    "bpm": 123,
+    "file": "a-hall-the-water-will-not-leave-v216.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "a-hall-the-water-will-not-leave",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "bell-halo-two-voice-structure",
+    "title": "A Hall the Water Will Not Leave",
+    "uuid": "2383f2db-0e0a-49a6-ac74-6c4ef7e1d471",
+    "version": 216
+  },
+  "24032d26-59fc-4be2-a293-67a6158500cc": {
+    "bpm": 36,
+    "file": "eight-seconds-of-stone-v90.yaml",
+    "instrumental": true,
+    "key": "a-flat-major",
+    "name": "eight-seconds-of-stone",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 966,
+    "technique": null,
+    "title": "Eight Seconds of Stone",
+    "uuid": "24032d26-59fc-4be2-a293-67a6158500cc",
+    "version": 90
+  },
+  "282e254e-9cd9-41f5-9755-e8a61b4e8e40": {
+    "bpm": 140,
+    "file": "a-god-walking-slowly-v95.yaml",
+    "instrumental": true,
+    "key": null,
+    "name": "a-god-walking-slowly",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "trap",
+    "title": "A God Walking Slowly",
+    "uuid": "282e254e-9cd9-41f5-9755-e8a61b4e8e40",
+    "version": 95
+  },
+  "2df1c452-c56e-4a90-ae74-cc7104555af4": {
+    "bpm": 140,
+    "file": "what-happens-when-you-stop-being-careful-v93.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "what-happens-when-you-stop-being-careful",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 985,
+    "technique": "dubstep",
+    "title": "What Happens When You Stop Being Careful",
+    "uuid": "2df1c452-c56e-4a90-ae74-cc7104555af4",
+    "version": 93
+  },
+  "2e29f17f-ee24-4f59-b742-b6f9aef4b914": {
+    "bpm": 142,
+    "file": "before-the-ferryman-speaks-v225.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "before-the-ferryman-speaks",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 950,
+    "technique": "isorhythmic-convergence",
+    "title": "Before the Ferryman Speaks",
+    "uuid": "2e29f17f-ee24-4f59-b742-b6f9aef4b914",
+    "version": 225
+  },
+  "2e2c572f-8a5d-4baa-a517-e6f259fc668e": {
+    "bpm": 72,
+    "file": "a-cathedral-of-glass-v112.yaml",
+    "instrumental": true,
+    "key": "a-minor",
+    "name": "a-cathedral-of-glass",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 924,
+    "technique": null,
+    "title": "A Cathedral of Glass",
+    "uuid": "2e2c572f-8a5d-4baa-a517-e6f259fc668e",
+    "version": 112
+  },
+  "30327539-82cc-41dc-817d-70445f6e7240": {
+    "bpm": 97,
+    "file": "where-the-bell-finally-lands-v207.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "where-the-bell-finally-lands",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "asymmetric-7-beat-pulse",
+    "title": "Where the Bell Finally Lands",
+    "uuid": "30327539-82cc-41dc-817d-70445f6e7240",
+    "version": 207
+  },
+  "30aad764-acf5-4689-9b36-c2c110b16893": {
+    "bpm": 131,
+    "file": "every-gear-keeps-its-promise-v220.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "every-gear-keeps-its-promise",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "perpetuum-mobile",
+    "title": "Every Gear Keeps Its Promise",
+    "uuid": "30aad764-acf5-4689-9b36-c2c110b16893",
+    "version": 220
+  },
+  "31e8a02c-0dd8-420f-a592-1a3e9c1e9832": {
+    "bpm": 112,
+    "file": "light-across-the-open-form-v233.yaml",
+    "instrumental": true,
+    "key": "g-major",
+    "name": "light-across-the-open-form",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "cantus-firmus-arc",
+    "title": "Light Across the Open Form",
+    "uuid": "31e8a02c-0dd8-420f-a592-1a3e9c1e9832",
+    "version": 233
+  },
+  "336b76ec-33bf-49bd-b556-b06ba1713c62": {
+    "bpm": 122,
+    "file": "when-the-horn-finds-open-air-v215.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "when-the-horn-finds-open-air",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "stopped-horn-cuivré",
+    "title": "When the Horn Finds Open Air",
+    "uuid": "336b76ec-33bf-49bd-b556-b06ba1713c62",
+    "version": 215
+  },
+  "3549ec31-df96-4d9f-ac49-3e3ac44c9bc2": {
+    "bpm": 155,
+    "file": "cast-in-bronze-and-rung-once-v238.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "cast-in-bronze-and-rung-once-v238",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": "thematic-metamorphosis-arc",
+    "title": "Cast in Bronze and Rung Once",
+    "uuid": "3549ec31-df96-4d9f-ac49-3e3ac44c9bc2",
+    "version": 238
+  },
+  "370465c3-adce-47cb-bd6e-0ade6e3cc1ab": {
+    "bpm": 122,
+    "file": "when-the-horn-finds-open-air-v215.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "when-the-horn-finds-open-air",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "stopped-horn-cuivré",
+    "title": "When the Horn Finds Open Air",
+    "uuid": "370465c3-adce-47cb-bd6e-0ade6e3cc1ab",
+    "version": 215
+  },
+  "381b9a29-591c-4702-baab-349406dde1cb": {
+    "bpm": 102,
+    "file": "two-voices-in-the-same-rain-v123.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "two-voices-in-the-same-rain",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 897,
+    "technique": "noir-sonata",
+    "title": "Two Voices in the Same Rain",
+    "uuid": "381b9a29-591c-4702-baab-349406dde1cb",
+    "version": 123
+  },
+  "38b46de3-ad03-4bd8-8dde-ecb7ac28bb0b": {
+    "bpm": 153,
+    "file": "when-the-kiln-mouth-glows-v235.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "when-the-kiln-mouth-glows",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "chaconne-ground-bass-variations",
+    "title": "When the Kiln Mouth Glows",
+    "uuid": "38b46de3-ad03-4bd8-8dde-ecb7ac28bb0b",
+    "version": 235
+  },
+  "39d84932-7721-4acd-8151-2131dd8d5f5a": {
+    "bpm": 80,
+    "file": "rain-on-a-window-you-remember-v109.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "rain-on-a-window-you-remember",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 884,
+    "technique": "chillhop",
+    "title": "Rain on a Window You Remember",
+    "uuid": "39d84932-7721-4acd-8151-2131dd8d5f5a",
+    "version": 109
+  },
+  "3ce0e088-5e2d-4ab4-8f6c-a12a4d3dfd77": {
+    "bpm": 146,
+    "file": "what-the-scribe-could-not-finish-v226.yaml",
+    "instrumental": true,
+    "key": "c-minor",
+    "name": "what-the-scribe-could-not-finish",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 939,
+    "technique": "stile-concitato-arc",
+    "title": "What the Scribe Could Not Finish",
+    "uuid": "3ce0e088-5e2d-4ab4-8f6c-a12a4d3dfd77",
+    "version": 226
+  },
+  "3ec6c5c5-66f4-4345-9991-ae126cf9b875": {
+    "bpm": 83,
+    "file": "a-scale-for-difficult-mixtures-v232.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "a-scale-for-difficult-mixtures",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "metric-modulation-arc",
+    "title": "A Scale for Difficult Mixtures",
+    "uuid": "3ec6c5c5-66f4-4345-9991-ae126cf9b875",
+    "version": 232
+  },
+  "3ef4cc14-0bce-4a00-b398-01d86e7a4f22": {
+    "bpm": 144,
+    "file": "dopo-la-chiusura-v249.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "dopo-la-chiusura-v249",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 899,
+    "technique": null,
+    "title": "Dopo la Chiusura",
+    "uuid": "3ef4cc14-0bce-4a00-b398-01d86e7a4f22",
+    "version": 249
+  },
+  "40ceee45-5835-4462-8d24-929c913ad2ca": {
+    "bpm": 150,
+    "file": "a-crowd-that-will-never-stop-dancing-v74.yaml",
+    "instrumental": true,
+    "key": "c-minor",
+    "name": "a-crowd-that-will-never-stop-dancing",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 963,
+    "technique": "hardstyle",
+    "title": "A Crowd That Will Never Stop Dancing",
+    "uuid": "40ceee45-5835-4462-8d24-929c913ad2ca",
+    "version": 74
+  },
+  "43040b49-0728-44a1-b7cb-69df4214289a": {
+    "bpm": 124,
+    "file": "every-step-is-the-same-step-v125.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "every-step-is-the-same-step",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 927,
+    "technique": "passamezzo",
+    "title": "Every Step Is the Same Step",
+    "uuid": "43040b49-0728-44a1-b7cb-69df4214289a",
+    "version": 125
+  },
+  "45430221-50d3-49d3-889c-ccf0dcf028d7": {
+    "bpm": 152,
+    "file": "iron-canopy-at-last-light-v246.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "iron-canopy-at-last-light",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": "da-capo-aria",
+    "title": "Iron Canopy at Last Light",
+    "uuid": "45430221-50d3-49d3-889c-ccf0dcf028d7",
+    "version": 246
+  },
+  "4810bf66-b46a-4840-abc7-ceda42f143a9": {
+    "bpm": 101,
+    "file": "a-light-the-room-still-holds-v210.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "a-light-the-room-still-holds",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 948,
+    "technique": null,
+    "title": "A Light the Room Still Holds",
+    "uuid": "4810bf66-b46a-4840-abc7-ceda42f143a9",
+    "version": 210
+  },
+  "481cb966-bc52-4cfc-b522-a04decf38535": {
+    "bpm": 143,
+    "file": "before-the-ledger-closes-v227.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "before-the-ledger-closes",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 922,
+    "technique": "ritornello-form",
+    "title": "Before the Ledger Closes",
+    "uuid": "481cb966-bc52-4cfc-b522-a04decf38535",
+    "version": 227
+  },
+  "49fa9039-434e-4a1a-807b-a68d24e56177": {
+    "bpm": 161,
+    "file": "frost-on-the-deckle-v243.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "frost-on-the-deckle",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "barcarolle-to-grand-finale",
+    "title": "Frost on the Deckle",
+    "uuid": "49fa9039-434e-4a1a-807b-a68d24e56177",
+    "version": 243
+  },
+  "4a6e2c73-a1b2-4927-9a5a-22b7031f5bd1": {
+    "bpm": 68,
+    "file": "a-room-that-breathes-on-its-own-v126.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "a-room-that-breathes-on-its-own",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 936,
+    "technique": "micropolyphony-horror",
+    "title": "A Room That Breathes On Its Own",
+    "uuid": "4a6e2c73-a1b2-4927-9a5a-22b7031f5bd1",
+    "version": 126
+  },
+  "4cf5d126-c78a-46ff-a471-1ca5418d0162": {
+    "bpm": 106,
+    "file": "the-intervals-your-ear-forgot-v132.yaml",
+    "instrumental": true,
+    "key": "c-sharp-major",
+    "name": "the-intervals-your-ear-forgot",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 932,
+    "technique": "quarter-tone",
+    "title": "The Intervals Your Ear Forgot",
+    "uuid": "4cf5d126-c78a-46ff-a471-1ca5418d0162",
+    "version": 132
+  },
+  "4f498aee-a0bc-46c5-a894-c184923ccdd2": {
+    "bpm": 64,
+    "file": "the-ballroom-with-one-dancer-left-v136.yaml",
+    "instrumental": true,
+    "key": "d-minor",
+    "name": "the-ballroom-with-one-dancer-left",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "chaconne",
+    "title": "The Ballroom With One Dancer Left",
+    "uuid": "4f498aee-a0bc-46c5-a894-c184923ccdd2",
+    "version": 136
+  },
+  "52ac9509-9e6c-49dc-a7a2-0179f6fdfacc": {
+    "bpm": 128,
+    "file": "what-the-sphere-was-built-for-v96.yaml",
+    "instrumental": false,
+    "key": "d-minor",
+    "name": "what-the-sphere-was-built-for",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 976,
+    "technique": "progressive-house",
+    "title": "What the Sphere Was Built For",
+    "uuid": "52ac9509-9e6c-49dc-a7a2-0179f6fdfacc",
+    "version": 96
+  },
+  "52d90dab-3a1a-4896-b893-4ce785a831ef": {
+    "bpm": 146,
+    "file": "what-the-scribe-could-not-finish-v226.yaml",
+    "instrumental": true,
+    "key": "c-minor",
+    "name": "what-the-scribe-could-not-finish",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 939,
+    "technique": "stile-concitato-arc",
+    "title": "What the Scribe Could Not Finish",
+    "uuid": "52d90dab-3a1a-4896-b893-4ce785a831ef",
+    "version": 226
+  },
+  "56aa9b2f-e627-4057-b0ee-1849bd1bfcd0": {
+    "bpm": 149,
+    "file": "before-the-lamp-finds-its-form-v230.yaml",
+    "instrumental": true,
+    "key": "b-major",
+    "name": "before-the-lamp-finds-its-form",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 950,
+    "technique": "granular-decomposition",
+    "title": "What the Fog Gives Back",
+    "uuid": "56aa9b2f-e627-4057-b0ee-1849bd1bfcd0",
+    "version": 230
+  },
+  "57071671-9eb4-43c8-9e24-f17674546c43": {
+    "bpm": 156,
+    "file": "indigo-and-madder-at-the-last-light-v239.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "indigo-and-madder-at-the-last-light",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "hymn-and-fugato",
+    "title": "Indigo and Madder at the Last Light",
+    "uuid": "57071671-9eb4-43c8-9e24-f17674546c43",
+    "version": 239
+  },
+  "57ad130f-5a0d-4c12-96c6-e715ec6f23f3": {
+    "bpm": 159,
+    "file": "curtain-rises-on-a-whole-melody-v242.yaml",
+    "instrumental": true,
+    "key": "d-flat-major",
+    "name": "curtain-rises-on-a-whole-melody",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": "hocket-and-fusion",
+    "title": "Curtain Rises on a Whole Melody",
+    "uuid": "57ad130f-5a0d-4c12-96c6-e715ec6f23f3",
+    "version": 242
+  },
+  "57f10425-6c64-4f0b-ac9f-17284bb74fd3": {
+    "bpm": 98,
+    "file": "the-row-that-never-repeats-v130.yaml",
+    "instrumental": true,
+    "key": null,
+    "name": "the-row-that-never-repeats",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 917,
+    "technique": "twelve-tone",
+    "title": "The Row That Never Repeats",
+    "uuid": "57f10425-6c64-4f0b-ac9f-17284bb74fd3",
+    "version": 130
+  },
+  "5bec76f0-7638-49af-8745-5bffef08cf5c": {
+    "bpm": 83,
+    "file": "a-scale-for-difficult-mixtures-v232.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "a-scale-for-difficult-mixtures",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "metric-modulation-arc",
+    "title": "A Scale for Difficult Mixtures",
+    "uuid": "5bec76f0-7638-49af-8745-5bffef08cf5c",
+    "version": 232
+  },
+  "5dd8c682-7de8-495f-ae55-785f88521e00": {
+    "bpm": 128,
+    "file": "what-the-high-pass-finally-releases-v234.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "what-the-high-pass-finally-releases",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 944,
+    "technique": "threnody-to-apotheosis-arc",
+    "title": "What the High Pass Finally Releases",
+    "uuid": "5dd8c682-7de8-495f-ae55-785f88521e00",
+    "version": 234
+  },
+  "5e3bdf7a-6a57-44b2-b68a-48d8335fb76a": {
+    "bpm": 148,
+    "file": "before-the-flock-decides-v229.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "before-the-flock-decides",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "alap-jor-jhala-velocity-arc",
+    "title": "Before the Flock Decides",
+    "uuid": "5e3bdf7a-6a57-44b2-b68a-48d8335fb76a",
+    "version": 229
+  },
+  "5e9e8d85-ee1d-4eff-b413-eca4d985680a": {
+    "bpm": 94,
+    "file": "the-shape-probability-takes-v131.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "the-shape-probability-takes",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "stochastic",
+    "title": "The Shape Probability Takes",
+    "uuid": "5e9e8d85-ee1d-4eff-b413-eca4d985680a",
+    "version": 131
+  },
+  "60887253-b0c1-4489-b4c4-818d7ecf83c0": {
+    "bpm": 76,
+    "file": "the-bell-that-wept-v117.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "the-bell-that-wept",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 906,
+    "technique": null,
+    "title": "The Bell That Wept",
+    "uuid": "60887253-b0c1-4489-b4c4-818d7ecf83c0",
+    "version": 117
+  },
+  "63170db3-8546-4984-944a-b238e9d97d22": {
+    "bpm": 95,
+    "file": "what-happens-when-the-music-breaks-v118.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "what-happens-when-the-music-breaks",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "glitch",
+    "title": "What Happens When the Music Breaks",
+    "uuid": "63170db3-8546-4984-944a-b238e9d97d22",
+    "version": 118
+  },
+  "666269f4-15f1-4ce9-b677-1c05355a7a38": {
+    "bpm": 136,
+    "file": "dawn-the-falcon-lifts-v247.yaml",
+    "instrumental": true,
+    "key": "b-major",
+    "name": "dawn-the-falcon-lifts-v247",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 915,
+    "technique": "concert-march-with-trio",
+    "title": "Dawn the Falcon Lifts",
+    "uuid": "666269f4-15f1-4ce9-b677-1c05355a7a38",
+    "version": 247
+  },
+  "67ff8b8f-641c-45e6-8bd8-806b61a7d95e": {
+    "bpm": 114,
+    "file": "the-pilgrim-walk-in-parallel-thirds-v139.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "the-pilgrim-walk-in-parallel-thirds",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "fauxbourdon",
+    "title": "The Pilgrim Walk in Parallel Thirds",
+    "uuid": "67ff8b8f-641c-45e6-8bd8-806b61a7d95e",
+    "version": 139
+  },
+  "6895cf38-4600-4873-a19d-ce5f88e2c058": {
+    "bpm": 102,
+    "file": "two-voices-in-the-same-rain-v123.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "two-voices-in-the-same-rain",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 897,
+    "technique": "noir-sonata",
+    "title": "Two Voices in the Same Rain",
+    "uuid": "6895cf38-4600-4873-a19d-ce5f88e2c058",
+    "version": 123
+  },
+  "694b0724-5f6c-4ebe-9403-cd6f6ada3ee4": {
+    "bpm": 36,
+    "file": "eight-seconds-of-stone-v90.yaml",
+    "instrumental": true,
+    "key": "a-flat-major",
+    "name": "eight-seconds-of-stone",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 966,
+    "technique": null,
+    "title": "Eight Seconds of Stone",
+    "uuid": "694b0724-5f6c-4ebe-9403-cd6f6ada3ee4",
+    "version": 90
+  },
+  "69aeb0a4-673c-459e-aa69-69938d911b29": {
+    "bpm": 97,
+    "file": "where-the-bell-finally-lands-v207.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "where-the-bell-finally-lands",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "asymmetric-7-beat-pulse",
+    "title": "Where the Bell Finally Lands",
+    "uuid": "69aeb0a4-673c-459e-aa69-69938d911b29",
+    "version": 207
+  },
+  "6b908e66-9f81-43b9-82bb-6f7ff278a505": {
+    "bpm": 47,
+    "file": "when-the-doves-first-stir-v244.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "when-the-doves-first-stir",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 913,
+    "technique": "sarabande-and-double",
+    "title": "When the Doves First Stir",
+    "uuid": "6b908e66-9f81-43b9-82bb-6f7ff278a505",
+    "version": 244
+  },
+  "6e53e372-90ae-4bde-9b69-5762af67081b": {
+    "bpm": 95,
+    "file": "what-happens-when-the-music-breaks-v118.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "what-happens-when-the-music-breaks",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "glitch",
+    "title": "What Happens When the Music Breaks",
+    "uuid": "6e53e372-90ae-4bde-9b69-5762af67081b",
+    "version": 118
+  },
+  "70503c50-06b3-4529-9e73-41e7270c27d5": {
+    "bpm": 84,
+    "file": "what-keeps-coming-back-v115.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "what-keeps-coming-back",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 894,
+    "technique": null,
+    "title": "What Keeps Coming Back",
+    "uuid": "70503c50-06b3-4529-9e73-41e7270c27d5",
+    "version": 115
+  },
+  "705871ce-7a00-4190-ac8a-888aa241c576": {
+    "bpm": 141,
+    "file": "what-the-noise-kept-hidden-v224.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "what-the-noise-kept-hidden",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "musique-concrete-instrumentale",
+    "title": "What the Noise Kept Hidden",
+    "uuid": "705871ce-7a00-4190-ac8a-888aa241c576",
+    "version": 224
+  },
+  "719457ec-e164-4e61-91f8-d16980dee8db": {
+    "bpm": 47,
+    "file": "when-the-doves-first-stir-v244.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "when-the-doves-first-stir",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 913,
+    "technique": "sarabande-and-double",
+    "title": "When the Doves First Stir",
+    "uuid": "719457ec-e164-4e61-91f8-d16980dee8db",
+    "version": 244
+  },
+  "71ee424e-cfe5-44af-b603-18a7e67e133d": {
+    "bpm": 151,
+    "file": "at-the-transit-wire-v236.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "at-the-transit-wire-v236",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 937,
+    "technique": "double-variation",
+    "title": "At the Transit Wire",
+    "uuid": "71ee424e-cfe5-44af-b603-18a7e67e133d",
+    "version": 236
+  },
+  "72eb5b2f-97fb-4727-afe7-f705cb322772": {
+    "bpm": 116,
+    "file": "the-moment-before-the-patterns-align-v127.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "the-moment-before-the-patterns-align",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "minimalism",
+    "title": "The Moment Before the Patterns Align",
+    "uuid": "72eb5b2f-97fb-4727-afe7-f705cb322772",
+    "version": 127
+  },
+  "74f69e68-d4e6-4cb7-ae8f-adb99588bc6d": {
+    "bpm": 148,
+    "file": "before-the-flock-decides-v229.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "before-the-flock-decides",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "alap-jor-jhala-velocity-arc",
+    "title": "Before the Flock Decides",
+    "uuid": "74f69e68-d4e6-4cb7-ae8f-adb99588bc6d",
+    "version": 229
+  },
+  "75e63e60-f5b2-4c2d-b92c-8c831aa597e8": {
+    "bpm": 93,
+    "file": "before-the-copper-turns-cold-v208.yaml",
+    "instrumental": true,
+    "key": "g-sharp-major",
+    "name": "before-the-copper-turns-cold",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "french-overture-form",
+    "title": "Before the Copper Turns Cold",
+    "uuid": "75e63e60-f5b2-4c2d-b92c-8c831aa597e8",
+    "version": 208
+  },
+  "76eef95c-d196-41a2-8ef9-eefd0122218d": {
+    "bpm": 140,
+    "file": "what-happens-when-you-stop-being-careful-v93.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "what-happens-when-you-stop-being-careful",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 985,
+    "technique": "dubstep",
+    "title": "What Happens When You Stop Being Careful",
+    "uuid": "76eef95c-d196-41a2-8ef9-eefd0122218d",
+    "version": 93
+  },
+  "77352f74-a7ef-456c-a48f-025b6ccb9329": {
+    "bpm": 105,
+    "file": "what-the-chapel-holds-at-dawn-v211.yaml",
+    "instrumental": true,
+    "key": "c-flat-major",
+    "name": "what-the-chapel-holds-at-dawn",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": null,
+    "title": "What the Chapel Holds at Dawn",
+    "uuid": "77352f74-a7ef-456c-a48f-025b6ccb9329",
+    "version": 211
+  },
+  "81fcfb8a-b46b-4be9-8ea8-322b5227b4d7": {
+    "bpm": 145,
+    "file": "where-the-spring-holds-still-v231.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "where-the-spring-holds-still",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 904,
+    "technique": "quartal-harmony-arc",
+    "title": "Where the Spring Holds Still",
+    "uuid": "81fcfb8a-b46b-4be9-8ea8-322b5227b4d7",
+    "version": 231
+  },
+  "83b065bf-f2dd-4b44-b25b-6db75435c6f0": {
+    "bpm": 152,
+    "file": "every-voice-chasing-the-last-v120.yaml",
+    "instrumental": true,
+    "key": "g-major",
+    "name": "every-voice-chasing-the-last",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 915,
+    "technique": "canon",
+    "title": "Every Voice Chasing the Last",
+    "uuid": "83b065bf-f2dd-4b44-b25b-6db75435c6f0",
+    "version": 120
+  },
+  "85b310aa-be21-4514-9df2-f87a8bcd25f3": {
+    "bpm": 60,
+    "file": "the-question-that-keeps-being-asked-v113.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "the-question-that-keeps-being-asked",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 910,
+    "technique": null,
+    "title": "The Question That Keeps Being Asked",
+    "uuid": "85b310aa-be21-4514-9df2-f87a8bcd25f3",
+    "version": 113
+  },
+  "8b3c1ed8-2970-47fa-845c-7f6a193297c6": {
+    "bpm": 118,
+    "file": "the-line-you-only-hear-together-v134.yaml",
+    "instrumental": true,
+    "key": "f-sharp-major",
+    "name": "the-line-you-only-hear-together",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 940,
+    "technique": "hoquetus",
+    "title": "The Line You Only Hear Together",
+    "uuid": "8b3c1ed8-2970-47fa-845c-7f6a193297c6",
+    "version": 134
+  },
+  "8b73e180-f839-461b-8fe1-12077d8c8f7d": {
+    "bpm": 141,
+    "file": "what-the-noise-kept-hidden-v224.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "what-the-noise-kept-hidden",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "musique-concrete-instrumentale",
+    "title": "What the Noise Kept Hidden",
+    "uuid": "8b73e180-f839-461b-8fe1-12077d8c8f7d",
+    "version": 224
+  },
+  "8c53253d-75e8-4836-b64b-47cce7d758a8": {
+    "bpm": 60,
+    "file": "the-question-that-keeps-being-asked-v113.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "the-question-that-keeps-being-asked",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 910,
+    "technique": null,
+    "title": "The Question That Keeps Being Asked",
+    "uuid": "8c53253d-75e8-4836-b64b-47cce7d758a8",
+    "version": 113
+  },
+  "8dfcd2c0-2391-47c9-a918-30103325024c": {
+    "bpm": 72,
+    "file": "the-instrument-franklin-feared-v79.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "the-instrument-franklin-feared",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 987,
+    "technique": null,
+    "title": "The Instrument Franklin Feared",
+    "uuid": "8dfcd2c0-2391-47c9-a918-30103325024c",
+    "version": 79
+  },
+  "93d76af4-9498-47bb-9957-791492bbd678": {
+    "bpm": 132,
+    "file": "rain-on-the-quai-v248.yaml",
+    "instrumental": true,
+    "key": "a-minor",
+    "name": "rain-on-the-quai-v248",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 949,
+    "technique": "french-cinematic-chanson",
+    "title": "Rain on the Quai",
+    "uuid": "93d76af4-9498-47bb-9957-791492bbd678",
+    "version": 248
+  },
+  "93ee2cb5-0357-4f11-96bf-9db6545f1cd9": {
+    "bpm": 136,
+    "file": "the-river-that-never-stops-running-v138.yaml",
+    "instrumental": true,
+    "key": "b-flat-major",
+    "name": "the-river-that-never-stops-running",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 939,
+    "technique": "moto-perpetuo",
+    "title": "The River That Never Stops Running",
+    "uuid": "93ee2cb5-0357-4f11-96bf-9db6545f1cd9",
+    "version": 138
+  },
+  "94a93ee0-9423-4cd3-aca7-d8026d235a07": {
+    "bpm": 96,
+    "file": "the-echo-that-became-a-melody-v91.yaml",
+    "instrumental": true,
+    "key": "e-major",
+    "name": "the-echo-that-became-a-melody",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 997,
+    "technique": null,
+    "title": "The Echo That Became a Melody",
+    "uuid": "94a93ee0-9423-4cd3-aca7-d8026d235a07",
+    "version": 91
+  },
+  "95d47f33-dd37-4c80-abd9-b84321b8fb69": {
+    "bpm": 140,
+    "file": "where-the-concrete-remembers-v102.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "where-the-concrete-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 935,
+    "technique": "grime",
+    "title": "Where the Concrete Remembers",
+    "uuid": "95d47f33-dd37-4c80-abd9-b84321b8fb69",
+    "version": 102
+  },
+  "962f61d5-0139-4742-9ebf-bf97d9a86b1c": {
+    "bpm": 78,
+    "file": "what-the-attic-remembers-v122.yaml",
+    "instrumental": true,
+    "key": "b-major",
+    "name": "what-the-attic-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "concerto-grosso",
+    "title": "What the Attic Remembers",
+    "uuid": "962f61d5-0139-4742-9ebf-bf97d9a86b1c",
+    "version": 122
+  },
+  "98fb3ed4-5345-42a8-8fff-0892b7ec0109": {
+    "bpm": 156,
+    "file": "indigo-and-madder-at-the-last-light-v239.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "indigo-and-madder-at-the-last-light",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "hymn-and-fugato",
+    "title": "Indigo and Madder at the Last Light",
+    "uuid": "98fb3ed4-5345-42a8-8fff-0892b7ec0109",
+    "version": 239
+  },
+  "9948b0ab-e3bc-4c79-aa85-ff52f3f3d559": {
+    "bpm": 151,
+    "file": "at-the-transit-wire-v236.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "at-the-transit-wire-v236",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 937,
+    "technique": "double-variation",
+    "title": "At the Transit Wire",
+    "uuid": "9948b0ab-e3bc-4c79-aa85-ff52f3f3d559",
+    "version": 236
+  },
+  "9c446676-a2d2-478f-a8dd-7ceb5c5c6336": {
+    "bpm": 103,
+    "file": "what-the-foundry-releases-v206.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "what-the-foundry-releases",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 924,
+    "technique": "col-legno-structural-arc",
+    "title": "What the Foundry Releases",
+    "uuid": "9c446676-a2d2-478f-a8dd-7ceb5c5c6336",
+    "version": 206
+  },
+  "9c4df81f-9315-4d94-b23f-17096996e1ea": {
+    "bpm": 94,
+    "file": "the-shape-probability-takes-v131.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "the-shape-probability-takes",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "stochastic",
+    "title": "The Shape Probability Takes",
+    "uuid": "9c4df81f-9315-4d94-b23f-17096996e1ea",
+    "version": 131
+  },
+  "9ca803c6-91a9-43ca-a428-09f7659a983b": {
+    "bpm": 137,
+    "file": "what-the-vellum-keeps-v222.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "what-the-vellum-keeps",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "additive-stratum-scoring",
+    "title": "What the Vellum Keeps",
+    "uuid": "9ca803c6-91a9-43ca-a428-09f7659a983b",
+    "version": 222
+  },
+  "9dd6bfcf-7372-48ba-94a2-0c102de59130": {
+    "bpm": 150,
+    "file": "where-the-fog-parts-for-iron-v250.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "where-the-fog-parts-for-iron",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 904,
+    "technique": null,
+    "title": "Where the Fog Parts for Iron",
+    "uuid": "9dd6bfcf-7372-48ba-94a2-0c102de59130",
+    "version": 250
+  },
+  "9fabfbf7-0639-45f0-9881-0463cdfb0a31": {
+    "bpm": 62,
+    "file": "the-same-story-told-three-ways-v119.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "the-same-story-told-three-ways",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 911,
+    "technique": "theme-and-variations",
+    "title": "The Same Story Told Three Ways",
+    "uuid": "9fabfbf7-0639-45f0-9881-0463cdfb0a31",
+    "version": 119
+  },
+  "9fc2d4d3-5314-4d65-a4e5-e02d42166742": {
+    "bpm": 82,
+    "file": "where-each-note-decides-itself-v129.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "where-each-note-decides-itself",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 900,
+    "technique": "aleatoric",
+    "title": "Where Each Note Decides Itself",
+    "uuid": "9fc2d4d3-5314-4d65-a4e5-e02d42166742",
+    "version": 129
+  },
+  "a485355e-2e25-43ec-957d-ab4d23f7c3bd": {
+    "bpm": 66,
+    "file": "the-first-and-last-note-are-the-same-v114.yaml",
+    "instrumental": true,
+    "key": "d-minor",
+    "name": "the-first-and-last-note-are-the-same",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 928,
+    "technique": null,
+    "title": "The First and Last Note Are the Same",
+    "uuid": "a485355e-2e25-43ec-957d-ab4d23f7c3bd",
+    "version": 114
+  },
+  "a6ef4700-8b46-4493-aa63-8dd05e1dab57": {
+    "bpm": 50,
+    "file": "the-frequency-of-still-water-v124.yaml",
+    "instrumental": true,
+    "key": "f-sharp-major",
+    "name": "the-frequency-of-still-water",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "ambient-ricercare",
+    "title": "The Frequency of Still Water",
+    "uuid": "a6ef4700-8b46-4493-aa63-8dd05e1dab57",
+    "version": 124
+  },
+  "a76edf32-e307-499f-b015-5870a8954bc9": {
+    "bpm": 101,
+    "file": "a-light-the-room-still-holds-v210.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "a-light-the-room-still-holds",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 948,
+    "technique": null,
+    "title": "A Light the Room Still Holds",
+    "uuid": "a76edf32-e307-499f-b015-5870a8954bc9",
+    "version": 210
+  },
+  "a7aa0a74-6bc3-4bf7-8417-f3605f65acd2": {
+    "bpm": 66,
+    "file": "the-ground-that-holds-everything-v111.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "the-ground-that-holds-everything",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 951,
+    "technique": "passacaglia",
+    "title": "The Ground That Holds Everything",
+    "uuid": "a7aa0a74-6bc3-4bf7-8417-f3605f65acd2",
+    "version": 111
+  },
+  "a81a354a-9c82-4658-80bf-6abe3d48f0bf": {
+    "bpm": 109,
+    "file": "where-the-candle-learns-its-name-v212.yaml",
+    "instrumental": true,
+    "key": "f-flat-major",
+    "name": "where-the-candle-learns-its-name",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": null,
+    "title": "Where the Candle Learns Its Name",
+    "uuid": "a81a354a-9c82-4658-80bf-6abe3d48f0bf",
+    "version": 212
+  },
+  "a8b23a8d-0a53-4263-8bc2-726a6a87e423": {
+    "bpm": 128,
+    "file": "what-the-high-pass-finally-releases-v234.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "what-the-high-pass-finally-releases",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 944,
+    "technique": "threnody-to-apotheosis-arc",
+    "title": "What the High Pass Finally Releases",
+    "uuid": "a8b23a8d-0a53-4263-8bc2-726a6a87e423",
+    "version": 234
+  },
+  "a8db2802-6d1e-4837-838e-339e5997f131": {
+    "bpm": 111,
+    "file": "before-the-forest-closes-in-v213.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "before-the-forest-closes-in",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 938,
+    "technique": "caccia-with-ritornello",
+    "title": "Before the Forest Closes In",
+    "uuid": "a8db2802-6d1e-4837-838e-339e5997f131",
+    "version": 213
+  },
+  "aa2e27a4-b5de-4324-9950-6f6c193edc3b": {
+    "bpm": 111,
+    "file": "before-the-forest-closes-in-v213.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "before-the-forest-closes-in",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 938,
+    "technique": "caccia-with-ritornello",
+    "title": "Before the Forest Closes In",
+    "uuid": "aa2e27a4-b5de-4324-9950-6f6c193edc3b",
+    "version": 213
+  },
+  "aba43bc3-49b5-4e9c-859d-287180a33caa": {
+    "bpm": 158,
+    "file": "iron-and-glass-at-first-light-v241.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "iron-and-glass-at-first-light",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 910,
+    "technique": "lament-bass-ground",
+    "title": "Iron and Glass at First Light",
+    "uuid": "aba43bc3-49b5-4e9c-859d-287180a33caa",
+    "version": 241
+  },
+  "ac9a13f2-da76-45d2-97da-b1be1cafb5be": {
+    "bpm": 159,
+    "file": "curtain-rises-on-a-whole-melody-v242.yaml",
+    "instrumental": true,
+    "key": "d-flat-major",
+    "name": "curtain-rises-on-a-whole-melody",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": "hocket-and-fusion",
+    "title": "Curtain Rises on a Whole Melody",
+    "uuid": "ac9a13f2-da76-45d2-97da-b1be1cafb5be",
+    "version": 242
+  },
+  "ad28ee33-0f80-45a7-a168-29c144014834": {
+    "bpm": 98,
+    "file": "the-row-that-never-repeats-v130.yaml",
+    "instrumental": true,
+    "key": null,
+    "name": "the-row-that-never-repeats",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 917,
+    "technique": "twelve-tone",
+    "title": "The Row That Never Repeats",
+    "uuid": "ad28ee33-0f80-45a7-a168-29c144014834",
+    "version": 130
+  },
+  "ae380cb7-c22e-4168-b380-0ac5d8721351": {
+    "bpm": 144,
+    "file": "dopo-la-chiusura-v249.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "dopo-la-chiusura-v249",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 899,
+    "technique": null,
+    "title": "Dopo la Chiusura",
+    "uuid": "ae380cb7-c22e-4168-b380-0ac5d8721351",
+    "version": 249
+  },
+  "ae5543f8-aca6-412d-8bcf-1c0f8e76d5c6": {
+    "bpm": 50,
+    "file": "the-frequency-of-still-water-v124.yaml",
+    "instrumental": true,
+    "key": "f-sharp-major",
+    "name": "the-frequency-of-still-water",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "ambient-ricercare",
+    "title": "The Frequency of Still Water",
+    "uuid": "ae5543f8-aca6-412d-8bcf-1c0f8e76d5c6",
+    "version": 124
+  },
+  "ae896260-f165-4f3b-9390-645b4d6b6444": {
+    "bpm": 163,
+    "file": "the-keeper-in-january-v251.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "the-keeper-in-january",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 946,
+    "technique": null,
+    "title": "The Keeper in January",
+    "uuid": "ae896260-f165-4f3b-9390-645b4d6b6444",
+    "version": 251
+  },
+  "b17771d4-355a-4b29-bd78-ba35b16d8f9e": {
+    "bpm": 112,
+    "file": "light-across-the-open-form-v233.yaml",
+    "instrumental": true,
+    "key": "g-major",
+    "name": "light-across-the-open-form",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "cantus-firmus-arc",
+    "title": "Light Across the Open Form",
+    "uuid": "b17771d4-355a-4b29-bd78-ba35b16d8f9e",
+    "version": 233
+  },
+  "b181d8e4-06f3-43db-bf12-c4298c2f9dbc": {
+    "bpm": 139,
+    "file": "what-one-reed-remembers-v223.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "what-one-reed-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "climax-at-the-front",
+    "title": "What One Reed Remembers",
+    "uuid": "b181d8e4-06f3-43db-bf12-c4298c2f9dbc",
+    "version": 223
+  },
+  "b26af6dc-fc34-424f-8d5d-f91ac15068b4": {
+    "bpm": 149,
+    "file": "before-the-lamp-finds-its-form-v230.yaml",
+    "instrumental": true,
+    "key": "b-major",
+    "name": "before-the-lamp-finds-its-form",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 950,
+    "technique": "granular-decomposition",
+    "title": "What the Fog Gives Back",
+    "uuid": "b26af6dc-fc34-424f-8d5d-f91ac15068b4",
+    "version": 230
+  },
+  "b3518c11-7354-420d-856b-2ee4ba6145a5": {
+    "bpm": 127,
+    "file": "every-gap-an-engine-v217.yaml",
+    "instrumental": true,
+    "key": "e-flat-major",
+    "name": "every-gap-an-engine",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "hocket",
+    "title": "Every Gap an Engine",
+    "uuid": "b3518c11-7354-420d-856b-2ee4ba6145a5",
+    "version": 217
+  },
+  "b7a10a11-56e9-4fd0-b912-b13940767de4": {
+    "bpm": 76,
+    "file": "bar-55-of-89-v92.yaml",
+    "instrumental": true,
+    "key": "d-flat-major",
+    "name": "bar-55-of-89",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 923,
+    "technique": null,
+    "title": "Bar 55 of 89",
+    "uuid": "b7a10a11-56e9-4fd0-b912-b13940767de4",
+    "version": 92
+  },
+  "b9115f29-13f8-4e61-af5c-7f3cc0c9cfd9": {
+    "bpm": 82,
+    "file": "where-each-note-decides-itself-v129.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "where-each-note-decides-itself",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 900,
+    "technique": "aleatoric",
+    "title": "Where Each Note Decides Itself",
+    "uuid": "b9115f29-13f8-4e61-af5c-7f3cc0c9cfd9",
+    "version": 129
+  },
+  "b943b0b3-313a-47bf-8486-2f4ab028d9cc": {
+    "bpm": 126,
+    "file": "the-melody-that-changes-color-v135.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "the-melody-that-changes-color",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 906,
+    "technique": "klangfarbenmelodie",
+    "title": "The Melody That Changes Color",
+    "uuid": "b943b0b3-313a-47bf-8486-2f4ab028d9cc",
+    "version": 135
+  },
+  "ba1928b1-a141-4096-864b-b4e7dfd50103": {
+    "bpm": 139,
+    "file": "what-one-reed-remembers-v223.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "what-one-reed-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 943,
+    "technique": "climax-at-the-front",
+    "title": "What One Reed Remembers",
+    "uuid": "ba1928b1-a141-4096-864b-b4e7dfd50103",
+    "version": 223
+  },
+  "ba303cf8-eacd-4401-8337-e882eb9eb6f4": {
+    "bpm": 126,
+    "file": "the-melody-that-changes-color-v135.yaml",
+    "instrumental": true,
+    "key": "a-major",
+    "name": "the-melody-that-changes-color",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 906,
+    "technique": "klangfarbenmelodie",
+    "title": "The Melody That Changes Color",
+    "uuid": "ba303cf8-eacd-4401-8337-e882eb9eb6f4",
+    "version": 135
+  },
+  "bacbe6e7-d3c2-431d-a1ce-eb688ccfa846": {
+    "bpm": 163,
+    "file": "the-keeper-in-january-v251.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "the-keeper-in-january",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 946,
+    "technique": null,
+    "title": "The Keeper in January",
+    "uuid": "bacbe6e7-d3c2-431d-a1ce-eb688ccfa846",
+    "version": 251
+  },
+  "bd34cbf6-3c56-4ee5-ad50-3ad53e70eb3f": {
+    "bpm": 147,
+    "file": "what-color-the-forge-remembers-v228.yaml",
+    "instrumental": true,
+    "key": "a-flat-major",
+    "name": "what-color-the-forge-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 897,
+    "technique": "klangfarbenmelodie",
+    "title": "What Color the Forge Remembers",
+    "uuid": "bd34cbf6-3c56-4ee5-ad50-3ad53e70eb3f",
+    "version": 228
+  },
+  "bd3abe03-0427-4c73-a8ed-19d1f209c6fa": {
+    "bpm": 152,
+    "file": "every-voice-chasing-the-last-v120.yaml",
+    "instrumental": true,
+    "key": "g-major",
+    "name": "every-voice-chasing-the-last",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 915,
+    "technique": "canon",
+    "title": "Every Voice Chasing the Last",
+    "uuid": "bd3abe03-0427-4c73-a8ed-19d1f209c6fa",
+    "version": 120
+  },
+  "bffa20b4-ab69-4996-a842-3459bb98116b": {
+    "bpm": 99,
+    "file": "what-the-spring-forgets-v209.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "what-the-spring-forgets",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 950,
+    "technique": "collapse-to-solo-arc",
+    "title": "What the Spring Forgets",
+    "uuid": "bffa20b4-ab69-4996-a842-3459bb98116b",
+    "version": 209
+  },
+  "c0a0d3d4-61f3-47b0-a2f4-1a95995813b1": {
+    "bpm": 132,
+    "file": "rain-on-the-quai-v248.yaml",
+    "instrumental": true,
+    "key": "a-minor",
+    "name": "rain-on-the-quai-v248",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 949,
+    "technique": "french-cinematic-chanson",
+    "title": "Rain on the Quai",
+    "uuid": "c0a0d3d4-61f3-47b0-a2f4-1a95995813b1",
+    "version": 248
+  },
+  "c0faa2e1-5dc2-4f4f-91f8-369b3c11daea": {
+    "bpm": 72,
+    "file": "a-cathedral-of-glass-v112.yaml",
+    "instrumental": true,
+    "key": "a-minor",
+    "name": "a-cathedral-of-glass",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 924,
+    "technique": null,
+    "title": "A Cathedral of Glass",
+    "uuid": "c0faa2e1-5dc2-4f4f-91f8-369b3c11daea",
+    "version": 112
+  },
+  "c3515683-c09a-46f3-96e3-d0ae7ae9bdd8": {
+    "bpm": 140,
+    "file": "a-god-walking-slowly-v95.yaml",
+    "instrumental": true,
+    "key": null,
+    "name": "a-god-walking-slowly",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "trap",
+    "title": "A God Walking Slowly",
+    "uuid": "c3515683-c09a-46f3-96e3-d0ae7ae9bdd8",
+    "version": 95
+  },
+  "c71c64f7-ca7f-4b2e-8c1f-710c2fc1fc55": {
+    "bpm": 98,
+    "file": "the-row-that-never-repeats-v130.yaml",
+    "instrumental": true,
+    "key": null,
+    "name": "the-row-that-never-repeats",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 917,
+    "technique": "twelve-tone",
+    "title": "The Row That Never Repeats",
+    "uuid": "c71c64f7-ca7f-4b2e-8c1f-710c2fc1fc55",
+    "version": 130
+  },
+  "c71e240e-1918-43d0-900b-8c84788b59de": {
+    "bpm": 138,
+    "file": "the-silence-that-sounds-like-falling-v94.yaml",
+    "instrumental": false,
+    "key": "a-minor",
+    "name": "the-silence-that-sounds-like-falling",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "trance",
+    "title": "The Silence That Sounds Like Falling",
+    "uuid": "c71e240e-1918-43d0-900b-8c84788b59de",
+    "version": 94
+  },
+  "c8befc7c-b8d5-42b5-bcf6-3ec03d0bc790": {
+    "bpm": 62,
+    "file": "the-same-story-told-three-ways-v119.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "the-same-story-told-three-ways",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 911,
+    "technique": "theme-and-variations",
+    "title": "The Same Story Told Three Ways",
+    "uuid": "c8befc7c-b8d5-42b5-bcf6-3ec03d0bc790",
+    "version": 119
+  },
+  "c9235ebe-da0e-443c-84d2-553c39722136": {
+    "bpm": 145,
+    "file": "where-the-spring-holds-still-v231.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "where-the-spring-holds-still",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 904,
+    "technique": "quartal-harmony-arc",
+    "title": "Where the Spring Holds Still",
+    "uuid": "c9235ebe-da0e-443c-84d2-553c39722136",
+    "version": 231
+  },
+  "cc404262-9d5b-4d8b-aaed-9ba89e9b1727": {
+    "bpm": 127,
+    "file": "every-gap-an-engine-v217.yaml",
+    "instrumental": true,
+    "key": "e-flat-major",
+    "name": "every-gap-an-engine",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "hocket",
+    "title": "Every Gap an Engine",
+    "uuid": "cc404262-9d5b-4d8b-aaed-9ba89e9b1727",
+    "version": 217
+  },
+  "cc922fd5-b357-4d86-9e9d-3febef74a162": {
+    "bpm": 129,
+    "file": "light-without-fixed-source-v219.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "light-without-fixed-source",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 944,
+    "technique": "chromatic-planing",
+    "title": "Light Without Fixed Source",
+    "uuid": "cc922fd5-b357-4d86-9e9d-3febef74a162",
+    "version": 219
+  },
+  "ce0ed1e0-eb29-476a-b57e-999c0db93114": {
+    "bpm": 80,
+    "file": "rain-on-a-window-you-remember-v109.yaml",
+    "instrumental": true,
+    "key": "e-flat-minor",
+    "name": "rain-on-a-window-you-remember",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 884,
+    "technique": "chillhop",
+    "title": "Rain on a Window You Remember",
+    "uuid": "ce0ed1e0-eb29-476a-b57e-999c0db93114",
+    "version": 109
+  },
+  "ce516ca8-199e-437f-bc02-b45a0f2ba9ab": {
+    "bpm": 96,
+    "file": "the-echo-that-became-a-melody-v91.yaml",
+    "instrumental": true,
+    "key": "e-major",
+    "name": "the-echo-that-became-a-melody",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 997,
+    "technique": null,
+    "title": "The Echo That Became a Melody",
+    "uuid": "ce516ca8-199e-437f-bc02-b45a0f2ba9ab",
+    "version": 91
+  },
+  "d2131df8-4536-4d9e-982d-8b2661d63bcc": {
+    "bpm": 86,
+    "file": "every-sound-contains-a-thousand-sounds-v128.yaml",
+    "instrumental": true,
+    "key": "e-flat-major",
+    "name": "every-sound-contains-a-thousand-sounds",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 881,
+    "technique": "spectral",
+    "title": "Every Sound Contains a Thousand Sounds",
+    "uuid": "d2131df8-4536-4d9e-982d-8b2661d63bcc",
+    "version": 128
+  },
+  "d65a7ebf-65fb-4758-9834-cdf68cd26100": {
+    "bpm": 155,
+    "file": "cast-in-bronze-and-rung-once-v238.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "cast-in-bronze-and-rung-once-v238",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": "thematic-metamorphosis-arc",
+    "title": "Cast in Bronze and Rung Once",
+    "uuid": "d65a7ebf-65fb-4758-9834-cdf68cd26100",
+    "version": 238
+  },
+  "d6ef1ff0-0cb6-4d69-b509-014b4699e1ce": {
+    "bpm": 118,
+    "file": "the-line-you-only-hear-together-v134.yaml",
+    "instrumental": true,
+    "key": "f-sharp-major",
+    "name": "the-line-you-only-hear-together",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 940,
+    "technique": "hoquetus",
+    "title": "The Line You Only Hear Together",
+    "uuid": "d6ef1ff0-0cb6-4d69-b509-014b4699e1ce",
+    "version": 134
+  },
+  "da0c06ce-513b-4872-ac8b-e292b913cd39": {
+    "bpm": 157,
+    "file": "raking-salt-before-the-tide-returns-v240.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "raking-salt-before-the-tide-returns",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 887,
+    "technique": "scherzo-trio-scherzo",
+    "title": "Raking Salt Before the Tide Returns",
+    "uuid": "da0c06ce-513b-4872-ac8b-e292b913cd39",
+    "version": 240
+  },
+  "da12f8cd-d41a-43e0-8d1c-e8edcc76e3b1": {
+    "bpm": 133,
+    "file": "before-the-floor-can-catch-it-v221.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "before-the-floor-can-catch-it",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 942,
+    "technique": "tarantella-accelerando-to-collapse",
+    "title": "Before the Floor Can Catch It",
+    "uuid": "da12f8cd-d41a-43e0-8d1c-e8edcc76e3b1",
+    "version": 221
+  },
+  "da327094-5be3-4d3e-8304-e2885fa10e27": {
+    "bpm": 86,
+    "file": "every-sound-contains-a-thousand-sounds-v128.yaml",
+    "instrumental": true,
+    "key": "e-flat-major",
+    "name": "every-sound-contains-a-thousand-sounds",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 881,
+    "technique": "spectral",
+    "title": "Every Sound Contains a Thousand Sounds",
+    "uuid": "da327094-5be3-4d3e-8304-e2885fa10e27",
+    "version": 128
+  },
+  "db64e2c1-ee0b-4ba4-8867-9f5ae3902251": {
+    "bpm": 129,
+    "file": "light-without-fixed-source-v219.yaml",
+    "instrumental": true,
+    "key": "f-sharp-minor",
+    "name": "light-without-fixed-source",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 944,
+    "technique": "chromatic-planing",
+    "title": "Light Without Fixed Source",
+    "uuid": "db64e2c1-ee0b-4ba4-8867-9f5ae3902251",
+    "version": 219
+  },
+  "dc35f458-2b10-4168-9755-6fc543b23a06": {
+    "bpm": 46,
+    "file": "beginning-at-the-end-v121.yaml",
+    "instrumental": true,
+    "key": "d-flat-major",
+    "name": "beginning-at-the-end",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 933,
+    "technique": "dissolution",
+    "title": "Beginning at the End",
+    "uuid": "dc35f458-2b10-4168-9755-6fc543b23a06",
+    "version": 121
+  },
+  "de843d9b-c908-40ac-b0e0-593b1aab89da": {
+    "bpm": 72,
+    "file": "the-forest-that-sings-in-fifths-v137.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "the-forest-that-sings-in-fifths",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 933,
+    "technique": "organum",
+    "title": "The Forest That Sings in Fifths",
+    "uuid": "de843d9b-c908-40ac-b0e0-593b1aab89da",
+    "version": 137
+  },
+  "dee8d6a8-3518-4e40-92b6-03a82880db69": {
+    "bpm": 147,
+    "file": "what-color-the-forge-remembers-v228.yaml",
+    "instrumental": true,
+    "key": "a-flat-major",
+    "name": "what-color-the-forge-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 897,
+    "technique": "klangfarbenmelodie",
+    "title": "What Color the Forge Remembers",
+    "uuid": "dee8d6a8-3518-4e40-92b6-03a82880db69",
+    "version": 228
+  },
+  "e05712a8-0f90-4706-b3ee-a3f67e93a577": {
+    "bpm": 125,
+    "file": "before-the-valley-remembers-v218.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "before-the-valley-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 937,
+    "technique": "granular-shimmer-cloud",
+    "title": "Where the Valley Loses the Light",
+    "uuid": "e05712a8-0f90-4706-b3ee-a3f67e93a577",
+    "version": 218
+  },
+  "e18112ea-d990-4292-8030-e62431c5ed84": {
+    "bpm": 105,
+    "file": "what-the-chapel-holds-at-dawn-v211.yaml",
+    "instrumental": true,
+    "key": "c-flat-major",
+    "name": "what-the-chapel-holds-at-dawn",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": null,
+    "title": "What the Chapel Holds at Dawn",
+    "uuid": "e18112ea-d990-4292-8030-e62431c5ed84",
+    "version": 211
+  },
+  "e5b03553-01eb-4d01-8e50-161e18c2d02f": {
+    "bpm": 78,
+    "file": "what-the-attic-remembers-v122.yaml",
+    "instrumental": true,
+    "key": "b-major",
+    "name": "what-the-attic-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "concerto-grosso",
+    "title": "What the Attic Remembers",
+    "uuid": "e5b03553-01eb-4d01-8e50-161e18c2d02f",
+    "version": 122
+  },
+  "e653552f-e57f-4948-bef9-b03edbfb44b3": {
+    "bpm": 76,
+    "file": "the-bell-that-wept-v117.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "the-bell-that-wept",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 906,
+    "technique": null,
+    "title": "The Bell That Wept",
+    "uuid": "e653552f-e57f-4948-bef9-b03edbfb44b3",
+    "version": 117
+  },
+  "e74640b7-eca3-40f2-affe-28d8dc0a13a3": {
+    "bpm": 66,
+    "file": "the-first-and-last-note-are-the-same-v114.yaml",
+    "instrumental": true,
+    "key": "d-minor",
+    "name": "the-first-and-last-note-are-the-same",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 928,
+    "technique": null,
+    "title": "The First and Last Note Are the Same",
+    "uuid": "e74640b7-eca3-40f2-affe-28d8dc0a13a3",
+    "version": 114
+  },
+  "e93c7d86-bf00-4578-9b38-d1dd7b5b8cd4": {
+    "bpm": 66,
+    "file": "the-ground-that-holds-everything-v111.yaml",
+    "instrumental": true,
+    "key": "g-minor",
+    "name": "the-ground-that-holds-everything",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 951,
+    "technique": "passacaglia",
+    "title": "The Ground That Holds Everything",
+    "uuid": "e93c7d86-bf00-4578-9b38-d1dd7b5b8cd4",
+    "version": 111
+  },
+  "e965d5b2-9925-43bf-a138-4b6e1ffe2c19": {
+    "bpm": 46,
+    "file": "beginning-at-the-end-v121.yaml",
+    "instrumental": true,
+    "key": "d-flat-major",
+    "name": "beginning-at-the-end",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 933,
+    "technique": "dissolution",
+    "title": "Beginning at the End",
+    "uuid": "e965d5b2-9925-43bf-a138-4b6e1ffe2c19",
+    "version": 121
+  },
+  "ea17ec91-0ca7-4af3-a822-cd9f857aa5d1": {
+    "bpm": 64,
+    "file": "the-ballroom-with-one-dancer-left-v136.yaml",
+    "instrumental": true,
+    "key": "d-minor",
+    "name": "the-ballroom-with-one-dancer-left",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "chaconne",
+    "title": "The Ballroom With One Dancer Left",
+    "uuid": "ea17ec91-0ca7-4af3-a822-cd9f857aa5d1",
+    "version": 136
+  },
+  "ec23e874-4cd8-41d4-a47d-c7598a2dcbd0": {
+    "bpm": 137,
+    "file": "what-the-vellum-keeps-v222.yaml",
+    "instrumental": true,
+    "key": "d-sharp-minor",
+    "name": "what-the-vellum-keeps",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "additive-stratum-scoring",
+    "title": "What the Vellum Keeps",
+    "uuid": "ec23e874-4cd8-41d4-a47d-c7598a2dcbd0",
+    "version": 222
+  },
+  "eda00eb1-a194-4951-8dcd-4c8d4e46211c": {
+    "bpm": 138,
+    "file": "the-silence-that-sounds-like-falling-v94.yaml",
+    "instrumental": false,
+    "key": "a-minor",
+    "name": "the-silence-that-sounds-like-falling",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "trance",
+    "title": "The Silence That Sounds Like Falling",
+    "uuid": "eda00eb1-a194-4951-8dcd-4c8d4e46211c",
+    "version": 94
+  },
+  "ef27cd9c-42b7-46d6-9d99-6f1baac12f02": {
+    "bpm": 109,
+    "file": "where-the-candle-learns-its-name-v212.yaml",
+    "instrumental": true,
+    "key": "f-flat-major",
+    "name": "where-the-candle-learns-its-name",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 947,
+    "technique": null,
+    "title": "Where the Candle Learns Its Name",
+    "uuid": "ef27cd9c-42b7-46d6-9d99-6f1baac12f02",
+    "version": 212
+  },
+  "f03cee09-dcc9-467c-bee4-c173451eb5e4": {
+    "bpm": 98,
+    "file": "the-row-that-never-repeats-v130.yaml",
+    "instrumental": true,
+    "key": null,
+    "name": "the-row-that-never-repeats",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 917,
+    "technique": "twelve-tone",
+    "title": "The Row That Never Repeats",
+    "uuid": "f03cee09-dcc9-467c-bee4-c173451eb5e4",
+    "version": 130
+  },
+  "f1a1d920-31fe-49bb-81b5-c19fae70c06e": {
+    "bpm": 136,
+    "file": "the-river-that-never-stops-running-v138.yaml",
+    "instrumental": true,
+    "key": "b-flat-major",
+    "name": "the-river-that-never-stops-running",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 939,
+    "technique": "moto-perpetuo",
+    "title": "The River That Never Stops Running",
+    "uuid": "f1a1d920-31fe-49bb-81b5-c19fae70c06e",
+    "version": 138
+  },
+  "f3d4e834-9b3b-4d4b-8eec-30701e727cfa": {
+    "bpm": 158,
+    "file": "iron-and-glass-at-first-light-v241.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "iron-and-glass-at-first-light",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 910,
+    "technique": "lament-bass-ground",
+    "title": "Iron and Glass at First Light",
+    "uuid": "f3d4e834-9b3b-4d4b-8eec-30701e727cfa",
+    "version": 241
+  },
+  "f441f85e-ab32-4602-a2c4-e98e1e1a3bdc": {
+    "bpm": 162,
+    "file": "what-each-ward-holds-v245.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "what-each-ward-holds-v245",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 949,
+    "technique": "lyric-tone-poem",
+    "title": "What Each Ward Holds",
+    "uuid": "f441f85e-ab32-4602-a2c4-e98e1e1a3bdc",
+    "version": 245
+  },
+  "f5737668-eb31-4f37-9ecf-f08690226e36": {
+    "bpm": 114,
+    "file": "the-pilgrim-walk-in-parallel-thirds-v139.yaml",
+    "instrumental": true,
+    "key": "e-minor",
+    "name": "the-pilgrim-walk-in-parallel-thirds",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "fauxbourdon",
+    "title": "The Pilgrim Walk in Parallel Thirds",
+    "uuid": "f5737668-eb31-4f37-9ecf-f08690226e36",
+    "version": 139
+  },
+  "f6f0a5bd-5146-4eef-9f9f-2053ab7f5549": {
+    "bpm": 68,
+    "file": "a-room-that-breathes-on-its-own-v126.yaml",
+    "instrumental": true,
+    "key": "a-flat-minor",
+    "name": "a-room-that-breathes-on-its-own",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 936,
+    "technique": "micropolyphony-horror",
+    "title": "A Room That Breathes On Its Own",
+    "uuid": "f6f0a5bd-5146-4eef-9f9f-2053ab7f5549",
+    "version": 126
+  },
+  "f70b1ebe-1931-48b3-8b9e-232e0da87dab": {
+    "bpm": 157,
+    "file": "raking-salt-before-the-tide-returns-v240.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "raking-salt-before-the-tide-returns",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 887,
+    "technique": "scherzo-trio-scherzo",
+    "title": "Raking Salt Before the Tide Returns",
+    "uuid": "f70b1ebe-1931-48b3-8b9e-232e0da87dab",
+    "version": 240
+  },
+  "f8b4b30b-1759-4079-a657-aa4723c5e003": {
+    "bpm": 131,
+    "file": "every-gear-keeps-its-promise-v220.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "every-gear-keeps-its-promise",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 946,
+    "technique": "perpetuum-mobile",
+    "title": "Every Gear Keeps Its Promise",
+    "uuid": "f8b4b30b-1759-4079-a657-aa4723c5e003",
+    "version": 220
+  },
+  "f91bc6e4-2fb6-4302-8754-3ae620f9211a": {
+    "bpm": 123,
+    "file": "a-hall-the-water-will-not-leave-v216.yaml",
+    "instrumental": true,
+    "key": "b-flat-minor",
+    "name": "a-hall-the-water-will-not-leave",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": "bell-halo-two-voice-structure",
+    "title": "A Hall the Water Will Not Leave",
+    "uuid": "f91bc6e4-2fb6-4302-8754-3ae620f9211a",
+    "version": 216
+  },
+  "f9cbad7b-7b07-4ab2-ad06-34f65a66ff4c": {
+    "bpm": 130,
+    "file": "the-room-after-everyone-left-v116.yaml",
+    "instrumental": true,
+    "key": "b-minor",
+    "name": "the-room-after-everyone-left",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 903,
+    "technique": "future-garage",
+    "title": "The Room After Everyone Left",
+    "uuid": "f9cbad7b-7b07-4ab2-ad06-34f65a66ff4c",
+    "version": 116
+  },
+  "f9ff52fe-b898-4d2d-8e5f-08e9765d4d95": {
+    "bpm": 84,
+    "file": "what-keeps-coming-back-v115.yaml",
+    "instrumental": true,
+    "key": "f-minor",
+    "name": "what-keeps-coming-back",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 894,
+    "technique": null,
+    "title": "What Keeps Coming Back",
+    "uuid": "f9ff52fe-b898-4d2d-8e5f-08e9765d4d95",
+    "version": 115
+  },
+  "fa5ce479-51a5-4722-b3a0-c9760253a315": {
+    "bpm": 125,
+    "file": "before-the-valley-remembers-v218.yaml",
+    "instrumental": true,
+    "key": "c-sharp-minor",
+    "name": "before-the-valley-remembers",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 937,
+    "technique": "granular-shimmer-cloud",
+    "title": "Where the Valley Loses the Light",
+    "uuid": "fa5ce479-51a5-4722-b3a0-c9760253a315",
+    "version": 218
+  },
+  "fa9b5635-9c2f-411e-b19f-fc3d923fb657": {
+    "bpm": 119,
+    "file": "before-the-gate-finds-stillness-v214.yaml",
+    "instrumental": true,
+    "key": "g-sharp-minor",
+    "name": "before-the-gate-finds-stillness",
+    "playbook": {
+      "has_bar_counts": false,
+      "parametrized_colon_lyrics": false,
+      "production_tokens": false,
+      "sentence_case": false
+    },
+    "style_chars": 945,
+    "technique": null,
+    "title": "Before the Gate Finds Stillness",
+    "uuid": "fa9b5635-9c2f-411e-b19f-fc3d923fb657",
+    "version": 214
+  }
+}
