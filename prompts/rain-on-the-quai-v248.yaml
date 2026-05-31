@@ -1,0 +1,65 @@
+name: "rain-on-the-quai-v248"
+version: 248
+title: "Rain on the Quai"
+instrumental: true
+
+style: "Late-night Parisian neoclassical cinematic, polished studio mix with Decca-tree wide strings and warm tape saturation, 132 BPM, A minor to F major. Accordion carries the melodic voice, bellows-driven warmth evoking an empty café while rain taps the glass. Harp rolls arpeggiated chords beneath, plucked attacks marking the pulse. Clarinet adds a low-register countermelody — warm and plaintive, winding through the harmony as if completing what the accordion left open. Full string section: deep cellos sustaining the foundation, violas adding inner warmth, violins rising into the upper air at the bloom. Wide stereo stage, deep low-end definition, lush acoustic room ambience, three-minute extended arrangement. Opens on solo accordion, harp joining after eight bars, clarinet entering last. All three voices gather as the key lifts to F major, strings blooming to full warmth. No guitars, no vocals, no rock drums, no synthesizers, no pipe organ."
+
+lyrics: |
+  [Solo Accordion: single melodic line, legato phrasing, A minor, 8 bars]
+  [Harp Joins: arpeggiated chords beneath accordion melody, pulse established, 8 bars]
+  [Clarinet Enters: low-register countermelody weaves against accordion, 8 bars]
+  [Trio Develops: all three voices intertwining, strings add warmth below, 16 bars]
+  [Build: string section swells, harmony thickening toward the bridge, 8 bars]
+  [Bridge — F Major: key lifts to F major, clarinet holds long tones, accordion ornaments, 16 bars]
+  [Full Bloom: strings at full warmth, all three voices in consonant accord, 16 bars]
+  [Gradual Withdrawal: harp and clarinet recede, accordion returns to opening phrase, 8 bars]
+  [Final Cadence: single sustained accordion chord, low cello pizzicato, fade, 8 bars]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, folk, traditional, ethnic, gypsy, klezmer, vocal cabaret, chanson singer, world fusion, Balkan, Eastern European"
+
+tags:
+  - orchestral-french-cinematic-chanson
+  - accordion
+  - harp
+  - clarinet
+  - 132bpm
+  - a-minor
+  - f-major
+  - a-minor-to-f-major
+  - rain-on-the-quai-scene
+  - accordion-catalog-debut
+  - revival-harp-10-gap
+  - revival-clarinet-9-gap
+  - 132bpm-deep-revival
+  - french-cinematic-technique-new
+  - parametrized-lyrics
+  - production-mix-tokens
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+
+notes: |
+  New playbook moves applied (all five from experiments/suno_2026_research.md):
+
+  1. NO CAPS FORM LABELS. Previous cycles used "CONCERT MARCH WITH TRIO", "FRENCH HORN + HURDY GURDY + CELESTA" in all-caps throughout the style field. The research file documents that Suno v5.5's tokenizer treats ALL-CAPS as emphasis tokens that compete against musical descriptors, and specifically that "CAPO" matched the German rapper CAPO in v246, injecting German Rap/Hip Hop into the style tags. This prompt uses sentence-case throughout, all instruments in lowercase.
+
+  2. PRODUCTION-MIX TOKENS. Three tokens drawn from the research file's "what actually renders in Suno v5.5" list: "polished studio mix", "Decca-tree wide strings", "warm tape saturation", "wide stereo stage", "deep low-end definition", "lush acoustic room ambience" — six total, woven into the opening sentence and the mid-field. These are directive rather than descriptive (the research file is explicit: "Suno does not default to high quality. Explicit production direction matters").
+
+  3. PARAMETRIZED BRACKET LYRICS WITH COLON CONTENT. Previous cycles (v243–v247) used bare labels like "[Fanfare Intro]" with no content — the research file identifies this as the root cause of ~2:00–2:30 durations: each empty bracket renders ~15s, 9 brackets = ~2:15. This prompt uses the Blake Crosley colon syntax: "[Solo Accordion: single melodic line, legato phrasing, A minor, 8 bars]". Each bracket now carries instrument names, dynamic descriptors, bar counts, and key labels — giving Suno rendering targets per section. Instrument names inside the colon content are explicitly permitted per the research finding.
+
+  4. TWO BODY VOICES MINIMUM. v247 featured French Horn (body) + Hurdy Gurdy (spectral) + Celesta (spectral) — 1 body + 2 spectral voices — and landed 1:49/2:02. This prompt uses accordion + harp + clarinet, all three substantial body instruments with pluck/attack/bellows character. Research correlates all-substantial trios (v234/v238) with 3:00+ durations.
+
+  5. ATMOSPHERIC-FIRST PROSE. The style field opens with "Late-night Parisian neoclassical cinematic" — mood/place/feel — before any form label or technique name. The research found this structure outperforms technical-first by +23% (50-song NL-vs-JSON experiment). The form arc is embedded in prose, not declared as a heading.
+
+  FRENCH DIRECTION: accordion (catalog debut), harp (last v238, gap 10), clarinet (last v239, gap 9). All three are evocatively French — accordion is the chanson voice, harp adds the salon halo, clarinet provides the woodwind warmth of the bal-musette tradition without naming it. Scene: 2am Paris, rain on the quai, the café nearly closed, the trio playing for themselves. No French composer or performer names appear per blocklist.
+
+  Composer-omission note: French composers most associated with this textural language cannot be named under the blocklist rule. No composer names appear anywhere in this prompt.
+
+  Duration strategy: 132 BPM sits in the proven 130–160 band. Ten parametrized brackets with bar counts (8+8+8+16+8+16+16+8+8 = 96 bars at 132 BPM = ~2:54 at 4/4). Duration anchor phrase "three-minute extended arrangement" in style. Tonal clarity: A minor throughout the opening, lifting to F major (relative major) at the bridge — the warmth-out-of-shadow modulation the caller specified. All three voices sustain continuously with no spectral dropouts.
+
+  Novelty claims: accordion is a catalog debut (never used in any of v1–v247). 132 BPM never used before. Harp last v238 (gap 10). Clarinet last v239 (gap 9). Rain-on-quai / Parisian café scene is new. French cinematic chanson without vocals is a technique-new designation.
+
+  Style char count: 949.

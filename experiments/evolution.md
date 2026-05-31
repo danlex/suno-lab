@@ -292,6 +292,7 @@ mindmap
 | 245 | What Each Ward Holds | lyric tone poem (single-movement continuous cantabile thread) | C-sharp minor -> D minor (half-step at blazing return) | 162 | flugelhorn + contrabassoon + glockenspiel |
 | 246 | Iron Canopy at Last Light | da capo aria (orchestral ABA with ornamented return) | B-flat minor -> B minor (half-step at bloomed return) | 152 | mellotron + viola da gamba + tubular bells |
 | 247 | Dawn the Falcon Lifts | concert march with trio (fanfare -> strains -> contrasting trio -> tutti return) | B major -> C minor -> B major (trio in relative minor) | 136 | french horn + hurdy gurdy + celesta |
+| 248 | Rain on the Quai | French cinematic chanson without vocals (parametrized lyrics + production tokens + two-body trio) | A minor -> F major (relative-major bridge) | 132 | accordion + harp + clarinet |
 
 ## Next-cycle priorities
 
