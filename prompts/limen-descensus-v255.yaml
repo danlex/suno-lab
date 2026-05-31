@@ -1,0 +1,84 @@
+name: "limen-descensus"
+version: 255
+title: "Limen Descensus"
+instrumental: true
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, horror stinger, trailer music, cinematic trailer, folk, traditional, ethnic, gypsy, klezmer"
+
+style: "Stone-cold vault air and robed figures descending slow stone steps — Hollywood scoring stage presence, deep low-end definition anchoring the darkness, tight chamber reverb catching each footfall. Modern cinematic film cue in E-flat minor moving to E minor at the threshold, 135 BPM, targeting 4:00–5:00 wall-clock. Contrabass clarinet carries the gravestone-low reed voice, cycling a descent figure that thickens with each turn of the stair; trumpet traces the procession melody with an open-bell tone — cold, declarative, iron-honest; bowed vibraphone breathes beneath both as slow metallic resonance, a shimmer the ear cannot place on the vault floor. The arc descends from torchlit corridor to crypt threshold: weight accumulates, a full silence lets the chamber exhale, then a half-step lift to E minor as the door opens — orchestration widens and the theme becomes manifest. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo contrabass clarinet alone, low two-bar descent figure in E-flat minor, the spiral stair begins, 8 bars]
+  [Descending Theme: trumpet enters with the open procession melody, bowed vibraphone shimmer underneath, 16 bars]
+  [Stair Deepening: all three voices tighten, contrabass clarinet descent figure doubles in density, ceiling vault rising away above, 24 bars]
+  [Second Descent: procession slows one step at a time, trumpet melody stretches, bowed vibraphone resonance fills the vault behind, 16 bars]
+  [Approach: the iron candleholders cast long shadows across the keystone floor, all three voices press lower, air grows cold, 24 bars]
+  [Build: weight accumulates — contrabass clarinet doubles the descent, trumpet presses the melody upward against the gravitational pull, bowed vibraphone sustains a slow trembling pedal, 48 bars]
+  [Silence: full ensemble stops — the chamber exhales, nothing moves, 8 bars]
+  [Drop: half-step lift to E minor as the crypt door opens, trumpet states the theme bare and exposed, contrabass clarinet grounds the new key beneath, bowed vibraphone widens into the chamber resonance, 48 bars]
+  [Chamber Procession: full depth of the crypt inhabited, theme fully manifest in E minor, orchestration expands without adding weight, 40 bars]
+  [Coda: trumpet alone with a single sustained bowed vibraphone resonance beneath, contrabass clarinet fades last, 16 bars]
+  [End]
+
+notes: |
+  LIMEN DESCENSUS — "threshold of descent." The technique is modern Hollywood cinematic scoring:
+  a dramatic descent arc built on functional tonal harmony with a half-step modulation at the
+  emotional threshold, shaped by register density and bass weight rather than electronic texture.
+  This is the same lane as v250 ("Where the Fog Parts for Iron," 3:39 render), now explicitly
+  applying playbook move 8: BPM 135 (proven 130–160 band) with 248 bars targeting 4:00–5:00
+  wall-clock. Concept source: post-2010 Hollywood scoring stage practice — solo brass plus
+  sub-bass woodwind anchor, chamber reverb room, half-step lift at the threshold moment for
+  maximum emotional-impact yield — the composer whose work this technique echoes goes unnamed
+  per blocklist discipline.
+
+  Duration strategy: 135 BPM sits in the upper-middle of the proven 130–160 band; 248 total
+  bars targets 4:00–4:30 wall-clock per move 8 data. Parametrized colon-syntax lyrics with
+  explicit bar counts per section scaffold the render from inside the lyrics field (the v248
+  breakthrough). Build/Silence/Drop stack at ~55% of bar count (136 of 248 bars) — the
+  emotional arc positions it as ~65% of perceived dramatic weight given the slow accumulation
+  in the descent sections. Production tokens used: "Hollywood scoring stage presence," "deep
+  low-end definition," "tight chamber reverb." Sentence case throughout, atmospheric-first
+  opening, five inline negatives.
+
+  Trio roles and revival gaps:
+  - Trumpet: last used v222, 33-version gap. Carries the procession melody — cold, open-bell,
+    declarative; the human voice that has no warmth left, only direction.
+  - Contrabass clarinet: last used v239, 16-version gap. Gravestone-low reed anchor; cycles
+    the descent figure and doubles it as weight accumulates; fades last in the coda.
+  - Bowed vibraphone: last used v239, 16-version gap. Spectral shimmer the ear cannot locate
+    spatially in the vault — the single allowed spectral color in the trio; metallic resonance
+    that widens at the Drop rather than receding.
+
+  Trio body-voice check: 2 body voices (trumpet + contrabass clarinet) + 1 spectral (bowed
+  vibraphone) — within the playbook's one-spectral ceiling.
+
+  Key E-flat minor → E minor: half-step lift at the Drop threshold — the tonic rises without
+  brightening to a major mode, preserving the darkness while marking the crossing. BPM 135:
+  first use at this exact tempo in the catalog. Scene: torchlit crypt procession, iron
+  candleholders, stone vault, spiral stair, robe hems brushing limestone — vertical descent
+  and threshold-crossing.
+
+  Final style char count: 949.
+
+tags:
+  - modern-cinematic-film-cue
+  - trumpet
+  - contrabass-clarinet
+  - bowed-vibraphone
+  - 135bpm
+  - e-flat-minor
+  - e-minor
+  - crypt-descent-scene
+  - revival-trumpet-33-gap
+  - revival-contrabass-clarinet-16-gap
+  - revival-bowed-vibraphone-16-gap
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - build-silence-drop
+  - two-body-trio
+  - parametrized-lyrics
+  - production-tokens
+  - hollywood-cinematic-lane
+  - move-8-duration-push

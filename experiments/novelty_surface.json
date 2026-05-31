@@ -1,6 +1,6 @@
 {
-  "total_prompts": 253,
-  "latest_version": 253,
+  "total_prompts": 254,
+  "latest_version": 254,
   "instruments": {
     "piano": [
       1,
@@ -385,6 +385,16 @@
       192,
       220
     ],
+    "handpan": [
+      97,
+      116,
+      133,
+      184,
+      208,
+      225,
+      240,
+      254
+    ],
     "tuba": [
       82,
       104,
@@ -468,15 +478,6 @@
       209,
       226,
       245
-    ],
-    "handpan": [
-      97,
-      116,
-      133,
-      184,
-      208,
-      225,
-      240
     ],
     "hurdy gurdy": [
       113,
@@ -583,6 +584,13 @@
       209,
       223
     ],
+    "baryton": [
+      184,
+      217,
+      229,
+      241,
+      254
+    ],
     "hardanger fiddle": [
       111,
       124,
@@ -617,12 +625,6 @@
       189,
       236,
       251
-    ],
-    "baryton": [
-      184,
-      217,
-      229,
-      241
     ],
     "bass clarinet": [
       182,
@@ -727,6 +729,10 @@
       198,
       251
     ],
+    "chalumeau": [
+      223,
+      254
+    ],
     "clarinet": [
       199,
       248
@@ -738,9 +744,6 @@
     "double bass": [
       178,
       240
-    ],
-    "chalumeau": [
-      223
     ],
     "guqin": [
       199
@@ -950,13 +953,10 @@
       251
     ],
     "chamber": [
+      191,
       192,
       203,
       252
-    ],
-    "baroque": [
-      188,
-      191
     ],
     "concerto": [
       145,
@@ -972,6 +972,9 @@
     ],
     "2-step garage": [
       100
+    ],
+    "baroque": [
+      188
     ],
     "house": [
       242
@@ -1121,7 +1124,8 @@
       189,
       209,
       223,
-      238
+      238,
+      254
     ],
     "b-flat minor": [
       86,
@@ -1505,7 +1509,8 @@
       211
     ],
     "106": [
-      132
+      132,
+      254
     ],
     "107": [
       143
@@ -1715,6 +1720,19 @@
     ]
   },
   "titles": [
+    {
+      "version": 254,
+      "title": "Lux Solstitii",
+      "name": "lux-solstiti",
+      "featured": [
+        "chalumeau",
+        "baryton",
+        "handpan"
+      ],
+      "genre": null,
+      "key": "b minor",
+      "bpm": 106
+    },
     {
       "version": 253,
       "title": "Neon sur Asphalte Mouille",
@@ -2504,7 +2522,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
