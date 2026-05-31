@@ -1,0 +1,61 @@
+name: "dawn-the-falcon-lifts-v247"
+version: 247
+title: "Dawn the Falcon Lifts"
+instrumental: true
+
+style: "CONCERT MARCH WITH TRIO at a falconer's mews before first flight, B major to C minor to B major, 136 BPM, total duration around 3:00, FRENCH HORN + HURDY GURDY + CELESTA, full orchestra. A brisk orchestral concert march in noble B major opens with a crisp brass fanfare led by FRENCH HORN, the full ensemble declaring the day. The First Strain drives at a steady duple pulse, brass and strings carrying the march theme. The Second Strain intensifies as woodwinds add a climbing countermelody above the brass. At the Trio the texture strips: HURDY GURDY lays a droning ancient-grain line, CELESTA sparkles above, woodwinds and pizzicato strings carry lyrical contrast in C minor. The Tutti Return re-enters in B major, the march theme blooming through brass, strings, timpani, and percussion, FRENCH HORN leading home to a decisive final cadence. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Fanfare Intro]
+  [First Strain]
+  [First Strain Drives]
+  [Second Strain Builds]
+  [Trio — C Minor]
+  [Trio Continues]
+  [Tutti Return B Major]
+  [March Theme Blooms]
+  [Final Cadence]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, ambient, experimental noise, free jazz, atonal, microtonal, quarter-tone, military band, marching band, patriotic, parade, folk, traditional, ethnic, operatic, vocal"
+
+tags:
+  - orchestral-concert-march-with-trio
+  - french-horn
+  - hurdy-gurdy
+  - celesta
+  - 136bpm
+  - b-major
+  - c-minor
+  - b-major-to-c-minor
+  - falconers-mews-before-first-flight-scene
+  - revival-french-horn-9-gap
+  - revival-hurdy-gurdy-22-gap
+  - revival-celesta-21-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - concert-march-technique-new
+
+notes: |
+  CONCERT MARCH WITH TRIO is a multi-strain instrumental form codified in the 18th–19th century band and orchestral repertoire. Its structure: a brass fanfare introduction, a driving First Strain in the home key, a Second Strain that intensifies, a contrasting TRIO section in a related key with lighter texture, and a Tutti Return to the home key — the emotional engine is the major-to-minor-to-major arc. The form's characteristic feature is the textural contrast between the full-orchestra strains and the stripped Trio, which returns to full force without warning. This prompt applies the form to a purely orchestral setting with an unusual trio of featured voices.
+
+  Concept source: the CONCERT MARCH WITH TRIO form draws on standard band/orchestral literature where the Trio (originally a literal three-voice section) creates lyrical contrast before the full reprise. The "da capo" instruction is standard in printed scores but BANNED here — Suno's auto-classifier matches the substring CAPO against the German rapper CAPO and injects German Rap/Hip Hop into the style tags. The Tutti Return label is used instead throughout.
+
+  Composer-omission note: the composer most associated with this form in the orchestral concert march tradition cannot be named under the blocklist rule. No composer names appear anywhere in this prompt.
+
+  Duration strategy: 136 BPM sits in the proven 130–160 band where v234/v236/v237/v238/v241 all reached full duration. The march provides a continuous rhythmic pulse throughout — the duple-meter drive never fully stops, even in the Trio (pizzicato strings keep the pulse). The Tutti Return brings the full brass/string weight back and the emotional-debt arc (build → strip → return) is a known Suno duration anchor. Tonal clarity: B major throughout the strains, C minor for the Trio, return to B major for the Tutti Return.
+
+  Trio roles and gaps:
+  - FRENCH HORN (brass; last v238, gap 9 — one allowed sub-12 body-voice exception): leads the opening fanfare, carries the march theme through the strains, re-leads the Tutti Return. The horn's ceremonial resonance matches the falconer's mews dawn scene.
+  - HURDY GURDY (bowed strings; last v225, gap 22): drone-textured ancient-grain countermelody in the Trio's stripped section. Adds the medieval ceremonial grain appropriate to a stone mews at dawn.
+  - CELESTA (keyboards; last v226, gap 21): sparkles above the Trio's lyrical C minor passage; rings out at the final cadence of the Tutti Return, marking the falcon's launch into open sky.
+
+  Scene: a stone medieval falconer's mews at dawn before the day's hunt — leather hoods lifted from peregrine and gerfalcon, the birds shifting on their perches, the falconer testing the wind from the slit window, his apprentice carrying the glove. The fanfare is the falconer's silent signal; the strains are the steady ceremonial preparation; the Trio is the moment of stillness when the first falcon stands uncovered on the gloved fist; the Tutti Return is the bird launching into the dawn sky. Scene is new — no recent version has used falconer, mews, or falcon imagery.
+
+  Novelty claims: first CONCERT MARCH WITH TRIO in the catalog. 136 BPM last used at v138 (gap 109 — effectively fresh). HURDY GURDY last v225 (gap 22). CELESTA last v226 (gap 21). FRENCH HORN last v238 (gap 9, one sub-12 exception). Mews/falcon scene is new.
+
+  LYRICS RULE applied: 8–10 bracket labels, 2–6 words each, musical/structural descriptors only. No instrument names in brackets. No scene words. No stage-direction prose. Labels use form terms (Fanfare, Strain, Trio, Tutti Return, Cadence) and key labels (C Minor, B Major).
+
+  Style char count: 915.

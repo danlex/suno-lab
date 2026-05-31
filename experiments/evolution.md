@@ -291,6 +291,7 @@ mindmap
 | 244 | When the Doves First Stir | sarabande-and-double (bare statement + ornamented double; truncated) | A major -> B-flat major (half-step at double tutti peak) | 47 | cornet + tenor saxophone + crotales |
 | 245 | What Each Ward Holds | lyric tone poem (single-movement continuous cantabile thread) | C-sharp minor -> D minor (half-step at blazing return) | 162 | flugelhorn + contrabassoon + glockenspiel |
 | 246 | Iron Canopy at Last Light | da capo aria (orchestral ABA with ornamented return) | B-flat minor -> B minor (half-step at bloomed return) | 152 | mellotron + viola da gamba + tubular bells |
+| 247 | Dawn the Falcon Lifts | concert march with trio (fanfare -> strains -> contrasting trio -> tutti return) | B major -> C minor -> B major (trio in relative minor) | 136 | french horn + hurdy gurdy + celesta |
 
 ## Next-cycle priorities
 
