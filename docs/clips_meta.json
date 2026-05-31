@@ -57,6 +57,26 @@
     "uuid": "03136b20-dbd4-4c04-8f47-2d76ba28f93a",
     "version": 252
   },
+  "039875a7-8f0a-4cd6-8141-b41185e6c925": {
+    "bpm": 160,
+    "duration_seconds": 224,
+    "duration_source": "close-out-logs",
+    "file": "when-the-square-fills-v259.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "when-the-square-fills-v259",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 944,
+    "technique": null,
+    "title": "When the Square Fills",
+    "uuid": "039875a7-8f0a-4cd6-8141-b41185e6c925",
+    "version": 259
+  },
   "068db6c4-9b15-4d16-ace2-0434586b8b5f": {
     "bpm": 74,
     "file": "the-cycles-realign-at-midnight-v133.yaml",
@@ -1780,6 +1800,26 @@
     "title": "Limen Descensus",
     "uuid": "88f128e2-a433-42c4-9abb-74bc37b13400",
     "version": 255
+  },
+  "8a0ded17-3569-4ca9-a97b-5458cbbbd865": {
+    "bpm": 160,
+    "duration_seconds": 242,
+    "duration_source": "close-out-logs",
+    "file": "when-the-square-fills-v259.yaml",
+    "instrumental": true,
+    "key": "d-flat-minor",
+    "name": "when-the-square-fills-v259",
+    "playbook": {
+      "has_bar_counts": true,
+      "parametrized_colon_lyrics": true,
+      "production_tokens": true,
+      "sentence_case": true
+    },
+    "style_chars": 944,
+    "technique": null,
+    "title": "When the Square Fills",
+    "uuid": "8a0ded17-3569-4ca9-a97b-5458cbbbd865",
+    "version": 259
   },
   "8b3c1ed8-2970-47fa-845c-7f6a193297c6": {
     "bpm": 118,
