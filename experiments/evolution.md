@@ -306,6 +306,7 @@ mindmap
 | 259 | When the Square Fills | modern cinematic festival-arrival - forward-motion concept (Drop-density + concept-as-driver hypotheses both validated) | D-flat minor -> E major (enharmonic relative major at the Drop) | 160 | cornet + tenor saxophone + viola da gamba |
 | 260 | Static | drift phonk viral pivot (first non-instrumental, vocals + 808s + cowbell) | A minor | 138 | 808 sub-bass + cowbell + slowed-vocal-chops |
 | 261 | Polnoch | slap house viral cycle - Russian future rave (vocals + sidechain pluck + four-on-the-floor) | A minor -> B-flat minor (half-step lift at Final Drop) | 124 | sidechain pluck lead + female vocal + four-on-the-floor kick |
+| 262 | Fumée | French dark electro-pop viral cycle - husky low-register contralto, French lyrics, voice-differentiation experiment | D minor | 96 | muted Rhodes + husky French contralto + deep sub-bass |
 
 ## Next-cycle priorities
 

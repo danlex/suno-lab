@@ -1,0 +1,100 @@
+name: "fumee-v262"
+version: 262
+title: "Fumée"
+
+style: "French dark electro-pop, husky low-register French female contralto, 96 BPM, D minor, late-night intimate. Spoken-sung not belted — breathy close-mic chest-voice, warm tape saturation on the vocal, smoke-and-shadow timbre sitting low in the mix. Sparse arrangement: muted Rhodes-style electric piano, minimal vinyl crackle texture, deep sub-bass under a near-empty beat, tight chamber reverb on the vocal. Paris nocturne — fenêtres allumées de l'autre côté, pluie sur les pavés, deux heures du matin, fumée et silence. The vocal stays intimate and conversational throughout: no rise to a chorus belt, no arena reverb, no doubling stacks — single voice, close, restrained. Sub-bass and sparse Rhodes carry the harmonic weight while the contralto speaks almost beneath her breath. No big-room dance, no cabaret singer, no soaring belt, no accordion lead, no traditional French chanson, no broadway."
+
+lyrics: |
+  [Intro]
+  mmh, mmh, mmh
+
+  [Verse 1]
+  deux heures du matin, la ville se tait
+  je pense à toi dans le silence
+  une fenêtre allumée de l'autre côté
+  tu es loin, tu es loin
+
+  [Hook]
+  ne reviens pas, ne reviens pas
+  laisse-moi la nuit, laisse-moi la nuit
+
+  [Verse 2]
+  le café est froid, la pluie chuchote
+  ton nom dans ma bouche, je ne le dis pas
+  la fumée monte, les pavés brillent
+  tu es loin, tu es loin
+
+  [Hook]
+  ne reviens pas, ne reviens pas
+  laisse-moi la nuit, laisse-moi la nuit
+
+  [Bridge]
+  mmh, mmh, mmh
+  [Spoken] tu es loin
+
+  [Final Hook]
+  ne reviens pas, ne reviens pas
+  laisse-moi la nuit, laisse-moi la nuit
+
+  [Outro]
+  mmh, mmh, mmh
+
+  [End]
+
+instrumental: false
+vocal_gender: female
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, opera, broadway, musical theater, easy listening, world music, traditional French chanson, Édith Piaf style, cabaret singer, accordion lead, big-room dance, slap house, EDM drop, soaring female belt, k-pop, anime opening, polka, ska, future rave, four-on-the-floor, sidechain pluck, house music"
+
+tags:
+  - french-dark-electro-pop
+  - electro-chanson
+  - 96bpm
+  - d-minor
+  - female-vocal-husky-contralto
+  - spoken-sung
+  - viral arm
+  - french-lyrics
+  - intimate-vocal
+  - paris-nocturne
+
+notes: |
+  VIRAL ARM cycle v262 — French dark electro-pop / electro-chanson moderne.
+
+  Voice differentiation strategy vs. v261 "Polnoch":
+  v261 specified "soaring female melodic vocal with heavy reverb tail and layered
+  double-tracked stack — Eastern European emotional intensity" at 124 BPM in A minor.
+  That voice profile is arena-scale, distant, reverb-drenched, belted.
+  v262 inverts every axis:
+    - Contralto (low register) vs. soprano/mezzo (high register)
+    - Spoken-sung vs. melodic belt
+    - Close-mic chest-voice vs. distant reverb tail
+    - Smoke-and-shadow timbre vs. bright emotional soar
+    - Single unprocessed voice vs. doubled/stacked layers
+    - Warm tape saturation vs. polished club mix
+    - 96 BPM vs. 124 BPM
+    - D minor vs. A minor
+    - Sparse Rhodes vs. sidechained pluck synth
+  The style field frontloads every one of these contrasts to force Suno's classifier
+  into a completely different vocal synthesis path. "Spoken-sung not belted" is the
+  single most load-bearing phrase — it tells Suno to suppress the melodic arc that
+  defines slap-house vocals.
+
+  French lyrics rationale: user feedback requested French-language lyrics as a
+  distinguishing factor from the prior English-language dance cycles. The lyrics
+  use short 4-line image-stanzas (not narrative) with an intimate nocturnal vocabulary:
+  "deux heures du matin," "fenêtre allumée," "la pluie chuchote," "fumée," "tu es loin."
+  Hook is a single repeated couplet — minimal, hypnotic, suited to the spoken-sung
+  delivery. The [Spoken] tag in the Bridge forces a spoken whisper on "tu es loin"
+  which maximises the timbre contrast with what Suno might default to.
+
+  BPM rationale: 96 BPM chosen deliberately 28 BPM slower than v261 (124 BPM). At 96
+  the beat gives space for the conversational vocal to breathe; a faster tempo would
+  push the classifier toward dance-floor and risk reasserting the soaring-belt default.
+  96 BPM + D minor + sparse Rhodes maps cleanly to the French nu-soul / dark electro-pop
+  quadrant Suno recognises from tracks in that production tradition.
+
+  Title "Fumée" (smoke) — single French word, nocturnal, sensory, matches the
+  cigarette-smoke-and-rain Paris scene. Distinct from v261's Russian "Polnoch."
+
+  Style char count: 896.
