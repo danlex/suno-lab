@@ -1,0 +1,53 @@
+name: "dopo-la-chiusura-v249"
+version: 249
+style: "Late-night Italian neoclassical chamber cinematic, intimate and noir-tinged, the warmth of a trattoria at the end of a narrow alley after the last guests have gone. Tight chamber reverb and warm tape saturation frame a polished studio mix where every instrument breathes in close proximity. Scored in F minor moving to A-flat major at the bridge, at 144 BPM, for harpsichord carrying the chord progression and ostinato figures, cor anglais stating the mournful melodic line, and bass clarinet providing rich sub-register sustain beneath the full string section. The harpsichord's mechanical attack anchors the pulse; the cor anglais bends each phrase with low-reed warmth; the bass clarinet underlines every harmonic shift with dark resonance. Cellos and violas fill the middle register while violins trace a delicate upper line. No guitars, no vocals, no percussion, no synthesizers, no rock drums."
+title: "Dopo la Chiusura"
+lyrics: |
+  [Intro: solo harpsichord states the F minor theme over a sparse cello pedal, 8 bars]
+  [Reed Enters: cor anglais joins with a mournful countermelody above the harpsichord ostinato, 8 bars]
+  [Sub-Bass Joins: bass clarinet enters with rich sub-register sustain, deepening the harmonic bed, 8 bars]
+  [Bridge: all three voices modulate to A-flat major, violas and cellos rising with warmth, 16 bars]
+  [Bloom: full string section blooms as harpsichord, cor anglais, and bass clarinet weave in counterpoint, 16 bars]
+  [Hush: harpsichord and cor anglais alone, intimate piano dynamic, strings silent, 8 bars]
+  [Final Statement: full ensemble returns in F minor, bass clarinet anchoring the final cadence, 16 bars]
+  [Coda: bass clarinet sustains low tonic while harpsichord rolls a quiet final chord, 8 bars]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, ethnic folk, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, Italian opera, vocal cabaret, baroque pastiche, traditional, Scandinavian folk, Japanese folk"
+notes: |
+  Italian neoclassical chamber cinematic — a late-night film cue in the tradition of intimate Italian scoring (no composer names named, per blocklist discipline), evoking the warmth and shadow of a trattoria at the end of a narrow alley after closing time. The maître d' nurses a vermouth at the corner table; the kitchen is quiet; the remaining musicians play for themselves.
+
+  v248-breakthrough playbook applied in full: (1) parametrized colon-lyrics with bar counts (8–10 sections, the v5.5 trick proven at 3:17 in v248); (2) production-mix tokens — "tight chamber reverb," "warm tape saturation," "polished studio mix" — three tokens baked into the style; (3) sentence case throughout style, no ALL-CAPS form labels; (4) atmospheric-first opening — feeling before technique; (5) three full body voices (harpsichord + cor anglais + bass clarinet), satisfying the two-body-voice rule.
+
+  Trio roles and gaps:
+  - HARPSICHORD (×1, last v235 — 14-gap): mechanical attack, ostinato chord figures, pulse anchor.
+  - COR ANGLAIS (×1, last v238 — 11-gap): warm low-reed melodic statement and mournful countermelody.
+  - BASS CLARINET (×1, last v236 — 13-gap): sub-register sustain, harmonic foundation, dark resonance.
+
+  Key: F minor → A-flat major (relative major, warmth-out-of-shadow modulation at bridge).
+  BPM: 144 (last v150 — 99-gap, effectively fresh; mid-tempo proven band).
+  Duration target: ~3:00 via bar-count scaffolding (8+8+8+16+16+8+16+8 bars = 88 bars at 144 BPM ≈ 3:40; Suno compresses, so expect 2:50–3:15).
+  Style char count: 899.
+tags:
+  - italian-neoclassical-cinematic
+  - italian-cinematic-chamber
+  - harpsichord
+  - cor-anglais
+  - bass-clarinet
+  - harpsichord-14-gap
+  - cor-anglais-11-gap
+  - bass-clarinet-13-gap
+  - 144bpm
+  - 144bpm-gap-99
+  - f-minor
+  - a-flat-major
+  - f-minor-to-a-flat-major
+  - late-night-trattoria-scene
+  - three-body-trio
+  - parametrized-lyrics
+  - production-tokens
+  - v248-playbook
+  - technique-italian-cinematic
+  - duration-3min
+  - research-driven
+  - new-bpm-band
