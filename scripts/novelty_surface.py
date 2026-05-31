@@ -30,31 +30,44 @@ EXPERIMENTS_DIR.mkdir(exist_ok=True)
 OUT_JSON = EXPERIMENTS_DIR / "novelty_surface.json"
 
 # Known instruments — expand as the repo grows. The extractor first tries
-# uppercase detection (v93+ format), then falls back to scanning for these.
+# tag-based detection (most reliable), then uppercase regex (v93+ format),
+# then falls back to scanning for these by name.
 KNOWN_INSTRUMENTS = {
     # strings / bowed
     "violin", "viola", "cello", "contrabass", "double bass", "upright bass",
     "hardanger fiddle", "nyckelharpa", "erhu", "hurdy gurdy", "viola da gamba",
-    "string quartet", "string orchestra",
+    "string quartet", "string orchestra", "baryton", "sarangi",
     # plucked / keyboard strings
     "harp", "harpsichord", "mbira", "cimbalom", "kora", "cristal baschet",
-    "prepared piano", "felt piano", "piano", "clavichord",
+    "prepared piano", "felt piano", "piano", "clavichord", "guqin",
     # brass
     "french horn", "trumpet", "trombone", "bass trombone", "tuba", "flugelhorn",
-    "cornet", "wagner tuba",
+    "cornet", "wagner tuba", "ophicleide",
     # woodwinds
     "flute", "bass flute", "piccolo", "oboe", "oboe d'amore", "cor anglais",
     "english horn", "clarinet", "bass clarinet", "contrabass clarinet",
     "bassoon", "contrabassoon", "tenor saxophone", "baritone saxophone",
-    "subcontrabass saxophone", "shakuhachi", "ney", "duduk",
+    "subcontrabass saxophone", "shakuhachi", "ney", "duduk", "chalumeau",
     # percussion
     "timpani", "taiko", "frame drums", "glass marimba", "marimba", "vibraphone",
     "bowed vibraphone", "handpan", "balafon", "steelpan", "steel tongue drum",
     "music box", "tubular bells", "gongs", "glockenspiel", "celesta",
+    "crotales", "nail violin", "singing saw",
+    # accordion / free reed
+    "accordion", "bandoneon", "concertina",
     # electronic / electro-acoustic
     "theremin", "ondes martenot", "moog", "mellotron", "pipe organ", "organ",
     # voice / exotic
     "glass harmonica", "waterphone", "armonica",
+}
+
+# Common alias normalization — tags use hyphenated kebab-case (e.g. "bass-trombone")
+# while the surface uses space-separated names. Map back to canonical form.
+INSTRUMENT_TAG_ALIASES = {
+    "oboe-d-amore": "oboe d'amore",
+    "viola-da-gamba": "viola da gamba",
+    "english-horn": "english horn",
+    "cor-anglais": "cor anglais",
 }
 
 # Genre keywords — detect a song's "dominant genre" (what Suno will latch on to).
@@ -82,13 +95,13 @@ def normalize(s: str) -> str:
 
 
 def extract_featured_instruments(style: str) -> list[str]:
-    """v93+ uses 'ORCHESTRAL X with FEATURED1 + FEATURED2 + FEATURED3'.
-    Capture anything in ALL CAPS after 'with ' up to the first comma or period."""
+    """Legacy v93+ extractor: 'ORCHESTRAL X with FEATURED1 + FEATURED2 + FEATURED3'.
+    Captures ALL-CAPS chunks after 'with '. Returns empty for sentence-case (v248+)
+    prompts — those are handled by extract_instruments_from_tags."""
     featured = []
     m = FEATURED_RE.search(style)
     if m:
         chunk = m.group(1)
-        # Only accept if chunk is mostly uppercase (v93+ signal)
         alpha = [c for c in chunk if c.isalpha()]
         if alpha and sum(1 for c in alpha if c.isupper()) / len(alpha) > 0.7:
             for piece in re.split(r"\s*\+\s*", chunk):
@@ -96,6 +109,31 @@ def extract_featured_instruments(style: str) -> list[str]:
                 if piece:
                     featured.append(piece)
     return featured
+
+
+def extract_instruments_from_tags(tags) -> list[str]:
+    """Parse the YAML's tags field for instrument names — the most reliable signal.
+    Tags conventionally include bare instrument slugs ('harp', 'bass-trombone') and
+    revival markers ('revival-ophicleide-21-gap'). This catches every catalog YAML
+    including v248+ sentence-case prompts that the legacy CAPS regex misses."""
+    if not tags:
+        return []
+    found = []
+    seen = set()
+    for raw in tags:
+        if not isinstance(raw, str):
+            continue
+        slug = raw.strip().lower()
+        # Strip the "revival-<instr>-<n>-gap" wrapper if present
+        rev_match = re.match(r"^revival-(.+?)-\d+-gap$", slug)
+        if rev_match:
+            slug = rev_match.group(1)
+        # Resolve alias (e.g. "oboe-d-amore" -> "oboe d'amore")
+        candidate = INSTRUMENT_TAG_ALIASES.get(slug, slug.replace("-", " "))
+        if candidate in KNOWN_INSTRUMENTS and candidate not in seen:
+            seen.add(candidate)
+            found.append(candidate)
+    return found
 
 
 def extract_mentioned_instruments(style: str) -> set[str]:
@@ -154,8 +192,12 @@ def build_surface(prompts: list[dict]) -> dict:
     for p in prompts:
         v = p.get("version", 0) or 0
         style = p.get("style", "") or ""
+        tags = p.get("tags", []) or []
 
-        featured = extract_featured_instruments(style)
+        # Priority order: structured tags (most reliable, works for sentence-case
+        # v248+ prompts) → legacy CAPS regex → keyword scan of the style.
+        from_tags = extract_instruments_from_tags(tags)
+        featured = from_tags or extract_featured_instruments(style)
         mentioned = extract_mentioned_instruments(style)
 
         # Featured takes priority — those are the "headlined" instruments
