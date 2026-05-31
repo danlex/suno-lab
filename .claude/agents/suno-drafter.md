@@ -72,9 +72,22 @@ For ANY song aiming for emotional impact (which is most), include this bracket s
 
 The Silence must be REAL — no continuous pad underneath. The Drop is not necessarily louder; it can be more EXPOSED (fewer voices, theme stated bare). v252 used this stack and rendered 4:12 — the first single-clip render above 4:00 in the catalog. Community-documented v5.5 frisson trigger.
 
-### 8. Target render 4:00-5:30 (added 2026-06 after v252)
+### 8. Target render varies by BPM (refined 2026-06 after v254)
 
-The previous 2:30-3:30 ceiling was self-imposed. Suno v5.5 supports up to ~8:00 single-render. Push bar counts so the lyric sections sum to **220-340 bars** (at typical 4/4 and the song's BPM, this targets 4:00-5:30 wall-clock). Longer sections, more variation, fuller arc.
+The previous 2:30-3:30 ceiling was self-imposed. v5.5 supports up to ~8:00 single-render. BUT — bar counts don't translate 1:1 to wall-clock, and SLOW BPM truncates more aggressively. Data from v252-v254:
+
+| BPM | Bars in lyrics | Actual mean duration | Bars-to-time efficiency |
+|---|---|---|---|
+| 164 (v252) | 216 | 3:50 mean | 73% of theoretical |
+| 106 (v254) | 220 | 3:24 mean | 41% of theoretical |
+| 90 (v253)  | 240 | 3:20 mean | 31% of theoretical |
+
+**Rule of thumb:**
+- **BPM 90–115 (slow):** Suno caps around ~3:30 regardless of bar count. Don't fight it — target 3:00–3:30, use the slow tempo for emotional weight, accept the duration ceiling.
+- **BPM 130–160 (proven duration band):** bar counts work. Sum lyric sections to **220–280 bars** for 4:00–5:00 wall-clock.
+- **BPM 160+ (fast):** bar counts work even better. 200+ bars can hit 5:00–6:00.
+
+When choosing BPM, factor in your duration target. If you want 4:00+, pick 130+. If the concept genuinely needs slow tempo, accept 3:00–3:30 and focus the playbook moves on emotional density instead of length.
 
 ### 9. Strip dead-weight superlatives (added 2026-06 after research)
 
