@@ -290,6 +290,7 @@ mindmap
 | 243 | Frost on the Deckle | barcarolle-to-grand-finale (continuous rocking 6/8 ostinato with cantilena -> chromatic B -> tutti finale) | D-flat minor -> D minor (half-step at grand finale) | 161 | bass trombone + glass marimba + prepared piano |
 | 244 | When the Doves First Stir | sarabande-and-double (bare statement + ornamented double; truncated) | A major -> B-flat major (half-step at double tutti peak) | 47 | cornet + tenor saxophone + crotales |
 | 245 | What Each Ward Holds | lyric tone poem (single-movement continuous cantabile thread) | C-sharp minor -> D minor (half-step at blazing return) | 162 | flugelhorn + contrabassoon + glockenspiel |
+| 246 | Iron Canopy at Last Light | da capo aria (orchestral ABA with ornamented return) | B-flat minor -> B minor (half-step at bloomed return) | 152 | mellotron + viola da gamba + tubular bells |
 
 ## Next-cycle priorities
 

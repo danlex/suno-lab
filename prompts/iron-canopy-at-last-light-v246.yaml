@@ -1,0 +1,62 @@
+name: "iron-canopy-at-last-light"
+version: 246
+title: "Iron Canopy at Last Light"
+instrumental: true
+
+style: "DA CAPO ARIA orchestral ABA form, abandoned-railway-yard-at-dusk scene, total duration around 3:00, B-flat minor lifting to B minor at the bloomed return, 152 BPM, MELLOTRON + VIOLA DA GAMBA + TUBULAR BELLS, full orchestra. A restrained cantabile theme opens over a lush MELLOTRON chord bed; VIOLA DA GAMBA sings each phrase with long bows while TUBULAR BELLS chime at phrase endings, strings held pianissimo beneath. The B section fractures: brass crowd in, low strings thicken, timpani accumulate, dissonance spreads with no clear melody — a crisis of turbulence. Then the tutti recedes: VIOLA DA GAMBA re-states the theme alone over the spare MELLOTRON bed, a thinning that exposes the melody. Orchestra rejoins at the half-step lift into B minor, the same skeleton now ornamented with upper variations and woodwind embellishments; TUBULAR BELLS ring a luminous final chord. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [A Theme — B-flat Minor]
+  [Sustained Cantabile Opens]
+  [Phrase Endings Chime]
+  [B Section — Crisis]
+  [Tutti Dissonance Builds]
+  [Crisis Peak — No Melody]
+  [Thinning — Theme Returns]
+  [Ornamented Bloom — B Minor]
+  [Luminous Final Chord]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, baroque-pastiche, period-instrument, operatic, folk, traditional, ethnic"
+
+notes: |
+  DA CAPO ARIA is the Baroque vocal form in which a singer (or here, an instrument) states a full theme (A), moves through a contrasting section (B), then returns to A — with the convention that the A reprise is heavily ornamented. Originating in Italian opera and cantata of the late 17th and early 18th centuries, it shaped nearly all vocal music of that era before falling out of fashion with Classical-era through-composed forms.
+
+  Research this cycle: translating the da capo convention to pure orchestral language by replacing the singing voice with VIOLA DA GAMBA and using the B section as harmonic-crisis rather than a softer contrasting aria. The A' return is split into two phases — a "thinning" (tutti recedes, gamba re-states theme alone over MELLOTRON) followed immediately by a "bloom" (orchestra rejoins with half-step lift to B minor and ornamentation). This avoids the flat literal repeat that can feel mechanical and instead turns the ornamented return into a dramatic arrival. Composer names omitted per blocklist policy.
+
+  Duration defense: continuous melodic expectation (theme stated in A, fragmented but remembered in B, re-stated in thinning, ornamented in bloom — listener never loses the thread). MELLOTRON provides lush analog-tape-strings/choir body throughout, anchoring tonal continuity. Full orchestra in B section and bloomed return drives density. BPM 152 sits in the catalog's proven 130–160 band for full-length generations.
+
+  Trio roles and gaps:
+  - MELLOTRON (keyboards) — ×1, last v234, 12-gap — harmonic bed; lush analog chord sustain carrying the progression throughout all sections.
+  - VIOLA DA GAMBA (bowed strings) — ×1, last v237, 9-gap — cantabile-theme voice; states A, re-states the thinned A', then ornaments in the bloom.
+  - TUBULAR BELLS (mallet percussion) — ×1, last v236, 10-gap — phrase-end punctuation in A; luminous final ring at the coda.
+
+  Key arc: B-flat minor (home) → B minor (half-step lift at the bloomed return, ~2:20). BPM 152 last used at v120, gap 126 — effectively fresh; in the proven 130–160 duration-defense band.
+
+  Scene: abandoned railway yard at dusk — derelict 19th-century terminus, rusted tracks, iron platform canopy, frozen switch levers, a locomotive hulk under tarpaulin. A arc = slow walk along the platform at sundown. B arc = sudden wind through the iron canopy, dust rising, all the vanished trains crowding the air. A' thinned = wind subsides, only the long horizon. A' bloomed = last sunlight catching every rusted brass fitting — the yard briefly luminous as if remembered into life.
+
+  Lyrics rule applied (v245+ middle ground): 8–10 sections, 2–6 words per bracket, musical/structural descriptors only — no instrument names, no scene words inside brackets.
+
+  Style character count: 947.
+
+tags:
+  - orchestral-da-capo-aria
+  - da-capo-aria
+  - new-technique
+  - mellotron
+  - viola-da-gamba
+  - tubular-bells
+  - revival-mellotron-12-gap
+  - revival-viola-da-gamba-9-gap
+  - revival-tubular-bells-10-gap
+  - 152bpm
+  - new-bpm
+  - b-flat-minor
+  - b-minor
+  - half-step-modulation
+  - abandoned-railway-yard-at-dusk-scene
+  - duration-3min
+  - research-driven
+  - full-orchestra
+  - cantabile-theme
+  - ornamented-return
