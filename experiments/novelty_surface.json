@@ -1,6 +1,6 @@
 {
-  "total_prompts": 256,
-  "latest_version": 256,
+  "total_prompts": 257,
+  "latest_version": 257,
   "instruments": {
     "piano": [
       1,
@@ -295,6 +295,39 @@
       239,
       255
     ],
+    "contrabassoon": [
+      103,
+      119,
+      133,
+      181,
+      206,
+      220,
+      233,
+      245,
+      257
+    ],
+    "cristal baschet": [
+      86,
+      93,
+      112,
+      132,
+      144,
+      194,
+      215,
+      230,
+      257
+    ],
+    "flugelhorn": [
+      106,
+      123,
+      135,
+      187,
+      206,
+      221,
+      234,
+      245,
+      257
+    ],
     "harpsichord": [
       105,
       121,
@@ -337,16 +370,6 @@
       239,
       255
     ],
-    "contrabassoon": [
-      103,
-      119,
-      133,
-      181,
-      206,
-      220,
-      233,
-      245
-    ],
     "cor anglais": [
       104,
       122,
@@ -357,16 +380,6 @@
       238,
       249
     ],
-    "cristal baschet": [
-      86,
-      93,
-      112,
-      132,
-      144,
-      194,
-      215,
-      230
-    ],
     "duduk": [
       32,
       33,
@@ -376,16 +389,6 @@
       179,
       218,
       232
-    ],
-    "flugelhorn": [
-      106,
-      123,
-      135,
-      187,
-      206,
-      221,
-      234,
-      245
     ],
     "glass harmonica": [
       32,
@@ -956,14 +959,18 @@
       158,
       173,
       187,
-      251
+      251,
+      257
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
       255
+    ],
+    "baroque": [
+      188,
+      191
     ],
     "concerto": [
       145,
@@ -979,9 +986,6 @@
     ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "house": [
       242
@@ -1154,6 +1158,15 @@
       201,
       244
     ],
+    "c-sharp minor": [
+      117,
+      179,
+      207,
+      218,
+      232,
+      245,
+      257
+    ],
     "e-flat minor": [
       79,
       109,
@@ -1171,14 +1184,6 @@
       219,
       236,
       256
-    ],
-    "c-sharp minor": [
-      117,
-      179,
-      207,
-      218,
-      232,
-      245
     ],
     "d-flat major": [
       92,
@@ -1629,7 +1634,8 @@
     "138": [
       71,
       94,
-      100
+      100,
+      257
     ],
     "139": [
       223
@@ -1733,6 +1739,19 @@
     ]
   },
   "titles": [
+    {
+      "version": 257,
+      "title": "Linens",
+      "name": "linens-v257",
+      "featured": [
+        "flugelhorn",
+        "contrabassoon",
+        "cristal baschet"
+      ],
+      "genre": "cinematic",
+      "key": "c-sharp minor",
+      "bpm": 138
+    },
     {
       "version": 256,
       "title": "Crest of the First Light",
@@ -2561,7 +2580,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },

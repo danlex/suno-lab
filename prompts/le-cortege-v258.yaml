@@ -1,0 +1,59 @@
+name: "le-cortege-v258"
+version: 258
+title: "Le Cortège"
+instrumental: true
+
+style: "Gray winter sky over a grand boulevard, military honor guard slow-marching, a riderless horse, banners furled in black, the crowd silent and many-deep — national grief measured in stone-step pace. Hollywood scoring stage with Decca-tree wide strings and deep low-end definition. Three voices: mellotron pads hold the harmonic bed in broad orchestral warmth, oboe carries the aching melodic line, marimba marks each downbeat with resonant wood as the procession moves. A-flat minor through the long boulevard, then a half-step rise to A minor as the bier reaches the gate — luminous sorrow, both keys remaining minor. 166 BPM cut-time, felt as 83 BPM processional, each bar a deliberate footstep. Full strings, brass choir, woodwinds together, mellotron harmonic foundation underneath, oboe carrying the grief high, marimba anchoring each beat in the body of the sound. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: distant tolling bell over cold ambience, solo oboe stating the grief theme softly above mellotron pad, marimba striking the first downbeat, 12 bars]
+  [Cortege Enters: full string section joins beneath mellotron, oboe melody continues, marimba marking each beat as the procession steps forward, 16 bars]
+  [Theme Unfolds: brass choir enters in low sustained chords, woodwinds filling the harmonic texture, oboe leading above the full ensemble, mellotron widening the harmonic bed, marimba steady, 24 bars]
+  [First Deepening: full orchestra in A-flat minor, strings carrying the inner voices, oboe pressing the theme higher, mellotron sustaining beneath brass and woodwinds together, marimba resonant on every downbeat, 24 bars]
+  [Counterpoint: oboe and a solo bassoon in two-voice counterpoint above the string foundation, mellotron holding the harmonic pillar, marimba quieter but present, 16 bars]
+  [Second Deepening: full ensemble returns, harmonic tension darkening in A-flat minor, strings surging, brass swelling, woodwinds weaving, oboe pressing higher, mellotron deepening, marimba driving the beat, 24 bars]
+  [Build: all voices accumulating weight — strings intensifying, brass choir pushing, woodwinds layering, mellotron thickening, oboe ascending, marimba anchoring the pulse as the procession approaches the gate, 32 bars]
+  [Silence: full ensemble stops, absolute held breath, the cortege turning the corner, nothing underneath, 8 bars]
+  [Drop: full orchestra returns together in A minor — string section, brass choir, woodwind voices all at once, mellotron harmonic bed broadening, oboe carrying the aching theme over the full ensemble tutti weight, marimba striking each downbeat in resonant affirmation, the grief now public and complete, 48 bars]
+  [Drop Swells: full ensemble sustains the A minor theme, strings sweeping, brass deepening, woodwinds expanding the texture, mellotron holding wide harmonic warmth, oboe melody soaring above, marimba steady in the body of the sound, 32 bars]
+  [Coda: orchestra slowly thins — brass withdraws, woodwinds fade, strings diminish, mellotron sustaining a final chord, oboe alone on the last phrase, marimba one last downbeat, then silence, 16 bars]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, triumphant fanfare, cinematic action, march, march tempo, polka, klezmer, gypsy jazz, chamber music, ambient, cinematic ambient, intimate chamber"
+
+tags:
+  - mellotron
+  - oboe
+  - marimba
+  - 166bpm
+  - a-flat-minor
+  - a-minor
+  - state-funeral-scene
+  - revival-mellotron-12-gap
+  - revival-oboe-60-gap
+  - revival-marimba-21-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - full-density-drop
+  - build-silence-drop
+  - hypothesis-test-v258
+
+notes: |
+  Lyrical sweeping cinematic elegy — the bittersweet emotional arc expressed at full-orchestra scale rather than in intimate chamber form. State-funeral scale: public grief, sweeping and historical rather than personal. The Build/Silence/Drop architecture (Playbook Move 7) is retained from v257, but the Drop section is inverted in density: instead of bare/exposed restatement, the Drop returns the theme in FULL ENSEMBLE DENSITY — strings, brass, and woodwinds together, mellotron broadening the harmonic bed, oboe leading the melodic ache above, marimba marking each downbeat in the body of the sound.
+
+  Concept source: Direct hypothesis test of the drop-density question raised by v257's 3:12 mean render. v257 (exposed Drop, intimate chamber) was auto-tagged "cinematic ambient" by Suno and rendered short. v258 holds the same emotional family (bittersweet, both keys minor, half-step rise) but forces FULL-DENSITY Drop. If render hits 4:00+ this cycle, the hypothesis is supported and full-density Drop should be promoted as a playbook rule: "do not strip the Drop, keep tutti weight, Suno classifies exposed Drops as ambient and renders them shorter."
+
+  The technique belongs to a tradition of state-ceremonial cinematic music — composers whose names are on the blocklist and are intentionally omitted. The emotional mechanism is the public-grief procession: not the private loss (v257's drawer of linens) but the national-historical weight of a cortege down a grand boulevard. Same harmonic logic (both keys minor, half-step rise as luminous sorrow), different scale and instrumentation density.
+
+  Duration strategy: 166 BPM functions as cut-time 83 BPM processional. At 166 BPM actual (fast band), bar counts work efficiently (Playbook Move 8 table: BPM 160+ yields excellent bars-to-time efficiency). Total lyric bars: 252, squarely in the 240–280 target. Expected render: 4:00–5:00 wall-clock. Parametrized colon-syntax lyrics with per-section bar counts (Move 1). Production tokens: "Hollywood scoring stage," "Decca-tree wide strings," "deep low-end definition" — all three from Move 2, chosen for sweeping public scale. Sentence case throughout (Move 3). Atmospheric-first opening (Move 4). Build/Silence/Drop stack with true 8-bar silence and full-density Drop (Moves 7 and the new density hypothesis). Dead-weight superlatives stripped (Move 9). exclude_styles explicitly blocks "cinematic ambient" and "intimate chamber" to prevent the classification drift that affected v257.
+
+  Trio rationale: three body voices satisfying Move 5 (≥2 body voices, zero spectral). Mellotron (gap 12, last used v246): orchestral-pad body, the harmonic foundation, the wide harmonic warmth under all voices. Oboe (gap 60, last used v198 — extraordinary deep revival): lyric-elegy body, the aching melodic line at the top of the texture, the human cry above the procession. Marimba (gap 21, last used v237): resonant percussive body, the heartbeat of the cortege, each downbeat marked in wood-resonance.
+
+  Key: A-flat minor to A minor — half-step rise, both keys minor. The rise is luminous sorrow, not triumph. The grief does not resolve into release; it becomes more present, more seen, as the bier passes the gate.
+
+  Scene: a capital city, gray winter morning, the grand boulevard lined many-deep with silent crowds, banners furled in black, the riderless horse with reversed boots in the stirrups, military honor guard rifles inverted, a distant bell tolling slowly, the weight of history in each footstep of the procession.
+
+  Style character count: 938.
