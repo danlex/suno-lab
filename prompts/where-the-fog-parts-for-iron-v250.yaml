@@ -1,0 +1,76 @@
+name: "where-the-fog-parts-for-iron"
+version: 250
+title: "Where the Fog Parts for Iron"
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, trailer music, cinematic trailer, folk, traditional, ethnic"
+
+style: "A vast pre-dawn heaviness lifts slowly as fog clings to cold water and iron — polished studio mix, Hollywood scoring stage warmth, Decca-tree wide strings filling the hall, deep low-end definition anchoring the brass. Modern cinematic film cue in G minor moving to B-flat major, 150 BPM, total duration around 3:00. Bass trombone carries the deep pedal weight and periodic brass strikes; harp traces arpeggiated cinematic figures and high-register sweeping runs at the crest; oboe d'amore delivers the warm reed melodic statement that holds as the human anchor against the orchestral mass. Full string section — low cellos, violas, violins — supports throughout. Brass section and timpani arrive at the peak. The arc moves from pre-dawn stillness through gathering industrial momentum to a broad B-flat major arrival and a quiet fade. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo oboe d'amore over a distant low bass trombone pedal, 8 bars]
+  [Strings Enter: warm low cellos lay a wide harmonic bed in G minor, 8 bars]
+  [Harp Figure: harp arpeggiated cinematic figure, bass trombone deepens below, 8 bars]
+  [Build: full string section swells, bass trombone strikes gather weight, 8 bars]
+  [Peak: full orchestra with timpani, harp sweeping runs across the register, 16 bars]
+  [Bridge: modulating to B-flat major, oboe d'amore returns with the warm theme, 8 bars]
+  [Final Statement: full ensemble in B-flat major, expanded harmonization, 16 bars]
+  [Coda: oboe d'amore sustains alone, bass trombone fades beneath, 8 bars]
+  [End]
+
+notes: |
+  MODERN CINEMATIC FILM CUE — this prompt applies the full v248/v249 playbook to a milestone
+  v250 entry. The technique is modern Hollywood orchestral scoring: a dramatic ABA-with-coda
+  arc built on functional tonal harmony (G minor home, B-flat major bridge and return), with
+  the dramatic arc shaped by register, density, and bass weight rather than electronic texture.
+  Concept source: post-2010 Hollywood scoring stage practice — full string complement plus solo
+  woodwind anchor, wide-room recording (Decca-tree), deep low brass pedal for scale and weight.
+  No composer names cited per blocklist discipline.
+
+  Duration strategy: tonal G minor → B-flat major modulation plus 150 BPM pulse give Suno a
+  clear temporal target; parametrized colon-syntax lyrics with bar counts per section (the
+  v248 breakthrough trick) scaffold the 3:00 target from inside the lyrics field.
+
+  Trio roles and revival gaps:
+  - Bass trombone: ×1 last v231, 19-version gap. Carries the deep pedal drone and periodic
+    brass strikes — the industrial mass and weight of the container hull.
+  - Harp: ×1 last v238, 11-version gap. Arpeggiated cinematic figures and high-register
+    sweeping runs at the peak — light refracting off fog and water.
+  - Oboe d'amore: ×1 last v234, 16-version gap. Warm reed melody — the human scale against
+    the industrial mass; enters first, returns at the bridge.
+
+  BPM 150: last used v74, 175-version gap — effectively fresh at this tempo.
+  Key G minor → B-flat major: classic shadow-to-warmth cinematic move; relative major arrival.
+  Scene: container-ship at dawn, coastal fog, tugboats, quays, foghorn — modern industrial
+  cinematic, not pastoral.
+
+  Playbook moves applied (v248/v249 discoveries):
+  - Parametrized colon-syntax lyrics with bar counts (8–16 bars per section, 9 sections)
+  - Production-mix tokens: "polished studio mix," "Hollywood scoring stage," "Decca-tree wide
+    strings," "deep low-end definition"
+  - Sentence case throughout style (no ALL-CAPS form labels)
+  - Atmospheric-first opening (mood/feeling before technique label)
+  - Three full body voices in the trio (no spectral voices)
+  - Five inline negatives in style
+
+  Final style char count: 904.
+
+tags:
+  - modern-cinematic-film-cue
+  - bass-trombone
+  - harp
+  - oboe-d-amore
+  - 150bpm
+  - g-minor
+  - b-flat-major
+  - deepwater-port-at-dawn-scene
+  - revival-bass-trombone-19-gap
+  - revival-harp-11-gap
+  - revival-oboe-damore-16-gap
+  - bpm-150-gap-175
+  - technique-modern-cinematic
+  - parametrized-lyrics
+  - production-tokens
+  - three-body-trio
+  - duration-3min
+  - research-driven
+  - milestone-v250

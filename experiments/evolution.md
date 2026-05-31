@@ -294,6 +294,7 @@ mindmap
 | 247 | Dawn the Falcon Lifts | concert march with trio (fanfare -> strains -> contrasting trio -> tutti return) | B major -> C minor -> B major (trio in relative minor) | 136 | french horn + hurdy gurdy + celesta |
 | 248 | Rain on the Quai | French cinematic chanson without vocals (parametrized lyrics + production tokens + two-body trio) | A minor -> F major (relative-major bridge) | 132 | accordion + harp + clarinet |
 | 249 | Dopo la Chiusura | Italian neoclassical cinematic (playbook generalization test: noir chamber + 3-body trio) | F minor -> A-flat major (relative-major bridge) | 144 | harpsichord + cor anglais + bass clarinet |
+| 250 | Where the Fog Parts for Iron | modern Hollywood cinematic film cue (playbook 3-body trio + production tokens + parametrized lyrics) | G minor -> B-flat major (relative-major bridge) | 150 | bass trombone + harp + oboe d'amore |
 
 ## Next-cycle priorities
 
