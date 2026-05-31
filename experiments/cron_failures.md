@@ -1,5 +1,12 @@
 # Cron failure log
 
+## 2026-06-01 — v265 failed at submit
+
+Reason: Chrome MCP extension is connected to a localhost:8765 tab only. The suno.com/create tab is in a separate Chrome window outside the MCP tab group, so the extension cannot navigate or fill it. Submitter (`suno-submitter`) reported `browser_disconnected` after find/read_page attempts confirmed no controllable suno.com tab.
+State: Draft YAML at `prompts/fervo-v265.yaml` (Funk carioca / baile funk / tamborzão 150 BPM, G minor, shouty assertive female Portuguese MC — sixth orthogonal viral-arm voice). Style 945, lyrics 915, exclude 405, blocklist clean — all fields pre-validated via `scripts/yaml_field_check.py`. **Committed at user request (2026-06-01)** to clear the dirty working tree — this means the BACKLOG GUARD's `latest_yaml_uncommitted` check will NOT auto-trigger a retry. v265 is NOT submitted to Suno; clip UUIDs are NOT in `docs/suno_urls.json`; the site catalog still shows only through v264.
+Action taken: Aborted submission per constraint #4 — no retry. No log of partial form fill (the submitter never reached the form).
+Next cycle should: Because v265 is committed but NOT submitted, the runbook's auto-resume logic will skip it. The next cron will draft v266 fresh unless this entry is acted on. To recover v265: open suno.com/create in a Chrome window the MCP extension actually controls, confirm `list_connected_browsers` returns a tab with `suno.com/create` URL, then manually invoke `/suno prompts/fervo-v265.yaml` followed by `python3 scripts/finish_cycle.py --version 265 --clips <UUID1> <UUID2> --technique "funk carioca / baile funk / tamborzão viral cycle - shouty female Portuguese MC" --key "G minor" --bpm 150 --trio "tamborzão 808 kick + tambor/surdo + baile siren"`.
+
 ## 2026-04-13 — v131 failed at submit
 
 Reason: Chrome MCP extension disconnected. `open -a "Google Chrome" https://claude.ai` attempted, extension still not connected on retry.
@@ -98,3 +105,18 @@ Reason: `list_connected_browsers` returned `[]` at the top of the cycle — Chro
 State: `prompts/what-one-reed-remembers-v223.yaml` still on disk, untracked, judged 96/100. Three consecutive submit attempts across two cron hours have all failed at the bridge check.
 Action taken: Logged. No agents spawned. No commits beyond this log.
 Next cycle should: Same short-circuit. Only run the full pipeline (or the v223 retry) when `list_connected_browsers` returns at least one entry. User must reconnect the extension manually (extension icon in Chrome toolbar / chrome://extensions toggle / signed-in claude.ai session).
+
+## 2026-05-26 — v223 submission attempt failed
+
+- **YAML**: prompts/what-one-reed-remembers-v223.yaml
+- **Reason**: browser_disconnected — `tabs_context_mcp` returned "No MCP tab groups found" on both attempts (before and after `open -a "Google Chrome" https://claude.ai`)
+- **Context**: user reported bridge was restored (deviceId 62ca1d8e-68b7-4185-8507-d91a6f58a81c), but MCP tab group was never established; extension may need manual re-pin or page reload in Chrome
+- **Action taken**: clean exit per protocol, no form was touched
+- **Next step**: user should open Chrome, navigate to a tab, confirm the Claude Code extension icon is active, then retry submission
+
+### 2026-05-27 — "continue" retry on v223, bridge still down
+
+Reason: User-driven retry. `list_connected_browsers` returned `[]`. Issued `open -a "Google Chrome" https://claude.ai` and re-checked — still `[]`. Per runbook cap (one reconnect attempt per cycle), short-circuited.
+State: `prompts/what-one-reed-remembers-v223.yaml` still untracked on disk, judge 96/100, four consecutive submit attempts now blocked at the bridge check.
+Action taken: Logged. No agents spawned. No commits beyond this entry.
+Next cycle should: Same short-circuit until `list_connected_browsers` returns at least one entry. User needs to manually re-pin the extension (Chrome toolbar icon, chrome://extensions toggle, or refresh a logged-in claude.ai tab) — the helper-open has not been sufficient across these four attempts.

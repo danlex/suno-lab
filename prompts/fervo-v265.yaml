@@ -1,0 +1,139 @@
+name: "fervo"
+version: 265
+title: "Fervo"
+instrumental: false
+vocal_gender: female
+
+style: "Funk carioca, baile funk, tamborzão, 150 BPM, G minor, Rio favela street party. Shouty assertive female MC delivery — percussive Portuguese flow, party-leader call-and-response, dry close-mic urgency, conversational shout-rap, NO melodic singing, NO autotune sweetening, NO sing-rap. Hard syncopated tamborzão drum kit: heavy surdo-like 808 kick on the down, snappy claps, layered tambor hits, tom fills, off-beat cowbell accents, classic baile siren stabs, gritty overdriven sub-bass. Chopped vocal tag samples and breath grunts as percussion. Lo-fi DIY favela soundsystem aesthetic — distorted, peak-limited, mono-leaning low end, designed to hit on a sound-truck rig at street-block volume. Bloco de carnaval energy at 2am, motovlog-clip ready, TikTok-edit ready. No mainstream pop polish, no raspy autotuned Latina sing-rap, no soaring melodic belt, no husky contralto, no pitched-up kawaii, no orchestral, no salsa, no reggaeton, no dembow."
+
+lyrics: |
+  [Intro]
+  (siren ascending)
+  [Spoken] olha o fervo, olha o fervo
+  joga joga joga
+
+  [Drop]
+  desce, desce, desce até o chão
+  joga, joga, joga sem parar
+  desce, desce, desce até o chão
+  o fervo é meu, o fervo é meu
+
+  [Verse 1]
+  três da manhã, o som não para
+  o baile começou, ninguém vai pra casa
+  bota a mão pro alto, mostra que tu sabe
+  bota o pé no chão, dança que dança
+
+  [Hook]
+  o fervo é meu (é meu, é meu)
+  ninguém vai me parar
+  o fervo é meu (é meu, é meu)
+  ninguém vai me parar
+
+  [Drop]
+  desce, desce até o chão
+  joga, joga sem parar
+
+  [Verse 2]
+  meu corpo é meu, meu passo é meu
+  quem mandou sentar fui eu, sou eu
+  não vim pra agradar, vim pra dominar
+  o baile é meu palco, meu lugar
+
+  [Hook]
+  o fervo é meu (é meu, é meu)
+  ninguém vai me parar
+
+  [Bridge]
+  (siren) tamborzão!
+  [Spoken] olha o tambor
+  joga joga joga
+
+  [Final Drop]
+  desce até o chão (desce!)
+  joga sem parar (joga!)
+  o fervo é meu, o fervo é meu
+
+  [Outro]
+  (siren descending)
+  [End]
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring melodic female belt, husky low contralto, pitched-up kawaii chipmunked, raspy autotuned Latina sing-rap, hyperpop, k-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, mainstream radio reggaeton, dembow, slap house, drift phonk, sertanejo, MPB, bossa nova, samba traditional"
+
+tags:
+  - funk-carioca
+  - baile-funk
+  - tamborzao
+  - funk-150bpm
+  - 150bpm
+  - g-minor
+  - female-mc-shout
+  - portuguese-lyrics
+  - viral-arm
+  - favela-soundsystem
+  - motovlog-ready
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v265 — Funk carioca / baile funk / tamborzão, modern "funk
+  150 BPM" variant. Research-driven (Wikipedia, Future Audio Workshop,
+  Melodigging 2026): tamborzão is the surdo-kick + 808 + claps + tambor
+  signature beat; modern "funk 150 BPM" is the faster TikTok-viral variant
+  (Melodigging "Funk 150 BPM"). Classic baile sits at 125-132; the 150 BPM
+  push is where the current Brazilian-TikTok lane lives.
+
+  USER VALIDATION DRIVING THIS LANE: v264 "Tóxico" (neoperreo) received
+  explicit user praise ("toxico is great"). Per the updated viral-arm memory,
+  the plan is to stack 2-3 more Latin/Lusophone viral cycles before any
+  cinematic return. v265 advances the rotation:
+    - Language: Portuguese (4th language; v260/v261/v263 EN, v262 FR, v264 ES)
+    - Region: Brazil/Rio (cumulative: US/EU/Russia/France/Caribbean-LatinUS/Brazil)
+    - Rhythm: tamborzão (NOT dembow — completely different signature than v264)
+    - BPM: 150 (fresh — recent: 96/110/124/138/160)
+    - Key: G minor (fresh — recent: A/D/F/Bb minor; E major)
+
+  VOICE DIFFERENTIATION (the explicit user-driven thread). Sixth orthogonal
+  voice character in six consecutive cycles:
+    v260 — male whisper EN
+    v261 — soprano belt EN
+    v262 — husky contralto FR
+    v263 — pitched-up kawaii EN
+    v264 — raspy autotuned Latina sing-rap ES
+    v265 — shouty assertive female MC, dry close-mic, NO autotune, NO melody
+  The load-bearing phrase: "shouty assertive female MC delivery — percussive
+  Portuguese flow, party-leader call-and-response, dry close-mic urgency,
+  conversational shout-rap, NO melodic singing, NO autotune sweetening, NO
+  sing-rap." Triple negative pins the register against drift back to v264's
+  autotuned sing-rap. Style + exclude_styles both block all five prior voice
+  characters explicitly.
+
+  Lyrical authenticity: Portuguese funk carioca vocabulary throughout —
+  "fervo" (party/heat), "desce até o chão" (canonical baile dance call),
+  "joga joga joga" (shout-rap MC tag), "olha o tambor" (genre-canonical
+  attention call), "tamborzão" named in the bridge. Concept: female narrator
+  owns the dance floor — body autonomy, no permission needed, "o fervo é meu"
+  (the party is mine). Sits in the empowered-female funk carioca tradition
+  (Tati Quebra Barraco lineage) without naming any artist.
+
+  BPM 150 + tamborzão rationale: this is the TikTok-viral end of the genre.
+  Classic 130 BPM is the safer floor but the 150 BPM variant is where
+  motovlog edits, dance-clip remixes, and meme-loop virality actually live in
+  2026. The style field names "funk 150 BPM" explicitly to push Suno into
+  the modern variant rather than the dated 2008-era classic.
+
+  Production palette pinned: "Lo-fi DIY favela soundsystem aesthetic —
+  distorted, peak-limited, mono-leaning low end, designed to hit on a
+  sound-truck rig at street-block volume." This is the load-bearing
+  aesthetic descriptor that keeps Suno in the underground favela zone
+  rather than the polished Anitta/major-label radio zone. Mainstream pop
+  polish explicitly excluded.
+
+  Title "Fervo" — single Portuguese word, 5 chars, MEME-able, thematically
+  tied to the lyric. Genre-canonical Rio slang.
+
+  Style char target: kept inside viral-arm 600-950 band, validated by
+  scripts/yaml_field_check.py before submit.
+
+  Blocklist clean.

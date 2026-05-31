@@ -1,6 +1,6 @@
 {
-  "total_prompts": 263,
-  "latest_version": 263,
+  "total_prompts": 264,
+  "latest_version": 264,
   "instruments": {
     "piano": [
       1,
@@ -965,20 +965,19 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
     ],
     "chamber": [
+      191,
       192,
       203,
       252,
       255
-    ],
-    "baroque": [
-      188,
-      191
     ],
     "concerto": [
       145,
@@ -992,12 +991,11 @@
       111,
       202
     ],
-    "symphonic": [
-      162,
-      178
-    ],
     "2-step garage": [
       100
+    ],
+    "baroque": [
+      188
     ],
     "minimalist": [
       201
@@ -1010,6 +1008,9 @@
     ],
     "synthwave": [
       1
+    ],
+    "trap": [
+      264
     ]
   },
   "keys": {
@@ -1250,6 +1251,11 @@
       65,
       239
     ],
+    "bb minor": [
+      45,
+      58,
+      264
+    ],
     "c major": [
       39,
       110,
@@ -1284,10 +1290,6 @@
       42,
       120,
       233
-    ],
-    "bb minor": [
-      45,
-      58
     ],
     "f# minor": [
       77,
@@ -1553,7 +1555,8 @@
     ],
     "110": [
       55,
-      105
+      105,
+      264
     ],
     "111": [
       213
@@ -1762,6 +1765,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 264,
+      "title": "Tóxico",
+      "name": "toxico",
+      "featured": [],
+      "genre": "trap",
+      "key": "bb minor",
+      "bpm": 110
+    },
     {
       "version": 263,
       "title": "Candy in the Wires",
@@ -2665,7 +2677,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
@@ -2830,7 +2842,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -2981,7 +2993,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
