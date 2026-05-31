@@ -1,6 +1,6 @@
 {
-  "total_prompts": 259,
-  "latest_version": 259,
+  "total_prompts": 260,
+  "latest_version": 260,
   "instruments": {
     "piano": [
       1,
@@ -963,9 +963,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257
@@ -984,6 +982,10 @@
     "romantic": [
       145,
       149
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -1028,7 +1030,8 @@
       112,
       181,
       193,
-      248
+      248,
+      260
     ],
     "d minor": [
       1,
@@ -1641,7 +1644,8 @@
       71,
       94,
       100,
-      257
+      257,
+      260
     ],
     "139": [
       223
@@ -1749,6 +1753,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 260,
+      "title": "Static",
+      "name": "static-v260",
+      "featured": [],
+      "genre": null,
+      "key": "a minor",
+      "bpm": 138
+    },
     {
       "version": 259,
       "title": "When the Square Fills",
@@ -2781,7 +2794,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2932,7 +2945,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

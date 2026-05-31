@@ -1,0 +1,93 @@
+name: "polnoch-v261"
+version: 261
+title: "Polnoch"
+
+style: "Russian slap house future-rave melodic dance, 124 BPM, A minor to B-flat minor on the final drop. Sidechained plucky synth lead with that iconic \"donk\" melodic pulse, four-on-the-floor kick on every beat, sharp clap on 2 and 4. Soaring female melodic vocal with heavy reverb tail and layered double-tracked stack — Eastern European emotional intensity, yearning and romantic-melancholic. Late-night Moscow rooftop energy: neon reflections, dance-floor electric, longing in the air. Polished club mix with deep sidechained sub-bass, wide stereo synth pads ducking under the pluck, melodic dance bassline anchoring the groove. Vocal hook is one short phrase repeated with rising reverb — intimate and enormous at once. Half-step lift into B-flat minor at the final drop for that classic dance-floor rush. No country, no broadway, no jazz, no classical singer tone, no orchestral strings as lead."
+
+lyrics: |
+  [Intro]
+  ah-oh, ah-oh, ah-oh
+
+  [Build]
+  ah-oh, ah-oh, ah-oh
+  take me up, take me up
+
+  [Drop]
+  don't let me go (don't let me go)
+  into the night (into the night)
+  don't let me go (don't let me go)
+
+  [Verse 1]
+  city lights and we keep moving
+  empty streets, the dawn is coming
+  hold me close, hold me close
+
+  [Hook]
+  don't let me go
+  into the night
+
+  [Build]
+  ah-oh, ah-oh, ah-oh
+  take me up, take me up
+
+  [Final Drop — B-flat minor lift]
+  don't let me go (don't let me go)
+  through the morning light
+  don't let me go (don't let me go)
+  take me into the night
+
+  [Outro]
+  ah-oh, ah-oh
+
+  [End]
+
+instrumental: false
+vocal_gender: female
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, neoclassical, opera, broadway, musical theater, easy listening, world music, folk, traditional, ethnic, jazz, gentle, ambient as lead, vocaloid, anime opening, polka, ska, reggae, k-pop, indie rock, hard rock, metal, classical-singer-tone"
+
+tags:
+  - slap house
+  - future rave
+  - Russian deep house
+  - melodic dance
+  - 124bpm
+  - a-minor
+  - b-flat-minor
+  - female vocal
+  - sidechain pluck
+  - viral arm
+
+notes: |
+  VIRAL ARM cycle v261 — slap house experiment, rule overrides in effect.
+
+  Slap house (also "Russian deep," "future rave") is the second-strongest Suno short-form lane
+  identified in the v260 roadmap research. Canonical traits: 124 BPM four-on-the-floor,
+  sidechained plucky synth lead (the "donk" sound associated with Eastern European melodic
+  dance), soaring female reverb vocal on a one-phrase hook, and heavy sub-bass sidechain
+  ducking. The genre was popularized by a cluster of Russian and European producers without
+  artist names invoked here.
+
+  Rule overrides vs. cinematic playbook:
+  - instrumental: false (vocals enabled, female)
+  - Synthesizers ALLOWED (sidechain pluck, sub-bass, stereo pads)
+  - Rock drums ALLOWED (four-on-the-floor kick + 2&4 clap)
+  - Style char range relaxed to 600-900 (was 700-950)
+  - Duration target short-form optimized: 1:45-2:30 (NOT 3:00+)
+  - Lyrics use pop-format labels: [Intro] [Build] [Drop] [Verse] [Hook] [Final Drop] [Outro]
+  - Exclude_styles uses short-form list (NOT cinematic list)
+
+  Key: A minor throughout, modulating to B-flat minor on the final drop — the classic
+  half-step lift that creates the dance-floor rush without the silence-plus-modulation
+  cliche of the cinematic arm.
+
+  Title "Polnoch" (Russian: midnight) — meme-able, 1-word, Eastern-European-coded,
+  matches the late-night Moscow rooftop mood.
+
+  Comparison to v260 "Static" (drift phonk): v260 tested slow-tempo dark phonk at ~130 BPM
+  with Suno auto-tagging it correctly (1:42 + 2:14 clips). v261 tests the higher-energy
+  slap house lane at canonical 124 BPM — expected to render similarly short (sub-2:30)
+  given the pop-format lyric structure and vocal-forward genre. The Build/Drop/Hook
+  repetition is the key engagement driver; emotional peak at the Final Drop modulation.
+
+  Style char count: 893.

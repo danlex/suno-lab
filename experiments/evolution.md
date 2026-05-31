@@ -305,6 +305,7 @@ mindmap
 | 258 | Le Cortège | lyrical sweeping cinematic elegy - full-density Drop test (Drop-density hypothesis partially supported) | A-flat minor -> A minor (half-step, both minor — earned luminous sorrow) | 166 | mellotron + oboe + marimba |
 | 259 | When the Square Fills | modern cinematic festival-arrival - forward-motion concept (Drop-density + concept-as-driver hypotheses both validated) | D-flat minor -> E major (enharmonic relative major at the Drop) | 160 | cornet + tenor saxophone + viola da gamba |
 | 260 | Static | drift phonk viral pivot (first non-instrumental, vocals + 808s + cowbell) | A minor | 138 | 808 sub-bass + cowbell + slowed-vocal-chops |
+| 261 | Polnoch | slap house viral cycle - Russian future rave (vocals + sidechain pluck + four-on-the-floor) | A minor -> B-flat minor (half-step lift at Final Drop) | 124 | sidechain pluck lead + female vocal + four-on-the-floor kick |
 
 ## Next-cycle priorities
 
