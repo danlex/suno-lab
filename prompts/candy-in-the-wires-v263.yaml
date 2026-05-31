@@ -1,0 +1,88 @@
+name: "candy-in-the-wires"
+version: 263
+title: "Candy in the Wires"
+instrumental: false
+vocal_gender: female
+
+style: "Hyperpop, digicore, glitchpop, 160 BPM, E major, bedroom maximalist. Pitched-up kawaii female vocal +5 semitones chipmunked, hyperfast breathless delivery, extreme autotune speed-up, bitcrushed vocal chops, doubled high-octave stack. Supersaw lead synth, glitched hi-hat patterns at hyperspeed, bitcrushed snares, pitched 808 sub underneath. Vinyl crackle texture, sidechained candy-pop compression pumping every beat, PC Music adjacent aesthetic. That 4am internet bedroom maximalism — manic-joy cyber-pop, scrolling at hyperspeed through a screen full of color. Polished bedroom studio mix, crisp digital sheen, wide stereo stage with hard-panned glitch hits. No husky low voice, no soaring belt, no orchestral, no broadway, no country."
+
+lyrics: |
+  [Intro]
+  ah ah ah (pitched up giggle)
+
+  [Drop]
+  faster faster faster
+  heart go heart go heart go
+  ah ah ah
+
+  [Verse 1]
+  4am and the screen is blue
+  i'm a glitch and i'm dancing too
+  sugar rush and the pixels move
+  nothing real but it feels so true
+
+  [Hook]
+  faster faster faster
+  heart go heart go heart go
+  faster faster faster
+  candy in the wires
+
+  [Drop]
+  ah ah ah (chopped)
+  heart go (heart go)
+  ah ah ah
+
+  [Verse 2]
+  boys are codes that i can't decode
+  girls are stars that i can't approach
+  type my feelings into the void
+  post it now before i avoid
+
+  [Hook]
+  faster faster faster
+  heart go heart go heart go
+  faster faster faster
+  candy in the wires
+
+  [Bridge]
+  (glitch stutter) i—i—i feel too much
+  (bitcrush chop) everything at once
+  (pitch spike) everything at once
+
+  [Final Drop]
+  HEART GO (heart go heart go)
+  AH AH AH
+  heart go (faster faster)
+
+  [Outro]
+  (pitched-down whisper) candy in the wires
+  [End]
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, opera, broadway, musical theater, easy listening, world music, folk, traditional, ethnic, jazz, gentle, ambient as lead, soaring melodic female, husky contralto, k-pop, anime opening, polka, ska, reggae, slap house, drift phonk, drum and bass, traditional Eurodance"
+
+tags:
+  - hyperpop
+  - digicore
+  - glitchpop
+  - pc-music-adjacent
+  - 160bpm
+  - e-major
+  - pitched-up-female
+  - kawaii-vocal
+  - bitcrushed
+  - viral-arm
+  - 4am-internet
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  Hyperpop / digicore is Suno's proven viral lane for Gen Z TikTok-adjacent niche virality — fast BPM, pitched-up kawaii female vocals, glitch-chopped production, extreme autotune, and a candy-colored maximalist aesthetic that reads as "bedroom pop gone haywire." This cycle is a deliberate genre pivot to the viral arm after v260–v262 explored slower, more atmospheric territory.
+
+  Voice differentiation is the explicit goal of this cycle. v260 used dark instrumental drift-phonk (no vocal). v261 used a soaring melodic female belt in a cinematic key (excluded here). v262 used a husky low-register intimate contralto (explicitly blocked in both the style field and exclude_styles). v263 sits at the maximum opposite pole: pitched-up chipmunked kawaii delivery, +5 semitones, hyperfast breathless phrasing, bitcrushed chops, doubled high-octave stack. The voice character is designed to be unambiguously distinct — a listener hearing v262 then v263 back-to-back would hear two completely different vocal archetypes.
+
+  Genre architecture: hyperpop / digicore / glitchpop stack. PC Music adjacent (the label/aesthetic, not a named act) sets the production palette — supersaw leads, pitched 808 subs, vinyl crackle texture, sidechained candy-pop compression. 160 BPM is the canonical hyperpop feel; can double as 80 BPM half-time depending on listener context. E major is deliberate — v260/v261/v262 were all minor keys. The brightness of E major is genre-correct for kawaii aesthetic and represents a key-novelty break from the recent minor-key run.
+
+  Lyric structure: hyperactive short bursts — Intro / Drop / Verse / Hook / Drop / Verse / Hook / Bridge / Final Drop / Outro. Repetition is intentional and genre-correct (faster faster faster, heart go heart go heart go). The pitched-down whisper Outro is a hyperpop convention for contrast against the high-energy body.
+
+  Style is 738 chars, within the 600–900 range directive. Blocklist clean. Inline negatives present (5). Vocal field set to female with explicit chipmunk/autotune direction in the style field to force the pitched-up synthesis path rather than Suno's natural female default.

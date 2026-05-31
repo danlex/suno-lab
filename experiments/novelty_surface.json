@@ -1,6 +1,6 @@
 {
-  "total_prompts": 261,
-  "latest_version": 261,
+  "total_prompts": 262,
+  "latest_version": 262,
   "instruments": {
     "piano": [
       1,
@@ -53,7 +53,8 @@
       202,
       203,
       204,
-      205
+      205,
+      262
     ],
     "organ": [
       1,
@@ -653,6 +654,12 @@
       236,
       251
     ],
+    "accordion": [
+      204,
+      205,
+      248,
+      262
+    ],
     "bass clarinet": [
       182,
       222,
@@ -688,11 +695,6 @@
       130,
       195,
       235
-    ],
-    "accordion": [
-      204,
-      205,
-      248
     ],
     "balafon": [
       106,
@@ -963,17 +965,26 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
       255
+    ],
+    "baroque": [
+      188,
+      191
+    ],
+    "concerto": [
+      145,
+      149
     ],
     "house": [
       242,
@@ -983,19 +994,8 @@
       111,
       202
     ],
-    "romantic": [
-      145,
-      149
-    ],
-    "symphonic": [
-      162,
-      178
-    ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "minimalist": [
       201
@@ -1054,7 +1054,8 @@
       195,
       199,
       200,
-      253
+      253,
+      262
     ],
     "c minor": [
       15,
@@ -1501,7 +1502,8 @@
     ],
     "96": [
       91,
-      204
+      204,
+      262
     ],
     "97": [
       207
@@ -1756,6 +1758,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 262,
+      "title": "Fumée",
+      "name": "fumee-v262",
+      "featured": [],
+      "genre": null,
+      "key": "d minor",
+      "bpm": 96
+    },
     {
       "version": 261,
       "title": "Polnoch",
@@ -2641,7 +2652,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -2806,7 +2817,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -2957,7 +2968,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3078,7 +3089,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3114,7 +3125,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

@@ -307,6 +307,7 @@ mindmap
 | 260 | Static | drift phonk viral pivot (first non-instrumental, vocals + 808s + cowbell) | A minor | 138 | 808 sub-bass + cowbell + slowed-vocal-chops |
 | 261 | Polnoch | slap house viral cycle - Russian future rave (vocals + sidechain pluck + four-on-the-floor) | A minor -> B-flat minor (half-step lift at Final Drop) | 124 | sidechain pluck lead + female vocal + four-on-the-floor kick |
 | 262 | Fumée | French dark electro-pop viral cycle - husky low-register contralto, French lyrics, voice-differentiation experiment | D minor | 96 | muted Rhodes + husky French contralto + deep sub-bass |
+| 263 | Candy in the Wires | hyperpop / digicore / glitchpop viral cycle - pitched-up kawaii female, bitcrushed glitch | E major | 160 | supersaw lead + pitched-up kawaii vocal + glitched hi-hats |
 
 ## Next-cycle priorities
 
