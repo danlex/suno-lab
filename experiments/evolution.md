@@ -303,6 +303,7 @@ mindmap
 | 256 | Crest of the First Light | modern Hollywood cinematic - ascending heroic arc (parallel-major triumph at the Drop, inverse of v255) | F-sharp minor -> F-sharp major (parallel major at the Drop) | 165 | ondes martenot + french horn + subcontrabass saxophone |
 | 257 | Linens | lyrical sweeping cinematic - 'what was lost' bittersweet arc (exposed-Drop test) | C-sharp minor -> D minor (half-step, both minor) | 138 | flugelhorn + contrabassoon + cristal baschet |
 | 258 | Le Cortège | lyrical sweeping cinematic elegy - full-density Drop test (Drop-density hypothesis partially supported) | A-flat minor -> A minor (half-step, both minor — earned luminous sorrow) | 166 | mellotron + oboe + marimba |
+| 259 | When the Square Fills | modern cinematic festival-arrival - forward-motion concept (Drop-density + concept-as-driver hypotheses both validated) | D-flat minor -> E major (enharmonic relative major at the Drop) | 160 | cornet + tenor saxophone + viola da gamba |
 
 ## Next-cycle priorities
 

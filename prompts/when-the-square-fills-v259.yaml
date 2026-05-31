@@ -1,0 +1,60 @@
+name: "when-the-square-fills-v259"
+version: 259
+title: "When the Square Fills"
+instrumental: true
+
+style: "Cold shadow at the corner of the square — crowd ten deep, banners snapping, the procession about to round into view. Hollywood scoring stage, Decca-tree wide strings, deep low-end definition. D-flat minor to E major, 160 BPM march-cut. Three body voices: cornet announcing the herald line in clean bright brass, tenor saxophone filling the warm harmonic mass, viola da gamba grounding the bass with anachronistic gravitas. Strings, brass, and woodwinds accumulate — cornet fragments heard around the corner, saxophone thickening the body, viola da gamba below. All voices surge, drums driving — ensemble stops entirely, the last corner not yet turned. E major: cornet leads the full-tutti fanfare, strings, brass, woodwinds, and percussion together, saxophone filling the broad harmonic mass, viola da gamba in the deep bass. Public arrival, collective, ceremonially joyful. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: distant drums and approaching brass over crowd ambience, cornet stating the herald theme in fragments as if heard from around a corner, viola da gamba in quiet bass, 12 bars]
+  [Approach: cornet phrases growing louder and more complete, tenor saxophone entering warm beneath, strings joining underneath, viola da gamba stepping forward in the bass, 16 bars]
+  [Theme Builds: full string section joins the cornet and saxophone, woodwinds layering into the texture, viola da gamba anchoring the low end, the procession clearly approaching but still out of sight, 24 bars]
+  [First Wave: brass choir swells below the cornet, tenor saxophone thickening the harmonic mass, strings pressing forward, woodwinds weaving, viola da gamba steady in D-flat minor, 24 bars]
+  [Countermelody: cornet and saxophone in interweaving lines above the string foundation, viola da gamba marking each beat in the bass, the crowd noise building, drums insistent, 16 bars]
+  [Second Wave: full ensemble at high density — strings surging, brass choir pushing, woodwinds layering, cornet pressing the herald theme higher, saxophone filling the body, viola da gamba driving the bass, 24 bars]
+  [Build: all voices accumulating forward momentum — strings intensifying, brass choir swelling, woodwinds filling every register, cornet ascending, saxophone broadening the harmonic mass, viola da gamba pushing the bass, drums at full drive, the procession rounding the final approach, 40 bars]
+  [Silence: full ensemble stops — absolute held breath, crowd holding still, the last corner not yet turned, 8 bars]
+  [Drop: cornet leads the full-tutti fanfare into E major as the parade spills into the open square — strings, brass choir, woodwinds, and percussion all together, saxophone filling the broad harmonic mass in joyful fullness, viola da gamba anchoring the deep bass underneath the whole collective weight, the arrival complete and public, 56 bars]
+  [Drop Swells: full ensemble sustains the E major theme, strings sweeping, brass choir deepening, woodwinds expanding the texture, cornet carrying the herald line high and bright, saxophone broadening the harmonic body, viola da gamba in the deep bass, collective celebration, 32 bars]
+  [Coda: orchestra slowly thins — brass withdraws, woodwinds recede, strings diminish to a held chord, cornet alone on a final clear phrase, saxophone a quiet last breath, viola da gamba one sustained low note, then open air, 16 bars]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac, chamber music, funeral march, slow march"
+
+tags:
+  - cornet
+  - tenor-saxophone
+  - viola-da-gamba
+  - 160bpm
+  - d-flat-minor
+  - e-major
+  - festival-parade-scene
+  - revival-cornet-15-gap
+  - revival-tenor-saxophone-15-gap
+  - revival-viola-da-gamba-13-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental
+  - full-density-drop
+  - build-silence-drop
+  - hypothesis-test-v259
+  - forward-motion-concept
+
+notes: |
+  Modern cinematic festival-parade arrival — the inward-to-outward release of a procession rounding the corner into the main square. The Build/Silence/Drop architecture (Playbook Move 7) maps directly onto the physical event: Build = the procession approaching just out of sight, Silence = the held breath before the corner, Drop = the parade spilling into the open square in full view. The Drop is full-density TUTTI — cornet, tenor saxophone, viola da gamba, strings, brass, woodwinds, and percussion all present — not an exposed solo restatement. E major fanfare arrival after D-flat minor shadow.
+
+  Concept source: Continued hypothesis test of feedback_drop_density.md. v257 (exposed-Drop, elegiac) → 3:12 mean. v258 (full-density Drop, elegiac) → 3:34 mean. Both used elegiac emotional concepts, which may inherently cap around 3:30. v259 swaps the concept to forward-motion arrival (parade entering a square), keeps full-density Drop, and is designed to test whether the concept itself drives Suno's auto-classification toward sustained cinematic action rather than ambient/meditative. If render hits 4:00+, "forward-motion concept as duration driver" is promoted to playbook rule.
+
+  The technique belongs to the tradition of ceremonial cinematic arrival music — composers whose names are on the blocklist and intentionally omitted. The emotional mechanism is collective public arrival: not individual heroism (v256 was that) but the joyful weight of a whole procession filling the public square. The key arc (D-flat minor shadow → E major warmth, enharmonic relative resolution) gives Suno a clear emotional shape: long cold shadow, sudden warm resolution.
+
+  Duration strategy: 160 BPM sits in the proven 130–160 band (Playbook Move 8 table: bars-to-time efficiency excellent). Total lyric bars: 268, within the 240–280 target range. At 160 BPM, 268 bars predicts approximately 4:00–5:00 wall-clock. Parametrized colon-syntax lyrics with per-section bar counts (Move 1). Production tokens: "Hollywood scoring stage," "Decca-tree wide strings," "deep low-end definition" (Move 2). Sentence case throughout, no ALL-CAPS form labels (Move 3). Atmospheric-first opening (Move 4). Three body voices, zero spectral voices (Move 5). Build 40 bars + Silence 8 bars + Drop 56 bars + Drop Swells 32 bars = 136 bars of the impact stack at ~65% of the total arc (Move 7). Dead-weight superlatives stripped (Move 9). exclude_styles explicitly blocks "cinematic ambient," "intimate chamber," and "elegiac" to prevent drift.
+
+  Trio rationale: three body voices (Move 5 satisfied, zero spectral). Cornet (gap 15, last used v244): the ceremonial-herald voice, announces and leads the fanfare arrival, clean bright brass for public proclamation. Tenor saxophone (gap 15, last used v244): warm harmonic mass, fills the body of the full-ensemble sound, gives the arrival its broad human warmth. Viola da gamba (gap 13, last used v246): anachronistic bass gravitas, the low anchor under the full orchestra, gives the collective arrival its weight and groundedness.
+
+  Key: D-flat minor to E major — enharmonic relative major resolution. D-flat minor = cold waiting shadow (the crowd, the empty square, the approaching drums not yet visible). E major = warm arrival light (the parade in full view, banners aloft, full ensemble in the open square). The half-step-up cliché (v216–v219 overuse) is avoided by using enharmonic resolution across a full third-based key relationship.
+
+  Scene: a festival square, winter morning, crowd already packed deep, banners and confetti in the air, the distant beat of drums growing louder from off-left. The procession has been out of sight around the final corner. The moment of silence is the held breath of ten thousand people. The Drop is when the cornet rounds the corner and the full ensemble spills into the open plaza.
+
+  Style character count: 944.
