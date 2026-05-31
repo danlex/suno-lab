@@ -60,9 +60,31 @@ Add any `risk_exclusions` the caller passed in.
 
 ## Lyrics template
 
-**LYRICS RULE (updated 2026-05-31, second iteration):** the v243/v244 truncations (1:22/1:41 and 1:02/1:07) showed that pure bare-label lyrics (`[A]` `[B]` `[End]`) let Suno treat songs as miniatures. The previous iteration ("strange lyrics" with instrument-name prose) was the over-correction in the opposite direction. Use the middle ground:
+**LYRICS RULE (updated 2026-05-31, THIRD iteration — the SETTLED playbook after v248 breakthrough at 2:33/3:17):** parametrized colon-syntax brackets, 8–10 sections. The label BEFORE the colon stays musical/structural (1-3 words); the content AFTER the colon describes what HAPPENS musically — instruments named here are FINE (community-tested Suno v5.5 trick that gives the model bar-by-bar rendering targets and resolved the v243–v247 truncation streak).
 
-**Per section: 2–6 words per bracket. 8–10 sections total. MUSICAL / STRUCTURAL descriptors ONLY — no instrument names, no scene words, no stage-direction prose.**
+Example (this is the format that works):
+
+```
+[Intro: solo accordion stating the theme over rainy ambience, 8 bars]
+[Strings Enter: warm low cellos and pizzicato basses join, 8 bars]
+[Theme Bloom: full string section with clarinet countermelody, 16 bars]
+[Bridge: harp ostinato + sustained pad, modulating to F major, 8 bars]
+[Theme Returns: full ensemble in F major, expanded harmonization, 16 bars]
+[Coda: solo accordion fades, single sustained low string, 8 bars]
+[End]
+```
+
+Why this works: bar counts give Suno a length target per section; the action description gives the model something to render against; the colon-syntax is what v5.5 was trained to parse. Bare labels (`[A]`/`[B]`/`[End]`) caused v243/v244 to render at ~1:00. Old prose-with-instrument-names looked strange and rendered poorly. This is the version that holds 3:00+.
+
+Legacy fallback (deprecated): plain musical-descriptor labels without colons (`[Slow Sarabande Theme]`). These work but get ~2:00-2:30 — use them only when colon syntax doesn't fit the concept.
+
+**PRODUCTION-MIX TOKENS (new, added 2026-05-31):** the style field MUST include 2-3 production descriptors from this set: "polished studio mix", "Decca-tree wide strings", "deep low-end definition", "wide stereo stage", "Hollywood scoring stage", "warm tape saturation", "lush acoustic ambience", "tight chamber reverb". v5.5 specifically rewards these.
+
+**SENTENCE CASE (new, added 2026-05-31):** DO NOT use ALL-CAPS form labels in the style. Suno's auto-classifier matches CAPS tokens against artist names (v246 CAPO → German rapper). Write in normal prose-case. Form labels go in the lyrics colon-content, not the style.
+
+**ATMOSPHERIC-FIRST OPENING (new, added 2026-05-31):** front-load the FEELING/mood, then production tokens, then key/BPM/trio in sentence case. NOT the technique label in CAPS.
+
+**TWO BODY VOICES IN THE TRIO (new, added 2026-05-31):** v247 (1 body + 2 spectral) → 1:49/2:02. v248 (3 body voices: accordion + harp + clarinet) → 3:17. Pick trios with at least 2 substantial acoustic body voices. Body voices: accordion, harp, clarinet, harpsichord, viola, viola da gamba, cello-section, bass-trombone, trombone, flugelhorn, french horn, contrabassoon, bass clarinet, oboe d'amore, cor anglais. Spectral (limit to 1 per trio): ondes martenot, theremin, bowed vibraphone, glass harmonica, cristal baschet, music box, celesta, glockenspiel, waterphone, crotales, mbira, singing saw.
 
 Acceptable bracket labels (give Suno length scaffolding via musical character, not stage directions):
 
