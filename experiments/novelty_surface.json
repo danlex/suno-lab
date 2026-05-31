@@ -1,6 +1,6 @@
 {
-  "total_prompts": 264,
-  "latest_version": 264,
+  "total_prompts": 265,
+  "latest_version": 265,
   "instruments": {
     "piano": [
       1,
@@ -965,19 +965,20 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
       255
+    ],
+    "baroque": [
+      188,
+      191
     ],
     "concerto": [
       145,
@@ -991,11 +992,12 @@
       111,
       202
     ],
+    "symphonic": [
+      162,
+      178
+    ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "minimalist": [
       201
@@ -1137,7 +1139,8 @@
       198,
       204,
       205,
-      250
+      250,
+      265
     ],
     "b minor": [
       76,
@@ -1701,7 +1704,8 @@
     ],
     "150": [
       74,
-      250
+      250,
+      265
     ],
     "151": [
       236
@@ -1765,6 +1769,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 265,
+      "title": "Fervo",
+      "name": "fervo",
+      "featured": [],
+      "genre": null,
+      "key": "g minor",
+      "bpm": 150
+    },
     {
       "version": 264,
       "title": "Tóxico",
@@ -2677,7 +2690,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -2842,7 +2855,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2993,7 +3006,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

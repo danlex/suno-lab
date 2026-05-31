@@ -7,6 +7,8 @@ State: Draft YAML at `prompts/fervo-v265.yaml` (Funk carioca / baile funk / tamb
 Action taken: Aborted submission per constraint #4 — no retry. No log of partial form fill (the submitter never reached the form).
 Next cycle should: Because v265 is committed but NOT submitted, the runbook's auto-resume logic will skip it. The next cron will draft v266 fresh unless this entry is acted on. To recover v265: open suno.com/create in a Chrome window the MCP extension actually controls, confirm `list_connected_browsers` returns a tab with `suno.com/create` URL, then manually invoke `/suno prompts/fervo-v265.yaml` followed by `python3 scripts/finish_cycle.py --version 265 --clips <UUID1> <UUID2> --technique "funk carioca / baile funk / tamborzão viral cycle - shouty female Portuguese MC" --key "G minor" --bpm 150 --trio "tamborzão 808 kick + tambor/surdo + baile siren"`.
 
+Retry attempt 1 (2026-06-01, next cron fire): same disconnect state. MCP tab group contains `localhost:8765` and `tiktok.com/tiktokstudio/upload` — no suno.com tab present. YAML still unchanged on disk. Exited per constraint 4; did NOT draft v266 since v265 recovery remains pending.
+
 ## 2026-04-13 — v131 failed at submit
 
 Reason: Chrome MCP extension disconnected. `open -a "Google Chrome" https://claude.ai` attempted, extension still not connected on retry.
