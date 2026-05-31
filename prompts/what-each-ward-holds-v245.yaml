@@ -1,0 +1,57 @@
+name: "what-each-ward-holds-v245"
+version: 245
+style: "LYRIC TONE POEM for full orchestra — lock-and-key workshop at dusk, total duration around 3:00, FLUGELHORN + CONTRABASSOON + GLOCKENSPIEL, C-sharp minor lifting to D minor at 2:20, 162 BPM. One continuous singing melodic line transforms in color and weight without resting. Strings state the cantabile theme at 0:00 — warm, unadorned. By 0:30 woodwinds fold in, CONTRABASSOON anchoring the sub-register while oboe and clarinet embroider above; brass load harmonic density through 1:30. Full saturation at 1:45 — strings, brass, winds, and timpani on the same melody in bloom. At 2:00 the orchestra thins: FLUGELHORN carries the line alone over sparse strings, warm body voice exposing each ward. GLOCKENSPIEL rings the half-step pivot at 2:20; brass re-enter blazing in D minor, full orchestra fortissimo on the same unbroken line. Strings sustain a long diminuendo into silence. No guitars, no vocals, no rock drums, no synthesizers, no pipe organ."
+title: "What Each Ward Holds"
+lyrics: |
+  [Cantabile Theme — C-sharp Minor]
+  [Theme Continues Bare]
+  [Woodwinds Enter]
+  [Building Density]
+  [Brass Layers Rising]
+  [Full Saturation]
+  [Sudden Thinning]
+  [Solo Statement Exposed]
+  [Blazing Return — D Minor]
+  [Long Diminuendo]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, baroque-pastiche, period-instrument, folk, traditional, ethnic, programme-music"
+notes: |
+  LYRIC TONE POEM is a single-movement orchestral form built around one unbroken cantabile melodic line that transforms in color and intensity without thematic contrast — the melody is the protagonist, the orchestra its expanding and contracting inner life. This form flourished in the late Romantic era as a vehicle for continuous emotional development within a single sustained arc.
+
+  Concept: a master locksmith at dusk, filing and fitting tumblers for a cathedral key. The melodic thread never rests, mirroring the uninterrupted focus of the craft — examined, shaped, tested, delivered.
+
+  Composer names omitted throughout per blocklist discipline; no individual is named, only the technique.
+
+  Duration defense: continuous melodic line sustains Suno's attention across the full arc; 162 BPM provides forward momentum without rushing; the emotional-debt structure (thinning at 2:00 → blazing return at 2:20) compels completion; full orchestra (strings, brass, woodwinds, timpani) fills the duration with timbral variety. Key modulation (C-sharp minor → D minor, half-step up) at the blazing return renews urgency and signals the final section.
+
+  Trio roles and gaps:
+  - FLUGELHORN ×1, last v234 — 11-gap. Warm-centered brass body voice; carries the cantabile line in the solo statement at ~2:00 and anchors the blazing return.
+  - CONTRABASSOON ×1, last v233 — 12-gap. Dark sub-register reed grounding harmonic foundation throughout; deepens the woodwind fold-in from 0:30.
+  - GLOCKENSPIEL ×1, last v226 — 19-gap. Bright metallic transients above the texture; punctuates phrase endings; rings the half-step pivot at 2:20.
+
+  Key: C-sharp minor home → D minor at 2:20. BPM: 162 (unused at this tempo in catalog).
+
+  Lyrics rule applied (v245 settled middle ground): 10 sections, 2–5 words per bracket, musical/structural descriptors only — form labels, key/mode markers, dynamics words. No instrument names, no scene words, no stage-direction prose inside brackets.
+
+  Style char count: 949.
+tags:
+  - orchestral-lyric-tone-poem
+  - lyric-tone-poem
+  - technique-new
+  - flugelhorn
+  - contrabassoon
+  - glockenspiel
+  - revival-flugelhorn-11-gap
+  - revival-contrabassoon-12-gap
+  - revival-glockenspiel-19-gap
+  - 162bpm
+  - new-bpm
+  - c-sharp-minor
+  - d-minor
+  - lock-and-key-workshop-scene
+  - full-orchestra
+  - cantabile
+  - duration-3min
+  - research-driven
+  - new-technique
