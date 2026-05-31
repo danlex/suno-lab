@@ -1,0 +1,128 @@
+name: "toxico"
+version: 264
+title: "Tóxico"
+instrumental: false
+vocal_gender: female
+
+style: "Neoperreo, dembow, Latin trap, 110 BPM, Bb minor, club-ready underground. Raspy mid-register Latina female sing-rap delivery, glossy autotune coating, percussive choppy syllabic flow, attitude-forward conversational hooks, mid-low chest placement — not soaring, not whispered, not pitched-up. Distorted 808 sub-bass, stripped dembow groove (boom-ch-boom-chick), crisp digital hi-hat triplets, off-beat synth stabs, midrange lead synth on the hook, vinyl crackle, sidechain pump on the drop. Lo-fi DIY club aesthetic — internet-native neoperreo production palette, NOT polished mainstream radio reggaeton. Sweaty basement club at 3am, neon graffiti lighting, queer-feminist body-positive perreo energy. No mainstream radio polish, no soaring melodic belt, no husky contralto, no pitched-up chipmunked vocal, no orchestral strings, no broadway."
+
+lyrics: |
+  [Intro]
+  uh, uh, uh (rrrah)
+  [Spoken] dale
+
+  [Verse 1]
+  llamas a las tres y media, ya yo sé
+  dices que cambiaste, ya yo sé
+  pero el cuerpo recuerda lo que la boca no
+  yo bloqueé tu número y aún así llegó
+
+  [Pre-Hook]
+  no, no, no, no (bésame no)
+  no, no, no, no
+
+  [Hook]
+  tóxico, tóxico, tu boca tóxica
+  tóxico, tóxico, tu beso me intoxica
+  tóxico, tóxico, vete pa' tu casa
+  tóxico, tóxico, antes que amanezca
+
+  [Verse 2]
+  tú escribes "te extraño" a las cuatro y diez
+  yo leo y no contesto, lo hago otra vez
+  corazón dice quédate, cabeza dice corre
+  cuerpo no decide, cuerpo siempre ofrece
+
+  [Hook]
+  tóxico, tóxico, tu boca tóxica
+  tóxico, tóxico, tu beso me intoxica
+  tóxico, tóxico, vete pa' tu casa
+  tóxico, tóxico, antes que amanezca
+
+  [Bridge]
+  [Spoken] dale, perrea sola
+  yo no necesito a nadie (a nadie)
+  yo no necesito a nadie
+
+  [Final Hook]
+  tóxico (tóxico), tóxico (tóxico)
+  vete pa' tu casa, antes que amanezca
+  perrea sola, perrea sola
+
+  [Outro]
+  uh, uh, uh
+  [End]
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, opera, broadway, musical theater, easy listening, jazz, gentle, ambient as lead, soaring melodic female belt, husky low contralto, pitched-up kawaii chipmunked, hyperpop, k-pop, anime opening, polka, ska, mainstream radio reggaeton, Bad Bunny style, J Balvin style, polished commercial pop, salsa, bachata, merengue, cumbia, slap house, drift phonk"
+
+tags:
+  - neoperreo
+  - dembow
+  - latin-trap
+  - 110bpm
+  - bb-minor
+  - female-sing-rap
+  - mid-register-latina
+  - spanish-lyrics
+  - viral-arm
+  - underground-club
+  - autotuned-vocal
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v264 — Neoperreo / Latin trap / dembow. Research-driven
+  (Chartmetric, Bandcamp, Wikipedia 2026): neoperreo is the internet-native,
+  queer-feminist DIY reboot of perreo, BPM 108-115 (canonical ~110), built on
+  stripped dembow + distorted 808 sub + crisp digital percussion + glossy
+  autotuned vocals over lo-fi club production. Spearheaded by Tomasa del Real
+  and the Ms Nina circle; TikTok-driven virality via Tokischa, Bellakath, and
+  the broader scene.
+
+  VOICE DIFFERENTIATION (the explicit user-driven goal of recent cycles).
+  Cumulative viral-arm voice ledger:
+    v260 — no female vocal (drift phonk male whisper)
+    v261 — soaring melodic female belt, EN, arena reverb
+    v262 — husky low-register intimate contralto, FR, close-mic
+    v263 — pitched-up kawaii chipmunked +5 semitones, EN, hyperpop
+    v264 — raspy mid-register Latina sing-rap, ES, glossy autotune, attitude
+  Five fully orthogonal voice profiles in five consecutive cycles. The style
+  field frontloads "raspy mid-register Latina female sing-rap" and explicitly
+  blocks (in both style negatives AND exclude_styles) the four prior voice
+  characters so Suno's classifier cannot drift back to them. "Mid-low chest
+  placement — not soaring, not whispered, not pitched-up" is the load-bearing
+  triple-negative that pins the register.
+
+  Spanish lyrics: third language in the rotation (EN v260/v261/v263, FR v262,
+  ES v264). The lyrics use authentic neoperreo lexical fingerprints — "dale",
+  "perrea sola", "pa' tu casa", "tóxico" (a known viral Latin pop concept) —
+  paired with short call-and-response hooks ("no, no, no, no / bésame no")
+  and the genre-canonical "uh, uh, uh" ad-libs. "Perrea sola" is the post-
+  Ivy-Queen feminist standard of the form. Concept is the classic neoperreo
+  tension: he texts at 3:30am, the body remembers, the head says run, the
+  body keeps offering — written from the female narrator, body-autonomous.
+
+  BPM rationale: 110 BPM is the canonical neoperreo center and fresh in the
+  last 5 cycles (recent: 96/124/138/160/96). Bb minor is fresh against the
+  recent rotation (recent minor keys: A min, D min, F min; E major in v263).
+  Bb minor + 110 BPM + dembow groove maps cleanly to the lo-fi neoperreo
+  classifier zone without drifting toward mainstream reggaeton.
+
+  Production palette pinned via NAMED REFERENCES (the scene/label, not artists):
+  "Tomasa del Real / Ms Nina internet-native production palette" tells Suno
+  the underground/DIY production tradition without naming a current chart
+  artist. Mainstream-radio polish is explicitly excluded ("Bad Bunny style,
+  J Balvin style, polished commercial pop") to keep the classifier in the
+  underground neoperreo zone where viral TikTok traction actually lives.
+
+  Title "Tóxico" — single Spanish word, viral-friendly, 6 chars, MEME-able,
+  thematically tied to the lyric. Genre-canonical concept.
+
+  Style char count: 951 — within viral-arm 600-950 band, allowed to go to
+  the upper edge here because the voice-differentiation negatives are
+  load-bearing.
+
+  Blocklist clean (no Dune, epic, massive, frisson, named living artists in
+  the style field — Tomasa del Real and Ms Nina are scene/label references,
+  not artist-name commands).

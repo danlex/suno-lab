@@ -1,6 +1,6 @@
 {
-  "total_prompts": 262,
-  "latest_version": 262,
+  "total_prompts": 263,
+  "latest_version": 263,
   "instruments": {
     "piano": [
       1,
@@ -965,9 +965,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257
@@ -993,6 +991,10 @@
     "passacaglia": [
       111,
       202
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -1253,6 +1255,11 @@
       110,
       203
     ],
+    "e major": [
+      25,
+      91,
+      263
+    ],
     "e-flat major": [
       128,
       146,
@@ -1281,10 +1288,6 @@
     "bb minor": [
       45,
       58
-    ],
-    "e major": [
-      25,
-      91
     ],
     "f# minor": [
       77,
@@ -1727,7 +1730,8 @@
     ],
     "160": [
       101,
-      259
+      259,
+      263
     ],
     "161": [
       243
@@ -1758,6 +1762,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 263,
+      "title": "Candy in the Wires",
+      "name": "candy-in-the-wires",
+      "featured": [],
+      "genre": null,
+      "key": "e major",
+      "bpm": 160
+    },
     {
       "version": 262,
       "title": "Fumée",
@@ -2817,7 +2830,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -2968,7 +2981,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
