@@ -971,14 +971,11 @@
       257
     ],
     "chamber": [
+      191,
       192,
       203,
       252,
       255
-    ],
-    "baroque": [
-      188,
-      191
     ],
     "concerto": [
       145,
@@ -998,6 +995,9 @@
     ],
     "2-step garage": [
       100
+    ],
+    "baroque": [
+      188
     ],
     "minimalist": [
       201
@@ -2690,7 +2690,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },

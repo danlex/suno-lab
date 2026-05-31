@@ -9,6 +9,8 @@ Next cycle should: Because v265 is committed but NOT submitted, the runbook's au
 
 Retry attempt 1 (2026-06-01, next cron fire): same disconnect state. MCP tab group contains `localhost:8765` and `tiktok.com/tiktokstudio/upload` — no suno.com tab present. YAML still unchanged on disk. Exited per constraint 4; did NOT draft v266 since v265 recovery remains pending.
 
+Retry attempt 2 (2026-06-01, next cron fire): same disconnect state — identical tab list (localhost:8765 + tiktok.com/tiktokstudio/upload). YAML unchanged. Exited per constraint 4; still not drafting v266.
+
 ## 2026-04-13 — v131 failed at submit
 
 Reason: Chrome MCP extension disconnected. `open -a "Google Chrome" https://claude.ai` attempted, extension still not connected on retry.
