@@ -60,24 +60,35 @@ Add any `risk_exclusions` the caller passed in.
 
 ## Lyrics template
 
-**LYRICS RULE (updated 2026-05-31 per user feedback "the lyrics are strange"):** use BARE STRUCTURAL FORM LABELS ONLY. 8–10 sections, each `[label]` 1–4 words MAX. NO descriptive prose inside brackets, NO instrument names, NO scene words, NO commentary. All descriptive content (entries, timings, scene mapping) goes in the STYLE field where Suno actually wants it.
+**LYRICS RULE (updated 2026-05-31, second iteration):** the v243/v244 truncations (1:22/1:41 and 1:02/1:07) showed that pure bare-label lyrics (`[A]` `[B]` `[End]`) let Suno treat songs as miniatures. The previous iteration ("strange lyrics" with instrument-name prose) was the over-correction in the opposite direction. Use the middle ground:
 
-Acceptable bracket labels:
+**Per section: 2–6 words per bracket. 8–10 sections total. MUSICAL / STRUCTURAL descriptors ONLY — no instrument names, no scene words, no stage-direction prose.**
+
+Acceptable bracket labels (give Suno length scaffolding via musical character, not stage directions):
 
 ```
-[Intro]
-[A]
-[B]
-[Bridge]
-[A Returns]
-[Variation 1]
-[Coda]
-[Grand Finale]
-[Fade]
+[Slow Sarabande Theme]
+[Sarabande Continues Bare]
+[Ornamented Double Begins]
+[Florid Cascade Develops]
+[Tutti Bloom B-flat Major]
+[Final Cadence Held]
+[End]
+
+[Threnody Opens Slow]
+[First Crisis Erupts]
+[Held Breath — Pivot]
+[Apotheosis Returns]
+[Held Swell]
+[Settle]
 [End]
 ```
 
-Form-shaped, not narrative. Treat the lyrics field like a score's REHEARSAL MARKS, not stage directions. Bracket sections are structural signals only — never put what we used to put there (e.g. "Cor anglais alone with sustained string drone before the entry of the second voice"). That kind of prose belongs in style.
+Allowed words: musical form labels (sarabande, double, threnody, apotheosis, fugato, ritornello…), tempo/dynamics descriptors (slow, fast, accelerando, tutti, pianissimo, fortissimo, sustained, ornamented, florid…), section markers (intro, bridge, coda, return, finale), key labels (A minor, B-flat major), and key tempo words (held, fading, building).
+
+BANNED words inside brackets: instrument names (cornet, harp, viola…), scene words (dovecote, glasshouse, forge…), stage-direction prose ("Cor anglais enters with sustained drone as the orchestra murmurs beneath"), any sentence with a comma + subordinate clause. All such content lives in the STYLE field.
+
+If a label feels too prosaic, ask: would a real composer write this on a score? If yes (e.g. "Slow Sarabande Theme"), keep it. If no (e.g. "Bass Trombone Enters Carrying the Theme"), strip back to musical character only.
 
 ## notes field
 
