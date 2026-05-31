@@ -1,0 +1,53 @@
+name: "frost-on-the-deckle"
+version: 243
+style: "BARCAROLLE-TO-GRAND-FINALE instrumental, paper-mill-at-first-frost scene, total duration around 3:00, D-flat minor lifting to D minor, 161 BPM, BASS TROMBONE + GLASS MARIMBA + PREPARED PIANO with full orchestra in a rocking 6/8 cantilena that never stops. A plucked-and-bowed string pulse runs first beat to last, giving the music no permission to idle. At 0:00 bare strings carry the cantilena while the PREPARED PIANO rocks a muted figuration; GLASS MARIMBA marks the melody's high points with crystalline tones. At 0:50 woodwinds turn chromatic, brass enter, the B section pulling against D-flat minor. BASS TROMBONE holds a deep pedal through every shift. At 1:50 the cantilena returns in full orchestra, ostinato in low brass, GLASS MARIMBA riding overtop. At 2:30 the key lifts a half-step to D minor, tutti crests, timpani mark the downbeats, wave resolves by 2:55. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+title: "Frost on the Deckle"
+lyrics: |
+  [Intro]
+  [Cantilena A]
+  [Cantilena Continues]
+  [B — Chromatic Turn]
+  [B Develops]
+  [A Returns Tutti]
+  [Grand Finale]
+  [Coda]
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, gentle, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, baroque-pastiche, period-instrument, gondola, Venetian, Italian folk, folk, traditional, ethnic"
+notes: |
+  TECHNIQUE — BARCAROLLE-TO-GRAND-FINALE: a compound-duple (6/8 or 12/8) form built on a continuous rocking ostinato that underpins the entire duration; a lyric arch-shaped A melody contrasts with a chromatic B section, returns in full orchestral doubling, and escalates to a tutti finale with a half-step key lift. The form is rooted in 19th-century song-without-words tradition but here stripped of any Venetian association and framed as industrial labor music.
+
+  CONCEPT SOURCE: rocking 6/8 ostinato as a duration-defense mechanism — continuous motion gives Suno no built-in rest point to trigger early fade. Following v242's hocket truncation on structural rests, this barcarolle approach keeps the rhythmic engine running unbroken, forcing the model to sustain through the full 3:00 arc.
+
+  COMPOSER OMISSION CONFESSION: Several composers famous for barcarolles and compound-duple cantilenas — including those who wrote piano barcarolles, Venetian boat-songs, and Songs Without Words — are blocked by house rules and cannot be named. This prompt takes the form on its own terms.
+
+  DURATION STRATEGY: continuous rocking ostinato (strings → low brass → tutti) acts as the pulse anchor. Tonal strategy: D-flat minor home key provides brooding warmth, half-step lift to D minor at the finale provides the climactic brightness without a jarring leap. BPM 161 is moderate-flowing in 6/8 (each dotted-quarter pulse = ~72 feels), sustaining a singing tempo throughout.
+
+  TRIO ROLES (with gaps):
+  - BASS TROMBONE ×5, last v231 — 12-gap; body voice, low pedal sustaining through chromatic shifts, carries the ostinato into the finale.
+  - GLASS MARIMBA ×4, last v219 — 24-gap; top-voice crystalline tone, marks the cantilena's high points, rides over the tutti in the finale.
+  - PREPARED PIANO ×5, last v228 — 15-gap; middle voice, muted rocking 6/8 figuration with subtle prepared-string buzzing, the engine of the A section.
+
+  NOVELTY CLAIMS: first BARCAROLLE-TO-GRAND-FINALE technique in the catalog. BPM 161 is unused in recent runs (recent: 158, 159). Paper-mill-at-first-frost scene is new. All three instruments are in deep revival (gaps 12, 24, 15).
+
+  LYRICS RULE APPLIED: bare structural form labels only inside brackets — no instrument names, no scene words, no descriptive prose. All descriptive content lives in the style field. Sections: Intro / Cantilena A / Cantilena Continues / B — Chromatic Turn / B Develops / A Returns Tutti / Grand Finale / Coda / End (9 sections).
+
+  STYLE CHAR COUNT: 943.
+tags:
+  - orchestral-barcarolle-to-grand-finale
+  - bass-trombone
+  - glass-marimba
+  - prepared-piano
+  - 161bpm
+  - d-flat-minor
+  - d-minor
+  - paper-mill-at-first-frost-scene
+  - revival-bass-trombone-12-gap
+  - revival-glass-marimba-24-gap
+  - revival-prepared-piano-15-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - continuous-ostinato
+  - duration-defense

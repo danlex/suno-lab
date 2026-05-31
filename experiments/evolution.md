@@ -287,6 +287,7 @@ mindmap
 | 240 | Raking Salt Before the Tide Returns | scherzo-trio-scherzo (vigorous tutti -> lyric trio retreat -> tutti return with renewed force) | F minor -> F-sharp minor (half-step at scherzo return) | 157 | double bass + subcontrabass saxophone + handpan |
 | 241 | Iron and Glass at First Light | lament-bass ground (descending tetrachord ostinato with orchestrational accumulation) | G-sharp minor -> A minor (half-step at cycle 6 tutti) | 158 | baryton + bass flute + mbira |
 | 242 | Curtain Rises on a Whole Melody | hocket-and-fusion (stutter-weave hocket -> unison fusion arrival) | D-flat major -> D major (half-step at fusion) | 159 | upright bass + clavichord + piccolo |
+| 243 | Frost on the Deckle | barcarolle-to-grand-finale (continuous rocking 6/8 ostinato with cantilena -> chromatic B -> tutti finale) | D-flat minor -> D minor (half-step at grand finale) | 161 | bass trombone + glass marimba + prepared piano |
 
 ## Next-cycle priorities
 

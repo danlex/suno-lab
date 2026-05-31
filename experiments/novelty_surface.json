@@ -1,6 +1,6 @@
 {
-  "total_prompts": 241,
-  "latest_version": 241,
+  "total_prompts": 242,
+  "latest_version": 242,
   "instruments": {
     "organ": [
       1,
@@ -130,7 +130,8 @@
       238,
       239,
       240,
-      241
+      241,
+      242
     ],
     "pipe organ": [
       1,
@@ -251,7 +252,8 @@
       238,
       239,
       240,
-      241
+      241,
+      242
     ],
     "piano": [
       1,
@@ -358,7 +360,8 @@
       238,
       239,
       240,
-      241
+      241,
+      242
     ],
     "cello": [
       33,
@@ -647,6 +650,15 @@
       227,
       239
     ],
+    "piccolo": [
+      83,
+      116,
+      132,
+      144,
+      195,
+      221,
+      242
+    ],
     "trumpet": [
       83,
       92,
@@ -680,6 +692,14 @@
       143,
       218,
       239
+    ],
+    "clavichord": [
+      113,
+      126,
+      139,
+      212,
+      229,
+      242
     ],
     "contrabassoon": [
       103,
@@ -737,14 +757,6 @@
       219,
       234
     ],
-    "piccolo": [
-      83,
-      116,
-      132,
-      144,
-      195,
-      221
-    ],
     "subcontrabass saxophone": [
       86,
       118,
@@ -777,6 +789,14 @@
       224,
       236
     ],
+    "upright bass": [
+      109,
+      122,
+      136,
+      213,
+      228,
+      242
+    ],
     "viola da gamba": [
       113,
       126,
@@ -791,13 +811,6 @@
       138,
       213,
       231
-    ],
-    "clavichord": [
-      113,
-      126,
-      139,
-      212,
-      229
     ],
     "cornet": [
       115,
@@ -854,13 +867,6 @@
       135,
       209,
       223
-    ],
-    "upright bass": [
-      109,
-      122,
-      136,
-      213,
-      228
     ],
     "glass marimba": [
       103,
@@ -1136,11 +1142,8 @@
       173,
       187
     ],
-    "baroque": [
-      188,
-      191
-    ],
     "chamber": [
+      191,
       192,
       203
     ],
@@ -1158,6 +1161,12 @@
     ],
     "2-step garage": [
       100
+    ],
+    "baroque": [
+      188
+    ],
+    "house": [
+      242
     ],
     "minimalist": [
       201
@@ -1320,6 +1329,14 @@
       150,
       201
     ],
+    "d-flat major": [
+      92,
+      108,
+      121,
+      145,
+      184,
+      242
+    ],
     "e-flat minor": [
       79,
       109,
@@ -1349,13 +1366,6 @@
       207,
       218,
       232
-    ],
-    "d-flat major": [
-      92,
-      108,
-      121,
-      145,
-      184
     ],
     "g-sharp minor": [
       143,
@@ -1848,6 +1858,9 @@
     "158": [
       241
     ],
+    "159": [
+      242
+    ],
     "160": [
       101
     ],
@@ -1862,6 +1875,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 242,
+      "title": "Curtain Rises on a Whole Melody",
+      "name": "curtain-rises-on-a-whole-melody",
+      "featured": [],
+      "genre": "house",
+      "key": "d-flat major",
+      "bpm": 159
+    },
     {
       "version": 241,
       "title": "Iron and Glass at First Light",
@@ -2335,7 +2357,7 @@
       "featured": [
         "nyckelharpa"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
