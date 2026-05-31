@@ -942,24 +942,24 @@
       178,
       187
     ],
+    "baroque": [
+      188,
+      191
+    ],
     "chamber": [
-      191,
       192,
       203
-    ],
-    "concerto": [
-      145,
-      149
     ],
     "passacaglia": [
       111,
       202
     ],
+    "romantic": [
+      145,
+      149
+    ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "house": [
       242
@@ -2444,7 +2444,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -2881,7 +2881,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -2917,7 +2917,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

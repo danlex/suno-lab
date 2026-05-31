@@ -1,0 +1,72 @@
+name: "the-keeper-in-january"
+version: 251
+title: "The Keeper in January"
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, Nordic folk, Scandinavian folk, dark ambient, post-rock, neo-classical singer, minimalist pulse"
+
+style: "Sleet striking the cupola panes, the rotating beam catching ice on an iron rail — a lighthouse keeper alone in January, the radio mostly static, the kettle steaming below. Nordic noir cinematic film cue with tight chamber reverb and deep low-end definition, Decca-tree wide strings lending the vast surrounding dark. D-sharp minor into E minor at the modulation, 163 BPM, total duration around 3:00. Trombone carries the brooding pedal lines and short cold brass phrases pressing against the storm; viola traces the solitary inner melody, a low bowed voice moving through the dark like a lamp beam through sleet; waterphone provides the metallic noir signature, unsettling and slow, the sound of ice forming on iron. Full string body supports the viola at the swell. The arc moves from coastal solitude through a brooding build to an E minor arrival, the trombone fading last. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro: solo waterphone low metallic resonance, barely audible beneath wind, 8 bars]
+  [Trombone Enters: trombone pedal tone in D-sharp minor, low and restrained, 8 bars]
+  [Viola Melody: viola states the solitary theme above trombone, waterphone colour beneath, 8 bars]
+  [String Body: full low string body joins, trombone deepens the pedal, viola continues, 8 bars]
+  [Brooding Build: trombone phrases grow colder and more insistent, strings press upward, 16 bars]
+  [Modulation: D-sharp minor pivots to E minor, waterphone rises briefly, then settles, 8 bars]
+  [E Minor Statement: viola and trombone in E minor, full string body wide and cold, 16 bars]
+  [Coda: trombone sustains alone, waterphone fades, one held low viola note, 8 bars]
+  [End]
+
+notes: |
+  Nordic noir cinematic is a film-scoring lane defined by cold restraint, brooding brass against
+  bowed strings, and an unsettling metallic color that marks the noir quality. The technique
+  favors intimate close-miked textures (tight chamber reverb) mixed with the illusion of vast
+  dark space (Decca-tree wide strings), not the full Hollywood stage volume. No composer names
+  are cited per blocklist discipline, though the lane's most distinguished voices (Scandinavian
+  film composers of the 2000s–2020s) inform the aesthetic description.
+
+  Concept source: Nordic noir is a film-scoring lane where Suno v5.5 excels — cold restraint
+  over big sustains, brass against bowed strings, with an unsettling metallic color (waterphone)
+  providing the noir signature.
+
+  Duration strategy: parametrized colon-syntax lyrics with bar counts (9 sections, 88 bars
+  total, 163 BPM ≈ 3:15 at 4/4) scaffold the 3:00+ target from inside the lyrics field —
+  the v248 breakthrough approach. Production tokens used: "tight chamber reverb," "deep low-end
+  definition," "Decca-tree wide strings." Key move: D-sharp minor → E minor (half-step up at
+  the modulation moment), which gives Suno a clear tonal arc without the clichéd silence-at-2:10
+  trick. Sentence case throughout; atmospheric-first opening (cupola sleet before any form label).
+
+  Trio roles and revival gaps:
+  - Trombone: gap 53 versions. The cold, restrained brass voice — pedal tones and short phrases
+    that press against the storm rather than announce it. A noir protagonist tone.
+  - Viola: gap 15 versions. The solitary inner melody — lower and more ambiguous in timbre than
+    violin, sitting in the register of human interiority. The keeper's inner voice.
+  - Waterphone: gap 30 versions. Metallic noir signature — slow resonance, the sound of ice
+    forming on iron, spatial disorientation in the 1–4 kHz range. One spectral voice (≤1 limit
+    satisfied).
+
+  BPM 163: first confirmed use in catalog — new-bpm tag applied.
+  Key D-sharp minor → E minor: half-step modulation at the arc's pivot, a noir signature move.
+  Scene: coastal lighthouse in January sleet — remote, vigilant, solitary. No harbor warmth, no
+  pastoral coast. The cold is interior as well as meteorological.
+
+  Style char count: 946.
+
+tags:
+  - nordic-noir-cinematic
+  - trombone
+  - viola
+  - waterphone
+  - 163bpm
+  - d-sharp-minor
+  - e-minor
+  - lighthouse-january-scene
+  - revival-trombone-53-gap
+  - revival-viola-15-gap
+  - revival-waterphone-30-gap
+  - new-bpm
+  - new-technique
+  - two-body-trio
+  - duration-3min
+  - research-driven
+  - instrumental

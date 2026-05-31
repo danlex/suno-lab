@@ -295,6 +295,7 @@ mindmap
 | 248 | Rain on the Quai | French cinematic chanson without vocals (parametrized lyrics + production tokens + two-body trio) | A minor -> F major (relative-major bridge) | 132 | accordion + harp + clarinet |
 | 249 | Dopo la Chiusura | Italian neoclassical cinematic (playbook generalization test: noir chamber + 3-body trio) | F minor -> A-flat major (relative-major bridge) | 144 | harpsichord + cor anglais + bass clarinet |
 | 250 | Where the Fog Parts for Iron | modern Hollywood cinematic film cue (playbook 3-body trio + production tokens + parametrized lyrics) | G minor -> B-flat major (relative-major bridge) | 150 | bass trombone + harp + oboe d'amore |
+| 251 | The Keeper in January | Nordic noir cinematic (playbook generalization continues — 4 lanes confirmed) | D-sharp minor -> E minor (half-step at modulation) | 163 | trombone + viola + waterphone |
 
 ## Next-cycle priorities
 
