@@ -1,0 +1,91 @@
+name: "static-v260"
+version: 260
+style: "Drift phonk in A minor at 138 BPM. Distorted 808 sub-bass locked to the kick, cowbell on the half-beat, vinyl crackle beneath the mix. Slowed reverb vocal chops through a Memphis-style sample filter — dark, stoic, sigma energy. Sidechained synth pad pulses on every bar, melodic minor string sample drifting underneath like neon in wet pavement. Late-night city, rain-soaked asphalt, engine idle. Drift phonk production: tight punchy low-end, cowbell driving the groove, 808 sub carrying the foundation. Deep distorted male whisper, slowed and reverbed. Memphis chop on the hook, moody string loop underneath. Polished underground mix — not rough demo, not clean pop. No happy major key, no orchestral strings as lead, no polished singer, no broadway, no jazz, no ambient pads as lead."
+title: "Static"
+lyrics: |
+  [Intro]
+
+  [Drop]
+  uh-uh
+  oh-wo-oh
+  na-na-uh
+
+  [Verse 1]
+  walk through the rain alone
+  engine and the cold
+  nothing left to chase
+  silent in the smoke
+
+  [Hook]
+  uh-oh-wo
+  na-na-uh
+  oh-wo-oh
+
+  [Verse 2]
+  headlights in the dark
+  road with no return
+  no one calls your name
+  static in the burn
+
+  [Hook]
+  uh-oh-wo
+  na-na-uh
+  oh-wo-oh
+
+  [Bridge]
+  wo-uh
+  na-na
+
+  [Final Hook]
+  uh-oh-wo
+  na-na-uh
+  oh-wo-oh
+  uh
+
+  [Outro]
+
+  [End]
+instrumental: false
+vocal_gender: male
+exclude_styles: "happy pop, country, gospel, classical, orchestral, neoclassical, opera, classical singer, ballad singer, broadway, musical theater, jazz, gentle, ambient, easy listening, world music, folk, traditional, ethnic, polka, ska, reggae, rumba, anime cover, vocaloid, anime opening"
+notes: |
+  VIRAL PIVOT — v260 is an explicit rule-override cycle. The catalog through v259 has been cinematic-orchestral instrumental; this cycle pivots to drift phonk, Suno's strongest documented viral lane on short-form video platforms.
+
+  Technique: drift phonk is a Memphis-rap-derived subgenre defined by distorted 808 sub-bass, cowbell on the half-beat (not downbeat), slowed-and-reverbed vocal chops, dark melodic minor string samples, and a sigma-stoic aesthetic. It emerged from slowed-and-reverbed edits of Memphis rap and became a dominant sonic identity on short-form video from roughly 2022 onward. No specific artists named per blocklist discipline.
+
+  Concept source: late-night drift racing energy — neon rain, engine idle, nobody watching, no destination. The stoic isolation aesthetic is the emotional core, not narrative lyrics.
+
+  Rule overrides explicitly applied for this cycle:
+  - instrumental: false (vocal chops are the earworm hook)
+  - Synthesizers allowed (808, sidechained pad)
+  - Trap/cowbell drum pattern allowed
+  - exclude_styles replaces the standard cinematic list with phonk-correct negatives
+  - Style char range 600-900 (viral tighter than cinematic)
+  - Duration target 1:45-2:30 (TikTok-optimized hook structure)
+  - Lyrics use standard pop section labels (no colon-syntax bar counts from cinematic playbook)
+  - Build/Silence/Drop classical arc suspended; replaced by Drop-first hook structure
+
+  Vocal direction: deep distorted male whisper, slowed and reverbed. Lyrics use stylized vowel-sound phonk chops ("uh-oh-wo", "na-na-uh", "oh-wo-oh") rather than sung English words, to stay in the genre voice. The four-line verse sections ("walk through the rain alone / engine and the cold") provide just enough stoic atmosphere without melodic-pop sing-along energy.
+
+  Production tokens in style: distorted 808 sub-bass, cowbell on the half-beat, vinyl crackle, slowed reverb vocal chops, sidechained synth pad, Memphis chop, polished underground mix.
+
+  Key: A minor (drift phonk canonical default — dark, simple, recognizable).
+  BPM: 138 (canonical drift phonk range 130-140).
+  Style chars: 785.
+
+  This is the first non-instrumental, non-cinematic entry in the v200+ catalog. The genre pivot is intentional and bounded to this cycle as a documented experiment.
+tags:
+  - phonk
+  - drift-phonk
+  - memphis-vocal
+  - 808-sub-bass
+  - cowbell
+  - 138bpm
+  - a-minor
+  - sigma
+  - vocal-chops
+  - slowed-reverb
+  - viral-experiment
+  - rule-override-v260
+  - short-form-format
+  - research-driven
