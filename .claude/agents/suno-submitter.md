@@ -33,7 +33,9 @@ Call `find` with query `"lyrics textarea, style textarea, exclude styles, song t
 `left_click` the style ref → `key` cmd+a → `type` the YAML's `style` value verbatim. Do NOT click any of the suggested-style tag buttons below.
 
 **Step 5 — Fill exclude_styles.**
-`left_click` the exclude ref → `key` cmd+a → `type` the YAML's `exclude_styles` value.
+Use `form_input` with the exclude ref and the YAML's `exclude_styles` value. Do NOT use `left_click` + `type` — the React-controlled textarea on this field intermittently rejects keyboard typing (last observed v243, 2026-05-31), leaving the field visually empty even though `left_click` succeeded. `form_input` sets the value via JS and bypasses React's controlled-input handling.
+
+If the More Options panel is collapsed (the exclude field isn't visible), click the "More Options" disclosure first. Then verify by `read_page` after `form_input` — the accessibility tree must show the exclude text actually inside the field before proceeding to Step 6.
 
 **Step 6 — Fill title (critical).**
 Use `form_input` with the title ref and the YAML's `title` value. Do NOT use `left_click` + `type`, do NOT use `triple_click` + `type` — both have opened the "Voices" modal on past runs. `form_input` sets the value via JS and bypasses the click handler.
