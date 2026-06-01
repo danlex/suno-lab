@@ -1,0 +1,170 @@
+name: "dor"
+version: 289
+title: "Dor"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Romanian manele, emotional manele de dor, 113 BPM, A minor, Bucharest manea-de-suflet 3am. Male manele singer vocal — chest-rich passionate operatic-pop belt with Romanian/Romani phonetics, Eastern modal phrasing (Hijaz-influenced minor color), heavy Auto-Tune on emotional hooks, melismatic vocal runs with manele-melisma (microtonal slides), NOT Greek rebetiko, NOT Persian tahrir, NOT Türk trap, NOT Polish trap — Romanian manele signature with dor-driven passionate delivery. Production: oriental hammond organ riffs (signature manele), accordion counterpoint, saxophone improvisational fills, violin sustained pads in Eastern-modal color, modern trap drum kit, sliding 808 sub, off-beat hi-hat, heavy hall reverb, vinyl crackle. 2026 manele de dor, NOT old-school manele ţărănească, NOT muzică populară, NOT Eurovision kitsch. Bucharest mahala 3am, dor-soaked emotional manele. No muzică populară, no Eurovision kitsch."
+
+lyrics: |
+  [Intro]
+  (hammond organ riff, accordion swirl)
+  oh-oh, dor
+  dorul meu
+
+  [Verse 1] (chest-rich Romanian belt)
+  doi ani au trecut și tu nu te-ai întors
+  Bucureștiul doarme, eu nu pot să dorm
+  fumez o țigară, beau o cafea
+  dorul de tine mă arde pe dinăuntru
+
+  [Pre-Hook]
+  (manele melisma) oh-oh, dor
+  dor, dorul de tine
+
+  [Hook] (passionate belt with Eastern modal turn)
+  dor, dor, dorul de tine mă omoară
+  dor, dor, când te aud la radio
+  dor, dor, fata mea, vino înapoi
+  dor, dor, sufletul meu te așteaptă
+
+  [Verse 2]
+  WhatsApp-ul tăcut, ultima oară văzut
+  Spotify-ul nostru, melodia noastră încă cântă
+  prietenii zic să te uit
+  dar dorul ăsta nu mă lasă
+
+  [Hook]
+  dor, dor, dorul de tine mă omoară
+  dor, dor, sufletul meu te așteaptă
+
+  [Bridge]
+  (saxophone improvisation, hammond pad)
+  [Vorbit] dorul ăsta, dorul ăsta
+  ce să fac, ce să fac
+
+  [Final Hook] (full passionate belt + 808 + hammond)
+  dor (dor), dorul de tine mă omoară
+  dor (dor), sufletul meu te așteaptă
+
+  [Outro]
+  (accordion fade) dor
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap chesty, male Russian shouty distorted MC, male French banlieue rapper, female Persian tahrir, male Polish trap, female Greek modal belt, female Israeli Mizrahi-pop, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, manele ţărănească traditional, muzică populară românească, Eurovision kitsch, Hungarian csardas, Bulgarian chalga old-school"
+
+tags:
+  - modern-romanian-manele
+  - manele-de-dor
+  - emotional-manele
+  - 113bpm
+  - a-minor
+  - male-vocal-passionate-belt
+  - romanian-eastern-modal
+  - romanian-lyrics
+  - viral-arm
+  - bucharest-mahala-night
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v289 — Modern Romanian manele / manele de dor /
+  emotional manele. Research-driven (TikTok 2026 #manele content, Romanian
+  trending songs 2026, Tzanca Uraganu / Nicolae Gută / Roxana Printesa
+  Ardealului contemporary scene): manele remains actively TikTok-viral in
+  2026, with the genre's range from celebratory wedding-party manele to
+  the more emotional "manele de dor" (longing-manele) variant. Modern
+  manele production blends signature oriental hammond + accordion +
+  saxophone + violin with modern hip-hop trap drums + 808 sub + Auto-Tune
+  vocal processing. The genre is uniquely Romanian — emerged from
+  Romani/Roma musical traditions fused with Balkan + Middle Eastern +
+  Western pop influences.
+
+  USER ROADMAP TARGET: 28 viral cycles deep, 23 languages, 29 voice
+  archetypes, 25 regions. v289 adds Romanian (24th language, 25M speakers)
+  and Bucharest / Romania as the 26th distinct region. Eastern Europe /
+  Balkans now has FOUR distinct cycles: v261 Russian-themed slap house
+  (English), v281 Russian phonk, v286 Polish indie-trap, v289 Romanian
+  manele. Four distinct Eastern European traditions covered.
+
+  **PERSONAL RELEVANCE NOTE**: The user is Romanian (Alexandru DAN). This
+  cycle has personal cultural resonance. The chosen sub-genre "manele de
+  dor" specifically targets the emotional craft of manele rather than
+  the party-celebratory branch — honoring the genre's emotional depth
+  while keeping the contemporary-viral production approach.
+
+  VOICE DIFFERENTIATION — 30TH orthogonal voice in 30 cycles. **30-cycle
+  milestone for the viral arm.** Cumulative ledger (abbreviated):
+    v260-v288: 29 prior voices spanning 23 languages
+    v289 — male ROMANIAN MANELE PASSIONATE OPERATIC-POP CHEST BELT
+           ROMANIAN (chest-rich passionate belt + Eastern modal melodic
+           phrasing with Hijaz-influenced minor color + heavy Auto-Tune
+           on emotional hooks + characteristic manele-melisma microtonal
+           slides + Romanian/Romani phonetic features — fundamentally
+           different vocal philosophy from prior 29 voices via
+           dor-driven passionate emotional belt with manele-melisma
+           ornament library)
+  v272 / v278 / v284 / v287 / v288 / v289 Eastern-Mediterranean-and-
+  beyond differentiation: six cycles in the Eastern Med + Eastern Europe
+  arc, all with distinct ornament/phonetic systems:
+    - v272 Arabic mahraganat (shouting street)
+    - v278 Turkish makam modal
+    - v284 Persian tahrir microtonal trill
+    - v287 Greek rebetiko modal-belt
+    - v288 Hebrew Mizrahi guttural
+    - v289 Romanian manele-melisma microtonal slide
+  Style + exclude_styles block all 29 prior voice characters.
+
+  LANGUAGE — 24th distinct language. Romanian (native Latin alphabet with
+  Romanian diacritics — ă, â, î, ș, ț). Lyric vocabulary uses authentic
+  manele de dor Romanian: "dor" (the iconic untranslatable Romanian
+  concept — longing + heartache + nostalgia + missing-someone all in one
+  word, like Portuguese saudade), "Bucureștiul" (Bucharest), "fumez o
+  țigară" (I smoke a cigarette), "dorul de tine mă arde pe dinăuntru"
+  (longing for you burns me from inside), "WhatsApp-ul tăcut" (silent
+  WhatsApp — modern manele detail), "ultima oară văzut acum două luni"
+  (last seen two months ago), "Spotify-ul nostru" (our Spotify),
+  "sufletul meu te așteaptă" (my soul waits for you). Concept: classic
+  manele de dor narrative — two years gone, Bucharest sleeps, can't
+  sleep myself, cigarette and coffee, longing burns from inside, "the
+  dor for you is killing me, when I hear you on the radio, come back,
+  my soul waits for you." Evergreen Romanian-dor emotional core.
+
+  BPM 113 — fresh in rotation. Mid-manele canonical tempo.
+
+  Key A minor — first reuse since v279 Berlin tech-house (10 cycles
+  ago). Walks well with manele's Eastern modal coloring (Hijaz-minor
+  inflection on A-base sounds canonically Romanian-manele).
+
+  Production palette pinned: "oriental hammond organ riffs (signature
+  manele) + accordion melodic counterpoint + saxophone improvisational
+  fills + violin sustained pads in Eastern-modal color + modern hip-hop
+  trap drum kit + sliding 808 sub + off-beat hi-hat + heavy hall reverb
+  on vocal + vinyl crackle." Geographic + visual anchor: "Bucharest
+  mahala 3am after the wedding, dor-soaked emotional manele." Negatives
+  explicitly block old-school manele ţărănească (the older village-
+  party-manele tradition), traditional Romanian folk, muzică populară,
+  Romanian Eurovision kitsch, mahala fairground manele, Hungarian
+  csardas, Bulgarian chalga old-school — seven adjacent failure modes
+  Suno's classifier could drift toward.
+
+  Title "Dor" — single Romanian word for the iconic untranslatable
+  concept (longing + nostalgia + heartache), 3 chars, MEME-able. Perhaps
+  the most quintessentially-Romanian title in the catalog. Conceptually
+  parallel to v262's "Fumée" (French intimate-night), v275's "Yue"
+  (Mandarin moon), v273's "Kangen" (Indonesian missing), v284's "Setareh"
+  (Persian star) — each language's iconic untranslatable emotional word.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Tzanca Uraganu, Nicolae Gută, Florin Salam,
+  Adrian Minune, Roxana Printesa Ardealului, Babi Minune, Jean de la
+  Craiova, or other manele artist names in style field — preemptive
+  removal per v274-v288 artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (12-cycle
+  data, 67% correction rate, defaults unpredictable in BOTH directions),
+  submitter MUST verify Suno UI vocal_gender radio matches YAML (`male`)
+  before Create. No predictive model.
+
+  v283 cmd+l-misfire reminder: do NOT use cmd+l during form-fill.
