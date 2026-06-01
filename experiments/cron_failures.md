@@ -1,5 +1,14 @@
 # Cron failure log
 
+## 2026-06-01 — v281 failed mid-form (NO clips generated)
+
+Reason: Chrome MCP extension disconnected mid-form during v281 submit, BEFORE Create button was clicked. Submitter explicitly reports `Create NOT clicked` — server-side state unchanged.
+State: Draft YAML at `prompts/tma-v281.yaml` (Russian phonk / drift phonk / Russian-language hyperpop 155 BPM, F minor, male shouty distorted Russian-language MC — 22nd orthogonal voice; Russian = 17th language, biggest unfilled major-language gap). Style 965, lyrics 825, exclude 929, blocklist clean. **NOT committed** — BACKLOG GUARD's `latest_yaml_uncommitted: true` will auto-trigger a retry on next cycle.
+Action taken: Aborted per constraint #4. No retry this cycle. No log of partial form fill confused with successful generation — submitter was explicit that Create was never clicked.
+Next cycle should: `python3 scripts/cycle_start.py` will return `recommended_action: resume_submit` for v281. Retry submit directly via `/suno prompts/tma-v281.yaml`. No need to check suno.com/me first — Create was confirmed NOT clicked, so no duplicate-clip risk exists.
+
+RESOLVED (2026-06-01): Retry succeeded next cycle. v281 submitted as UUID 6cee6922-7128-4061-9aaf-fba7a0ff226f, classifier correctly identified as "Russian phonk, drift phonk, hyperpop" with Similar Songs panel surfacing other Russian phonk tracks. **Notable anomalies on this submit:** (1) only 1 clip generated (second consecutive cycle with this — v280 also generated 1 not 2; possible Suno-side behavior change), (2) audio encoding took 15+ minutes and was still pending when submitter exited (publish step blocked until encoding completes; user can publish manually later), (3) vocal_gender UI defaulted to **neither selected** (new failure mode beyond Male-default and Female-default — see `feedback_vocal_gender_ui_quirk.md` v281 entry). Closed out via `finish_cycle.py --version 281`.
+
 ## 2026-06-01 — v271 failed mid-submit (AMBIGUOUS — verify before retry)
 
 Reason: Chrome MCP extension disconnected mid-form AFTER the Create button click. The first 10-second post-Create wait completed (page was generating, typical Suno render behavior). Tab 786912814 then disappeared from the MCP tab group. Submitter reports `browser_disconnected_midform`.
