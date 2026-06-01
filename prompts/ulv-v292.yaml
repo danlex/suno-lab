@@ -1,0 +1,158 @@
+name: "ulv"
+version: 292
+title: "Ulv"
+instrumental: false
+vocal_gender: male
+
+style: "Nordic skald folk anthem, Viking battle-march duet, 130 BPM, Eb minor, longhouse fire night-of-the-hunt. MALE-FEMALE TRUE DUET: male warrior tenor + female battle-priestess alto alternating verses then harmonizing on hooks. Male: chest-rich Old-Norse-attack guttural tenor war-chant. Female: full-throated alto cutting clear with Nordic harmony placement, NOT cool-glacial-clear, NOT male-choir-only — true duet with harmonized hook. Production: tribal frame drum war-march cadence, lurs Viking horns counterpoint, tagelharpa drone, hardanger fiddle melody, off-beat hand-clap, sub-bass, 808 with drum on drop, cathedral-organ pad at climax, hand-percussion, wide cinematic stereo. ARC: 0:00 march + male call, 0:30 female response, 1:00 first duet hook, 1:45 harmonic ascent build (no silence-gate), 2:15 drop with 808 + full ensemble + male-female unison shout-belt, sustain to 3:00. Skáld-tradition. NOT power metal, NOT Eurovision Scandi, NOT Celtic kitsch, NOT trance EDM."
+
+lyrics: |
+  [Intro] (frame drum march, lurs distant)
+  (male war-call) ulv... ulv... ulv...
+  (female battle-priestess response) ah... ah...
+
+  [Verse 1 — male lead, 0:30] (tenor)
+  midnatt på vidda, vinden bærer min røst
+  ulven løper foran meg, månen viser min vei
+  jeg jakter, jeg lever, jeg er ulv
+
+  [Verse 2 — female response, 1:00] (full alto)
+  jeg ser deg i mørket, jeg hører ditt rop
+  blodet i mine årer husker dette
+  vi er ett blod, jeg er ulv
+
+  [Hook — DUET harmonized, 1:30]
+  ULV! ULV! vi løper sammen!
+  ULV! ULV! vi jakter under måne!
+  ULV! ULV! Odin ser oss!
+
+  [Build] (harmonic ascent, 1:45-2:15)
+  ulv, ulv, ulv (drums build)
+  ah ah ah (vocals rising)
+  ulv, ulv, ULV!
+
+  [Drop Climax — UNISON, 2:15] (full 808 + unison shout)
+  ULV! ULV! vi løper sammen!
+  ULV! ULV! Odin ser oss!
+  ULV! ULV! vi er én!
+
+  [Climax Duet, 2:45]
+  (male) blod min blod
+  (female) hjerte mitt hjerte
+  ULV! vi er én!
+
+  [Outro] (drum fade)
+  ulv...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Old Norse battle-roar chant choir v290, female Nordic cool-glacial Icelandic v291, hyperpop, k-pop, anime opening, salsa, dembow, Eurovision Scandi kitsch, viking power metal, Celtic kitsch, trance EDM, medieval RPG soundtrack"
+
+tags:
+  - nordic-skald-folk
+  - viking-battle-march
+  - male-female-true-duet
+  - dopamine-call-response
+  - 130bpm
+  - eb-minor
+  - male-warrior-tenor-female-alto-duet
+  - norwegian-lyrics
+  - viral-arm
+  - longhouse-fire-night-hunt
+  - harmonic-ascent-no-silence-gate
+  - new-technique
+  - research-driven
+  - vocal-male-female-duet
+
+notes: |
+  VIRAL ARM cycle v292 — THIRD cycle in user directive "Vikings music +
+  brain dopamine." Sister track to v290 "Hugr" (male battle-roar choir) +
+  v291 "Eldur" (female cool-glacial solo). v292 introduces the FIRST true
+  male-female duet architecture in the catalog.
+
+  Research-driven (Skáld Wikipedia + TikTok 2026 #vikings content):
+  Skáld is a French Nordic folk group formed 2018 with three singers
+  fronting — male-female call-and-response duet structure with Old Norse
+  lyrics. Their "Herr Mannelig" is TikTok-viral. Sound is "percussive
+  and driven by voices." This is the canonical reference for v292's
+  duet architecture (without copying Skáld directly — reference is to
+  the format/lineage, not to artist-copy).
+
+  USER ROADMAP: 31 viral cycles + 2 Viking cycles = 33 cycles so far.
+  v292 adds Norwegian (27th language — modern living Norwegian distinct
+  from v290 Old Norse and v291 Icelandic) and Norwegian wilderness (29th
+  region). Nordic / Viking-derived language family now has three cycles:
+    - v290 Old Norse skaldic (battle-roar male choir)
+    - v291 Icelandic Nordic noir (female cool-glacial-clear solo)
+    - v292 Norwegian skald folk anthem (male-female true duet)
+  Three different Nordic languages, three different vocal architectures.
+
+  VOICE DIFFERENTIATION — 33RD orthogonal voice in 33 cycles. THE FIRST
+  TRUE MALE-FEMALE DUET in the catalog. Cumulative ledger (abbreviated):
+    v260-v291: 32 prior voices, all single-gender solo or single-gender
+    group/stack (v268 female K-pop group, v271 male sertanejo duo, v283
+    Mor Lam Sing call-response, v290 male-choir-with-female-overtone-
+    accent — but none are TRUE male-female-equal duet)
+    v292 — MALE-FEMALE TRUE DUET architecture (male warrior tenor + female
+           battle-priestess alto, alternating verses then harmonizing on
+           hooks, both singing throughout with equal weight, NOT one as
+           lead with the other as accent layer — genuinely new vocal
+           architecture beyond solo/single-gender-group)
+  Style + exclude_styles block all 32 prior voice characters.
+
+  LANGUAGE — 27th distinct language. Modern Norwegian (distinct from
+  v290 Old Norse + v291 Icelandic — Norwegian is a living modern Nordic
+  language with its own phonetics and standard form). Lyric vocabulary
+  uses authentic Norwegian: "ulv" (wolf), "midnatt på vidda" (midnight
+  on the plateau), "vinden bærer min røst" (the wind carries my voice),
+  "månen viser min vei" (the moon shows my way), "blodet i mine årer"
+  (the blood in my veins), "vi er ett blod" (we are one blood),
+  "Odin ser oss" (Odin sees us), "vi er én" (we are one). Concept:
+  classic Viking wolf-hunt blood-bond narrative — the male warrior and
+  female battle-priestess on midnight wilderness hunt, blood-bonded by
+  ritual, Odin watching, "we are one." Evergreen Norse warrior-bond
+  emotional core.
+
+  BPM 130 — march tempo, fresh in rotation. War-drum cadence canonical.
+
+  Key Eb minor — first reuse since v278 (14 cycles ago). Walks well
+  with cathedral-organ pad at climax.
+
+  Production palette pinned: "tribal frame drum march cadence (4-on-floor
+  war-drum) + lurs Viking horns counterpoint + tagelharpa drone +
+  hardanger fiddle melody + hand-clap off-beat + sub-bass + 808 layered
+  with drum on drop + cathedral-organ pad at climax + hand-percussion
+  shaker." Skáld-tradition Nordic skald lineage referenced as TRADITION
+  not artist-copy.
+
+  **DOPAMINE-PEAK ARCHITECTURE v3** (third iteration of the user's
+  directive — applies v291 lesson "no silence-gate"):
+  - 0:00 frame drum march + male war-call (entry)
+  - 0:30 female response (call-response established)
+  - 1:00 first harmonized hook duet (first peak)
+  - 1:45 harmonic ascent build — rising scale-degree progression
+    without silence-gate (per `feedback_silence_gate_truncates.md`)
+  - 2:15 DROP with 808 + full ensemble + male-female unison shout-belt
+    (the dopamine peak — call-response → unison is the trigger)
+  - 2:45-3:00 sustained climax with duet harmonies + final declaration
+  Hypothesis: call-response → unison shift is its own dopamine architecture
+  (the "merging" of two voices into one is emotionally peak-inducing,
+  same psychological mechanism as resolution-after-dissonance).
+
+  Negatives explicitly block viking power metal, Eurovision Scandi,
+  Celtic kitsch, trance EDM, medieval RPG — five adjacent failure modes.
+
+  Title "Ulv" (wolf in Norwegian) — single Norwegian word, 3 chars,
+  MEME-able, iconic Viking warrior aesthetic. Conceptually pairs with
+  v290 "Hugr" (mind/courage) + v291 "Eldur" (fire) as the Nordic trinity:
+  Hugr (mind) → Eldur (fire) → Ulv (wolf) = the three Viking spirit
+  archetypes (intellect / passion / animal-bond).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No Skáld,
+  Peyton Parrish, Wardruna, Heilung, Danheim, or other Nordic folk
+  artist names in style field.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (15-cycle
+  data, 67% correction rate, defaults unpredictable in BOTH directions),
+  submitter MUST verify Suno UI vocal_gender matches YAML (`male`)
+  before Create. Female duet partner is prompted via lyrics/style only.

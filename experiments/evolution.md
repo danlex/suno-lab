@@ -336,6 +336,7 @@ mindmap
 | 289 | Dor | Modern Romanian manele de dor / emotional manele viral cycle - male passionate chest belt with manele-melisma microtonal slides | A minor | 113 | oriental hammond organ + accordion + saxophone fills |
 | 290 | Hugr | Nordic neo-folk-pop / Viking-era ritualistic chant — USER DIRECTIVE Vikings + brain dopamine cycle with silence-before-climax + half-step modulation + dual-gender vocals | E minor → F minor | 84 | frame drums (bodhrán) + lurs Viking horns + tagelharpa drone |
 | 291 | Eldur | Nordic noir dark synth-pop / Faroese-Icelandic electronic — USER DIRECTIVE Vikings + brain dopamine cycle 2 with SUSTAINED CRESCENDO + overtone-shift drop (no silence-gate) | F minor | 102 | deep analog synth pads + tagelharpa drone + frame drums |
+| 292 | Ulv | Nordic skald folk anthem / Viking battle-march DUET — USER DIRECTIVE Vikings + brain dopamine cycle 3 with male-female TRUE duet + call-response → unison architecture | Eb minor | 130 | tribal frame drum march + lurs Viking horns + cathedral organ pad |
 
 ## Next-cycle priorities
 
