@@ -309,6 +309,7 @@ mindmap
 | 262 | Fumée | French dark electro-pop viral cycle - husky low-register contralto, French lyrics, voice-differentiation experiment | D minor | 96 | muted Rhodes + husky French contralto + deep sub-bass |
 | 263 | Candy in the Wires | hyperpop / digicore / glitchpop viral cycle - pitched-up kawaii female, bitcrushed glitch | E major | 160 | supersaw lead + pitched-up kawaii vocal + glitched hi-hats |
 | 264 | Tóxico | neoperreo / dembow / Latin trap viral cycle - raspy mid-register Latina sing-rap | Bb minor | 110 | distorted 808 sub + dembow groove + midrange synth lead |
+| 265 | Fervo | funk carioca / baile funk / tamborzão viral cycle - shouty female Portuguese MC | G minor | 150 | tamborzão 808 kick + tambor/surdo + baile siren |
 
 ## Next-cycle priorities
 

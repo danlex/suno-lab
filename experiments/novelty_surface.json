@@ -965,20 +965,19 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
     ],
     "chamber": [
+      191,
       192,
       203,
       252,
       255
-    ],
-    "baroque": [
-      188,
-      191
     ],
     "house": [
       242,
@@ -992,12 +991,11 @@
       145,
       149
     ],
-    "symphonic": [
-      162,
-      178
-    ],
     "2-step garage": [
       100
+    ],
+    "baroque": [
+      188
     ],
     "minimalist": [
       201
@@ -2690,7 +2688,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
@@ -2855,7 +2853,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3006,7 +3004,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
