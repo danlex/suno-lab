@@ -1,0 +1,166 @@
+name: "vok"
+version: 293
+title: "Vök"
+instrumental: false
+vocal_gender: male
+
+style: "Modern atmospheric post-rock, post-rock euphoria lineage, 70 BPM, G major, glacier-lake bow-and-piano euphoria. Male HOPELANDIC vocal — falsetto-mix nonsense-syllable emotional-tone phonemes (vowel-rich open sounds, NOT a real language) entering at 2:00 after long instrumental build, head-voice with subtle vibrato, breathy whisper to soaring falsetto belt at the 3:00 peak — Hopelandic post-rock falsetto, FIRST nonsense-language voice. Production: piano arpeggios opening, bowed-guitar drone with EBow sustain, reverse cymbal swells, delay-and-reverb soaked guitar layers, glockenspiel pings, frame drum at 2:00, sub-bass swell, sparse cinematic strings at climax, no trap drums, wide cinematic stereo. ARC: 0:00-1:00 piano alone, 1:00-2:00 crescendo build with drone + delay, 2:00 first Hopelandic falsetto whisper, 2:30 sustained crescendo, 3:00 climax with full ensemble + harmonic shift + soaring belt, sustain to 3:30. NOT pop, NOT trap, NOT Eurovision, NOT ambient meditation."
+
+lyrics: |
+  [Intro instrumental] (piano arpeggios alone, 0:00-1:00)
+  (no vocals — instrumental build)
+
+  [Build instrumental] (bowed-guitar drone enters, reverse cymbal swells, 1:00-2:00)
+  (no vocals — atmospheric crescendo)
+
+  [Verse 1 — Hopelandic whisper, 2:00-2:30] (breathy falsetto entry)
+  (very soft, Hopelandic nonsense-emotional-tone)
+  síó... á-eyó... ína...
+  hyó-shó... á-rá... éy-rá...
+
+  [Sustained Crescendo Build] (2:30-3:00)
+  (rising falsetto, harmonic ascent, no silence)
+  síó-á-eyó... ah-ah-ah...
+  rising rising rising...
+
+  [Climax Peak] (3:00 — full ensemble + harmonic shift + soaring falsetto belt)
+  (full chest-into-falsetto soaring belt with Hopelandic emotional vowels)
+  SÍÓ! Á-EYÓ! ÍNA!
+  ah ah ah ah AH
+  SÍÓ! Á-EYÓ! ÍNA!
+
+  [Sustained Climax] (3:00-3:30)
+  síó... á-eyó... ína...
+  (full ensemble holding, gradual fade)
+  síó... á-eyó...
+
+  [Outro instrumental fade] (3:30)
+  (instrumental wash fading to silence)
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Old Norse battle-roar choir v290, female Icelandic Nordic noir v291, male-female Viking duet v292, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, viking power metal, Eurovision Scandi kitsch, Celtic Enya kitsch, trance EDM, generic ambient meditation, modern pop ballad with words, hip-hop trap"
+
+tags:
+  - modern-atmospheric-post-rock
+  - sigur-ros-mogwai-explosions-lineage
+  - hopelandic-nonsense-language
+  - dopamine-build-architecture
+  - 70bpm
+  - g-major
+  - male-vocal-hopelandic-falsetto
+  - first-nonsense-language-voice
+  - viral-arm
+  - glacier-lake-bow-piano-euphoria
+  - sustained-crescendo-no-silence
+  - harmonic-shift-climax
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v293 — USER DIRECTIVE FOURTH cycle in "Vikings + brain
+  dopamine" theme, but PIVOTING from Vikings to brain-dopamine
+  application in a non-Viking genre. The Viking trinity (v290 Hugr +
+  v291 Eldur + v292 Ulv) was complete; this cycle applies the brain-
+  dopamine learnings to MODERN POST-ROCK — a genre that pioneered
+  euphoria-inducing song cycles and is canonically dopamine-engineered
+  by genre definition.
+
+  Research-driven (GRAMMY Post-Rock Euphoria article, MasterClass
+  Post-Rock Guide, Post-Rock Nation): post-rock was pioneered by
+  Mogwai (Scotland), Sigur Rós (Iceland), and Explosions in the Sky
+  (Chicago) — bands that discarded vocals and verse-chorus structure
+  in favor of "euphoria-inducing song cycles." Hopelandic is Jónsi's
+  (Sigur Rós) constructed nonsense-emotional-tone language, designed
+  to convey feeling without semantic content. Post-rock features
+  atmospheric soundscapes, delay/phaser pedals, mixed meter, unusual
+  chordal harmony, and long instrumental passages.
+
+  USER ROADMAP: 32 viral cycles + 3 Viking cycles = 35 cycles so far.
+  v293 adds Hopelandic (28th "language" — but it's a constructed
+  emotional-tone vowel-system, not a real language, so it's also the
+  FIRST nonsense-language voice in the catalog).
+
+  VOICE DIFFERENTIATION — 34TH orthogonal voice in 34 cycles. **FIRST
+  NONSENSE-LANGUAGE VOCAL** in the catalog. Hopelandic isn't a real
+  language — it's vowel-rich open emotional phonemes designed for
+  emotional tone communication without semantic content. Genuinely new
+  vocal-philosophy axis: the catalog's only pure-tone vocal not tied
+  to any specific linguistic culture. Cumulative ledger (abbreviated):
+    v260-v292: 33 prior voices spanning 27 languages, all real living
+    or historical languages
+    v293 — male HOPELANDIC FALSETTO POST-ROCK (constructed nonsense-
+           emotional-tone phonemes — vowel-rich open emotional sounds
+           designed for tone without semantic content + falsetto-mix
+           head-voice entering late after long instrumental build +
+           breathy whisper to soaring climax belt — fundamentally new
+           voice philosophy: the catalog's first non-semantic vocal)
+  Style + exclude_styles block all 33 prior voice characters.
+
+  LANGUAGE — Hopelandic (constructed nonsense-syllable language by
+  Jónsi). The lyrics use vowel-rich phonemes ("síó", "á-eyó", "ína",
+  "hyó-shó", "á-rá", "éy-rá") that sound vaguely Icelandic but mean
+  nothing. The point is pure emotional tone, not semantic content —
+  letting the listener project meaning onto the open sounds. The
+  Hopelandic vocal is treated as instrument-with-emotional-color, not
+  as language carrying meaning.
+
+  BPM 70 — SLOWEST VIRAL-ARM CYCLE to date (slower than v275 Mandopop
+  at 78). Post-rock canonical slow-build tempo. The slow tempo is load-
+  bearing for the long instrumental build (0:00-2:00 instrumental, then
+  vocal entry — without sufficient slow tempo, the build doesn't have
+  room to develop the dopamine arc).
+
+  Key G major — first reuse of G major since v271 sertanejo (22 cycles
+  ago). Major-key dopamine-build is canonical post-rock (Explosions in
+  the Sky / Mogwai often build to major-key resolution climaxes — the
+  major-key release after extended drone-build IS the dopamine peak).
+
+  **DOPAMINE-PEAK ARCHITECTURE v4** (fourth iteration, applying v291
+  lesson "no silence-gate" + extending to a vocal-late genre):
+  - 0:00-1:00 piano arpeggios ALONE (instrumental opening, dopamine
+    anticipation builds via melodic motif development)
+  - 1:00-2:00 instrumental crescendo build — bowed-guitar drone enters,
+    delay-pedal echoes layer, reverse cymbal swells (dopamine
+    anticipation deepens — listener waits for vocal entry)
+  - 2:00 FIRST HOPELANDIC FALSETTO WHISPER ENTERS (this is one
+    dopamine trigger — vocal entry after 2 minutes of instrumental
+    build is itself an arousal peak)
+  - 2:30 sustained crescendo (harmonic ascent, no silence-gate per
+    `feedback_silence_gate_truncates.md`)
+  - 3:00 CLIMAX — full ensemble + harmonic shift + soaring falsetto
+    belt (the main dopamine peak)
+  - 3:00-3:30 sustained climax + gradual fade (the prolonged dopamine
+    sustain — different from drop-with-808 architecture; this is
+    plateau dopamine rather than peak-then-fall)
+
+  This architecture is DIFFERENT from v290 (silence-gate, truncated),
+  v291 (drop-with-808 + overtone-shift), v292 (call-response → unison).
+  It's the FOURTH distinct dopamine architecture tested — the late-
+  vocal-entry-with-sustained-plateau-climax model.
+
+  Production palette pinned: "piano arpeggios opening + bowed-guitar
+  drone with EBow sustain + reverse cymbal swells + delay-and-reverb-
+  pedal soaked atmospheric guitar layers + glockenspiel atmospheric
+  pings + frame drum entering at 2:00 + sub-bass swelling on crescendo
+  + sparse cinematic strings at climax + no trap drums + wide cinematic
+  stereo." Negatives explicitly block trap, pop ballad with words,
+  Eurovision, ambient meditation, viking power metal, Celtic Enya
+  kitsch — six adjacent failure modes.
+
+  Title "Vök" (Icelandic for "opening / hole in ice") — single Icelandic
+  word, 3 chars, atmospheric Sigur-Rós-adjacent concept. The vök is
+  the opening through which a fisherman sees beneath the ice —
+  metaphor for the dopamine peak revealing what's beneath the surface.
+  Conceptually parallel to v290-292 Nordic trinity (Hugr/Eldur/Ulv)
+  but in a completely different genre.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No Sigur
+  Rós, Jónsi, Mogwai, Explosions in the Sky, Godspeed You! Black
+  Emperor, Eluvium, Balmorhea artist names in style field.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, all three failure modes have recurred —
+  no predictive model), submitter MUST verify Suno UI vocal_gender
+  matches YAML (`male`) before Create.
