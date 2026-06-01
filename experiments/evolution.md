@@ -312,6 +312,7 @@ mindmap
 | 265 | Fervo | funk carioca / baile funk / tamborzão viral cycle - shouty female Portuguese MC | G minor | 150 | tamborzão 808 kick + tambor/surdo + baile siren |
 | 266 | Sgubhu | amapiano / South African house / log drum viral cycle - relaxed Zulu-English male spoken-sung | C minor | 115 | log drum + four-on-the-floor kick + sax-pad chord stab |
 | 267 | Pind | modern Punjabi pop / P-Pop / R&B-infused viral cycle - smooth Punjabi male sing-rap | F# minor | 92 | 808 sub + Rhodes electric piano + dhol-accent + tumbi-riff |
+| 268 | Bbang | modern 4th-gen K-pop / NewJeans-adjacent hyperdance viral cycle - multi-voice female group harmony | B minor | 132 | four-on-the-floor kick + retro pop bass + sparkly synth arpeggio |
 
 ## Next-cycle priorities
 

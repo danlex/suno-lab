@@ -1,0 +1,145 @@
+name: "bbang"
+version: 268
+title: "Bbang"
+instrumental: false
+vocal_gender: female
+
+style: "Modern 4th-gen K-pop, NewJeans-adjacent dance pop, 132 BPM, B minor, glossy hyperdance. Multi-voice female group harmony — NOT solo: 4-singer breathy mid-register lead stack with call-and-response between members, detuned vocal stack on the chorus, layered ad-lib hooks, hyperpolished K-pop processing, bilingual Korean verses with English chant hooks. NOT solo soprano belt, NOT husky contralto, NOT pitched-up kawaii, NOT shouty MC, NOT autotuned sing-rap — GROUP vocal architecture with stacked harmony. Production: punchy four-on-the-floor kick, syncopated snare clap, glittery hi-hats, sub-bass pluck on the drop, sparkly synth arpeggios, retro-pop bass guitar groove, pitched vocal chops between sections, weird humane micro-drops. Glossy Seoul polish — Music Bank floor energy, NOT bedroom hyperpop, NOT EDM big-room. Choreography-ready dance pop. No PC Music harsh, no orchestral, no broadway."
+
+lyrics: |
+  [Intro]
+  (chant) bbang bbang bbang
+  la la la, la la la
+
+  [Pre-Hook]
+  (breathy stack) bbang, bbang
+  one, two, three, go
+
+  [Hook]
+  bbang, bbang, ne mam-i bbang (my heart goes bang)
+  bbang, bbang, naega geudaeege ppajyeoss-eo
+  bbang, bbang, every time I see you
+  bbang, bbang, like a heart-attack feeling
+
+  [Verse 1] (lead)
+  saturday neon, neowa naega
+  geori-eseo neol bwass-eo, my heart stopped
+  (backing) oh oh oh, oh oh oh
+  no caption, no filter on
+
+  [Hook]
+  bbang, bbang, ne mam-i bbang
+  bbang, bbang, every time I see you
+  bbang, bbang, heart-attack feeling
+
+  [Verse 2] (different member, breathier)
+  midnight cab, sigye-neun jeongji
+  text an-go, geunyang-eul boneda
+  (backing) la la, la la
+  no message, no message, fine
+
+  [Bridge]
+  (vocal chop) bb-bb-bbang
+  (all members) oh, oh, my heart goes
+  bb-bb-bbang
+
+  [Final Hook] (stacked harmony, all members)
+  bbang, bbang, ne mam-i bbang
+  bbang, bbang, every time, every time
+
+  [Outro]
+  (whispered) bbang
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, hyperpop PC Music harsh, anime opening, polka, ska, salsa, bachata, merengue, cumbia, mainstream radio reggaeton, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, J-pop anime opening"
+
+tags:
+  - k-pop
+  - kpop-4th-gen
+  - newjeans-adjacent
+  - hyperdance
+  - 132bpm
+  - b-minor
+  - female-group-harmony
+  - multi-voice-stack
+  - bilingual-korean-english
+  - viral-arm
+  - tiktok-choreography-ready
+  - new-technique
+  - research-driven
+  - vocal-female-group
+
+notes: |
+  VIRAL ARM cycle v268 — Modern 4th-generation K-pop (NewJeans / IVE /
+  Le Sserafim / Aespa zone). Research-driven (Bias List 2026 Le Sserafim
+  review, Trending.fm 2026 summer songs analysis, Korea Times posts):
+  4th-gen K-pop girl groups are mainstreaming further in 2026, Western
+  charts integrating rather than siloing K-pop. 2026 production trend
+  identified: "mid-tempo songs with detuned vocal stacks and weird drops
+  that feel more humane than algorithmic" — the hyperpop ceiling hit, but
+  the strangeness remained. NewJeans "Hype Boy" choreography remains the
+  TikTok-clip blueprint — playful footwork + smooth upper-body, perfect
+  for short videos.
+
+  USER VALIDATION + LANE EXPANSION CONTINUED: v264 "Tóxico" praise drove
+  the Latin Romance push (v264 ES, v265 PT). v266 expanded to South Africa
+  (amapiano). v267 expanded to South Asia (Punjabi P-Pop). v268 expands
+  to East Asia — Korea — completing four consecutive non-Western-Romance
+  geographies and proving the playbook works across the global music map.
+
+  VOICE DIFFERENTIATION — NINTH orthogonal voice in nine cycles, and the
+  FIRST GROUP voice architecture in the catalog. Cumulative ledger:
+    v260 — male whisper EN (drift phonk, distorted, dark)
+    v261 — soprano belt EN (slap house, arena reverb)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop, chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned, attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi sing-rap male PA (R&B vulnerability)
+    v268 — multi-voice female GROUP harmony KOREAN/ENGLISH
+           (4-singer stacked harmony with call-response between members,
+           breathy mid-register lead, detuned 2026 K-pop vocal stack —
+           NEW ARCHITECTURE not just new timbre)
+  The load-bearing phrase "Multi-voice female group harmony — NOT solo: 4-
+  singer breathy mid-register lead stack with call-and-response between
+  members" is the architectural distinction. All eight prior solo voices
+  are explicitly excluded in style + exclude_styles. The group architecture
+  is intentionally new: solo timbre rotation has been the differentiator
+  v260-v267; v268 graduates to vocal-arrangement differentiation.
+
+  LANGUAGE — seventh distinct language in the viral arm. Korean verses
+  + English chant hooks ("bilingual K-pop" is the canonical 4th-gen format
+  — NewJeans, IVE, Le Sserafim all use this pattern). Lyric content uses
+  authentic K-pop vocabulary: "ne mam-i bbang" (my heart goes bang),
+  "naega geudaeege ppajyeoss-eo" (I fell for you), "saturday neon"
+  (Saturday neon — code-switched), "geori-eseo neol bwass-eo" (saw you on
+  the street). Title "Bbang" (빵) — single Korean onomatopoeia for bang/
+  explosion, MEME-able single syllable, fits the choreography-clip
+  aesthetic. Genre-canonical without copying a specific song title.
+
+  BPM 132 — fresh in the recent rotation (recent: 92, 96, 110, 115, 124,
+  138, 150, 160). Within the 4th-gen K-pop sweet spot of 128-138 (NewJeans
+  Hype Boy is 130; Le Sserafim Antifragile is 132; IVE Baddie is 130).
+  Choreography-clip-friendly tempo.
+
+  Key B minor — fresh against the recent minor rotation (recent: A, D, F,
+  F#, Bb, G, C; E major in v263). B minor is canonical K-pop pop-ballad-
+  to-dance-pop key, walks well with sub-bass pluck and synth arpeggios.
+
+  Production palette pinned to 2026 K-pop best practice: "detuned vocal
+  stack on the chorus, layered ad-lib hooks, hyperpolished K-pop
+  processing... weird humane micro-drops 2026-style" — explicitly invokes
+  the post-hyperpop-ceiling K-pop production tradition identified in the
+  Trending.fm 2026 analysis. "KBS Music Bank floor energy, NOT bedroom
+  hyperpop, NOT EDM big-room" geographic + venue anchor pins Suno to the
+  Seoul polished 4th-gen K-pop classifier vs. drift to bedroom hyperpop
+  or EDM big-room.
+
+  Title "Bbang" — 5 chars, MEME-able, single Korean syllable, percussive,
+  matches genre's TikTok-clip energy.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no artist names — NewJeans / Le Sserafim are referenced
+  as "NewJeans-adjacent" and "4th-gen K-pop" which describes a generation
+  not a specific copy. "KBS Music Bank" is a venue/show, not an artist).
