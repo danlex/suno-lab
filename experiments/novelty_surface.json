@@ -965,9 +965,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257
@@ -990,6 +988,10 @@
     "romantic": [
       145,
       149
+    ],
+    "symphonic": [
+      162,
+      178
     ],
     "2-step garage": [
       100
@@ -2853,7 +2855,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3004,7 +3006,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

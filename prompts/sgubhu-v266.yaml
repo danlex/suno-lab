@@ -1,0 +1,141 @@
+name: "sgubhu"
+version: 266
+title: "Sgubhu"
+instrumental: false
+vocal_gender: male
+
+style: "Amapiano, South African house, log drum dance, 115 BPM, C minor, township groove. Male spoken-sung amapiano vocal — relaxed low-mid conversational delivery, casual chest-voice in mixed Zulu / Xhosa / English (kasi-English), NOT shouty, NOT heavily autotuned, NOT whispered, NOT belted. Signature log drum bouncing in the gaps between four-on-the-floor kicks, syncopated against the kick. Soft warm pads, sax-pad chord stabs, constant rolling shaker pushing the groove, vinyl rim-click percussion, deep sub-bass under the log drum. Joburg township aesthetic — Yanos piano session at golden hour, friends-on-the-stoep energy, NOT polished radio Afropop. Loose dance-club bounce, breathing space, no busy fills. No EDM drops, no soaring belt, no husky contralto, no pitched-up kawaii, no raspy Latina sing-rap, no shouty MC, no whispered drift-phonk, no orchestral, no broadway."
+
+lyrics: |
+  [Intro]
+  (log drum tease)
+  [Spoken] yebo, yebo
+  asambe
+
+  [Verse 1]
+  ngiyazi, ngiyazi the weekend is here
+  amapiano playing, asikhethi nothing to fear
+  put the bottle on the stoep, friends are coming through
+  sun is going down, the sky is changing blue
+
+  [Pre-Hook]
+  oh oh oh oh (sgubhu)
+  oh oh oh oh
+
+  [Hook]
+  sgubhu, sgubhu, beat dey calling me
+  sgubhu, sgubhu, township melody
+  sgubhu, sgubhu, asambe with me
+  sgubhu, sgubhu, until we cannot see
+
+  [Verse 2]
+  no boss no clock, only piano in my chest
+  every kick, every log drum, every shaker is a test
+  Mzansi sun is setting and the night is just begun
+  hold my hand sister, asambe, run
+
+  [Hook]
+  sgubhu, sgubhu, beat dey calling me
+  sgubhu, sgubhu, township melody
+
+  [Bridge]
+  (log drum solo) [Spoken] yo yo, listen up
+  the piano never stops, the piano never sleeps
+  oh oh oh oh
+
+  [Final Hook]
+  sgubhu (sgubhu), beat dey calling me
+  sgubhu (sgubhu), asambe with me
+
+  [Outro]
+  (log drum fade)
+  yebo
+  [End]
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring melodic female belt, husky low contralto, pitched-up kawaii chipmunked, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, hyperpop, k-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, mainstream radio reggaeton, dembow, tamborzão, baile funk, slap house, drift phonk, mainstream radio afropop, polished commercial pop, EDM drop, big-room house"
+
+tags:
+  - amapiano
+  - south-african-house
+  - log-drum
+  - 115bpm
+  - c-minor
+  - male-vocal
+  - spoken-sung
+  - zulu-english
+  - viral-arm
+  - township-groove
+  - yanos-session
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v266 — Amapiano (South African house). Research-driven
+  (Orphiq production guide, Spotify/Audiomack 2026 TikTok playlists):
+  canonical BPM 112-116 (sweet spot ~115), signature log drum bouncing
+  syncopated between four-on-the-floor kicks, Pretoria-Johannesburg
+  township origin, currently dominating TikTok dance-content globally via
+  choreography trends. Vocals canonically in Zulu, Sotho, Tswana, or mixed
+  with English — range from full sung melodies to spoken-word chants.
+
+  USER VALIDATION DRIVING THIS ARM: v264 "Tóxico" praise still active. Per
+  the updated viral-arm memory, plan was "stack 2-3 more Latin/Lusophone
+  viral cycles before any cinematic return." v265 (Fervo / funk carioca) was
+  the second Lusophone push. v266 PIVOTS region+language for the third —
+  South Africa instead of Brazil — to maintain freshness without dropping the
+  viral momentum. Amapiano was explicitly NOT on the original next-steps
+  list (which was Latin-only); promoted here because (a) amapiano's TikTok
+  virality is at least equal to neoperreo's and (b) the cumulative voice
+  rotation needs a male vocal that isn't the v260 drift-phonk whisper.
+
+  VOICE DIFFERENTIATION — seventh orthogonal voice in seven cycles:
+    v260 — male whisper EN (drift phonk, distorted, dark)
+    v261 — soprano belt EN (slap house, arena reverb)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop, chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned, attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZULU/XHOSA/ENGLISH (casual conversational,
+           low-mid chest, NOT shouty, NOT autotuned, NOT whispered)
+  The load-bearing phrase: "relaxed low-mid conversational delivery, casual
+  chest-voice phrasing... NOT shouty, NOT heavily autotuned, NOT whispered,
+  NOT belted." Four-way negative pins the register against drift to any of
+  the six prior voice characters. Both style and exclude_styles explicitly
+  block all six. Second male voice in the catalog and the first male singing
+  voice (v260 was processed/distorted whisper, not a singing register).
+
+  Language: fifth distinct language in the viral arm. Mixed Zulu / Xhosa /
+  English ("kasi-English") matches authentic township amapiano vocal
+  practice. Lyric vocabulary uses genre-canonical phrases — "yebo" (yes),
+  "asambe" (let's go), "ngiyazi" (I know), "asikhethi" (we don't choose /
+  carefree), "kasi" (township), "sgubhu" (the beat/drum), "Mzansi" (South
+  Africa), "stoep" (porch — Afrikaans loan in everyday SA English) — without
+  naming any artist. Concept: weekend-arrival township-evening groove,
+  call-to-the-dance.
+
+  BPM 115 — center of the amapiano sweet spot (112-116). Fresh against
+  recent cycles (recent: 96, 110, 124, 138, 150, 160). Five BPMs apart from
+  v264's 110 but the groove FEEL is completely orthogonal: dembow's
+  syncopated boom-ch-boom-chick vs. amapiano's log-drum-in-the-gaps four-on-
+  the-floor. Suno's classifier will not confuse the two.
+
+  Key C minor — fresh against the recent rotation (recent minor keys: A, D,
+  F, Bb, G; E major in v263). C minor is a genre-canonical amapiano key
+  (warm, walks well with sax-pad chord stabs).
+
+  Production palette pinned: "log drum bouncing in the gaps between four-on-
+  the-floor kicks, syncopated against the kick not on top of it" — exact
+  reproduction of the Orphiq production-guide signature pattern. "Pretoria-
+  Johannesburg township aesthetic — Yanos / piano session at golden hour,
+  friends-on-the-stoep energy, NOT polished radio Afropop" pins Suno to the
+  authentic township sound vs. the polished commercial Afropop classifier.
+
+  Title "Sgubhu" — single Zulu word for "the beat/drum," 6 chars, MEME-able,
+  genre-canonical. Distinct from prior viral titles (Static, Polnoch, Fumée,
+  Candy in the Wires, Tóxico, Fervo).
+
+  Style char target: validated below 950 via scripts/yaml_field_check.py.
+  Blocklist clean (no artist names, no triggers).
+
+  Log drum is fresh in the instruments rotation (likely zero prior uses).
