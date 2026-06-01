@@ -1,0 +1,149 @@
+name: "halo"
+version: 269
+title: "Halo"
+instrumental: false
+vocal_gender: female
+
+style: "Liquid drum and bass, 2026 understated wave, 174 BPM, E minor, atmospheric immersive. Ethereal high-airy female solo vocal — breathy mid-high soprano with long reverb tail, UNDERSTATED not anthemic, restrained close-mic phrasing that complements the breakbeat instead of overpowering it, melancholic melodic lines, no chorus belt, no arena power, no doubled stack, NOT husky contralto, NOT kawaii pitched-up, NOT female group harmony, NOT shouty MC, NOT autotuned sing-rap. Production palette: clean Amen breakbeat with crisp open hat splash, deep rolling reese-style sub-bass, lush Rhodes-like atmospheric pad layers, sparse piano chord stabs, light filter sweeps, wide reverb tail on the vocal, glittery delay throws between phrases. 2026 liquid wave — soulful and immersive, NOT 2025 anthem-toplines, NOT jump-up neuro mosh. Late-night rolling — Hospital / SHOGUN lineage, soft sunrise floor. No big-room EDM drop, no jungle ragga MC, no orchestral, no broadway."
+
+lyrics: |
+  [Intro]
+  (filtered sub-bass swell, distant)
+  oh oh, oh oh
+
+  [Verse 1] (breathy close)
+  shadows in the static, soft inside the noise
+  every breath a question, every step a choice
+  you were in the doorway, gold against the night
+  said my name like silence, said my name like light
+
+  [Pre-Hook]
+  (rising) oh, ah
+  (filter sweep) ah, ah
+
+  [Hook]
+  halo, halo, falling slow
+  halo, halo, soft and low
+  halo, halo, do not let me go
+  halo, halo, oh oh oh
+
+  [Verse 2]
+  city is a river, washing through my hand
+  every hour a question I do not understand
+  you became the answer, simple as the dawn
+  said my name like water, said my name and gone
+
+  [Hook]
+  halo, halo, falling slow
+  halo, halo, oh oh oh
+
+  [Bridge]
+  (sparse Rhodes solo, no drums)
+  [Whispered] do not let me go
+  do not let me go
+
+  [Final Hook] (full break returns)
+  halo (halo), falling slow
+  halo (halo), soft and low
+  halo (halo), oh oh oh
+
+  [Outro]
+  (filter close, vinyl click)
+  halo
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, hyperpop, k-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, neurofunk, jump-up DnB, ragga jungle MC, 2025 anthem-topline DnB"
+
+tags:
+  - liquid-drum-and-bass
+  - liquid-dnb
+  - dnb-2026-understated
+  - 174bpm
+  - e-minor
+  - female-vocal-ethereal
+  - breathy-soprano-solo
+  - english-lyrics
+  - viral-arm
+  - atmospheric-immersive
+  - amen-break
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v269 — Liquid drum and bass, 2026 understated wave.
+  Research-driven (TicketFairy 2026 DnB forecast): the 2026 direction is
+  a deliberate move AWAY from 2025's "anthemic vocal-led toplines" (Bou,
+  Sub Focus, Kanine, Culture Shock, Grafix lane) TOWARD "understated,
+  soulful vocals that complement the music rather than overpowering it
+  — more mature and immersive." This cycle deliberately rides that
+  new wave rather than the 2025 anthem formula.
+
+  USER VALIDATION + LANE EXPANSION: viral arm now nine cycles deep across
+  US/EU, Russia, France, Latin Caribbean, Brazil, South Africa, Punjab,
+  Korea. v269 adds the United Kingdom — first UK-origin genre in the
+  catalog. Drum and bass (Bristol/London lineage) is one of the strongest
+  contemporary TikTok-viral British genres, distinct from any prior cycle.
+
+  VOICE DIFFERENTIATION — TENTH orthogonal voice in ten cycles. Ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena reverb, anthemic, POWER)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability)
+    v268 — female GROUP harmony KO/EN (4-voice stacked, K-pop architecture)
+    v269 — ethereal high-airy female solo EN (breathy, UNDERSTATED, long
+           reverb tail, melancholic, complements not overpowers — the
+           explicit 2026 liquid DnB direction)
+  v261 vs v269 differentiation note: both are solo female English vocals,
+  but v261 is ARENA POWER BELT (slap house, doubled stack, big reverb
+  tail forward and bright); v269 is BREATHY UNDERSTATED ETHEREAL (soft
+  close-mic phrasing recessed in the mix, complements rather than
+  dominates, melancholic instead of triumphant). The 2026 liquid DnB
+  direction explicitly forbids the v261 arena anthem mode — this is the
+  key differentiation phrase: "complements the breakbeat instead of
+  overpowering it." Both style and exclude_styles block v261's "soaring
+  solo soprano belt" character.
+
+  LANGUAGE — English again (4th English cycle in the viral arm after EN
+  v260/v261/v263 and EN-mix v266/v268). Justified: drum and bass is a
+  UK-origin genre and English is the canonical liquid DnB vocal language.
+  Language differentiation is not the orthogonality axis for THIS cycle —
+  the vocal architecture (ethereal understated) and BPM band (174) are.
+
+  BPM 174 — canonical liquid DnB tempo and a completely FRESH BPM BAND in
+  the recent rotation (recent: 92, 96, 110, 115, 124, 132, 138, 150, 160).
+  More than 14 BPM faster than any prior viral-arm cycle. This is the
+  largest BPM jump in the viral arm — entirely new tempo territory.
+
+  Key E minor — fresh in the recent rotation (recent minors: A, B, C, D,
+  F, F#, Bb, G; major: E in v263). E minor is canonical liquid DnB
+  (Hospital Records catalog routinely sits there).
+
+  Production palette pinned to liquid DnB best practice: clean Amen
+  breakbaeck + reese sub-bass + Rhodes pad layers + sparse piano stabs +
+  filter sweeps + wide vocal reverb. Two anchor references — "Hospital /
+  SHOGUN production lineage" (the canonical liquid DnB label lineages,
+  references not artist names) and "Boom Festival sunrise floor" (the
+  vibe target). Negatives explicitly block jump-up, neuro, ragga-jungle-MC
+  and 2025-anthem-topline directions — three distinct DnB sub-styles that
+  Suno's classifier could drift toward and that we are deliberately NOT
+  targeting.
+
+  Title "Halo" — single English word, 4 chars, MEME-able, evokes the airy
+  ethereal celestial vocal quality without colliding with the famous
+  Beyoncé title (which sits in a different genre entirely; Suno's
+  classifier should disambiguate by the DnB style+BPM signature).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no artist names; Hospital and SHOGUN are LABELS not
+  artists; Boom Festival is an event).
+
+  Lyric concept: liminal love song — the narrator's beloved appeared like
+  light in a doorway and dissolved like water. Bittersweet, melancholic,
+  matches the 2026 liquid DnB understated mood. Hook "halo, falling slow,
+  soft and low, do not let me go" is intentionally simple, melodic,
+  small-line — non-anthemic to match the brief.
