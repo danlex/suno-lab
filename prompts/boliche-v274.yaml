@@ -1,0 +1,155 @@
+name: "boliche"
+version: 274
+title: "Boliche"
+instrumental: false
+vocal_gender: male
+
+style: "RKT, urbano argentino, Buenos Aires street trap, 98 BPM, G# minor, boliche 4am. Male Argentine RKT vocal — laid-back drowsy half-time flow with Auto-Tune lite, nasal Buenos Aires accent, conversational sing-rap between trap and reggaeton, NOT raspy Caribbean Latina, NOT shouty Portuguese MC, NOT Arabic mahraganat, NOT Punjabi R&B — distinctly porteño rioplatense vocal color. Production: dembow-influenced syncopated kick (RKT signature, NOT pure reggaeton boom-ch-boom-chick), trap hi-hat triplet rolls, dark moody synth pads, distorted 808 on the drop, plucky reggaeton melodic synth, sidechain pump, ad-libs ('eh', 'tumba', 'che'). 2026 porteño urbano — L-Gante / Bizarrap / El Turco al Corte tradition, NOT mainstream Latin pop, NOT reggaeton commercial, NOT cumbia villera, NOT Spanish-from-Spain trap. Buenos Aires boliche, neon kiosko corner. No mainstream reggaeton, no Caribbean dembow, no orchestral."
+
+lyrics: |
+  [Intro]
+  (synth pluck) eh, eh
+  che, tumba
+
+  [Verse 1] (laid-back nasal flow)
+  cuatro de la mañana, el boliche cerrado
+  el flaco del kiosko ya me conoce
+  la pibita del Uber me mira raro
+  llevo tres noches sin que me toque
+
+  [Pre-Hook]
+  oh-oh, boliche
+  eh-eh, boliche
+
+  [Hook] (half-time melodic)
+  boliche, boliche, no me quiero ir
+  boliche, boliche, hasta que amanezca
+  boliche, boliche, llevame al final
+  boliche, boliche, en Buenos Aires
+
+  [Verse 2]
+  el subte cerró, no hay coche para volver
+  el cigarrillo prendido, la luna naranja
+  miro al cielo y me acuerdo de ella
+  el boliche cerró, pero la noche no
+
+  [Hook]
+  boliche, boliche, no me quiero ir
+  boliche, boliche, en Buenos Aires
+
+  [Bridge]
+  (kick drops out, pluck synth)
+  [Spoken] che, posta posta
+  llevame a tu casa, no me quiero ir
+
+  [Final Hook] (Auto-Tune lite stack)
+  boliche (eh-eh), no me quiero ir
+  boliche (che-che), hasta que amanezca
+
+  [Outro]
+  (synth fade) boliche
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy female soprano DnB, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, hyperpop, k-pop, j-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia villera traditional, mainstream radio reggaeton, reggaeton commercial polish, dembow Caribbean traditional, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, mainstream radio Afropop, mainstream Arab pop, traditional Argentine folk, tango, Spanish-from-Spain trap"
+
+tags:
+  - rkt
+  - urbano-argentino
+  - buenos-aires-trap
+  - 98bpm
+  - g-sharp-minor
+  - male-vocal-laid-back
+  - porteno-accent
+  - argentine-spanish-lyrics
+  - viral-arm
+  - boliche-4am
+  - l-gante-bizarrap-tradition
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v274 — RKT (Reggaeton Kombi Trap) / urbano argentino.
+  Research-driven (Nuevo Mundo, Spotify URBANO 2026, SoundCloud Stories,
+  Público): RKT broke through globally in 2020 via L-Gante "L-Gante RKT"
+  and his Bizarrap Session #38 (2021). 2026 viral leader is El Turco al
+  Corte. The Buenos Aires urbano ecosystem (Bizarrap, Trueno, Duki, Wos,
+  Nicki Nicole, María Becerra) drives the broader scene. Distinct from
+  Caribbean reggaeton: RKT uses a different kick pattern (cumbia-villera-
+  derived rather than pure dembow), darker moody synths, and the
+  rioplatense porteño vocal accent. BPM 95-100.
+
+  USER ROADMAP TARGET: 14 viral cycles deep, 10 languages, 14 voice
+  archetypes, 11 regions. v274 adds Argentina/Buenos Aires as the 12th
+  distinct region — South America, which had no prior cycle. Spanish is
+  the language but with rioplatense accent and porteño slang, completely
+  distinct sub-style from v264 (Caribbean ES neoperreo, Tomasa del Real /
+  Ms Nina underground club tradition).
+
+  VOICE DIFFERENTIATION — 15TH orthogonal voice in 15 cycles. Cumulative
+  ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena clean European belt)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy autotuned Latina sing-rap ES (Caribbean glossy mid-high attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability)
+    v268 — female K-pop GROUP harmony KO/EN (clean stacked)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male falsetto-mix Nigerian PIDGIN/YO/EN (smooth high-tenor)
+    v271 — male duo close harmony PT-caipira (sertanejo warm)
+    v272 — male autotuned chesty Arabic ARABIC (mahraganat street)
+    v273 — female melismatic Indonesian dangdut INDONESIAN (Auto-Tune sob belt)
+    v274 — male LAID-BACK NASAL Argentine porteño ARGENTINE-SPANISH
+           (drowsy half-time trap flow with Auto-Tune lite + nasal Buenos
+           Aires accent + conversational sing-rap — distinctly rioplatense
+           vocal color)
+  v264 vs v274 differentiation note: both ES, both autotuned, but v264 is
+  Caribbean Latina female sing-rap with glossy mid-high attitude, while
+  v274 is Argentine porteño male laid-back drowsy half-time flow with
+  nasal mid-low timbre. Different gender, different register, different
+  regional accent, different vocal energy. Style and exclude_styles block
+  all 14 prior voice characters and also explicitly block the v264
+  "raspy autotuned Latina sing-rap" character + Spanish-from-Spain trap
+  (the closest classifier-drift risks).
+
+  LANGUAGE — Argentine Spanish with porteño slang, the second Spanish
+  cycle but completely distinct from v264. Lyric vocabulary uses
+  authentic Buenos Aires street language: "boliche" (club), "che" (hey/dude),
+  "posta" (real/legit), "el flaco del kiosko" (the kiosko guy — Argentine
+  late-night detail), "la pibita del Uber" (the Uber girl), "el subte"
+  (Buenos Aires subway, NOT Mexican "metro" or Madrid "metro"), "tumba"
+  (drop/bass hit). Concept: classic Buenos Aires post-club narrative —
+  4am, the boliche closed, kiosko on the corner, no Uber, smoking under
+  the orange moon, thinking about her. This is evergreen porteño urbano.
+
+  BPM 98 — center of the RKT canonical range (95-100). Fresh in the recent
+  rotation (recent: 88, 92, 96, 100, 105, 110, 115, 120, 124, 132, 138,
+  150, 160, 174). Distinct from v272 mahraganat (100) and v264 dembow
+  (110).
+
+  Key G# minor — first G# minor in the viral arm (Ab minor equivalent —
+  unused in catalog). Walks well with the dark moody synth pads canonical
+  to RKT.
+
+  Production palette pinned: "dembow-influenced syncopated kick (RKT
+  signature, NOT pure reggaeton) + trap hi-hat triplet rolls + dark moody
+  synth pads + distorted 808 + plucky reggaeton melodic synth lead +
+  sidechain pump." Three anchor references: "L-Gante / Bizarrap / El
+  Turco al Corte porteño tradition" (genre-lineage anchor),
+  "Buenos Aires boliche" (geographic/scene anchor), "neon kiosko on the
+  corner" (visual aesthetic anchor). Negatives explicitly block mainstream
+  radio reggaeton, reggaeton commercial polish, cumbia villera traditional,
+  Caribbean dembow, Spanish-from-Spain trap — five distinct adjacent
+  failure modes the Suno classifier could drift toward.
+
+  Title "Boliche" — Argentine Spanish for "club / nightclub," 7 chars,
+  MEME-able, distinctly Argentine (NOT shared with Caribbean or Spain-
+  Spanish dance-club vocabulary), genre-canonical setting. Does not
+  collide with a specific famous song title.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (L-Gante / Bizarrap / El Turco al Corte referenced ONLY
+  as tradition anchors, not artist-copy commands).
