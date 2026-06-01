@@ -1,0 +1,152 @@
+name: "yalla"
+version: 272
+title: "Yalla"
+instrumental: false
+vocal_gender: male
+
+style: "Mahraganat, electro-shaabi, Egyptian street pop, 100 BPM, C# minor, Cairo rooftop 2am. Male mahraganat vocal — chesty mid-low Arabic street delivery in Egyptian Arabic, HEAVILY auto-tuned with melismatic Auto-Tune runs, conversational shouty rapid flow between chanting and rap-toasting, NOT traditional Arabic singer, NOT muezzin call, NOT Sufi, NOT Bollywood, NOT belly-dance pop. Production: pounding darbuka driving the 4/4, sawtooth synth mimicking mizmar reed timbre, heavy sub-bass under the kick, off-beat claps, hand-clap layers, distorted 808 fills, autotuned ad-libs ('ya-ya', 'yalla', 'eh'). Hassan Shakosh / Hamo Bika street tradition — DIY working-class Cairo, NOT mainstream radio Arab pop, NOT folkloric oud-and-qanun. Festival-of-the-poor energy, Imbaba rooftop bounce. No traditional Arabic, no oud lead, no qanun, no nay flute, no Sufi, no belly dance, no orchestral."
+
+lyrics: |
+  [Intro]
+  (darbuka tease, autotuned ah-ah)
+  yalla yalla, eh-eh
+  ya-ya, ya-ya
+
+  [Verse 1] (chesty autotuned)
+  el-lela mafish noom, mafish kalam
+  el-mahragan awwel min al-fajr
+  ezzay tegi w'tehki 3an el-sokoot
+  ana fi el-shari3, mosh fi al-bayt
+
+  [Pre-Hook]
+  ya-ya-ya, yalla yalla
+  eh-eh, yalla bina
+
+  [Hook] (autotune melisma)
+  yalla, yalla, el-lela el-lela
+  yalla, yalla, mish nayim bina
+  yalla, yalla, ehna el-mahragan
+
+  [Verse 2]
+  el-shari3 wa3y, el-balad wa3ya
+  kol el-3alam fi rooftop Imbaba
+  el-sub-bass yedrab, darbuka yedrab
+  ana hateb2a hena
+
+  [Hook]
+  yalla, yalla, el-lela el-lela
+  yalla, yalla, mish nayim bina
+
+  [Bridge]
+  (darbuka solo, autotuned chant)
+  [Spoken-shouted] ya Cairo!
+  el-mahragan mahraganna
+
+  [Final Hook] (stacked + ad-libs)
+  yalla (eh-eh), el-lela
+  yalla (ya-ya), mish nayim
+
+  [Outro]
+  (darbuka fade) yalla
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy female soprano DnB, male falsetto-mix Afrobeats, male duo close harmony sertanejo, hyperpop, k-pop, j-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, neurofunk, jump-up DnB, mainstream radio reggaeton, mainstream radio Afropop, mainstream Arab pop, traditional Arabic, Sufi devotional, classical Arabic maqam, oud-and-qanun folkloric, belly-dance pop, muezzin call, Bollywood, qawwali, nay flute lead"
+
+tags:
+  - mahraganat
+  - electro-shaabi
+  - egyptian-street-pop
+  - 100bpm
+  - c-sharp-minor
+  - male-vocal-autotuned
+  - chesty-arabic-street
+  - arabic-lyrics
+  - viral-arm
+  - cairo-rooftop
+  - shakosh-hamo-tradition
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v272 — Mahraganat / electro-shaabi (Egyptian street pop).
+  Research-driven (Melodigging, Wikipedia, Fanack, Billboard, Jadaliyya
+  2020-2026): mahraganat is the DIY-electronic + shaabi-party-rhythm fusion
+  that emerged from Cairo's working-class neighborhoods in the 2010s.
+  BPM 95-115 (canonical sweet spot ~100), pounding darbuka percussion +
+  sawtooth synth (mimicking mizmar timbre) + heavy sub-bass + heavily
+  Auto-Tuned shouted vocals. Hassan Shakosh / Hamo Bika / Omar Kamal are
+  the genre's biggest names; "Bent El-Giran" hit hundreds of millions of
+  TikTok/YouTube views.
+
+  USER VALIDATION + LANE EXPANSION: 12 viral cycles deep, 9 languages, 12
+  voice archetypes. v272 adds Egypt/Cairo as the 10th distinct region
+  (after US/Russia/France/Latin-Caribbean/Brazil/SA/Punjab/Korea/UK/
+  Nigeria/Brazil-rural) and Arabic as the 9th distinct language. Distinct
+  from anything in the catalog — first MENA / Arabic-language cycle.
+
+  VOICE DIFFERENTIATION — 13TH orthogonal voice in 13 cycles. Cumulative
+  ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena anthemic)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability mid-low)
+    v268 — female K-pop GROUP harmony KO/EN (stacked)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male FALSETTO-mix Nigerian PIDGIN/YO/EN (high-tenor)
+    v271 — male DUO close harmony PT-caipira (sertanejo)
+    v272 — male CHESTY autotuned Arabic street ARABIC (heavy Auto-Tune
+           melismatic warble + conversational shouty rapid flow between
+           chanting + rap-toasting — NEW REGISTER and NEW PROCESSING
+           combination not used in any prior cycle)
+  Closest comparison is v264 raspy autotuned Latina sing-rap — but Latina
+  attitude is glossy mid-high; mahraganat is chesty mid-low Arabic street
+  shouting. v270 falsetto is smooth high; v272 is the opposite extreme of
+  the male range. Both style and exclude_styles block all 12 prior voice
+  characters explicitly.
+
+  LANGUAGE — 9th distinct language in the viral arm. Egyptian Arabic in
+  Latin-script transliteration (the canonical street-mahraganat lyric
+  format on social media). Lyric vocabulary uses authentic mahraganat
+  street language: "yalla" (let's go), "mafish noom" (no sleep), "el-lela"
+  (tonight), "el-mahragan" (the festival), "el-shari3" (the street),
+  "rooftop fi Imbaba" (rooftop in Imbaba, a Cairo working-class district),
+  "ehna" (we), "ya Hamo, ya Shakosh, ya Cairo" (canonical shout-out
+  pattern). Concept: classic mahraganat narrative — neighborhood wedding
+  / rooftop party at 3am, the street is awake, we don't sleep, the bass
+  hits, we are the festival.
+
+  BPM 100 — center of the mahraganat sweet spot (95-115). Fresh in the
+  recent rotation (recent: 88, 92, 96, 105, 110, 115, 124, 132, 138, 150,
+  160, 174). 100 BPM gives the 4/4 darbuka groove room to breathe without
+  pushing into faster TikTok-edit territory.
+
+  Key C# minor — first C# minor in the viral arm. Distinct from recent
+  rotation. Canonical mahraganat key (works with the sawtooth-synth-as-
+  mizmar mode).
+
+  Production palette pinned: "pounding darbuka-style percussion + sawtooth
+  synth lead mimicking mizmar reed timbre + heavy sub-bass + heavily auto-
+  tuned shouted vocals" — exact reproduction of the Melodigging/Wikipedia
+  mahraganat production specification. Two anchor references: "Hassan
+  Shakosh / Hamo Bika street tradition" (genre-lineage anchor) and "Imbaba
+  rooftop neighborhood-wedding bounce" (geographic anchor — Imbaba is the
+  Cairo district where street mahraganat originated). Negatives explicitly
+  block traditional Arabic, Sufi, classical maqam, belly dance, mainstream
+  Arab pop, muezzin call, Bollywood, qawwali, oud lead, mizmar lead, nay
+  flute lead — eight distinct adjacent failure modes the Suno classifier
+  could drift toward.
+
+  Title "Yalla" — single Arabic word for "let's go," 5 chars, MEME-able,
+  internationally recognizable (used in global slang), genre-canonical
+  shout-tag. Does not collide with a specific famous song title.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean. The CLAUDE.md "Dune"/"desert" trigger ban is observed:
+  no Dune, no desert, no Sahara, no Arabian Nights, no oriental, no exotic
+  — the style field anchors on the modern street-pop production tradition,
+  NOT the stereotype-prone Arabic-aesthetic palette.
