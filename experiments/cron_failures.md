@@ -1,5 +1,17 @@
 # Cron failure log
 
+## 2026-06-01 — v271 failed mid-submit (AMBIGUOUS — verify before retry)
+
+Reason: Chrome MCP extension disconnected mid-form AFTER the Create button click. The first 10-second post-Create wait completed (page was generating, typical Suno render behavior). Tab 786912814 then disappeared from the MCP tab group. Submitter reports `browser_disconnected_midform`.
+State: Draft YAML at `prompts/boteco-v271.yaml` (Sertanejo universitário / sofrência ballad 88 BPM, G major, male DUO close harmony Brazilian caipira PT — twelfth orthogonal viral-arm voice; first male-duo architecture). Style 888, lyrics 894, exclude 777, blocklist clean — pre-validated via `scripts/yaml_field_check.py`. **NOT committed** — but BACKLOG GUARD's auto-retry MUST NOT FIRE for this entry, because clips may already exist server-side.
+Action taken: Aborted per constraint #4. No retry this cycle.
+AMBIGUITY: Suno may have generated 2 "Boteco" clips server-side already (Create was clicked and acknowledged). Blind retry would create duplicate clips and double-charge credits.
+Next cycle should: BEFORE running cycle_start.py or treating this as a normal resume, the operator (or the next cycle's first action) must navigate to suno.com/me (the user's workspace) and check whether two "Boteco" clips already exist. Two paths:
+  (a) If "Boteco" clips exist on suno.com/me: harvest the two UUIDs, manually publish them via the song page More menu, then close out with `python3 scripts/finish_cycle.py --version 271 --clips <UUID1> <UUID2> --technique "sertanejo universitário / sofrência ballad viral cycle - male duo harmony caipira PT" --key "G major" --bpm 88 --trio "violão + sanfona + upright bass"`.
+  (b) If NO "Boteco" clips exist: the Create click never landed; safe to retry submit with `/suno prompts/boteco-v271.yaml`.
+
+RESOLVED (2026-06-01): Chrome MCP tab group was missing entirely (root cause of the whole multi-cycle outage — bridge "connected" but no tab group meant no controllable tabs). Recovery: `tabs_context_mcp({createIfEmpty: true})` created a fresh MCP window/tab group; navigated to suno.com/me; verified no "Boteco" clips existed (Path b applied); retried submit. v271 submitted + both clips published: de515cb4-3c20-4bf8-accf-5ae730628e5f (1:46) and 2438525f-4fd4-4282-aff8-34c81a5678ee (1:46). Suno classified as `sertanejo universitário, sofrência, country/sertanejo ballad` — no drift. Closed out via `finish_cycle.py --version 271`.
+
 ## 2026-06-01 — v270 failed at submit
 
 Reason: Chrome MCP bridge bound to localhost-only tab when v270 cycle fired — no suno.com tab in the MCP-controlled group. Bridge state at draft start: 2 tabs (localhost:8765 + Tóxico song page). Bridge state at submit check: 1 tab (localhost:8765 only — Tóxico tab was closed mid-cycle).
