@@ -1,0 +1,164 @@
+name: "saavan"
+version: 276
+title: "Saavan"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Bollywood ballad, Hindi pop, monsoon-romance, 90 BPM, D major, Mumbai monsoon balcony. Female Hindi playback-singer vocal — melismatic Hindustani ornaments (gamak, meend, murki), warm classically-trained chest-voice, light vibrato, intimate close-mic Hindi with English code-switch in bridge, NOT Indonesian dangdut sob, NOT Mandopop head-voice, NOT Punjabi male — distinctly Hindi playback-singer ballad with Hindustani classical foundation. Production: nylon-string acoustic guitar fingerpicking, soft tabla pulse (NOT solo), harmonium pad sustained, sparse trap drums on chorus, 808 sub on the drop, light tanpura drone, wide vocal reverb with monsoon-rain ambience. 2026 modern Bollywood pop tradition, NOT traditional orchestral playback, NOT classical raga, NOT bhajan, NOT qawwali, NOT Tamil cinema. Mumbai monsoon balcony. No tabla solo, no sitar lead, no qawwali, no orchestral, no broadway."
+
+lyrics: |
+  [Intro]
+  (acoustic guitar arpeggio, tabla soft)
+  oh, oh-oh
+
+  [Verse 1] (intimate chest-voice melismatic)
+  baarish gir rahi hai, raat khamosh hai
+  tumhari khushboo abhi bhi yahaan hai
+  do saal ho gaye, par dil samjha nahi
+  tum chale gaye, main yahaan ruki hu
+
+  [Pre-Hook]
+  oh-oh, saavan saavan
+  ah-ah, yaad aata hai
+
+  [Hook] (melismatic Hindustani ornaments)
+  saavan mein tum kahaan ho
+  saavan mein main tanha hu
+  baarish ki har boond mein
+  tumhari yaad bhigi hai
+
+  [Verse 2]
+  Mumbai ki sadak pe paani ka shor
+  chai ka pyala, akela samay
+  WhatsApp pe last seen, mera naam nahi
+  monsoon hi mera saathi reh gaya
+
+  [Hook]
+  saavan mein tum kahaan ho
+  baarish ki har boond mein tumhari yaad
+
+  [Bridge]
+  (only harmonium + tabla, no drums)
+  [English line] some loves are written in the rain
+  saavan, saavan
+
+  [Final Hook] (full melisma + ornaments)
+  saavan (saavan), tum kahaan ho
+  baarish (baarish), yaad bhigi hai
+
+  [Outro]
+  (rain ambience + guitar fade) saavan
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional Bollywood orchestral playback, classical Indian raga lead, bhajan devotional, qawwali, Tamil cinema, Carnatic classical, sitar lead, tabla solo, traditional Indian folk, modern Punjabi pop"
+
+tags:
+  - modern-bollywood
+  - hindi-pop-ballad
+  - monsoon-romance
+  - 90bpm
+  - d-major
+  - female-vocal-playback
+  - hindustani-melismatic
+  - hindi-lyrics
+  - viral-arm
+  - mumbai-monsoon
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v276 — Modern Bollywood ballad / Hindi pop monsoon-romance.
+  Research-driven (MusiCulture 2026, TikTok 2026 reels analysis,
+  Snapchat/Songkick 2026): Bollywood ballad lane remains a dominant
+  TikTok-viral channel in 2026, with Shreya Ghoshal's catalog still
+  dominating emotional reels / heartbreak edits / wedding videos / Gen Z
+  nostalgia playlists, and Anuv Jain emerging as the stripped-down
+  vulnerable storytelling voice resonating across India + diaspora.
+  Modern production combines traditional Bollywood playback-singer vocal
+  craft (Hindustani classical melismatic ornaments — gamak, meend, murki)
+  with contemporary hip-hop trap drum kit and 808 sub.
+
+  USER ROADMAP TARGET: 16 viral cycles deep, 11 languages, 16 voice
+  archetypes, 13 regions. v276 adds Hindi (12th language — 600M speakers,
+  one of the world's largest linguistic gaps remaining) and mainland
+  India / Mumbai as the 14th distinct region. South Asia now has both
+  diaspora-Punjabi (v267 Brampton/Toronto P-Pop) AND mainland-India-Hindi
+  (v276 Bollywood-modern) representation — two distinct regional voices.
+
+  VOICE DIFFERENTIATION — 17TH orthogonal voice in 17 cycles. Cumulative
+  ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena clean European)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap Caribbean ES (glossy mid-high)
+    v265 — shouty Portuguese MC PT (dry urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability)
+    v268 — female K-pop GROUP harmony KO/EN (clean stacked)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male falsetto-mix Nigerian PIDGIN/YO/EN (smooth high-tenor)
+    v271 — male duo close harmony PT-caipira (sertanejo warm)
+    v272 — male autotuned chesty Arabic ARABIC (mahraganat street)
+    v273 — female melismatic Indonesian dangdut INDONESIAN (Auto-Tune sob)
+    v274 — male laid-back porteño Argentine SPANISH (drowsy half-time)
+    v275 — male Mandopop crooner MANDARIN (head-voice + falsetto flips)
+    v276 — female HINDI PLAYBACK-SINGER ballad HINDI (Hindustani
+           melismatic ornaments — gamak/meend/murki — warm classically-
+           trained chest-voice tonal placement, intimate close-mic delivery
+           with Hindi pronunciation + ornament library distinct from
+           Indonesian dangdut)
+  v273 vs v276 differentiation note: both female melismatic Asian vocals,
+  but v273 is Indonesian dangdut (pelog scale, kendang drum, cengkok
+  ornaments + Auto-Tune sob), while v276 is Hindi playback-singer
+  (Hindustani raga system, tabla + harmonium, gamak/meend/murki ornaments
+  + clean no-Auto-Tune classical placement). Different melodic system
+  (pelog vs raga), different ornament library, different instrumental
+  bed, different vocal production (Auto-Tune sob vs classical clean).
+  Suno's classifier should differentiate via the production palette
+  signature alone. Style + exclude_styles block all 16 prior voice
+  characters.
+
+  LANGUAGE — 12th distinct language. Hindi in Latin transliteration
+  (standard Bollywood social-media format). Lyric vocabulary uses
+  authentic Hindi ballad: "saavan" (monsoon/rainy season — iconic
+  Bollywood image), "baarish" (rain), "khushboo" (fragrance), "tanha"
+  (alone), "yaad" (memory), "Mumbai ki sadak" (Mumbai street), "chai ka
+  pyala" (cup of tea), "WhatsApp pe last seen" (modern Bollywood detail
+  — explicit nod to contemporary heartbreak-via-messaging-platform
+  trope). Concept: classic Bollywood monsoon ballad — two years after
+  the loss, rain falls on Mumbai street, fragrance lingers, WhatsApp
+  last-seen check, only the monsoon remains as companion. Saavan +
+  baarish + tanha + yaad are the four pillars of the Bollywood ballad
+  emotional core.
+
+  BPM 90 — fresh in rotation (recent: 78, 88, 92, 96, 98, 100, 105, 110,
+  115, 120, 124, 132, 138, 150, 160, 174). Mid-tempo intimate ballad
+  zone for modern Bollywood pop.
+
+  Key D major — first D major in the viral arm. Distinct from recent
+  major rotation (A v273, F# v275, G v271, E v263). D major is canonical
+  for Bollywood ballads with acoustic-guitar-led arrangements.
+
+  Production palette pinned: "gentle nylon-string acoustic guitar
+  fingerpicking + soft tabla pattern + harmonium pad + sparse trap drums
+  on chorus + 808 sub on drop + light tanpura drone + wide vocal reverb
+  with monsoon-rain ambience." Geographic + visual anchor: "Mumbai
+  monsoon balcony, rain on the window." Negatives explicitly block
+  traditional Bollywood orchestral playback, classical Indian raga lead,
+  bhajan devotional, qawwali, Tamil cinema, Carnatic classical,
+  Hindustani classical solo, sitar lead, tabla solo, traditional Indian
+  folk, sufi qawwali — eleven distinct adjacent failure modes Suno's
+  classifier could drift toward.
+
+  Title "Saavan" (सावन) — single Hindi word for "monsoon/rainy season,"
+  6 chars, MEME-able, genre-canonical Bollywood image (monsoon = romance
+  + longing in Bollywood ballad tradition for 60+ years). Distinct from
+  prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Shreya Ghoshal, Anuv Jain, A.R. Rahman, Lata
+  Mangeshkar, or other playback-singer/composer names in style field —
+  preemptive removal per v274 Bizarrap / v275 Mandopop lesson on hard-
+  block artist-name triggers).

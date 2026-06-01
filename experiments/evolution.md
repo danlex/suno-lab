@@ -320,6 +320,7 @@ mindmap
 | 273 | Kangen | Modern dangdut koplo / hip-dut viral cycle - female melismatic Indonesian belt with Auto-Tune sob | A major | 120 | kendang koplo drum + suling bamboo flute + 808 sub |
 | 274 | Boliche | RKT / urbano argentino / Buenos Aires street trap viral cycle - male laid-back porteño nasal flow | G# minor | 98 | RKT syncopated kick + plucky reggaeton synth + 808 sub |
 | 275 | Yue | Modern Mandopop ballad / R&B-infused Mandarin pop viral cycle - male crooner with falsetto flips | F# major | 78 | Steinway piano + warm string pads + 808 sub |
+| 276 | Saavan | Modern Bollywood ballad / Hindi pop monsoon-romance viral cycle - female Hindustani playback-singer melismatic | D major | 90 | nylon acoustic guitar + tabla pulse + harmonium pad |
 
 ## Next-cycle priorities
 
