@@ -324,6 +324,7 @@ mindmap
 | 277 | Yoru | Modern Japanese city-pop / future-funk-adjacent viral cycle - female warm 80s-inflected cool-girl solo | Bb major | 108 | Roland Juno-60 analog pads + slap bass + Rhodes electric piano |
 | 278 | Gece | Modern Türk trap / Turkish trap viral cycle - male chesty Anatolian with makam-modal Auto-Tune | Eb minor | 140 | 808 trap kit + saz lute + ney reed flute |
 | 279 | Kalt | Modern Berlin tech-house / minimal techno viral cycle - German sprechgesang deadpan monotone | A minor | 128 | tech-house pluck synth + acid-303 bassline + sub-bass |
+| 280 | Bay | Vinahouse / V-pop / Vietnamese electronic dance viral cycle - female husky whisper-belt with Vietnamese tonal contours | D minor | 144 | Vinahouse rolling bass + rave synth stabs + heavy sub |
 
 ## Next-cycle priorities
 

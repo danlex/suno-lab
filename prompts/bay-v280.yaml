@@ -1,0 +1,164 @@
+name: "bay"
+version: 280
+title: "Bay"
+instrumental: false
+vocal_gender: female
+
+style: "Vinahouse, Vietnamese electronic dance, V-pop club, 144 BPM, D minor, Saigon underground club 2am. Female V-pop vocal — husky whisper-belt hybrid with Vietnamese tonal language inflections, club-energetic phrasing with six-tone vocal contours on long syllables, slight breathy edge on consonants, NOT DnB ethereal, NOT dangdut sob, NOT Mandopop head-voice, NOT Bollywood melismatic — Vinahouse Saigon-club signature with tonal-language novelty. Production: signature Vinahouse rolling bass, rave synth stabs from the beat's first note, heavy sub-bass requiring headphones, dark moody pads, sharp clap on 2 and 4, fast hi-hat triplet rolls, chopped vocal cuts on transitions, build-and-drop tension. 2026 Saigon underground club, NOT mainstream Vietnamese pop, NOT traditional Vietnamese, NOT ca trù, NOT cải lương, NOT bolero. Saigon district 1 night, neon-and-rain. No ca trù, no cải lương, no bolero, no orchestral."
+
+lyrics: |
+  [Intro]
+  (synth stab + rolling bass) bay, bay
+  oh-oh, oh-oh
+
+  [Verse 1] (husky tonal Vietnamese)
+  đêm nay em muốn bay đi xa
+  thành phố ngủ, em vẫn còn thức
+  điện thoại tắt rồi, không ai biết
+  em đang ở đâu, em đang là ai
+
+  [Pre-Hook]
+  (synth stab build) bay-bay
+  oh-oh, bay đi
+
+  [Hook] (club-belt with tonal melody)
+  bay, bay, em muốn bay đi
+  bay, bay, không cần ai biết
+  bay, bay, Sài Gòn ngủ rồi
+  bay, bay, em là ngôi sao
+
+  [Verse 2]
+  cà phê đắng, đêm còn dài
+  bạn bè đi rồi, em ở lại
+  nhạc đập mạnh, tim đập theo
+  em không cần lý do nào hết
+
+  [Hook]
+  bay, bay, em muốn bay đi
+  bay, bay, Sài Gòn ngủ rồi
+
+  [Bridge]
+  (build, synth stab pause)
+  [Whispered tonal] em không sợ gì cả
+  em không sợ ai cả
+  bay, bay, bay
+
+  [Final Hook] (drop + heavy sub)
+  bay (bay), em muốn bay đi
+  bay (bay), em là ngôi sao
+
+  [Outro]
+  (rolling bass fade) bay
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty Anatolian, male German sprechgesang deadpan, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional Vietnamese music, ca trù chamber, cải lương opera, bolero Vietnamese ballad, mainstream Vietnamese pop, Mandarin pop"
+
+tags:
+  - vinahouse
+  - v-pop
+  - vietnamese-electronic-dance
+  - 144bpm
+  - d-minor
+  - female-vocal-husky-whisper
+  - vietnamese-tonal-language
+  - vietnamese-lyrics
+  - viral-arm
+  - saigon-underground
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v280 — Vinahouse / V-pop club / Vietnamese electronic
+  dance. **20-CYCLE MILESTONE** for the viral arm. Research-driven
+  (TikTok 2026 Vietnamese Vina House content, Saigon club scene reels):
+  Vinahouse is Vietnam's signature electronic-dance subgenre — 144 BPM
+  canonical, rolling bass + rave synth stabs hitting from the beat's
+  first note, female husky whisper vocals + underground Saigon club
+  vibes, heavy sub-bass requiring headphones for full vibration. Genre
+  is uniquely Vietnamese (not just Vietnamese-language EDM but a
+  distinct production tradition). Currently TikTok-viral globally.
+
+  USER ROADMAP TARGET: 19 viral cycles deep, 15 languages, 20 voice
+  archetypes, 17 regions. v280 adds Vietnamese (16th language, 95M
+  speakers, tonal language) and Saigon / Vietnam as the 18th distinct
+  region. SE Asia now has TWO distinct cycles: v273 Indonesian dangdut
+  koplo (Surabaya, pelog scale, sob ballad) + v280 Vietnamese Vinahouse
+  (Saigon, tonal language, club-energetic) — different production
+  traditions, different vocal architectures, different emotional
+  registers.
+
+  VOICE DIFFERENTIATION — 21ST orthogonal voice in 21 cycles. **Tonal
+  language is a new orthogonality axis** — Vietnamese has six tones,
+  and Vietnamese singing carries characteristic tonal-contour shifts
+  on long syllables that don't exist in non-tonal languages prior to
+  this cycle. Cumulative ledger (abbreviated — full list in prior
+  cycles):
+    v280 — female VIETNAMESE V-POP HUSKY WHISPER-BELT (husky whisper-
+           belt hybrid with Vietnamese tonal language inflections, club-
+           energetic melodic phrasing with six-tone vocal contours on
+           long syllables, slight breathy edge on consonants — Vinahouse
+           Saigon-club signature distinct from prior 20 voices via
+           tonal-language inflection + club-energetic husky-whisper
+           hybrid)
+  Closest comparisons:
+    - v260 male whisper EN (Memphis distorted drift phonk — opposite
+      gender, opposite genre, opposite production aesthetic)
+    - v269 ethereal breathy female soprano EN (DnB understated
+      atmospheric — opposite energy: ethereal floating vs club-energetic
+      sub-bass hitting)
+    - v273 female Indonesian dangdut INDONESIAN (also SE Asian female,
+      but completely different — dangdut Auto-Tune sob + cengkok
+      ornaments + kendang drum + sob ballad emotional register vs
+      Vinahouse husky-belt + rave synth stabs + rolling sub + club-
+      energetic emotional register)
+  Style + exclude_styles block all 20 prior voice characters.
+
+  LANGUAGE — 16th distinct language. Vietnamese (native Latin alphabet
+  with diacritics — quốc ngữ system, no transliteration needed). Lyric
+  vocabulary uses authentic V-pop / Vinahouse street: "bay" (fly),
+  "đêm nay" (tonight), "Sài Gòn ngủ rồi" (Saigon is sleeping), "cà phê
+  đắng" (bitter coffee — Vietnamese detail), "nhạc đập mạnh" (the music
+  hits hard), "em là ngôi sao" (I am a star — V-pop empowerment trope),
+  "em không sợ gì cả" (I'm not afraid of anything). Concept: classic
+  Vinahouse independence narrative — tonight I want to fly, the city is
+  asleep but I'm still awake, phone off, no one knows where I am, music
+  hits hard, "I am a star, I'm not afraid." Saigon-club body-autonomy
+  energy.
+
+  BPM 144 — CANONICAL Vinahouse tempo (the genre's defining BPM marker).
+  Fresh in rotation (recent: 78, 88, 90, 92, 96, 98, 100, 105, 108, 110,
+  115, 120, 124, 128, 132, 138, 140, 150, 160, 174). 144 BPM is the
+  rolling-bass center of Vinahouse and distinct from all prior viral-arm
+  BPMs.
+
+  Key D minor — first reuse of D minor since v262 (18 cycles ago). All
+  12 minor keys have been used in the viral arm at least once at this
+  point — reuse is necessary, but distant reuse maintains rotation
+  freshness.
+
+  Production palette pinned: "signature Vinahouse rolling bass + rave
+  synth stabs hitting from the beat's first note + heavy sub-bass + dark
+  moody synth pads + sharp clap on 2 and 4 + fast hi-hat triplet rolls
+  + chopped vocal phrase cuts + build-and-drop tension architecture."
+  Geographic + visual anchor: "Saigon district 1 underground night,
+  neon-and-rain." Negatives explicitly block traditional Vietnamese
+  music, ca trù chamber, cải lương opera, bolero Vietnamese ballad,
+  mainstream Vietnamese pop, Mandarin pop — six adjacent failure modes
+  the Suno classifier could drift toward.
+
+  Title "Bay" (fly) — single Vietnamese word, 3 chars (4 with diacritic-
+  awareness), MEME-able, evocative of escape/freedom — fresh emotional
+  concept for the catalog. Avoids the over-represented "night" theme
+  (v272 Yalla, v274 Boliche, v275 Yue, v277 Yoru, v278 Gece all leaned
+  night-aesthetic). "Bay" is body-autonomy + flight + empowerment.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Mr. Siro, Sơn Tùng M-TP, Đen, Hoàng Thùy Linh, or
+  other V-pop/Vinahouse artist names in style field — preemptive removal
+  per the v274-v279 artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (v277/
+  v278/v279 data), the submitter MUST verify the Suno UI's vocal_gender
+  radio button matches the YAML (`female`) before clicking Create. The
+  default has been unpredictable across the last three cycles.
