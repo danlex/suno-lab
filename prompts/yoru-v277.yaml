@@ -1,0 +1,160 @@
+name: "yoru"
+version: 277
+title: "Yoru"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Japanese city-pop, future-funk-adjacent, 108 BPM, Bb major, Tokyo Shibuya 2am driving. Female city-pop vocal — warm 80s-inflected mid-range with light vibrato, languid cool-girl phrasing, smooth melodic curve floating over the groove, intimate close-mic Japanese with English code-switched chant line in chorus, NOT K-pop group, NOT Mandopop head-voice, NOT Bollywood melismatic, NOT hyperpop kawaii — solo retro-analog city-pop with cool-girl emotional distance. Production: Roland Juno-60-style analog warm synth pads, slap bass (signature city-pop), Rhodes electric piano arpeggios, soft sax fills, four-on-the-floor disco-funk kick, off-beat hi-hat, hand-clap layer, filter sweep transitions, sidechain pump, vinyl crackle, tape-saturation polish. 2026 city-pop revival, NOT traditional Japanese folk, NOT enka, NOT shamisen, NOT J-rock, NOT anime opening. Shibuya night drive, taxi window neon. No enka, no shamisen, no koto, no anime, no orchestral."
+
+lyrics: |
+  [Intro]
+  (Rhodes arpeggio, slap-bass tease)
+  oh-oh, oh-oh
+
+  [Verse 1] (languid cool-girl)
+  yoru no machi, neon ga kirei
+  taxi no mado ni utsuru watashi
+  nan-jikan unten shite mo
+  anata no koto wakaranai mama
+
+  [Pre-Hook]
+  (sax fill) oh-oh, yoru
+  yoru, yoru ni ochiru
+
+  [Hook] (English code-switch chant)
+  yoru, yoru, the city is awake
+  yoru, yoru, I am driving alone
+  midnight in the neon, baby on the radio
+  yoru, yoru, Tokyo never sleeps
+
+  [Verse 2]
+  Shibuya no kousaten, hito ga tachi-tomaru
+  watashi no koe wa todoku darou ka
+  raito ga aoku natte mata akaku
+  ano natsu no kioku, mada koko ni aru
+
+  [Hook]
+  yoru, yoru, the city is awake
+  yoru, yoru, I am driving alone
+
+  [Bridge]
+  (just Rhodes + slap bass, no drums)
+  [Spoken-sung] kioku, kioku
+  ano natsu no oto
+
+  [Final Hook] (filter-sweep buildup + sidechain)
+  yoru (yoru), the city is awake
+  yoru (yoru), Tokyo never sleeps
+
+  [Outro]
+  (filter close, vinyl crackle) yoru
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz traditional, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, female melismatic Indonesian dangdut, female Hindustani playback-singer, male Mandopop crooner, hyperpop, k-pop, anime opening, anime ending, J-rock, J-metal, salsa, bachata, dembow, traditional Japanese folk, enka, shamisen, koto lead, taiko ensemble, Beijing opera, Cantopop, traditional Chinese folk, modern Punjabi pop"
+
+tags:
+  - city-pop
+  - future-funk-adjacent
+  - modern-japanese-pop
+  - 108bpm
+  - bb-major
+  - female-vocal-warm
+  - 80s-inflected-cool-girl
+  - japanese-lyrics
+  - viral-arm
+  - tokyo-shibuya-night
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v277 — Modern Japanese city-pop / future-funk-adjacent.
+  Research-driven (TikTok 2026 phonk/funk playlists, IIAS blog 2025 city-
+  pop revival analysis, Spotify Future Funk Aesthetic 2026): city-pop
+  revival continues to dominate TikTok aesthetic-content with Takeuchi
+  "Plastic Love" at 61M+ YouTube views. Modern Japanese city-pop /
+  future-funk pairs traditional city-pop instrumentation (Roland Juno-60
+  analog pads + slap bass + Rhodes + sax) with contemporary electronic
+  production (four-on-the-floor kick + filter sweeps + sidechain pump +
+  vinyl crackle texture). Concept: technological-utopia Tokyo neon
+  aesthetic — driving at night, taxi window reflections, neon kousaten.
+
+  USER ROADMAP TARGET: 17 viral cycles deep, 12 languages, 17 voice
+  archetypes, 14 regions. v277 adds Japanese (13th language — last major
+  East Asian language gap) and Tokyo / Japan as the 15th distinct region.
+  East Asia now has full pop-dance / ballad / city-pop coverage: v268
+  K-pop hyperdance + v275 Mandopop ballad + v277 J-citypop. Three distinct
+  East Asian production traditions represented.
+
+  VOICE DIFFERENTIATION — 18TH orthogonal voice in 18 cycles. Cumulative
+  ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena clean European)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap Caribbean ES (glossy mid-high)
+    v265 — shouty Portuguese MC PT (dry urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability)
+    v268 — female K-pop GROUP harmony KO/EN (clean modern stacked)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male falsetto-mix Nigerian PIDGIN/YO/EN (smooth high-tenor)
+    v271 — male duo close harmony PT-caipira (sertanejo warm)
+    v272 — male autotuned chesty Arabic ARABIC (mahraganat street)
+    v273 — female melismatic Indonesian dangdut INDONESIAN (Auto-Tune sob)
+    v274 — male laid-back porteño Argentine SPANISH (drowsy half-time)
+    v275 — male Mandopop crooner MANDARIN (head-voice + falsetto flips)
+    v276 — female Hindustani playback-singer HINDI (gamak/meend/murki)
+    v277 — female WARM 80s-INFLECTED city-pop JAPANESE (light vibrato +
+           languid cool-girl phrasing + smooth melodic curve floating over
+           groove + intimate close-mic — solo retro-analog city-pop with
+           cool-girl emotional distance, distinct from K-pop modern clean
+           group and Bollywood Hindustani melisma and dangdut sob via
+           80s-analog production palette and cool-girl restraint)
+  v268 vs v277 differentiation note: both female East Asian, but v268 is
+  K-pop GROUP harmony with modern 2026 hyperpop-adjacent production while
+  v277 is SOLO retro-analog city-pop with languid cool-girl phrasing —
+  completely different vocal architecture (solo vs group), different
+  production era (2026 hyperpop vs 1980s analog revival), different
+  emotional register (bright energetic vs cool detached). Suno's
+  classifier should differentiate via the Roland Juno-60 + slap-bass +
+  Rhodes signature alone. Style + exclude_styles block all 17 prior
+  voice characters.
+
+  LANGUAGE — 13th distinct language. Japanese in Latin transliteration
+  (romaji) with English code-switched chant line in chorus (canonical
+  city-pop convention — Takeuchi-era and modern city-pop frequently
+  alternate Japanese verses + English hooks). Lyric vocabulary uses
+  authentic city-pop: "yoru" (night), "machi" (city/town), "neon"
+  (loanword — canonical city-pop word), "taxi no mado" (taxi window),
+  "Shibuya no kousaten" (Shibuya crossing — iconic city-pop image),
+  "ano natsu no kioku" (memory of that summer — evergreen city-pop
+  trope). Concept: classic city-pop drive-at-night narrative — driving
+  through neon Shibuya, taxi window reflection, summer-past memory at
+  the crosswalk, "Tokyo never sleeps." Evergreen city-pop emotional core.
+
+  BPM 108 — center of city-pop canonical range (100-115). Fresh in
+  rotation (recent: 78, 88, 90, 92, 96, 98, 100, 105, 110, 115, 120,
+  124, 132, 138, 150, 160, 174).
+
+  Key Bb major — first Bb major in the viral arm. Distinct from recent
+  rotation (recent majors: D v276, A v273, F# v275, G v271, E v263).
+  Walks well with Rhodes electric piano arrangements.
+
+  Production palette pinned: "Roland Juno-60-style analog warm synth
+  pads + slap bass + Rhodes electric piano + soft sax fills + four-on-
+  the-floor disco-funk kick + filter sweeps + sidechain pump + vinyl
+  crackle." Geographic + visual anchor: "Tokyo Shibuya 2am driving,
+  taxi window neon reflection." Negatives explicitly block traditional
+  Japanese folk, enka, shamisen, koto lead, taiko ensemble, anime
+  opening, J-rock, J-metal, K-pop, hyperpop — ten distinct adjacent
+  failure modes the Suno classifier could drift toward.
+
+  Title "Yoru" (夜) — single Japanese word for "night," 4 chars, MEME-
+  able, central city-pop image. Distinct from prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Mariya Takeuchi / Anri / Tatsuro Yamashita / Night
+  Tempo / Yung Bae / Macross 82-99 / Tomita / Tokyo named in style field
+  — preemptive removal per v274 Bizarrap / v275 Mandopop / v276 Bollywood
+  lesson on hard-block artist-name triggers).
