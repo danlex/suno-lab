@@ -1,0 +1,155 @@
+name: "or"
+version: 288
+title: "Or"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Israeli pop, Yam Tikhoni (Mediterranean) pop, Mizrahi-electronic fusion, 122 BPM, D minor, Tel Aviv Florentin 2am. Female Israeli pop vocal — chest-rich mid-range with Hebrew guttural consonants (ayin, het, resh trills), Mizrahi modal phrasing (Yemenite/Iraqi-Jewish ornament tradition), passionate emotional delivery, NOT Greek rebetiko, NOT Persian tahrir trill, NOT Arabic mahraganat shouting, NOT Türk trap — Israeli Mizrahi-pop signature with Hebrew guttural phonetics. Production: darbuka percussion overlay, oud atmospheric chord accents in Mizrahi-modal color, modern Mediterranean-electronic synth pads, four-on-the-floor pop kick, off-beat hi-hat, sliding 808 sub on drop, tambourine ring, electronic-pop polish. 2026 Yam Tikhoni / Mizrahi-pop, NOT traditional Israeli folk, NOT chazzanut, NOT klezmer, NOT Hasidic, NOT Eurovision kitsch. Tel Aviv Florentin, Mediterranean breeze. No klezmer, no chazzanut, no Hasidic pop, no orchestral."
+
+lyrics: |
+  [Intro]
+  (darbuka tease, oud chord)
+  ay-ay, or
+  or, or sheli
+
+  [Verse 1] (chest-rich Hebrew guttural)
+  shtaim ba'lila, Florentin yashan
+  rak ani vehaya'm shomrim al haShinayim
+  hatmuna shelach al hashulchan ahuv
+  shana avra, vehalev od mevakesh
+
+  [Pre-Hook]
+  (Mizrahi modal turn) ay-ay, or
+  or, or sheli
+
+  [Hook] (Mizrahi-modal passionate belt)
+  or, or, atah ha'or shel hayom
+  or, or, atah ha'or shel halayla
+  or, or, eich efshar lishkoach
+  or, or, eich efshar lischyot
+
+  [Verse 2]
+  cafeneto sgur, hama'arav zorech
+  hayam noger be'or hapanasim
+  ata yodea she'ani po
+  ve'ein li koach lehagid li shalom
+
+  [Hook]
+  or, or, atah ha'or shel hayom
+  or, or, atah ha'or shel halayla
+
+  [Bridge]
+  (oud solo, darbuka pulse)
+  [Spoken] or, or sheli
+  ay-ay, atah haver
+
+  [Final Hook] (full belt + 808 + darbuka)
+  or (or), atah ha'or shel hayom
+  or (or), eich efshar lishkoach
+
+  [Outro]
+  (darbuka fade) or
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty, male German sprechgesang, female V-pop husky whisper-belt, male Russian shouty distorted MC, male French banlieue rapper, female Thai Mor Lam Sing nasal, female Persian tahrir, female OPM warm sincere, male Polish trap, female Greek modal belt, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional Israeli folk, religious chazzanut, klezmer, Hasidic pop, Eurovision kitsch, IDF military songs"
+
+tags:
+  - modern-israeli-pop
+  - yam-tikhoni
+  - mizrahi-electronic-fusion
+  - 122bpm
+  - d-minor
+  - female-vocal-hebrew-guttural
+  - mizrahi-modal-phrasing
+  - hebrew-lyrics
+  - viral-arm
+  - tel-aviv-florentin-night
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v288 — Modern Israeli pop / Yam Tikhoni (Mediterranean)
+  pop / Mizrahi-electronic fusion. Research-driven (Wikipedia Noa Kirel,
+  Static & Ben El, Eden Hason TikTok 2026, Tablet Magazine Israeli pop
+  emuni 2026): contemporary Israeli pop blends Western pop production
+  with Mizrahi (Middle Eastern Jewish) melodic phrasing and Hebrew lyrics.
+  Static & Ben El's sound is defined as "fusion of contemporary electronic
+  production and classical Middle Eastern music." Noa Kirel exemplifies
+  contemporary Israeli chart pop. Eden Hason's "שמישהו יעצור אותי"
+  (Someone Stop Me) is currently TikTok-viral. The Yam Tikhoni
+  (Mediterranean) pop scene is the canonical Israeli production lane.
+
+  USER ROADMAP TARGET: 27 viral cycles deep, 22 languages, 28 voice
+  archetypes, 24 regions. v288 adds Hebrew (23rd language, 10M speakers
+  + global Jewish diaspora) and Tel Aviv (25th region — eastern
+  Mediterranean coast). Mediterranean now has FIVE distinct cycles:
+  v272 Cairo Arabic mahraganat + v278 Istanbul Türk trap + v284 Tehran
+  Persian tahrir + v287 Athens Greek trabetiko + v288 Tel Aviv Israeli
+  Yam Tikhoni. Five language families (Afro-Asiatic Semitic, Turkic,
+  Indo-European Iranian, Indo-European Hellenic, Afro-Asiatic Semitic
+  Hebrew) — comprehensive Mediterranean musical-cultural differentiation.
+
+  VOICE DIFFERENTIATION — 29TH orthogonal voice in 29 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v287: 28 prior voices spanning 22 languages
+    v288 — female ISRAELI MIZRAHI-POP CHEST-RICH HEBREW guttural HEBREW
+           (chest-rich Hebrew guttural consonants — ayin, het, resh trills
+           + Mizrahi modal melodic phrasing from Yemenite/Iraqi-Jewish
+           ornament tradition + passionate emotional delivery —
+           distinct from v287 Greek modal-belt via Hebrew guttural
+           phonetic character and Mizrahi ornament library)
+  Mediterranean female-vocal axis now has TWO distinct cycles: v284
+  Persian tahrir microtonal trill + v287 Greek rebetiko modal-belt +
+  v288 Israeli Mizrahi-pop chest-rich Hebrew-guttural. All three female
+  Mediterranean voices distinct on ornament-system axis. Style +
+  exclude_styles block all 28 prior voice characters.
+
+  LANGUAGE — 23rd distinct language. Hebrew (Latin transliteration —
+  Hebrew script exists but Latin transliteration is standard for
+  international audiences on TikTok). Lyric vocabulary uses authentic
+  Tel Aviv Mizrahi-pop Hebrew: "or" (light — iconic Hebrew word, used
+  as endearment), "shtaim ba'lila" (2am), "Florentin yashan" (Florentin
+  sleeps — Florentin is Tel Aviv's hip nightlife district), "haya'm"
+  (the sea), "haShinayim" (the moonlight on the sea), "shana avra"
+  (a year passed), "halev od mevakesh" (the heart still asks), "Spotify"
+  intentionally NOT used here, "hama'arav zorech" (the west shines —
+  Mediterranean sunset reference), "hayam noger be'or hapanasim" (the
+  sea barks at the streetlight light). Concept: classic Israeli
+  Mediterranean ballad — 2am Florentin sleeping, only me and the sea
+  watching the moonlight, year since you left, the café is closed, the
+  sea barks at the streetlight, "you're the light of the day, you're the
+  light of the night, how can I forget, how can I live." Evergreen Yam
+  Tikhoni emotional core.
+
+  BPM 122 — fresh in rotation (recent: 78-174 mostly covered; 122 is
+  unused). Mid-Yam-Tikhoni dance tempo.
+
+  Key D minor — first reuse of D minor since v280 (8 cycles ago).
+  Walks well with Mizrahi modal coloring (Hijaz/Bayati modal flavor on
+  D-base sounds canonically Mizrahi).
+
+  Production palette pinned: "darbuka percussion overlay + oud (Middle
+  Eastern lute) atmospheric chord accents in Mizrahi-modal color +
+  modern Mediterranean-electronic synth pads + four-on-the-floor pop
+  kick + off-beat hi-hat + sliding 808 sub + tambourine ring + electronic-
+  pop polish." Geographic + visual anchor: "Tel Aviv Florentin 2am,
+  Mediterranean sea breeze." Negatives explicitly block traditional
+  Israeli folk, religious chazzanut, klezmer, Hasidic pop, Eurovision
+  kitsch, IDF military songs — six adjacent failure modes Suno's
+  classifier could drift toward.
+
+  Title "Or" (אור, light) — single Hebrew word, 2 chars, MEME-able,
+  iconic Hebrew concept (used as a name AND as endearment AND as the
+  word for "light"). Distinct from prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Noa Kirel, Static & Ben El, Eden Hason, Stéphane
+  Legar, Eden Ben Zaken, Ofra Haza, Sarit Hadad, or other Israeli pop
+  artist names in style field — preemptive removal per v274-v287
+  artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (11-cycle
+  data, 73% correction rate, defaults unpredictable in both directions),
+  submitter MUST verify Suno UI vocal_gender radio matches YAML
+  (`female`) before Create. No predictive model.

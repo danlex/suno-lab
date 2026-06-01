@@ -1,6 +1,6 @@
 {
-  "total_prompts": 286,
-  "latest_version": 286,
+  "total_prompts": 287,
+  "latest_version": 287,
   "instruments": {
     "piano": [
       1,
@@ -994,23 +994,27 @@
       251,
       257
     ],
+    "trap": [
+      264,
+      274,
+      278,
+      286,
+      287
+    ],
     "chamber": [
-      191,
       192,
       203,
       252,
       255
     ],
-    "trap": [
-      264,
-      274,
-      278,
-      286
-    ],
     "house": [
       242,
       261,
       280
+    ],
+    "baroque": [
+      188,
+      191
     ],
     "passacaglia": [
       111,
@@ -1028,9 +1032,6 @@
     ],
     "amapiano": [
       266
-    ],
-    "baroque": [
-      188
     ],
     "drill": [
       282
@@ -1116,7 +1117,8 @@
       192,
       196,
       226,
-      266
+      266,
+      287
     ],
     "e minor": [
       11,
@@ -1654,7 +1656,8 @@
       266
     ],
     "116": [
-      127
+      127,
+      287
     ],
     "117": [
       140
@@ -1853,6 +1856,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 287,
+      "title": "Kardia",
+      "name": "kardia",
+      "featured": [],
+      "genre": "trap",
+      "key": "c minor",
+      "bpm": 116
+    },
     {
       "version": 286,
       "title": "Sen",
@@ -2963,7 +2975,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },

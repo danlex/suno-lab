@@ -332,6 +332,7 @@ mindmap
 | 285 | Hangin | Modern OPM ballad / Filipino indie-pop viral cycle - female warm sincere chesty with Tagalog phonetics | E major | 86 | acoustic guitar fingerpicking + electric piano pad + kulintang gong-chime |
 | 286 | Sen | Modern Polish rap / polski rap trap viral cycle - male chesty Warsaw with Slavic sibilant phonetics | F# minor | 104 | Polish trap drum kit + sliding 808 sub + piano sample loop |
 | 287 | Kardia | Modern Greek pop / trabetiko (rebetiko-trap fusion) viral cycle - female chest-rich Greek modal belt with bouzouki | C minor | 116 | bouzouki + baglamas + trap drum kit with 808 sub |
+| 288 | Or | Modern Israeli pop / Yam Tikhoni / Mizrahi-electronic fusion viral cycle - female chest-rich Hebrew guttural with Mizrahi modal ornaments | D minor | 122 | darbuka percussion overlay + oud atmospheric + Mediterranean electronic synth pads |
 
 ## Next-cycle priorities
 
