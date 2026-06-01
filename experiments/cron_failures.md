@@ -17,6 +17,8 @@ Retry attempt 4 (2026-06-01, next cron fire): same disconnect state — same two
 
 Retry attempt 5 (2026-06-01, next cron fire): same disconnect state — same two tabs. YAML unchanged. Exited per constraint 4. v266 still not drafted.
 
+RESOLVED (2026-06-01): User reconnected the Chrome bridge to a suno.com tab and triggered a manual retry. v265 submitted + both clips published: 3639f9b3-e042-4356-9cfb-c28b3295cab5 (2:07) and 103106a9-1a7d-4f7d-9451-1535b0e0f2a5 (2:00). Suno classified as `funk carioca, baile funk, street rap` — no drift. Closed out via `finish_cycle.py --version 265`.
+
 ## 2026-04-13 — v131 failed at submit
 
 Reason: Chrome MCP extension disconnected. `open -a "Google Chrome" https://claude.ai` attempted, extension still not connected on retry.
