@@ -1,0 +1,167 @@
+name: "hugr"
+version: 290
+title: "Hugr"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Nordic neo-folk-pop, Viking-era ritualistic chant ensemble, 84 BPM, E minor → F minor half-step climax modulation, fjord cliff dawn ritual circa 900 AD modern production. Dual vocal: male battle-roar chant choir (4+ voice stack, chest-rich Old Norse guttural skaldic delivery) + female overtone-clear soprano descant above on climax. Production: frame drums (bodhrán tribal pulse), lurs (Viking horns long low calls), carnyx blasts on climax, tagelharpa drone, hardanger fiddle pad, halldorophone overtone, distant cathedral organ, sub-bass, 808 on drop, wide cinematic stereo. ARC: 0:00 hushed whisper-drone, 0:35 frame drums, 1:00 choir builds, 1:40 four-second silence, 1:44 climax with full choir + female descant + half-step up + drum drop, sustain to 3:00. Dynamic range 18 dB whisper-to-climax. Iron-Age ritual lineage. NOT power metal, NOT Eurovision kitsch, NOT trance EDM."
+
+lyrics: |
+  [Intro] (hushed whisper-drone, 0:00-0:35)
+  (male whispered) hugr... hugr...
+  (female overtone clear, distant) ah... ah...
+
+  [Verse 1] (male choir enters quiet, 0:35-1:00)
+  hugr minn, hugr minn í myrkri
+  á fjall, á sjá, á hjarta míns
+  ek heyrir vind, ek heyrir bárur
+  ek heyrir hugr inn fyrir mér
+
+  [Build] (drum + choir crescendo, 1:00-1:40)
+  hugr! hugr! hugr! hugr!
+  (female overtone soaring above) aaaah aaaah
+  hugr! hugr! hugr! hugr!
+
+  [Silence] (1:40-1:44 — 4 SECONDS DEAD SILENCE — frisson gate)
+
+  [Climax Hook] (1:44 — full choir + female descant + half-step up + drum drop)
+  HUGR! HUGR! eldr í brjósti
+  HUGR! HUGR! draumr í augum
+  HUGR! HUGR! Óðinn vakir
+  HUGR! HUGR! ek lifi enn
+
+  [Verse 2] (sustained, 2:20-2:40)
+  þrúðr ok þróttr, megin ok hugr
+  ek geng yfir fjall, yfir sjá
+  hugr minn er eldr, hugr minn er steinn
+
+  [Final Hook] (full peak, 2:40-3:00)
+  HUGR! HUGR! eldr í brjósti
+  HUGR! HUGR! ek lifi enn
+
+  [Outro] (frame drum + overtone fade, 3:00)
+  hugr... hugr...
+  (female overtone fade) ah...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, male Russian shouty distorted MC, male French banlieue rapper, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, viking power metal, viking hair-metal, Eurovision Nordic kitsch, trance EDM, generic medieval RPG soundtrack, Celtic kitsch"
+
+tags:
+  - nordic-neo-folk-pop
+  - viking-era-ritualistic
+  - frisson-engineered
+  - dopamine-peak-architecture
+  - 84bpm
+  - e-minor
+  - male-battle-roar-choir
+  - female-overtone-descant
+  - old-norse-icelandic-lyrics
+  - viral-arm
+  - fjord-cliff-dawn-ritual
+  - silence-before-climax
+  - half-step-modulation
+  - dual-gender-vocal-architecture
+  - new-technique
+  - research-driven
+  - user-directive-vikings-brain-dopamine
+
+notes: |
+  VIRAL ARM cycle v290 — USER DIRECTIVE PIVOT: "make vikings music" +
+  "brain dopamine" (2026-06-01). After 29 cycles of language-expansion
+  strategy, user requested a Viking/Norse cycle engineered specifically
+  for brain-dopamine response (frisson triggers). This cycle reapplies
+  the cinematic-arm playbook's #1 frisson stack (silence-before-climax
+  + half-step modulation + tribal-drum-drop + chant-choir + dynamic-range
+  contrast) within a Nordic neo-folk-pop genre frame.
+
+  Research-driven (Northlord Viking Music 2026, A Blaze Ansuz Nordic
+  Folk, TikTok #nordic content): Modern Nordic neo-folk-pop is
+  TikTok-viable via Wardruna (Einar Selvik's runic-poetic project),
+  Heilung (Iron-Age ritualistic ensemble), Danheim (beat-driven dark
+  folk Viking). "Helvegen" (Wardruna) is the canonical TikTok-viral
+  Nordic neo-folk track. The genre's appeal is precisely its frisson-
+  engineering — trance rhythms + ritual framing + dynamic-range build
+  + chant-stack climax + Iron-Age vocal traditions.
+
+  USER ROADMAP: 30 viral cycles deep, 24 languages, 30 voice
+  archetypes, 26 regions. **v290 PIVOTS from language-expansion to
+  frisson-maximization.** Old Norse / Icelandic is the 25th language;
+  Scandinavia (fjord-cliff Iron-Age) is the 27th region.
+
+  VOICE DIFFERENTIATION — 31ST orthogonal voice in 31 cycles, and the
+  **FIRST DUAL-GENDER VOCAL ARCHITECTURE** in the catalog. Cumulative
+  ledger (abbreviated):
+    v260-v289: 30 prior voices spanning 24 languages, all solo or
+    single-gender-group (v268 K-pop female group, v271 sertanejo male
+    duo, v283 Mor Lam call-response — but all single-gender)
+    v290 — DUAL-GENDER STACKED ARCHITECTURE: male battle-roar chant choir
+           (4+ voices, chest-rich Old Norse) + female overtone-clear
+           soprano descant floating above — this is the FIRST cross-gender
+           layered vocal architecture in the catalog. Genuinely new axis.
+  Style + exclude_styles block all 30 prior voice characters.
+
+  LANGUAGE — 25th distinct language. Old Norse / Icelandic
+  transliteration. Lyric vocabulary uses authentic Old Norse / skaldic
+  kennings: "hugr" (mind/thought/courage — the central word, also a
+  pun on the brain-dopamine directive), "myrkri" (in darkness), "fjall"
+  (mountain), "sjá" (sea), "bárur" (waves), "eldr í brjósti" (fire in
+  the chest), "draumr í augum" (dream in the eyes), "Óðinn vakir"
+  (Odin watches), "ek lifi enn" (I still live), "þrúðr ok þróttr"
+  (strength and might), "megin ok hugr" (power and courage), "fjall
+  ok sjá" (mountain and sea), "eldr... steinn" (fire... stone — kenning
+  pair). Concept: classic Norse ritualistic self-affirmation — the
+  hugr (mind/courage) standing alone on the fjord cliff, hearing wind
+  and waves, building from quiet to full ritual cry "I still live."
+  Evergreen Norse-warrior emotional-affirmation core.
+
+  BPM 84 — slow tribal trance tempo, fresh in rotation. Slower than any
+  prior viral-arm cycle except v275 Mandopop (78). The slow tempo is
+  load-bearing for the silence-before-climax + dynamic-range frisson
+  architecture.
+
+  Key E minor → F minor (half-step modulation at climax) — first use
+  of explicit key-modulation in the viral arm (the cinematic playbook
+  trademark). E minor is fresh since v269 (21 cycles ago).
+
+  Production palette pinned to Nordic neo-folk lineage: "frame drums
+  (bodhrán deep tribal pulse) + lurs (Viking horns long low calls) +
+  carnyx blasts on climax + tagelharpa drone + hardanger fiddle pad +
+  halldorophone overtone drone + distant cathedral organ + modern sub
+  bass + 808 layered with bodhrán + vinyl crackle + cinematic stereo."
+  Geographic + visual anchor: "fjord cliff dawn ritual circa 900 AD
+  modern production."
+
+  **FRISSON / BRAIN-DOPAMINE ARCHITECTURE** (explicit in style field —
+  this is the load-bearing innovation of v290):
+  - 0:00-0:35 hushed whisper-drone (whisper baseline)
+  - 0:35-1:00 frame drums enter (tribal entry)
+  - 1:00-1:40 male choir chant builds + female overtone soars above
+    (build to peak)
+  - **1:40-1:44 FOUR SECONDS DEAD SILENCE** (the frisson gate — the
+    silence-before-climax is the #1 frisson trigger in the playbook)
+  - 1:44 EXPLOSIVE CLIMAX (full choir + female descant + half-step
+    modulation E minor → F minor + tribal-drum-drop + 808 entry)
+  - 2:20-3:00 sustained climax energy + final hook
+  - Dynamic range 18 dB whisper-to-climax (cinematic mix discipline,
+    not pop mastering — this is what makes the dopamine peak hit)
+
+  Negatives explicitly block viking power metal, viking hair-metal,
+  Eurovision Nordic kitsch, trance EDM, generic medieval RPG soundtrack,
+  Celtic kitsch — six adjacent failure modes the Suno classifier could
+  drift toward.
+
+  Title "Hugr" — Old Norse for "mind, thought, courage." Double meaning
+  intentional: it's both the Viking warrior concept (the "hugr" was
+  one of four spirit-aspects in Old Norse cosmology, the conscious mind)
+  AND the user's brain-dopamine directive (mind = brain). 4 chars
+  including the diacritic, MEME-able, distinct from prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Wardruna, Einar Selvik, Heilung, Danheim, Aino
+  Norrintytär, or other Nordic neo-folk artist names in style field —
+  preemptive removal per v274-v289 artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (13-cycle
+  data, 69% correction rate), submitter MUST verify Suno UI vocal_gender
+  matches YAML (`male`) before Create. Female overtone layer is prompted
+  via lyrics/style only, since UI is single-select.
