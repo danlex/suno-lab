@@ -1,0 +1,155 @@
+name: "cite"
+version: 282
+title: "Cité"
+instrumental: false
+vocal_gender: male
+
+style: "French drill, rap français, banlieue trap, 95 BPM, G minor, Paris 93 banlieue 4am. Male French banlieue rapper — chesty mid-low rough Paris-banlieue accent flow, deadpan-menace with French argot and verlan slang, light Auto-Tune on hooks only, conversational drill-rap flow, NOT husky French contralto chanson, NOT Argentine porteño, NOT Türk trap melismatic, NOT Mandopop — distinctly French banlieue drill rapper with rough Parisian-suburb phonetic character. Production: minimalist French drill kit, sliding 808 sub (UK-drill-influenced), subtle piano sample loop, trap hi-hat triplet rolls, sharp clap, low cathedral pad pulse, vinyl crackle, hard saturation. 2026 Paris 93/94/95 suburb tradition, NOT mainstream French radio rap, NOT French chanson, NOT raï Algerian, NOT French electronic, NOT US Memphis phonk. Tower-block 4am, concrete-and-fog. No chanson, no raï, no orchestral."
+
+lyrics: |
+  [Intro]
+  (piano sample loop, 808 slide) eh, eh
+  ouais, ouais
+
+  [Verse 1] (chesty deadpan banlieue)
+  quatre heures, la cité dort pas
+  les vieux dorment, les jeunes traînent
+  j'ai grandi entre les tours, béton est ma mère
+  les rêves trop loin, quartier trop proche
+
+  [Pre-Hook]
+  eh-eh, la cité
+  ouais-ouais, la cité
+
+  [Hook] (drill-rap)
+  la cité, c'est ma vie
+  la cité, c'est mon sang
+  la cité, je ne pars pas
+  la cité, c'est ma famille
+
+  [Verse 2]
+  RER B vers Paris, le matin je remonte
+  costume sur l'épaule, le code switch
+  ils me regardent, ils ne savent pas
+  je rentre le soir, le 93 me rappelle
+
+  [Hook]
+  la cité, c'est ma vie
+  la cité, c'est ma famille
+
+  [Bridge]
+  (piano loop, drums drop)
+  [Spoken] le 93 reste le 93
+  la cité reste la cité
+
+  [Final Hook] (808 + Auto-Tune)
+  la cité (la cité), c'est ma vie
+  la cité (la cité), c'est mon sang
+
+  [Outro]
+  (808 fade) la cité
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto chanson, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, English Memphis drift phonk whisper, Russian shouty distorted MC, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty Anatolian, male German sprechgesang deadpan, female V-pop husky whisper-belt, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, French chanson, raï Algerian, French electronic house, mainstream French radio pop, French ye-ye"
+
+tags:
+  - french-drill
+  - rap-francais
+  - banlieue-trap
+  - 95bpm
+  - g-minor
+  - male-vocal-chesty-banlieue
+  - french-argot-verlan
+  - french-lyrics
+  - viral-arm
+  - paris-93-banlieue
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v282 — French drill / rap français / banlieue trap.
+  Research-driven (Spotify Rap Français Viral 2026, TikTok 2026 French
+  drill content, Tunebat/SongBPM data on Werenoi/Ninho/Gazo): French
+  rap is actively trending on TikTok in 2026 with 193+ viral tracks in
+  curated playlists. Werenoi, Ninho, Gazo lead the modern banlieue
+  drill scene at 90-121 BPM in minor keys. Production: minimalist drill
+  drums + subtle piano sample loop + sliding 808 sub + UK-drill-
+  influenced hi-hat triplets. Shuriken Music collective (Guishkow,
+  Lewis, YaPas2) drives the production sound — minimalist hard-hitting
+  instrumentals built around subtle piano samples.
+
+  USER ROADMAP TARGET: 21 viral cycles deep, 17 languages, 22 voice
+  archetypes, 19 regions. v282 adds Paris banlieue (the 93/94/95
+  Île-de-France suburbs — distinct sub-region from v262 Paris-chanson)
+  as a new sub-region within the French-language family. Now French has
+  TWO distinct sub-regional cycles: v262 intimate Paris chanson (Pigalle
+  / Marais / central Paris) + v282 Paris 93 banlieue drill rap. Same
+  language, opposite cultural pole within the country.
+
+  VOICE DIFFERENTIATION — 23RD orthogonal voice in 23 cycles. Cumulative
+  ledger (abbreviated — full list in prior cycles):
+    v260-v281: 22 prior voices spanning 17 languages
+    v282 — male CHESTY ROUGH BANLIEUE FRENCH (mid-low chesty rough
+           Paris-banlieue accent + deadpan-menace delivery + characteristic
+           argot/verlan + light Auto-Tune on hooks only + conversational
+           drill-rap flow — fundamentally different vocal philosophy from
+           v262's husky female chanson, even though both are French)
+  v262 vs v282 differentiation note: both French, but v262 is FEMALE
+  husky contralto intimate close-mic chanson at 96 BPM in D minor with
+  Rhodes-electric-piano sparse production, while v282 is MALE chesty
+  banlieue drill-rap at 95 BPM in G minor with 808-sliding-sub + drill-
+  hi-hat + piano-loop production. Same language, completely orthogonal
+  on every other axis (gender, register, accent, production tradition,
+  cultural pole within France). Style + exclude_styles block all 22
+  prior voice characters explicitly including v262's "husky low
+  contralto chanson."
+
+  LANGUAGE — French (the 18th cycle in the catalog using French, but
+  the second sub-regional French — Paris central chanson v262 vs Paris
+  banlieue drill v282). Lyric vocabulary uses authentic banlieue rap
+  argot/verlan: "la cité" (the housing project), "les tours" (the
+  tower blocks), "le béton est ma mère" (concrete is my mother — iconic
+  banlieue trope), "le quartier" (the neighborhood), "RER B" (the
+  Parisian commuter rail line that connects banlieue to central Paris),
+  "le code switch commence" (code switching begins — the diaspora /
+  banlieue-to-Paris commute experience), "le 93" / "le 94" (Seine-
+  Saint-Denis + Val-de-Marne, the two iconic banlieue départements).
+  Concept: classic banlieue narrative — 4am, the cité doesn't sleep,
+  grew up between the towers, RER B to Paris in the morning, code
+  switch, "they look at me, they don't know where I'm from," return at
+  night, "le 93 reste le 93." Evergreen banlieue identity-and-loyalty
+  emotional core.
+
+  BPM 95 — fresh in rotation (recent: 78, 88, 90, 92, 96, 98, 100, 105,
+  108, 110, 115, 120, 124, 128, 132, 138, 140, 144, 150, 155, 160, 174).
+  Mid-French-rap canonical tempo. Close to v274 Argentine porteño (98)
+  but completely different groove (banlieue drill vs RKT).
+
+  Key G minor — first reuse of G minor since v265 (17 cycles ago).
+  Walks well with the cathedral-organ-pad + piano-sample-loop drill
+  palette.
+
+  Production palette pinned: "minimalist French drill drum kit +
+  sliding 808 sub (UK-drill-influenced) + subtle piano sample loop +
+  trap hi-hat triplet rolls + sharp clap + low cathedral pad pulse +
+  vinyl crackle + hard saturation." Geographic + visual anchor: "Paris
+  93 / 94 / 95 suburb tower-block 4am, concrete-and-fog." Negatives
+  explicitly block French chanson (the v262 neighbor), raï Algerian,
+  French electronic house, mainstream French radio pop, French ye-ye —
+  five adjacent failure modes the Suno classifier could drift toward.
+
+  Title "Cité" — single French word for the banlieue housing project,
+  4 chars (5 with diacritic), MEME-able, iconic banlieue rap word.
+  Distinct from prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Werenoi, Ninho, Gazo, Damso, Booba, Kaaris, PNL,
+  Aya Nakamura, SCH, SDM, Hamza, Maes, or other French-rap artist
+  names in style field — preemptive removal per the v274-v281 artist-
+  trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (5-cycle
+  data, 80% correction rate, v281 introduced new "neither selected"
+  failure mode), the submitter MUST verify Suno UI vocal_gender radio
+  matches YAML (`male`) before Create.

@@ -1006,13 +1006,13 @@
       274,
       278
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "passacaglia": [
       111,
       202
-    ],
-    "romantic": [
-      145,
-      149
     ],
     "2-step garage": [
       100
@@ -3336,7 +3336,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3372,7 +3372,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
