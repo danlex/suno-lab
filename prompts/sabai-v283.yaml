@@ -1,0 +1,153 @@
+name: "sabai"
+version: 283
+title: "Sabai"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Mor Lam Sing, Thai-Isan dance pop, 145 BPM, B minor, Khon Kaen night market 8pm. Female Mor Lam Sing vocal — bright nasal melismatic belt with Thai-Isan 5-tone modal glissandos, rapid lam-tang ornaments, Thai tonal-language inflections, party-energetic delivery, NOT Vietnamese husky whisper-belt, NOT Indonesian dangdut sob, NOT Mandopop head-voice, NOT Bollywood Hindustani — Mor Lam Sing Isan signature with khaen-modal ornamentation. Production: khaen (Isan mouth organ) riffs over phin (Isan lute) melodic interplay, modern Thai-pop drum kit, electric bass walking, keyboard modal pad, rapid interlocking ostinatos, luk-thung-style country-Thai pop accent, vinyl crackle, party-bright mix. 2026 Mor Lam Sing modern dance, NOT mainstream Thai pop, NOT classical Thai, NOT luk thung slow ballad, NOT piphat ensemble. Khon Kaen night market. No piphat, no classical Thai, no orchestral."
+
+lyrics: |
+  [Intro]
+  (khaen + phin riff, drum kit drops in)
+  oi-oi, hae-hae
+  sabai, sabai
+
+  [Verse 1] (rapid melismatic Mor Lam Sing)
+  klang kheun mae ja pai nai
+  Khon Kaen yang ow yu sanook
+  pueng dern ma jak Bangkok
+  raw mai mee kwam khit reuang yang nai
+
+  [Pre-Hook]
+  (khaen-modal melisma) oi-oi, sabai
+  hae-hae, sabai sabai
+
+  [Hook] (party belt + Isan ornaments)
+  sabai, sabai, kheun nee sabai
+  sabai, sabai, dance yang sanook
+  sabai, sabai, mai mee panha
+  sabai, sabai, Khon Kaen baan rao
+
+  [Verse 2]
+  som tam ped ped, beer yen yen
+  pueng dance, raw rong, mai pen rai
+  phin ti, khaen mua, jangwah Isan
+  raw mai mai jam pen krai
+
+  [Hook]
+  sabai, sabai, kheun nee sabai
+  sabai, sabai, Khon Kaen baan rao
+
+  [Bridge]
+  (phin solo, drums drop)
+  [Spoken] oi-oi, sabai dee
+  hae, hae, Mor Lam Sing
+
+  [Final Hook] (full party stack + khaen)
+  sabai (sabai), kheun nee sabai
+  sabai (sabai), Khon Kaen baan rao
+
+  [Outro]
+  (khaen fade) sabai
+  [End]
+
+exclude_styles: "happy mainstream pop, country Western, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty Anatolian, male German sprechgesang deadpan, female V-pop husky whisper-belt Vinahouse, male Russian shouty distorted MC, male French banlieue rapper, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional classical Thai, piphat ensemble, luk thung slow ballad, mainstream Thai pop, Cambodian khmer pop"
+
+tags:
+  - mor-lam-sing
+  - thai-isan-dance-pop
+  - modern-mor-lam
+  - 145bpm
+  - b-minor
+  - female-vocal-nasal-melismatic
+  - thai-5-tone-glissando
+  - thai-lyrics
+  - viral-arm
+  - khon-kaen-night-market
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v283 — Modern Mor Lam Sing / Thai-Isan dance pop.
+  Research-driven (Melodigging Mor Lam Sing, Thailand Foundation,
+  BucketListly): Mor Lam Sing is the high-energy dance variant of
+  traditional Mor Lam (Isan northeastern Thai folk-pop). Canonical
+  130-160 BPM, signature khaen (mouth organ) + phin (Isan lute) riffs
+  over modern band arrangement (drum kit, electric bass, keys). Rapid
+  improvisational melismatic vocal with traditional lam-tang ornaments.
+  Lamyai Haithongkham is the canonical contemporary Mor Lam Sing artist
+  with active TikTok presence. "Sing" in the genre name means
+  speed/dance-driven format.
+
+  USER ROADMAP TARGET: 22 viral cycles deep, 17 languages, 23 voice
+  archetypes, 19 regions. v283 adds Thai (18th language, 60M speakers)
+  and Khon Kaen / Isan / Thailand as the 20th distinct region. SE Asia
+  now has THREE distinct cycles: v273 Indonesian dangdut (Surabaya,
+  pelog scale, sob ballad) + v280 Vietnamese Vinahouse (Saigon, six-
+  tone husky whisper-belt) + v283 Thai Mor Lam Sing (Khon Kaen, Isan
+  5-tone modal melismatic). Three distinct SE Asian music traditions
+  represented — different tonal systems, different ornament libraries,
+  different production traditions.
+
+  VOICE DIFFERENTIATION — 24TH orthogonal voice in 24 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v282: 23 prior voices spanning 17 languages
+    v283 — female THAI MOR LAM SING NASAL MELISMATIC THAI (bright nasal
+           melismatic belt + Isan 5-tone modal glissandos + rapid lam-tang
+           ornaments + Thai tonal-language inflections + party-energetic
+           dance delivery — Mor Lam Sing Isan signature distinct from
+           prior female melismatic voices via 5-tone modal system + lam-
+           tang ornament library)
+  v273 vs v280 vs v283 female-SE-Asian-melismatic differentiation note:
+  three female SE Asian voices now, all distinct on melodic-system axis —
+  v273 Indonesian dangdut (pelog scale, cengkok ornaments, Auto-Tune sob),
+  v280 Vietnamese Vinahouse (six-tone husky whisper-belt, electronic club),
+  v283 Thai Mor Lam Sing (5-tone modal, lam-tang ornaments, khaen-phin
+  acoustic-modern fusion). Style + exclude_styles block all 23 prior
+  voice characters.
+
+  LANGUAGE — 18th distinct language. Thai (Latin transliteration —
+  Thai script is hard for Suno's classifier; Thai pop on TikTok often
+  uses Latin transliteration). Lyric vocabulary uses authentic Mor Lam
+  Sing: "sabai" (relaxed/well — iconic Thai concept), "kheun nee"
+  (tonight), "Khon Kaen" (the Isan provincial capital — Mor Lam Sing
+  epicenter), "som tam ped ped" (spicy papaya salad), "beer yen yen"
+  (cold beer), "phin ti, khaen mua" (phin plays, khaen drums), "jangwah
+  Isan" (Isan rhythm), "mai pen rai" (no problem — iconic Thai phrase),
+  "baan rao" (our home). Concept: classic Mor Lam Sing dance-floor
+  narrative — middle of the night, Khon Kaen still party, friends from
+  Bangkok visiting, papaya salad and beer, phin and khaen playing,
+  "tonight is sabai, no problems, Khon Kaen is our home." Evergreen
+  Isan party-and-pride emotional core.
+
+  BPM 145 — fresh in rotation. Within Mor Lam Sing canonical 130-160
+  range. Distinct from v265 funk carioca (150), v260 drift phonk (138).
+
+  Key B minor — first reuse of B minor since v268 (15 cycles ago).
+  Walks well with khaen modal color (the khaen has a fixed pentatonic
+  drone that pairs cleanly with minor-key Western pop).
+
+  Production palette pinned: "signature khaen (Isan mouth organ) riffs
+  + phin (Isan three-string lute) melodic interplay + modern Thai-pop
+  drum kit + electric bass walking + keyboard modal pad + rapid
+  interlocking percussive ostinatos + luk-thung-Thai-country-pop accent
+  + vinyl crackle + party-bright mix." Geographic + visual anchor:
+  "Khon Kaen night market party." Negatives explicitly block piphat
+  ensemble, classical Thai, luk thung slow ballad, mainstream Thai pop,
+  Cambodian khmer pop — five adjacent failure modes the Suno classifier
+  could drift toward.
+
+  Title "Sabai" — single Thai word for relaxed/well/contentment, 5
+  chars, MEME-able (internationally recognizable Thai concept), iconic
+  Thai dance-pop emotional register.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Lamyai Haithongkham, Bonnadol, Phatcharaphol, Lao
+  Sing, Sumeth, or other Mor Lam Sing artist names in style field —
+  preemptive removal per the v274-v282 artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (6-cycle
+  data, 83% correction rate, "neither selected" is now the dominant
+  failure mode), submitter MUST verify Suno UI vocal_gender radio
+  matches YAML (`female`) before Create.

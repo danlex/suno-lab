@@ -1,6 +1,6 @@
 {
-  "total_prompts": 281,
-  "latest_version": 281,
+  "total_prompts": 282,
+  "latest_version": 282,
   "instruments": {
     "piano": [
       1,
@@ -60,7 +60,8 @@
       269,
       270,
       275,
-      277
+      277,
+      282
     ],
     "organ": [
       1,
@@ -982,9 +983,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257
@@ -1014,6 +1013,10 @@
       111,
       202
     ],
+    "symphonic": [
+      162,
+      178
+    ],
     "2-step garage": [
       100
     ],
@@ -1025,6 +1028,9 @@
     ],
     "baroque": [
       188
+    ],
+    "drill": [
+      282
     ],
     "minimalist": [
       201
@@ -1174,7 +1180,8 @@
       204,
       205,
       250,
-      265
+      265,
+      282
     ],
     "b minor": [
       76,
@@ -1559,7 +1566,8 @@
     "95": [
       60,
       107,
-      118
+      118,
+      282
     ],
     "96": [
       91,
@@ -1834,6 +1842,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 282,
+      "title": "Cité",
+      "name": "cite",
+      "featured": [],
+      "genre": "drill",
+      "key": "g minor",
+      "bpm": 95
+    },
     {
       "version": 281,
       "title": "Tma",
@@ -3064,7 +3081,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3215,7 +3232,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
