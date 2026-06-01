@@ -1,0 +1,157 @@
+name: "kardia"
+version: 287
+title: "Kardia"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Greek pop, trabetiko (rebetiko-trap fusion), 116 BPM, C minor, Athens Exarcheia 2am. Female Greek pop vocal — chest-rich Mediterranean modal belt with Greek rebetiko phrasing, passionate emotional delivery, vowel-rich Greek pronunciation, klisma-style modal turns, NOT Persian tahrir trill, NOT Arabic mahraganat shouting, NOT Türk trap melismatic, NOT Bollywood — Greek-modal passionate-belt signature with rebetiko phrasing. Production: bouzouki (Greek lute) melodic riffs intertwined with modern trap kit, sliding 808 on the drop, soft baglamas atmospheric accent, taverna acoustic-guitar fingerpicking, trap hi-hat triplets, sharp clap, modal-minor pad in Phrygian color, vinyl crackle. 2026 trabetiko Athens, NOT mainstream Greek radio pop, NOT traditional rebetiko folk, NOT laiko, NOT Greek wedding kitsch. Athens Exarcheia 2am. No traditional rebetiko solo, no laiko, no orchestral."
+
+lyrics: |
+  [Intro]
+  (bouzouki riff, trap kick drops in)
+  ah, ah-ah
+  kardia mou, kardia mou
+
+  [Verse 1] (passionate modal belt)
+  Athina nichta, Exarcheia kai vrochi
+  meno mono sto kafenio
+  to fos sto parathiro tou diplanou ktiriou
+  pou itan to spiti sou prin dyo chronia
+
+  [Pre-Hook]
+  (klisma melodic turn) oh-oh, kardia
+  ah-ah, kardia mou
+
+  [Hook] (Greek modal belt + rebetiko phrasing)
+  kardia, kardia, esi pou edrames
+  kardia, kardia, esi pou eklepses
+  kardia, kardia, pos eisai akoma
+  kardia, kardia, edo perimeno
+
+  [Verse 2]
+  kafedaki krio, tsigaro stou trapeziou
+  Spotify pezei to tragoudi mas akomi
+  pisteyo akoma pos tha gyriseis
+  Athina geri, ego den gernao
+
+  [Hook]
+  kardia, kardia, esi pou edrames
+  kardia, kardia, edo perimeno
+
+  [Bridge]
+  (bouzouki solo, drums drop)
+  [Spoken] kardia mou, kardia mou
+  ah, edo perimeno akoma
+
+  [Final Hook] (bouzouki + 808 + passionate belt)
+  kardia (kardia), esi pou edrames
+  kardia (kardia), edo perimeno
+
+  [Outro]
+  (bouzouki fade) kardia
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap, male German sprechgesang, female V-pop husky whisper-belt, male Russian shouty distorted MC, male French banlieue rapper, female Thai Mor Lam Sing nasal, female Persian tahrir, female OPM warm sincere, male Polish trap, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional rebetiko folk solo, laiko, Greek wedding kitsch, syrtaki tourist, mainstream Greek radio pop"
+
+tags:
+  - modern-greek-pop
+  - trabetiko
+  - rebetiko-trap-fusion
+  - 116bpm
+  - c-minor
+  - female-vocal-modal-belt
+  - greek-rebetiko-phrasing
+  - greek-lyrics
+  - viral-arm
+  - athens-exarcheia-night
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v287 — Modern Greek pop / trabetiko (rebetiko + trap
+  fusion). Research-driven (Wikipedia Rebetiko, Bandcamp Daily Modern
+  Rebetiko 2026, TikTok 2026 Greek viral playlists): "Trabetiko" is the
+  contemporary Greek genre-fusion pioneered by Negros Tou Moria (Kofi
+  Ansong) in their 2025 album — blending traditional rebetiko (bouzouki +
+  modal melodies + Athenian street poetic tradition) with modern trap (808
+  sub + trap drums + Auto-Tune). Bouzouki is the emblematic instrument of
+  rebetiko, and remains central in modern trabetiko productions. TikTok
+  presence is strong via Greek viral playlists 2026 and Greek trap content.
+
+  USER ROADMAP TARGET: 26 viral cycles deep, 21 languages, 27 voice
+  archetypes, 23 regions. v287 adds Greek (22nd language) and Athens (24th
+  region). Mediterranean coverage now extends across the eastern arc:
+  Cairo/Egypt (v272), Istanbul/Turkey (v278), Tehran/Persia (v284), Athens/
+  Greece (v287). Four Mediterranean cycles representing four distinct
+  language families (Afro-Asiatic Semitic, Turkic, Indo-European Iranian,
+  Indo-European Hellenic) — the catalog now demonstrates fine-grained
+  Mediterranean musical-cultural differentiation.
+
+  VOICE DIFFERENTIATION — 28TH orthogonal voice in 28 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v286: 27 prior voices spanning 21 languages
+    v287 — female GREEK MODAL PASSIONATE BELT GREEK (chest-rich Mediterranean
+           modal belt with Greek rebetiko-influenced phrasing + emotional
+           direct delivery + Greek vowel-rich pronunciation + klisma-style
+           melodic turns — fundamentally different from other Mediterranean
+           cycles via Greek modal ornament library and chest-rich passion-
+           delivery vs Persian tahrir microtonal trill / Arabic mahraganat
+           shouting / Turkish makam ornamentation)
+  Mediterranean female-vocal differentiation note: v272 mahraganat was
+  male, v278 Türk trap was male, v284 Persian was female-mid-high tahrir,
+  v287 Greek is female-chest-rich modal-belt. Different female ornament
+  system from Persian tahrir (modal-belt vs microtonal-trill). Style +
+  exclude_styles block all 27 prior voice characters.
+
+  LANGUAGE — 22nd distinct language. Greek (Latin transliteration — Greek
+  script exists but Latin transliteration is standard on social media).
+  Lyric vocabulary uses authentic Greek rebetiko-pop: "kardia mou" (my
+  heart — iconic Greek emotional address), "Athina" (Athens), "Exarcheia"
+  (Athens anarchist neighborhood, rebetiko/trap epicenter), "vrochi"
+  (rain), "kafenio" (taverna/café — Greek institution), "kafedaki"
+  (little coffee), "tsigaro" (cigarette), "Spotify pezei to tragoudi mas
+  akomi" (Spotify still plays our song — modern Greek detail), "edo
+  perimeno" (here I wait), "Athina geri, ego den gernao" (Athens grows
+  old, I don't grow). Concept: classic Greek heartbreak-and-Athens
+  narrative — Exarcheia night, rain, alone at the café, the light in the
+  window across the street where you lived two years ago, cold coffee,
+  cigarette, Spotify still plays our song, "Athens grows old, I don't,
+  here I wait." Evergreen Greek-rebetiko emotional core.
+
+  BPM 116 — fresh in rotation (recent: 78, 82, 86, 88, 90, 92, 95, 96,
+  98, 100, 104, 105, 108, 110, 115, 120, 124, 128, 132, 138, 140, 144,
+  145, 150, 155, 160, 174). Mid-trabetiko canonical tempo.
+
+  Key C minor — first reuse of C minor since v266 (21 cycles ago).
+  Walks well with Greek Phrygian-mode color (rebetiko Phrygian
+  inflection is iconic).
+
+  Production palette pinned: "bouzouki (Greek long-neck lute) melodic
+  riffs + modern trap drum kit + sliding 808 + baglamas (small Greek
+  lute) atmospheric accent + taverna acoustic-guitar fingerpicking +
+  trap hi-hat triplets + sharp clap + modal-minor pad in Phrygian color
+  + vinyl crackle." Geographic + visual anchor: "Athens Exarcheia
+  anarchist-neighborhood 2am." Negatives explicitly block traditional
+  rebetiko folk solo, laiko, syrtaki tourist, Greek wedding kitsch,
+  mainstream Greek radio pop — five adjacent failure modes Suno's
+  classifier could drift toward.
+
+  Title "Kardia" (Καρδιά, heart) — single Greek word, 6 chars,
+  MEME-able, iconic Greek emotional concept-word. Distinct from prior
+  viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Negros Tou Moria, Kofi Ansong, Akylas, Helena
+  Paparizou, Stan, Tamta, Sakis Rouvas, Despina Vandi, or other Greek-
+  pop artist names in style field — preemptive removal per v274-v286
+  artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (10-cycle
+  data, 70% correction rate, hypothesis: UI defaults to Female so YAML
+  `female` may coincidentally match), submitter MUST verify Suno UI
+  vocal_gender radio matches YAML (`female`) before Create. If UI is
+  already Female (likely), no click needed; if Male is shown, click
+  Female.
+
+  v283 cmd+l-misfire reminder: do NOT use cmd+l during form-fill.

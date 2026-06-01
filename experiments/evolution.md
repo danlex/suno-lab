@@ -331,6 +331,7 @@ mindmap
 | 284 | Setareh | Modern Persian pop ballad / Farsi pop viral cycle - female crystal-tone tahrir-ornamented | C# minor | 82 | piano arpeggio + tar atmospheric + santur hammered phrases |
 | 285 | Hangin | Modern OPM ballad / Filipino indie-pop viral cycle - female warm sincere chesty with Tagalog phonetics | E major | 86 | acoustic guitar fingerpicking + electric piano pad + kulintang gong-chime |
 | 286 | Sen | Modern Polish rap / polski rap trap viral cycle - male chesty Warsaw with Slavic sibilant phonetics | F# minor | 104 | Polish trap drum kit + sliding 808 sub + piano sample loop |
+| 287 | Kardia | Modern Greek pop / trabetiko (rebetiko-trap fusion) viral cycle - female chest-rich Greek modal belt with bouzouki | C minor | 116 | bouzouki + baglamas + trap drum kit with 808 sub |
 
 ## Next-cycle priorities
 
