@@ -1,0 +1,161 @@
+name: "risen"
+version: 294
+title: "Risen"
+instrumental: false
+vocal_gender: female
+
+style: "Modern soul-gospel praise-break climax ballad, 76 BPM, F major, Sunday sanctuary build to euphoria. Female LEAD soul belt → backing CHOIR explosion: mid-high chest belt with Black-gospel melismatic runs, vibrato, sermonic phrasing → Hammond build → call-response with choir → unison praise-break with half-step ascent + choir explosion. NOT European belt, NOT Mor Lam nasal — Black-gospel praise-break signature. Production: Hammond B3 organ pad, gospel piano triplet chords, Wurlitzer accent, backing-choir 4-voice stack, gospel rhythm-section, tambourine, vinyl crackle, sanctuary reverb. ARC: 0:00-0:30 organ pad alone, 0:30 piano enters, 1:00 lead first verse soft, 1:30 verse 2 with subtle choir entry, 2:00 build with drums + bass drop, 2:30 PRAISE BREAK with full choir + Hammond + half-step ascent + soul belt, sustain to 3:30. NOT Christian praise-band pop, NOT Christian radio, NOT trance EDM."
+
+lyrics: |
+  [Intro] (Hammond organ pad, 0:00-0:30)
+  oh-oh, mmm
+
+  [Piano enters] (gospel triplet chord work, 0:30-1:00)
+  (lead voice ad-lib hums)
+  mmm... mmm...
+
+  [Verse 1 — Lead soul belt, 1:00-1:30]
+  I been walking through the valley alone
+  the night was long, I forgot the dawn
+  but the morning came singing my name
+  somethin' woke me up, I'm not the same
+
+  [Verse 2 — Lead + backing choir entry, 1:30-2:00]
+  (lead) I been carrying weight I was never meant to hold
+  (choir soft) ah-ah, ah-ah
+  (lead) the voice said 'let it go'
+
+  [Build — Drums + bass drop, 2:00-2:30]
+  (lead) somethin' is rising inside me
+  (choir) RISEN, RISEN
+  (lead belt) callin' me higher
+
+  [PRAISE BREAK Climax — choir + Hammond + half-step ascent, 2:30-3:00]
+  RISEN! (choir) RISEN!
+  oh I am RISEN, I am RISEN
+  glory glory, I am RISEN!
+
+  [Sustained Plateau Climax, 3:00-3:30]
+  (lead with choir) RISEN, RISEN, RISEN
+  oh I am risen, I'm not the same
+
+  [Outro] (Hammond fade)
+  risen... risen... mmm
+
+  [End]
+
+exclude_styles: "happy mainstream pop, country, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Old Norse battle-roar choir, female Icelandic Nordic noir, male-female Viking duet, male Hopelandic post-rock, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, contemporary Christian praise-band pop, mainstream Christian radio, trance EDM, gospel kitsch, white-washed Christian rock, modern worship pop"
+
+tags:
+  - modern-soul-gospel
+  - praise-break-climax
+  - female-lead-soul-belt
+  - black-gospel-tradition
+  - dopamine-call-response-plateau
+  - 76bpm
+  - f-major
+  - female-vocal-soul-belt
+  - english-lyrics
+  - viral-arm
+  - sunday-morning-sanctuary
+  - harmonic-ascent-half-step
+  - choir-explosion-climax
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v294 — Modern soul-gospel praise-break climax ballad.
+  Fifth cycle in user-directive theme "brain dopamine" application across
+  diverse genres (v290-v292 Viking + v293 post-rock + v294 gospel).
+  Applies both v292 (call-response → unison) AND v293 (late-vocal-entry
+  + plateau-climax) architecture lessons in the canonical Black-gospel-
+  tradition "praise break" structure.
+
+  Research-driven (TikTok 2026 gospel viral trends, My Gospel Soul Network
+  Founder Jennice Jackson, traditional gospel choir revival): worship-
+  centered gospel is one of TikTok's biggest 2026 viral trends —
+  emotional choir performances and soulful female-led renditions gain
+  significant engagement. Traditional gospel choirs experiencing revival
+  via HBCUs and multicultural ministries. Younger believers discover
+  gospel through short viral worship clips before hearing full songs in
+  church. The "praise break" — the climax moment when the lead belts
+  while the choir explodes behind — is the canonical gospel dopamine
+  architecture.
+
+  USER ROADMAP: 33 viral cycles + 4 brain-dopamine cycles (3 Viking +
+  1 post-rock) + v294 gospel = 38 cycles so far. v294 adds the FIRST
+  GOSPEL/SOUL ARCHITECTURE in the catalog and the FIRST cycle drawing
+  explicitly from the Black-American musical tradition.
+
+  VOICE DIFFERENTIATION — 35TH orthogonal voice in 35 cycles. **FIRST
+  GOSPEL/SOUL ARCHITECTURE** in the catalog. Cumulative ledger
+  (abbreviated):
+    v260-v293: 34 prior voices spanning 28 "languages"
+    v294 — female SOUL BELT + GOSPEL CHOIR EXPLOSION ENGLISH (mid-high
+           chest belt with Black-gospel-tradition melismatic runs,
+           vibrato, sermonic phrasing → call-response with full backing
+           choir 4-voice stack → unison "praise break" climax with
+           harmonic ascent up a half-step + Hammond + choir explosion —
+           fundamentally new vocal-architecture: lead-with-built-in-
+           choir-explosion is the FIRST canonically-gospel-soul structure
+           in the catalog)
+  v261 vs v294 differentiation: both female English belts, but v261 is
+  European arena slap-house dance-pop with doubled stack; v294 is Black-
+  gospel-tradition soul belt with melismatic runs + organic call-response
+  with choir + organ + sermonic phrasing. Completely different production
+  tradition and vocal philosophy. Style + exclude_styles block all 34
+  prior voice characters.
+
+  **DOPAMINE-PEAK ARCHITECTURE v5** (fifth iteration, combining v292 +
+  v293 lessons):
+  - 0:00-0:30 Hammond organ pad alone (sanctuary entry, anticipation)
+  - 0:30-1:00 piano enters with gospel triplet chord work (anticipation
+    builds)
+  - 1:00-1:30 lead first verse soft (intimate sermon entry)
+  - 1:30-2:00 verse 2 with subtle backing choir entry (call-response
+    architecture from v292 begins)
+  - 2:00-2:30 BUILD — drums + bass drop (energy escalation)
+  - 2:30 **PRAISE BREAK CLIMAX** — full choir explosion + Hammond +
+    harmonic ascent up half-step (canonical gospel modulation) + soul
+    belt (the dopamine peak)
+  - 2:30-3:30 sustained PLATEAU-CLIMAX from v293 (choir holding full,
+    lead ad-libbing over top — the prolonged dopamine sustain rather
+    than drop-and-fade)
+  This combines call-response → unison (v292) WITH late-vocal-entry +
+  plateau-climax (v293) — applying both proven architectures
+  simultaneously in a genre that uses them naturally.
+
+  Production palette pinned: "Hammond B3 organ pad foundation + gospel
+  piano triplet chord work + vintage Wurlitzer accent + female backing
+  choir 4-voice stack + gospel rhythm-section + tambourine + tongue-
+  click rhythm + vinyl crackle + intimate sanctuary reverb." Negatives
+  explicitly block contemporary Christian praise-band pop (the
+  "Hillsong" sound), mainstream Christian radio, trance EDM, gospel
+  kitsch, white-washed Christian rock, modern worship pop — six
+  adjacent failure modes the Suno classifier could drift toward.
+
+  BPM 76 — fresh in rotation. Slow gospel-soul tempo allowing the
+  praise-break build to develop fully.
+
+  Key F major — first reuse of F-major-region since v273 dangdut
+  (A major), 21 cycles ago. F major is canonical gospel-soul key
+  (Aretha / Whitney / Mahalia Jackson). The half-step ascent at the
+  climax moves to F# major — the dopamine peak via modulation.
+
+  Title "Risen" — 5 chars, MEME-able, gospel-iconic concept word.
+  Universal enough to be non-denominational (resurrection / rebirth /
+  rising) while clearly gospel-tradition-evocative. Distinct from prior
+  viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No CeCe
+  Winans, Tasha Cobbs Leonard, Yolanda Adams, Maverick City Music,
+  Israel Houghton, Kirk Franklin, Aretha Franklin, Whitney Houston,
+  Mahalia Jackson, or other gospel/soul artist names in style field —
+  preemptive removal per v274-v293 artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, all three failure modes have recurred —
+  no predictive model), submitter MUST verify Suno UI vocal_gender
+  matches YAML (`female`) before Create.

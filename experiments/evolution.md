@@ -338,6 +338,7 @@ mindmap
 | 291 | Eldur | Nordic noir dark synth-pop / Faroese-Icelandic electronic — USER DIRECTIVE Vikings + brain dopamine cycle 2 with SUSTAINED CRESCENDO + overtone-shift drop (no silence-gate) | F minor | 102 | deep analog synth pads + tagelharpa drone + frame drums |
 | 292 | Ulv | Nordic skald folk anthem / Viking battle-march DUET — USER DIRECTIVE Vikings + brain dopamine cycle 3 with male-female TRUE duet + call-response → unison architecture | Eb minor | 130 | tribal frame drum march + lurs Viking horns + cathedral organ pad |
 | 293 | Vök | Modern atmospheric post-rock / Hopelandic vocal climax — USER DIRECTIVE brain dopamine cycle 4 with late-vocal-entry + plateau-climax architecture (longest viral-arm renders to date) | G major | 70 | piano arpeggios + bowed-guitar drone (EBow) + glockenspiel atmospheric pings |
+| 294 | Risen | Modern soul-gospel praise-break climax ballad — brain dopamine cycle 5 with female lead soul belt + choir explosion + harmonic ascent | F major | 76 | Hammond B3 organ + gospel piano triplets + backing-choir 4-voice stack |
 
 ## Next-cycle priorities
 
