@@ -1,6 +1,6 @@
 {
-  "total_prompts": 265,
-  "latest_version": 265,
+  "total_prompts": 266,
+  "latest_version": 266,
   "instruments": {
     "piano": [
       1,
@@ -54,7 +54,8 @@
       203,
       204,
       205,
-      262
+      262,
+      266
     ],
     "organ": [
       1,
@@ -965,17 +966,22 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
       255
+    ],
+    "baroque": [
+      188,
+      191
     ],
     "house": [
       242,
@@ -989,15 +995,11 @@
       145,
       149
     ],
-    "symphonic": [
-      162,
-      178
-    ],
     "2-step garage": [
       100
     ],
-    "baroque": [
-      188
+    "amapiano": [
+      266
     ],
     "minimalist": [
       201
@@ -1077,7 +1079,8 @@
       149,
       192,
       196,
-      226
+      226,
+      266
     ],
     "e minor": [
       11,
@@ -1575,7 +1578,8 @@
       139
     ],
     "115": [
-      106
+      106,
+      266
     ],
     "116": [
       127
@@ -1769,6 +1773,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 266,
+      "title": "Sgubhu",
+      "name": "sgubhu",
+      "featured": [],
+      "genre": "amapiano",
+      "key": "c minor",
+      "bpm": 115
+    },
     {
       "version": 265,
       "title": "Fervo",
@@ -2690,7 +2703,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -2855,7 +2868,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3006,7 +3019,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },

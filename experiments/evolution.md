@@ -311,6 +311,7 @@ mindmap
 | 264 | Tóxico | neoperreo / dembow / Latin trap viral cycle - raspy mid-register Latina sing-rap | Bb minor | 110 | distorted 808 sub + dembow groove + midrange synth lead |
 | 265 | Fervo | funk carioca / baile funk / tamborzão viral cycle - shouty female Portuguese MC | G minor | 150 | tamborzão 808 kick + tambor/surdo + baile siren |
 | 266 | Sgubhu | amapiano / South African house / log drum viral cycle - relaxed Zulu-English male spoken-sung | C minor | 115 | log drum + four-on-the-floor kick + sax-pad chord stab |
+| 267 | Pind | modern Punjabi pop / P-Pop / R&B-infused viral cycle - smooth Punjabi male sing-rap | F# minor | 92 | 808 sub + Rhodes electric piano + dhol-accent + tumbi-riff |
 
 ## Next-cycle priorities
 

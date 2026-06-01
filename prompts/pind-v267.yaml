@@ -1,0 +1,144 @@
+name: "pind"
+version: 267
+title: "Pind"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Punjabi pop, P-Pop, R&B-infused Punjabi sing-rap, 92 BPM, F# minor, diaspora ballad. Smooth male Punjabi sing-rap — mid-low chest, melodic R&B emotional vulnerability, throaty Punjabi consonants, restrained close-mic in Punjabi with code-switched English lines, NOT autotune-chipmunked, NOT shouty, NOT whispered, NOT relaxed amapiano. Minimalist 2026 AP-Dhillon-zone production: deep 808 sub-bass, sparse hip-hop trap drums with rolling hi-hat, warm Rhodes electric piano chords, subtle dhol accents (NOT full bhangra), occasional tumbi melodic riff, ambient pad bed, sparse strings only in the bridge. Urban diaspora aesthetic — Brampton/Toronto-via-Punjab balcony reflection, late-night drive-home vibe. The vocal carries the weight, production stays out of the way. No bhangra dance floor, no Bollywood orchestration, no traditional folk, no soaring belt, no kawaii, no orchestral, no broadway."
+
+lyrics: |
+  [Intro]
+  (Rhodes chord, distant)
+  [Spoken] pind, pind, mera pind
+
+  [Verse 1]
+  do hazaar mile dur, mainu raat di yaad aa
+  meri maa di awaaz, mera pind, meri jaan
+  city de lights wich, main akela so jaava
+  par pind di galiyaan ne, mainu wapas bulava
+
+  [Pre-Hook]
+  oh oh, mera pind
+  oh oh, meri jaan
+
+  [Hook]
+  pind, mera pind, mainu vaapas le chal
+  pind, mera pind, jithe meri kahani shuru hoi
+  pind, mera pind, papa di chaa di mehek
+  pind, mera pind, ghar di yaad hai mainu
+
+  [Verse 2]
+  passport stamps te flights, success di kahani
+  par dil de andar, ik chhota munda jis nu ghar di pyaas
+  buildings te lights, sab kuchh hai par
+  maa di lori jiha sukoon nahi milda mainu
+
+  [Hook]
+  pind, mera pind, mainu vaapas le chal
+  pind, mera pind, jithe meri kahani shuru hoi
+
+  [Bridge]
+  (sparse strings enter)
+  [Spoken] kade kade socho, ki main ki hoyaan
+  ki main ki hoyaan, ki main ki hoyaan
+
+  [Final Hook]
+  pind (mera pind), mainu vaapas le chal
+  pind (mera pind), papa di chaa di mehek
+
+  [Outro]
+  (Rhodes fade) mera pind
+  [End]
+
+exclude_styles: "happy pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring melodic female belt, husky low contralto, pitched-up kawaii chipmunked, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, hyperpop, k-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, mainstream radio reggaeton, dembow, tamborzão, baile funk, amapiano log drum, slap house, drift phonk, traditional bhangra dance floor, Bollywood orchestration, qawwali, ghazal traditional, EDM drop, big-room house"
+
+tags:
+  - modern-punjabi-pop
+  - p-pop
+  - punjabi-sing-rap
+  - 92bpm
+  - f-sharp-minor
+  - male-vocal-smooth
+  - diaspora-ballad
+  - punjabi-lyrics
+  - viral-arm
+  - urban-south-asian
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v267 — Modern Punjabi pop / P-Pop. Research-driven
+  (MusiCulture, Spardha, Pollywood 2026, Music Ally 2026 Juno noms):
+  P-Pop is the 2026 term-of-art for the AP Dhillon / Karan Aujla / Shubh
+  / Sidhu Moose Wala wave — minimalist trap-influenced production, R&B
+  emotional vulnerability, urban diaspora themes, 85-105 BPM, vocal
+  layering experimentation. Global Spotify breakthrough confirmed
+  (Karan Aujla + Shubh nominated for 2026 Juno awards; AP Dhillon among
+  top-streamed South Asian artists globally). TikTok-viral lane through
+  the global Punjabi diaspora.
+
+  USER VALIDATION + LANE EXPANSION: v264 "Tóxico" praise drove the
+  Latin/Lusophone push (v264 ES neoperreo, v265 PT funk carioca). v266
+  expanded geography to South Africa (amapiano) maintaining viral
+  momentum. v267 expands again — South Asia — to keep the language
+  rotation moving and prove the viral-arm playbook works across
+  geographies, not just Latin/African.
+
+  VOICE DIFFERENTIATION — eighth orthogonal voice in eight cycles:
+    v260 — male whisper EN (drift phonk, distorted, dark)
+    v261 — soprano belt EN (slap house, arena reverb)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop, chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned, attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest, NOT shouty)
+    v267 — smooth Punjabi sing-rap male PUNJABI (melodic R&B vulnerability,
+           throaty consonants, restrained close-mic, NOT autotuned-chipmunked,
+           NOT shouty, NOT whispered, NOT relaxed-casual)
+  The load-bearing phrase pins the register against drift to any of the
+  seven prior characters. Both style and exclude_styles explicitly block
+  all seven. Third male voice in the catalog (after v260 distorted whisper
+  and v266 amapiano casual chest); the first one with R&B melodic emotional
+  vulnerability — a genuinely new male archetype.
+
+  LANGUAGE — sixth distinct language in the viral arm. Punjabi with code-
+  switched English lines is canonical diaspora P-Pop practice (AP Dhillon
+  songs routinely mix Punjabi verses with English hooks). Lyric vocabulary
+  uses authentic Punjabi: "pind" (village), "mera pind" (my village),
+  "vaapas le chal" (take me back), "ghar di yaad" (homesickness), "maa di
+  lori" (mother's lullaby), "papa di chaa" (father's tea). Concept: classic
+  P-Pop diaspora narrator — physically successful abroad (passport stamps,
+  city lights, buildings) but emotionally tied to the village (mother's
+  voice, father's tea, the street where the story began). Genre-canonical
+  thematic core.
+
+  BPM 92 — center of the modern P-Pop slow-trap-R&B sweet spot. Fresh
+  against recent cycles (recent: 96, 110, 115, 124, 138, 150, 160). Slower
+  than amapiano's 115, distinctly slower than the dance-floor viral cycles,
+  matches the introspective tempo P-Pop ballads use.
+
+  Key F# minor — fresh against the recent minor rotation (recent: A, D, F,
+  Bb, G, C; E major in v263). F# minor is a warm reflective key that walks
+  well with Rhodes electric piano and minor-key vocal melodies.
+
+  Production palette pinned: "Brampton/Toronto-via-Punjab golden-hour-on-
+  the-balcony energy, late-night reflective drive-home vibe, NOT traditional
+  bhangra, NOT Bollywood" — Brampton/Toronto is the Canadian Punjabi
+  diaspora hub where AP Dhillon (Brampton-based) built his sound. This
+  geographic anchor pins Suno away from the two failure modes (traditional
+  bhangra dance-floor and Bollywood orchestration) and toward the urban
+  diaspora P-Pop production tradition.
+
+  Dhol and tumbi appear in restrained roles ("subtle dhol accents (NOT full
+  bhangra), occasional tumbi melodic riff") — both fresh instruments in the
+  catalog rotation, included to anchor Punjabi cultural identity without
+  dominating the mix in a bhangra direction.
+
+  Title "Pind" — single Punjabi word for "village," 4 chars, MEME-able,
+  thematically genre-canonical (the diaspora-village concept is the
+  evergreen P-Pop themecore). Not tied to a specific famous song title.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Dune/desert/Bollywood-artist names; "dhol" and "tumbi"
+  are instrument names, not artist names).
