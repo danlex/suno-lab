@@ -329,6 +329,7 @@ mindmap
 | 282 | Cité | French drill / rap français / banlieue trap viral cycle - male chesty rough Paris banlieue accent | G minor | 95 | drill drum kit + sliding 808 sub + subtle piano sample loop |
 | 283 | Sabai | Modern Mor Lam Sing / Thai-Isan dance pop viral cycle - female nasal melismatic with khaen + phin | B minor | 145 | khaen Isan mouth organ + phin Isan lute + modern Thai-pop drum kit |
 | 284 | Setareh | Modern Persian pop ballad / Farsi pop viral cycle - female crystal-tone tahrir-ornamented | C# minor | 82 | piano arpeggio + tar atmospheric + santur hammered phrases |
+| 285 | Hangin | Modern OPM ballad / Filipino indie-pop viral cycle - female warm sincere chesty with Tagalog phonetics | E major | 86 | acoustic guitar fingerpicking + electric piano pad + kulintang gong-chime |
 
 ## Next-cycle priorities
 

@@ -1,0 +1,165 @@
+name: "hangin"
+version: 285
+title: "Hangin"
+instrumental: false
+vocal_gender: female
+
+style: "Modern OPM ballad, Original Pilipino Music, Filipino indie-pop, 86 BPM, E major, Manila Antipolo overlook sunset. Female OPM ballad vocal — warm sincere chesty mid-range with Tagalog vowel-rich open-mouth phonetics, gentle vibrato, R&B-influenced melodic phrasing, emotionally direct delivery, NOT Indonesian dangdut sob, NOT Mor Lam nasal, NOT Vietnamese husky whisper-belt, NOT Persian tahrir — OPM warm-sincere acoustic-pop signature with Tagalog phonetic character. Production: gentle acoustic Western guitar fingerpicking (signature OPM), warm electric piano pad, soft brushed drum kit, sparse bass walking, light trap drums on chorus only, 808 sub on drop, occasional kulintang (Filipino gong-chime) ping in bridge, vinyl crackle, intimate close-mic vocal reverb. 2026 OPM indie-pop, NOT mainstream Filipino radio, NOT traditional kundiman, NOT rondalla, NOT P-pop dance. Antipolo sunset. No kundiman, no rondalla, no P-pop dance, no orchestral."
+
+lyrics: |
+  [Intro]
+  (acoustic guitar fingerpicking)
+  oh, oh-oh
+  hangin, hangin
+
+  [Verse 1] (warm sincere Tagalog phonetics)
+  alas-otso ng gabi, Antipolo overlook
+  ang lungsod sa baba, parang ilaw na nagsasayaw
+  pero ang puso ko, parang yelo sa baso
+  dalawang taon na, di pa rin nakakalimutan
+
+  [Pre-Hook]
+  (gentle vibrato) oh-oh, hangin
+  hangin, hangin sa mukha
+
+  [Hook] (warm sincere belt)
+  hangin, hangin, sayo ako lumilipad
+  hangin, hangin, sayo ako babalik
+  hangin, hangin, kahit malayo ka na
+  hangin, hangin, dito pa rin ako
+
+  [Verse 2]
+  WhatsApp seen, walang sagot
+  Spotify playlist mo, may kanta tungkol sayo
+  Manila gabi, jeepney busina sa malayo
+  hangin lang ang sagot sa tanong ko
+
+  [Hook]
+  hangin, hangin, sayo ako lumilipad
+  hangin, hangin, dito pa rin ako
+
+  [Bridge]
+  (kulintang ping, guitar sustains)
+  [Spoken-sung] di ko makakalimutan
+  hangin, hangin lang
+
+  [Final Hook] (belt + 808)
+  hangin (hangin), sayo ako lumilipad
+  hangin (hangin), dito pa rin ako
+
+  [Outro]
+  (guitar fade) hangin
+  [End]
+
+exclude_styles: "happy mainstream pop, country Western, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty, male German sprechgesang, female V-pop husky whisper-belt, male Russian shouty distorted MC, male French banlieue rapper, female Thai Mor Lam Sing nasal, female Persian tahrir, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional kundiman, Filipino rondalla, P-pop dance idol group, mainstream Filipino radio pop, Cebuano folk, Visayan ballad"
+
+tags:
+  - opm
+  - original-pilipino-music
+  - filipino-indie-pop
+  - 86bpm
+  - e-major
+  - female-vocal-warm-sincere
+  - tagalog-phonetics
+  - tagalog-lyrics
+  - viral-arm
+  - manila-antipolo-sunset
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v285 — Modern OPM (Original Pilipino Music) /
+  Filipino indie-pop ballad. Research-driven (Mega Asia OPM Emerging
+  Artists 2026, Spotify OPM TikTok Hits 2026, Simpol Next Wave of OPM
+  2026, Rank Magazine TikTok Rising Philippines): OPM in 2026 features
+  diverse female-vocal-forward indie-pop / alternative / soul-driven
+  styles, with TikTok's "Rising Philippines" campaign actively
+  elevating new OPM talents. Personal honest lyrics, folk-pop-alternative
+  blend, female vocal-forward — characteristic OPM emotional sincerity
+  and acoustic-Western-pop ancestry.
+
+  USER ROADMAP TARGET: 24 viral cycles deep, 19 languages, 25 voice
+  archetypes, 21 regions. v285 adds Tagalog/Filipino (20th language —
+  ~100M speakers including diaspora, the largest unfilled language
+  remaining) and Philippines / Manila as the 22nd distinct region. SE
+  Asia now has FOUR distinct cycles: v273 Indonesian dangdut + v280
+  Vietnamese Vinahouse + v283 Thai Mor Lam Sing + v285 OPM Filipino
+  ballad — four different SE Asian music traditions covered with
+  distinct ornament systems, production palettes, and vocal
+  philosophies.
+
+  VOICE DIFFERENTIATION — 26TH orthogonal voice in 26 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v284: 25 prior voices spanning 19 languages
+    v285 — female WARM SINCERE CHESTY OPM Tagalog phonetics TAGALOG
+           (warm sincere mid-range with Tagalog vowel-rich open-mouth
+           phonetics + gentle vibrato + R&B-influenced melodic phrasing
+           + emotionally direct unguarded delivery — fundamentally
+           different from prior 4 SE Asian female voices via Western-
+           pop acoustic ancestry + Filipino emotional sincerity)
+  v273 vs v280 vs v283 vs v285 SE-Asian-female differentiation note:
+  four female SE Asian voices now, all distinct on the production-
+  philosophy axis:
+    - v273 Indonesian dangdut: pelog scale, Auto-Tune sob, kendang
+    - v280 Vietnamese Vinahouse: six-tone husky whisper-belt, electronic club
+    - v283 Thai Mor Lam Sing: 5-tone modal nasal melismatic, khaen-phin
+    - v285 OPM Filipino: Western diatonic, warm sincere chesty, acoustic-pop
+  The OPM contribution is the WESTERN-DIATONIC + ACOUSTIC-POP + SINCERE
+  axis — the catalog's only "sincere unornamented" female-melismatic-
+  adjacent voice. Style + exclude_styles block all 25 prior voices.
+
+  LANGUAGE — 20th distinct language. Tagalog/Filipino (native Latin
+  script — Tagalog uses Latin alphabet, no transliteration). Lyric
+  vocabulary uses authentic OPM Tagalog: "hangin" (wind), "Antipolo
+  overlook" (Manila scenic overlook — iconic OPM romantic spot),
+  "alas-otso ng gabi" (8pm — Tagalog time), "parang yelo sa baso"
+  (like ice in a glass — emotional simile), "WhatsApp seen, walang
+  text na sagot" (modern OPM detail: WhatsApp seen, no reply),
+  "Spotify playlist mo, may kanta pa rin tungkol sayo" (your Spotify
+  playlist still has songs about you), "jeepney busina sa malayo"
+  (jeepney horn in the distance — iconic Manila street detail), "dito
+  pa rin ako" (I'm still here). Concept: classic OPM emotional ballad
+  — two years after the breakup, Antipolo overlook at 8pm, lights
+  dancing below but heart frozen, WhatsApp seen no reply, Spotify
+  playlist still has songs about them, jeepney horn far away, "the
+  wind is the only answer to my question." Evergreen OPM
+  sincere-vulnerable emotional core.
+
+  BPM 86 — fresh in rotation. Mid-OPM-ballad tempo. Distinct from v275
+  Mandopop (78, more upper-bound stillness) and v271 sertanejo (88,
+  warm but Brazilian-rural-country).
+
+  Key E major — first reuse of E major since v263 hyperpop (22 cycles
+  ago — extremely distant). E major is canonical for OPM warm-sincere
+  ballads (Moira Dela Torre / Adie / Ben&Ben tradition sits there).
+
+  Production palette pinned: "gentle acoustic Western guitar
+  fingerpicking + warm electric piano chord pad + soft brushed drum
+  kit + sparse bass walking + light trap drums on chorus + 808 sub on
+  drop + occasional kulintang (Filipino gong-chime) atmospheric ping
+  + vinyl crackle + intimate close-mic vocal reverb." Geographic +
+  visual anchor: "Manila Antipolo overlook sunset." Negatives
+  explicitly block traditional kundiman, Filipino rondalla, P-pop
+  dance idol group, mainstream Filipino radio pop, Cebuano folk,
+  Visayan ballad — six adjacent failure modes Suno's classifier could
+  drift toward.
+
+  Title "Hangin" (wind) — single Tagalog word, 6 chars, MEME-able,
+  evocative atmospheric concept central to Filipino emotional poetics
+  (the wind as messenger / longing / unreachable). Distinct from prior
+  viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Moira Dela Torre, Zack Tabudlo, Adie, Ben&Ben,
+  SB19, Bini, NEW LORE, LU, fitterkarma, Eraserheads, or other OPM
+  artist names in style field — preemptive removal per v274-v284
+  artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (8-cycle
+  data, 75% correction rate, defaults unpredictable), submitter MUST
+  verify Suno UI vocal_gender radio matches YAML (`female`) before
+  Create.
+
+  v283 cmd+l-misfire reminder: do NOT use cmd+l during form-fill; use
+  direct URL bar or click instead.

@@ -1,6 +1,6 @@
 {
-  "total_prompts": 283,
-  "latest_version": 283,
+  "total_prompts": 284,
+  "latest_version": 284,
   "instruments": {
     "piano": [
       1,
@@ -61,7 +61,8 @@
       270,
       275,
       277,
-      282
+      282,
+      284
     ],
     "organ": [
       1,
@@ -984,7 +985,9 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
@@ -1013,10 +1016,6 @@
     "romantic": [
       145,
       149
-    ],
-    "symphonic": [
-      162,
-      178
     ],
     "2-step garage": [
       100
@@ -1316,6 +1315,11 @@
       110,
       203
     ],
+    "c# minor": [
+      68,
+      272,
+      284
+    ],
     "e major": [
       25,
       91,
@@ -1345,10 +1349,6 @@
       24,
       124,
       134
-    ],
-    "c# minor": [
-      68,
-      272
     ],
     "ab major": [
       43
@@ -1520,7 +1520,8 @@
       195
     ],
     "82": [
-      129
+      129,
+      284
     ],
     "83": [
       196,
@@ -1845,6 +1846,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 284,
+      "title": "Setareh",
+      "name": "setareh",
+      "featured": [],
+      "genre": null,
+      "key": "c# minor",
+      "bpm": 82
+    },
     {
       "version": 283,
       "title": "Sabai",
@@ -3093,7 +3103,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3244,7 +3254,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
