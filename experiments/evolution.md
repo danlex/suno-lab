@@ -317,6 +317,7 @@ mindmap
 | 270 | Wahala | Afrobeats / Nigerian Afro-fusion / Afropop viral cycle - male falsetto-mix Pidgin-Yoruba-English | F minor | 105 | Yoruba talking drum + 808 sub + electric piano |
 | 271 | Boteco | sertanejo universitário / sofrência ballad viral cycle - male duo close harmony caipira PT | G major | 88 | violão + sanfona + upright bass |
 | 272 | Yalla | Mahraganat / electro-shaabi / Egyptian street pop viral cycle - male autotuned chesty Arabic street | C# minor | 100 | darbuka percussion + sawtooth synth (mizmar timbre) + sub-bass |
+| 273 | Kangen | Modern dangdut koplo / hip-dut viral cycle - female melismatic Indonesian belt with Auto-Tune sob | A major | 120 | kendang koplo drum + suling bamboo flute + 808 sub |
 
 ## Next-cycle priorities
 

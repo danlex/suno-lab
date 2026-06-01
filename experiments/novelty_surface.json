@@ -1,6 +1,6 @@
 {
-  "total_prompts": 271,
-  "latest_version": 271,
+  "total_prompts": 272,
+  "latest_version": 272,
   "instruments": {
     "piano": [
       1,
@@ -624,6 +624,13 @@
       241,
       254
     ],
+    "flute": [
+      66,
+      83,
+      87,
+      150,
+      272
+    ],
     "hardanger fiddle": [
       111,
       124,
@@ -671,12 +678,6 @@
       222,
       236,
       249
-    ],
-    "flute": [
-      66,
-      83,
-      87,
-      150
     ],
     "steel tongue drum": [
       108,
@@ -971,7 +972,9 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
@@ -983,6 +986,10 @@
       252,
       255
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "house": [
       242,
       261
@@ -990,14 +997,6 @@
     "passacaglia": [
       111,
       202
-    ],
-    "romantic": [
-      145,
-      149
-    ],
-    "symphonic": [
-      162,
-      178
     ],
     "2-step garage": [
       100
@@ -1316,6 +1315,10 @@
       124,
       134
     ],
+    "c# minor": [
+      68,
+      272
+    ],
     "ab major": [
       43
     ],
@@ -1324,9 +1327,6 @@
     ],
     "b-flat major": [
       138
-    ],
-    "c# minor": [
-      68
     ],
     "c-flat major": [
       211
@@ -1546,7 +1546,8 @@
       57,
       64,
       70,
-      151
+      151,
+      272
     ],
     "101": [
       210
@@ -1793,6 +1794,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 272,
+      "title": "Yalla",
+      "name": "yalla",
+      "featured": [],
+      "genre": null,
+      "key": "c# minor",
+      "bpm": 100
+    },
     {
       "version": 271,
       "title": "Boteco",
@@ -2933,7 +2943,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3084,7 +3094,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3205,7 +3215,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3241,7 +3251,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

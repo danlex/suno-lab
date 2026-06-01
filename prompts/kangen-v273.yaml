@@ -1,0 +1,149 @@
+name: "kangen"
+version: 273
+title: "Kangen"
+instrumental: false
+vocal_gender: female
+
+style: "Modern dangdut koplo, hip-dut, Indonesian street pop, 120 BPM, A major, Surabaya night karaoke. Female Indonesian dangdut vocal — melismatic Auto-Tune belt with dangdut cengkok melodic ornaments, nasal-bright timbre, emotional sob-cry on long notes, Bahasa Indonesia with Javanese inflections, NOT arena belt, NOT contralto, NOT kawaii, NOT K-pop group, NOT ethereal DnB, NOT Latina sing-rap. Production: kendang koplo drum pattern (Indonesian hand-drum, syncopated double-strike), suling bamboo flute riffs, distorted electric organ pad, trap hi-hat layers, 808 sub on the drop, EDM sidechain pump, autotuned ad-libs ('cak', 'yo', 'eh-eh'). 2026 hip-dut — Denny Caknan / Happy Asmara modern Javanese koplo tradition, NOT traditional dangdut orkes, NOT polished mainstream Indonesian pop, NOT gamelan, NOT keroncong. Night-bus karaoke, Java warung scene. No gamelan, no keroncong, no orchestral."
+
+lyrics: |
+  [Intro]
+  (kendang tease) cak, cak, cak
+  oh-oh, yo
+
+  [Verse 1] (autotuned dangdut sob)
+  malam ini aku sendiri di kamar
+  hujan turun, jam dinding berhenti
+  pesan terakhirmu masih di layar
+  tiga bulan lalu, masih ku ingat
+
+  [Pre-Hook]
+  oh oh, kangen kangen
+  yo yo, kangen kangen
+
+  [Hook] (melismatic Auto-Tune belt)
+  kangen aku sama kamu, kangen sayang
+  hatiku patah, tapi tetap berdetak
+  kangen aku sama kamu, kangen sayang
+  malam panjang, mimpi pendek
+
+  [Verse 2]
+  kopi pahit, jalan sepi
+  WhatsApp centang biru, balasan tidak ada
+  ku tanya pada hujan, kemana kamu pergi
+  hujan tidak menjawab, hujan hanya jatuh
+
+  [Hook]
+  kangen aku sama kamu, kangen sayang
+  hatiku patah, tapi tetap berdetak
+
+  [Bridge]
+  (suling solo + kendang)
+  [Spoken] sayangku, kembalilah
+  cak cak cak, yo yo
+
+  [Final Hook] (melismatic sob, stacked)
+  kangen (sayang), kangen (sayang)
+  hatiku patah, tapi tetap berdetak
+
+  [Outro]
+  (kendang fade) kangen
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy female soprano DnB, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, hyperpop, k-pop, j-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, mainstream radio reggaeton, traditional dangdut orkes, polished Indonesian mainstream pop, gamelan, keroncong, Indonesian folk traditional, Sundanese pop"
+
+tags:
+  - dangdut-koplo
+  - hip-dut
+  - indonesian-street-pop
+  - 120bpm
+  - a-major
+  - female-vocal-melismatic
+  - dangdut-belt-autotune
+  - bahasa-indonesia-lyrics
+  - viral-arm
+  - surabaya-night-bus
+  - denny-caknan-happy-asmara-tradition
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v273 — Modern dangdut koplo / hip-dut (Indonesian street
+  pop). Research-driven (Musikku.id, ichord.id, Spotify/TikTok 2026
+  playlists): dangdut koplo + trap + EDM fusion has emerged as the
+  dominant viral lane in Indonesian music 2026, led by Denny Caknan,
+  Happy Asmara, Ndarboy Genk, Guyon Waton. Modern production keeps
+  kendang koplo drum pattern as core identity while layering trap hats,
+  808 sub, and EDM sidechain pump. Sits at 100-130 BPM range; 120 BPM
+  is the modern viral hip-dut center.
+
+  USER VALIDATION + LANE EXPANSION: 13 viral cycles deep, 9 languages,
+  13 voice archetypes, 10 regions. v273 adds Southeast Asia (Indonesia
+  specifically) as the 11th distinct region — the biggest geographic
+  gap remaining in the catalog. SE Asia is genuinely fresh territory
+  with no prior cycle, and dangdut koplo is the region's dominant
+  contemporary viral genre.
+
+  VOICE DIFFERENTIATION — 14TH orthogonal voice in 14 cycles. Cumulative
+  ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena anthemic — clean European belt)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned glossy mid-high)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability)
+    v268 — female K-pop GROUP harmony KO/EN (clean stacked)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male falsetto-mix Nigerian PIDGIN/YO/EN (smooth high-tenor)
+    v271 — male duo close harmony PT-caipira (sertanejo warm)
+    v272 — male autotuned chesty Arabic ARABIC (mahraganat street)
+    v273 — female melismatic Indonesian dangdut INDONESIAN/JAVANESE
+           (Auto-Tune-accent belt with characteristic CENGKOK melodic
+           ornaments + nasal-bright timbre + emotional sob-cry — Indonesian
+           dangdut signature distinct from all prior female voices)
+  v261 vs v273 differentiation note: both female belts, but v261 is clean
+  European/Russian arena power with doubled reverb; v273 is melismatic
+  nasal-bright Indonesian belt with cengkok ornaments + Auto-Tune sob
+  on long notes. The cengkok ornamentation + Bahasa Indonesia phrasing
+  + nasal timbre + Auto-Tune sob are the four orthogonal axes. Style
+  and exclude_styles block all 13 prior voice characters.
+
+  LANGUAGE — 10th distinct language in the viral arm. Bahasa Indonesia
+  with Javanese inflections (canonical dangdut koplo lyric format).
+  Vocabulary uses authentic dangdut: "kangen" (missing someone),
+  "sayang" (darling), "hatiku patah" (my heart is broken), "centang biru"
+  (WhatsApp blue check — modern dangdut detail), "kopi pahit" (bitter
+  coffee), "cak" / "yo" / "eh" (canonical dangdut ad-libs). Concept:
+  classic dangdut sob narrative — three months alone, last message still
+  on the phone screen, bitter coffee on empty street, blue check no
+  reply, asking the rain where you went. This is the evergreen dangdut
+  thematic core ("kangen" + "sayang" + waiting + sob).
+
+  BPM 120 — fresh in the recent rotation (recent: 88, 92, 96, 100, 105,
+  110, 115, 124, 132, 138, 150, 160, 174). Modern viral hip-dut center.
+
+  Key A major — first A major in the viral arm. Distinct from recent
+  rotation (recent majors: G v271, E v263; everything else minor).
+  Dangdut koplo often sits in major keys despite the sob content —
+  the bittersweet major-key emotional inversion is genre-canonical.
+
+  Production palette pinned: "kendang koplo drum pattern + suling bamboo
+  flute + distorted electric organ + trap hi-hat layers + 808 sub + EDM
+  sidechain pump" — exact reproduction of the 2026 hip-dut production
+  spec from Musikku.id / ichord.id. Two anchor references: "Denny Caknan /
+  Happy Asmara modern Javanese koplo tradition" (genre-lineage anchor)
+  and "Surabaya night-bus karaoke" (geographic/scene anchor — Surabaya
+  is East Java's dangdut capital). Negatives explicitly block traditional
+  dangdut orkes, mainstream polished Indonesian pop, gamelan, keroncong,
+  Indonesian folk traditional, Sundanese pop — six distinct adjacent
+  failure modes Suno's classifier could drift toward.
+
+  Title "Kangen" — single Bahasa Indonesia word for "missing someone,"
+  6 chars, MEME-able, genre-canonical dangdut emotional core. Not tied
+  to a specific famous song.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean.
