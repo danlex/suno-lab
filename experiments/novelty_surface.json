@@ -1,6 +1,6 @@
 {
-  "total_prompts": 273,
-  "latest_version": 273,
+  "total_prompts": 274,
+  "latest_version": 274,
   "instruments": {
     "piano": [
       1,
@@ -1003,6 +1003,10 @@
       111,
       202
     ],
+    "trap": [
+      264,
+      274
+    ],
     "2-step garage": [
       100
     ],
@@ -1023,9 +1027,6 @@
     ],
     "synthwave": [
       1
-    ],
-    "trap": [
-      264
     ]
   },
   "keys": {
@@ -1343,6 +1344,9 @@
     "f-flat major": [
       212
     ],
+    "g# minor": [
+      274
+    ],
     "g-sharp major": [
       208
     ]
@@ -1540,7 +1544,8 @@
       207
     ],
     "98": [
-      130
+      130,
+      274
     ],
     "99": [
       209
@@ -1798,6 +1803,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 274,
+      "title": "Boliche",
+      "name": "boliche",
+      "featured": [],
+      "genre": "trap",
+      "key": "g# minor",
+      "bpm": 98
+    },
     {
       "version": 273,
       "title": "Kangen",

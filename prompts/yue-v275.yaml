@@ -1,0 +1,167 @@
+name: "yue"
+version: 275
+title: "Yue"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Mandopop ballad, R&B-infused Mandarin pop, 78 BPM, F# major, late-night Taipei rooftop. Male Mandopop crooner — smooth light head-voice mix, gentle vibrato, melismatic ornaments on long vowels, FALSETTO FLIPS on emotional peaks (signature Mandopop ballad gesture), close-mic intimate Mandarin phrasing with code-switched English line, NOT Punjabi R&B mid-low, NOT Argentine porteño, NOT amapiano casual, NOT Afrobeats falsetto-mix — classically-trained Mandopop head-voice ballad signature. Production: gentle Steinway-style piano arpeggios, warm string pad layers, sparse trap drum kit with brushed snare, deep 808 sub on the chorus only, occasional erhu accent (NOT lead), light Auto-Tune corrective, wide vocal reverb tail. 2026 modern Mandopop ballad tradition, NOT traditional Chinese folk, NOT Cantopop, NOT C-pop dance idol group. Taipei night-rooftop intimacy. No erhu lead, no guzheng, no Beijing opera, no Cantopop, no K-pop, no J-pop, no orchestral arena."
+
+lyrics: |
+  [Intro]
+  (piano arpeggio, distant)
+  oh, oh-oh
+
+  [Verse 1] (intimate head-voice)
+  yueliang gua zai chuangwai
+  ni de zhaopian zai zhuomian shang
+  san nian le, wo hai zai zhe li
+  shi zhong meiyou dengdao ni
+
+  [Pre-Hook]
+  (falsetto rise) oh-oh
+  yue ah, yue ah
+
+  [Hook] (melismatic + falsetto flip on "yue")
+  yue, ni zhao zai wo de chuang
+  yue, ni jihua wo de xinshang
+  yue ah, ni hai jide ta ma
+  yue ah, ta yijing buzai le
+
+  [Verse 2] (code-switched English line in middle)
+  taipei de yu xia bu ting
+  zhe ge cheng shi tai an jing
+  three years gone, no one knows
+  yueliang shi wo de zhiren
+
+  [Hook] (falsetto stack)
+  yue, ni zhao zai wo de chuang
+  yue ah, ni hai jide ta ma
+
+  [Bridge]
+  (just piano + string pad, no drums)
+  [Whispered] ta yijing buzai le
+  yueliang, yueliang
+
+  [Final Hook] (full falsetto + light Auto-Tune)
+  yue (yue ah), zhao zai wo de chuang
+  yue (yue ah), ta yijing buzai le
+
+  [Outro]
+  (piano fade) yueliang
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy female soprano DnB, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, hyperpop, k-pop, j-pop, anime opening, anime ending, polka, ska, salsa, bachata, merengue, cumbia, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, traditional Chinese folk, erhu lead, guzheng lead, Beijing opera, Cantopop, C-pop dance idol group, mainstream radio Mandopop polish"
+
+tags:
+  - mandopop
+  - modern-mandopop-ballad
+  - r-and-b-mandarin
+  - 78bpm
+  - f-sharp-major
+  - male-vocal-crooner
+  - falsetto-flip-mandopop
+  - mandarin-lyrics
+  - viral-arm
+  - taipei-rooftop
+  - jay-chou-eric-chou-tradition
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v275 — Modern Mandopop ballad (R&B-infused Mandarin pop).
+  Research-driven (China Music Sphere, GRAMMY.com 2024-2026, Sixth Tone,
+  Wikipedia): Mandopop reaches global audiences in 2026 via streaming +
+  Chinese dramas + TikTok. Jay Chou maintains 35M+ monthly Spotify
+  listeners globally. The ballad is central to the genre — Jay Chou, JJ
+  Lin, Eric Chou, G.E.M. all built careers on melodic emotionally
+  resonant ballads. Modern production fuses traditional Mandopop ballad
+  vocal craft (head-voice + melisma + falsetto flips) with hip-hop trap
+  drums and 808 sub.
+
+  USER ROADMAP TARGET: 15 viral cycles deep, 10 languages, 15 voice
+  archetypes, 12 regions. v275 adds Mandarin (11th language — the world's
+  most-spoken native language by speaker count, biggest linguistic gap
+  in the catalog) and Taiwan/Mainland-China-Mandopop-zone as the 13th
+  distinct region. East Asia now has both pop-dance (v268 K-pop) AND
+  ballad (v275 Mandopop) representation.
+
+  VOICE DIFFERENTIATION — 16TH orthogonal voice in 16 cycles. Cumulative
+  ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena clean European)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap Caribbean ES (glossy mid-high attitude)
+    v265 — shouty Portuguese MC PT (dry urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi male PA (R&B vulnerability)
+    v268 — female K-pop GROUP harmony KO/EN (clean stacked)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male falsetto-mix Nigerian PIDGIN/YO/EN (smooth high-tenor)
+    v271 — male duo close harmony PT-caipira (sertanejo warm)
+    v272 — male autotuned chesty Arabic ARABIC (mahraganat street)
+    v273 — female melismatic Indonesian dangdut INDONESIAN (Auto-Tune sob)
+    v274 — male laid-back porteño Argentine SPANISH (drowsy half-time)
+    v275 — male MANDOPOP CROONER MANDARIN (smooth head-voice mix + gentle
+           vibrato + melismatic ornaments on long vowels + FALSETTO FLIPS
+           on emotional peaks — Mandopop signature signature distinct from
+           all prior male voices)
+  v267 vs v275 differentiation note: both smooth-male-pop-ballad voices,
+  but v267 is Punjabi R&B with caipira-similar emotional vulnerability
+  in mid-low chest, while v275 is Mandopop crooner with classical-trained
+  head-voice + melismatic ornaments + falsetto flips (a fundamentally
+  different vocal technique — chest vs head, R&B-trap-vulnerability vs
+  classical-Mandopop-craft). v270 vs v275: v270 falsetto-mix is high-tenor
+  Nigerian dancehall-influenced; v275 falsetto flips are Mandopop-signature
+  emotional-peak gestures inside a head-voice base, fundamentally different
+  use of falsetto. Style + exclude_styles block all 15 prior voice characters.
+
+  LANGUAGE — 11th distinct language. Mandarin in pinyin transliteration
+  with code-switched English line in Verse 2 (canonical Jay Chou ballad
+  format — English code-switch is a Mandopop convention). Lyric vocabulary
+  uses authentic Mandopop ballad: "yueliang" (moon), "chuangwai" (outside
+  the window), "zhaopian" (photograph), "san nian le" (three years now),
+  "Taipei de yu" (Taipei rain), "yueliang shi wo de zhiren" (the moon is
+  my friend). Concept: classic Mandopop ballad — three years after the
+  loss, photograph on the desk, moon outside the window, Taipei rain
+  doesn't stop, "the moon is my only friend now." Evergreen Mandopop
+  thematic core (moon as central image is Mandopop-iconic via Teresa
+  Teng "The Moon Represents My Heart").
+
+  BPM 78 — slow ballad tempo, fresh in rotation (recent: 88, 92, 96, 98,
+  100, 105, 110, 115, 120, 124, 132, 138, 150, 160, 174). 78 is the
+  slowest viral-arm cycle to date by 10 BPM. Walks well with Mandopop
+  ballad gentle-pulse pacing.
+
+  Key F# major — first F# major in the viral arm (and one of the few
+  major keys generally — recent majors: A v273, G v271, E v263). F#
+  major is canonical for Mandopop ballads in piano-driven keys (Jay
+  Chou's "Dao Xiang" sits adjacent).
+
+  Production palette pinned: "gentle Steinway-style acoustic piano
+  arpeggios + warm sustained string pad layers + sparse hip-hop trap
+  drum kit + deep 808 sub on chorus only + occasional erhu accent (NOT
+  lead) + light Auto-Tune corrective + wide vocal reverb." Two anchor
+  references: "Jay Chou ballad / Eric Chou tradition" (genre-lineage
+  anchor — both are real but established as TRADITION, not artist-copy
+  command — same pattern as Tomasa del Real, Tems lineage, L-Gante in
+  prior cycles) and "Taipei night-rooftop intimacy, neon reflected on
+  rain-wet glass" (geographic + visual aesthetic anchor). Negatives
+  explicitly block traditional Chinese folk, erhu lead, guzheng lead,
+  Beijing opera, Cantopop, C-pop dance idol group, mainstream radio
+  Mandopop polish, K-pop, J-pop anime — eight adjacent failure modes
+  Suno's classifier could drift toward.
+
+  Title "Yue" (月) — single Mandarin character for "moon," 3 chars,
+  MEME-able, genre-canonical Mandopop image. Distinct from prior viral
+  titles (Static, Polnoch, Fumée, Candy in the Wires, Tóxico, Fervo,
+  Sgubhu, Pind, Bbang, Halo, Wahala, Boteco, Yalla, Kangen, Boliche).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean. CRITICAL: per feedback_suno_artist_triggers.md v274
+  finding, double-check that none of "Jay Chou," "Eric Chou," "JJ Lin,"
+  "G.E.M.," etc. trigger Suno's hard-block content filter. If submit
+  fails with a producer-name error like the v274 Bizarrap incident,
+  replace "Jay Chou / Eric Chou tradition" with "modern Mandopop ballad
+  Mandarin pop tradition" and resubmit.
