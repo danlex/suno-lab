@@ -1,6 +1,6 @@
 {
-  "total_prompts": 268,
-  "latest_version": 268,
+  "total_prompts": 270,
+  "latest_version": 270,
   "instruments": {
     "piano": [
       1,
@@ -56,7 +56,9 @@
       205,
       262,
       266,
-      267
+      267,
+      269,
+      270
     ],
     "organ": [
       1,
@@ -973,15 +975,14 @@
       257
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
       255
     ],
-    "concerto": [
-      145,
-      149
+    "baroque": [
+      188,
+      191
     ],
     "house": [
       242,
@@ -991,6 +992,10 @@
       111,
       202
     ],
+    "romantic": [
+      145,
+      149
+    ],
     "symphonic": [
       162,
       178
@@ -998,11 +1003,11 @@
     "2-step garage": [
       100
     ],
+    "afrobeats": [
+      270
+    ],
     "amapiano": [
       266
-    ],
-    "baroque": [
-      188
     ],
     "minimalist": [
       201
@@ -1100,7 +1105,8 @@
       183,
       191,
       197,
-      231
+      231,
+      269
     ],
     "d major": [
       27,
@@ -1131,7 +1137,8 @@
       188,
       220,
       240,
-      249
+      249,
+      270
     ],
     "g minor": [
       59,
@@ -1550,7 +1557,8 @@
       69
     ],
     "105": [
-      211
+      211,
+      270
     ],
     "106": [
       132,
@@ -1770,7 +1778,8 @@
       258
     ],
     "174": [
-      72
+      72,
+      269
     ],
     "200": [
       70
@@ -1780,6 +1789,24 @@
     ]
   },
   "titles": [
+    {
+      "version": 270,
+      "title": "Wahala",
+      "name": "wahala",
+      "featured": [],
+      "genre": "afrobeats",
+      "key": "f minor",
+      "bpm": 105
+    },
+    {
+      "version": 269,
+      "title": "Halo",
+      "name": "halo",
+      "featured": [],
+      "genre": null,
+      "key": "e minor",
+      "bpm": 174
+    },
     {
       "version": 268,
       "title": "Bbang",
@@ -2728,7 +2755,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -3165,7 +3192,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -3201,7 +3228,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

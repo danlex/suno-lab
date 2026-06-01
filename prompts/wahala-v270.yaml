@@ -1,0 +1,150 @@
+name: "wahala"
+version: 270
+title: "Wahala"
+instrumental: false
+vocal_gender: male
+
+style: "Afrobeats, Nigerian Afro-fusion, smooth modern Afropop, 105 BPM, F minor, Lagos rooftop sunset. Male falsetto-mix Nigerian vocal — smooth high-tenor with Pidgin and Yoruba inflection, head-voice falsetto on hooks, chest-falsetto blend on verses, melodic R&B phrasing with Afrobeats syncopation, NOT chest-only amapiano, NOT Punjabi mid-register, NOT drift-phonk whisper — explicitly FALSETTO register. Production: Yoruba talking drum gùn-gùn rolling under the groove, sparse log drum, electric piano with tape saturation, deep 808 sub, dancehall-influenced kick, shaker on every off-beat, muted guitar licks, sax pad swells in the bridge, vocal ad-libs ('eh-eh', 'ah-ah', 'oya'). 2026 Afrobeats-without-borders aesthetic — calming, emotionally deep, NOT aggressive trap-afro, NOT mainstream radio pop. Lagos rooftop golden hour, palm-tree breeze. No EDM, no belt, no kawaii, no female group, no shouty MC, no orchestral."
+
+lyrics: |
+  [Intro]
+  (talking drum tease) eh-eh, eh-eh
+  ah-ah, oya
+
+  [Verse 1] (falsetto-chest blend)
+  baby no dey worry, leave wahala for tomorrow
+  shake your body, leave the sorrow on the floor
+  the night don sweet, moon don rise above Lagos
+  hold my hand make we dance, no question why
+
+  [Pre-Hook]
+  (falsetto floats) oh-oh, oh-oh
+  no wahala, no wahala
+
+  [Hook] (pure falsetto)
+  wahala, leave am for outside
+  wahala, when the music dey play
+  wahala, baby move your waist
+  wahala, no go far away
+
+  [Verse 2]
+  city dey loud but the rhythm dey soft
+  every kasala fade when your hips dey loft
+  na me and you, na the bass and the drum
+  wahala go come, but the night never done
+
+  [Hook]
+  wahala, leave am for outside
+  wahala, when the music dey play
+
+  [Bridge]
+  (sax swells, talking drum)
+  [Spoken] oya now, oya now
+  baby just dey vibe
+
+  [Final Hook] (stacked falsetto)
+  wahala (eh-eh), leave am outside
+  wahala (ah-ah), music dey play
+
+  [Outro]
+  (drums fade) wahala
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy female soprano DnB, hyperpop, k-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, neurofunk, jump-up DnB, mainstream radio reggaeton, mainstream radio afropop, aggressive trap-afro, drill"
+
+tags:
+  - afrobeats
+  - nigerian-afro-fusion
+  - afropop-2026
+  - 105bpm
+  - f-minor
+  - male-falsetto
+  - tenor-falsetto-mix
+  - pidgin-yoruba-english
+  - viral-arm
+  - lagos-aesthetic
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v270 — Afrobeats / Nigerian Afro-fusion. USER DIRECTIVE
+  RESPONSE: while drafting v270, user sent "Make it Viral." Pivoted FROM
+  the planned Mandopop direction (riskier classifier) TO AfroBeats (the
+  globally #1 TikTok-viral lane in 2026 per Tooxclusive, Music in Africa,
+  Afrolaud, BLK Alerts 2026 — "no longer emerging, firmly arrived as
+  dominant global pop force"). This is the strongest-virality unused lane
+  remaining after 10 prior viral-arm cycles.
+
+  Research-driven (2026 sources): Tems' "vocal depth that expanded what an
+  Afrobeats song could emotionally contain" is the 2026 vocal-direction
+  marker. Burna Boy's "Afrobeats + reggae + dancehall + Afro-fusion" blend
+  defines the production palette. Visual aesthetic from Tems' 2026 videos:
+  "calming and healing... emotional depth in a social media world full of
+  overstimulation." This is the Tems/Rema/Asake 2026 wave, NOT the
+  aggressive trap-afro that's also in the market.
+
+  VOICE DIFFERENTIATION — 11TH orthogonal voice in 11 cycles, and the
+  first FALSETTO register in the catalog. Cumulative ledger:
+    v260 — male whisper EN (drift phonk distorted)
+    v261 — soprano belt EN (arena anthemic)
+    v262 — husky contralto FR (close-mic intimate)
+    v263 — pitched-up kawaii EN (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap ES (autotuned attitude)
+    v265 — shouty Portuguese MC PT (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN (casual chest)
+    v267 — smooth Punjabi sing-rap male PA (R&B vulnerability, mid-low)
+    v268 — female K-pop group harmony KO/EN (stacked architecture)
+    v269 — ethereal breathy female soprano EN (understated DnB)
+    v270 — male FALSETTO-MIX Nigerian PIDGIN/YORUBA/EN (smooth high-tenor
+           with head-voice falsetto on hooks, chest-falsetto blend on
+           verses — NEW REGISTER not new timbre on existing register)
+  v260 and v266 were both male but in different registers (distorted whisper
+  vs casual chest). v267 was male R&B mid. v270 adds the smooth high-tenor
+  falsetto register — genuinely new male territory in the catalog. Both
+  style and exclude_styles block all ten prior voice characters.
+
+  LANGUAGE — Nigerian Pidgin + Yoruba + English code-switching. Pidgin
+  brings the eighth distinct vocal language to the viral arm (after EN/FR/
+  ES/PT/ZU+XH+EN/PA/KO+EN). Lyric vocabulary uses authentic Nigerian
+  Pidgin/English: "no dey worry," "leave wahala for tomorrow," "the night
+  don sweet," "make we dance," "oya," "na me and you," "city dey loud,"
+  "kasala fade," "baby just dey vibe." "Wahala" (trouble/wild-time) and
+  "oya" (let's go / come on) are canonical Nigerian Pidgin/Yoruba terms.
+  Concept: pure Afrobeats narrative — leave problems outside, vibe with
+  someone for tonight, the night isn't done yet.
+
+  BPM 105 — fresh in the recent rotation (recent: 92, 96, 110, 115, 124,
+  132, 138, 150, 160, 174). Within the canonical AfroBeats range (Wizkid
+  Essence 108, Rema Calm Down 107, Tems Free Mind 92-95). Slightly slower
+  than v264 dembow at 110 — different rhythm signature entirely (Afrobeats
+  6/8 polyrhythm with talking drum vs dembow boom-ch-boom-chick).
+
+  Key F minor — first F minor in the viral arm (v258 used it in cinematic
+  arm only). Canonical AfroBeats key, walks well with smooth R&B keys.
+
+  Production palette pinned: "Yoruba talking drum gùn-gùn rolling under the
+  groove" is the load-bearing instrument-anchor that distinguishes Nigerian
+  Afrobeats from South African amapiano in the classifier. Two anchor
+  references — "Lagos rooftop sunset" (geographic anchor) and "Tems lineage
+  calming and emotionally deep" (vocal-aesthetic anchor). Negatives
+  explicitly block aggressive trap-afro AND mainstream radio Afropop — the
+  two adjacent failure modes the 2026 understated-emotional lane sits
+  between.
+
+  Title "Wahala" — Pidgin/Yoruba for "trouble/wild time," 6 chars,
+  MEME-able, genre-canonical without colliding with a specific famous song
+  (multiple Afrobeats tracks reference "wahala" but no single iconic
+  song-title owns the word — it's a concept-word like "wahala dey" or
+  "no wahala" used across the genre).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no artist-name commands; Tems / Burna Boy / Wizkid /
+  Rema / Asake referenced ONLY in this notes field for context, not in
+  the style field).
+
+  BRIDGE STATE AT DRAFT TIME: Chrome MCP bridge is currently bound to a
+  localhost tab only — no suno.com tab in the MCP group. This YAML is
+  drafted but cannot be submitted this cycle. Per BACKLOG GUARD, the next
+  cron fire will detect this YAML as uncommitted (assuming we do not
+  commit it) and retry the submit when the bridge is reconnected.
