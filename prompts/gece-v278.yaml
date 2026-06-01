@@ -1,0 +1,154 @@
+name: "gece"
+version: 278
+title: "Gece"
+instrumental: false
+vocal_gender: male
+
+style: "Türk trap, Turkish trap, modern Anatolian rap, 140 BPM, Eb minor, Istanbul Beyoğlu 3am. Male Türk trap vocal — chesty mid-low Anatolian Turkish accent flow, light Auto-Tune with melismatic Turkish-makam modal turns on long vowels, conversational sing-rap with belted hook moments, NOT Argentine porteño, NOT Arabic mahraganat shouting, NOT Punjabi R&B, NOT Mandopop crooner — distinctly Türk trap with Anatolian melodic foundation. Production: 808-heavy trap kit, rattling triplet hi-hat, sliding 808 sub on the drop, saz (Turkish lute) atmospheric chord, ney (Turkish reed flute) breath fills in bridge, darbuka overlay on hook, modal minor pad in Hicaz color, vinyl crackle, sidechain pump. 2026 Türk trap, Istanbul Beyoğlu underground, NOT mainstream Turkish pop, NOT traditional folk, NOT Arabesque, NOT wedding music, NOT muezzin. Galata Bridge neon-and-rain. No traditional folk, no Arabesque, no orchestral."
+
+lyrics: |
+  [Intro]
+  (saz tease + 808 sub) eh, eh
+  ya, ya
+
+  [Verse 1] (chesty Anatolian flow)
+  gece üçü, Beyoğlu sessiz
+  telefonum çalmıyor, yine yalnız
+  beni kim arıyor, kimseye söyleme
+  bir gece daha, sen yoksun yine
+
+  [Pre-Hook]
+  (light Auto-Tune melisma) oh-oh, gece
+  ya-ya, gece gece
+
+  [Hook] (Türk trap belt with modal turn)
+  gece, gece, sen neredesin
+  gece, gece, telefonum sessiz
+  gece, gece, İstanbul ağlıyor
+  gece, gece, ben uyuyamam
+
+  [Verse 2]
+  Galata köprüsü, ışıklar suya düşüyor
+  bir bardak çay, sigara dumanı
+  sen gittin diye şehir bile değişti
+  Boğaz'ın sesi, eski şarkıların yankısı
+
+  [Hook]
+  gece, gece, sen neredesin
+  gece, gece, ben uyuyamam
+
+  [Bridge]
+  (ney solo + saz, drums drop)
+  [Spoken] sen yoksun, sen yoksun
+  bu gece de yoksun
+
+  [Final Hook] (Auto-Tune stack + 808 fills)
+  gece (gece), sen neredesin
+  gece (gece), ben uyuyamam
+
+  [Outro]
+  (saz fade) gece
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz traditional, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional Turkish folk, Arabesque dramatic, Turkish wedding music, muezzin call, halay folk dance, Karadeniz folk, mainstream Turkish radio pop, traditional Anatolian saz solo"
+
+tags:
+  - turkish-trap
+  - turk-trap
+  - modern-anatolian-rap
+  - 140bpm
+  - eb-minor
+  - male-vocal-anatolian
+  - autotune-melismatic-modal
+  - turkish-lyrics
+  - viral-arm
+  - istanbul-beyoglu-night
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v278 — Türk trap / Turkish trap / modern Anatolian rap.
+  Research-driven (Melodigging, volt.fm, TikTok 2026 Türk-trap reels):
+  Turkish trap emerged mid-2010s as Turkish rappers absorbed U.S. trap
+  sound design while localizing with Turkish melody and modal sentiment.
+  Ezhel's 2017 breakthrough brought melodic Auto-Tuned hooks and Turkish
+  makam modal inflections to trap frameworks. Modern production layers
+  808-heavy trap drums + rattling hi-hat triplets with traditional
+  Turkish instruments (saz lute, ney reed flute, darbuka percussion).
+  Themes: love, heartbreak, nostalgia, Istanbul night life.
+
+  USER ROADMAP TARGET: 18 viral cycles deep, 13 languages, 18 voice
+  archetypes, 15 regions. v278 adds Turkish (14th language, 80M speakers)
+  and Istanbul / Turkey as the 16th distinct region. Turkey sits at the
+  Mediterranean / Anatolian / Eastern-European crossroads — geographic
+  position no prior cycle has covered. Adjacent to v272 mahraganat
+  (Egypt/Arabic) but completely different language family (Turkic vs
+  Semitic) and different production tradition (trap-808 vs darbuka-shaabi
+  street-pop).
+
+  VOICE DIFFERENTIATION — 19TH orthogonal voice in 19 cycles. Cumulative
+  ledger (abbreviated for brevity — full list in prior cycles):
+    v260-v277: 18 prior voices spanning languages EN/FR/ES/PT/ZU+XH+EN/
+    PA/KO+EN/PIDGIN+YO+EN/ARABIC/INDONESIAN/MANDARIN/HINDI/JAPANESE
+    v278 — male CHESTY ANATOLIAN Türk trap TURKISH (mid-low chesty
+           Anatolian accent + light Auto-Tune with melismatic MAKAM-
+           influenced modal turns on long vowels — Türk trap signature
+           distinct from prior male trap/rap voices)
+  Closest comparisons:
+    - v264 raspy Latina sing-rap ES (female + Caribbean, v278 male + Anatolian)
+    - v272 male Arabic mahraganat ARABIC (chesty street, but mahraganat
+      is heavy-Auto-Tune shouting + darbuka-shaabi vs Türk trap chesty
+      flow + 808-trap + saz/ney + makam modal turns)
+    - v274 male porteño Argentine ES (laid-back drowsy half-time vs
+      Türk trap mid-tempo chesty drive)
+  The Anatolian Türk trap signature: 808-heavy trap + saz/ney + makam
+  modal Auto-Tune melisma + chesty mid-low Turkish accent. Distinctive
+  on all four axes. Style + exclude_styles block all 18 prior voice
+  characters.
+
+  LANGUAGE — 14th distinct language. Turkish (Latin alphabet — Turkish
+  uses Latin script natively post-1928 Atatürk reform, so no
+  transliteration needed). Lyric vocabulary uses authentic Türk trap
+  street: "gece" (night), "Beyoğlu" (Istanbul nightlife district),
+  "Galata köprüsü" (Galata Bridge — iconic Istanbul image), "Boğaz"
+  (Bosphorus), "yalnız" (alone), "yoksun" (you are absent), "İstanbul
+  ağlıyor" (Istanbul is crying), "bir bardak çay" (a glass of tea —
+  Turkish detail), "sigara dumanı" (cigarette smoke). Concept: classic
+  Türk trap heartbreak narrative — 3am Beyoğlu, silent phone, Galata
+  Bridge lights on water, Bosphorus sound is the echo of old songs, "you
+  are not here, the city has changed." Evergreen Türk trap emotional
+  core.
+
+  BPM 140 — canonical Türk trap tempo. Fresh in rotation (recent: 78,
+  88, 90, 92, 96, 98, 100, 105, 108, 110, 115, 120, 124, 132, 138, 150,
+  160, 174). 138 (v260 drift phonk) is closest but 2 BPM apart with
+  totally different groove signature.
+
+  Key Eb minor — first Eb minor in the viral arm. Distinct from recent
+  rotation. Walks well with Hicaz makam-influenced modal pad colors
+  (Hicaz minor is a Turkish makam with augmented-2nd characteristic
+  step — Eb minor base gives Suno a neutral starting point to inflect
+  toward the makam color).
+
+  Production palette pinned: "808-heavy modern trap drum kit + rattling
+  triplet hi-hat rolls + sliding 808 sub + saz atmospheric chord accent
+  + ney breath fills + darbuka percussion overlay + modal minor synth
+  pad in Hicaz-influenced color + vinyl crackle + sidechain pump."
+  Geographic + visual anchor: "Istanbul Beyoğlu 3am, Galata Bridge
+  lights, rain on Bosphorus." Negatives explicitly block traditional
+  Turkish folk, Arabesque dramatic, Turkish wedding music, muezzin call,
+  halay folk dance, Karadeniz folk, mainstream Turkish radio pop,
+  traditional Anatolian saz solo — eight distinct adjacent failure modes
+  Suno's classifier could drift toward.
+
+  Title "Gece" (night) — single Turkish word, 4 chars, MEME-able, iconic
+  Türk trap image (night = the canonical setting for the genre's
+  heartbreak-on-empty-streets emotional core). Distinct from prior viral
+  titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Ezhel, Reynmen, Şehinşah, Ben Fero, UNO,
+  Khontkar, Sansar Salvo, Anıl Piyancı or other Türk-trap artist names
+  in style field — preemptive removal per the v274-v277 artist-trigger
+  lesson pattern).

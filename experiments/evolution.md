@@ -322,6 +322,7 @@ mindmap
 | 275 | Yue | Modern Mandopop ballad / R&B-infused Mandarin pop viral cycle - male crooner with falsetto flips | F# major | 78 | Steinway piano + warm string pads + 808 sub |
 | 276 | Saavan | Modern Bollywood ballad / Hindi pop monsoon-romance viral cycle - female Hindustani playback-singer melismatic | D major | 90 | nylon acoustic guitar + tabla pulse + harmonium pad |
 | 277 | Yoru | Modern Japanese city-pop / future-funk-adjacent viral cycle - female warm 80s-inflected cool-girl solo | Bb major | 108 | Roland Juno-60 analog pads + slap bass + Rhodes electric piano |
+| 278 | Gece | Modern Türk trap / Turkish trap viral cycle - male chesty Anatolian with makam-modal Auto-Tune | Eb minor | 140 | 808 trap kit + saz lute + ney reed flute |
 
 ## Next-cycle priorities
 
