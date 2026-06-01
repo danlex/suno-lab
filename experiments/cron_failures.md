@@ -1,5 +1,14 @@
 # Cron failure log
 
+## 2026-06-01 — v270 failed at submit
+
+Reason: Chrome MCP bridge bound to localhost-only tab when v270 cycle fired — no suno.com tab in the MCP-controlled group. Bridge state at draft start: 2 tabs (localhost:8765 + Tóxico song page). Bridge state at submit check: 1 tab (localhost:8765 only — Tóxico tab was closed mid-cycle).
+State: Draft YAML at `prompts/wahala-v270.yaml` (Afrobeats / Nigerian Afro-fusion 105 BPM, F minor, male falsetto-mix Pidgin-Yoruba-English — eleventh orthogonal viral-arm voice; first falsetto register; pivoted from planned Mandopop direction in direct response to user mid-cycle directive "Make it Viral" — AfroBeats is currently #1 global TikTok-viral lane in 2026). Style 920, lyrics 926, exclude 711, blocklist clean — pre-validated via `scripts/yaml_field_check.py`. **NOT committed** — left uncommitted so BACKLOG GUARD auto-retries on next cycle with live bridge.
+Action taken: Aborted submission per constraint #4. No retry this cycle.
+Next cycle should: `python3 scripts/cycle_start.py` will return `latest_yaml_uncommitted: true` and `recommended_action: resume_submit` — submit `prompts/wahala-v270.yaml` directly. Close-out: `python3 scripts/finish_cycle.py --version 270 --clips <UUID1> <UUID2> --technique "Afrobeats / Nigerian Afro-fusion / falsetto male" --key "F minor" --bpm 105 --trio "Yoruba talking drum + 808 sub + electric piano"`.
+
+RESOLVED (2026-06-01): User reconnected the Chrome bridge ("try now") and triggered a manual retry. v270 submitted + both clips published: 08e1a591-c7de-4832-ab0b-8f11d62d8281 (2:23) and 9e7f5067-f8bd-443b-b955-3291260553d8 (2:02). Suno classified as `Afrobeats, Afropop, Nigerian Afro-fusion` — no drift. Closed out via `finish_cycle.py --version 270`.
+
 ## 2026-06-01 — v265 failed at submit
 
 Reason: Chrome MCP extension is connected to a localhost:8765 tab only. The suno.com/create tab is in a separate Chrome window outside the MCP tab group, so the extension cannot navigate or fill it. Submitter (`suno-submitter`) reported `browser_disconnected` after find/read_page attempts confirmed no controllable suno.com tab.
