@@ -1,0 +1,153 @@
+name: "tma"
+version: 281
+title: "Tma"
+instrumental: false
+vocal_gender: male
+
+style: "Russian phonk, drift phonk, Russian-language hyperpop, 155 BPM, F minor, Moscow underground tunnel. Male Russian phonk MC vocal — shouty distorted mid-low Russian delivery with hard consonant clusters + palatalization, aggressive trap flow, bitcrushed distortion and compressed shouting, rap-shout between hooks, NOT English drowsy whisper drift phonk, NOT Türk trap melismatic, NOT mahraganat shouting, NOT German sprechgesang — Russian-language phonk MC signature with shouty distortion. Production: 808 cowbell on the half-beat (signature drift phonk), heavy distorted sub-bass, bitcrushed kick, ride-cymbal swing, slowed sample chops, Russian-spoken voice cuts as ad-libs, dark cathedral-organ pad, sidechain pump, vinyl crackle, hard saturation. 2026 Russian drift-phonk underground, NOT English Memphis phonk, NOT mainstream Russian pop, NOT Russian rave, NOT classical Russian. Moscow night-tunnel, neon-on-concrete. No mainstream Russian pop, no orchestral."
+
+lyrics: |
+  [Intro]
+  (808 cowbell + bitcrushed kick) tma, tma
+  da, da, tma
+
+  [Verse 1] (shouty distorted Russian)
+  noch v Moskve, ulitsy pustye
+  ya odin, telefon ne zvonit
+  tma vokrug menya, tma vnutri menya
+  ne zhdu nikogo, ne ishchu nikogo
+
+  [Pre-Hook]
+  (cowbell roll) tma-tma
+  da-da, tma vokrug
+
+  [Hook] (shouty distorted MC)
+  tma, tma, tma vokrug menya
+  tma, tma, ya ne boyus
+  tma, tma, Moskva spit segodnya
+  tma, tma, ya odin v tonneli
+
+  [Verse 2]
+  drift na MKAD, fary v tumane
+  motor revyot, serdtse molchit
+  ya ne otvechu, ya ne pridu
+  tma menya znayet luchshe vsekh
+
+  [Hook]
+  tma, tma, tma vokrug menya
+  tma, tma, ya odin v tonneli
+
+  [Bridge]
+  (bitcrushed sample chop, kick drops)
+  [Shouted-spoken] da, da
+  tma, tma, vsegda
+
+  [Final Hook] (heavy sidechain + distortion stack)
+  tma (tma), vokrug menya
+  tma (tma), ya ne boyus
+
+  [Outro]
+  (cowbell fade) tma
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, English Memphis drift phonk whisper, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty Anatolian, male German sprechgesang deadpan, female V-pop husky whisper-belt Vinahouse, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, mainstream Russian pop, classical Russian, Russian rave, Russian folk traditional, Soviet estrada"
+
+tags:
+  - russian-phonk
+  - drift-phonk
+  - russian-hyperpop
+  - 155bpm
+  - f-minor
+  - male-vocal-shouty
+  - russian-mc-distorted
+  - russian-lyrics
+  - viral-arm
+  - moscow-underground
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v281 — Russian phonk / drift phonk / Russian-language
+  hyperpop. Research-driven (Esquire India 2026, Headliner Magazine,
+  TikTok 2026 Russian-phonk content): drift phonk is the Russian-origin
+  offshoot of Memphis phonk, faster and more aggressive, currently
+  dominating TikTok via drift culture / dark-mode internet aesthetic /
+  anime edits / gaming content. Spotify phonk playlist sits at ~11M
+  followers (double the size of Spotify's 'mint' EDM flagship). 2026
+  high-BPM resurgence pushes drift phonk into 150-170 BPM territory.
+  Production: 808 cowbells + heavy distorted sub + bitcrushed kicks +
+  slowed sample chops.
+
+  USER ROADMAP TARGET: 20 viral cycles deep, 16 languages, 21 voice
+  archetypes, 18 regions. v281 adds Russian (17th language — biggest
+  remaining major-language gap at 250M+ speakers) and Moscow / Russia
+  as the 19th distinct region. v261 used Russian themes ("Polnoch")
+  but in English lyrics; v281 is the actual Russian-LANGUAGE cycle.
+
+  VOICE DIFFERENTIATION — 22ND orthogonal voice in 22 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v280: 21 prior voices spanning 16 languages
+    v281 — male SHOUTY DISTORTED Russian-language phonk MC RUSSIAN
+           (shouty mid-low Russian delivery + hard consonant clusters +
+           palatalization + bitcrushed distortion + compressed shouting
+           — fundamentally different from v260's English drowsy whisper
+           drift phonk by being shouty MC + Russian language + 17 BPM
+           faster)
+  v260 vs v281 differentiation note: both drift phonk, but v260 is
+  English DROWSY WHISPER at 138 BPM with Memphis-grimey distortion,
+  while v281 is Russian-language SHOUTY MC at 155 BPM with bitcrushed
+  Russian-phonk distortion. Different gender feel (whisper vs shout),
+  different language (English vs Russian), different BPM (138 vs 155),
+  different distortion palette (Memphis grimey vs Russian bitcrushed).
+  Style + exclude_styles block all 21 prior voice characters explicitly
+  including v260's "English Memphis drift phonk whisper" — the most
+  important differentiation gate.
+
+  LANGUAGE — 17th distinct language. Russian in Latin transliteration
+  (standard for Russian phonk social-media format — Cyrillic is also
+  used but transliteration is the dominant TikTok format). Lyric
+  vocabulary uses authentic Russian phonk: "tma" (darkness), "noch v
+  Moskve" (night in Moscow), "ulitsy pustye" (empty streets), "telefon
+  ne zvonit" (the phone is not ringing), "drift na MKAD" (drift on the
+  Moscow Ring Road — MKAD is the iconic Moscow circular highway, drift
+  culture epicenter), "fary v tumane" (headlights in the fog), "motor
+  revyot, serdtse molchit" (engine roars, heart is silent), "tma menya
+  znayet luchshe vsekh" (darkness knows me better than anyone). Concept:
+  classic Russian drift-phonk narrative — Moscow night, empty streets,
+  phone silent, alone in tunnel, drifting on MKAD with headlights in
+  fog, "darkness is around me, darkness is inside me, I'm not afraid."
+  Evergreen Russian-phonk emotional core (the dark-mode internet
+  drift-culture aesthetic).
+
+  BPM 155 — drift phonk canonical fast-band tempo. Fresh in rotation
+  (recent: 78, 88, 90, 92, 96, 98, 100, 105, 108, 110, 115, 120, 124,
+  128, 132, 138, 140, 144, 150, 160, 174). 155 is unused and 17 BPM
+  above v260 drift phonk (138).
+
+  Key F minor — first reuse of F minor since v270 (11 cycles ago).
+  Walks well with the dark-cathedral-organ pad + bitcrushed-kick
+  Russian drift phonk palette.
+
+  Production palette pinned: "808 cowbell on the half-beat + heavy
+  distorted sub-bass + bitcrushed kick + ride-cymbal swing + slowed-
+  down sample chops + Russian-spoken voice cuts + dark cathedral-organ
+  pad + sidechain pump + vinyl crackle + hard saturation polish."
+  Geographic + visual anchor: "Moscow night-tunnel energy, neon-on-
+  concrete." Negatives explicitly block English Memphis phonk (v260
+  neighbor), mainstream Russian pop, classical Russian, Russian rave,
+  Russian folk traditional, Soviet estrada — six adjacent failure modes.
+
+  Title "Tma" (тьма, darkness) — single Russian word in transliteration,
+  3 chars, MEME-able, evokes the dark-mode-internet drift-phonk
+  aesthetic. Distinct from prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no MORGENSHTERN, Kordhell, Pharaoh, Boulevard Depo,
+  Lil Peep, or other phonk-adjacent artist names in style field —
+  preemptive removal per the v274-v280 artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (4-cycle
+  data, 75% correction rate), the submitter MUST verify the Suno UI's
+  vocal_gender radio button matches the YAML (`male`) before clicking
+  Create.

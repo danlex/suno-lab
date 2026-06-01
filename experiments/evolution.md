@@ -325,6 +325,7 @@ mindmap
 | 278 | Gece | Modern Türk trap / Turkish trap viral cycle - male chesty Anatolian with makam-modal Auto-Tune | Eb minor | 140 | 808 trap kit + saz lute + ney reed flute |
 | 279 | Kalt | Modern Berlin tech-house / minimal techno viral cycle - German sprechgesang deadpan monotone | A minor | 128 | tech-house pluck synth + acid-303 bassline + sub-bass |
 | 280 | Bay | Vinahouse / V-pop / Vietnamese electronic dance viral cycle - female husky whisper-belt with Vietnamese tonal contours | D minor | 144 | Vinahouse rolling bass + rave synth stabs + heavy sub |
+| 281 | Tma | Russian phonk / drift phonk / Russian-language hyperpop viral cycle - male shouty distorted Russian MC | F minor | 155 | 808 cowbell + bitcrushed kick + cathedral organ pad |
 
 ## Next-cycle priorities
 
