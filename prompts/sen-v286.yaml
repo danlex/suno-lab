@@ -1,0 +1,158 @@
+name: "sen"
+version: 286
+title: "Sen"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Polish rap, polski rap trap, Warsaw indie-trap, 104 BPM, F# minor, Warszawa Praga 3am. Male Polish trap rapper — chesty mid-low Warsaw accent with Polish sibilant-rich phonetics (sz, cz, ść, dź consonant clusters + palatalized consonants), light Auto-Tune on hooks only, deadpan-introspective flow with melodic-belt moments, NOT French banlieue, NOT Russian shouty distorted, NOT Türk trap melismatic, NOT German sprechgesang — Polish trap signature with Slavic sibilant phonetic character and Warsaw-pop Auto-Tune. Production: minimalist Polish trap kit, sliding 808 sub, subtle piano sample loop in melancholic Slavic-minor color, trap hi-hat triplets, sharp clap, low cathedral pad pulse, vinyl crackle, hard saturation. 2026 Warsaw indie-trap, NOT mainstream Polish pop, NOT disco polo, NOT Polish folk, NOT Eurodance, NOT US Memphis phonk. Warszawa Praga 3am, neon-on-concrete. No disco polo, no Polish folk, no Eurodance, no orchestral."
+
+lyrics: |
+  [Intro]
+  (piano sample loop, 808 slide) ej, ej
+  ej, sen
+
+  [Verse 1] (chesty deadpan Polish)
+  trzecia nad ranem, miasto jeszcze nie śpi
+  Praga po lewej, Wisła płynie po prawej
+  pamiętam twój głos jakby to było wczoraj
+  rok temu poszłaś, ja jeszcze tu zostałem
+
+  [Pre-Hook]
+  (Auto-Tune touch) ej-ej, sen
+  ej-ej, sen tylko sen
+
+  [Hook] (trap-pop belt)
+  sen, sen, ty jesteś moim snem
+  sen, sen, ty wracasz w nocy
+  sen, sen, ja cię nie zapomniał
+  sen, sen, Warszawa pamięta
+
+  [Verse 2]
+  papieros przy oknie, kawa jeszcze gorąca
+  Spotify gra naszą piosenkę, ale ty jej nie słyszysz
+  WhatsApp ostatnio widziana wczoraj
+  ja czekam jak idiota, choć wiem że nie wrócisz
+
+  [Hook]
+  sen, sen, ty jesteś moim snem
+  sen, sen, Warszawa pamięta
+
+  [Bridge]
+  (piano sample loop, drums drop)
+  [Mówione] sen, sen
+  ej, Warszawa, ja jestem tu
+
+  [Final Hook] (808 + Auto-Tune stack)
+  sen (sen), ty jesteś moim snem
+  sen (sen), ty wracasz w nocy
+
+  [Outro]
+  (808 fade) sen
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty Anatolian, male German sprechgesang deadpan, female V-pop husky whisper-belt, male Russian shouty distorted MC, male French banlieue rapper, female Thai Mor Lam Sing nasal, female Persian tahrir, female OPM warm sincere, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, disco polo, traditional Polish folk, polka, 90s Eurodance, Polish wedding music, Polish church gospel, US Memphis phonk"
+
+tags:
+  - polski-rap
+  - polish-trap
+  - warsaw-indie-trap
+  - 104bpm
+  - f-sharp-minor
+  - male-vocal-chesty-polish
+  - polish-sibilant-phonetics
+  - polish-lyrics
+  - viral-arm
+  - warszawa-praga-night
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v286 — Modern Polish rap / polski rap trap / Warsaw
+  indie-trap. Research-driven (TikTok 2026 Polski Rap Tekst content,
+  TikTok Rap Trap 2026, Deezer Hits do TikTok 2026): Mata, Quebonafide,
+  Young Igi, Białas dominate the contemporary Polish rap scene with
+  active TikTok presence. Modern Polish trap pairs 808-heavy minimalist
+  drum kits with subtle piano sample loops in melancholic Slavic-minor
+  color, light Auto-Tune on melodic hooks, deadpan-introspective male
+  Warsaw-accent flow with characteristic sibilant-rich Polish phonetics.
+
+  USER ROADMAP TARGET: 25 viral cycles deep, 20 languages, 26 voice
+  archetypes, 22 regions. v286 adds Polish (21st language, 50M speakers
+  — largest remaining language gap) and Warsaw / Eastern Europe (23rd
+  distinct region, deeper into Eastern Europe beyond v261 Russian-themed
+  English and v281 Russian phonk). Eastern Europe now has 3 cycles:
+  v261 slap house Russian-themed (English), v281 Russian phonk (Russian
+  language), v286 Polish trap (Polish language). Three distinct Eastern
+  European music traditions covered.
+
+  VOICE DIFFERENTIATION — 27TH orthogonal voice in 27 cycles. Cumulative
+  ledger (abbreviated — full list in prior cycles):
+    v260-v285: 26 prior voices spanning 20 languages
+    v286 — male CHESTY MID-LOW WARSAW POLISH TRAP (Polish sibilant-rich
+           phonetics — sz, cz, ść, dź consonant clusters + palatalized
+           consonants + light Auto-Tune on hooks + deadpan-introspective
+           flow with melodic-belt moments — distinct from all prior male
+           trap/rap voices via specifically Slavic-sibilant phonetic
+           character and introspective Warsaw-pop Auto-Tune signature)
+  Closest comparisons:
+    - v281 Russian shouty distorted MC (also Slavic, but shouty +
+      distorted vs deadpan + introspective + Auto-Tune)
+    - v282 French banlieue rapper (also chesty male European trap, but
+      French phonetics + drill production vs Polish sibilants + indie-
+      trap production)
+    - v278 Türk trap (also chesty male European trap, but Turkish makam
+      modal Auto-Tune + saz instrumentation vs Polish Slavic-minor +
+      piano sample)
+  The Polish sibilant-rich phonetic character is the distinctive axis.
+  Style + exclude_styles block all 26 prior voice characters.
+
+  LANGUAGE — 21st distinct language. Polish (native Latin alphabet with
+  Polish diacritics — ą, ć, ę, ł, ń, ó, ś, ź, ż). Lyric vocabulary uses
+  authentic Warsaw trap-rap Polish: "sen" (dream), "Praga" (Warsaw
+  district east of the Vistula — banlieue-equivalent for Polish trap),
+  "Wisła" (Vistula river — iconic Warsaw landmark), "papieros przy
+  oknie" (cigarette by the window), "Spotify gra naszą piosenkę"
+  (Spotify plays our song), "WhatsApp ostatnio widziana wczoraj"
+  (WhatsApp last seen yesterday — modern Polish trap detail), "trzecia
+  nad ranem" (3am), "Warszawa pamięta" (Warsaw remembers). Concept:
+  classic Polish trap heartbreak narrative — 3am Warsaw, Praga district,
+  Vistula flowing, year since you left, cigarette and coffee, our song
+  on Spotify, WhatsApp last seen yesterday, "I wait like an idiot
+  though I know you won't come back, Warsaw remembers." Evergreen
+  Polish-trap Warsaw-melancholic emotional core.
+
+  BPM 104 — fresh in rotation. Mid-Polish-trap canonical tempo
+  (Mata/Young Igi/Quebonafide most-played range).
+
+  Key F# minor — first reuse of F# minor since v267 (19 cycles ago).
+  Walks well with Slavic-minor piano-sample loops canonical to Polish
+  trap.
+
+  Production palette pinned: "minimalist Polish trap drum kit +
+  sliding 808 sub + subtle piano sample loop with melancholic Slavic-
+  minor color + trap hi-hat triplet rolls + sharp clap + low cathedral
+  pad pulse + vinyl crackle + hard saturation." Geographic + visual
+  anchor: "Warszawa Praga district 3am, neon-on-concrete." Negatives
+  explicitly block disco polo (the dad-Polish-genre), traditional
+  Polish folk, polka, 90s Eurodance, Polish wedding music, Polish
+  church gospel, US Memphis phonk — seven adjacent failure modes the
+  Suno classifier could drift toward.
+
+  Title "Sen" (dream) — single Polish word, 3 chars, MEME-able,
+  iconic Polish poetic concept central to Slavic-trap emotional core
+  (the dream as memory-of-ex-lover trope). Distinct from prior viral
+  titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Mata, Quebonafide, Young Igi, Białas, Bedoes,
+  Kizo, Szpaku, Taco Hemingway, Otsochodzi, or other Polish-rap
+  artist names in style field — preemptive removal per v274-v285
+  artist-trigger lesson pattern).
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (9-cycle
+  data, 67% correction rate trending down, two consecutive correct
+  defaults at v284/v285), submitter MUST verify Suno UI vocal_gender
+  radio matches YAML (`male`) before Create.
+
+  v283 cmd+l-misfire reminder: do NOT use cmd+l during form-fill.
