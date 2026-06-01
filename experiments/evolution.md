@@ -335,6 +335,7 @@ mindmap
 | 288 | Or | Modern Israeli pop / Yam Tikhoni / Mizrahi-electronic fusion viral cycle - female chest-rich Hebrew guttural with Mizrahi modal ornaments | D minor | 122 | darbuka percussion overlay + oud atmospheric + Mediterranean electronic synth pads |
 | 289 | Dor | Modern Romanian manele de dor / emotional manele viral cycle - male passionate chest belt with manele-melisma microtonal slides | A minor | 113 | oriental hammond organ + accordion + saxophone fills |
 | 290 | Hugr | Nordic neo-folk-pop / Viking-era ritualistic chant — USER DIRECTIVE Vikings + brain dopamine cycle with silence-before-climax + half-step modulation + dual-gender vocals | E minor → F minor | 84 | frame drums (bodhrán) + lurs Viking horns + tagelharpa drone |
+| 291 | Eldur | Nordic noir dark synth-pop / Faroese-Icelandic electronic — USER DIRECTIVE Vikings + brain dopamine cycle 2 with SUSTAINED CRESCENDO + overtone-shift drop (no silence-gate) | F minor | 102 | deep analog synth pads + tagelharpa drone + frame drums |
 
 ## Next-cycle priorities
 

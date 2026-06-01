@@ -1,0 +1,167 @@
+name: "eldur"
+version: 291
+title: "Eldur"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Nordic noir dark synth-pop, Faroese-Icelandic electronic, dopamine-peak crescendo architecture, 102 BPM, F minor, glacier-and-volcano dawn Iceland. Female Nordic vocal — clear cool-glacial mid-high tone with Faroese-Icelandic vowel phonetics, classically-trained head-voice on verses lifting to chest-belt at climax, breathy whisper intro, ethereal floating melisma, NOT Persian tahrir, NOT Greek modal, NOT Mizrahi guttural, NOT Old Norse battle-roar — Nordic noir clear-tone female signature. Production: deep analog synth pads, reversed reverb tails on vocal, frame drum tribal pulse, tagelharpa drone, sub-bass swelling, sparse trap drums on build, sustained crescendo to drop with 808 + overtone-shift, glacier-wide stereo reverb. ARC: 0:00 whisper, 0:30 drone, 1:00 drums + first belt, 1:45 SUSTAINED CRESCENDO (no silence-gate), 2:15 drop with 808 + overtone-shift, sustain to 3:00. NOT Eurovision Scandi kitsch, NOT power metal, NOT trance EDM, NOT Celtic Enya kitsch."
+
+lyrics: |
+  [Intro] (breathy whisper, 0:00-0:30)
+  eldur... eldur...
+  í myrkri ein ég stend
+
+  [Verse 1] (clear cool head-voice, 0:30-1:00)
+  fjall fjall, sjór sjór
+  jökull undir himni hvíta
+  ég stóð á klettinum í myrkri
+  vindurinn talar í gegnum mig
+
+  [Build] (drums enter, vocal rises, 1:00-1:45)
+  eldur í brjósti mínu
+  eldur í sálu minni
+  eldur eldur eldur
+  ah ah ah, eldur rís
+
+  [Crescendo Build] (sustained build, 1:45-2:15 — NO silence, full sustain)
+  eldur, eldur, eldur, eldur
+  ah ah ah ah
+  eldur, eldur, eldur, eldur
+
+  [Drop Climax] (2:15 — full 808 entry + overtone-shift harmonic modulation + chest belt)
+  ELDUR! ELDUR! í brjósti mínu
+  ELDUR! ELDUR! ég lifi enn
+  ELDUR! ELDUR! glóð undir snjó
+  ELDUR! ELDUR! ég brenn
+
+  [Sustained Climax] (2:30-3:00)
+  eldur í myrkri, eldur á sjó
+  eldur í hjarta, eldur í mér
+  ELDUR! ég brenn enn
+
+  [Outro] (drone fade)
+  eldur...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Old Norse battle-roar chant choir v290, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, Eurovision Scandi kitsch, viking power metal, Celtic Enya kitsch, trance EDM, generic ambient meditation"
+
+tags:
+  - nordic-noir
+  - dark-synth-pop
+  - faroese-icelandic-electronic
+  - dopamine-crescendo-architecture
+  - 102bpm
+  - f-minor
+  - female-vocal-clear-glacial
+  - faroese-icelandic-phonetics
+  - icelandic-lyrics
+  - viral-arm
+  - glacier-volcano-dawn-iceland
+  - sustained-crescendo-no-silence
+  - overtone-shift-modulation
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v291 — USER DIRECTIVE CONTINUATION: "Vikings music +
+  brain dopamine." Second cycle in the new theme after v290 "Hugr." This
+  cycle uses a different dopamine-peak architecture from v290 — SUSTAINED
+  CRESCENDO BUILD instead of silence-before-climax. v290's silence-gate
+  may have caused early truncation (clip 2 came in at 1:56). v291 tests
+  whether sustained crescendo (no dead silence) gives Suno the structural
+  cue to render to full 3:00 while still delivering the dopamine peak.
+
+  Research-driven (Iceland Airwaves 2026, Paste Magazine Nordic Noir,
+  Eivør Pálsdóttir Faroese-pop phenomenon): Nordic noir is a recognized
+  modern Scandinavian genre — Eivør Pálsdóttir (Faroese folk + classical
+  + pop), Aurora Aksnes (Norwegian dark-pop), Ásgeir (Icelandic indie-
+  electronic), Skeler (euphoric bass-rich electronic + cloud rap +
+  melodic trap + downtempo + trance). Strong TikTok presence via Aurora's
+  catalog. The genre aesthetic is the cold-modernism-meets-dark-tradition
+  of contemporary Scandinavia.
+
+  USER ROADMAP: 30 viral cycles + 1 Viking cycle = 31 cycles so far.
+  v291 adds Icelandic (26th language — distinct from v290 Old Norse
+  proper — modern Icelandic is a living language descended from Old
+  Norse) and Iceland (28th region — glacier-and-volcano landscape). The
+  Nordic / Viking-derived languages now have two distinct cycles: v290
+  Old Norse skaldic + v291 modern Icelandic, with very different
+  production approaches.
+
+  VOICE DIFFERENTIATION — 32ND orthogonal voice in 32 cycles. This is
+  the FIRST NORDIC FEMALE voice in the catalog. Cumulative ledger
+  (abbreviated):
+    v260-v290: 31 prior voices spanning 25 languages
+    v291 — female NORDIC CLEAR COOL-GLACIAL MID-HIGH TONE ICELANDIC
+           (Faroese-Icelandic vowel phonetics — rounded ö, sustained á,
+           soft ð — classically-trained pure head-voice on verses lifting
+           to powerful chest-belt at climax + breathy whisper intro +
+           ethereal floating melisma — distinct from all prior female
+           voices via specifically Nordic-noir cool-glacial tonal
+           placement and Eivør-Aurora-Ásgeir lineage)
+  v269 (ethereal breathy DnB female) is the closest comparison — but
+  v269 is understated atmospheric DnB / not Nordic, while v291 is
+  cool-glacial Nordic-noir with classical training and crescendo
+  architecture. Style + exclude_styles block all 31 prior voice
+  characters.
+
+  LANGUAGE — 26th distinct language. Modern Icelandic (distinct from
+  v290's Old Norse — Icelandic is the living descendant). Lyric
+  vocabulary uses authentic Icelandic: "eldur" (fire), "í myrkri ein
+  ég stend" (in darkness alone I stand), "fjall, sjór" (mountain, sea),
+  "jökull undir himni hvíta" (glacier under white sky), "klettinum"
+  (the cliff), "vindurinn talar í gegnum mig" (the wind speaks through
+  me), "eldur í brjósti mínu" (fire in my chest), "ég lifi enn" (I still
+  live), "glóð undir snjó" (ember under snow), "ég brenn" (I burn).
+  Concept: classic Nordic-noir self-affirmation — alone on the cliff
+  in darkness, wind speaks through me, fire in chest, ember under
+  snow, "I still live, I burn." Evergreen Icelandic Nordic-noir
+  emotional core.
+
+  BPM 102 — fresh in rotation. Mid-Nordic-noir tempo.
+
+  Key F minor — first reuse of F minor since v270 Afrobeats (21 cycles
+  ago). Walks well with Nordic-noir cool harmonic palette.
+
+  Production palette pinned: "deep analog synth pads + reversed reverb
+  tails on vocal + frame drum tribal pulse + tagelharpa atmospheric
+  drone + sub-bass swelling + sparse trap drums on build + sustained
+  crescendo to drop + 808 entry + overtone-shift harmonic modulation +
+  glacier-wide stereo reverb." Eivør Pálsdóttir / Aurora Aksnes / Ásgeir
+  lineage referenced as TRADITION not artist-copy command.
+
+  **DOPAMINE-PEAK ARCHITECTURE v2** (revised from v290):
+  - 0:00-0:30 breathy whisper-vocal (baseline)
+  - 0:30-1:00 drone + clear head-voice verse (entry)
+  - 1:00-1:45 frame drums + first belt (build)
+  - 1:45-2:15 SUSTAINED CRESCENDO — explicit instruction "NO silence
+    this time, full sustain" — avoid the v290 truncation issue
+  - 2:15 DROP with full 808 entry + overtone-shift harmonic modulation
+    + chest belt (climax — the dopamine peak is at the harmonic shift,
+    not at a silence-gate)
+  - 2:30-3:00 sustained climax energy with final hook
+  Hypothesis: sustained crescendo gives Suno the structural cue to
+  render the full 3:00, while still delivering the dopamine peak via
+  the overtone-shift harmonic modulation.
+
+  Negatives explicitly block Eurovision Scandi kitsch, viking power
+  metal, Celtic Enya kitsch, trance EDM, generic ambient meditation —
+  five adjacent failure modes.
+
+  Title "Eldur" (fire in Icelandic) — 5 chars, MEME-able. Distinct from
+  prior viral titles. Conceptually pairs with v290 "Hugr" (Old Norse
+  mind/courage) as the Nordic pair: hugr (mind) → eldur (fire). The
+  user's brain-dopamine directive is honored in BOTH the title concept
+  (fire = passion = dopamine) AND the production architecture (sustained
+  crescendo → overtone-shift drop = dopamine peak).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" anywhere (CLAUDE.md trigger word —
+  removed per v290 lesson). No Eivør Pálsdóttir, Aurora Aksnes, Ásgeir,
+  Björk, Skeler artist names in style field — preemptive removal per
+  v274-v290 artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (13-cycle
+  data, 69% correction rate), submitter MUST verify Suno UI vocal_gender
+  matches YAML (`female`) before Create.
