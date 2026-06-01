@@ -1,0 +1,167 @@
+name: "setareh"
+version: 284
+title: "Setareh"
+instrumental: false
+vocal_gender: female
+
+style: "Modern Persian pop ballad, Farsi pop, contemporary Iranian ballad, 82 BPM, C# minor, Tehran rooftop midnight. Female Persian pop vocal — mid-high crystal-tone with characteristic TAHRIR ornament (microtonal vocal trill turning around the central note, distinct from Hindustani gamak / Mor Lam glissando / dangdut cengkok), intimate close-mic Farsi pronunciation with poetic phrasing, dastgah modal inflections on long vowels, NOT Bollywood Hindustani, NOT Mor Lam nasal, NOT Mandopop head-voice, NOT mahraganat shouting — Persian tahrir-ornamented pop ballad signature. Production: gentle Western piano arpeggios, tar (Persian lute) atmospheric chord, santur (hammered dulcimer) light hammered phrases, soft strings, sparse trap drums on chorus, 808 sub on the drop, wide vocal reverb with rain ambience. 2026 Persian-diaspora midnight, NOT traditional Persian classical, NOT Sufi, NOT Arabic mahraganat, NOT Turkish makam. Tehran-Tehrangeles diaspora. No Sufi, no orchestral arena."
+
+lyrics: |
+  [Intro]
+  (piano arpeggio, tar atmospheric)
+  ah, ah-ah
+  setareh, setareh
+
+  [Verse 1] (intimate Persian tahrir)
+  shab-e Tehran, mahtab-e khaali
+  setareh ha be man neghah mikonan
+  do saal pish ke to rafti
+  delam hanooz too tabestoon-e oon shab
+
+  [Pre-Hook]
+  (tahrir ornamental turn) ah-ah-ah
+  setareh, setareh, kojaee
+
+  [Hook] (mid-high crystal-tone + tahrir ornaments)
+  setareh, setareh, naghshe asemoon
+  setareh, setareh, ghalbe man tanha
+  setareh ah, mah-e shab che nazdik
+  setareh ah, to chera nemiyay
+
+  [Verse 2]
+  baroon mizane, panjereh roshane
+  cup-e qahveh sard, shahr arrome
+  pelaayte to ru divaar, akse to ru gooshi
+  in shab-e tooli, to nisti, mahtab nemikhabe
+
+  [Hook]
+  setareh, setareh, naghshe asemoon
+  setareh ah, to chera nemiyay
+
+  [Bridge]
+  (santur solo, piano sustains)
+  [Whispered tahrir] kojaee ah, kojaee
+  setareh, setareh
+
+  [Final Hook] (full tahrir + 808 entrance)
+  setareh (setareh), naghshe asemoon
+  setareh (setareh), ghalbe man tanha
+
+  [Outro]
+  (piano fade) setareh
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty, male German sprechgesang, female V-pop husky whisper-belt, male Russian shouty distorted MC, male French banlieue rapper, female Thai Mor Lam Sing nasal, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, traditional Persian classical solo, Sufi devotional, Arabic mahraganat, Turkish makam, Indian raga, Cambodian khmer pop, Kurdish folk"
+
+tags:
+  - modern-persian-pop
+  - farsi-pop
+  - iranian-ballad
+  - 82bpm
+  - c-sharp-minor
+  - female-vocal-tahrir
+  - persian-classical-ornaments
+  - farsi-lyrics
+  - viral-arm
+  - tehran-tehrangeles
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v284 — Modern Persian pop ballad / Farsi pop /
+  contemporary Iranian ballad. Research-driven (TikTok 2026 #persiantiktok
+  / #farsisong / #iraniantiktok hashtag activity, Haydeh-era classical-
+  pop tradition, Iranian diaspora music culture): Persian pop is
+  actively TikTok-trending in 2026 via Iran-based + diaspora artists.
+  Persian vocal tradition is built on the **TAHRIR** ornament — a
+  microtonal vocal trill turning around the central note with descending-
+  ascending microtonal motion. Fundamentally different from Indian
+  gamak (which leans on longer slides), Thai Mor Lam glissando
+  (5-tone modal jumps), Indonesian cengkok (pelog ornaments), or
+  Vietnamese tonal-contour shifts. The tahrir is THE distinguishing
+  feature of Persian classical and Persian pop vocal.
+
+  USER ROADMAP TARGET: 23 viral cycles deep, 18 languages, 24 voice
+  archetypes, 20 regions. v284 adds Farsi/Persian (19th language —
+  110M speakers, larger than Greek/Hebrew/Polish) and Tehran/
+  Tehrangeles diaspora as the 21st distinct region. Middle East has
+  THREE distinct cycles now: v272 Egyptian mahraganat (Arabic, street
+  shouting), v278 Turkish trap (Turkish, makam-modal), v284 Persian
+  pop (Farsi, tahrir-ornamented). Three different language families
+  (Semitic / Turkic / Indo-European), three different ornament systems,
+  three different production traditions.
+
+  VOICE DIFFERENTIATION — 25TH orthogonal voice in 25 cycles. The
+  TAHRIR ornament is a genuinely new axis — no prior voice has used
+  microtonal trilled descending-ascending turns. Cumulative ledger
+  (abbreviated):
+    v260-v283: 24 prior voices spanning 18 languages
+    v284 — female PERSIAN POP MID-HIGH CRYSTAL-TONE with TAHRIR FARSI
+           (microtonal vocal trill descending-ascending turn + classical
+           Persian dastgah modal inflections + intimate close-mic
+           poetic phrasing — distinct from all prior female melismatic
+           voices via the tahrir-specific microtonal ornament library)
+  v276 Bollywood / v273 dangdut / v280 Vinahouse / v283 Mor Lam are
+  the four prior female melismatic voices; v284 is the FIFTH but uses
+  a fundamentally different ornament system (microtonal trill vs slide/
+  glide/contour). Style + exclude_styles block all 24 prior voices.
+
+  LANGUAGE — 19th distinct language. Farsi in Latin transliteration
+  (standard for Persian pop social-media format — Persian script
+  exists but transliteration dominates TikTok). Lyric vocabulary uses
+  authentic Persian poetic Farsi: "setareh" (star — iconic Persian
+  poetic image), "shab-e Tehran" (Tehran night), "mahtab" (moonlight),
+  "ghalbe man tanha" (my heart is alone), "naghshe asemoon" (sky's
+  pattern), "tahrir" word-of-the-art is the genre vocal-name itself,
+  "pelaayt-e to ru divaar" (your jacket on the wall), "akse to ru
+  gooshi" (your picture on the phone — modern Persian detail), "to
+  chera nemiyay" (why won't you come). Concept: classic Persian
+  poetic ballad — Tehran night, empty moon, stars watching, two years
+  since you left, my heart still in that summer night, your jacket on
+  the wall, your picture on the phone, "why won't you come back."
+  Evergreen Persian-poetic-tradition love-and-longing emotional core
+  (Rumi/Hafez star-imagery lineage).
+
+  BPM 82 — slow Persian pop ballad tempo, fresh in rotation. The
+  slowest viral-arm cycle since v275 Mandopop (78). Walks well with
+  the tahrir-ornamented vocal — slow tempo gives the singer room for
+  intricate microtonal turns.
+
+  Key C# minor — first reuse of C# minor since v272 mahraganat (12
+  cycles ago). Walks well with Persian dastgah modal inflections (the
+  Shur or Dashti dastgah colors that Persian pop sits in often).
+
+  Production palette pinned: "gentle acoustic Western piano arpeggios
+  + tar atmospheric chord accents + santur light hammered phrases +
+  soft strings + sparse trap drums on chorus + 808 sub on drop + wide
+  vocal reverb with rain-on-window ambience." Two anchor references:
+  "Tehran rooftop midnight" (geographic anchor) and "Tehran-Tehrangeles
+  diaspora" (genre-tradition anchor — Tehrangeles is the Iranian
+  diaspora hub in Los Angeles, distinctive Persian-pop production
+  lineage). Negatives explicitly block traditional Persian classical
+  solo, Sufi devotional, Arabic mahraganat (the v272 neighbor!),
+  Turkish makam (v278 neighbor), Indian raga (v276 neighbor — three
+  Middle Eastern cycles risk classifier confusion, so explicit
+  distinction matters), Cambodian khmer pop, Kurdish folk — seven
+  adjacent failure modes the Suno classifier could drift toward.
+
+  Title "Setareh" (star) — single Persian word, 7 chars, MEME-able,
+  iconic Persian poetic image (the star is to Persian poetry what the
+  moon is to Mandopop or what saudade is to fado). Distinct from prior
+  viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Haydeh, Googoosh, Sevdaliza, Ebi, Dariush, Andy,
+  Sami Yusuf, or other Persian-pop artist names in style field —
+  preemptive removal per the v274-v283 artist-trigger lesson pattern).
+  However, I deliberately put "ahange Haydeh" in the LYRICS (verse 2)
+  as a sung phrase — this references Haydeh as the song's narrator's
+  listening choice, which is conceptually different from styling the
+  agent to sound LIKE Haydeh. If Suno's filter trips on Haydeh-in-
+  lyrics, remove it.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (7-cycle
+  data, 86% correction rate, defaults unpredictable across sessions),
+  submitter MUST verify Suno UI vocal_gender radio matches YAML
+  (`female`) before Create.

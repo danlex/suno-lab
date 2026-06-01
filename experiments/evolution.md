@@ -328,6 +328,7 @@ mindmap
 | 281 | Tma | Russian phonk / drift phonk / Russian-language hyperpop viral cycle - male shouty distorted Russian MC | F minor | 155 | 808 cowbell + bitcrushed kick + cathedral organ pad |
 | 282 | Cité | French drill / rap français / banlieue trap viral cycle - male chesty rough Paris banlieue accent | G minor | 95 | drill drum kit + sliding 808 sub + subtle piano sample loop |
 | 283 | Sabai | Modern Mor Lam Sing / Thai-Isan dance pop viral cycle - female nasal melismatic with khaen + phin | B minor | 145 | khaen Isan mouth organ + phin Isan lute + modern Thai-pop drum kit |
+| 284 | Setareh | Modern Persian pop ballad / Farsi pop viral cycle - female crystal-tone tahrir-ornamented | C# minor | 82 | piano arpeggio + tar atmospheric + santur hammered phrases |
 
 ## Next-cycle priorities
 
