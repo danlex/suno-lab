@@ -315,6 +315,7 @@ mindmap
 | 268 | Bbang | modern 4th-gen K-pop / NewJeans-adjacent hyperdance viral cycle - multi-voice female group harmony | B minor | 132 | four-on-the-floor kick + retro pop bass + sparkly synth arpeggio |
 | 269 | Halo | liquid drum and bass / 2026 understated wave viral cycle - ethereal breathy female solo | E minor | 174 | Amen breakbeat + reese sub-bass + Rhodes atmospheric pad |
 | 270 | Wahala | Afrobeats / Nigerian Afro-fusion / Afropop viral cycle - male falsetto-mix Pidgin-Yoruba-English | F minor | 105 | Yoruba talking drum + 808 sub + electric piano |
+| 271 | Boteco | sertanejo universitário / sofrência ballad viral cycle - male duo close harmony caipira PT | G major | 88 | violão + sanfona + upright bass |
 
 ## Next-cycle priorities
 

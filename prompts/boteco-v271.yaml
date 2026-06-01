@@ -1,0 +1,151 @@
+name: "boteco"
+version: 271
+title: "Boteco"
+instrumental: false
+vocal_gender: male
+
+style: "Sertanejo universitário, modern Brazilian country, sofrência ballad, 88 BPM, G major, neon-lit boteco at 2am. Male DUO close harmony — lead tenor on verses + harmony baritone joining on the hook in thirds and sixths, warm chest-voice rural caipira accent, heartfelt phrasing with country-style cry on long notes, NOT solo, NOT shouty MC, NOT falsetto, NOT urban Brazilian — MALE DUO HARMONY architecture. Production: warm acoustic violão (nylon-string Brazilian guitar) strumming, sanfona (button accordion) holding the chord pad and weaving counter-lines, upright bass walking, light brushed snare rim-clicks, faint pedal steel cry. Interior-of-Brazil aesthetic — Goiás boteco at 2am, cerveja sweating on the table, lonely-after-the-girl-left mood. 2026 sertanejo TikTok lane, sofrência tradition. No urban funk carioca, no Bollywood, no orchestral, no big-room, no kawaii, no shouty MC."
+
+lyrics: |
+  [Intro]
+  (acoustic guitar strum, sanfona swell)
+  oh oh oh
+
+  [Verse 1] (lead tenor)
+  cheguei no boteco e pedi cerveja
+  o garçom me olhou, sabia da história
+  na mesa do canto, a cadeira vazia
+  onde tu sentavas, hoje só memória
+
+  [Pre-Hook] (harmony joins)
+  ai ai ai, meu coração
+
+  [Hook] (duo harmony, thirds and sixths)
+  boteco vazio, copo na mão
+  saudade gritando dentro do peito
+  boteco vazio, sem teu coração
+  sertanejo toca o nosso desfeito
+
+  [Verse 2] (baritone leads)
+  sanfoneiro tocou nossa canção
+  o boteco parou pra me ver chorar
+  cada bebida lembra a paixão
+  cada acorde me leva a teu lugar
+
+  [Hook] (duo)
+  boteco vazio, copo na mão
+  saudade gritando dentro do peito
+
+  [Bridge]
+  (acoustic + sanfona only)
+  [Spoken duo] essa dor não passa
+  só aumenta com a noite
+
+  [Final Hook] (duo fortissimo)
+  boteco vazio (vazio), copo na mão
+  saudade gritando (gritando), dentro do peito
+
+  [Outro]
+  (sanfona fade) oh oh oh
+  [End]
+
+exclude_styles: "happy mainstream pop, country pop polished US, gospel, classical, orchestral, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii chipmunked solo, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk male, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group harmony, ethereal breathy female soprano DnB, male falsetto-mix Afrobeats, hyperpop, k-pop, anime opening, polka, ska, salsa, bachata, merengue, cumbia, dembow, tamborzão, baile funk, amapiano log drum, modern Punjabi pop, slap house, drift phonk, EDM big-room, future bass, neurofunk, jump-up DnB, mainstream Bollywood, urban funk carioca, modão velho 1970s, forró, samba traditional, MPB, bossa nova"
+
+tags:
+  - sertanejo-universitario
+  - brazilian-country
+  - sofrencia
+  - 88bpm
+  - g-major
+  - male-duo-harmony
+  - close-harmony-thirds-sixths
+  - portuguese-caipira
+  - viral-arm
+  - boteco-ballad
+  - henrique-juliano-tradition
+  - new-technique
+  - research-driven
+  - vocal-male-duo
+
+notes: |
+  VIRAL ARM cycle v271 — Sertanejo universitário / sofrência ballad
+  (modern Brazilian country, rural interior Portuguese-language tradition).
+  Research-driven (TikTok 2026 trending playlists, multiple Henrique e
+  Juliano references in 2026 content): sertanejo universitário remains
+  Brazil's dominant mainstream pop genre with continuous TikTok virality
+  through 2026, currently led by Henrique & Juliano and the sofrência
+  (suffering-ballad) tradition. Distinct from urban funk carioca v265 in
+  every dimension — rural interior vs urban Rio, acoustic guitar +
+  accordion vs 808 + tamborzão, slow heartbreak ballad vs fast dance
+  shout-rap.
+
+  USER VALIDATION + LANE EXPANSION: 11 viral cycles deep, 8 languages, 11
+  voice archetypes. v271 advances by introducing the FIRST male duo
+  harmony architecture (after v268's female K-pop group harmony as the
+  first non-solo voice). Two non-solo architectures now in the catalog.
+
+  VOICE DIFFERENTIATION — 12TH orthogonal voice in 12 cycles, and the
+  FIRST male duo close harmony in the catalog. Ledger:
+    v260 — male whisper EN solo (drift phonk distorted)
+    v261 — soprano belt EN solo (arena anthemic)
+    v262 — husky contralto FR solo (close-mic intimate)
+    v263 — pitched-up kawaii EN solo (hyperpop chipmunked)
+    v264 — raspy Latina sing-rap ES solo (autotuned attitude)
+    v265 — shouty Portuguese MC PT solo (dry close-mic urgency)
+    v266 — relaxed amapiano male ZU/XH/EN solo (casual chest)
+    v267 — smooth Punjabi sing-rap male PA solo (R&B vulnerability)
+    v268 — female K-pop GROUP harmony KO/EN (4-voice stacked)
+    v269 — ethereal breathy female soprano EN solo (understated DnB)
+    v270 — male FALSETTO-mix Nigerian PIDGIN/YO/EN solo (smooth high-tenor)
+    v271 — male DUO close harmony PT-caipira (lead tenor + harmony
+           baritone in thirds and sixths, warm chest rural accent —
+           NEW MALE VOCAL ARCHITECTURE not just new male timbre)
+  v265 vs v271 differentiation note: both Portuguese, but v265 is urban
+  Rio favela MC shout-rap and v271 is rural-interior caipira sofrência
+  duo harmony. Suno classifier should handle this cleanly via the
+  rhythm/instrumentation signature alone (acoustic guitar + sanfona vs
+  tamborzão + 808). Style explicitly excludes "urban funk carioca" and
+  exclude_styles blocks both that and all 11 prior voice characters.
+
+  LANGUAGE — Portuguese (Brazilian) second cycle, but with caipira accent
+  pin (the interior-of-Brazil rural vocal inflection) to differentiate from
+  v265's urban favela Portuguese. Lyric vocabulary uses authentic sertanejo
+  Portuguese: "boteco" (small bar), "cerveja" (beer), "garçom" (waiter),
+  "saudade" (untranslatable longing/missing), "sofrência" (the genre's
+  meta-term for romantic suffering), "sanfoneiro" (accordionist),
+  "desfeito" (undone/broken-up). Concept: pure sertanejo sofrência —
+  narrator drinking alone at the bar where the music plays his
+  ex-relationship; the empty chair across the table; the accordionist
+  plays "our song" and the whole bar stops to watch him cry. This is the
+  evergreen sertanejo thematic core.
+
+  BPM 88 — fresh in the recent rotation (recent: 92, 96, 105, 110, 115,
+  124, 132, 138, 150, 160, 174). Canonical sertanejo universitário ballad
+  tempo (Henrique e Juliano sit in the 80-95 BPM range for their slowest
+  sofrência cuts).
+
+  Key G major — first major-key cycle in the viral arm since v263 (E major,
+  hyperpop). All ten cycles between v263 and v270 were minor keys. Sertanejo
+  romantic ballads canonically sit in major keys (G major, D major) even
+  when emotionally sad — the bittersweet brightness is part of the genre's
+  sound. G major is fresh against the recent rotation entirely.
+
+  Production palette pinned: "warm acoustic violão (nylon-string Brazilian
+  guitar) + sanfona (button accordion) + upright bass + light brushed
+  snare" — the canonical sertanejo universitário instrumentation. Two
+  anchor references: "Goiás boteco at 2am" (geographic anchor for the
+  interior-of-Brazil aesthetic) and "Henrique e Juliano / sofrência
+  tradition" (genre-tradition anchor, scene/lineage reference not artist
+  copy). Negatives explicitly block urban funk carioca, Bollywood, MPB,
+  bossa nova, samba traditional, forró, and modão velho (1970s sertanejo)
+  — the adjacent failure modes Suno could drift to.
+
+  Title "Boteco" — single Portuguese word for the small interior-Brazil
+  bar where sertanejo plays, 6 chars, MEME-able, genre-canonical setting.
+  Concept-word, not a specific famous-song-title collision.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (Henrique & Juliano referenced ONLY as "Henrique e
+  Juliano / sofrência tradition" in style and notes — this is a
+  tradition/lineage reference equivalent to "Tomasa del Real" / "Tems
+  lineage" in prior cycles, not an artist-copy command).
