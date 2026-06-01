@@ -1,0 +1,146 @@
+name: "kalt"
+version: 279
+title: "Kalt"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Berlin tech-house, German techno with vocals, 128 BPM, A minor, Berghain morning 6am. Male German sprechgesang vocal — deadpan monotone restrained chest delivery, robotic-cool emotional distance, repetitive minimal phrasing in German, NO melisma, NO vibrato, almost-spoken with subtle melodic outline, NOT Türk trap melismatic, NOT Argentine porteño, NOT Mandopop crooner, NOT amapiano — distinctly Berlin sprechgesang deadpan with intentional emotional flatness. Production: minimal tech-house kit with crisp four-on-the-floor kick, off-beat hi-hat, snare on 2 and 4, deep rolling sub-bass, pluck-synth riff on off-beat (signature tech-house), filter sweeps, cold analog vocal reverb, occasional acid-303 accent, sidechain pump on the drop. 2026 Berlin warehouse-after-hours, NOT EDM big-room, NOT hardtekk, NOT trance, NOT Schlager, NOT Eurodance. Berghain morning, concrete and fog. No big-room, no Schlager, no trance, no orchestral."
+
+lyrics: |
+  [Intro]
+  (sub-bass swell, hi-hat tease)
+  kalt, kalt, kalt
+
+  [Verse 1] (deadpan monotone)
+  sechs Uhr morgens, immer noch hier
+  die Sonne kommt, ich gehe nicht
+  dein Anruf war vor zwei Stunden
+  ich habe ihn nicht beantwortet
+
+  [Pre-Hook]
+  (sprechgesang) kalt, kalt
+  alles ist kalt heute
+
+  [Hook] (repetitive minimal sprechgesang)
+  kalt, kalt, alles ist kalt
+  kalt, kalt, der Beton ist kalt
+  kalt, kalt, dein Bett ist kalt
+  kalt, kalt, Berlin ist kalt
+
+  [Verse 2]
+  Friedrichshain im Nebel, U-Bahn fährt vorbei
+  Späti macht zu, niemand spricht
+  ich tanze allein im Berghain-Schatten
+  der Bass schlägt, mein Herz nicht
+
+  [Hook]
+  kalt, kalt, alles ist kalt
+  kalt, kalt, Berlin ist kalt
+
+  [Bridge]
+  (kick drops, only sub-bass + pluck)
+  [Spoken-flat] du hast gefragt ob ich da bin
+  ich bin nicht da
+  ich bin nirgendwo
+
+  [Final Hook] (filter-sweep build + sidechain)
+  kalt (kalt), alles ist kalt
+  kalt (kalt), Berlin ist kalt
+
+  [Outro]
+  (sub-bass fade) kalt
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, musical theater, jazz, ambient as lead, soaring solo soprano belt, husky low contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, relaxed amapiano casual male, smooth Punjabi sing-rap male, female K-pop group, ethereal breathy DnB soprano, male falsetto-mix Afrobeats, male duo close harmony sertanejo, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male laid-back porteño Argentine, male Mandopop crooner, female Hindustani playback-singer, female city-pop cool-girl, male Türk trap chesty Anatolian, hyperpop, k-pop, j-pop, anime opening, salsa, bachata, dembow, mainstream EDM big-room, German Schlager, 90s Eurodance, trance commercial, hard-techno hardtekk, traditional German folk"
+
+tags:
+  - berlin-tech-house
+  - minimal-techno
+  - german-sprechgesang
+  - 128bpm
+  - a-minor
+  - male-vocal-deadpan
+  - sprechgesang-spoken-sung
+  - german-lyrics
+  - viral-arm
+  - berghain-morning
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v279 — Modern Berlin tech-house / minimal techno with
+  German spoken-sung sprechgesang vocal. Research-driven (TikTok 2026
+  Berlin-techno reels, Klangkünstler-era scene, "Vielleicht" Milleniumkid
+  x JBS viral track template): Berlin techno scene in 2026 has both
+  hyper-BPM hardtekk variants AND mid-tempo tech-house with German
+  spoken-sung vocals. This cycle targets the mid-tempo tech-house lane
+  with sprechgesang vocal (German "spoken-singing" tradition descended
+  from Brecht/Weill — restrained chest delivery with subtle melodic
+  outline) — distinct from the hardtekk hyperBPM zone that overlaps with
+  hyperpop/phonk catalog energy.
+
+  USER ROADMAP TARGET: 19 viral cycles deep, 14 languages, 19 voice
+  archetypes, 16 regions. v279 adds German (15th language, 100M speakers)
+  and Berlin / Central Europe as the 17th distinct region. Europe now has
+  Russian-themed (v261 in English), French intimate (v262), UK liquid DnB
+  (v269), and German Berlin tech-house (v279) — four distinct European
+  scenes represented.
+
+  VOICE DIFFERENTIATION — 20TH orthogonal voice in 20 cycles. This is the
+  first SPRECHGESANG (German spoken-sung tradition, restrained chest
+  delivery with subtle melodic outline, intentionally deadpan emotional
+  flatness) in the catalog. Cumulative ledger (abbreviated):
+    v260-v278: 19 prior voices spanning EN/FR/ES/PT/ZU+XH+EN/PA/KO+EN/
+    PIDGIN+YO+EN/ARABIC/INDONESIAN/MANDARIN/HINDI/JAPANESE/TURKISH
+    v279 — male GERMAN SPRECHGESANG monotone deadpan GERMAN (restrained
+           chest delivery + repetitive minimal phrasing + NO melisma +
+           NO vibrato + robotic-cool emotional distance — fundamentally
+           different vocal philosophy from prior 19 voices which all
+           emphasized timbral character or melismatic expressiveness)
+  v279 sits at the intentional-emotional-flatness pole of the voice
+  spectrum, opposite to v262 (French husky contralto intimate sob) and
+  v273 (Indonesian dangdut Auto-Tune sob). Style + exclude_styles block
+  all 19 prior voice characters.
+
+  LANGUAGE — 15th distinct language. German (native Latin alphabet — no
+  transliteration needed). Lyric vocabulary uses authentic Berlin
+  street/club: "sechs Uhr morgens" (6am), "Berghain-Schatten" (Berghain
+  shadow — the iconic Berlin techno club), "Friedrichshain" (Berlin
+  district), "U-Bahn" (Berlin subway), "Späti" (Berlin convenience-store
+  slang), "Beton" (concrete — Berlin Brutalist aesthetic), "der Bass
+  schlägt" (the bass hits), "ich bin nirgendwo" (I am nowhere). Concept:
+  classic Berlin tech-house emotional flatness narrative — 6am still at
+  the club, missed call from two hours ago, fog over Friedrichshain,
+  dancing alone in Berghain shadow, "the bass hits, my heart doesn't,
+  I am nowhere." Berghain morning emotional-numbness trope.
+
+  BPM 128 — center of tech-house canonical range. Fresh in rotation
+  (recent: 78, 88, 90, 92, 96, 98, 100, 105, 108, 110, 115, 120, 124,
+  132, 138, 140, 150, 160, 174). 124 (v261 slap house) is closest but
+  4 BPM apart with different groove signature (slap house pump vs
+  tech-house pluck).
+
+  Key A minor — first reuse of A minor in the viral arm since v260/v261
+  (19 cycles ago). Walks well with the cold-Berlin emotional palette
+  and the acid-303 inflections canonical to tech-house.
+
+  Production palette pinned: "minimal tech-house drum kit + crisp four-
+  on-the-floor + off-beat hi-hat + deep rolling sub + pluck-synth riff
+  + filter sweeps + cold analog reverb + occasional acid-303 + sidechain
+  pump." Geographic + visual anchor: "Berghain morning energy, concrete
+  and fog." Negatives explicitly block mainstream EDM big-room, German
+  Schlager (the dad-pop genre), 90s Eurodance, trance commercial,
+  hard-techno hardtekk (the hyperBPM variant we're explicitly NOT
+  targeting), traditional German folk — six distinct adjacent failure
+  modes the Suno classifier could drift toward.
+
+  Title "Kalt" (cold) — single German word, 4 chars, MEME-able, evokes
+  the emotional-numbness Berlin tech-house aesthetic at the lyric +
+  vocal level (the deadpan delivery IS cold by design). Distinct from
+  prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean (no Klangkünstler, Milleniumkid, JBS, Anyma, FISHER,
+  Kim Petras, or other German-techno artist names in style field —
+  preemptive removal per the v274-v278 artist-trigger lesson pattern).
