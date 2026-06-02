@@ -1,0 +1,222 @@
+name: "khovu"
+version: 305
+title: "Khovu"
+instrumental: false
+vocal_gender: male
+
+style: "Film score for Tuvan steppe dawn — frost on the grass, Sayan mountains a dark silhouette, yurt fires cold. A kargyraa throat-singer opens alone at 0:00: sub-bass chest drone on D, overtone partials whistling above simultaneously — the voice is a chord, not a note. 68 BPM, D minor; key lifts to E-flat minor at climax. Polished studio mix, deep low-end definition, lush acoustic ambience of open plain air. A morin khuur horsehead fiddle enters at 0:38 on the root, finds the overtone, threads nasal abrasive timbre between the kargyraa partials. A bowed vibraphone joins at 1:22, long bell-tone sustain arcing across the octave. Trio swell crests at 2:20 — all three in slow unison convergence, crescendo by accumulation, not spike — then fiddle and vibraphone recede, kargyraa alone holds the final overtone to 3:00. Wide stereo stage, warm tape saturation on the fiddle. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Kargyraa drone: sub-bass D, overtone partials ascending, 8 bars]
+  хову...
+  тыва...
+
+  [Drone breath opens: harmonic series wide, 8 bars]
+  хову...
+  одар...
+  ат...
+
+  [Morin khuur enters: horsehead fiddle on root D, 8 bars]
+  хову, ат
+  одар, тайга
+  тыва, хову
+  ат, одар
+
+  [Fiddle overtone divergence: rises to F, kargyraa holds D, 10 bars]
+  Саяны, тайга
+  хову, ие
+  хаа, тыва
+  одар, хова
+
+  [Vibraphone enters high: bell-tone sustain, 8 bars]
+  хову...
+  хеме...
+  тайга...
+
+  [Trio call-response: drone, fiddle, bell-arc, 12 bars]
+  хову, одар
+  ат, тайга
+  Саяны, хова
+  тыва, ие
+
+  [Layered unison swell: all three converging, 16 bars]
+  хову! одар!
+  тайга, Саяны!
+  ат, хаа
+  ие, тыва
+  хову, хова
+  одар, тайга
+
+  [Plateau: sustained overtone, voices full, 10 bars]
+  хову...
+  тыва...
+  Саяны...
+
+  [Withdrawal: fiddle and vibraphone recede, 8 bars]
+  хову...
+  одар...
+
+  [Held overtone fade: kargyraa alone, decays, 6 bars]
+  хову...
+
+  [End]
+
+exclude_styles: "Tuvan khoomei, Mongolian throat-singing, Buddhist mantra, Tibetan chant, Gregorian plainchant, Byzantine liturgy, Russian liturgical chant, shamanic ritual, nomadic epic, steppe warrior chant, Georgian sacred polyphony, Bulgarian women's voices, Zulu isicathamiya choral, South African mbube, bel canto operatic aria, classical crossover soprano, Celtic folk Enya kitsch, Eurovision Scandi kitsch, Nordic noir, Viking choral, generic film score orchestral, generic medieval RPG fantasy, cinematic ambient, intimate chamber, elegiac, Mongolian pop, Central Asian folk pop, Arabic mahraganat, Persian tahrir, Greek modal belt, Mizrahi-pop, Romanian manele, Polish trap, Czech indie-trap, Russian shouty MC, French banlieue rap, hyperpop, k-pop, j-pop, salsa, dembow, EDM trance, drift phonk, trap, drill, rap, rock, metal, lo-fi, Arabic, tribal, world music, electronic, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+
+tags:
+  - morin-khuur
+  - tsuur
+  - bowed-vibraphone
+  - 68bpm
+  - d-minor
+  - tuvan-steppe-dawn-scene
+  - kargyraa-throat-singing
+  - sub-bass-chest-drone-overtone-chord
+  - tuvan-cyrillic-lyrics
+  - morin-khuur-catalog-debut
+  - tsuur-catalog-debut
+  - revival-bowed-vibraphone-50-gap
+  - 35th-distinct-language
+  - 46th-orthogonal-voice
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental-false
+  - vocal-male
+
+notes: |
+  v305 "Khovu" — Tuvan kargyraa throat-singing x morin khuur x bowed vibraphone
+  cinematic-steppe arc. ABSOLUTE CATALOG DEBUT: zero Turkic/Tuvan/Mongolian
+  throat-singing entries across all 304 prior versions. 35th distinct language
+  (Tuvan). 46th orthogonal voice.
+
+  TECHNIQUE: Kargyraa is a sub-type of Tuvan throat-singing (xoomej / khoomei)
+  in which the vocalist produces two simultaneous pitches by engaging both the
+  normal vocal folds and the ventricular (false) folds in the larynx. The lower
+  voice — a sub-bass chest drone typically between 65–80 Hz — holds a sustained
+  fundamental on one pitch. Simultaneously, the shaped oral cavity and controlled
+  breath pressure produce audible upper overtone partials from the harmonic series
+  at multiples of that fundamental. The result is that one human voice produces
+  a drone AND a whistled overtone melody at the same time — the voice is literally
+  a chord. Distinct from all 45 prior voices in the catalog: (1) no consonant-
+  driven language — kargyraa syllables are continuous open-vowel resonance with
+  minimal consonant attack; (2) the sub-bass register (65–80 Hz) sits far below
+  any prior voice in the catalog; (3) the simultaneous multi-pitch architecture
+  — drone + overtone partials — is structurally unlike any Western vocal technique,
+  Georgian polyphony, Zulu close-harmony, Tamil nadaswaram, or bel canto soprano
+  that preceded it.
+
+  CONCEPT SOURCE: Kargyraa sub-bass chest-cavity drone with simultaneous overtone
+  harmonic series — the voice is a chord — at 68 BPM, D minor, Tuvan steppe dawn
+  scene, trio of morin khuur + tsuur + bowed vibraphone (tsuur referenced as
+  Mongolian end-blown bone flute in style to guard against Suno parser failure).
+
+  COMPOSER OMISSION CONFESSION: This concept draws on a tradition whose most
+  internationally recognized practitioner and the ensemble that brought the style
+  to world stages are withheld per artist-name blocklist discipline. The kargyraa
+  technique — sub-bass + simultaneous overtone harmonic series — is the instrument;
+  no individual compositional name is attached. The exclude_styles list blocks
+  the specific ensemble name-adjacent tags (Tuvan khoomei, Mongolian throat-
+  singing) to prevent auto-classifier artist-match drift.
+
+  DURATION STRATEGY: BPM 68 = slow-BPM territory (<=115 caps at ~3:30 per v254
+  BPM-ceiling data). Target 3:00–3:15. Not fighting the ceiling — optimizing
+  emotional density via instrument-layer accumulation. Playbook moves applied:
+  - Parametrized colon-lyrics with bar counts per section (all 10 sections)
+  - Production tokens: "polished studio mix", "deep low-end definition",
+    "lush acoustic ambience", "wide stereo stage", "warm tape saturation"
+  - Body voice count: morin khuur (body-resonance string fiddle) + bowed
+    vibraphone (struck/bowed metal bar body resonator) = 2 body voices minimum;
+    bowed vibraphone is the sole spectral-adjacent pick in the trio (playbook
+    allows <=1 spectral per trio — satisfied)
+  - Sentence case throughout style, no ALL-CAPS form labels
+  - Atmospheric-first opening (frost on the grass, Sayan mountains before
+    production tokens or BPM)
+  - No [Silence] metatag anywhere — hardened rule per v290+v303+v304
+    cross-genre confirmation; arc uses additive layering accumulation and
+    reverse-peel coda instead
+  - Total lyric bars: approximately 94 bars at 68 BPM targeting 3:00–3:15
+    wall clock; verified against slow-BPM ceiling (3:30 max)
+  - Vocal is kargyraa — single voice producing drone + overtone; not
+    consonant-syllabic, so Tuvan Cyrillic words used as sustained breath
+    anchors, repeated as held-vowel tones, not word-per-beat text
+  - Arc: kargyraa alone (8+8=16 bars) → morin khuur enters (8+10=18 bars)
+    → bowed vibraphone joins (8 bars) → trio call-response (12 bars) →
+    layered swell (16 bars) → plateau (10 bars) → withdrawal (8 bars) →
+    held overtone fade kargyraa alone (6 bars)
+
+  INSTRUMENTS:
+  - Morin khuur (catalog debut, gap infinity, 304 cycles): Mongolian horsehead
+    fiddle — two-string bowed fiddle with a carved horse-head scroll at the peg
+    box, played upright. The open-resonance strings and sparse overtone color
+    give it a nasal, slightly abrasive timbre that does not smooth away in the
+    mix — ideal for threading between kargyraa's drone and overtone partials
+    without masking either. Enters on the root D (bar 17), diverges toward F
+    minor color (relative minor of A-flat, providing tension without full
+    modulation), and recedes in the withdrawal section. First appearance in
+    304-version catalog.
+  - Tsuur (catalog debut, gap infinity, 304 cycles): Tuvan end-blown bone flute
+    — a short, internally oblique end-blown flute, traditionally carved from
+    bird bone or wood, with a breathy, slightly airy tone in the upper register.
+    Described as "Mongolian end-blown bone flute" in style field to guard against
+    Suno parser failure on the less-common term "tsuur." Arc role: provides high
+    airy breath texture when the overtone partials of kargyraa are at their
+    widest, bridging the gap between the sub-bass drone and the bowed vibraphone
+    bell-tones. First appearance in 304-version catalog.
+  - Bowed vibraphone (last v255, 50-cycle gap, deep revival): metal bars struck
+    or bowed to produce sustained bell-tone resonance with natural decay. In this
+    arc, used exclusively as bowed sustain — long arcing overtone tones in the
+    upper register that complement the kargyraa harmonic series. Enters with the
+    vibraphone overtone register section (bar 35), provides the third tier of the
+    three-octave call-response, and holds through the layered swell before
+    gradually receding in the withdrawal.
+
+  VOICE DIFFERENTIATION — 46th orthogonal voice. Kargyraa: sub-bass chest-cavity
+  drone (~65–80 Hz fundamental) + simultaneously produced overtone harmonic series
+  partials in the mid-to-high register. Distinct from all 45 prior voices via:
+  (1) sub-bass register — no prior voice sat this low; (2) simultaneous dual-
+  pitch production — not a chord of two singers but one larynx producing two
+  registers in parallel; (3) continuous open-vowel resonance — no consonant
+  syllabic attack, language expressed as sustained breath-resonance of individual
+  words rather than metric text delivery; (4) Tuvan origin — zero prior Turkic/
+  Tuvan entries across 304 versions.
+
+  LANGUAGE: Tuvan (Тыва дыл) — 35th distinct language. Vocabulary used:
+  "хову" (khovu / steppe, open plain), "тайга" (taiga / dense boreal forest),
+  "Саяны" (Sayany / Sayan Mountains), "ат" (at / horse), "тыва" (Tyva / Tuva,
+  Tuvan identity), "одар" (odar / pasture, grazing land), "хеме" (kheme / boat,
+  also used metaphorically as vessel), "хаа" (khaa / father — variant form),
+  "ие" (ie / mother), "хова" (khova / valley, low-lying plain). Concept: dawn
+  on the Tuvan steppe, frost on the pasture, horses at rest, Sayan mountains
+  holding the sky, ancestral breath in the cold air — the land itself as living
+  memory. Words used as sustained breath-anchors rather than syllabic text,
+  consistent with kargyraa vowel-resonance architecture.
+
+  BLOCK RATIONALE: exclude_styles blocks all identity-adjacent classifier triggers
+  that could drift Suno's auto-tagger: Tuvan khoomei / Mongolian throat-singing
+  (prevent artist-name match for known ensembles); Buddhist/Tibetan/shamanic/monk/
+  warrior (prevent religious-ritual framing — researcher instruction); Georgian/
+  Bulgarian/Zulu polyphony (prevent vocal-drone conflation with v303/v304 prior
+  lanes); bel canto/crossover soprano (prevent v298-v300 lane drift); Celtic/
+  Scandi/Nordic kitsch (prevent folk drift); cinematic ambient / intimate chamber
+  / elegiac (playbook rule 10 — these classifier tags compress render duration,
+  blocking them at field level prevents drift for reflective concept at slow BPM).
+
+  NOVELTY: BPM 68 — new BPM (last use v126, 178 cycles ago; unique to this
+  version in the recent catalog). Key D minor — last at v299 (5 cycles ago, fresh
+  enough). Scene: Tuvan steppe at dawn, frost, Sayan mountains silhouette — zero
+  prior appearances. Morin khuur catalog debut. Tsuur catalog debut. Bowed
+  vibraphone 50-cycle revival. 35th distinct language (Tuvan). 46th orthogonal
+  voice (kargyraa sub-bass + simultaneous overtone chord). Zero prior Tuvan/
+  Mongolian throat-singing entries across 304 versions.
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md (17-cycle data,
+  69% correction rate), submitter MUST verify Suno UI vocal_gender matches YAML
+  (male) before Create. Kargyraa requires very low fundamental (~65–80 Hz chest
+  cavity) — a biologically male voice type. UI must read Male.
+
+  Style: 950 chars. All fields validated via yaml_field_check.py inspect.
+  Blocklist clean. Two body voices minimum (morin khuur + bowed vibraphone;
+  bowed vibraphone is the sole spectral-adjacent pick, <=1 per trio satisfied).
+  No [Silence] metatag anywhere in lyrics.

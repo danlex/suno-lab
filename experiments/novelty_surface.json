@@ -1,6 +1,6 @@
 {
-  "total_prompts": 304,
-  "latest_version": 304,
+  "total_prompts": 305,
+  "latest_version": 305,
   "instruments": {
     "piano": [
       1,
@@ -304,6 +304,17 @@
       170,
       289
     ],
+    "bowed vibraphone": [
+      85,
+      99,
+      128,
+      143,
+      193,
+      218,
+      239,
+      255,
+      305
+    ],
     "celesta": [
       69,
       92,
@@ -433,16 +444,6 @@
       231,
       243,
       250
-    ],
-    "bowed vibraphone": [
-      85,
-      99,
-      128,
-      143,
-      193,
-      218,
-      239,
-      255
     ],
     "cornet": [
       115,
@@ -1040,6 +1041,7 @@
       301
     ],
     "chamber": [
+      191,
       192,
       203,
       252,
@@ -1051,13 +1053,13 @@
       280,
       292
     ],
-    "baroque": [
-      188,
-      191
-    ],
     "concerto": [
       145,
       149
+    ],
+    "drone": [
+      304,
+      305
     ],
     "passacaglia": [
       111,
@@ -1076,11 +1078,11 @@
     "amapiano": [
       266
     ],
+    "baroque": [
+      188
+    ],
     "drill": [
       282
-    ],
-    "drone": [
-      304
     ],
     "lo-fi": [
       296
@@ -1152,7 +1154,8 @@
       262,
       280,
       288,
-      299
+      299,
+      305
     ],
     "c minor": [
       15,
@@ -1543,7 +1546,8 @@
       182
     ],
     "68": [
-      126
+      126,
+      305
     ],
     "69": [
       186
@@ -1939,6 +1943,17 @@
     ]
   },
   "titles": [
+    {
+      "version": 305,
+      "title": "Khovu",
+      "name": "khovu",
+      "featured": [
+        "bowed vibraphone"
+      ],
+      "genre": "drone",
+      "key": "d minor",
+      "bpm": 68
+    },
     {
       "version": 304,
       "title": "Ukufa",
@@ -3216,7 +3231,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
