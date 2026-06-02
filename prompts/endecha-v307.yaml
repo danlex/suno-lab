@@ -1,0 +1,84 @@
+name: "endecha-v307"
+version: 307
+title: "Endecha"
+instrumental: false
+vocal_gender: female
+
+style: "Film score for Istanbul dusk lament — candlelit balcony over the Bosphorus, a woman carrying a 500-year-old Sephardic grief. Warm tape saturation, studio mix, chamber reverb. G minor with Phrygian inflection, 90 BPM, unhurried and mournful; key lifts to A-flat minor at the final refrain. Trio: qanun opens at 0:00, arpeggiated Phrygian lines; oud fretless and resonant, sustaining long chord tones beneath the vocal; darbuka with dry tek-doum strokes on the offbeat, silent through the bridge. Female Ladino mezzo, chest-mid — archaic Castilian sibilant coloring, Ottoman vowel shaping, long-vowel lament phrases with Phrygian modal ornaments. Voice enters at 0:45 over the oud; bridge stripped to oud and voice at 2:00; darbuka and qanun return at final refrain. Deep low-end from the oud's body resonance, qanun overtones across the wide stereo stage. No guitars, no rock drums, no pipe organ, no synthesizers, no electronic bass."
+
+lyrics: |
+  [Qanun + sparse darbuka intro, 8 bars]
+  Qanun arpeggios, Phrygian mode, tek-doum offbeat — no voice.
+
+  [Verse 1 — vocal enters over oud, 16 bars]
+  Ay, Toledo, alma de Sefarad,
+  La luz del kandelar ainda arde —
+  Ija de la memorya, kantiga sin fin,
+  Bozé del siempre-alma, luz de Yerushalayim.
+
+  [Refrain — full trio, 16 bars]
+  Endecha, endecha, kantar la kantiga,
+  Sefarad en el korasón, Estambol en la boka —
+  La alma no muere, la voz no se va,
+  Endecha, endecha, siempre kantarás.
+
+  [Bridge — solo oud and voice, 12 bars]
+  Solo la voz i el 'ud, la lamentasyon pura,
+  Bosphoro negro, kandelar ke tyembla,
+  Ija de Sefarad, luz de la noché.
+
+  [Refrain octave-up — trio returns, 16 bars]
+  Endecha, endecha, kantar la kantiga,
+  Sefarad en el korasón, Estambol en la boka —
+  La alma no muere, la voz no se va,
+  Endecha, endecha, siempre kantarás.
+
+  [Outro — qanun tremolo fade, 10 bars]
+  Ay, ay, ay — la alma no se va,
+  La luz del kandelar, la memorya, la alma...
+
+  [End]
+
+exclude_styles: "Arabic maqam, Arabic music, oud solo Arabic, belly dance, belly dancing, flamenco, flamenco guitar, Moorish, Andalusian folk, klezmer, klezmer clarinet, Greek rebetiko, bouzouki, bağlama, Tuvan throat singing, Georgian polyphony, isicathamiya, bel canto opera, world music, Middle Eastern, Mediterranean folk, Celtic, Enya new age, Eurovision pop, Scandinavian pop, trap, rap, phonk, drill, EDM, electronic, lo-fi, acoustic guitar, rock, metal, pop rock, cinematic ambient, intimate chamber, elegiac drone, pipe organ, vocals pop, singing pop, choir pop, jazz, free jazz"
+
+notes: |
+  Endecha is a Sephardic Ladino lament song-form — a Jewish-Spanish dirge tradition dating from the Iberian Peninsula, preserved in the oral memory of Sephardic communities after the 1492 expulsion from Spain and carried through centuries in Ottoman cities including Istanbul (Estambol in Ladino). The form centers on sustained vocal lamentation over modal accompaniment, the Phrygian mode (lowered second degree) providing the characteristic Judeo-Andalusian ache. Ladino is Judeo-Spanish, a language descended from medieval Castilian with Hebrew, Ottoman, and Balkan loanwords — the 37th distinct language to appear in this catalog.
+
+  Concept source: 1492 Toledo expulsion echo carried 500 years to a contemporary Istanbul candlelit balcony at dusk — the Bosphorus dark, the memory ancient; daughter of Sefarad singing the kantiga across centuries.
+
+  This prompt echoes a lineage of female Sephardic vocal artists whose recordings preserve this tradition — none are named here per catalog discipline, but their archival field recordings and studio interpretations inform the vocal-architecture brief: archaic Castilian sibilant inventory (the z/s distinction lost in modern Spanish but preserved in Ladino), Ottoman loan-word vowel coloring (closed o/u, narrow e/i), and long-vowel Phrygian ornamental turns rather than Baroque-style trills.
+
+  Duration strategy: 90 BPM places this in the slow-BPM band (≤115), where the playbook ceiling is ~3:30 regardless of bar count. Arc targets 3:00-3:30 with emotional density rather than bar-count length. Parametrized colon-syntax lyrics with bar counts provide per-section scaffolding (8+16+16+12+16+10 = 78 bars). Production tokens applied: warm tape saturation, polished studio mix, tight chamber reverb, deep low-end definition, wide stereo stage. Sentence case throughout; atmospheric-first opening. Vocal architecture is explicit in the style (Ladino mezzo, chest-mid, Phrygian ornamental turns) to guide v5.5's auto-classifier. No [Silence] metatag anywhere — sustained crescendo-decay arc per feedback_silence_gate_truncates.md. Gender diversification after three consecutive male cycles (v304/v305/v306).
+
+  Instruments and catalog gaps:
+  - qanun: Ottoman plucked zither, catalog debut (zero prior appearances in 306 versions). Role: arpeggiated Phrygian lines in intro and refrain, melodic counterweight when voice rests, tremolo fade in outro.
+  - oud: Middle-Eastern fretless lute, catalog debut (zero prior). Role: sustained chord tones beneath vocal verse, sole accompaniment in bridge, fretless vibrato body resonance providing deep low-end definition.
+  - darbuka: goblet drum with dry tek-doum articulation, catalog debut (zero prior). Role: offbeat pattern in intro and refrain, deliberately silent in bridge for intimacy contrast, returns at refrain-octave-up.
+
+  All three instruments are catalog debuts — triple-debut trio (unprecedented in this catalog).
+
+  Novelty claims: technique-novelty (Ladino endecha form — 37th distinct language, 1st Judeo-Spanish entry); all three instruments are catalog debuts; BPM 90 last used at v276 (30 cycles back, fresh); G minor last used at v298 (8 cycles back, fresh); scene (1492 Sephardic expulsion echo / Istanbul balcony / Bosphorus) — no prior Sephardic or Ottoman crossover in catalog. Vocal voice #48: female Ladino mezzo with archaic-Castilian-sibilant inventory + Ottoman-vowel coloring + Phrygian ornamental turns.
+
+  Final style char count: 932.
+
+tags:
+  - qanun
+  - oud
+  - darbuka
+  - 90bpm
+  - g-minor
+  - phrygian-mode
+  - istanbul-balcony-scene
+  - revival-qanun-306-gap
+  - revival-oud-306-gap
+  - revival-darbuka-306-gap
+  - new-technique
+  - ladino
+  - sephardic
+  - endecha-form
+  - 37th-language
+  - triple-catalog-debut
+  - female-mezzo
+  - duration-3min
+  - research-driven
+  - vocal

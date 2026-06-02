@@ -1,6 +1,6 @@
 {
-  "total_prompts": 306,
-  "latest_version": 306,
+  "total_prompts": 307,
+  "latest_version": 307,
   "instruments": {
     "piano": [
       1,
@@ -132,7 +132,8 @@
       299,
       300,
       302,
-      306
+      306,
+      307
     ],
     "pipe organ": [
       1,
@@ -169,7 +170,8 @@
       299,
       300,
       302,
-      306
+      306,
+      307
     ],
     "timpani": [
       15,
@@ -1028,11 +1030,12 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
-      257,
-      306
+      257
     ],
     "trap": [
       264,
@@ -1047,7 +1050,8 @@
       192,
       203,
       252,
-      255
+      255,
+      307
     ],
     "house": [
       242,
@@ -1070,10 +1074,6 @@
     "romantic": [
       145,
       149
-    ],
-    "symphonic": [
-      162,
-      178
     ],
     "2-step garage": [
       100
@@ -1219,6 +1219,24 @@
       291,
       301
     ],
+    "g minor": [
+      59,
+      70,
+      87,
+      93,
+      101,
+      111,
+      137,
+      190,
+      198,
+      204,
+      205,
+      250,
+      265,
+      282,
+      298,
+      307
+    ],
     "d major": [
       27,
       29,
@@ -1235,23 +1253,6 @@
       64,
       187,
       276
-    ],
-    "g minor": [
-      59,
-      70,
-      87,
-      93,
-      101,
-      111,
-      137,
-      190,
-      198,
-      204,
-      205,
-      250,
-      265,
-      282,
-      298
     ],
     "b minor": [
       76,
@@ -1643,7 +1644,8 @@
     "90": [
       59,
       253,
-      276
+      276,
+      307
     ],
     "91": [
       199
@@ -1949,11 +1951,20 @@
   },
   "titles": [
     {
+      "version": 307,
+      "title": "Endecha",
+      "name": "endecha-v307",
+      "featured": [],
+      "genre": "chamber",
+      "key": "g minor",
+      "bpm": 90
+    },
+    {
       "version": 306,
       "title": "Limani",
       "name": "limani",
       "featured": [],
-      "genre": "cinematic",
+      "genre": null,
       "key": "b minor",
       "bpm": 82
     },
@@ -3410,7 +3421,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3561,7 +3572,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
