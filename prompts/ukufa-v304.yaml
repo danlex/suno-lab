@@ -1,0 +1,219 @@
+name: "ukufa"
+version: 304
+title: "Ukufa"
+instrumental: false
+vocal_gender: male
+
+style: "Film score for KwaZulu-Natal valley dusk — 0:00-3:00 sustained Zulu isicathamiya arc. Four-part male close-harmony: bass and baritone in chest-resonant unison drone, tenor layer above, solo cantor in call-and-response. Voiced-fricative consonants give syllables a sharp percussive front-edge. Uhadi mouth bow opens on root A, overtone partials shimmering; bass flute sustains a root pedal beneath the choral mass; string orchestra sustain cradles harmony in warm long bow strokes. 74 BPM, A minor natural. Polished studio mix, deep low-end definition in the choral bass register, lush acoustic ambience of open valley air. Arc built by harmonic accumulation and cantor ascent; key lifts A minor to B-flat minor at climax. NOT Georgian polyphony, NOT Bulgarian voices, NOT bel canto, NOT Gregorian plainchant, NOT Celtic folk. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Uhadi alone: mouth bow, root A overtone shimmer, 0:00-0:26, 8 bars]
+  Ukufa...
+  umoya...
+
+  [Bass flute pedal: bass flute pedal beneath uhadi, 6 bars]
+  Ukufa...
+  izulu...
+
+  [Bass baritone drone: two voices, chest-resonant unison, 8 bars]
+  Ukufa, ubaba
+  ekhaya, intaba
+  umoya phakade
+  uthando, ukufa
+
+  [Tenor layer: tenor thickens, strings enter, 1:38 target, 8 bars]
+  Ukufa, uMama
+  izulu, ekhaya
+  ngiyabonga intaba
+  umoya phakade
+
+  [Cantor call: solo cantor rises above drone, 1:38-2:10, 10 bars]
+  Ukufa buyela
+  izulu sikhumbula
+  uthando phakade
+  ngiyabonga, uMama
+
+  [Choir response: four parts, strings swell, 2:10-2:49, 12 bars]
+  Ukufa, uthando
+  ekhaya, intaba
+  umoya phakade
+  izulu, ukufa
+
+  [Climax: four-part stack, strings full sustain, 2:49-3:15, 14 bars]
+  Ukufa! uthando!
+  izulu, ekhaya!
+  ngiyabonga, ubaba
+  ngiyabonga, uMama
+  umoya phakade!
+
+  [Plateau: layers peel back to root, 8 bars]
+  Ukufa...
+  uthando...
+  ekhaya...
+
+  [Uhadi reprise: uhadi alone, bass flute fades, 6 bars]
+  Ukufa...
+
+  [End]
+
+exclude_styles: "Georgian sacred polyphony, Bulgarian women's voices, Mongolian throat-singing, Tuvan khoomei, Gregorian plainchant, Byzantine liturgy, Russian liturgical, Celtic folk Enya kitsch, Eurovision Scandi kitsch, bel canto operatic aria, classical crossover soprano, generic film score orchestral, Ladysmith isicathamiya competitive, mbube hostel choir, township jive, South African pop, Afrobeats, gospel praise-break, neo-soul, bedroom-pop whisper, male falsetto-mix, Arabic mahraganat, Indonesian dangdut, Persian tahrir, Greek modal belt, Mizrahi-pop, Romanian manele, Polish trap, Czech indie-trap, Russian shouty MC, French banlieue rap, male-female Viking duet, Nordic noir, hyperpop, k-pop, j-pop, salsa, dembow, EDM trance, drift phonk, trap, drill, rap, rock, metal, lo-fi, Arabic, tribal, world music, electronic, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac"
+
+tags:
+  - uhadi
+  - bass-flute
+  - string-orchestra
+  - 74bpm
+  - a-minor
+  - kwazulu-natal-valley-dusk-scene
+  - isicathamiya-male-choral
+  - four-part-chest-drone
+  - solo-cantor-call-response
+  - zulu-isizulu-lyrics
+  - uhadi-catalog-debut
+  - bass-flute-gap-62
+  - string-orchestra-gap-156
+  - revival-bass-flute-62-gap
+  - revival-string-orchestra-156-gap
+  - 34th-distinct-language
+  - 45th-orthogonal-voice
+  - new-technique
+  - duration-3min
+  - research-driven
+  - instrumental-false
+  - vocal-male
+
+notes: |
+  v304 "Ukufa" — Zulu isicathamiya x cinematic orchestral ballad.
+  CATALOG DEBUT: zero Bantu-language / Zulu-choral entries across all
+  303 prior versions. 34th distinct language (isiZulu). 45th orthogonal
+  voice (Zulu close-harmony male choral drone with stacked low-to-high
+  chest resonance and solo cantor call).
+
+  TECHNIQUE: Isicathamiya is a Zulu a cappella close-harmony tradition
+  developed in the migrant labor hostels of southern Africa, later
+  refined on competitive choir stages. Its signature is four-part
+  male close-harmony — bass, baritone, second tenor, first tenor —
+  stacked as one breathing body rather than stereo-distributed SATB
+  rows. The bass-baritone layer forms a chest-resonant unison drone;
+  the tenor voices thicken above; a solo cantor (iqembu leader) rides
+  the top in call-and-response, his line more ornamented and free than
+  the strict harmonic grid below. isiZulu phonetics contribute voiced
+  fricative clusters (hl, dl) and lateral-click-adjacent consonant
+  attacks (c, q, x) that give syllables a sharp percussive front edge
+  unlike any smooth European choral blend. The tradition is distinct
+  from Georgian three-voice polyphony (open-fifth convergence, female
+  soprano arc), Bulgarian women's voices (dissonant seconds, female),
+  and all 44 prior voices in the catalog.
+
+  CONCEPT SOURCE: Isicathamiya four-part male close-harmony drone with
+  solo cantor call-and-response, isiZulu sacred-mourning ballad at 74
+  BPM, A minor natural, KwaZulu-Natal valley dusk scene, trio of uhadi
+  mouth bow + bass flute pedal + string orchestra sustain.
+
+  COMPOSER OMISSION CONFESSION: This concept echoes a close-harmony
+  tradition whose most internationally celebrated ensemble and their
+  longtime artistic director are withheld per artist-name blocklist
+  discipline. The choral architecture — chest-resonant unison drone,
+  stacked four-part harmony, call-and-response cantor — is the
+  instrument, not any individual's compositional voice. The avoid list
+  in exclude_styles blocks the specific proper nouns (ensemble name,
+  personal name, record label era) that would trigger those artist-
+  match auto-tags.
+
+  DURATION STRATEGY: BPM 74 = slow-BPM territory (<=115 caps at ~3:30).
+  Target: 3:00-3:15. Not fighting the ceiling — optimizing emotional
+  density via harmonic layer accumulation instead. Playbook moves:
+  - Parametrized colon-lyrics with bar counts per section
+  - Three production tokens: "polished studio mix", "deep low-end
+    definition", "lush acoustic ambience"
+  - Three body voices: uhadi (plucked-mouth-bow body resonator) +
+    bass flute (large-bore cylindrical body) + string orchestra
+    sustain (string body section) — all three satisfy >=2 body voice
+    rule; none spectral
+  - Sentence case throughout style, no ALL-CAPS form labels
+  - Atmospheric-first opening (KwaZulu-Natal valley dusk before
+    production tokens)
+  - No [Silence] metatag anywhere — hardened rule per v290+v303
+    cross-genre confirmation; arc uses harmonic layering accumulation
+    and reverse-peel coda instead
+  - Sustained crescendo via layer accumulation: uhadi alone (8 bars)
+    -> bass flute pedal added (6 bars) -> bass+baritone drone (8 bars)
+    -> tenor thickens (8 bars) -> solo cantor call (10 bars) -> choir
+    response + swell (12 bars) -> four-part convergence climax (14 bars)
+    -> plateau reverse-peel (8 bars) -> uhadi reprise alone (6 bars)
+  - Total lyric bars: 80 bars at 74 BPM targeting 3:00-3:15 wall clock
+
+  INSTRUMENTS:
+  - Uhadi (catalog debut, gap infinity, 303 cycles): Zulu mouth bow —
+    a single-string bow resonated against the open mouth cavity,
+    producing overtone-series partials by shaping the oral chamber.
+    Dry percussive pluck on the string, bright harmonic shimmer above.
+    Opens alone for 8 bars on root A, returns alone in the final
+    6-bar coda. First appearance in 303-version catalog.
+  - Bass flute (last v241, 62-cycle gap): large-bore flute pitched an
+    octave below concert flute, dark tubular warmth, natural sustain on
+    long low tones — ideal for a root-pedal drone beneath the choral
+    mass. Returns after 62-cycle absence as the harmonic foundation
+    pedal, entering under the uhadi at bar 9 and fading on the final
+    tone in the coda.
+  - String orchestra sustain (last v147, 156-cycle gap): full string
+    section (violins, violas, cellos, basses) in long sustained bow
+    strokes, no pizzicato, no ornament — pure harmonic cradle beneath
+    the choral stack. Returns after 156-cycle absence; enters with the
+    tenor layer at the fourth section, swells with choir response,
+    holds at full sustain through climax convergence, then recedes with
+    the plateau reverse-peel.
+
+  VOICE DIFFERENTIATION — 45th orthogonal voice. Zulu isicathamiya
+  four-part male close-harmony: bass+baritone chest-resonant unison
+  drone + tenor harmonic layer + solo cantor. Distinct from all 44
+  prior voices via: (1) chest-drone unison architecture — voices fused
+  into one resonant body vs. stereo-distributed European SATB rows;
+  (2) isiZulu phoneme inventory — voiced fricative clusters (hl, dl)
+  and click-adjacent consonant attacks give syllables percussive
+  front-edge no smooth-choral voice uses; (3) call-and-response
+  cantor role — one voice rides freely above the stack, not a duet
+  and not a solo aria; distinct from v303 Georgian polyphony (female
+  soprano + open-fifth bani drone + ornamental middle), v298 Latin
+  soprano bel canto, v300 two-voice duet, v302 Tamil nadaswaram.
+
+  LANGUAGE: isiZulu — 34th distinct language. Vocabulary used:
+  "ukufa" (death, the passing away), "umoya" (spirit, wind, breath),
+  "izulu" (sky, heaven, the heavens), "ekhaya" (home, at home),
+  "intaba" (mountain), "uthando" (love), "phakade" (forever, always),
+  "ngiyabonga" (I give thanks, I am grateful), "uMama" (mother),
+  "ubaba" (father), "buyela" (return, go back), "sikhumbula"
+  (we remember, we miss). Sacred-mourning ballad concept: evening over
+  the valley, ancestors in the wind, the passing returns to the sky but
+  love remains forever — a funeral lament addressed to the departed
+  parent, offering gratitude and farewell.
+
+  BLOCK RATIONALE: exclude_styles blocks all identity-adjacent triggers
+  that could drift the auto-classifier: Georgian/Bulgarian/Mongolian/
+  Tuvan/Russian/Byzantine (prevent polyphony conflation with v303);
+  bel canto/classical crossover (prevent v298-v300 lane drift);
+  Ladysmith isicathamiya competitive / mbube hostel choir / township
+  jive (proper-noun and era descriptors that would trigger the
+  internationally known ensemble's artist-match auto-tags, per
+  researcher avoid list); South African pop / Afrobeats (genre-drift
+  from sacred to popular); all 44 prior voice character labels
+  accumulated through v303. Added "cinematic ambient", "intimate
+  chamber", "elegiac" per playbook rule 10 (reflective concepts —
+  block the classifier tags that compress render duration).
+
+  NOVELTY: BPM 74 — one prior at v133 (170 cycles ago, very fresh).
+  Key A minor — last at v289 (14 cycles ago). Scene: KwaZulu-Natal
+  valley dusk, ancestral mourning — zero prior appearances. Uhadi
+  catalog debut. Bass flute 62-cycle revival. String orchestra 156-
+  cycle deep revival. 34th distinct language (isiZulu). 45th orthogonal
+  voice. Zulu isicathamiya never attempted in 303 cycles.
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md (17-cycle
+  data, 69% correction rate), submitter MUST verify Suno UI vocal_gender
+  matches YAML (male) before Create. All four choral layers and the
+  cantor are male — UI single-select gets Male.
+
+  Style: 949 chars. Lyrics: 996 chars. All fields validated via
+  yaml_field_check.py inspect. Blocklist clean. Three body voices
+  (uhadi + bass flute + string orchestra sustain). No [Silence] metatag
+  anywhere in lyrics.

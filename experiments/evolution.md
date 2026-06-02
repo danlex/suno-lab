@@ -348,6 +348,7 @@ mindmap
 | 301 | Szív | Hungarian Finno-Ugric vowel-harmony phonetics + Budapest indie-trap (Erzsébetváros 3am) | F minor | 97 | minimalist Hungarian trap kit + sliding 808 + piano sample loop |
 | 302 | Nila | Tamil indie-trap with Carnatic nadaswaram + veena counterpoint (Marina Beach 3am, FIRST Dravidian-family entry) | C minor | 94 | nadaswaram + veena + minimalist 808 trap kit |
 | 303 | Mshen | Georgian sacred polyphony × cinematic orchestral ballad (Kakhetian chapel dawn, ABSOLUTE family-first Georgian polyphony) | E minor | 65 | panduri (catalog debut) + cor anglais + bani drone bowed strings |
+| 304 | Ukufa | Zulu isicathamiya × cinematic orchestral ballad (KwaZulu-Natal valley dusk, ABSOLUTE family-first Bantu) | A minor | 74 | uhadi (catalog debut) + bass flute + string orchestra |
 
 ## Next-cycle priorities
 
