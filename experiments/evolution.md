@@ -354,6 +354,7 @@ mindmap
 | 307 | Endecha | Sephardic Ladino neo-electronic ballad (1492 Toledo expulsion echo to Istanbul candlelit dusk, ABSOLUTE family-first Ladino + Phrygian female mezzo) | G minor Phrygian | 90 | qanun (catalog debut) + oud (catalog debut) + darbuka (catalog debut) |
 | 308 | Wayra | Andean Quechua huayno-noir orchestral (altiplano dawn, ABSOLUTE family-first Quechua + high-nasal mountain soprano) | C minor Dorian | 104 | charango (catalog debut) + siku (catalog debut) + bombo legüero (catalog debut) |
 | 309 | Vetri | Neoclassical-electronic solo-piano-as-protagonist instrumental (PIVOT cycle after 6 family-firsts, midnight apartment glass-panes) | F minor | 80 | felt piano (sole protagonist, deep revival v233) + single cello countermelody + sub-bass pad |
+| 310 | Vriksha | Hindustani Raga Filmi Orchestral DENSITY-MANDATE test (Mumbai banyan twilight, ABSOLUTE family-first Hindi, female choir Aa vocalise — density hypothesis FAILED for Indian classical territory) | C# minor Bhairavi | 96 | sitar (catalog debut) + sarangi (120-cycle revival) + tabla (catalog debut) |
 
 ## Next-cycle priorities
 

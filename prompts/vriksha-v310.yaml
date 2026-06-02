@@ -1,0 +1,88 @@
+name: "vriksha-v310"
+version: 310
+title: "Vriksha"
+instrumental: false
+vocal_gender: female
+
+style: "Film score for a Mumbai twilight raga scene — golden-hour warmth over ancient banyan roots, vendors closing as the city hum dissolves into raga twilight. Six instrument families in constant density, never thinning, sustaining harmonic weight throughout. Polished studio mix, wide stereo stage, lush acoustic ambience. C# minor with lowered second and sixth degrees, Phrygian-adjacent modal color, 96 BPM. Sitar opens alone at 0:00 tracing the raga motif with ornamental bent-string curves; tabla and harmonium enter at 0:45 locking the rhythmic cycle with a low drone beneath; sarangi bows a warm sympathetic countermelody above; the full ensemble rises into orchestral mass at 1:30 with open Aa vocalise lifting above the texture. At the culminating tutti at 2:30 the key lifts half a step to D minor. No guitars, no rock drums, no pipe organ, no synthesizers, no electric bass."
+
+lyrics: |
+  [Sitar alap — raga motif alone, 16 bars]
+  आ... वृक्ष... आ...
+
+  [Tabla and harmonium enter — rhythmic cycle locks, 24 bars]
+  जड़... आकाश... जड़...
+
+  [Sarangi countermelody — sympathetic strings rise, 24 bars]
+  साँझ... बरगद... साँझ...
+
+  [Strings swell — mid-band arches build, 20 bars]
+  धरती... जीवन... धरती...
+
+  [Choir Aa vocalise rises — soprano lift above mass, 32 bars]
+  आ... अमर... आ...
+  दीप... मेघ... दीप...
+  आ... वृक्ष... आ...
+
+  [Sitar-sarangi exchange — duo above tabla pulse, 24 bars]
+  जड़... साँझ... जड़...
+
+  [Full tutti — D minor, all six families, 40 bars]
+  आकाश... अमर... आकाश...
+  वृक्ष... जीवन... वृक्ष...
+  आ... आ... आ...
+
+  [Harmonium drone and strings fade — unhurried close, 24 bars]
+  वृक्ष... आ...
+
+  [End]
+
+exclude_styles: "Bollywood, filmi pop, AR Rahman style, playback singer solo, qawwali, bhajan, devotional, Carnatic, South Indian classical, thumri, dadra, khayal lead vocalist, ghazal, Tamil cinema, Malayalam film, Punjabi pop, bhangra, Jai Ho march, Arabian maqam, Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac, neoclassical piano lounge, trap, rap, phonk, drill, hip-hop, Eurovision Scandi kitsch, Celtic Enya kitsch, generic film score, generic medieval RPG, Tuvan throat singing, Zulu choral, Georgian polyphony, Sephardic Ladino, Greek rebetiko, Quechua huayno"
+
+notes: |
+  Hindustani raga filmi orchestral: a compositional tradition from North Indian classical music in which raga frameworks — modal scales with prescribed ascending and descending pitch sequences, characteristic ornamental figures, and time-of-day emotional associations — are arranged for a hybrid ensemble combining Indian instruments (sitar, tabla, sarangi, harmonium) with Western string orchestra and choir. The raga deployed here is Bhairavi-adjacent in color: the characteristic lowered second and sixth scale degrees give the mode its characteristic quality of bittersweet tenderness associated with the closing hours of a musical gathering.
+
+  Concept source (researcher): "DENSITY MANDATE — six instrument families simultaneously active throughout to guarantee 3:00+ duration; sitar + sarangi (120-cycle revival) + tabla + harmonium + Western strings + massed female choir Aa vocalise; C# minor / 96 BPM; Mumbai golden hour at the banyan tree, ancient roots, raga twilight."
+
+  This prompt follows in the tradition of North Indian classical arrangers who worked extensively with studio orchestras — a body of work whose greatest practitioners are not named here per catalog discipline. The massed-choir Aa vocalise architecture is drawn specifically from the tradition of wordless unison female choir as orchestral texture rather than as solo performance, a distinction that separates this from both solo playback-singer tradition and polyphonic choral writing.
+
+  Duration strategy: BPM 96 sits in the slow band (90–115), where the playbook ceiling is approximately 3:30 regardless of bar count. Total lyric bar count is 220 bars. At the data-calibrated 35% efficiency for this BPM band, 220 bars at 96 BPM targets approximately 3:00–3:30 mean render — consistent with the v254 precedent (106 BPM, 220 bars, 3:24 mean). The density mandate (six simultaneous instrument families) functions as an additional duration driver: Suno's classifier reads multi-family stack as full cinematic ensemble production and resists early truncation. Production tokens applied: polished studio mix, wide stereo stage, lush acoustic ambience. Sentence case throughout; atmospheric-first opening; no [Silence] metatag (hardened rule per feedback_silence_gate_truncates.md). The colon-syntax lyrics with bar counts provide per-section length scaffolding. No ALL-CAPS form labels.
+
+  Instruments with catalog gaps:
+  - sitar (catalog debut — zero prior appearances in 309 versions): Hindustani plucked lute with movable frets and sympathetic resonance strings, played with a wire plectrum; opens alone in the alap section stating the raga motif with characteristic ornamental bent-string curves, remains present throughout as the primary melodic voice.
+  - sarangi (last v190, gap 120 — deep revival): Hindustani bowed lute with approximately 35 sympathetic resonance strings that shimmer around every bowed note; enters after the tabla-harmonium lock-in, bows a countermelody above the sitar, exchanges phrases with sitar in the contrast section.
+  - tabla (catalog debut — zero prior appearances in 309 versions): paired Hindustani drums (dayan + bayan) played with fingers; provides the rhythmic teentaal cycle, paired here with dholak doubling for additional membrane-body weight.
+  - harmonium (catalog debut as featured instrument — appeared in v276 only as supporting Bollywood-vocal pad, not featured): a reed organ imported to India in the 19th century, now central to Hindustani classical performance; sustains a low drone throughout, providing the harmonic foundation beneath all other voices.
+  - Western string section (last v147, gap 163): full bowed string orchestra filling the mid-band; enters softly alongside the sarangi, swells through the choir-vocalise section, participates in the full tutti culmination.
+  - massed female choir (50th orthogonal voice, 39th distinct language context): not individual singers but a unified massed sonority holding the open Aa vowel in long unison tones, with occasional soprano lift above the mass on emotional peaks; the choir is the voice architecture rather than a lead character, distinct from all 49 prior voice characters in catalog.
+
+  Novelty claims: language-novelty (Hindi/Sanskrit — 39th distinct language, first Hindustani/Hindi context in 309 versions); instrument-debut (sitar — zero prior); instrument-debut (tabla — zero prior); instrument-debut (harmonium as featured — zero prior as featured); deep-revival (sarangi — gap 120); deep-revival (string orchestra — gap 163); voice-novelty (massed unison Aa vocalise architecture — 50th orthogonal voice); scene-novelty (Mumbai golden hour banyan tree, no prior Mumbai urban scene); key fresh (C# minor — last v297, 13 cycles back); BPM revival (96 — last v262, 48 cycles back).
+
+  Final style char count: 949.
+
+tags:
+  - sitar
+  - sarangi
+  - tabla
+  - harmonium
+  - western-strings
+  - female-choir
+  - dholak
+  - 96bpm
+  - c-sharp-minor
+  - d-minor
+  - mumbai-golden-hour-banyan-scene
+  - catalog-debut-sitar
+  - catalog-debut-tabla
+  - catalog-debut-harmonium
+  - revival-sarangi-120-gap
+  - revival-string-orchestra-163-gap
+  - revival-96bpm-48-gap
+  - new-technique
+  - hindustani-raga-filmi
+  - 39th-language-hindi
+  - 50th-voice-massed-choir-aa
+  - density-six-families
+  - duration-3min
+  - research-driven
+  - vocal
