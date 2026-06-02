@@ -1,0 +1,152 @@
+name: "pearl"
+version: 296
+title: "Pearl"
+instrumental: false
+vocal_gender: female
+
+style: "Modern bedroom-pop dreampop ballad, 76 BPM, B minor, lo-fi bedroom-as-studio rainy afternoon. Female SOLO intimate close-mic vocal — hushed confessional diaristic with whispered-to-soft-belt dynamic range, breathy texture with embraced imperfections, reverb-soaked tape-saturated phrasing, NOT husky chanson, NOT ethereal DnB, NOT gospel choir, NOT neo-soul chesty — bedroom-pop close-mic whisper signature. Production: reverb-soaked clean electric guitar with chorus pedal, gentle drum-machine pulse (lo-fi 808-and-clap), warm tape-saturation, subtle synth-pad bed, tape-hiss texture, soft-rock chord cycle, minimal 'negative space' arrangement. ARC: 0:00-0:30 guitar alone, 0:30 verse 1 whisper, 1:00 drum-machine enters, 1:30 verse 2, 2:00 first hook with vocal harmony pad, 2:30 climax with harmonic ascent + tape swell, sustain to 3:30. NOT mainstream pop, NOT trap, NOT gospel choir."
+
+lyrics: |
+  [Intro] (reverb electric guitar alone, 0:00-0:30)
+  oh, mmm
+
+  [Verse 1 — intimate whisper, 0:30-1:00]
+  pearl in the bathtub, rain on the glass
+  your jacket still smells like the laundromat
+  six weeks since I deleted your texts
+
+  [Verse 2 — drum machine enters, 1:00-1:30]
+  the apartment is louder than I remember
+  the radiator hums all September
+  I'm twenty-three and I don't know who I am
+
+  [Pre-Hook — vocal pad enters, 1:30-2:00]
+  (lead) pearl in the bathtub
+  (harmony) ah-ah
+  (lead) rain on the glass
+
+  [Hook — Soft belt with pad, 2:00-2:30]
+  pearl, pearl, you were my pearl
+  pearl, pearl, slipping through my fingers
+  pearl, pearl, I am letting go
+
+  [Climax — harmonic ascent + tape swell, 2:30-3:00]
+  pearl, pearl, I am the rain
+  pearl, pearl, I am twenty-three alone
+  pearl, pearl, I am my own pearl
+
+  [Sustained Plateau, 3:00-3:30]
+  pearl... pearl... pearl...
+  ah... mmm... I am my own
+
+  [Outro] (reverb guitar fade)
+  pearl...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky low contralto chanson, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Old Norse battle-roar choir, female Icelandic Nordic noir, male-female Viking duet, male Hopelandic post-rock, female gospel praise-break choir-explosion v294, female neo-soul chesty v295, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, contemporary Christian, trance EDM, mainstream R&B radio polish, hyperpop PC Music"
+
+tags:
+  - modern-bedroom-pop
+  - dreampop-ballad
+  - isolation-test-vs-v295-bpm-variable
+  - 76bpm
+  - b-minor
+  - female-vocal-intimate-whisper
+  - reverb-soaked-tape-saturated
+  - english-lyrics
+  - viral-arm
+  - lo-fi-bedroom-as-studio-rainy-afternoon
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v296 — Modern bedroom-pop dreampop ballad. SEVENTH
+  cycle in user-directive theme "brain dopamine" application. **EXPLICIT
+  ISOLATION TEST queued by v295's memory finding** (`feedback_silence_
+  gate_truncates.md` v295 next-test).
+
+  HYPOTHESIS TEST: v294 (gospel, 76 BPM, dense choir) rendered SHORT
+  (2:07+1:56). v295 (neo-soul, 92 BPM, sparse) rendered IN BAND (2:38+
+  2:38). v295 changed BOTH variables. v296 isolates ONE: slow BPM (76,
+  same as v294) + sparse arrangement (same density as v295).
+
+  EXPECTED RESULTS:
+  - If v296 renders IN BAND (2:30+): DENSITY was the variable at v294
+    (slow BPM is FINE for sparse arrangements — v293 already proved that
+    at 70 BPM for post-rock instrumental). Rule promoted firmly: choir-
+    heavy arrangements default-short regardless of BPM.
+  - If v296 renders SHORT: BPM is also a contributing variable in
+    soul/R&B/intimate-pop territory specifically. Suno may render slower-
+    tempo vocal-led pop short by default.
+
+  Research-driven (The Gazelle Bedroom Pop on TikTok, Melodigging
+  Bedroom Pop, Buzz Music Rise of Bedroom Pop): modern bedroom-pop on
+  TikTok is characterized by lo-fi textures + soft rock chords +
+  understated electronic beats + confessional close-mic vocals +
+  embraced imperfections (clipped breaths, room noise). Reverb-soaked
+  guitars with chorus pedals + gentle drum machines + warm tape-
+  saturation polish + subtle synth-pads. Vocal style is "hushed and
+  light." TikTok-viral via lo-fi-bedroom-as-studio aesthetic and
+  intimate confessional content.
+
+  USER ROADMAP: 33 viral cycles + 6 brain-dopamine cycles (v290-v295)
+  + v296 isolation test = 40 cycles so far.
+
+  VOICE DIFFERENTIATION — 37TH orthogonal voice in 37 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v295: 36 prior voices spanning 28 "languages"
+    v296 — female BEDROOM-POP INTIMATE CLOSE-MIC WHISPER ENGLISH
+           (hushed confessional diaristic delivery + whispered-to-soft-
+           belt dynamic range + breathy texture with embraced
+           imperfections + reverb-soaked tape-saturated phrasing —
+           distinct from v262 husky chanson via whisper-vs-husky timbre,
+           from v269 ethereal DnB via lo-fi-bedroom-aesthetic vs
+           polished-DnB-aesthetic, from v294 v295 R&B via different
+           production tradition entirely)
+  Closest comparisons:
+    - v262 French husky contralto chanson (also female, also intimate
+      close-mic — but husky low chest vs bedroom-pop whisper-mid)
+    - v269 ethereal breathy DnB soprano (also female breathy — but
+      DnB-polished vs bedroom-pop lo-fi)
+    - v295 neo-soul chesty (also sparse arrangement — but soul chesty
+      vs bedroom-pop whisper)
+  Style + exclude_styles block all 36 prior voice characters including
+  v294 and v295 explicitly.
+
+  **CONTROLLED-VARIABLE ISOLATION** (the dopamine-architecture findings):
+  This cycle deliberately holds CONSTANT v295's sparse-arrangement
+  density (solo female + sparse backing harmony pad), while CHANGING
+  v295's BPM (76 vs 92). If v296 renders to target band, the choir-
+  density rule from v294 is confirmed and BPM is exonerated. If v296
+  renders short, BPM in vocal-led territory is also a contributing
+  factor.
+
+  BPM 76 — same as v294 (the test variable). Canonical for slow
+  bedroom-pop/dreampop ballads.
+
+  Key B minor — first reuse since v268 K-pop (28 cycles ago). Walks
+  well with reverb-soaked chord cycles canonical to dreampop.
+
+  Production palette pinned: "reverb-soaked clean electric guitar with
+  chorus pedal + gentle drum-machine pulse (lo-fi 808-and-clap) + warm
+  tape-saturation polish + subtle synth-pad bed + tape-hiss texture +
+  soft-rock chord cycle + minimal 'negative space' arrangement."
+  Negatives explicitly block mainstream pop, trap, gospel choir, modern
+  worship pop, hyperpop PC Music, mainstream R&B radio — six adjacent
+  failure modes.
+
+  Title "Pearl" — 5 chars, MEME-able, evocative bedroom-pop texture
+  (pearl = soft, slow, intimate, slipping = perfect for the genre).
+  Distinct from prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No
+  Cigarettes After Sex, Lana Del Rey, Phoebe Bridgers, Mazzy Star,
+  Beach House, Mitski, Clairo, Slowdive, Beabadoobee, Snail Mail
+  artist names in style field — preemptive removal per v274-v295
+  artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`female`) before Create.
