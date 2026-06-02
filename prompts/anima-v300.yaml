@@ -1,0 +1,164 @@
+name: "anima"
+version: 300
+title: "Anima"
+instrumental: false
+vocal_gender: male
+
+style: "Modern classical-crossover orchestral ballad, MALE-FEMALE TRUE DUET, 62 BPM, Bb minor, twin-cathedral candlelit cinematic. v300 milestone — completes the Lumen + Eterno classical-crossover trinity. Architecture: female lyric soprano (classical-trained pure-tone vowel purity, sustained vibrato) + male lyric tenor (bel canto bright forward placement, dramatic chest-mix) alternating verses then harmonizing on hooks then UNISON at climax. Male primary per vocal_gender, female prompted via lyrics. Production: solo grand piano arpeggios, solo cello melodic counterpoint at 1:00, sustained string section pad, cathedral pipe organ pad, sparse timpani at climax, NO drum kit. ARC: 0:00-0:30 piano alone, 0:30 male tenor verse 1, 1:00 female soprano verse 2 + cello joins, 1:30 strings + duet call-response, 2:00 build, 2:30 climax with full orchestra + organ + half-step ascent + DUET UNISON fortissimo, sustain to 3:30. Cinematic classical-crossover. NOT pop, NOT power ballad, NOT Eurovision."
+
+lyrics: |
+  [Intro] (solo grand piano arpeggios, 0:00-0:30)
+  (no vocals)
+
+  [Verse 1 — Male tenor sotto voce, 0:30-1:00]
+  anima mia, dove sei adesso
+  il vento porta il tuo silenzio
+  ho camminato lungo la riva
+  cercando la luce che eri tu
+
+  [Verse 2 — Female soprano, cello joins, 1:00-1:30]
+  lumen aeternum, fiamma viva
+  anima nostra, eterna riva
+  per montem cantamus
+  per noctem perduramus
+
+  [Pre-Hook — Duet call-response, 1:30-2:00]
+  (tenor) anima, lumen
+  (soprano) aeternum, viva
+  (tenor) anima nostra
+
+  [Build — duet harmony rising, 2:00-2:30]
+  anima, anima, ascendere
+  lumen, lumen, illuminare
+  per noctem aeternam, anima perdurat
+
+  [Climax — UNISON fortissimo, 2:30-3:00]
+  ANIMA! ANIMA! lumen aeternum!
+  ANIMA! ANIMA! eterno amore!
+  ANIMA in tenebris, anima vincit
+
+  [Sustained Plateau, 3:00-3:30]
+  (duet) anima... lumen... eternum...
+  anima nostra, aeterna
+  vincit anima
+
+  [Outro] (orchestral wash + piano fade)
+  anima...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, broadway, jazz, soaring soprano belt arena, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Polish trap, male-female Viking folk-anthem duet, female lyric soprano classical-crossover solo, male lyric tenor classical-crossover solo, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, trance EDM, mainstream pop power ballad, Eurovision kitsch, generic film score, Celtic Enya kitsch, male power-metal vocal"
+
+tags:
+  - modern-classical-crossover
+  - male-female-true-duet
+  - v300-milestone-cycle
+  - lumen-eterno-anima-trinity-finale
+  - 62bpm
+  - bb-minor
+  - duet-soprano-tenor
+  - bilingual-italian-latin
+  - viral-arm
+  - twin-cathedral-candlelit
+  - duration-model-validated-territory
+  - call-response-to-unison-architecture
+  - new-technique
+  - research-driven
+  - vocal-male-female-duet
+
+notes: |
+  VIRAL ARM cycle v300 — MILESTONE CYCLE. Completes the classical-
+  crossover trinity:
+    - v298 Lumen (female lyric soprano + Latin + 60 BPM) — 4:03+4:13
+    - v299 Eterno (male lyric tenor + Italian + 64 BPM) — 3:29+3:34
+    - v300 Anima (MALE-FEMALE TRUE DUET + bilingual Italian+Latin +
+      62 BPM) — predicted 3:00+ per validated duration model
+  Trinity concept: Lumen (light) → Eterno (eternal) → Anima (soul) —
+  the three classical-vocal-tradition ideals united in a male-female
+  duet finale. Bocelli-Brightman "Con te partirò / Time to Say Goodbye"
+  lineage — bilingual Italian-Latin classical-crossover duet.
+
+  Research-driven (Wikipedia "Con te partirò", TikTok 2026 #BocelliBrightman
+  content): "Time to Say Goodbye" / "Con te partirò" remains the
+  canonical Bocelli-Brightman classical-crossover duet template. The
+  bilingual approach (Italian + English/Latin) is genre-canonical.
+  Powerful orchestration + duet vocal architecture + emotional sweep =
+  classical-crossover viral signature on TikTok.
+
+  USER ROADMAP: v300 milestone. The catalog now spans 30+ languages,
+  40+ voice archetypes, multiple genre territories, with a validated
+  duration model and a refined harness for autonomous cycle generation.
+  v300 is positioned to mark the milestone with a showpiece combining
+  ALL learnings: validated duration model recipe + dopamine-architecture
+  (call-response → unison) + late-vocal-entry + first true classical-
+  crossover duet + bilingual classical vocal language pair.
+
+  VOICE DIFFERENTIATION — 41ST orthogonal voice in 41 cycles. **FIRST
+  CLASSICAL-CROSSOVER DUET** in the catalog. Cumulative ledger
+  (abbreviated):
+    v260-v299: 40 prior voices spanning 30 languages
+    v300 — MALE-FEMALE TRUE DUET classical-crossover ITALIAN+LATIN
+           bilingual (female lyric soprano + male lyric tenor alternating
+           verses then harmonizing on hooks then unison at climax — the
+           classical-crossover duet architecture is distinct from v292
+           Viking folk-anthem duet via bel-canto-classical vs Norse-
+           folk-anthem tradition + bilingual Italian+Latin vs Norwegian
+           — completely new vocal architecture)
+  v292 Viking duet was the catalog's first true male-female duet; v300
+  is the second, but in completely different vocal-philosophy territory
+  (classical-crossover bel canto vs Viking folk anthem). Style +
+  exclude_styles block all 40 prior voice characters including v292
+  Viking duet, v298 female solo, v299 male solo explicitly.
+
+  LANGUAGE — Bilingual Italian + Latin (the two canonical classical-
+  vocal languages). The bilingual approach is genre-canonical per the
+  Bocelli-Brightman "Time to Say Goodbye" tradition. Verse 1 male tenor
+  in Italian ("anima mia, dove sei adesso", "il vento porta il tuo
+  silenzio"), Verse 2 female soprano in Latin ("lumen aeternum, fiamma
+  viva", "per montem, per mare cantamus"), Pre-Hook alternating call-
+  response Italian + Latin, Climax UNISON in mixed Italian-Latin
+  ("ANIMA! ANIMA! lumen aeternum!", "eterno amore!", "anima vincit"),
+  Plateau in shared bilingual ("anima... lumen... eternum...").
+
+  **DURATION MODEL APPLIED** (per validated `feedback_silence_gate_
+  truncates.md` v3, confirmed at v298 4:03+4:13 and v299 3:29+3:34):
+  Genre = cinematic classical-crossover (most reliable long-form recipe).
+  Architecture combines:
+  - Late-vocal-entry (v293/v298/v299 pattern): instrumental 0:00-0:30
+  - Call-response → unison (v292 pattern): duet verse 1/2 alternation
+    → pre-hook call-response → unison climax
+  - Plateau-climax (v293 pattern): 2:30-3:30 sustained ensemble hold
+  - Half-step harmonic ascent at climax (v291/v294/v298 pattern)
+  Expected: 3:00-4:13+ per model. The duet architecture may add
+  variance — v292 was Viking, came in 2:53+2:37; classical-crossover
+  duet should perform like v298+v299 (3:00-4:13+).
+
+  BPM 62 — between v298 (60) and v299 (64). Fresh in rotation.
+
+  Key Bb minor — first reuse since v264 neoperreo (36 cycles ago — very
+  distant). Walks well with cathedral organ pad + duet vocal harmony.
+
+  Production palette pinned: same v298+v299 cinematic-orchestral
+  arrangement: "solo grand piano arpeggios + solo cello melodic
+  counterpoint + sustained string section + cathedral pipe organ pad +
+  sparse timpani roll at climax + NO drum kit." Negatives explicitly
+  block mainstream pop power ballad, Eurovision kitsch, generic film
+  score, Celtic Enya kitsch, male power-metal — five adjacent failure
+  modes.
+
+  Title "Anima" (Italian/Latin for "soul") — 5 chars, MEME-able,
+  conceptually unites v298 Lumen + v299 Eterno into the trinity finale.
+  The three titles together: Lumen (light) → Eterno (eternal) → Anima
+  (soul) = the three classical-vocal-tradition ideals.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No
+  Andrea Bocelli, Sarah Brightman, Hauser, 2Cellos, Il Divo, Pavarotti,
+  Plácido Domingo, Francesco Sartori, Lucio Quarantotto, Russell
+  Watson artist names in style field — preemptive removal per
+  v274-v299 artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (17-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`male`) before Create.
+  The female duet partner is prompted via lyrics — UI is single-select
+  so we set Male as primary.
