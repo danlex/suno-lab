@@ -1,0 +1,98 @@
+name: "asche-v311"
+version: 311
+title: "Asche"
+instrumental: false
+vocal_gender: female
+
+style: "Film score for a cathedral-fire scene — a soprano riding the surge as stone walls glow and ash falls like snow through the broken dome at dusk. Symphonic metal operatic ballad, polished studio mix, Hollywood scoring stage, wide stereo stage. E minor, lifting to F minor at 2:40, 98 BPM. Contrabass clarinet anchors a low-menace drone from 0:00; ondes martenot threads a spectral shimmer through the mix from 0:30; tubular bells ring at phrase endings and mark each arc summit. Full metal rhythm section and lush orchestral mass drive the surge from 1:15 beneath the classically-trained soprano, who rides above the storm with controlled legato power and high register command. Modulation at 2:40 lifts the final section a half-step to F minor with the soprano at full height. Warm tape saturation on the guitar-orchestra blend, deep low-end definition throughout. No growling, no screaming, no synthesizer pads, no autotune, no hip-hop production."
+
+lyrics: |
+  [Contrabass clarinet drone intro, 8 bars]
+
+  [Soprano enters sparse strings, 16 bars]
+  Ash on the stone floor
+  Ember still glowing
+  The dome holds the silence
+  Before the walls fall
+
+  [Rhythm section drops full choir added, 24 bars]
+  Rise above the burning
+  Rise above the ash
+  Cathedral breathing fire
+  Stone will not forget
+  Rise above the burning
+  Speak into the flame
+
+  [Verse climbs tubular bells mark endings, 20 bars]
+  Voice alone in the nave
+  The choir fills behind
+  Snow of ash falling
+  Still I stand and I sing
+  Above the ruin
+  Above the light
+
+  [Ondes martenot cello — intimacy trough, 12 bars]
+  Alone here
+  One voice in the heat
+  One note held to the sky
+
+  [Full return half-step lift F minor, 32 bars]
+  Rise above the burning
+  Rise above the ash
+  Cathedral breathing fire
+  Stone will not forget
+  Rise above the burning
+  Rise above the fall
+  Snow of ash eternal
+  Above the dark above the light
+  Above the ash above the flame
+  Rise
+
+  [Tubular bells final ring, 8 bars]
+  Above the ash
+
+  [End]
+
+exclude_styles: "death metal, black metal, extreme metal, growling, screaming, deathcore, metalcore, djent, slam metal, doom metal, power metal, Viking metal, folk metal, Norse metal, symphonic power metal cheese, bel canto Italian opera, Latin choral, Gregorian chant, Indian classical, Hindustani, sitar, tabla, sarangi, raga, Indian filmi, Bollywood, trap, rap, phonk, drill, hip-hop, R&B, lo-fi, electronic, EDM, synthesizer, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, acoustic guitar solo, country, bluegrass, Celtic, Enya kitsch, gypsy, klezmer, Arabic, tribal, world music, pipe organ, cinematic ambient, intimate chamber, elegiac neoclassical, neoclassical piano lounge, art song, Lieder, chamber song cycle, choir only, choral only, vocal ensemble, barbershop, gospel, spiritual, autotune, pitch correction, vocal fry, nu-metal, alt-metal, grunge, hard rock, hair metal"
+
+notes: |
+  Symphonic metal operatic ballad: a subgenre in which classically-trained soprano voice is set against the full density of a modern metal rhythm section (distorted rhythm guitars, double-kick drum pattern, bass guitar) with a large symphonic orchestra (full strings, choir swell) providing harmonic mass. The genre is characterized by operatic vocal technique applied over rock band density — a combination that originated in northern Europe in the 1990s and has since become a stable Suno v5.5 long-form classifier territory, consistently rendering 3:00–4:00+. The specific technique here is the "cathedral-fire arc": a build from exposed spectral drone through mounting band density to a modulated climax, with the soprano as sole narrative thread throughout.
+
+  Concept source (researcher): "Symphonic metal operatic ballad targeting confirmed long-form classifier territory after v310's 1:18-1:39 Indian-classical truncation. Contrabass clarinet + ondes martenot + tubular bells as deep-revival trio within the band density bed. Cathedral burning at dusk, ash falling like snow, soprano in the central nave as the dome glows. E minor → F minor half-step lift at 2:40. 98 BPM. Classify-first, density second."
+
+  This prompt echoes the compositional tradition of northern European symphonic metal arrangers who layered classically-trained sopranos over metal rhythm sections and lush orchestral writing — a body of work whose greatest practitioners are not named here per catalog discipline. The operatic soprano combined with distorted guitar density represents a distinct voice architecture from all 310 prior catalog entries: no prior version has paired a metal rhythm section with classically-trained dramatic soprano.
+
+  Duration strategy: BPM 98 sits in the slow-to-moderate band. The classifier argument dominates: symphonic metal is Suno v5.5 confirmed long-form territory (3:00–4:00+ default, distinct from Indian classical which truncated at 1:18–1:39 in v310). Total lyric bar count is 120 bars across 7 sections; at the slow-BPM efficiency ceiling (~3:30), this targets 3:00–3:30 render. The density layer (rhythm section + strings + choir + soprano) reinforces the classifier lock. Production tokens applied: polished studio mix, Hollywood scoring stage, wide stereo stage, warm tape saturation, deep low-end definition. Sentence case throughout; atmospheric-first opening; no [Silence] metatag (hardened rule per feedback_silence_gate_truncates.md). The colon-syntax lyrics with bar counts provide per-section length scaffolding. No ALL-CAPS form labels.
+
+  Key note: F minor (the modulation target) was last used at v309 (gap 2 — very fresh). Kept per researcher spec since the E minor → F minor half-step lift is native to symphonic metal's tonal vocabulary and serves the classifier lock more than any other key target.
+
+  Instruments with catalog gaps:
+  - contrabass clarinet (last v255, gap 56 — deep revival): the lowest member of the clarinet family, sounding two octaves below the standard clarinet; plays a sustained low-menace drone in the intro, remains present as a sub-bass texture anchor beneath the rhythm section throughout.
+  - ondes martenot (last v256, gap 55 — deep revival): an early electronic instrument producing a continuous pitch via a keyboard or ribbon controller, with a distinctive ethereal timbre between theremin and strings; threads a spectral shimmer through the band mix, cutting through the guitar-string density with its unique frequency profile.
+  - tubular bells (last v246, gap 65 — deep revival): large metal tubes struck to produce resonant, cathedral-like tones; ring at phrase endings as ceremonial markers, most prominent in the climax section and the final ring coda.
+
+  Novelty claims: technique-novelty (symphonic metal operatic soprano — first in 310 versions; v117 was gothic neoclassical without rhythm section); instrument-revival (contrabass clarinet, gap 56); instrument-revival (ondes martenot, gap 55); instrument-revival (tubular bells, gap 65); BPM-revival (98 BPM, last v274, gap 37); voice-novelty (classically-trained dramatic soprano over metal rhythm section + orchestra — no prior catalog entry has this architecture); scene-novelty (cathedral burning at dusk, ash-as-snow, soprano in burning nave — no prior burning-cathedral scene in 310 versions); key: E minor (last v303, gap 8, fresh); F minor modulation (last v309, gap 2, very fresh but kept per researcher spec).
+
+  Final style char count: 946.
+
+tags:
+  - contrabass-clarinet
+  - ondes-martenot
+  - tubular-bells
+  - 98bpm
+  - e-minor
+  - f-minor
+  - cathedral-burning-at-dusk-scene
+  - revival-contrabass-clarinet-56-gap
+  - revival-ondes-martenot-55-gap
+  - revival-tubular-bells-65-gap
+  - revival-98bpm-37-gap
+  - new-technique
+  - symphonic-metal-operatic-ballad
+  - dramatic-soprano-over-metal
+  - duration-3min
+  - research-driven
+  - vocal
+  - symphonic-metal
+  - operatic-soprano
+  - half-step-lift-2-40
