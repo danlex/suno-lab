@@ -347,6 +347,7 @@ mindmap
 | 300 | Anima | v300 MILESTONE CYCLE — Modern classical-crossover orchestral ballad MALE-FEMALE TRUE DUET completing the Lumen-Eterno-Anima classical-crossover trinity | Bb minor | 62 | grand piano + solo cello + sustained string section with cathedral organ pad |
 | 301 | Szív | Hungarian Finno-Ugric vowel-harmony phonetics + Budapest indie-trap (Erzsébetváros 3am) | F minor | 97 | minimalist Hungarian trap kit + sliding 808 + piano sample loop |
 | 302 | Nila | Tamil indie-trap with Carnatic nadaswaram + veena counterpoint (Marina Beach 3am, FIRST Dravidian-family entry) | C minor | 94 | nadaswaram + veena + minimalist 808 trap kit |
+| 303 | Mshen | Georgian sacred polyphony × cinematic orchestral ballad (Kakhetian chapel dawn, ABSOLUTE family-first Georgian polyphony) | E minor | 65 | panduri (catalog debut) + cor anglais + bani drone bowed strings |
 
 ## Next-cycle priorities
 

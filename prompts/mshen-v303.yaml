@@ -1,0 +1,191 @@
+name: "mshen"
+version: 303
+title: "Mshen"
+instrumental: false
+vocal_gender: female
+
+style: "Film score for Kakhetian chapel dawn — Georgian sacred polyphony, dawn mist over Alazani valley, candlelight in cold stone. 65 BPM, E minor Dorian sacred mode. Female soprano carries the high melodic arc above a sustained low string bani drone (cello and double bass open-fifth); cor anglais weaves bent-pitch modal ornament between. Three voices: bani drone as unmoving foundation, cor anglais middle voice threading modal color, soprano ascending through Dorian inflections. Polished studio mix, wide stereo stage, deep low-end definition in the drone bed. At climax the key lifts from E minor to F minor — all three voices converge in unison fortissimo, then open into three-part open-fifth harmony and fade. NOT Russian liturgy, NOT Bulgarian voices, NOT Mongolian throat-singing, NOT bel canto, NOT Celtic folk, NOT Gregorian plainvoice. No guitars, no rock drums, no pipe organ, no synthesizers, no Western leading-tone resolution."
+
+lyrics: |
+  [Intro: panduri alone, bani drone enters at 0:20, 0:00-0:30, 8 bars]
+  მშენ... მშენ...
+
+  [Soprano line: soprano arc over drone and panduri, 0:30-1:00, 8 bars]
+  მშენ ცა ღამე
+  სიყვარული მზე
+  სული მთა
+  კახეთი
+
+  [Middle voice ornament: cor anglais ornamental middle, 1:00-1:30, 8 bars]
+  ალაზანი მშვიდი
+  ღამე სიყვარული
+  სული — მზე
+  კახეთი
+
+  [Three-voice stack: all three voices, strings swell, 1:30-2:00, 12 bars]
+  მშენ ცა — სული მთა
+  ალაზანი — სიყვარული
+  მზე მშენ — ღამე სული
+  კახეთი — მშენ
+
+  [Build: three voices rise in Dorian tension, 2:00-2:30, 16 bars]
+  მშენ სინათლე
+  ამაღლებ განთიადს
+  სული ასცენდს
+  მშენ... მშენ...
+
+  [Silence: full ensemble stops, stone room breath, 2:30-2:40, 4 bars]
+
+  [Drop: unison fortissimo, E minor lifts to F minor, open-fifth three-part harmony, 2:40-3:10, 12 bars]
+  მშენ! სინათლე!
+  ამაღლებ განთიადს!
+  სული — მთა — ცა
+  კახეთი მშენ!
+
+  [Plateau: soprano alone, panduri closes, bani fades, 3:10-3:30, 8 bars]
+  მშენ... სული...
+  ალაზანი...
+  მშენ...
+
+  [End]
+
+exclude_styles: "Russian liturgical polyphony, Bulgarian voices, Mongolian throat-singing, Tuvan khoomei, Gregorian sacred, Byzantine liturgy, Celtic folk Enya kitsch, Eurovision Scandi kitsch, bel canto operatic aria, classical crossover soprano belt, generic film score orchestral, Georgian folk Rustavi-style, chorus ensemble choral, gospel praise-break choir, neo-soul, bedroom-pop whisper, male falsetto-mix Afrobeats, Arabic mahraganat, Indonesian dangdut, Türk trap, Persian tahrir, Greek modal belt, Mizrahi-pop, Romanian manele, Polish trap, Czech indie-trap, Russian shouty MC, French banlieue rap, male-female Viking duet, Nordic noir, hyperpop, k-pop, j-pop, salsa, dembow, EDM trance, drift phonk, trap, drill, rap, rock, metal, lo-fi, Arabic, tribal, world music, electronic, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+
+tags:
+  - panduri
+  - cor-anglais
+  - bowed-string-bani-drone
+  - 65bpm
+  - e-minor
+  - f-minor
+  - georgian-sacred-polyphonic
+  - three-voice-open-fifth
+  - bani-drone
+  - kakhetian-chapel-dawn-scene
+  - alazani-valley
+  - female-vocal-soprano-georgian
+  - georgian-mkhedruli-lyrics
+  - panduri-catalog-debut
+  - cor-anglais-gap-54
+  - bani-drone-gap-infinite
+  - revival-panduri-debut-gap
+  - revival-cor-anglais-54-gap
+  - 33rd-distinct-language
+  - 44th-orthogonal-voice
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental-false
+  - vocal-female
+
+notes: |
+  v303 "Mshen" — Georgian sacred polyphonic × cinematic orchestral ballad.
+  CATALOG DEBUT: zero Georgian instruments / vocal style / polyphonic
+  three-voice architecture across all 302 prior versions.
+
+  TECHNIQUE: Georgian polyphony is one of the oldest surviving
+  polyphonic vocal traditions in the world, rooted in the Kakheti and
+  Svaneti regions. The three-voice architecture comprises a bani (bass
+  drone — open-fifth sustained pedal, no vibrato, no Western leading-
+  tone resolution), an ornamental middle voice (threaded between drone
+  and melody with microtonal modal inflections), and a high melodic
+  soprano line. The voices converge at cadences on open-fifth dyads
+  rather than Western perfect-cadence thirds — Georgian modal tuning
+  lives outside Western tempered-scale, Carnatic raga, Arab maqam,
+  and Celtic lilt simultaneously. UNESCO-listed tradition (not naming
+  the registry entry per blocklist discipline).
+
+  CONCEPT SOURCE: Georgian three-voice polyphony with bani drone +
+  ornamental middle + soprano melody over cinematic orchestral ballad
+  at 65 BPM, E minor Dorian sacred mode, E→F minor climax lift.
+
+  COMPOSER OMISSION CONFESSION: This concept echoes a Georgian
+  polyphonic tradition whose most celebrated 20th-century collector
+  and arranger's name is withheld per artist-name blocklist discipline.
+  The tradition itself is the instrument, not any individual's
+  compositional voice.
+
+  DURATION STRATEGY: BPM 65 = slow-BPM territory per the playbook
+  (≤115 caps at ~3:30 regardless of bar count). Target: 3:00-3:30.
+  Not fighting the ceiling — optimizing emotional density instead of
+  length. Playbook moves applied:
+  - Parametrized colon-lyrics with bar counts + timestamps per section
+  - Three production tokens: "polished studio mix", "wide stereo stage",
+    "deep low-end definition"
+  - Three body voices (panduri + cor anglais + bowed string bani drone
+    — all three satisfy ≥2 body voice rule with none spectral)
+  - Sentence case throughout style, no ALL-CAPS form labels
+  - Atmospheric-first opening (Alazani valley dawn mist before
+    production tokens)
+  - Build/Silence/Drop stack at ~75% (2:00-2:40): 16-bar build,
+    4-bar silence (full ensemble stops, stone room reverb only),
+    12-bar drop with E→F minor lift + unison fortissimo
+  - Arc timestamps in every label bracket as dual-anchor duration signal
+
+  INSTRUMENTS:
+  - Panduri (catalog debut, gap ∞, 303 cycles): Georgian 3-string
+    plucked lute, dry bright pluck tone, E Dorian open-string tuning,
+    opens alone for 8 bars, closes the plateau coda alone. First
+    appearance in 302-version catalog.
+  - Cor anglais (last v249, 54-cycle gap): F-pitched alto oboe with
+    dark reedy warmth and natural bent-pitch capability — ideal for
+    microtonal ornamental middle voice. Returns after 54-cycle absence
+    as the modal color thread between bani and soprano.
+  - Bowed string section bani drone (catalog debut as named role):
+    cello + double bass sustaining an open-fifth low pedal with no
+    vibrato, no Western leading-tone pull — the unmoving earth beneath
+    the three-voice structure. Distinct from prior "string section"
+    appearances by its drone-only role (no melodic content).
+
+  VOICE DIFFERENTIATION — 44TH orthogonal voice. Georgian three-voice
+  polyphony: soprano high melody + cor anglais ornamental middle +
+  bani low drone. The open-fifth convergence and Dorian modal inflection
+  place this outside all 43 prior voices: distinct from v298 Latin soprano
+  (bel canto conservatoire) via Georgian modal tuning / open-fifth dyad /
+  no Western vibrato-cadence; distinct from v300 duet via three-voice
+  drone architecture vs two-voice call-response; distinct from v292 Viking
+  duet via Georgian modal vs Norse folk-anthem; distinct from v302 Tamil
+  nadaswaram via plucked-lute + reed + drone texture vs double-reed +
+  plucked + trap kit.
+
+  LANGUAGE: Georgian (Mkhedruli script) — 33rd distinct language.
+  Vocabulary: "მშენ" (mshen / you build / you raise up), "ცა" (tsa /
+  sky), "ღამე" (ghame / night), "სიყვარული" (siqvaruli / love),
+  "მზე" (mze / sun), "სული" (suli / soul), "მთა" (mta / mountain),
+  "კახეთი" (Kakheti — the eastern Georgian wine-country region),
+  "ალაზანი" (Alazani — the river running through Kakheti valley),
+  "სინათლე" (sinatle / light), "განთიადი" (gantsiadi / dawn),
+  "ამაღლებ" (amaghleb / you raise / you elevate). Concept: dawn in
+  a Kakhetian stone chapel, soul ascending the mountain, "you build
+  the light, you raise the dawn" — sacred address to a divine or
+  beloved presence.
+
+  BLOCK RATIONALE: exclude_styles blocks Russian liturgical polyphony,
+  Bulgarian voices, Mongolian throat-singing, Tuvan khoomei, Gregorian
+  sacred, Byzantine liturgy (all distinct traditions Suno might conflate
+  with Georgian polyphony); Celtic folk Enya kitsch, Eurovision Scandi
+  kitsch (adjacent cinematic-ambient drift); bel canto operatic aria,
+  classical crossover soprano belt, generic film score (v298-v300
+  lane neighbors — Georgian polyphony is DISTINCT via three-voice
+  drone-and-melody architecture, NOT a classical-crossover bel canto
+  production); Georgian folk Rustavi-style (avoiding specific ensemble
+  name that could trigger artist-match); chorus / choral (prevent
+  drift to SATB chorus texture); all 43 prior voice characters blocked
+  via accumulated exclude_styles list.
+
+  NOVELTY: BPM 65 — one prior at v190 (113 cycles ago, extremely fresh).
+  Key E minor — last at v290 (12 cycles ago). Scene: Kakhetian stone
+  chapel dawn, Alazani valley mist — zero prior appearances. Panduri
+  debut. Bani drone debut as named role. 33rd distinct language.
+  44th orthogonal voice. Georgian polyphony never attempted in 302 cycles.
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md (17-cycle
+  data, 69% correction rate), submitter MUST verify Suno UI vocal_gender
+  matches YAML (female) before Create. The bani/middle voices are
+  secondary support prompted via lyrics — UI single-select gets Female
+  for the soprano lead.
+
+  Style: 942 chars. All fields validated via yaml_field_check.py inspect.
+  Blocklist clean. Three body voices (panduri + cor anglais + bowed string
+  bani drone). Build/Silence/Drop stack present at 2:00-2:40.
