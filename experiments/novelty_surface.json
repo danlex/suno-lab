@@ -1,6 +1,6 @@
 {
-  "total_prompts": 293,
-  "latest_version": 293,
+  "total_prompts": 294,
+  "latest_version": 294,
   "instruments": {
     "piano": [
       1,
@@ -65,7 +65,8 @@
       284,
       285,
       286,
-      293
+      293,
+      294
     ],
     "organ": [
       1,
@@ -119,7 +120,8 @@
       283,
       289,
       290,
-      292
+      292,
+      294
     ],
     "pipe organ": [
       1,
@@ -1024,13 +1026,13 @@
       280,
       292
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "passacaglia": [
       111,
       202
-    ],
-    "romantic": [
-      145,
-      149
     ],
     "2-step garage": [
       100
@@ -1322,6 +1324,12 @@
       263,
       285
     ],
+    "f major": [
+      28,
+      40,
+      69,
+      294
+    ],
     "f# minor": [
       77,
       141,
@@ -1362,11 +1370,6 @@
       37,
       51,
       67
-    ],
-    "f major": [
-      28,
-      40,
-      69
     ],
     "f-sharp major": [
       24,
@@ -1525,7 +1528,8 @@
       67,
       92,
       117,
-      149
+      149,
+      294
     ],
     "77": [
       193
@@ -1879,6 +1883,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 294,
+      "title": "Risen",
+      "name": "risen",
+      "featured": [],
+      "genre": null,
+      "key": "f major",
+      "bpm": 76
+    },
     {
       "version": 293,
       "title": "Vök",
@@ -3489,7 +3502,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3525,7 +3538,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

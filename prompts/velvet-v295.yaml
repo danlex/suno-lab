@@ -1,0 +1,158 @@
+name: "velvet"
+version: 295
+title: "Velvet"
+instrumental: false
+vocal_gender: female
+
+style: "Modern neo-soul, sparse 'negative-space' arrangement, 92 BPM, F# minor, late-summer rooftop after midnight. Female SOLO lead — mid-low chesty neo-soul with swung 16th-note phrasing behind-the-beat, occasional melismatic R&B runs USED SPARINGLY, breathy texture, cracked-vocal authenticity, SUBTLE backing pads (NOT full choir, sparse whispered ah-ah harmony only), NOT v294 gospel-choir-explosion — neo-soul SOLO-with-light-backing-pads signature. Production: behind-the-beat drum kit with brushes-on-snare swing, unquantized walking bass, Rhodes electric piano pad, muted guitar lick, light tambourine, breathy backing-vocal pad layer (NOT stacked choir), warm analog stereo. ARC: 0:00-0:30 Rhodes alone, 0:30 verse 1 quiet, 1:00 groove enters, 1:30 verse 2, 2:00 bridge with subtle harmony pad, 2:30 climax with harmonic ascent half-step + backing pad swelling, sustain to 3:30. NOT gospel choir, NOT trap, NOT mainstream pop."
+
+lyrics: |
+  [Intro] (Rhodes alone, 0:00-0:30)
+  ah, mmm
+
+  [Verse 1 — Solo lead, breathy, 0:30-1:00]
+  velvet on my skin, July humid air
+  you left at three, I stopped pretending to care
+  my mother's records spinning slow downstairs
+
+  [Verse 2 — Lead, fuller groove, 1:00-1:30]
+  the city is sweating, somebody's laughing
+  I light a cigarette, count my heartbeat
+  thirty-one days and I still hear your voice
+
+  [Pre-Hook — subtle pad enters, 1:30-2:00]
+  (lead) velvet on my skin
+  (backing whispered) ah-ah
+  (lead) the night is endless
+
+  [Hook — Lead with sparse pad, 2:00-2:30]
+  velvet, velvet, July night velvet
+  velvet, velvet, no more pretending
+  velvet, velvet, the night is honey
+
+  [Climax — half-step ascent + backing swell, 2:30-3:00]
+  velvet, velvet, I am the river
+  velvet, velvet, I am the slow burn
+  velvet, velvet, I am alive
+
+  [Sustained Plateau, 3:00-3:30]
+  velvet... velvet... velvet...
+  ah... mmm... I am alive
+
+  [Outro] (Rhodes fade)
+  velvet...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, classical Western, orchestral arena, opera, broadway, jazz traditional, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Old Norse battle-roar choir, female Icelandic Nordic noir, male-female Viking duet, male Hopelandic post-rock, female gospel praise-break choir-explosion v294, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, contemporary Christian praise-band pop, mainstream Christian radio, trance EDM, gospel kitsch, modern worship pop, trap-soul Drake-style, mainstream R&B radio polish"
+
+tags:
+  - modern-neo-soul
+  - sparse-arrangement-negative-space
+  - controlled-variable-test-vs-v294
+  - 92bpm
+  - f-sharp-minor
+  - female-vocal-solo-light-backing
+  - rhodes-electric-piano
+  - english-lyrics
+  - viral-arm
+  - late-summer-rooftop-after-midnight
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v295 — Modern neo-soul, sparse "negative-space"
+  arrangement. SIXTH cycle in user-directive theme "brain dopamine"
+  application. **EXPLICIT CONTROLLED-VARIABLE TEST queued by v294's
+  memory finding** (`feedback_silence_gate_truncates.md` v294 caveat).
+
+  HYPOTHESIS TEST: v294 (gospel praise-break, 76 BPM, full choir stack)
+  rendered short (2:07 + 1:56) despite combining the v292 + v293 proven
+  duration-extending architectures. The memory finding identified TWO
+  variables that might be the cause: (a) slow BPM in choir territory,
+  or (b) foreground choir-stack density. v295 controls for both by
+  raising BPM to 92 AND reducing backing vocals from foreground choir
+  to sparse "negative-space" pads (whispered ah-ah only on hook).
+
+  EXPECTED RESULTS:
+  - If v295 renders to 2:30-3:30 target band: choir-density was the
+    v294 culprit, not BPM (memory rule promoted: choir-heavy
+    arrangements default-short regardless of architecture)
+  - If v295 renders short like v294: BPM/genre-classifier is the
+    actual issue (gospel/soul territory in Suno has shorter default
+    render, regardless of arrangement density)
+  Either result is useful — this is the kind of A/B test the
+  continuous-improvement loop is designed for.
+
+  Research-driven (Medium "Rise Fall Return of Neo-Soul," MasterClass
+  Neo-Soul Guide, The Blues Project 2026 neo-soul artists): modern
+  neo-soul is characterized by swung 16th-note phrasing behind-the-beat,
+  unquantized basslines, "negative space" in arrangement, "cracked vocal
+  authenticity" embracing imperfection. SZA's "Good Days" is canonical
+  current example. Hiatus Kaiyote (Nai Palm vocal) is the experimental
+  branch. The Internet / Solange / Lianne La Havas the album-tradition
+  branch.
+
+  USER ROADMAP: 33 viral cycles + 5 brain-dopamine cycles (v290-v294)
+  + v295 controlled test = 39 cycles so far.
+
+  VOICE DIFFERENTIATION — 36TH orthogonal voice in 36 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v294: 35 prior voices spanning 28 "languages"
+    v295 — female NEO-SOUL SOLO LEAD WITH SPARSE BACKING PADS ENGLISH
+           (mid-low chesty neo-soul with SZA-Solange-Hiatus-Kaiyote
+           lineage swung 16th-note phrasing behind-the-beat + occasional
+           sparingly-used melismatic R&B runs + conversational sermonic-
+           intimate phrasing + breathy cracked-vocal authenticity +
+           SUBTLE backing pads NOT stacked choir — fundamentally lighter
+           than v294's gospel-choir-explosion)
+  v294 vs v295 differentiation: BOTH female, both English, both Black-
+  music-tradition. But v294 is gospel-praise-break with full 4-voice
+  foreground choir stack + Hammond + sanctuary reverb + harmonic
+  ascent; v295 is neo-soul with SOLO lead + sparse "negative-space"
+  arrangement + Rhodes + warm analog stereo + lighter backing pads.
+  Different sub-genre, completely different production tradition,
+  different vocal density. Style + exclude_styles block all 35 prior
+  voices including v294 explicitly.
+
+  **DOPAMINE ARCHITECTURE** — applies v292+v293 lessons but with
+  controlled variables vs v294:
+  - 0:00-0:30 Rhodes electric piano alone (anticipation, sparse)
+  - 0:30-1:00 verse 1 quiet (lead solo)
+  - 1:00-1:30 light groove enters (drums + bass)
+  - 1:30-2:00 verse 2 + bridge with SUBTLE harmony pad
+  - 2:00-2:30 hook with sparse harmony pad
+  - 2:30-3:00 climax with lead + harmonic ascent half-step + backing
+    pad swelling (NOT full choir explosion)
+  - 3:00-3:30 sustained plateau-climax
+  Identical structural architecture to v294, but with sparse
+  arrangement variables instead of dense.
+
+  Production palette pinned: "behind-the-beat drum kit + jazz brushes-
+  on-snare swing + unquantized walking bass (Pino Palladino tradition)
+  + Rhodes electric piano + occasional muted guitar lick + light
+  tambourine + breathy backing-vocal pad layer (NOT stacked choir) +
+  warm analog stereo." Negatives explicitly block gospel choir, trap-
+  soul Drake-style, mainstream R&B radio polish, modern worship pop —
+  four adjacent failure modes including v294 explicit exclusion.
+
+  BPM 92 — faster than v294's 76 (controls for BPM variable). Fresh
+  in rotation (not used in last 5 cycles).
+
+  Key F# minor — first reuse since v267 P-Pop (28 cycles ago).
+  Canonical for melancholic-introspective neo-soul.
+
+  Title "Velvet" — 6 chars, MEME-able, evocative neo-soul texture
+  (velvet = soft, smooth, warm = neo-soul aesthetic). Distinct from
+  prior viral titles.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No SZA,
+  Solange, Lianne La Havas, Hiatus Kaiyote, Nai Palm, The Internet,
+  D'Angelo, Erykah Badu, Lauryn Hill, Daniel Caesar, Jorja Smith
+  artist names in style field — preemptive removal per v274-v294
+  artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`female`) before Create.
