@@ -1,5 +1,20 @@
 # Cron failure log
 
+### 2026-06-02 — v304 RETRY-5 — bridge connectedAt advanced again, song-page tab stuck loading
+
+- **connectedAt advanced**: 1780403730367 → 1780405790503 (fresh reconnect confirmed for RETRY-5).
+- **MCP tab group**: 2 tabs — tabId 786913118 (suno.com/song/9739bef9... "Vök" — a song page, NOT /create) and tabId 786913340 (localhost:8902/interview). No suno.com/create tab in group.
+- **Pre-flight sequence**:
+  1. cmd+l + typed https://suno.com/create + Enter → page went into loading state, all tool calls timed out at 45s.
+  2. Escape key → still timed out.
+  3. F5 reload → waited 10s → ONE successful screenshot (Vök song page visible). Brief window.
+  4. Clicked inside the page (tried to find sidebar Create link) → page re-entered loading state, all subsequent calls timed out permanently.
+- **Root cause**: Same Service Worker / React SPA deferred-navigation loop as RETRY-3/RETRY-4. Tab is a suno.com/song page; after brief restore via F5, any in-page interaction triggers a new navigation event that the content script cannot settle. Extension waits for document_idle indefinitely.
+- **State**: prompts/ukufa-v304.yaml unchanged on disk (untracked), no form fields touched, no clips generated. Sixth consecutive failed submit attempt.
+- **Action taken**: Logged per pre-flight protocol ("probe timed out → log and exit, do NOT loop"). Clean exit.
+- **Critical user-side fix (still outstanding)**: (1) Chrome DevTools → Application → Service Workers → Unregister on any suno.com tab. OR (2) chrome://settings/content/all → suno.com → Delete (clears site data + SW cache). OR (3) Full Chrome restart. After fix, open a fresh suno.com/create tab IN THE SAME WINDOW as the MCP extension, confirm extension badge is active, then re-trigger submission. The Vök song tab (786913118) must be closed or replaced — it is the persistent stuck-tab across all five retries.
+
+
 ### 2026-06-02 — v304 RETRY-4 — bridge connectedAt advanced but probe still failing
 
 - **connectedAt advanced**: 1780395121178 → 1780403730367 (fresh reconnect confirmed).
