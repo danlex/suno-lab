@@ -1,6 +1,16 @@
 # Cron failure log
 
-### 2026-06-02 — cron fire, no-op (cycle 8) — connectedAt still on retry-5 timestamp
+### 2026-06-02 — v304 RETRY-6 — fresh /create tab is in wrong Chrome window
+
+- **connectedAt advanced**: 1780405790503 → 1780409642261 (fresh reconnect confirmed)
+- **MCP tab group**: 2 tabs — tabId 786913460 (suno.com/song/9739bef9 "Vök", extension cannot access song pages) + tabId 786913340 (localhost:8902 stuck loading). No suno.com/create tab in MCP group.
+- **What user did**: Reconnected the extension (connectedAt advanced) and presumably opened a fresh suno.com/create tab — BUT that tab landed in a different Chrome window (one the MCP extension does not control). `open -a Chrome https://suno.com/create` from the submitter also opened a new tab outside the MCP group.
+- **Submitter limitation**: The submitter agent does not have `tabs_create_mcp` in its toolset (Bash, Read, tabs_context_mcp, find, read_page, computer, form_input only). Without it, the submitter cannot create a /create tab inside the MCP group; it can only operate on tabs already in the group.
+- **State**: `prompts/ukufa-v304.yaml` untracked, judged 97/100. Sixth consecutive failed submit attempt.
+- **Action taken**: Submitter exited per pre-flight protocol. Logged here, committing.
+- **Critical user-side fix**: The fresh `suno.com/create` tab must be opened **in the same Chrome window where the Claude Code extension is pinned and currently bridging** — usually the same window as the existing MCP group tabs. Close the Vök song tab (tabId 786913460) and the localhost tab (tabId 786913340) from that window first. Then open suno.com/create in that exact same window (not a new window). Confirm the extension badge is active on the new tab before re-triggering.
+
+
 
 Reason: `list_connected_browsers` returns Browser 1 with `connectedAt: 1780405790503` — identical to last cycle's retry-5 failure. No fresh reconnect since user has not closed the stuck `suno.com/song/9739bef9` (Vök) tab in the MCP group. v304 has now been blocked across 8 consecutive cron hours.
 State: `prompts/ukufa-v304.yaml` still untracked, judged 97/100.
