@@ -1,6 +1,6 @@
 {
-  "total_prompts": 314,
-  "latest_version": 314,
+  "total_prompts": 315,
+  "latest_version": 315,
   "instruments": {
     "piano": [
       1,
@@ -263,8 +263,7 @@
       146,
       147,
       304,
-      310,
-      314
+      310
     ],
     "french horn": [
       52,
@@ -327,6 +326,18 @@
       255,
       311
     ],
+    "cor anglais": [
+      104,
+      122,
+      134,
+      183,
+      207,
+      225,
+      238,
+      249,
+      303,
+      315
+    ],
     "bowed vibraphone": [
       85,
       99,
@@ -370,17 +381,6 @@
       233,
       245,
       257
-    ],
-    "cor anglais": [
-      104,
-      122,
-      134,
-      183,
-      207,
-      225,
-      238,
-      249,
-      303
     ],
     "cristal baschet": [
       86,
@@ -529,6 +529,16 @@
       240,
       254
     ],
+    "hurdy gurdy": [
+      113,
+      125,
+      139,
+      190,
+      210,
+      225,
+      247,
+      315
+    ],
     "mellotron": [
       116,
       126,
@@ -623,15 +633,6 @@
       214,
       290,
       292
-    ],
-    "hurdy gurdy": [
-      113,
-      125,
-      139,
-      190,
-      210,
-      225,
-      247
     ],
     "nyckelharpa": [
       111,
@@ -749,12 +750,6 @@
       236,
       251
     ],
-    "double bass": [
-      178,
-      240,
-      308,
-      314
-    ],
     "erhu": [
       102,
       117,
@@ -799,6 +794,11 @@
       83,
       130,
       198
+    ],
+    "double bass": [
+      178,
+      240,
+      308
     ],
     "kora": [
       31,
@@ -1051,13 +1051,10 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
-      257,
-      314
+      257
     ],
     "trap": [
       264,
@@ -1081,13 +1078,20 @@
       280,
       292
     ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314
+    ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
     "baroque": [
       188,
       191
-    ],
-    "concerto": [
-      145,
-      149
     ],
     "drone": [
       304,
@@ -1096,6 +1100,10 @@
     "passacaglia": [
       111,
       202
+    ],
+    "post-classical": [
+      112,
+      315
     ],
     "2-step garage": [
       100
@@ -1115,17 +1123,8 @@
     "minimalist": [
       201
     ],
-    "post-classical": [
-      112
-    ],
     "progressive house": [
       96
-    ],
-    "romantic": [
-      313
-    ],
-    "symphonic": [
-      311
     ],
     "synthwave": [
       1
@@ -1267,7 +1266,8 @@
       265,
       282,
       298,
-      307
+      307,
+      315
     ],
     "b minor": [
       76,
@@ -1673,7 +1673,8 @@
       63,
       148,
       205,
-      271
+      271,
+      315
     ],
     "89": [
       198
@@ -1993,11 +1994,23 @@
   },
   "titles": [
     {
+      "version": 315,
+      "title": "Vael",
+      "name": "vael-v315",
+      "featured": [
+        "cor anglais",
+        "hurdy gurdy"
+      ],
+      "genre": "post-classical",
+      "key": "g minor",
+      "bpm": 88
+    },
+    {
       "version": 314,
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -3546,7 +3559,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3697,7 +3710,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3818,7 +3831,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -3854,7 +3867,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

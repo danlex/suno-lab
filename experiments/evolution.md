@@ -359,6 +359,7 @@ mindmap
 | 312 | Ljus | Halo-voice symphonic metal operatic ballad CLASSIFIER REPLICATION TEST (Nordic fjord dawn, crystalline clean soprano over orchestral bed — NO rhythm section — classifier-first hypothesis HARDENED) | C# minor | 92 | bass clarinet (63-back revival) + French horn (56-back revival) + vibraphone (77-back revival) |
 | 313 | Threnos | Wagnerian Romantic opera-film scoring CLASSIFIER-FIRST EXTENSION TEST (cathedral funeral nave, bass-baritone solo mid-track entry — classifier engaged, durations mid-tier) | A minor | 76 | Wagner-tuba (catalog debut) + serpent (catalog debut) + ophicleide (61-back deep revival) |
 | 314 | Hagl | Atmospheric post-black metal × symphonic orchestra cinematic CLASSIFIER-FIRST EXTENSION (mountain ridge storm, clean male tenor sparse mid-track entry, mitigation strategy SUCCESS) | B minor | 100 | tremolo electric guitar (catalog debut) + low string section + male choir Aa vocalise |
+| 315 | Vael | Glossolalic contralto vocalise × cinematic atmospheric post-classical (coastal cave at low tide, invented phonetic language, classifier engaged but mid-tier duration) | G minor | 88 | cor anglais + frame drum + hurdy gurdy (68-back deep revival) |
 
 ## Next-cycle priorities
 

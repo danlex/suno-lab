@@ -1,0 +1,167 @@
+name: "vael-v315"
+version: 315
+title: "Vael"
+instrumental: false
+vocal_gender: female
+
+style: "Cinematic atmospheric post-classical contralto vocalise, a voice carrying invented phonetic syllables over deep cello pedal drone — coastal cave at low tide, basalt walls channeling sea breath, candlelight on wet stone. Underscore for a placeless ritual scene, long-form. Polished studio mix, wide stereo stage, warm tape saturation. G minor lifting to Ab minor at 2:20 half-step modulation, 88 BPM. A dramatic contralto opens at 0:00 alone, syllables placeless and ancient — no real language, no bel canto runs — a slow frame drum pulse enters at 0:45 drawing rhythm forward and hurdy-gurdy wheel-drone settles beneath like stone. At 1:30 the density trough: cor anglais mirrors the contralto's last phrase, completing the open melodic line. The half-step lift at 2:20 returns the full texture transformed. Deep low-end definition, Hollywood scoring stage. No guitars, no real-language lyrics, no choral ensemble, no synthesizers, no pipe organ."
+
+lyrics: |
+  [Contralto alone over cello pedal — invented syllables, 14 bars]
+  Vael moneth aerya
+  Soluen nara vael
+  Iloha noem saval
+  Treya soluen mavih
+
+  [Frame drum pulse enters — syllables grow more urgent, 16 bars]
+  Vael aerya moneth
+  Nara sava iloha
+  Mavih soluen treya
+  Noem velae nara
+
+  [Hurdy-gurdy wheel-drone joins beneath — full pulse, 16 bars]
+  Iloha vael moreneh
+  Sava treya noem
+  Velae mavih soluen
+  Aerya nara vael
+
+  [Cor anglais mirrors voice — strip to near-trough, 14 bars]
+  Soluen noem velae
+  Treya moreneh sava
+
+  [Half-step lift G to Ab minor — full ensemble returns, 20 bars]
+  Vael aerya moneth
+  Iloha nara sava
+  Mavih velae treya
+  Noem soluen vael
+
+  [French horn sustains — contralto finds the answer, 16 bars]
+  Velae moreneh aerya
+  Nara iloha vael
+  Treya sava noem
+  Soluen mavih velae
+
+  [Final phrase — full texture decays to cello drone, 14 bars]
+  Vael moneth aerya
+  Soluen nara vael
+
+  [End]
+
+exclude_styles: "bel canto, Italian opera, operatic soprano belt, operatic tenor, bass-baritone aria, Romantic opera, symphonic metal soprano, symphonic metal, power metal, folk metal, Celtic, Celtic new age, Enya-style, new age ambient, world music, Arabic, Middle Eastern, tribal, African choral, Zulu choral, Gregorian chant, Latin choral, throat singing, Tuvan overtone, overtone singing, real language vocal, sung lyric, lyrics, rap, hip-hop, trap, phonk, drill, R&B, lo-fi, electronic, EDM, synthesizer, post-black metal, black metal, death metal, extreme metal, growling vocals, screaming vocals, rock, hard rock, acoustic guitar, electric guitar, cinematic ambient, intimate chamber, elegiac neoclassical, zen meditation, experimental noise, free jazz, atonal, microtonal, pipe organ, gospel, spiritual, choir only, choral only, Indian classical, Bollywood, Hindustani, sitar, tabla, raga, klezmer, gypsy, country, bluegrass, jazz, drum kit, rock drums"
+
+notes: |
+  Vael is an invented placeless word — no real-language anchor, vaguely
+  suggestive of Celtic/Nordic/Slavic sound without belonging to any of those
+  traditions. The title itself enacts the song's central technique: invented
+  phonetic language that carries feeling without lexical meaning.
+
+  The technique explored here is glossolalic-adjacent vocalise architecture:
+  a dramatic contralto delivering self-invented phonetic syllables — not
+  wordless Aa/Oo vowels, not any real language — as the PRIMARY melodic
+  instrument. The tradition this echoes most directly (unnamed per catalog
+  discipline) is the late-1980s and 1990s lineage of singers who invented
+  their own phonetic "languages" for recording, producing music that felt
+  ancient, placeless, and spiritually resonant without belonging to any
+  specific culture. The most prominent of those practitioners is not named
+  here. The approach is distinct from standard vocalise (which uses real
+  vowels and solfège syllables) and from world-music real-language chant.
+
+  Concept source (researcher): "Glossolalic contralto vocalise × cinematic
+  atmospheric post-classical. Voice as primary melodic instrument carrying
+  invented syllables — no real lexicon, no real-language anchor. UNTESTED
+  long-form classifier territory: invented-phonetic-language vocalise lineage.
+  55th orthogonal voice. Predicted 3:20-3:50 band if classifier engages as
+  cinematic post-classical extended-form."
+
+  Duration strategy: BPM 88 sits in the slow band (playbook rule 8 BPM ceiling
+  ~3:30 for ≤115 BPM). Total lyric bar count is 110 bars across 8 sections —
+  targeting the slow-BPM ceiling of 3:00–3:30. The classifier argument is the
+  primary duration driver: "cinematic atmospheric post-classical contralto
+  vocalise" anchors the opening sentence to prime the classifier before any
+  instrument description. No [Silence] metatag per hardened rule
+  (feedback_silence_gate_truncates.md) — density trough achieved by label
+  instruction ("strip to near-trough") without explicit silence markup. The
+  half-step lift G minor → Ab minor at 2:20 uses modulation as frisson driver
+  instead of silence-gate. Production tokens applied: polished studio mix,
+  wide stereo stage, warm tape saturation, deep low-end definition, Hollywood
+  scoring stage (5 tokens, playbook rule 2 compliant). Sentence case throughout;
+  atmospheric-first opening; colon-syntax lyrics with bar counts for per-section
+  length scaffolding.
+
+  Trio instruments:
+  - cor anglais (mid-range double-reed oboe family — last v303, gap 12): enters
+    at the density trough to mirror the contralto's final phrase before the
+    half-step lift; the warm, slightly nasal timbre of the cor anglais is
+    specifically suited to completing a melodic phrase the voice has left open —
+    it functions as the contralto's shadow instrument throughout.
+  - frame drum (Persian-Mediterranean shallow tunable membrane drum — last v290,
+    gap 25): enters at 0:45 to establish slow ritual pulse beneath the invented
+    syllables; the frame drum avoids the Western kit aesthetic and keeps the
+    rhythmic world placeless and ancient-feeling, consistent with the invented-
+    language architecture.
+  - hurdy-gurdy (mechanical bowed-wheel drone instrument — last v247, gap 68,
+    DEEP REVIVAL): provides continuous pedal-wheel drone beneath the frame drum
+    pulse; the hurdy-gurdy's characteristic drone-with-melody capability echoes
+    the contralto's sustained-tone approach; at gap 68 this is one of the
+    deepest single-instrument revivals in the catalog's current run.
+
+  Voice architecture: dramatic contralto (or deep mezzo-soprano) as primary
+  melodic instrument throughout. The invented phonetic syllables — Vael,
+  moneth, aerya, soluen, nara, iloha, noem, saval, treya, mavih, velae,
+  moreneh — are constructed using open vowels (a/e/o) and soft consonants
+  (l/n/m/r/v/s/h) with no real-word intersections in English, Latin, Greek,
+  Italian, or any other language verified against common vocabulary. They
+  sound coherent as a "language" but carry no lexical meaning. This is
+  architecturally distinct from all 54 prior catalog voices: no prior cycle
+  used invented-phonetic-language architecture; every prior vocal cycle used
+  either real language, Aa/Oo vocalise vowels, or was instrumental.
+
+  The density layer (deep cello pedal drone + distant French horn in the final
+  third) is named only in the style field as scene descriptors, not as standalone
+  trio instruments — the trio remains cor anglais, frame drum, hurdy-gurdy.
+
+  Novelty claims: technique-novelty (invented-phonetic-language contralto
+  vocalise — classifier boundary test, first in 314 prior versions);
+  voice-novelty (dramatic contralto as primary melodic instrument, no prior
+  catalog voice used this architecture — catalog has soprano many times,
+  mezzo at v298, tenor at v299/v314, bass-baritone v313, but no true contralto
+  protagonist); instrument-revival (hurdy-gurdy gap 68 — deep revival from v247,
+  one of the longest single-instrument gaps in the current run); scene-novelty
+  (coastal cave at low tide, basalt walls, candlelight on wet stone — no prior
+  catalog entry uses this specific atmospheric geography); BPM-fresh (88 BPM
+  last v271, gap 44); key-fresh (G minor last v298, gap 17); modulation
+  (G minor → Ab minor half-step lift at 2:20).
+
+  Classifier risk: "invented phonetic language" has no reliable classifier
+  precedent in Suno v5.5 training data. The mitigation is the cinematic-
+  atmospheric-post-classical anchor in the first sentence — attempting to
+  prime the long-form classifier before the voice description introduces the
+  unfamiliar phonetic territory. If the classifier misreads as world-music
+  (blocked in exclude_styles) or as experimental-noise, the lesson advances
+  the classifier map. Predicted band: 3:20–3:50 if cinematic post-classical
+  reads; 2:30–3:10 if classifier is uncertain.
+
+  Final style char count: 945.
+
+tags:
+  - cor-anglais
+  - frame-drum
+  - hurdy-gurdy
+  - 88bpm
+  - g-minor
+  - ab-minor
+  - coastal-cave-low-tide-scene
+  - invented-phonetic-language
+  - dramatic-contralto-vocalise
+  - new-technique
+  - classifier-boundary-test
+  - revival-hurdy-gurdy-68-gap
+  - revival-frame-drum-25-gap
+  - revival-cor-anglais-12-gap
+  - half-step-lift-2-20
+  - voice-as-melodic-instrument
+  - duration-3min
+  - research-driven
+  - vocal
+  - cinematic-post-classical
+  - density-trough-no-silence-gate
