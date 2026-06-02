@@ -1,5 +1,12 @@
 # Cron failure log
 
+### 2026-06-02 — cron fire, no-op (cycle 8) — connectedAt still on retry-5 timestamp
+
+Reason: `list_connected_browsers` returns Browser 1 with `connectedAt: 1780405790503` — identical to last cycle's retry-5 failure. No fresh reconnect since user has not closed the stuck `suno.com/song/9739bef9` (Vök) tab in the MCP group. v304 has now been blocked across 8 consecutive cron hours.
+State: `prompts/ukufa-v304.yaml` still untracked, judged 97/100.
+Action taken: Short-circuited — no submitter agent spawned (would repeat the same Vök-tab hang for the 6th time). Logged this no-op and committed.
+Next cycle: Same short-circuit until `connectedAt` advances. The advance signal alone is insufficient (retry-4 and retry-5 both had fresh `connectedAt` but the stuck Vök tab persisted in the MCP group, so the submitter still hung). The user-side fix is: close tabId 786913118 (Vök song page) → open fresh suno.com/create tab IN THE SAME Chrome window where the Claude Code extension is pinned → confirm extension badge active on that tab.
+
 ### 2026-06-02 — v304 RETRY-5 — bridge connectedAt advanced again, song-page tab stuck loading
 
 - **connectedAt advanced**: 1780403730367 → 1780405790503 (fresh reconnect confirmed for RETRY-5).
