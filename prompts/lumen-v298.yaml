@@ -1,0 +1,171 @@
+name: "lumen"
+version: 298
+title: "Lumen"
+instrumental: false
+vocal_gender: female
+
+style: "Modern classical-crossover orchestral ballad, cinematic operatic soprano + cello + strings, 60 BPM (slowest viral-arm tempo), G minor, candlelit cathedral midnight. Female lyric SOPRANO classical-crossover — classically-trained pure-tone bright forward placement, vowel purity in operatic lines, subtle vibrato modulation, conservatoire phrasing, dynamic range from intimate piano whisper to soaring fortissimo belt at climax — operatic-pure-tone signature, FIRST true operatic-crossover voice. Production: solo grand piano arpeggios, solo cello melodic counterpoint entering 1:00, sustained string section pad, cathedral pipe organ pad, sparse timpani at climax, no drum kit. ARC: 0:00-0:30 piano alone, 0:30 soprano enters, 1:00 cello joins, 1:30 strings enter, 2:00 build, 2:30 climax with full orchestra + organ + half-step ascent + soaring belt, sustain to 3:30. Cinematic film-score classical-crossover. NOT pop, NOT power ballad, NOT Eurovision."
+
+lyrics: |
+  [Intro] (solo grand piano arpeggios, 0:00-0:30)
+  (no vocals)
+
+  [Verse 1 — soprano enters intimate piano, 0:30-1:00]
+  lumen in tenebris ardet
+  lumen in corde meo manet
+  per noctem long am, per silentium
+  lumen aeternum, lumen aeternum
+
+  [Verse 2 — cello joins, soprano fuller, 1:00-1:30]
+  per montem, per vallem, per mare
+  per silentium tuum cantare
+  lumen in tenebris, lumen in me
+  aeternum, aeternum
+
+  [Build — strings enter, soprano rising, 1:30-2:00]
+  lumen, lumen, ascende
+  lumen, lumen, illumine
+  per noctem aeternam, lumen perdurat
+  ascende, ascende
+
+  [Climax — full orchestra + organ + half-step ascent + soaring belt, 2:00-2:30]
+  LUMEN! LUMEN! aeternum lumen!
+  LUMEN! LUMEN! per omne saeculum!
+  LUMEN in tenebris, lumen vincit
+  aeternum, aeternum, aeternum
+
+  [Sustained Plateau Climax, 2:30-3:30]
+  (full ensemble holding) lumen... lumen...
+  aeternum lumen, aeternum
+  lumen, lumen, vincit lumen
+  aeternum
+
+  [Outro] (orchestral wash + piano fade)
+  lumen...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, broadway, jazz, soaring soprano belt arena, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Polish trap, female gospel praise-break choir, female neo-soul chesty, female bedroom-pop whisper, male Hopelandic post-rock, male-female Viking duet, female Icelandic Nordic noir, male Old Norse battle-roar, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, trance EDM, mainstream pop power ballad, Eurovision kitsch, generic film score, generic medieval RPG, Celtic Enya kitsch"
+
+tags:
+  - modern-classical-crossover
+  - cinematic-orchestral-ballad
+  - operatic-soprano-pure-tone
+  - 60bpm-slowest-viral-arm
+  - g-minor
+  - female-vocal-operatic-soprano
+  - cello-strings-piano-organ
+  - latin-lyrics
+  - viral-arm
+  - candlelit-cathedral-midnight
+  - duration-model-upper-band-test
+  - new-technique
+  - research-driven
+  - vocal-female
+
+notes: |
+  VIRAL ARM cycle v298 — Modern classical-crossover orchestral ballad
+  with operatic soprano + cello + strings. Strategic cycle applying the
+  duration model from `feedback_silence_gate_truncates.md` (v3, refined
+  through v297). Per the model: cinematic world-music/classical-crossover
+  ballad territory has high upper-band ceiling and consistent target-band
+  rendering. v298 is designed to test the upper-band prediction (3:00+).
+
+  Research-driven (Wikipedia Sarah Brightman, Wikipedia Stjepan Hauser,
+  MasterClass Classical Crossover Guide, TikTok Newsroom Lang Lang
+  classical resurgence): classical crossover is having a 2026 TikTok
+  resurgence — Anna Lapwood, Ludovico Einaudi, and the broader classical
+  community have built strongly engaged TikTok audiences. 2026 saw 200%
+  engagement increase YoY on TikTok classical-music content. Sarah
+  Brightman pioneered the genre with "bright, forward placement, vowel
+  purity in operatic lines, subtle vibrato modulation." 2Cellos
+  (Stjepan Hauser + Luka Sulic) brought "orchestral depth + rock-duo
+  directness" to viral classical-crossover. The genre is canonically
+  long-form (3:00-5:00+ tracks) — perfectly fits the catalog's
+  upper-band test.
+
+  USER ROADMAP: 38 viral cycles total. v298 returns to musical-craft
+  territory (away from short-form trap/rap) and applies the duration
+  model's prediction that cinematic-classical-crossover should hit
+  upper band.
+
+  VOICE DIFFERENTIATION — 39TH orthogonal voice in 39 cycles. **FIRST
+  TRUE OPERATIC-CROSSOVER VOICE** in the catalog. Cumulative ledger
+  (abbreviated):
+    v260-v297: 38 prior voices spanning 28 languages
+    v298 — female LYRIC SOPRANO CLASSICAL-CROSSOVER LATIN (classically-
+           trained pure-tone bright forward placement + vowel purity in
+           operatic lines + subtle vibrato modulation + Italian-Latin-
+           conservatoire phrasing + dynamic range from intimate piano
+           whisper to soaring fortissimo belt — fundamentally new
+           vocal philosophy: classical-trained operatic technique in
+           crossover context)
+  Closest comparison: v261 European arena belt slap house — both female
+  English-language belts. But v261 is pop-trained arena belt with
+  doubled-stack reverb; v298 is classical-trained pure-tone soprano with
+  vowel-purity-on-operatic-lines technique. Completely different vocal
+  philosophy. Style + exclude_styles block all 38 prior voice characters.
+
+  LANGUAGE — 29th distinct language (or rather, language-traditional-
+  classical-vocal-language). Latin (the universal classical-vocal
+  language — no risky pronunciation, accessible across cultures,
+  MEME-able). Lyric vocabulary uses ecclesiastical / classical Latin:
+  "lumen in tenebris ardet" (light burns in darkness), "lumen in corde
+  meo manet" (light remains in my heart), "per noctem longam, per
+  silentium" (through the long night, through the silence), "lumen
+  aeternum" (eternal light), "per montem, per vallem, per mare"
+  (through mountain, through valley, through sea), "per silentium tuum
+  cantare" (to sing through your silence), "ascende" (ascend),
+  "illumine" (illuminate), "vincit lumen" (light conquers), "per omne
+  saeculum" (through every age). Concept: classical-crossover meditation
+  on light persisting through darkness — universal ecclesiastical-
+  classical thematic core.
+
+  **DURATION MODEL APPLIED** (per refined `feedback_silence_gate_
+  truncates.md` v3):
+  - Genre territory = cinematic classical-crossover (high-ceiling band)
+  - Architecture: late-vocal-entry + plateau-climax (v293-style)
+  - 0:00-0:30 solo piano (instrumental opening, anticipation)
+  - 0:30 soprano enters intimate (late vocal entry)
+  - 1:00 cello joins (instrumental enrichment)
+  - 1:30 strings enter (build)
+  - 2:00 build crescendo
+  - 2:30 CLIMAX with full orchestra + organ + half-step harmonic ascent
+    + soaring fortissimo soprano belt (per v291/v293/v294 climax model)
+  - 2:30-3:30 sustained plateau climax (per v293 long-render success)
+  Expected: 2:30-3:30 target band reliably; possibly upper band (3:00+).
+
+  BPM 60 — SLOWEST VIRAL-ARM CYCLE EVER (slower than v293 post-rock at
+  70 and v275 Mandopop at 78). Classical-crossover canonical slow
+  ballad tempo. The slow tempo is load-bearing for the orchestral build
+  to develop.
+
+  Key G minor — first reuse since v286 Polish trap (11 cycles ago).
+  Walks well with classical-crossover minor-key melancholy + half-step
+  ascent to A♭ minor at climax (or G minor → G major for the
+  classical-crossover modulation pattern — Suno can choose).
+
+  Production palette pinned: "solo grand piano arpeggios (Yamaha CFX-
+  tradition concert grand) + solo cello melodic counterpoint + sustained
+  string section pad (warm chamber orchestra) + cathedral pipe organ
+  pad + sparse timpani at climax + NO drum kit." This is a deliberate
+  cinematic-orchestral arrangement, not pop. Negatives explicitly block
+  mainstream pop power ballad, Eurovision kitsch, generic film score,
+  generic medieval RPG, Celtic Enya kitsch — five adjacent failure
+  modes the Suno classifier could drift toward.
+
+  Title "Lumen" (Latin for "light") — 5 chars, MEME-able, universal
+  Latin classical-vocal concept word. Distinct from prior viral titles.
+  Conceptually parallel to v293 "Vök" (Icelandic for opening in ice) —
+  both atmospheric universal-concept titles for the high-ceiling
+  cinematic territory.
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No
+  Sarah Brightman, Hauser, 2Cellos, Stjepan Hauser, Luka Sulic, Hans
+  Zimmer, Andrea Bocelli, Charlotte Church, Il Divo, Anna Lapwood,
+  Ludovico Einaudi artist names in style field — preemptive removal
+  per v274-v297 artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`female`) before Create.

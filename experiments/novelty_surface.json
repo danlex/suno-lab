@@ -1,6 +1,6 @@
 {
-  "total_prompts": 296,
-  "latest_version": 296,
+  "total_prompts": 297,
+  "latest_version": 297,
   "instruments": {
     "piano": [
       1,
@@ -67,7 +67,8 @@
       286,
       293,
       294,
-      295
+      295,
+      297
     ],
     "organ": [
       1,
@@ -1012,9 +1013,11 @@
       274,
       278,
       286,
-      287
+      287,
+      297
     ],
     "chamber": [
+      191,
       192,
       203,
       252,
@@ -1025,10 +1028,6 @@
       261,
       280,
       292
-    ],
-    "baroque": [
-      188,
-      191
     ],
     "concerto": [
       145,
@@ -1046,6 +1045,9 @@
     ],
     "amapiano": [
       266
+    ],
+    "baroque": [
+      188
     ],
     "drill": [
       282
@@ -1324,6 +1326,12 @@
       239,
       277
     ],
+    "c# minor": [
+      68,
+      272,
+      284,
+      297
+    ],
     "d-sharp minor": [
       210,
       222,
@@ -1361,11 +1369,6 @@
       39,
       110,
       203
-    ],
-    "c# minor": [
-      68,
-      272,
-      284
     ],
     "e-flat major": [
       128,
@@ -1641,7 +1644,8 @@
       291
     ],
     "103": [
-      206
+      206,
+      297
     ],
     "104": [
       69,
@@ -1891,6 +1895,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 297,
+      "title": "Slza",
+      "name": "slza",
+      "featured": [],
+      "genre": "trap",
+      "key": "c# minor",
+      "bpm": 103
+    },
     {
       "version": 296,
       "title": "Pearl",
@@ -3091,7 +3104,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
