@@ -182,3 +182,20 @@ Next cycle should: Same short-circuit until `list_connected_browsers` returns at
 - **Action taken**: Logged second consecutive partial-disconnect per pre-flight protocol ("do NOT loop on it"). Clean exit.
 - **Root cause hypothesis**: suno.com/create tab may have a Service Worker or navigation state that blocks content-script injection even when the bridge device is "connected." Closing and reopening the suno.com/create tab (not just refreshing) may allow fresh content-script injection.
 - **User-side fix**: Close the suno.com/create tab entirely in Chrome, open a new one to https://suno.com/create, confirm the Claude Code extension icon is active in that new tab, then re-trigger submission.
+
+### 2026-06-02 — v304 retry-attempt 3 (RETRY-3, fresh-tab protocol) — hard-reload transient then stuck
+
+- **Protocol applied**: RETRY-3 brief instructed fresh-tab protocol (close stale tab, reuse via hard reload since tabs_close_mcp/tabs_create_mcp not available in tool set).
+- **Sequence**:
+  1. `tabs_context_mcp` → tab 786913118 (suno.com/create) present, same stale tab from prior cycles.
+  2. Screenshot probe → timed out 45s (stale tab confirmed stuck).
+  3. `cmd+shift+r` (hard reload) → waited 10s → screenshot succeeded once (form visible, Advanced tab selected, Lyrics empty, Styles placeholder, Create button visible). Pre-flight PASSED momentarily.
+  4. Attempted `read_page` (interactive) to get form refs → timed out 45s.
+  5. Waited 10s → `read_page` again → timed out 45s.
+  6. Screenshot → timed out 45s. Tab re-entered loading loop.
+  7. Escape key → waited 15s → screenshot → timed out 45s. Permanent.
+- **Root cause refined**: Hard reload clears the stuck state long enough for one screenshot, but any subsequent tool call (read_page, type, key) triggers a new navigation event in the React SPA that the content script cannot settle. The extension waits for `document_idle` but the SPA's Service Worker keeps deferring it indefinitely after any interaction.
+- **State**: `prompts/ukufa-v304.yaml` unchanged on disk (untracked), no form fields touched, no clips generated.
+- **Action taken**: Logged third consecutive partial-disconnect. Clean exit per protocol.
+- **Critical user-side fix needed**: The `cmd+shift+r` approach cannot work — it reloads into the same Service Worker context. The ONLY fix that will work is: (1) Open Chrome DevTools on the suno.com/create tab → Application → Service Workers → "Unregister" the SW, OR (2) Close the tab entirely, clear site data for suno.com (chrome://settings/content/all → suno.com → Delete), then open a fresh suno.com/create tab. After that, confirm the Claude Code extension icon is active (badge visible) in the new tab before re-triggering.
+- **Alternative**: If Chrome is restarted entirely between cron cycles, the Service Worker cache is cleared automatically and fresh injection should work.
