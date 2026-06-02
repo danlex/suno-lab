@@ -1,0 +1,98 @@
+name: "ljus-v312"
+version: 312
+title: "Ljus"
+instrumental: false
+vocal_gender: female
+
+style: "Film score for a Nordic pre-dawn fjord scene — first light on granite, crystalline soprano over a full orchestral bed. Symphonic metal operatic ballad, polished studio mix, Hollywood scoring stage, wide stereo stage. C# minor, lifting to D minor at 2:45, 92 BPM. Low brass pad opens from 0:00 with vibraphone shimmer; bass clarinet breathes a woody low descent beneath. Crystalline soprano enters at 0:40 — pure-tone, minimal vibrato, choirboy voice grown into woman, hovering like morning light on cold air. French horn answers in warm dialogue. Full strings join at 1:15 building orchestral mass; massed choir Aa swells at 2:00. Bass clarinet in counterpoint at 2:20; brass and strings return at 2:30; half-step lift at 2:45. Soprano and French horn merge on the peak phrase; vibraphone shimmer trails the final chord decay. Deep low-end definition, warm tape saturation. No guitars, no drums, no synthesizers, no pipe organ, no harsh vocals."
+
+lyrics: |
+  [Low brass vibraphone intro, 8 bars]
+
+  [Crystalline soprano enters, 16 bars]
+  Light over the water
+  Ljus över vatten
+  Morning breath on stone
+  Morgon on the cliffs
+
+  [French horn soprano dialogue, 16 bars]
+  The cliffs remember
+  Every wave that broke
+  We are not alone
+  Tystnad holds the cold
+
+  [Full strings join orchestral mass, 24 bars]
+  Rise into the brightness
+  Andas in the air
+  Berg above the water
+  Still the light is there
+  Rise into the brightness
+  Stilla over stone
+
+  [Bass clarinet counterpoint, 12 bars]
+  One voice
+  Alone on the water
+  Ljus on cold air
+
+  [Brass strings return higher register, 16 bars]
+  Light over the water
+  Morning holds the shore
+  We are not alone
+  The cliffs remember more
+
+  [Half-step lift D minor soprano French horn peak, 20 bars]
+  Rise into the brightness
+  Andas in the dawn
+  Berg above the fjord
+  Ljus carries on
+  Rise into the brightness
+  Stilla — still — ljus
+
+  [Vibraphone shimmer final chord decay, 8 bars]
+  Ljus
+
+  [End]
+
+exclude_styles: "death metal, black metal, extreme metal, growling, screaming, deathcore, metalcore, djent, slam metal, doom metal, power metal, Viking metal, folk metal, Norse metal, symphonic power metal cheese, bel canto Italian opera, Latin choral, Gregorian chant, Indian classical, Hindustani, sitar, tabla, raga, Indian filmi, Bollywood, trap, rap, phonk, drill, hip-hop, R&B, lo-fi, electronic, EDM, synthesizer, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, acoustic guitar solo, country, bluegrass, Celtic, Enya kitsch, gypsy, klezmer, Arabic, tribal, world music, pipe organ, cinematic ambient, intimate chamber, elegiac neoclassical, neoclassical piano lounge, art song, Lieder, chamber song cycle, choir only, choral only, vocal ensemble, barbershop, gospel, spiritual, autotune, pitch correction, vocal fry, nu-metal, alt-metal, grunge, hard rock, hair metal, rock drums, bass guitar, rhythm guitar, distortion guitar"
+
+notes: |
+  Symphonic metal operatic ballad: a subgenre in which a classically-trained soprano is set against a large symphonic orchestra and heavy classical low-end, characterized by operatic vocal technique applied over dense orchestral mass. The genre originated in northern Europe in the 1990s and has become stable Suno v5.5 long-form classifier territory, consistently rendering 3:00+. The technique here is the "halo-voice variant": crystalline pure-tone soprano (minimal vibrato, choirboy-grown-into-woman timbre) over full strings, low brass, choir, and a three-instrument revival trio — with NO rhythm section (no guitar, no drums, no bass guitar). This is the replication test for v311's classifier-first hypothesis: same classifier territory (symphonic metal operatic ballad), different vocal architecture, different instrument trio, different scene.
+
+  Concept source (researcher): "v312 REPLICATION TEST — same symphonic metal classifier as v311, but crystalline halo-voice soprano (not dramatic), no guitar/drums/bass. Trio: bass clarinet (gap 63) + French horn (gap 56) + vibraphone (gap 77). Nordic fjord scene at pre-dawn. C# minor → D minor half-step at 2:45, 92 BPM. Test whether long-form render holds without rhythm section."
+
+  This prompt echoes the tradition of northern European symphonic vocal arrangers who layered pure-tone soprano voices over dense orchestral writing without a rock rhythm section — a body of work whose greatest practitioners go unnamed here per catalog discipline. The halo-voice architecture is distinct from v311's dramatic soprano (controlled legato power, vibrato-rich) and from v298's bel canto lyric soprano: it is lighter, purer, hovering rather than surging.
+
+  Duration strategy: BPM 92 sits in the slow band; the BPM-duration ceiling applies (~3:30 max regardless of bar count per playbook rule 8). Duration argument rests on classifier lock: "symphonic metal operatic ballad" anchors the first sentence, matching v311's classifier exactly. Total lyric bar count is 120 bars across 8 sections; at the slow-BPM ceiling this targets 3:00–3:30. Production tokens applied: polished studio mix, Hollywood scoring stage, wide stereo stage, deep low-end definition, warm tape saturation. Sentence case throughout; atmospheric-first opening; colon-syntax lyrics with bar counts for per-section length scaffolding; NO [Silence] metatag (hardened rule per feedback_silence_gate_truncates.md). Two body voices in trio confirmed: bass clarinet (body) + French horn (body) + vibraphone (spectral-adjacent, lightweight shimmer role — only one spectral pick, compliant with playbook rule 5).
+
+  Instruments with catalog gaps:
+  - bass clarinet (last v249, gap 63 — deep revival): a low-register member of the clarinet family with a warm, woody, slightly hollow tone; plays an opening descent beneath the brass pad, reappears in counterpoint under the soprano at 2:20 as the intimacy move before the final lift.
+  - French horn (last v256, gap 56 — deep revival): a wide-bore brass instrument with a warm, round mid-band tone; functions as the soprano's dialogue partner throughout, answering phrase-ends and merging with the soprano voice on the peak phrase at 2:45.
+  - vibraphone (last v235, gap 77 — deepest revival in trio): a mallet percussion instrument with motorized resonators producing a gentle tremolo shimmer; used sparingly as punctuation in the opening and as the trailing shimmer in the final chord decay, never dominating the texture.
+
+  Novelty claims: technique-novelty (symphonic metal operatic ballad without rhythm section — halo-voice variant, first in catalog); instrument-revival (bass clarinet, gap 63); instrument-revival (French horn, gap 56); instrument-revival (vibraphone, gap 77 — deepest revival in trio); BPM-novelty (92 BPM, last v295, gap 17 — fresh); key-novelty (C# minor last v297, gap 15 — fresh); scene-novelty (pre-dawn Nordic fjord, breath visible, granite cliffs, soprano over still water — no prior fjord-at-dawn scene in catalog); voice-novelty (crystalline halo-voice soprano distinct from v311 dramatic soprano and all 311 prior catalog entries); replication-test (classifier-first hypothesis from v311 tested with different vocal architecture, trio, and scene).
+
+  Final style char count: 947.
+
+tags:
+  - bass-clarinet
+  - french-horn
+  - vibraphone
+  - 92bpm
+  - c-sharp-minor
+  - d-minor
+  - nordic-fjord-pre-dawn-scene
+  - revival-bass-clarinet-63-gap
+  - revival-french-horn-56-gap
+  - revival-vibraphone-77-gap
+  - revival-92bpm-17-gap
+  - new-technique
+  - symphonic-metal-operatic-ballad
+  - halo-voice-soprano
+  - crystalline-soprano
+  - no-rhythm-section
+  - replication-test-v311
+  - half-step-lift-2-45
+  - duration-3min
+  - research-driven
+  - vocal
+  - symphonic-metal

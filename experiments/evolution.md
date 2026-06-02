@@ -356,6 +356,7 @@ mindmap
 | 309 | Vetri | Neoclassical-electronic solo-piano-as-protagonist instrumental (PIVOT cycle after 6 family-firsts, midnight apartment glass-panes) | F minor | 80 | felt piano (sole protagonist, deep revival v233) + single cello countermelody + sub-bass pad |
 | 310 | Vriksha | Hindustani Raga Filmi Orchestral DENSITY-MANDATE test (Mumbai banyan twilight, ABSOLUTE family-first Hindi, female choir Aa vocalise — density hypothesis FAILED for Indian classical territory) | C# minor Bhairavi | 96 | sitar (catalog debut) + sarangi (120-cycle revival) + tabla (catalog debut) |
 | 311 | Asche | Symphonic metal operatic ballad CLASSIFIER-FIRST cycle (cathedral burning dusk, classifier-territory hypothesis CONFIRMED — clip 2 5:04 NEW CATALOG RECORD) | E minor | 98 | contrabass clarinet (56-back revival) + ondes martenot (55-back revival) + tubular bells (65-back revival) |
+| 312 | Ljus | Halo-voice symphonic metal operatic ballad CLASSIFIER REPLICATION TEST (Nordic fjord dawn, crystalline clean soprano over orchestral bed — NO rhythm section — classifier-first hypothesis HARDENED) | C# minor | 92 | bass clarinet (63-back revival) + French horn (56-back revival) + vibraphone (77-back revival) |
 
 ## Next-cycle priorities
 

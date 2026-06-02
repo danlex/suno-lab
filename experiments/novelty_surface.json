@@ -1,6 +1,6 @@
 {
-  "total_prompts": 311,
-  "latest_version": 311,
+  "total_prompts": 312,
+  "latest_version": 312,
   "instruments": {
     "piano": [
       1,
@@ -263,6 +263,23 @@
       304,
       310
     ],
+    "french horn": [
+      52,
+      63,
+      67,
+      81,
+      92,
+      129,
+      142,
+      146,
+      197,
+      211,
+      230,
+      238,
+      247,
+      256,
+      312
+    ],
     "harp": [
       37,
       46,
@@ -279,22 +296,6 @@
       238,
       248,
       250
-    ],
-    "french horn": [
-      52,
-      63,
-      67,
-      81,
-      92,
-      129,
-      142,
-      146,
-      197,
-      211,
-      230,
-      238,
-      247,
-      256
     ],
     "violin": [
       45,
@@ -695,6 +696,13 @@
       241,
       254
     ],
+    "bass clarinet": [
+      182,
+      222,
+      236,
+      249,
+      312
+    ],
     "marimba": [
       137,
       192,
@@ -723,18 +731,19 @@
       237,
       252
     ],
+    "vibraphone": [
+      110,
+      130,
+      195,
+      235,
+      312
+    ],
     "viola": [
       45,
       92,
       189,
       236,
       251
-    ],
-    "bass clarinet": [
-      182,
-      222,
-      236,
-      249
     ],
     "erhu": [
       102,
@@ -765,12 +774,6 @@
       96,
       164,
       253
-    ],
-    "vibraphone": [
-      110,
-      130,
-      195,
-      235
     ],
     "balafon": [
       106,
@@ -999,7 +1002,8 @@
       246,
       298,
       299,
-      300
+      300,
+      312
     ],
     "neoclassical": [
       1,
@@ -1039,7 +1043,9 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257
@@ -1054,7 +1060,6 @@
       301
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
@@ -1067,10 +1072,13 @@
       280,
       292
     ],
-    "symphonic": [
-      162,
-      178,
-      311
+    "baroque": [
+      188,
+      191
+    ],
+    "concerto": [
+      145,
+      149
     ],
     "drone": [
       304,
@@ -1080,10 +1088,6 @@
       111,
       202
     ],
-    "romantic": [
-      145,
-      149
-    ],
     "2-step garage": [
       100
     ],
@@ -1092,9 +1096,6 @@
     ],
     "amapiano": [
       266
-    ],
-    "baroque": [
-      188
     ],
     "drill": [
       282
@@ -1110,6 +1111,9 @@
     ],
     "progressive house": [
       96
+    ],
+    "symphonic": [
+      311
     ],
     "synthwave": [
       1
@@ -1341,6 +1345,14 @@
       235,
       258
     ],
+    "c# minor": [
+      68,
+      272,
+      284,
+      297,
+      310,
+      312
+    ],
     "d-flat major": [
       92,
       108,
@@ -1364,13 +1376,6 @@
       225,
       241,
       252
-    ],
-    "c# minor": [
-      68,
-      272,
-      284,
-      297,
-      310
     ],
     "f# minor": [
       77,
@@ -1670,7 +1675,8 @@
     "92": [
       65,
       267,
-      295
+      295,
+      312
     ],
     "93": [
       208
@@ -1970,6 +1976,19 @@
     ]
   },
   "titles": [
+    {
+      "version": 312,
+      "title": "Ljus",
+      "name": "ljus-v312",
+      "featured": [
+        "bass clarinet",
+        "french horn",
+        "vibraphone"
+      ],
+      "genre": "orchestral",
+      "key": "c# minor",
+      "bpm": 92
+    },
     {
       "version": 311,
       "title": "Asche",
@@ -3325,7 +3344,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -3490,7 +3509,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3641,7 +3660,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3762,7 +3781,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3798,7 +3817,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
