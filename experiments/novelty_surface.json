@@ -1,6 +1,6 @@
 {
-  "total_prompts": 308,
-  "latest_version": 308,
+  "total_prompts": 309,
+  "latest_version": 309,
   "instruments": {
     "piano": [
       1,
@@ -236,7 +236,8 @@
       298,
       299,
       300,
-      308
+      308,
+      309
     ],
     "string orchestra": [
       1,
@@ -579,6 +580,15 @@
       229,
       242
     ],
+    "felt piano": [
+      112,
+      127,
+      140,
+      190,
+      215,
+      233,
+      309
+    ],
     "flute": [
       66,
       83,
@@ -649,14 +659,6 @@
       262,
       271,
       289
-    ],
-    "felt piano": [
-      112,
-      127,
-      140,
-      190,
-      215,
-      233
     ],
     "mbira": [
       109,
@@ -1220,7 +1222,8 @@
       270,
       281,
       291,
-      301
+      301,
+      309
     ],
     "g minor": [
       59,
@@ -1607,7 +1610,8 @@
     ],
     "80": [
       109,
-      202
+      202,
+      309
     ],
     "81": [
       195
@@ -1954,6 +1958,18 @@
     ]
   },
   "titles": [
+    {
+      "version": 309,
+      "title": "Vetri",
+      "name": "vetri-v309",
+      "featured": [
+        "felt piano",
+        "cello"
+      ],
+      "genre": null,
+      "key": "f minor",
+      "bpm": 80
+    },
     {
       "version": 308,
       "title": "Wayra",

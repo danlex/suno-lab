@@ -1,0 +1,66 @@
+name: "vetri-v309"
+version: 309
+title: "Vetri"
+instrumental: true
+
+style: "Film score for a midnight apartment scene — frost on the window, a single yellow lamp reflected in cold condensation on empty glass. Polished studio mix, warm tape saturation, deep low-end definition. F minor, 80 BPM. Felt piano opens alone at 0:00, close-miked with full damper resonance and soft muted attack, stating a four-bar motif; sub-bass pad rises slowly at 0:20 like a breath held against the window; granular tape-hiss shimmer accumulates; single cello enters at 1:00 with a countermelody a minor sixth below, arching against the motif without displacing it; piano strips to single-note ostinato at 1:40 as cello widens upward, sub-bass peaks; piano motif returns voiced an octave higher at 2:30, key lifts to F-sharp minor, tape hiss thins to near-nothing, final chord fades with the felt-damped sustain alone. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Intro — felt piano motif]
+
+  [Sub-bass pad rises]
+
+  [Tape hiss accumulates]
+
+  [Cello countermelody enters]
+
+  [Piano ostinato + string shimmer]
+
+  [Motif returns octave higher]
+
+  [Tape hiss thins]
+
+  [Final chord fades]
+
+  [End]
+
+exclude_styles: "new age, meditation, spa music, ambient drone, post-classical wallpaper, cinematic ambient, intimate chamber, elegiac, Tuvan throat singing, Zulu choral, Georgian polyphony, Sephardic Ladino, Greek rebetiko, Quechua huayno, classical crossover bel canto, trap, rap, phonk, drill, EDM, electronic, lo-fi, Eurovision Scandi kitsch, Celtic Enya kitsch, generic film score, generic medieval RPG, acoustic guitar, rock, metal, vocals, singing, pipe organ, Arabic, tribal, world music, free jazz, atonal, microtonal, quarter-tone, experimental noise, zen meditation, hip-hop, pop ballad, neoclassical piano lounge"
+
+notes: |
+  Felt piano as sole structural protagonist is an architecture principle drawn from the contemporary instrumental lane pioneered in the 2010s and 2020s — the technique places a damper-modified upright or grand piano (felt strip inserted between hammers and strings, softening attack and shortening sustain) at the center of a sparse three-layer texture: the modified piano, a tonal sub-bass pad as harmonic foundation, and a single bowed string voice as countermelody. No ensemble, no orchestration, no ensemble build — the entire arc is traced by these three elements accumulating and receding. The technique was developed as a corrective against dense orchestral "carpet" — the stripping-down to felt piano leaves every resonance audible and every silence load-bearing.
+
+  Concept source: late-night urban apartment, frost on the window panes, single yellow lamp, the reflection of an empty street in the cold condensation — transparency as emotional metaphor (Italian "vetri" = glass panes).
+
+  This prompt deliberately mirrors a lineage of solo-piano-with-electronics composers whose catalogs define the neoclassical-electronic lane — none are named here per catalog discipline. The architectural choice (felt mute, close-mic, sub-bass pad beneath, single cello shadow) replicates the production fingerprint of that lane without referencing any individual.
+
+  Duration strategy: 80 BPM sits at the low end of the slow band (≤115), where the playbook ceiling is approximately 3:30 regardless of bar count. Arc targets 3:00–3:30, using the slow tempo as load-bearing emotional weight rather than fighting it. The lyrics field is minimal (structural metatags only, no vocal text) because `instrumental: true` — Suno v5.5 uses the bracket labels as section markers. No [Silence] metatag per `feedback_silence_gate_truncates.md` — arc uses continuous accumulation and recession instead. Production tokens applied: polished studio mix, warm tape saturation, deep low-end definition. Sentence case throughout; atmospheric-first opening. The closest catalog analog for duration prediction is v293 Vök (post-rock atmospheric instrumental, 70 BPM, rendered 3:24–3:44), suggesting 80 BPM should land in the 3:00–3:30 window.
+
+  Instruments and catalog gaps:
+  - felt piano: solo protagonist — damper-modified piano with soft muted attack and short sustain. Last appeared at v233 (76 cycles back — deep revival, gap 76). Role: opens alone stating the four-bar motif, strips to single-note ostinato at the climax, returns the motif voiced an octave higher in the coda. This is the first time felt piano appears as the SOLE structural protagonist (not as a supporting voice) in 308 prior versions.
+  - cello (single line): NOT a section — one cello voice as countermelody a minor sixth below the piano. Last appeared at v308 (1 cycle back — cello is fresh from Wayra context but framed entirely differently here: solo countermelody rather than drone-section anchor). Role: enters after the sub-bass accumulation, arches against the piano motif without displacing it, widens upward as piano strips to ostinato.
+  - sub-bass pad: low-frequency electronic pad — described as production-layer rather than named instrument (gap not tracked in novelty surface; electronic elements have been absent from recent catalog cycles v303–v308, making this fresh). Role: rises like a breath held against the window, provides harmonic depth beneath the piano, peaks as the cello widens upward.
+
+  Architectural experiment: this cycle tests whether the v303–v308 family-first recipe (parametrized colon-lyrics + production tokens + scene anchor + purpose phrase) carries over to contemporary instrumental neoclassical-electronic territory with a completely different sonic world. The three-element chamber texture (felt piano + sub-bass pad + single cello) is structurally orthogonal to every v303–v308 entry (charango/siku/bombo, duduk/tar/tombak, mbira/marimba/string-orch, etc.).
+
+  Novelty claims: architecture-novelty (felt piano as sole protagonist — never framed this way in 308 prior versions); BPM 80 last used at v202 (106 cycles back, deep revival); F minor last used at v301 (7 cycles back, fresh); scene (midnight apartment, frost on window, yellow lamp reflection) — no prior urban-night apartment interior scene in catalog; sub-bass-pad-plus-single-cello electronic layer absent from v303–v308 world-music cycle run.
+
+  Final style char count: 913.
+
+tags:
+  - felt-piano
+  - cello
+  - sub-bass-pad
+  - 80bpm
+  - f-minor
+  - midnight-apartment-frost-scene
+  - revival-felt-piano-76-gap
+  - revival-cello-1-gap
+  - revival-80bpm-106-gap
+  - new-technique
+  - felt-piano-protagonist
+  - neoclassical-electronic
+  - duration-3min
+  - research-driven
+  - instrumental
+  - pivot-cycle
+  - tape-saturation
