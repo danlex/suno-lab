@@ -174,3 +174,11 @@ Next cycle should: Same short-circuit until `list_connected_browsers` returns at
 - **Action taken**: Submitter returned failed status; clean exit per safety floor "do NOT retry." No further submit attempts within this cycle.
 - **Next cycle should**: Per BACKLOG GUARD, treat `prompts/ukufa-v304.yaml` as the resume target. If `list_connected_browsers` returns ≥1 entry AND `executeScript` works on the suno.com/create tab, retry the submit step against this YAML (skip research/draft/judge — already done). If executeScript still times out, log a retry-failure entry and exit without drafting v305.
 - **User-side fix that may help**: refresh or re-pin the Claude Code Chrome extension icon (chrome://extensions toggle, or close + reopen the suno.com/create tab so the extension re-injects). The `list_connected_browsers` check is necessary but not sufficient — the bridge can report connected while still being unable to inject scripts.
+
+### 2026-06-02 — v304 retry-attempt 2 (this cycle) — partial-disconnect persists
+
+- **Reason**: Second consecutive executeScript timeout. `tabs_context_mcp` returned tab 786913118 (suno.com/create) in the MCP group, bridge deviceId 62ca1d8e-68b7-4185-8507-d91a6f58a81c confirmed connected. Three consecutive `read_page`/screenshot probes each timed out at 45s ("Page still loading — executeScript waited 45000ms for document_idle"). Tab title still shows "Suno | AI Music" — page is rendering to the user but extension cannot inject scripts.
+- **State**: `prompts/ukufa-v304.yaml` unchanged on disk (untracked), no form fields touched, no clips generated.
+- **Action taken**: Logged second consecutive partial-disconnect per pre-flight protocol ("do NOT loop on it"). Clean exit.
+- **Root cause hypothesis**: suno.com/create tab may have a Service Worker or navigation state that blocks content-script injection even when the bridge device is "connected." Closing and reopening the suno.com/create tab (not just refreshing) may allow fresh content-script injection.
+- **User-side fix**: Close the suno.com/create tab entirely in Chrome, open a new one to https://suno.com/create, confirm the Claude Code extension icon is active in that new tab, then re-trigger submission.
