@@ -1,0 +1,158 @@
+name: "sziv"
+version: 301
+title: "Szív"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Hungarian rap, Budapest indie-trap, 97 BPM, F minor, Erzsébetváros night-tram 3am. Male Hungarian rapper — chesty mid-low Budapest accent with Finno-Ugric vowel-harmony phonetics (front-vowel ö/ő/ü/ű vs back-vowel a/o/u, long-vowel á/é/í/ó/ú emphasis, sz/zs/gy/ny consonants), light Auto-Tune on hooks only, melancholic-introspective flow, NOT Polish trap, NOT Czech rap, NOT Russian shouty, NOT Türk trap — Hungarian indie-trap with vowel-harmony as signature. Production: minimalist Hungarian trap kit, sliding 808 sub, subtle piano sample loop, trap hi-hat triplets, sharp clap, low cathedral pad pulse, vinyl crackle, hard saturation. ARC: 0:00-0:30 piano alone, 0:30 verse 1, 1:00 808 enters, 1:30 first hook, 2:00 verse 2, 2:30 climax with harmonic ascent. 2026 Budapest indie-trap, NOT mainstream Hungarian pop, NOT csárdás folk, NOT 90s house, NOT US Memphis phonk. Erzsébetváros tram-stop 3am, neon-on-rain."
+
+lyrics: |
+  [Intro] (piano sample loop, 0:00-0:30)
+  ej, ej, szív
+
+  [Verse 1 — chesty Hungarian, 0:30-1:00]
+  hajnali három, Erzsébetváros alszik
+  villamos vontatja magát üresen
+  emlékszem a hangodra, mintha tegnap lett volna
+  egy év hosszú, de a szív még hosszabb
+
+  [Pre-Hook — Auto-Tune, 1:00-1:30]
+  ej-ej, szív
+  ej-ej, szív még dobog
+
+  [Hook — Hungarian trap-pop, 1:30-2:00]
+  szív, szív, dobog a mellkasomban
+  szív, szív, Budapest nem lát engem
+  szív, szív, még mindig itt vagy bennem
+  szív, szív, de te már nem vagy
+
+  [Verse 2 — fuller flow, 2:00-2:30]
+  WhatsApp néma, utoljára tegnapelőtt
+  Spotify pörgeti a közös számokat
+  a haverok azt mondják, felejts el
+  de ez a szív nem akarja
+
+  [Climax — harmonic ascent + 808 layered, 2:30-3:00]
+  szív, szív, dobog a mellkasomban
+  szív, szív, Budapest emlékszik
+  szív, szív, de én tovább megyek
+  szív, szív, egyedül az éjben
+
+  [Sustained Plateau, 3:00-3:30]
+  szív... szív... dobog még
+  ej-ej, tovább megyek
+
+  [Outro] (piano fade)
+  szív...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, smooth Punjabi sing-rap, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Türk trap chesty, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Polish trap, male Czech indie-trap, male Russian shouty distorted MC, male French banlieue rapper, female gospel praise-break choir, female neo-soul chesty, female bedroom-pop whisper, hyperpop, k-pop, j-pop, salsa, dembow, csárdás folk, mainstream Hungarian pop, 90s house, US Memphis phonk, Eurovision Scandi kitsch"
+
+tags:
+  - modern-hungarian-rap
+  - budapest-indie-trap
+  - 97bpm
+  - f-minor
+  - male-vocal-chesty-hungarian
+  - hungarian-vowel-harmony-phonetics
+  - hungarian-lyrics
+  - viral-arm
+  - erzsebetvaros-night-tram
+  - sparse-arrangement-per-duration-model
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v301 — Modern Hungarian rap / Budapest indie-trap.
+  Post-milestone (v300) return to language-expansion strategy. Hungarian
+  fills another major-language gap: 13M speakers + global diaspora,
+  Finno-Ugric language family (completely distinct from Slavic/Romance/
+  Germanic). The vowel-harmony phonetic system is genuinely unique
+  among catalog cycles.
+
+  Research-driven (TikTok 2026 Curtis Hungarian rap battle content,
+  global TikTok rap-trap 2026 playlists): Hungarian rap on TikTok is
+  active via Curtis, Wellhello, BSW, FankaDeli, AK26 scene. Modern
+  Hungarian indie-trap pairs minimalist 808-heavy kit with piano sample
+  loops and light Auto-Tune on melodic hooks (similar production
+  template to v286 Polish and v297 Czech but with Hungarian-specific
+  phonetics).
+
+  USER ROADMAP: 41 cycles since the v260 viral arm began + v300
+  milestone + v301 post-milestone language-expansion = 41 cycles. With
+  v301, Hungarian (31st language) joins the catalog.
+
+  VOICE DIFFERENTIATION — 42ND orthogonal voice in 42 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v300: 41 prior voices spanning 30 languages
+    v301 — male CHESTY MID-LOW BUDAPEST HUNGARIAN RAPPER (Finno-Ugric
+           vowel-harmony phonetics — front-vowel ö/ő/ü/ű vs back-vowel
+           a/o/u distinction, long-vowel á/é/í/ó/ú emphasis, sz/zs/gy/ny
+           consonants — fundamentally distinct from prior Slavic/Romance
+           male rap voices via vowel-harmony system signature)
+  Closest comparisons:
+    - v286 Polish trap (also Eastern European male sparse trap, but
+      Slavic sibilants vs Hungarian vowel-harmony — completely different
+      phonetic family: Slavic Indo-European vs Finno-Ugric)
+    - v297 Czech indie-trap (also Central European male sparse trap,
+      but Czech ř and palatalized ť/ď/ň vs Hungarian vowel-harmony —
+      Czech is Slavic Indo-European; Hungarian is Finno-Ugric)
+    - v274 Argentine porteño (also male sparse trap at ~98 BPM, but
+      Spanish phonetics vs Hungarian — completely different language
+      family)
+  Style + exclude_styles block all 41 prior voice characters including
+  v286 Polish and v297 Czech explicitly.
+
+  LANGUAGE — 31st distinct language. Hungarian (native Latin alphabet
+  with full Hungarian diacritics — á é í ó ö ő ú ü ű). Hungarian is
+  one of the few catalog languages from the Finno-Ugric family (not
+  Indo-European). Lyric vocabulary uses authentic Budapest indie-trap
+  Hungarian: "szív" (heart), "hajnali három" (3am), "Erzsébetváros"
+  (Budapest's 7th district — indie-rap epicenter, like Praga in Polish/
+  Vinohrady in Czech), "villamos" (Budapest tram), "egy év hosszú"
+  (a year is long), "Budapest nem lát engem" (Budapest doesn't see me),
+  "WhatsApp néma, utoljára tegnapelőtt" (WhatsApp silent, last day
+  before yesterday — modern Hungarian detail), "tovább megyek"
+  (I keep going), "egyedül az éjben" (alone in the night). Concept:
+  classic Hungarian indie-rap 3am Budapest tram introspection — empty
+  villamos, Erzsébetváros asleep, year passed but the heart still
+  beats, WhatsApp last seen day before yesterday, "Budapest doesn't
+  see me, but my heart still beats, I keep going alone in the night."
+  Evergreen Hungarian melancholic-rap emotional core.
+
+  **DURATION MODEL APPLIED** (per validated `feedback_silence_gate_
+  truncates.md` v3): genre = trap/rap territory → expected 1:00-2:00
+  TikTok-clip form factor. The sparse + 90+ BPM rule does NOT extend
+  trap/rap durations (proven by v297 Czech and v286 Polish results).
+  Accepting this for v301: the cycle will likely render in the 1:30-2:00
+  band, matching the genre-territory pattern from prior 8 trap/rap
+  cycles.
+
+  BPM 97 — fresh in rotation. Mid-Hungarian-trap canonical tempo.
+
+  Key F minor — first reuse since v291 Icelandic Nordic noir (9 cycles
+  ago). Walks well with melancholic-minor piano sample loops canonical
+  to Hungarian indie-trap.
+
+  Production palette pinned: "minimalist Hungarian trap kit + sliding
+  808 sub + subtle piano sample loop in melancholic F-minor color +
+  trap hi-hat triplets + sharp clap + low cathedral pad pulse + vinyl
+  crackle + hard saturation." Sparse density (per duration model).
+  Negatives explicitly block csárdás folk, mainstream Hungarian pop,
+  90s house, US Memphis phonk, Eurovision Scandi kitsch.
+
+  Title "Szív" (heart) — single Hungarian word, 4 chars, MEME-able,
+  distinctly Hungarian (the sz consonant cluster + í long vowel are
+  Hungarian-typical). Distinct from v286 "Sen" (Polish dream), v297
+  "Slza" (Czech tear).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No
+  Wellhello, Curtis, BSW, FankaDeli, AK26, Majka, Beerseewalk, Lehotai,
+  Lupo or other Hungarian rap artist names in style field — preemptive
+  removal per v274-v300 artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (17-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`male`) before Create.

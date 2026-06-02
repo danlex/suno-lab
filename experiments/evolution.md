@@ -345,6 +345,7 @@ mindmap
 | 298 | Lumen | Modern classical-crossover orchestral ballad with operatic soprano + cello + strings — duration model upper-band test, first BOTH-clip-above-4:00 in catalog | G minor | 60 | grand piano + solo cello + sustained string section |
 | 299 | Eterno | Modern classical-crossover orchestral ballad with male lyric tenor + cello + strings — male counterpart to v298 Lumen; classical-crossover diptych | D minor | 64 | grand piano + solo cello + sustained string section |
 | 300 | Anima | v300 MILESTONE CYCLE — Modern classical-crossover orchestral ballad MALE-FEMALE TRUE DUET completing the Lumen-Eterno-Anima classical-crossover trinity | Bb minor | 62 | grand piano + solo cello + sustained string section with cathedral organ pad |
+| 301 | Szív | Hungarian Finno-Ugric vowel-harmony phonetics + Budapest indie-trap (Erzsébetváros 3am) | F minor | 97 | minimalist Hungarian trap kit + sliding 808 + piano sample loop |
 
 ## Next-cycle priorities
 
