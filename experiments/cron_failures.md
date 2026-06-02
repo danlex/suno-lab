@@ -162,3 +162,15 @@ Reason: User-driven retry. `list_connected_browsers` returned `[]`. Issued `open
 State: `prompts/what-one-reed-remembers-v223.yaml` still untracked on disk, judge 96/100, four consecutive submit attempts now blocked at the bridge check.
 Action taken: Logged. No agents spawned. No commits beyond this entry.
 Next cycle should: Same short-circuit until `list_connected_browsers` returns at least one entry. User needs to manually re-pin the extension (Chrome toolbar icon, chrome://extensions toggle, or refresh a logged-in claude.ai tab) — the helper-open has not been sufficient across these four attempts.
+
+## 2026-06-02 — v304 failed at submit (partial-disconnect state)
+
+- **YAML**: prompts/ukufa-v304.yaml
+- **Title**: Ukufa
+- **Judge**: 97/100 (passed)
+- **Concept**: Zulu isicathamiya × cinematic orchestral ballad, ABSOLUTE family-first Bantu (34th language, 45th orthogonal voice), uhadi (catalog debut) + bass flute + string orchestra, A minor → Bb minor at climax, 74 BPM
+- **Reason**: Chrome MCP bridge in partial-disconnect state — `list_connected_browsers` returned Browser 1 (deviceId 62ca1d8e-68b7-4185-8507-d91a6f58a81c), `tabs_context_mcp` returned a tab at suno.com/create, but every `executeScript` injection into the Suno tab timed out after 45s. Submitter tried Escape, `open -a Chrome https://suno.com/create`, and `open -a Chrome https://claude.ai` reconnect — none cleared the block. Tab visible, scripts unreachable.
+- **State**: `prompts/ukufa-v304.yaml` exists on disk untracked, judged 97/100, no form fields touched. No clip UUIDs created. No commit run (finish_cycle.py never invoked).
+- **Action taken**: Submitter returned failed status; clean exit per safety floor "do NOT retry." No further submit attempts within this cycle.
+- **Next cycle should**: Per BACKLOG GUARD, treat `prompts/ukufa-v304.yaml` as the resume target. If `list_connected_browsers` returns ≥1 entry AND `executeScript` works on the suno.com/create tab, retry the submit step against this YAML (skip research/draft/judge — already done). If executeScript still times out, log a retry-failure entry and exit without drafting v305.
+- **User-side fix that may help**: refresh or re-pin the Claude Code Chrome extension icon (chrome://extensions toggle, or close + reopen the suno.com/create tab so the extension re-injects). The `list_connected_browsers` check is necessary but not sufficient — the bridge can report connected while still being unable to inject scripts.
