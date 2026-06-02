@@ -1,6 +1,6 @@
 {
-  "total_prompts": 313,
-  "latest_version": 313,
+  "total_prompts": 314,
+  "latest_version": 314,
   "instruments": {
     "piano": [
       1,
@@ -133,7 +133,8 @@
       300,
       302,
       306,
-      307
+      307,
+      314
     ],
     "pipe organ": [
       1,
@@ -171,7 +172,8 @@
       300,
       302,
       306,
-      307
+      307,
+      314
     ],
     "timpani": [
       15,
@@ -261,7 +263,8 @@
       146,
       147,
       304,
-      310
+      310,
+      314
     ],
     "french horn": [
       52,
@@ -746,6 +749,12 @@
       236,
       251
     ],
+    "double bass": [
+      178,
+      240,
+      308,
+      314
+    ],
     "erhu": [
       102,
       117,
@@ -790,11 +799,6 @@
       83,
       130,
       198
-    ],
-    "double bass": [
-      178,
-      240,
-      308
     ],
     "kora": [
       31,
@@ -1047,10 +1051,13 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
-      257
+      257,
+      314
     ],
     "trap": [
       264,
@@ -1074,19 +1081,13 @@
       280,
       292
     ],
-    "romantic": [
-      145,
-      149,
-      313
-    ],
-    "symphonic": [
-      162,
-      178,
-      311
-    ],
     "baroque": [
       188,
       191
+    ],
+    "concerto": [
+      145,
+      149
     ],
     "drone": [
       304,
@@ -1119,6 +1120,12 @@
     ],
     "progressive house": [
       96
+    ],
+    "romantic": [
+      313
+    ],
+    "symphonic": [
+      311
     ],
     "synthwave": [
       1
@@ -1262,6 +1269,23 @@
       298,
       307
     ],
+    "b minor": [
+      76,
+      116,
+      140,
+      147,
+      186,
+      189,
+      209,
+      223,
+      238,
+      254,
+      268,
+      283,
+      296,
+      306,
+      314
+    ],
     "d major": [
       27,
       29,
@@ -1278,22 +1302,6 @@
       64,
       187,
       276
-    ],
-    "b minor": [
-      76,
-      116,
-      140,
-      147,
-      186,
-      189,
-      209,
-      223,
-      238,
-      254,
-      268,
-      283,
-      296,
-      306
     ],
     "b-flat minor": [
       86,
@@ -1721,7 +1729,8 @@
       64,
       70,
       151,
-      272
+      272,
+      314
     ],
     "101": [
       210
@@ -1983,6 +1992,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 314,
+      "title": "Hagl",
+      "name": "hagl-v314",
+      "featured": [],
+      "genre": "cinematic",
+      "key": "b minor",
+      "bpm": 100
+    },
     {
       "version": 313,
       "title": "Threnos",
@@ -3528,7 +3546,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3679,7 +3697,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3800,7 +3818,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3836,7 +3854,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
