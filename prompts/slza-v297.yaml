@@ -1,0 +1,155 @@
+name: "slza"
+version: 297
+title: "Slza"
+instrumental: false
+vocal_gender: male
+
+style: "Modern Czech rap, Prague indie-trap, 103 BPM, C# minor, Vinohrady night-tram 4am. Male Czech rapper — chesty mid-low Prague accent with Czech sibilants (sl, ř, ž, č, palatalized ť/ď/ň), light Auto-Tune on hooks only, melancholic-introspective flow with melodic moments, NOT Polish trap, NOT Russian shouty, NOT French banlieue, NOT Türk trap — Czech indie-trap with the ř and palatalized consonants as signature. Production: SPARSE minimalist Czech trap kit, sliding 808 sub, subtle piano sample loop with melancholic-minor color, trap hi-hat triplets, sharp clap, low cathedral pad pulse, vinyl crackle. ARC: 0:00-0:30 piano loop alone, 0:30 verse 1, 1:00 808 enters, 1:30 first hook, 2:00 verse 2, 2:30 climax with harmonic ascent + 808 layered, sustain to 3:30. 2026 Czech indie-trap, NOT mainstream Czech pop, NOT dechovka folk, NOT 90s house, NOT US Memphis phonk. Vinohrady tram-stop 4am, neon-on-cobblestones."
+
+lyrics: |
+  [Intro] (piano sample loop, 0:00-0:30)
+  ej, ej, slza
+
+  [Verse 1 — chesty Czech, 0:30-1:00]
+  čtvrtá ráno, Vinohrady spí
+  tramvaj se vleče prázdná po koleji
+  pamatuju tvůj hlas jako včerejšek
+  rok je dlouhý, srdce ještě delší
+
+  [Pre-Hook — Auto-Tune touch, 1:00-1:30]
+  ej-ej, slza
+  ej-ej, slza padá
+
+  [Hook — Czech trap belt, 1:30-2:00]
+  slza, slza, padá z mých očí
+  slza, slza, Praha mě nevidí
+  slza, slza, srdce ještě bije
+  slza, slza, ale tebe už ne
+
+  [Verse 2 — fuller flow, 2:00-2:30]
+  WhatsApp tichý, naposledy včera
+  Spotify hraje naši písničku znova
+  kámoši říkají zapomeň
+  ale ta slza nechce odejít
+
+  [Climax — harmonic ascent + 808 layered, 2:30-3:00]
+  slza, slza, padá z mých očí
+  slza, slza, Praha pamatuje
+  slza, slza, ale já žiju dál
+  slza, slza, sám v noci
+
+  [Sustained Plateau, 3:00-3:30]
+  slza... slza... slza padá
+  ej-ej, žiju dál
+
+  [Outro] (piano fade)
+  slza...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, orchestral arena, opera, broadway, jazz, soaring soprano belt, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Türk trap chesty, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Polish trap, male Russian shouty distorted MC, male French banlieue rapper, female gospel praise-break choir, female neo-soul chesty, female bedroom-pop whisper, male Hopelandic post-rock, male-female Viking duet, female Icelandic Nordic noir, hyperpop, k-pop, j-pop, salsa, dembow, dechovka folk, mainstream Czech pop, 90s house, US Memphis phonk"
+
+tags:
+  - modern-czech-rap
+  - prague-indie-trap
+  - 103bpm
+  - c-sharp-minor
+  - male-vocal-chesty-czech
+  - czech-sibilant-phonetics
+  - czech-lyrics
+  - viral-arm
+  - vinohrady-night-tram
+  - sparse-arrangement-per-duration-model
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v297 — Modern Czech rap / Prague indie-trap. Returns
+  to language-expansion strategy after 7-cycle brain-dopamine theme.
+  Czech was the LAST major-language gap remaining in the catalog (12M
+  speakers + global diaspora). With v297, all 5 "major remaining
+  languages" identified at the end of the Mediterranean arc (Czech,
+  Greek, Hebrew, Polish, Vietnamese) have now been cycled.
+
+  Research-driven (TikTok 2026 #yzomandias content, viberate.com Czech
+  top artists): Czech rap on TikTok is dominated by Yzomandias and the
+  surrounding Prague scene (Nik Tendo, Calin, Smack, Hugo Toxxx, Renne
+  Dang). Viral tracks include "Rolls", "Na Rohu", "Kdo Sou", "HND".
+  Modern Czech rap pairs minimalist 808-heavy trap drums with subtle
+  piano sample loops, light Auto-Tune on hooks, and melancholic-
+  introspective male Czech-language flow.
+
+  USER ROADMAP: 35 viral cycles + 7 brain-dopamine cycles + v297 Czech
+  = 43 cycles. With Czech filled, the catalog now covers all major
+  European languages and most major non-European languages with cultural
+  weight. Remaining small-language gaps include Hungarian, Romanian
+  (already at v289), Bulgarian, Serbian, Ukrainian, Swahili, Amharic,
+  Tagalog (already at v285), etc.
+
+  VOICE DIFFERENTIATION — 38TH orthogonal voice in 38 cycles. Cumulative
+  ledger (abbreviated):
+    v260-v296: 37 prior voices spanning 28-29 "languages"
+    v297 — male CHESTY MID-LOW PRAGUE CZECH RAPPER (Czech sibilant
+           phonetics: sl, ř, ž, č, palatalized ť/ď/ň — specifically
+           Czech consonant system distinct from Polish sz/cz/ść at
+           v286 — light Auto-Tune on hooks + melancholic-introspective
+           flow + occasional melodic moments — distinct from prior
+           male rap voices via specifically-Czech phonetic character)
+  v286 (Polish trap) is the closest comparison — both Slavic male trap
+  rappers, but the Czech ř and palatalized ť/ď/ň are language-specific
+  to Czech (Polish has different palatalization rules). Style +
+  exclude_styles block all 37 prior voice characters.
+
+  LANGUAGE — 28th distinct language. Czech (native Latin alphabet with
+  Czech diacritics — á, é, í, ó, ú, ý, ě, š, č, ř, ž, ť, ď, ň).
+  Lyric vocabulary uses authentic Czech indie-trap: "slza" (tear),
+  "Vinohrady" (Prague neighborhood — indie-rap epicenter), "čtvrtá
+  ráno" (4am), "tramvaj se vleče prázdná" (the tram drags empty),
+  "rok je dlouhý" (the year is long), "Praha mě nevidí" (Prague doesn't
+  see me), "WhatsApp tichý, naposledy včera" (WhatsApp silent, last
+  seen yesterday — modern Czech detail), "ta slza nechce odejít"
+  (that tear doesn't want to leave). Concept: classic Czech indie-rap
+  4am Prague tram introspection — empty tram, Vinohrady asleep, year
+  passed but heart still beats, WhatsApp last-seen yesterday, friends
+  say forget, but the tear won't leave. Evergreen Czech-indie-rap
+  melancholic emotional core (Yzomandias lineage).
+
+  **DURATION MODEL APPLIED** — per `feedback_silence_gate_truncates.md`
+  the 7-cycle dopamine-architecture study yielded a refined model:
+  sparse + faster BPM (≥90) = consistent target band. v297 uses:
+  - 103 BPM (in the validated consistent zone)
+  - SPARSE arrangement (minimalist trap kit + piano loop + 808, no
+    foreground vocal stack)
+  - Solo male vocal, no choir/duet
+  Expected: 2:30-3:30 target band reliably (per v291/v292/v295 evidence).
+
+  BPM 103 — fresh in rotation. Mid-Czech-trap canonical.
+
+  Key C# minor — first reuse since v272 mahraganat (25 cycles ago).
+  Walks well with melancholic-minor piano sample loops canonical to
+  Czech indie-trap.
+
+  Production palette pinned: "minimalist Czech trap arrangement +
+  sliding 808 sub + subtle piano sample loop with melancholic-minor
+  color + trap hi-hat triplets + sharp clap + low cathedral pad pulse
+  + vinyl crackle + hard saturation." Sparse density (per duration
+  model). Negatives explicitly block dechovka folk, mainstream Czech
+  pop, 90s house, US Memphis phonk — four adjacent failure modes the
+  Suno classifier could drift toward.
+
+  Title "Slza" — Czech for "tear," 4 chars, MEME-able, distinctly Czech
+  (the sl consonant cluster is Czech-typical). Distinct from v286
+  Polish "Sen." Conceptually parallel to other untranslatable iconic
+  language-words in the catalog (saudade, dor, kangen, setareh,
+  hugr — though slza is "tear" which is translatable; closer to the
+  iconic-Czech-cultural-word pattern).
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No
+  Yzomandias, Nik Tendo, Calin, Smack, Hugo Toxxx, Renne Dang, P T K,
+  Jickson, or other Czech rap artist names in style field — preemptive
+  removal per v274-v296 artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`male`) before Create.

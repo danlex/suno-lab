@@ -341,6 +341,7 @@ mindmap
 | 294 | Risen | Modern soul-gospel praise-break climax ballad — brain dopamine cycle 5 with female lead soul belt + choir explosion + harmonic ascent | F major | 76 | Hammond B3 organ + gospel piano triplets + backing-choir 4-voice stack |
 | 295 | Velvet | Modern neo-soul sparse 'negative-space' arrangement — controlled-variable test of v294 finding (lighter density + faster BPM) | F# minor | 92 | Rhodes electric piano + unquantized walking bass + brushed drum kit |
 | 296 | Pearl | Modern bedroom-pop dreampop ballad — isolation test of BPM-vs-density variable for v294 short-render finding | B minor | 76 | reverb-soaked electric guitar + drum-machine pulse + warm tape-saturation synth-pad |
+| 297 | Slza | Modern Czech rap / Prague indie-trap — last major-language gap closed; trap-genre default-short duration finding | C# minor | 103 | Czech trap kit + sliding 808 sub + minimalist piano sample loop |
 
 ## Next-cycle priorities
 

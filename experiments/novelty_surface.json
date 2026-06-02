@@ -1,6 +1,6 @@
 {
-  "total_prompts": 295,
-  "latest_version": 295,
+  "total_prompts": 296,
+  "latest_version": 296,
   "instruments": {
     "piano": [
       1,
@@ -1030,13 +1030,13 @@
       188,
       191
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "passacaglia": [
       111,
       202
-    ],
-    "romantic": [
-      145,
-      149
     ],
     "2-step garage": [
       100
@@ -1049,6 +1049,9 @@
     ],
     "drill": [
       282
+    ],
+    "lo-fi": [
+      296
     ],
     "minimalist": [
       201
@@ -1218,7 +1221,8 @@
       238,
       254,
       268,
-      283
+      283,
+      296
     ],
     "b-flat minor": [
       86,
@@ -1531,7 +1535,8 @@
       92,
       117,
       149,
-      294
+      294,
+      296
     ],
     "77": [
       193
@@ -1886,6 +1891,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 296,
+      "title": "Pearl",
+      "name": "pearl",
+      "featured": [],
+      "genre": "lo-fi",
+      "key": "b minor",
+      "bpm": 76
+    },
     {
       "version": 295,
       "title": "Velvet",
@@ -3514,7 +3528,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -3550,7 +3564,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
