@@ -1,5 +1,16 @@
 # Cron failure log
 
+### 2026-06-02 — v304 RETRY-4 — bridge connectedAt advanced but probe still failing
+
+- **connectedAt advanced**: 1780395121178 → 1780403730367 (fresh reconnect confirmed).
+- **MCP tab group**: 2 tabs — tabId 786913118 (suno.com/song/... — a song page, not /create) and tabId 786913340 (localhost:8902/interview). No suno.com/create tab in group.
+- **Pre-flight probe result**: Every `executeScript` call on tabId 786913118 timed out at 45s ("Page still loading"). Attempted: screenshot (×3), read_page (×1), key Escape, cmd+l + URL navigation, wait 10s×2. Tab title stays "Vök by Alexandru Dan | Suno" — page is a song page stuck in loading state.
+- **Root cause**: The tab in the MCP group is a suno.com/song page stuck in a loading loop — NOT a create page. `cmd+l` + URL type + Enter attempted to navigate it to suno.com/create, but the navigation did not land (executeScript still failing). `open -a Chrome https://suno.com/create` was issued but the new tab opened outside the MCP group (MCP group did not update).
+- **State**: `prompts/ukufa-v304.yaml` unchanged on disk (untracked), no form fields touched, no clips generated. Fifth consecutive failed submit attempt.
+- **Action taken**: Logging "bridge connectedAt advanced but probe still failing" per pre-flight protocol. Clean exit. No retry within this cycle.
+- **Critical user-side fix needed**: The MCP group needs a working suno.com/create tab that the extension can inject scripts into. Steps: (1) In Chrome, open a new tab manually → navigate to suno.com/create → confirm the Claude Code extension icon shows active badge. (2) That tab must be in the MCP-controlled window/group (the same window where the extension is pinned). (3) Close the stuck suno.com/song tab (786913118) from the MCP group if possible. (4) Then re-trigger this submission.
+
+
 ### 2026-06-02 — cron fire, no-op — v304 bridge still stuck
 
 Reason: `list_connected_browsers` returns Browser 1 with `connectedAt: 1780395121178` — the SAME timestamp logged across the three prior consecutive failed retries (retry-1, retry-2, retry-3). No fresh reconnect; Chrome MCP session has not been touched. Service Worker on suno.com/create is still in the deferred-navigation state diagnosed last cycle (one-screenshot-then-hang pattern).
