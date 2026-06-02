@@ -1,6 +1,6 @@
 {
-  "total_prompts": 312,
-  "latest_version": 312,
+  "total_prompts": 313,
+  "latest_version": 313,
   "instruments": {
     "piano": [
       1,
@@ -673,6 +673,14 @@
       214,
       241
     ],
+    "ophicleide": [
+      180,
+      217,
+      229,
+      237,
+      252,
+      313
+    ],
     "theremin": [
       101,
       119,
@@ -723,13 +731,6 @@
       147,
       198,
       258
-    ],
-    "ophicleide": [
-      180,
-      217,
-      229,
-      237,
-      252
     ],
     "vibraphone": [
       110,
@@ -844,6 +845,9 @@
     ],
     "ney": [
       278
+    ],
+    "wagner tuba": [
+      313
     ]
   },
   "genres": {
@@ -1043,9 +1047,7 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257
@@ -1072,13 +1074,19 @@
       280,
       292
     ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
+    "symphonic": [
+      162,
+      178,
+      311
+    ],
     "baroque": [
       188,
       191
-    ],
-    "concerto": [
-      145,
-      149
     ],
     "drone": [
       304,
@@ -1111,9 +1119,6 @@
     ],
     "progressive house": [
       96
-    ],
-    "symphonic": [
-      311
     ],
     "synthwave": [
       1
@@ -1148,7 +1153,8 @@
       261,
       279,
       289,
-      304
+      304,
+      313
     ],
     "d minor": [
       1,
@@ -1611,7 +1617,8 @@
       117,
       149,
       294,
-      296
+      296,
+      313
     ],
     "77": [
       193
@@ -1976,6 +1983,18 @@
     ]
   },
   "titles": [
+    {
+      "version": 313,
+      "title": "Threnos",
+      "name": "threnos-v313",
+      "featured": [
+        "wagner tuba",
+        "ophicleide"
+      ],
+      "genre": "romantic",
+      "key": "a minor",
+      "bpm": 76
+    },
     {
       "version": 312,
       "title": "Ljus",
@@ -3509,7 +3528,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3660,7 +3679,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3781,7 +3800,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -3817,7 +3836,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },
