@@ -343,6 +343,7 @@ mindmap
 | 296 | Pearl | Modern bedroom-pop dreampop ballad — isolation test of BPM-vs-density variable for v294 short-render finding | B minor | 76 | reverb-soaked electric guitar + drum-machine pulse + warm tape-saturation synth-pad |
 | 297 | Slza | Modern Czech rap / Prague indie-trap — last major-language gap closed; trap-genre default-short duration finding | C# minor | 103 | Czech trap kit + sliding 808 sub + minimalist piano sample loop |
 | 298 | Lumen | Modern classical-crossover orchestral ballad with operatic soprano + cello + strings — duration model upper-band test, first BOTH-clip-above-4:00 in catalog | G minor | 60 | grand piano + solo cello + sustained string section |
+| 299 | Eterno | Modern classical-crossover orchestral ballad with male lyric tenor + cello + strings — male counterpart to v298 Lumen; classical-crossover diptych | D minor | 64 | grand piano + solo cello + sustained string section |
 
 ## Next-cycle priorities
 

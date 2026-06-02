@@ -1,0 +1,155 @@
+name: "eterno"
+version: 299
+title: "Eterno"
+instrumental: false
+vocal_gender: male
+
+style: "Modern classical-crossover orchestral ballad, cinematic male tenor + cello + strings, 64 BPM, D minor, Tuscan twilight cathedral. Male lyric TENOR classical-crossover — bel canto Italian-conservatoire technique, bright forward placement, vowel purity in operatic lines, sustained classical vibrato, chest-mix from sotto voce to fortissimo high-belt at climax, NOT Mandopop head-voice, NOT Punjabi R&B, NOT Afrobeats falsetto — bel canto operatic-crossover tenor signature, FIRST male operatic voice. Production: solo grand piano arpeggios, solo cello melodic counterpoint at 1:00, sustained string section pad, cathedral pipe organ pad, sparse timpani at climax, no drum kit. ARC: 0:00-0:30 piano alone, 0:30 tenor sotto voce, 1:00 cello joins, 1:30 strings enter, 2:00 build, 2:30 climax with full orchestra + organ + half-step ascent + soaring high-belt, sustain to 3:30. Cinematic classical-crossover. NOT pop, NOT power ballad, NOT Eurovision."
+
+lyrics: |
+  [Intro] (solo grand piano arpeggios, 0:00-0:30)
+  (no vocals)
+
+  [Verse 1 — tenor enters sotto voce, 0:30-1:00]
+  eterno è il mare, eterno il cielo
+  eterno il vento che parla nel silenzio
+  ho camminato lungo la riva sola
+  cercando ciò che il tempo non consuma
+
+  [Verse 2 — cello joins, tenor fuller, 1:00-1:30]
+  per monti, per valli, per il mondo
+  ho portato il tuo nome nel cuore profondo
+  eterno è l'amore che non muore
+  eterno, eterno, eterno
+
+  [Build — strings enter, tenor rising, 1:30-2:00]
+  eterno, eterno, ascendere
+  eterno, eterno, illuminare
+  per la notte eterna, eterno io vivrò
+  ascendere, ascendere
+
+  [Climax — full orchestra + organ + half-step ascent + soaring high-belt, 2:00-2:30]
+  ETERNO! ETERNO! eterno amore!
+  ETERNO! ETERNO! per ogni secolo!
+  ETERNO è il mare, eterno il cielo
+  vivo, vivo, vivo, eterno
+
+  [Sustained Plateau Climax, 2:30-3:30]
+  (ensemble holding) eterno... eterno...
+  eterno amore, eterno
+  eterno, vincit eterno
+
+  [Outro] (orchestral wash + piano fade)
+  eterno...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, broadway, jazz, soaring soprano belt arena, husky contralto, pitched-up kawaii, raspy autotuned Latina sing-rap, shouty female MC, whispered drift phonk, female K-pop group, ethereal breathy DnB, male falsetto-mix Afrobeats, male autotuned chesty Arabic mahraganat, female melismatic Indonesian dangdut, male Mandopop crooner, female Hindustani playback-singer, male Türk trap, female Persian tahrir, female Greek modal belt, female Israeli Mizrahi-pop, male Romanian manele, male Polish trap, male Russian shouty distorted MC, female gospel praise-break choir, female neo-soul chesty, female bedroom-pop whisper, male Hopelandic post-rock, female Icelandic Nordic noir, female lyric soprano classical-crossover v298, hyperpop, k-pop, j-pop, anime opening, salsa, dembow, trance EDM, mainstream pop power ballad, Eurovision kitsch, generic film score, Celtic Enya kitsch, male power-metal vocal"
+
+tags:
+  - modern-classical-crossover
+  - cinematic-orchestral-ballad
+  - male-lyric-tenor-bel-canto
+  - 64bpm
+  - d-minor
+  - male-vocal-operatic-tenor
+  - cello-strings-piano-organ
+  - italian-lyrics
+  - viral-arm
+  - tuscan-twilight-cathedral
+  - duration-model-validated-territory
+  - pair-with-v298-lumen
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v299 — Modern classical-crossover orchestral ballad
+  with male lyric tenor + cello + strings. Pairs with v298 "Lumen"
+  (female soprano + Latin) as the bel canto male counterpart. The two
+  cycles form a male-female classical-crossover diptych leading into
+  the v300 milestone.
+
+  Research-driven (Wikipedia Andrea Bocelli, MasterClass Classical
+  Crossover Guide 2026, TikTok classical music trends): Andrea Bocelli
+  pioneered male classical-crossover tenor with "Time to Say Goodbye"
+  (duet with Brightman) — one of the best-selling singles globally.
+  Il Divo brought tenor-quartet classical-crossover to mass audiences.
+  Modern male classical-crossover tenor vocal: bel canto Italian-
+  conservatoire technique, bright forward placement, vowel purity in
+  operatic lines, sustained classical vibrato, dramatic chest-mix
+  dynamic range.
+
+  USER ROADMAP: 39 viral cycles total + v299 = 39 cycles approaching
+  the v300 milestone. v298+v299 form a classical-crossover diptych:
+    - v298 Lumen: female lyric SOPRANO + Latin + 60 BPM + 4:03+4:13
+    - v299 Eterno: male lyric TENOR + Italian + 64 BPM + (predicted 3:00+)
+
+  VOICE DIFFERENTIATION — 40TH orthogonal voice in 40 cycles. **FIRST
+  MALE OPERATIC VOICE** in the catalog. Cumulative ledger (abbreviated):
+    v260-v298: 39 prior voices spanning 29 languages, 39th was v298
+    female lyric soprano classical-crossover
+    v299 — male LYRIC TENOR CLASSICAL-CROSSOVER ITALIAN (bel canto
+           Italian-conservatoire technique + bright forward placement +
+           vowel purity in operatic lines + sustained classical vibrato +
+           chest-mix dynamic range from sotto voce to fortissimo
+           high-belt — the male operatic counterpart to v298's soprano,
+           same vocal-philosophy axis but opposite gender)
+  Style + exclude_styles block all 39 prior voice characters including
+  v298 explicitly.
+
+  LANGUAGE — 30th distinct language (or 30th classical-vocal-language
+  if Latin counted v298). Italian — the universal bel canto language,
+  natively classical-vocal-friendly. Lyric vocabulary uses authentic
+  Italian classical-crossover: "eterno è il mare, eterno il cielo"
+  (eternal is the sea, eternal the sky), "il vento che parla nel
+  silenzio" (the wind that speaks in the silence), "per monti, per
+  valli, per il mondo" (through mountains, valleys, the world),
+  "ho portato il tuo nome nel cuore profondo" (I carried your name in
+  the deep heart), "eterno è l'amore che non muore" (eternal is the
+  love that does not die), "per ogni secolo" (through every age),
+  "vivo, vivo, vivo" (I live, I live, I live), "vincit eterno"
+  (the eternal conquers — Latin-Italian crossover). Concept: classical-
+  crossover meditation on eternity — sea, sky, wind speaking through
+  silence, your name in my deep heart, "the eternal love that does not
+  die." Conceptually parallel to v298's lumen-aeternum.
+
+  **DURATION MODEL APPLIED** (per validated `feedback_silence_gate_
+  truncates.md` v3, confirmed at v298):
+  - Genre territory = cinematic classical-crossover (most reliable
+    long-form recipe per v298 4:03+4:13 confirmation)
+  - Architecture: late-vocal-entry + plateau-climax (v293/v298-validated)
+  - Same arc structure as v298 (piano alone → tenor → cello → strings →
+    build → orchestral climax with half-step ascent → plateau)
+  Expected: 3:00-4:13+ per the v298 validation.
+
+  BPM 64 — slightly faster than v298's 60 (60 was the slowest-ever; 64
+  is fresh in rotation and provides slight variation while keeping the
+  cinematic-slow tempo zone).
+
+  Key D minor — first reuse since v288 Israeli Mizrahi (11 cycles ago).
+  Walks well with bel canto melancholy + half-step ascent at climax.
+
+  Production palette pinned: "solo grand piano arpeggios + solo cello
+  melodic counterpoint + sustained string section + cathedral pipe
+  organ pad + sparse timpani roll at climax + NO drum kit." Same
+  cinematic-orchestral arrangement as v298. Negatives explicitly block
+  mainstream pop power ballad, Eurovision kitsch, generic film score,
+  Celtic Enya kitsch, male power-metal vocal — five adjacent failure
+  modes.
+
+  Title "Eterno" (Italian for "eternal") — 6 chars, MEME-able, Italian
+  classical-vocal concept word. Conceptually pairs with v298 "Lumen"
+  (Latin for "light") and the lyric "lumen aeternum" — together they
+  form the classical-crossover-pair-concept "eternal light."
+
+  Style char target: validated below 1000 via scripts/yaml_field_check.py.
+  Blocklist clean: NO "frisson" (CLAUDE.md trigger — removed). No
+  Andrea Bocelli, Il Divo, Sarah Brightman, Luciano Pavarotti, Plácido
+  Domingo, José Carreras, Russell Watson, Charlotte Church, Andrea
+  Griminelli, or other classical-crossover tenor artist names in style
+  field — preemptive removal per v274-v298 artist-trigger lesson
+  pattern.
+
+  VOCAL_GENDER UI CHECK: Per `feedback_vocal_gender_ui_quirk.md` (16-cycle
+  data, 69% correction rate, no predictive model), submitter MUST
+  verify Suno UI vocal_gender matches YAML (`male`) before Create.
