@@ -1,5 +1,12 @@
 # Cron failure log
 
+### 2026-06-02 — cron fire, no-op — v304 bridge still stuck
+
+Reason: `list_connected_browsers` returns Browser 1 with `connectedAt: 1780395121178` — the SAME timestamp logged across the three prior consecutive failed retries (retry-1, retry-2, retry-3). No fresh reconnect; Chrome MCP session has not been touched. Service Worker on suno.com/create is still in the deferred-navigation state diagnosed last cycle (one-screenshot-then-hang pattern).
+State: `prompts/ukufa-v304.yaml` still untracked, judged 97/100. Four consecutive submit attempts now blocked on the same Service Worker condition.
+Action taken: Logged. No submitter agent spawned (would only burn another full timeout chain on the same broken state). No commits beyond this entry.
+Next cycle should: Same short-circuit until `connectedAt` advances (indicating a fresh extension/Chrome session). User needs to manually clear the Service Worker per retry-3 entry: Chrome DevTools → Application → Service Workers → Unregister on the suno.com/create tab, OR clear all suno.com site data via chrome://settings/content/all, OR full Chrome restart. Once `connectedAt` changes, the next cycle can attempt the fresh-tab submit protocol again.
+
 ## 2026-06-01 — v281 failed mid-form (NO clips generated)
 
 Reason: Chrome MCP extension disconnected mid-form during v281 submit, BEFORE Create button was clicked. Submitter explicitly reports `Create NOT clicked` — server-side state unchanged.
