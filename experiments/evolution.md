@@ -352,6 +352,7 @@ mindmap
 | 305 | Khovu | Tuvan kargyraa throat-singing × morin khuur cinematic-ambient (steppe dawn, ABSOLUTE family-first Turkic-Tuvan) | D minor | 68 | morin khuur (catalog debut) + Mongolian end-blown bone flute (catalog debut) + bowed vibraphone |
 | 306 | Limani | Greek rebetiko cinematic ballad (1920s Piraeus harbor, ABSOLUTE family-first Greek language + heterophonic vocal-instrument unison-drift) | B minor Hijaz | 82 | bouzouki (catalog debut) + bağlama (catalog debut) + riq frame drum (catalog debut) |
 | 307 | Endecha | Sephardic Ladino neo-electronic ballad (1492 Toledo expulsion echo to Istanbul candlelit dusk, ABSOLUTE family-first Ladino + Phrygian female mezzo) | G minor Phrygian | 90 | qanun (catalog debut) + oud (catalog debut) + darbuka (catalog debut) |
+| 308 | Wayra | Andean Quechua huayno-noir orchestral (altiplano dawn, ABSOLUTE family-first Quechua + high-nasal mountain soprano) | C minor Dorian | 104 | charango (catalog debut) + siku (catalog debut) + bombo legüero (catalog debut) |
 
 ## Next-cycle priorities
 

@@ -1,0 +1,91 @@
+name: "wayra-v308"
+version: 308
+title: "Wayra"
+instrumental: false
+vocal_gender: female
+
+style: "Film score for Andean altiplano dawn — Cordillera silhouettes at 4000 metres, breath visible, a mountain soprano calling to the Apu before sunrise. Warm tape saturation, polished studio mix, wide stereo stage. C minor Dorian, 104 BPM, huayno long-short-short cell in 3/4. Trio: charango opens alone with dry bright metallic-twang picking; siku enters breathy and split-tone a minor third above; bombo legüero lands one deep resonant strike on beat one. Female Quechua mountain soprano — high nasal open-throat, retroflex aspirated stops, cascading penultimate-stress syllable tails, minimal vibrato. Voice enters sparse at 1:00 over low cello and bass barely above whisper; full bombo and bowed strings at 1:40 for the huayno refrán; charango and voice alone at 2:10 as key lifts to D minor Dorian; full ensemble at 2:30 with vocal ghost shadow, hard bombo stop closes. No guitars, no rock drums, no pipe organ, no synthesizers, no pop vocals."
+
+lyrics: |
+  [Charango huayno cell — solo, 8 bars]
+
+  [Siku enters minor third above, 8 bars]
+
+  [Bombo soft on beat one, 8 bars]
+
+  [Soprano enters sparse, 16 bars]
+  Wayra, wayra, ñuqa rikhurini —
+  Apu riqsiwarqanki, qasa tutamanta.
+  Puyu, puyu, killa llipyasqa —
+  Mama ayllu, ñawi wañuq inti.
+
+  [Refrán climax — full trio, 16 bars]
+  Wayra kanka, Apu kanka, yawar p'unchaw —
+  Warmi ñawi inti tiyasqa, huk tuta.
+  Wayra, wayra, ñuqa kani —
+  Apu riqsiwarqanki, mama, mama.
+
+  [Bridge — charango and voice, key lifts, 12 bars]
+  Tuta, tuta, p'unchaw hamuchkan —
+  Wayra, wayra, ñuqa kanka.
+
+  [Full ensemble return in D Dorian, 16 bars]
+  Wayra kanka, Apu kanka, yawar p'unchaw —
+  Warmi ñawi inti tiyasqa, huk tuta.
+  Ayllu, ayllu, mama ñawi —
+  Wayra, wayra, huk killa.
+
+  [Vocal ghost shadow, 8 bars]
+  Wayra, wayra, wayra kanka —
+  Ñuqa, mama, inti ayllu.
+
+  [Bombo hard stop, 4 bars]
+
+  [End]
+
+exclude_styles: "panpipe meditation, new age, flute of the Andes, world music spa, Andean spa, ocarina, pan flute ambient, Latin pop, salsa, dembow, reggaeton, cumbia, flamenco, flamenco guitar, Celtic, Enya new age, Eurovision pop, medieval RPG, generic film score ambient, cinematic ambient, intimate chamber, elegiac drone, Greek rebetiko, Sephardic Ladino, Tuvan throat singing, Georgian polyphony, isicathamiya, Arabic maqam, belly dance, klezmer, trap, rap, phonk, drill, EDM, electronic, lo-fi, acoustic guitar, rock, metal, pop rock, pipe organ, choir pop, jazz, free jazz, world music"
+
+notes: |
+  Huayno is the defining song-form of the Andean Quechua and Aymara people — a bimodal structure (verse and refrán) in 3/4 or 6/8, built on the long-short-short rhythmic cell, rooted in oral traditions across the Bolivian, Peruvian, and Ecuadorian highlands. The form predates European contact and absorbs Iberian string instruments (notably the charango, developed from the Iberian lute) into a fundamentally pentatonic Quechua melodic grammar. In the noir-orchestral frame used here, the huayno cell drives the rhythmic engine while the C minor Dorian mode — with its raised sixth (A natural) brightening the otherwise minor field — creates a modal color distinct from both Arabic maqam and European minor-key classifiers.
+
+  Concept source: Andean altiplano dawn at 4000 metres — dark Cordillera silhouettes, breath visible, a Quechua mountain soprano addressing the Apu (sacred mountain spirit) in the moment before sunrise. Quechua lyrics use the authentic vocabulary of wind (wayra), sky bodies (killa, inti, puyu), community (ayllu), and the sacred peak as witness.
+
+  This prompt echoes a lineage of Andean female vocalists whose high nasal open-throat placement and Quechua phonetic inventory defines the highland soprano tradition — none are named here per catalog discipline. The phonetic architecture is drawn from Quechua's typological features: absence of voiced stops (no phonemic /b d g/), retroflex and aspirated stop series (kh, t', k' released hard), and strong penultimate stress that creates cascading syllable tails — a rhythmic-phonetic fingerprint completely absent from all 48 prior voices including v307 Ladino mezzo, v306 Greek demotic baritone, v305 Tuvan kargyraa, and v304 Zulu isicathamiya.
+
+  Duration strategy: 104 BPM sits in the slow-to-mid band (≤115), where the playbook ceiling is approximately 3:30 regardless of bar count. Arc targets 3:00–3:30 with emotional density. Parametrized colon-syntax lyrics with bar counts provide per-section scaffolding (8+8+8+16+16+12+16+8+4 = 96 bars). Production tokens applied: warm tape saturation, polished studio mix, wide stereo stage. Sentence case throughout; atmospheric-first opening. No [Silence] metatag — sustained crescendo-modulation arc per feedback_silence_gate_truncates.md. Whole-step modulation (C minor Dorian → D minor Dorian) at 2:10 broadens the climax lift beyond the clichéd half-step.
+
+  Instruments and catalog gaps:
+  - charango: 10-string Andean lute developed from Iberian lute, bright metallic twang, catalog debut (zero prior appearances in 307 versions). Role: sole voice in intro, huayno-cell motor throughout, stripped-down bridge accompaniment.
+  - siku: Andean panpipes with breathy split-tone timbre, catalog debut (zero prior). Role: pentatonic countermelody a minor third above charango, call-response with soprano in the refrán.
+  - bombo legüero: Andean bass drum with deep resonant strike, catalog debut (zero prior). Role: single beat-one strike establishing the 3/4 pulse, full strumming in the refrán climax, hard stop on the final four bars.
+
+  Thin bowed string layer (cello + double bass) provides orchestral noir grounding — these ARE in the catalog but unused in the last several cycles, serving as weight anchor rather than featured voice.
+
+  Novelty claims: technique-novelty (huayno-noir form — 38th distinct language, Quechua, 1st Andean entry in catalog); all three featured instruments are catalog debuts; BPM 104 last used at v286 (22 cycles back, fresh); C minor Dorian last used at v287 (21 cycles back, fresh); scene (Andean altiplano dawn / Apu invocation / Cordillera silhouettes) — no prior Andean or Quechua entry in 307 versions. Vocal voice #49: female Quechua mountain soprano with high nasal open-throat placement, retroflex aspirated stops, cascading penultimate-stress syllable tails.
+
+  Final style char count: 943.
+
+tags:
+  - charango
+  - siku
+  - bombo-legüero
+  - cello
+  - double-bass
+  - 104bpm
+  - c-minor-dorian
+  - d-minor-dorian
+  - andean-altiplano-dawn-scene
+  - revival-charango-307-gap
+  - revival-siku-307-gap
+  - revival-bombo-307-gap
+  - new-technique
+  - huayno
+  - quechua
+  - andean
+  - 38th-language
+  - triple-catalog-debut
+  - female-soprano
+  - vocal-voice-49
+  - duration-3min
+  - research-driven
+  - vocal
