@@ -1,0 +1,145 @@
+name: "nila"
+version: 302
+title: "Nila"
+instrumental: false
+vocal_gender: male
+
+style: "Underscore for 3am Chennai coastal vigil. Marina Beach 3am — neon on sea-spray, last bus gone, moon over Natabhairavi-mode darkness. 94 BPM, C minor → D-flat minor at climax. Male Tamil rapper — chesty mid-low Chennai accent, rolling retroflex consonants (ழ /ɻ/, ட ண ள ற absent from prior catalog voices), syllabic flow, light Auto-Tune on hooks only. Nadaswaram carries ceremonial double-reed brightness (piercing nasal 1-4 kHz); veena answers with gamaka glides over the 808 sub. Production: minimalist Tamil indie-trap kit, deep 808 sub-bass, trap hi-hat triplets, sharp clap, wide stereo stage, warm tape saturation, coastal reverb. At 0:00 nadaswaram opens alone; 808 snaps at 0:25; veena counterpoint at 1:00; hook call-and-response at 1:30; climax ascent at 2:30; fade by 3:00. NOT Kollywood playback, NOT devotional temple, NOT Hindi film. No guitars, no rock drums, no pipe organ, no synthesizers, no Western strings."
+
+lyrics: |
+  [Intro — nadaswaram alone, 0:00-0:25]
+  நிலா... நிலா...
+
+  [Verse 1 — chesty Tamil rap, 0:30-1:00]
+  மூணு மணி ஆச்சு, மரீனா தனியா
+  கடல் காத்திருக்கு, நான் காத்திருக்கேன்
+  ஒரு MTC போச்சு, ஒரு MTC போச்சு
+  சென்னை தூங்குது, இரவு நீளுது
+
+  [Pre-Hook — veena enters, 1:00-1:30]
+  நிலா ஒளி, கடல் ஒலி
+  ஒரே ராத்திரி, தனியா நான்
+
+  [Hook — Tamil trap, nadaswaram call-response, 1:30-2:00]
+  நிலா, நிலா, நீ வருவாயா
+  நிலா, நிலா, கடல் சொல்லுது
+  நிலா, நிலா, காதல் போச்சு
+  நிலா, நிலா, இரவு மட்டும்
+
+  [Verse 2 — fuller flow, 2:00-2:30]
+  மழை வரலை, வேர்வை வருது
+  WhatsApp நிறுத்திச்சு, பார்க்க பயம்
+  ஒரு call போடணும், ஒரு call போடணும்
+  ஆனா மரீனா மட்டும் பதில் சொல்லுது
+
+  [Climax — full ensemble, harmonic ascent, 2:30-3:00]
+  நிலா, நிலா, நீ வருவாயா
+  நிலா, நிலா, சென்னை கேக்குது
+  நிலா, நிலா, காத்திருக்கேன்
+  நிலா, நிலா, இரவு... கடல்...
+
+  [Outro — fade with nadaswaram, 3:00]
+  நிலா...
+  [End]
+
+exclude_styles: "happy mainstream pop, country, gospel, classical Western, opera, broadway, jazz, soprano belt, husky contralto, kawaii, Latina sing-rap, drift phonk, smooth Punjabi sing-rap, K-pop, DnB, falsetto Afrobeats, Arabic mahraganat, dangdut, Türk trap, Persian tahrir, Greek modal belt, Mizrahi-pop, Romanian manele, Polish trap, Czech indie-trap, Russian shouty MC, French banlieue rap, gospel choir, neo-soul, bedroom-pop whisper, Hungarian indie-trap, hyperpop, k-pop, j-pop, salsa, dembow, EDM trance, Kollywood playback singer, Tamil cinema, devotional temple music, bharatanatyam, Hindi film, Punjabi bhangra, bhangra-trap, Saavan Punjabi, bollywood, Arabic, tribal, world music, electronic, new age, zen meditation, experimental noise, free jazz, atonal, microtonal"
+
+tags:
+  - nadaswaram
+  - veena
+  - minimalist-808-trap-kit
+  - 94bpm
+  - c-minor
+  - tamil-rap-chesty-male
+  - dravidian-phonetics
+  - tamil-lyrics
+  - carnatic-nadaswaram-debut
+  - carnatic-veena-debut
+  - marina-beach-scene
+  - viral-arm
+  - 32nd-distinct-language
+  - 43rd-orthogonal-voice
+  - new-technique
+  - research-driven
+  - vocal-male
+
+notes: |
+  VIRAL ARM cycle v302 — Tamil indie-trap / Chennai 3am Marina Beach.
+
+  TECHNIQUE: Tamil indie-trap fuses Carnatic classical instrumentation
+  (nadaswaram + veena) with contemporary trap production (808 sub-bass,
+  hi-hat triplets, sharp clap). The nadaswaram is a South Indian
+  double-reed aerophone — the loudest non-amplified wind instrument
+  globally, used in temple ceremonial contexts — here transposed to a
+  nocturnal Marina Beach scene. The veena is the primary plucked lute
+  of Carnatic music, distinct for gamaka ornaments: continuous microtonal
+  gliding slides impossible on fixed-pitch Western instruments. Both
+  instruments DEBUT in the catalog — zero prior appearances in 301 versions.
+
+  CONCEPT SOURCE (research-driven): Carnatic nadaswaram + veena melodic
+  counterpoint over 808 sub-bass + trap hi-hats, first Dravidian-language
+  entry in the catalog.
+
+  COMPOSER OMISSION CONFESSION: This concept echoes a Chennai-based
+  producer whose Tamil indie-rap work blended classical Carnatic timbres
+  with modern trap production — that producer's name is withheld per
+  artist-name blocklist discipline.
+
+  DURATION STRATEGY: Per validated trap/rap duration model (v286 Polish,
+  v297 Czech, v301 Hungarian precedents), genre-territory renders 1:30-2:00.
+  Accepting this as honest outcome. ARC timestamps in style + parametrized
+  lyric section labels with timestamps are the primary duration anchors.
+  Two body instruments (nadaswaram and veena — both acoustic body-resonance
+  instruments) satisfy the ≥2 body voice rule. Sentence case throughout
+  style. Atmospheric-first opening (Marina Beach 3am before production
+  tokens). Production tokens used: "wide stereo stage", "warm tape
+  saturation", "low coastal reverb".
+
+  INSTRUMENTS:
+  - Nadaswaram (catalog debut, gap ∞): ceremonial double-reed nasal
+    brightness carrier, 1-4 kHz peak, piercing overtone presence — states
+    theme alone in intro, returns for hook call-and-response at 1:30.
+  - Veena (catalog debut, gap ∞): plucked Carnatic lute with gamaka
+    microtonal slides, enters at 1:00 as melodic counterpoint to the
+    rap verse, sustains into climax harmonic ascent at 2:30.
+  - Minimalist 808 trap kit: 808 sub-bass drives harmonic low-end in
+    C minor / Natabhairavi-mode coloring; trap hi-hat triplets + sharp
+    clap define rhythmic grid from 0:25 onward.
+
+  VOICE DIFFERENTIATION — 43RD orthogonal voice in 43 cycles.
+  Male Tamil rapper — chesty mid-low Chennai accent with Dravidian
+  retroflex phoneme inventory: ழ /ɻ/ (Tamil-specific rhotic absent from
+  all Indo-European languages and prior catalog voices), ட ண ள ற
+  alveolar/retroflex set. Dravidian is completely unrelated to all 42
+  prior catalog language families (Finno-Ugric, Slavic, Romance,
+  Germanic, Semitic, Japonic, Sino-Tibetan, Koreanic, Turkic,
+  Niger-Congo, etc.).
+
+  LANGUAGE: Tamil (Tamil script தமிழ்) — 32nd distinct language.
+  Vocabulary: நிலா (nila/moon), மரீனா (Marina), சென்னை (Chennai),
+  கடல் (kadal/sea), காதல் (kadhal/love), மழை (mazhai/rain),
+  ராத்திரி (rathri/night), தனியா (taniya/alone), இரவு (iravu/night),
+  காத்திருக்கேன் (kaathirukken/I wait). Concept: 3am Marina Beach —
+  moon over sea, last MTC bus gone, WhatsApp left unread, alone waiting
+  in the warm coastal night.
+
+  NOVELTY: BPM 94 — one prior use at v131 (170 cycles ago, extremely
+  fresh). Key C minor — last used v287 (14 cycles back), maps directly
+  to Carnatic Natabhairavi raga (natural minor equivalent). Scene:
+  Marina Beach Chennai 3am — zero prior appearances. Both instruments
+  debut. First Dravidian-language entry. 32nd distinct language.
+  43rd orthogonal voice.
+
+  BLOCK RATIONALE: exclude_styles adds Tamil-specific drift blocks:
+  Kollywood playback singer, Tamil cinema, devotional temple music,
+  bharatanatyam, Hindi film, Punjabi bhangra, Saavan Punjabi (CRITICAL
+  — prevents Tamil collapsing into v276 Hindi/Punjabi territory),
+  bollywood. Artist names withheld from style field per v274-v301
+  artist-trigger lesson pattern.
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md
+  (17-cycle data, 69% correction rate), submitter MUST verify Suno UI
+  vocal_gender matches YAML (male) before Create.
+
+  Style: 920 chars. Exclude_styles: 765 chars. Lyrics: 836 chars.
+  All fields validated via yaml_field_check.py inspect. Blocklist clean.
