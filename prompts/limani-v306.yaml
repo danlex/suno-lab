@@ -1,0 +1,237 @@
+name: "limani"
+version: 306
+title: "Limani"
+instrumental: false
+vocal_gender: male
+
+style: "Film score for 1920s Piraeus harbour scene — salt air, fishing boats, mangas in the taverna. Mournful ~3:00 arc of exile and longing. Bouzouki and bağlama open alone at 0:00: same melody a comma apart, dry heterophonic unison, warm beating resonance. 82 BPM, B minor, Hijaz mode — raised third giving each phrase a humid ache. Polished studio mix, deep low-end definition, lush acoustic ambience of harbour stone. Greek demotic male baritone enters at 0:50, chest voice riding the bouzouki in heterophonic drift, microtonal slides on long vowels, no Western vibrato. Low pizzicato strings join; riq frame drum marks downbeats, light jingles, nothing dominant. Bouzouki solo at 2:00, ornamental fourth held on penultimate. Voice and full texture reunite on unresolved VII — A major over B minor tonic, harbour still open. Wide stereo stage, warm tape saturation. No guitars, no rock drums, no pipe organ, no synthesizers, no electronic percussion."
+
+lyrics: |
+  [Bouzouki + bağlama duet: heterophonic unison, dry, 8 bars]
+  λιμάνι...
+  Πειραιάς...
+
+  [Duet develops: same phrase, comma-drift widens, 8 bars]
+  θάλασσα...
+  βάρκα...
+  λιμάνι...
+
+  [Voice enters heterophonic: baritone on bouzouki line, 8 bars]
+  Λιμάνι μου, Πειραιάς
+  θάλασσα βαριά
+  βάρκα στη νύχτα
+  ψυχή μου, αύριο
+
+  [Vocal-instrument drift: voice slides off unison, 10 bars]
+  ξενιτιά, αγάπη
+  λιμάνι μου
+  θάλασσα, ψυχή
+  Πειραιάς, βάρκα
+  αύριο, αγάπη
+
+  [Low strings + riq enter: texture thickens, tempo holds, 10 bars]
+  Λιμάνι μου, ξενιτιά
+  θάλασσα, αύριο
+  βάρκα μακριά
+  ψυχή μου, αγάπη
+  λιμάνι, Πειραιάς
+
+  [Deeper drift: voice and bouzouki comma apart, 8 bars]
+  ξενιτιά...
+  αγάπη...
+  θάλασσα...
+  λιμάνι...
+
+  [Bouzouki solo ascent: ornamental ascending fourth, 10 bars]
+  λιμάνι...
+  Πειραιάς...
+  θάλασσα...
+
+  [Final unison reunion: voice + full texture, 10 bars]
+  Λιμάνι μου, αγάπη
+  θάλασσα βαριά
+  ψυχή μου, ξενιτιά
+  βάρκα στη νύχτα
+  Πειραιάς, λιμάνι
+
+  [Outro on unresolved VII: A major over B minor, held, 6 bars]
+  λιμάνι...
+  αγάπη...
+
+  [End]
+
+exclude_styles: "Greek laïká pop, rebetiko folk-pop, Zorba tourist cliché, Mediterranean tourist kitsch, taverna sing-along, oud solo, belly dance, Turkish café music, Arabic maqam, Arabic mahraganat, Persian tahrir, Mizrahi-pop, Andalusian flamenco, gypsy jazz, klezmer, vocal cabaret, chanson singer, Tuvan khoomei, Mongolian throat-singing, Zulu isicathamiya choral, Georgian sacred polyphony, Bulgarian women's voices, bel canto operatic aria, classical crossover soprano, Celtic folk Enya kitsch, Eurovision Scandi kitsch, Nordic noir, generic film score orchestral, cinematic ambient, intimate chamber, elegiac, South African mbube, Romanian manele, Polish trap, Czech indie-trap, Russian shouty MC, French banlieue rap, hyperpop, k-pop, j-pop, salsa, dembow, EDM trance, drift phonk, trap, drill, rap, rock, metal, lo-fi, Arabic, tribal, world music, electronic, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+
+tags:
+  - bouzouki
+  - baglama
+  - riq
+  - 82bpm
+  - b-minor
+  - hijaz-mode
+  - piraeus-port-dusk-scene
+  - greek-demotic-male-baritone
+  - heterophonic-vocal-instrument-unison-drift
+  - greek-lyrics
+  - bouzouki-catalog-debut
+  - baglama-catalog-debut
+  - riq-catalog-debut
+  - revival-bouzouki-306-gap
+  - revival-baglama-306-gap
+  - revival-riq-306-gap
+  - 36th-distinct-language
+  - 47th-orthogonal-voice
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental-false
+  - vocal-male
+
+notes: |
+  v306 "Limani" — Greek rebetiko cinematic ballad. ABSOLUTE CATALOG DEBUT:
+  zero Greek-language entries and zero bouzouki / bağlama / riq instruments
+  across all 305 prior versions. 36th distinct language (Greek). 47th
+  orthogonal voice (Greek demotic male baritone with heterophonic vocal-
+  instrument unison-drift and Hijaz-mode ornaments).
+
+  TECHNIQUE: Heterophonic unison-drift is a core feature of rebetiko and
+  Greek demotic music: the vocalist and the lead melodic instrument (here
+  bouzouki) play or sing the SAME melodic line simultaneously, but each
+  with their own natural ornamentation, microtonal tuning, and rhythmic
+  flexibility. The two voices never lock into exact unison — they hover
+  a comma apart, creating a warm, slightly shimmering beating resonance
+  that is the acoustic signature of the tradition. When the human voice
+  enters over an already-established bouzouki line, the drift begins
+  immediately: the vocalist ornaments long vowels with microtonal slides
+  (characteristic of Greek demotic inflection), slightly anticipates or
+  delays phrase turns, and never adopts the clean straight tone of Western
+  art-song. The result is not harmony (both voices are on the same pitch
+  class) and not unison (they are measurably apart) — it is the third
+  thing: heterophonic drift.
+
+  The Hijaz mode (B-D-D#-F#-A spelling in B minor context) provides the
+  raised third (D#/Eb) that colors each phrase with the Mediterranean
+  modal ache characteristic of rebetiko — distinct from plain natural minor,
+  giving the melody its characteristic augmented second between the second
+  and raised third degree.
+
+  CONCEPT SOURCE: Greek rebetiko heterophonic vocal-instrument unison-drift
+  with Hijaz mode inflection, 1920s Piraeus port at dusk, trio of bouzouki +
+  bağlama + riq frame drum. The heterophonic drift technique was not used in
+  any prior cycle across 305 versions.
+
+  COMPOSER OMISSION CONFESSION: This concept draws on a mid-20th century
+  urban Greek working-class musical tradition whose most iconic recording
+  artists and the port-city (Piraeus, Thessaloniki, Smyrna) style they
+  developed are withheld per artist-name blocklist discipline. The
+  heterophonic vocal-instrument drift is the instrument — no individual
+  compositional voice is named. The exclude_styles list blocks proper-noun-
+  adjacent tags (Zorba tourist cliché, Greek laïká pop, taverna sing-along)
+  to prevent auto-classifier artist-match drift.
+
+  DURATION STRATEGY: BPM 82 = slow-BPM territory (<=115 caps at ~3:30 per
+  v254 BPM-ceiling data). Target 3:00–3:30. Not fighting the ceiling —
+  optimizing emotional density via heterophonic layer accumulation. Playbook
+  moves applied:
+  - Parametrized colon-lyrics with bar counts per section (9 sections)
+  - Production tokens: "polished studio mix", "deep low-end definition",
+    "lush acoustic ambience", "wide stereo stage", "warm tape saturation"
+    (5 tokens — maximum density)
+  - Trio voice analysis: bouzouki (plucked string body resonator — body
+    voice), bağlama (plucked string body resonator — body voice), riq (frame
+    drum body resonator — body voice). ALL THREE are body voices; zero
+    spectral picks in this trio. Exceeds >=2 body voice requirement.
+  - Sentence case throughout style, no ALL-CAPS form labels
+  - Atmospheric-first opening (Piraeus port at dusk before production
+    tokens or BPM)
+  - No [Silence] metatag anywhere — hardened rule per v290+v303+v304+v305
+    cross-genre confirmation; arc uses additive layering and reverse-
+    simplification coda instead
+  - Total lyric bars: approximately 78 bars at 82 BPM targeting 3:00–3:15
+    wall clock; consistent with slow-BPM ceiling (3:30 max)
+  - Vocal enters at second section (bars 17–24), allowing instruments to
+    establish the heterophonic texture before drift begins
+  - Arc: bouzouki + bağlama duet alone (8+8=16 bars) → voice enters with
+    heterophonic drift (8+10=18 bars) → low strings + riq join texture
+    (10+8=18 bars) → bouzouki solo ascent (10 bars) → final unison reunion
+    (10 bars) → unresolved VII outro (6 bars) = 78 bars total
+  - Unresolved VII chord (A major over B minor tonic) as ending: avoids the
+    silence+half-step-up cliché overused v216–v219; the harmonic suspension
+    is the arc's emotional conclusion
+
+  INSTRUMENTS:
+  - Bouzouki (catalog debut, gap 306 cycles): 8-string Greek long-neck lute
+    in courses of two, metallic nasal tone with bright sustain on plucked
+    notes. The primary melodic voice of the rebetiko tradition — its timbre
+    is recognizably Greek, cutting through without masking the voice. Opens
+    the duet alone, rides the heterophonic drift with the voice, solos with
+    an ornamental ascending fourth at 2:00, and rejoins the final unison
+    reunion. First appearance in 305-version catalog.
+  - Bağlama (catalog debut, gap 306 cycles): smaller, higher-pitched fretted
+    cousin of the bouzouki, with a drier and slightly more nasal tone. In the
+    opening duet, provides a second voice on the same melodic line — also a
+    comma apart from the bouzouki, creating a layered three-way drift once the
+    vocal enters. Functions as inner harmonic texture rather than counterpoint.
+    First appearance in 305-version catalog.
+  - Riq (catalog debut, gap 306 cycles): Egyptian/Greek small frame drum
+    (approximately 20 cm diameter) with metal jingles mounted in the wooden
+    frame. In rebetiko, the riq marks the zeibekiko/hasapiko downbeat with a
+    dry tap — never dominant percussion, more like a breath-accent. Enters when
+    the low pizzicato strings join, provides the zeibekiko downbeat pulse from
+    that point through the final reunion. First appearance in 305-version
+    catalog.
+
+  VOICE DIFFERENTIATION — 47th orthogonal voice. Greek demotic male baritone
+  with heterophonic vocal-instrument unison-drift: chest-mid register (G2–G4),
+  mournful quality, ornamental microtonal slides on long-vowel sustains, no
+  Western vibrato or straight classical tone production. Distinct from all 46
+  prior voices via: (1) heterophonic drift — voice and bouzouki play the same
+  melody simultaneously but measurably apart, creating a beating resonance that
+  is neither unison nor harmony; (2) Greek demotic ornament style — microtonal
+  slides on long vowels (αυ, ευ, ου, αι clusters), not melisma and not
+  straight tone; (3) Hijaz mode — the raised third degree colors both the
+  vocal line and the instrumental phrase with modal ache foreign to any prior
+  voice in the catalog; (4) Greek origin — zero prior Greek-language entries
+  across 305 versions.
+
+  LANGUAGE: Greek (Ελληνικά) — 36th distinct language. Vocabulary used:
+  "λιμάνι" (limani / harbor, port — central rebetiko trope), "Πειραιάς"
+  (Piraeus — the port city, geographic anchor), "θάλασσα" (thalassa / sea),
+  "βάρκα" (varka / boat), "αύριο" (avrio / tomorrow), "αγάπη" (agapi / love),
+  "ψυχή" (psyhi / soul), "ξενιτιά" (xenitia / exile, being far from home),
+  "νύχτα" (nyhta / night), "μακριά" (makria / far away), "βαριά" (varia /
+  heavy — as in heavy sea, heavy heart). Concept: 1920s Piraeus port at dusk,
+  exile and longing, the sea remembers, the harbour never sleeps. Words used
+  as breath-anchors on sustained long vowels, consistent with demotic ornament
+  architecture.
+
+  BLOCK RATIONALE: exclude_styles blocks all identity-adjacent classifier
+  triggers: Greek laïká pop / rebetiko folk-pop / taverna sing-along (prevent
+  tourist-pop auto-tag); Zorba tourist cliché (researcher instruction — avoid
+  the thematic signature that would trigger the most recognizable Greek film
+  soundtrack); oud solo / belly dance / Turkish café music / Arabic maqam
+  (prevent cross-cultural drift — rebetiko is Greek urban blues, NOT Arabic
+  despite the Hijaz mode coloring); Tuvan/Mongolian/Georgian/Zulu/Bulgarian
+  (prevent drift to v303/v304/v305 prior lanes); bel canto/crossover (prevent
+  v298–v300 lane drift); gypsy jazz / klezmer / chanson / vocal cabaret
+  (prevent drift on the "Mediterranean vocal" axis); cinematic ambient /
+  intimate chamber / elegiac (playbook rule 10 — block the classifier tags
+  that compress render duration for reflective concepts at slow BPM).
+
+  NOVELTY: BPM 82 — new BPM (last use v284, 22 cycles ago — fresh). Key B
+  minor with Hijaz mode — last B minor at v296 (10 cycles ago, fresh). Scene:
+  1920s Piraeus port at dusk, exile and longing — zero prior appearances.
+  Bouzouki catalog debut. Bağlama catalog debut. Riq catalog debut. 36th
+  distinct language (Greek). 47th orthogonal voice (heterophonic unison-drift
+  with Hijaz demotic ornaments). Zero prior Greek-language or rebetiko entries
+  across 305 versions.
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md (17-cycle
+  data, 69% correction rate), submitter MUST verify Suno UI vocal_gender
+  matches YAML (male) before Create. The Greek demotic baritone requires a
+  mid-chest male register — UI must read Male.
+
+  Style: 947 chars. All fields validated via yaml_field_check.py inspect.
+  Blocklist clean. Three body voices (bouzouki + bağlama + riq — all body
+  resonators, zero spectral picks). No [Silence] metatag anywhere in lyrics.

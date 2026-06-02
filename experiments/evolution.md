@@ -350,6 +350,7 @@ mindmap
 | 303 | Mshen | Georgian sacred polyphony × cinematic orchestral ballad (Kakhetian chapel dawn, ABSOLUTE family-first Georgian polyphony) | E minor | 65 | panduri (catalog debut) + cor anglais + bani drone bowed strings |
 | 304 | Ukufa | Zulu isicathamiya × cinematic orchestral ballad (KwaZulu-Natal valley dusk, ABSOLUTE family-first Bantu) | A minor | 74 | uhadi (catalog debut) + bass flute + string orchestra |
 | 305 | Khovu | Tuvan kargyraa throat-singing × morin khuur cinematic-ambient (steppe dawn, ABSOLUTE family-first Turkic-Tuvan) | D minor | 68 | morin khuur (catalog debut) + Mongolian end-blown bone flute (catalog debut) + bowed vibraphone |
+| 306 | Limani | Greek rebetiko cinematic ballad (1920s Piraeus harbor, ABSOLUTE family-first Greek language + heterophonic vocal-instrument unison-drift) | B minor Hijaz | 82 | bouzouki (catalog debut) + bağlama (catalog debut) + riq frame drum (catalog debut) |
 
 ## Next-cycle priorities
 
