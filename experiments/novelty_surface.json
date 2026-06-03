@@ -1,6 +1,6 @@
 {
-  "total_prompts": 325,
-  "latest_version": 325,
+  "total_prompts": 326,
+  "latest_version": 326,
   "instruments": {
     "piano": [
       1,
@@ -220,7 +220,8 @@
       316,
       321,
       322,
-      324
+      324,
+      326
     ],
     "timpani": [
       15,
@@ -687,6 +688,15 @@
       228,
       243
     ],
+    "trumpet": [
+      83,
+      92,
+      130,
+      193,
+      222,
+      255,
+      326
+    ],
     "accordion": [
       204,
       205,
@@ -726,14 +736,6 @@
       185,
       209,
       223
-    ],
-    "trumpet": [
-      83,
-      92,
-      130,
-      193,
-      222,
-      255
     ],
     "viola": [
       45,
@@ -1043,7 +1045,8 @@
       312,
       316,
       317,
-      319
+      319,
+      323
     ],
     "neoclassical": [
       1,
@@ -1084,21 +1087,16 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257,
-      324,
-      325
-    ],
-    "symphonic": [
-      162,
-      178,
-      311,
       314,
-      318,
-      320,
-      322
+      324,
+      325,
+      326
     ],
     "trap": [
       264,
@@ -1122,21 +1120,24 @@
       280,
       292
     ],
+    "symphonic": [
+      311,
+      318,
+      320,
+      322
+    ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
     "baroque": [
       188,
       191
     ],
-    "concerto": [
-      145,
-      149
-    ],
     "drone": [
       304,
       305
-    ],
-    "minimalist": [
-      201,
-      323
     ],
     "passacaglia": [
       111,
@@ -1161,11 +1162,11 @@
     "lo-fi": [
       296
     ],
+    "minimalist": [
+      201
+    ],
     "progressive house": [
       96
-    ],
-    "romantic": [
-      313
     ],
     "synthwave": [
       1
@@ -1230,7 +1231,8 @@
       299,
       305,
       318,
-      323
+      323,
+      326
     ],
     "c minor": [
       15,
@@ -1750,7 +1752,8 @@
       65,
       267,
       295,
-      312
+      312,
+      326
     ],
     "93": [
       208
@@ -2055,6 +2058,18 @@
   },
   "titles": [
     {
+      "version": 326,
+      "title": "Duro",
+      "name": "duro-v326",
+      "featured": [
+        "trumpet",
+        "cello"
+      ],
+      "genre": "cinematic",
+      "key": "d minor",
+      "bpm": 92
+    },
+    {
       "version": 325,
       "title": "Nagori",
       "name": "nagori-v325",
@@ -2080,7 +2095,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -2175,7 +2190,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": "b minor",
       "bpm": 100
     },
@@ -3724,7 +3739,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3875,7 +3890,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -3996,7 +4011,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -4032,7 +4047,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

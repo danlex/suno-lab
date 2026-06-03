@@ -1,0 +1,172 @@
+name: "duro-v326"
+version: 326
+title: "Duro"
+instrumental: false
+vocal_gender: male
+
+style: "Afro-soul cinematic ballad, tender and unhurried — a Lagos balcony at golden hour, slow ceiling fan, the city humming below while a man waits for a call that may not come. Polished studio mix, warm tape saturation, wide stereo stage. D minor lifting to Eb minor at the chorus, 92 BPM mid-tempo pulse. Talking drum opens alone — dry, present, pitch-bending Yoruba call into silence. Male Afro-soul tenor enters in Pidgin English, warm and intimate, never belted. Cello counterline shadows the vocal a third below in long sighing phrases, a second voice leaning close. Muted trumpet arrives mid-song — Harmon-mute tone, weaving between vocal lines as countermelody, not lead. Sparse string section swells at chorus only. The ending is recession: strings drop away, cello returns alone, talking drum closes the track. No guitars, no rock drums, no pipe organ, no synthesizers. Underscore for a Lagos golden-hour longing scene."
+
+lyrics: |
+  [Talking drum solo intro, 0:00-0:35]
+
+  [Verse 1 — Pidgin vocal, cello counterline, 0:35-1:20]
+  I dey here on the balcony
+  the city slow beneath me
+  golden hour na e dey go
+  your name still on my screen, o
+  wahala no catch me yet
+  I dey wait, I dey wait
+  ceiling fan dey turn
+  ko ye mi why you quiet
+
+  [Muted trumpet countermelody enters, 1:20-1:50]
+  the trumpet dey call low
+  se daada where you are
+  I dey hold the evening still
+  Lagos hum like prayer
+
+  [Pre-chorus lift, 1:50-2:00]
+  the light dey change now
+  I feel the hour shift
+
+  [Chorus 1 — Yoruba hook, half-step lift to Eb minor, 2:00-2:40]
+  duro, duro
+  the city waits with me
+  duro, duro
+  yawa no come near
+  duro, duro
+  the night still long
+  se daada — se daada
+  I dey wait for you
+
+  [Stripped outro — cello alone, talking drum closes, 2:40-3:05]
+  duro...
+  I dey wait
+  duro...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac neoclassical, power ambient, ambient drone, Indian classical, Hindustani, sitar, tabla, raga, pipe organ, EDM, electronic lead, synthesizer lead, Afrobeats, amapiano, Afropop, West African folk, club Afrobeats, highlife, juju music, Fela-style, Afrobeats 2.0, dance Afrobeats, drums-heavy Afrobeats, South African house, gqom, Afro-fusion club, Latin sad-trap, sad-trap, 808, trap, phonk, drift phonk, drill, grime, UK drill, anime ballad, J-pop, K-pop, operatic tenor, bel canto, heldentenor, countertenor, symphonic metal, sacred minimalism, Gregorian chant, monumental orchestral, ceremonial march, festival arrival, choral eruption, autotune, gospel choir, hi-hat rolls, dembow, reggaeton"
+
+notes: |
+  Afro-soul as a distinct sub-genre sits at the intersection of traditional Yoruba
+  musical sensibility and contemporary cinematic soul production — characterized by
+  live-band warmth, sparse percussion rooted in talking-drum call-and-response, and
+  intimate male tenor vocal delivery that blends Pidgin English conversational phrasing
+  with Yoruba hook phrases. The 2026 TikTok Afrobeats shift is well-documented:
+  high-energy dance Afrobeats has plateaued as a TikTok sound, while mood-first
+  "quiet luxury" Afro-soul edits — soulful live-band arrangements with cinematic
+  strings, intimate vocals, and no drum-kit machinery — are the emergent dominant
+  aesthetic in the segment. This is categorically distinct from club Afrobeats
+  (drum-heavy, high-BPM dance), amapiano (South African log-drum), and generic
+  Afropop commercial product.
+
+  Concept source (researcher): v326 "Duro" — Afro-soul cinematic ballad × live-band
+  warmth. Third viral pivot after v324 Latin sad-trap and v325 anime ballad. Maximally
+  differentiates from both: different language (Pidgin English + Yoruba vs Spanish vs
+  Japanese), different gender (male tender Afro-soul tenor vs male half-spoken
+  sad-trap vs female seiyuu soprano), different genre family (Afro-soul vs sad-trap
+  vs anime ballad), different production palette (talking drum + muted trumpet +
+  cello vs 808 + cello + guitar vs piano + strings + oboe). Scene: a balcony in Lagos
+  at golden hour, slow ceiling fan, the city humming below — a man waiting for a phone
+  call that may not come. Patience as the dominant emotional state. "Duro" (Yoruba)
+  means wait / stay / endure — four characters, single word, MEME-able, evokes
+  longing and patience without any artist-trigger risk.
+
+  Composer-omission: this cycle inhabits a production territory defined by a small
+  number of Lagos-based and diaspora Afro-soul artists whose catalog names are withheld
+  per discipline. Their shared sonic grammar — talking drum as structural anchor,
+  muted trumpet as intimate countermelody, cello as the weeping shadow voice, male
+  tenor in conversational Pidgin English with Yoruba chorus phrases — is cited here
+  as genre context without attribution.
+
+  Duration strategy: this is a VIRAL ARM cycle per feedback_viral_arm.md. The
+  playbook's duration-maximizing constraints (Build/Silence/Drop stack, 240+ bars,
+  BPM 130-160) are SUSPENDED. Target is 2:45-3:15 — Afro-soul live-band form factor.
+  At 92 BPM the Afro-soul classifier may cap lower than anime ballad; the arc is
+  designed to feel complete at ~3:00 without fighting the ceiling. NO [Silence]
+  metatag per feedback_silence_gate_truncates.md. Colon-syntax lyrics with timestamp
+  anchors and 2-6 word descriptor labels per feedback_lyrics_balance.md. Production
+  tokens: polished studio mix, warm tape saturation, wide stereo stage (three tokens,
+  playbook rule 2). Atmospheric-first opening anchors "Afro-soul cinematic ballad"
+  in the first clause — fresh classifier territory, no prior catalog use of this
+  sub-genre. Sentence case throughout; no ALL-CAPS form labels. The emotional arc
+  ends in RECESSION not crescendo: the outro strips to cello and talking drum alone,
+  which is genre-correct for quiet-luxury Afro-soul and differentiates sharply from
+  the anime ballad's crystalline sustained fade and the sad-trap's held chord swell.
+
+  Instruments with catalog gaps:
+  - talking drum (dundun) (Yoruba body-voice percussion; CATALOG DEBUT — never used
+    in 325 prior versions): the Yoruba pressure-drum with pitch-bending capability
+    is the structural and timbral anchor for this arrangement. Opens the track alone
+    for 35 seconds — establishing the genre frame before any other element enters.
+    Call-and-response with the silence throughout. Returns at the very end to close
+    the track alone. No prior catalog occurrence of any talking drum variant.
+  - muted trumpet (warm body-voice brass; last trumpet v255, gap 71 — deep revival;
+    "muted" framing is fresh — not the bright lead trumpet used in v83/v92/v130/
+    v193/v222/v255): Harmon-mute or cup-mute tone gives a warm, subdued, intimate
+    quality categorically different from open trumpet. Enters at 1:20 as countermelody,
+    weaving between vocal phrases — never the lead, always the second voice. The
+    jazz-adjacent Harmon-mute tone is characteristic of soul and quiet-luxury Afro-soul
+    production; it reads as "memory" or "distance" rather than announcement.
+  - cello counterline (string body-voice; cello last v324, gap 2 — fresh framing as
+    COUNTERLINE shadowing the vocal a third below): the "counterline" role is
+    categorically different from v324's cello-as-emotional-lead-melody and v322/v321
+    pizzicato rhythmic role. Here the cello leans a major or minor third beneath the
+    vocal throughout verses, creating a duet shadow that never overshadows. Moves to
+    the outro alone as the final body voice when strings drop away.
+
+  Vocal direction: male Afro-soul tender tenor. 65th orthogonal vocal architecture
+  in the catalog. Warm register in the mid-low range, intimate and unhurried —
+  conversational Pidgin English phrasing in verses, Yoruba hook phrases at chorus.
+  Sighing intimate delivery: not the power-belted Afrobeats chest voice, not the
+  half-spoken intimate-raw of v324's sad-trap tenor, not the crystalline seiyuu
+  restraint of v325. The defining character is patience: the voice does not press,
+  does not strain, inhabits the waiting. Distinct from v324 Spanish sad-trap tenor
+  (intimate-raw, conversational-spoken), v320 heldentenor (dramatic baritonal), v322
+  countertenor (falsetto), v299 bel canto Italian tenor, v323 lyric soprano, v325
+  seiyuu-adjacent female soprano. First Pidgin-English-Yoruba bilingual tender Afro-soul
+  tenor in the catalog.
+
+  Novelty claims: genre-novelty (Afro-soul cinematic ballad — first use of this
+  specific sub-genre in the catalog; maximally distinct from v270 club Afrobeats
+  "Wahala" which used drum-kit-anchored dance energy); voice-novelty (65th orthogonal
+  vocal architecture: male Afro-soul tender tenor, Pidgin English + Yoruba bilingual,
+  patience-as-emotional-state register — zero prior catalog occurrence); instrument-debut
+  (talking drum / dundun — catalog debut, first appearance in 325 versions);
+  instrument-revival (muted trumpet — last trumpet v255, gap 71, deep revival in
+  Harmon-mute framing never previously used); BPM-revival (92 BPM last v312, gap 14
+  — fresh-ish, mid-tempo intimate pulse); key-novelty (D minor last v305, gap 21 —
+  fresh; Eb minor as landing key — first Eb minor in the catalog); scene-novelty
+  (Lagos balcony at golden hour, ceiling fan, waiting for a call — no prior catalog
+  scene with this architecture of patient urban solitude); concept-novelty
+  (viral-arm Afro-soul live-band ballad — fourth viral-arm cycle in catalog history
+  after v260, v324, v325).
+
+  Final style char count: 933.
+
+tags:
+  - talking-drum
+  - muted-trumpet
+  - cello-counterline
+  - 92bpm
+  - d-minor
+  - eb-minor
+  - lagos-balcony-golden-hour-scene
+  - debut-talking-drum
+  - revival-trumpet-71-gap
+  - revival-cello-2-gap
+  - revival-92bpm-14-gap
+  - new-technique
+  - afro-soul
+  - afro-soul-cinematic-ballad
+  - viral-arm
+  - 65th-vocal-architecture
+  - pidgin-english-yoruba
+  - tender-afro-soul-tenor
+  - short-form-format
+  - tiktok-form-factor
+  - duration-3min
+  - research-driven
+  - vocal
+  - rule-override-viral-arm
