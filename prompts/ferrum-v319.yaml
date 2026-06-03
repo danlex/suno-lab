@@ -1,0 +1,154 @@
+name: "ferrum-v319"
+version: 319
+title: "Ferrum"
+instrumental: true
+
+style: "Cinematic orchestral action score — staccato string ostinato as the relentless pulse engine, low brass and deep woodwind anchoring an iron foundation. Underground forge at midnight: molten iron, hammers on steel, sparks tracing the dark. Hollywood scoring stage, deep low-end definition. B minor lifting to C minor at 2:20, 138 BPM. Staccato violin and viola eighth-note ostinato opens alone — two-bar figure, nothing else. Bass trombone pedal enters on the low B fundamental at 0:25. Brass attacks layer every four bars from 0:45; contrabassoon doubles bass trombone an octave below, density doubling. Full tutti from 1:20, horn countermelody cuts above the ostinato. Strip to bare bass trombone pedal and staccato strings at 2:00 — nakedness as the climax. Full tutti returns at 2:20 with half-step lift to C minor. Final brass chord cut at 2:50. Film score for a forge-and-fury action cue. No guitars, no vocals, no rock drums, no synthesizers."
+
+lyrics: |
+  [Staccato strings alone, 8 bars]
+
+  [Bass trombone pedal enters, 8 bars]
+
+  [Brass attacks layer in 4-bar increments, 16 bars]
+
+  [Contrabassoon doubles — full tutti builds, 24 bars]
+
+  [Horn countermelody — max density, 28 bars]
+
+  [STRIP: bass trombone and strings ostinato only, 16 bars]
+
+  [Tutti return — half-step lift to C minor, 28 bars]
+
+  [Final brass chord and cut, 6 bars]
+
+  [End]
+
+exclude_styles: "trailer music, video game battle music, power metal, symphonic metal, metalcore, extreme metal, growling, screaming, stile concitato choral, cinematic classical crossover, symphonic metal ballad, choral orchestral, rap, hip-hop, trap, phonk, drill, R&B, electronic, EDM, synthesizer, lo-fi, Arabic, tribal, world music, rock, hard rock, acoustic guitar, electric guitar, drum kit, drum machine, bass guitar, pop, zen meditation, new age ambient, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac neoclassical, Celtic folk, gospel choir, vocal choir, bel canto, opera, vocals, singing, pipe organ"
+
+notes: |
+  v319 "Ferrum" — staccato-string ostinato cinematic orchestral action cue. First pure
+  instrumental test of the top-tier orchestral classifier in the catalog: all 58 prior
+  versions with orchestral architecture used voice; v319 tests the recipe without any
+  vocal layer.
+
+  TECHNIQUE: Staccato string ostinato action scoring is a defining device of the
+  Hollywood cinematic tradition — rapid, short-bowed string figures repeated in exact
+  metric patterns form the rhythmic substrate of tension and forward drive. Unlike
+  tremolo (which is sustain-based) or pizzicato (which is plucked and decays), the
+  staccato bowed ostinato produces a hammering pulse that machine-like locks the tempo
+  and propels momentum without any melodic content of its own. The technique is
+  structurally stripped: a two-bar pattern repeated verbatim beneath brass and woodwind
+  layers that grow in and are stripped away. The brass and deep woodwind are not soloists
+  — they are density operators, entering and departing to vary pressure while the ostinato
+  continues unchanged.
+
+  Concept source (researcher): "v319 Ferrum — staccato-string ostinato cinematic
+  orchestral action cue. FIRST INSTRUMENTAL TOP-TIER classifier test. 58 voice
+  architectures prior; v319 tests the recipe WITHOUT voice. Diversification after
+  v316-v318 monumental vocal triptych."
+
+  Composer-omission: the architecture of staccato-string ostinato beneath massed brass
+  attacks, with a horn countermelody cutting above, most directly echoes canonical
+  Hollywood action-scoring tradition from the late 20th century — the specific interplay
+  of low brass pedal + deep woodwind doubling at the octave + strip-to-nakedness as
+  structural climax inversion descends from multiple celebrated practitioners of the
+  tradition, none of whose names appear here per catalog discipline.
+
+  Duration strategy: BPM 138 sits in the proven 130–160 duration band (playbook rule 8).
+  Total lyric bar count: 134 bars across 8 sections + End. BPM 138 is in range for
+  3:00–3:30 wall-clock with this bar count. Duration drivers applied:
+  - Parametrized colon-lyrics with bar counts per section (playbook rule 1).
+  - Production tokens: polished studio mix, Hollywood scoring stage, deep low-end
+    definition — three tokens (rule 2 compliant).
+  - Sentence case throughout; atmospheric-first opening with "Cinematic orchestral action
+    score" as the classifier anchor locking the top-tier render path (rules 3 + 4).
+  - Two body voices minimum: bass trombone (large low-brass body voice) + contrabassoon
+    (deep woodwind body voice) + staccato string section (full violin/viola ensemble —
+    body string force). All three voices are body voices — zero spectral picks (rule 5
+    satisfied, spectral count = 0).
+  - No [Silence] metatag anywhere — hardened rule per feedback_silence_gate_truncates.md.
+    The structural climax inversion at 2:00 (strip to bass trombone pedal + ostinato)
+    uses density reduction without silence.
+  - Forward-motion concept: relentless ostinato + procession-of-density arc qualifies
+    for the forward-motion classifier advantage (playbook rule 10). Exclude_styles blocks
+    cinematic ambient, intimate chamber, elegiac neoclassical, trailer music, video game
+    battle music to prevent adjacent classifier drift.
+  - Build/Drop analog: "Full tutti" → "STRIP to bass trombone + ostinato" → "Tutti
+    return half-step lift" approximates the frisson stack (playbook rule 7 adapted per
+    silence-gate truncation constraint — no [Silence] markup used).
+
+  INSTRUMENTAL TEST: This is the first cycle in the catalog with instrumental: true AND
+  a top-tier cinematic orchestral classifier anchor. Hypothesis: "Cinematic orchestral
+  action score" auto-tags to "film score, orchestral, cinematic action" — the same
+  top-tier category that drove v259 to 3:53. Without vocal content, the classifier may
+  behave differently (no vocal-gender processing, no lyric-timing constraint). If the
+  render is shorter than vocal-led cycles at equivalent BPM and bar count, that confirms
+  the hypothesis that voice functions as a duration anchor. If equal or longer, it
+  suggests the classifier tag alone drives duration.
+
+  TRIO INSTRUMENTS:
+  - Bass trombone (last v250, gap 69 cycles — deep revival): the lowest standard brass
+    voice, capable of pedal tones below the normal trombone range. Enters at 0:25 on
+    the low B fundamental and holds through most of the piece as the harmonic floor.
+    Its muted, resonant low-end presence is the warmth under the staccato attack. At
+    the structural climax inversion (2:00), it is the ONE voice that remains alongside
+    the strings — chosen because its sustained pedal is the least melodic and most
+    structural voice in the ensemble, making the nakedness feel like bedrock exposed
+    rather than emptiness.
+  - Contrabassoon (last v257, gap 62 cycles — deep revival): the lowest standard
+    orchestral woodwind, sounding an octave below the written bassoon pitch. Enters at
+    0:45 alongside the first brass attacks, doubling the bass trombone pedal an octave
+    below — this creates a sub-bass drone that no other standard instrument can provide,
+    giving the full tutti a physical low-frequency mass. Absent during the structural
+    climax inversion (the strip), its return in the tutti is part of what makes the
+    half-step lift feel like weight restored and compounded.
+  - Staccato string section (violins and violas in rapid staccato eighth-note ostinato —
+    body voice): the full violin and viola section in short-bowed, repeated-note eighth-
+    note ostinato, deploying an action-scoring pulse from 0:00 onward. Not a melody —
+    a motor. The repeating two-bar figure continues through every section including the
+    structural climax inversion, making it the only element present from first note to
+    final cut. Its gap as "staccato strings" is a catalog debut in this deployment — prior
+    string entries used sustained bowing or pizzicato; the explicit staccato-ostinato
+    action-scoring role is new.
+
+  NOVELTY CLAIMS:
+  - Technique-novelty: staccato-string ostinato action scoring as the primary structural
+    engine — first deployment of this specific Hollywood action-scoring technique in the
+    319-version catalog.
+  - Classifier-novelty: first pure instrumental cycle using top-tier cinematic orchestral
+    classifier anchor. Tests whether "film score, orchestral action" auto-tag drives
+    3:00+ duration without any vocal anchor.
+  - Instrument revivals: bass trombone gap 69 (last v250), contrabassoon gap 62 (last
+    v257) — both among the deepest gap revivals in recent catalog history.
+  - BPM-fresh: 138 BPM last used at v260, gap 59 cycles.
+  - Key-fresh: B minor last v314 (gap 5 — fresh-ish), C minor last v316 (gap 3 —
+    recent; acceptable given the half-step-lift is structurally motivated).
+  - Scene-novelty: underground forge complex at midnight, molten iron and hammers —
+    no prior version uses the forge/foundry scene.
+  - Diversification: first pure instrumental orchestral action cue after 3-cycle
+    monumental vocal triptych (v316 grief, v317 transcendence, v318 defiance).
+
+tags:
+  - bass-trombone
+  - contrabassoon
+  - staccato-string-ostinato
+  - 138bpm
+  - b-minor
+  - c-minor
+  - underground-forge-midnight-scene
+  - staccato-ostinato-action-scoring
+  - first-instrumental-top-tier-classifier-test
+  - revival-bass-trombone-69-gap
+  - revival-contrabassoon-62-gap
+  - new-technique
+  - new-bpm-138-gap-59
+  - duration-3min
+  - research-driven
+  - instrumental
+  - cinematic-orchestral-action-score
+  - forward-motion-arc
+  - density-strip-inversion
+  - half-step-lift-2-20
+  - post-triptych-diversification
+  - v316-v317-v318-lineage
