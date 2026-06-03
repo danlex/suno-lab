@@ -360,6 +360,7 @@ mindmap
 | 313 | Threnos | Wagnerian Romantic opera-film scoring CLASSIFIER-FIRST EXTENSION TEST (cathedral funeral nave, bass-baritone solo mid-track entry — classifier engaged, durations mid-tier) | A minor | 76 | Wagner-tuba (catalog debut) + serpent (catalog debut) + ophicleide (61-back deep revival) |
 | 314 | Hagl | Atmospheric post-black metal × symphonic orchestra cinematic CLASSIFIER-FIRST EXTENSION (mountain ridge storm, clean male tenor sparse mid-track entry, mitigation strategy SUCCESS) | B minor | 100 | tremolo electric guitar (catalog debut) + low string section + male choir Aa vocalise |
 | 315 | Vael | Glossolalic contralto vocalise × cinematic atmospheric post-classical (coastal cave at low tide, invented phonetic language, classifier engaged but mid-tier duration) | G minor | 88 | cor anglais + frame drum + hurdy gurdy (68-back deep revival) |
+| 316 | Hiraeth | Welsh orchestral lamentation × cinematic classical-crossover MONUMENTAL cycle (Welsh hillside dawn mist, counter-tenor voice, Adagio-territory grief recipe applied) | C minor | 60 | alto flute (catalog debut) + low string orchestra + counter-tenor voice |
 
 ## Next-cycle priorities
 
