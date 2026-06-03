@@ -1,6 +1,6 @@
 {
-  "total_prompts": 323,
-  "latest_version": 323,
+  "total_prompts": 324,
+  "latest_version": 324,
   "instruments": {
     "piano": [
       1,
@@ -138,7 +138,8 @@
       316,
       321,
       322,
-      323
+      323,
+      324
     ],
     "pipe organ": [
       1,
@@ -181,7 +182,8 @@
       316,
       321,
       322,
-      323
+      323,
+      324
     ],
     "cello": [
       33,
@@ -216,7 +218,8 @@
       309,
       316,
       321,
-      322
+      322,
+      324
     ],
     "timpani": [
       15,
@@ -1079,13 +1082,20 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257,
-      314
+      324
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1097,7 +1107,6 @@
       301
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
@@ -1110,11 +1119,9 @@
       280,
       292
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
+    "baroque": [
+      188,
+      191
     ],
     "concerto": [
       145,
@@ -1144,9 +1151,6 @@
     ],
     "amapiano": [
       266
-    ],
-    "baroque": [
-      188
     ],
     "drill": [
       282
@@ -1306,7 +1310,8 @@
       282,
       298,
       307,
-      315
+      315,
+      324
     ],
     "b minor": [
       76,
@@ -1721,7 +1726,8 @@
       148,
       205,
       271,
-      315
+      315,
+      324
     ],
     "89": [
       198
@@ -2044,6 +2050,15 @@
   },
   "titles": [
     {
+      "version": 324,
+      "title": "Queda",
+      "name": "queda-v324",
+      "featured": [],
+      "genre": "cinematic",
+      "key": "g minor",
+      "bpm": 88
+    },
+    {
       "version": 323,
       "title": "Perstat",
       "name": "perstat-v323",
@@ -2143,7 +2158,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -3527,7 +3542,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -3692,7 +3707,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -3843,7 +3858,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
