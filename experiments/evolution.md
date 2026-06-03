@@ -369,6 +369,7 @@ mindmap
 | 322 | Primo Luce | Symphonic metal × COUNTERTENOR Baroque-aria architecture AWAKENING 6th emotional pole (cathedral apse pre-dawn winter, BEST recipe + first minor-to-major modulation in catalog) | C# minor | 72 | countertenor + pipe organ pedal (19-back) + cello pizzicato |
 | 323 | Perstat | Holy minimalism sustained-lament form × sacred-minimalist orchestral RESILIENCE 7TH FINAL emotional pole (4am stone room vigil, NO climax NO modulation - stasis architecture, completes 7-pole monumental palette) | D minor Dorian | 54 | lyric soprano + viola-led string orchestra + shadow alto witness (catalog debut architecture) |
 | 324 | Queda | Latin sad-trap ballad × cinematic strings VIRAL PIVOT cycle (2am apartment grief, Spanish intimate-raw male tenor, 2026 TikTok viral lane) | G minor | 88 | 808 sub-bass + cello solo + acoustic guitar fingerpicked |
+| 325 | Nagori | Anime cinematic ballad × orchestral strings SECOND VIRAL PIVOT (train platform autumn twilight, Japanese seiyuu-adjacent female soprano + English refrain hook, 2026 TikTok #1 trending genre) | A minor | 78 | solo piano + bowed string section + oboe (67-back deep revival) |
 
 ## Next-cycle priorities
 

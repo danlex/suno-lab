@@ -1,0 +1,174 @@
+name: "nagori-v325"
+version: 325
+title: "Nagori"
+instrumental: false
+vocal_gender: female
+
+style: "Anime cinematic ballad, crystalline and restrained — a train platform at late autumn twilight, cold air, the last train gone, someone no longer there. Polished studio mix, warm tape saturation, wide stereo stage. A minor lifting to Bb minor, 78 BPM. Solo grand piano opens alone, sustained pedal ringing, melodic line as protagonist. Bowed strings enter in legato waves, violins, violas, and cellos swelling at the chorus. Oboe carries the hook line above the strings, warm double-reed tone curving between vocal phrases, remembering rather than declaring. Female seiyuu-adjacent light lyric soprano, slight breathiness in lower register, crystalline resonance at the chorus peak, emotionally restrained — not operatic, not pop-belted — Japanese verses with a short English refrain hook at the chorus. Cello countermelody in the first verse. No guitars, no rock drums, no pipe organ, no synthesizers, no electronic elements."
+
+lyrics: |
+  [Piano intro — solo line, 0:00-0:20]
+
+  [Verse 1 — seiyuu vocal, cello countermelody, 0:20-0:50]
+  nagori no kaze ga fuku
+  densha wa kiete yuku
+  platform ni hitori
+  kimi no kage wo sagashiteru
+  samui yoru ni
+
+  [Pre-chorus — string swell, oboe hook, 0:50-1:05]
+  mada mada koko ni iru
+  watashi wa matsu
+  kaze no naka de
+
+  [Chorus 1 — full strings, English refrain hook, 1:05-1:35]
+  the last train leaves without you
+  the last train leaves without you
+  nagori — nagori
+  kimi wo matte iru
+
+  [Verse 2 — stripped to piano and vocal, 1:35-2:00]
+  tsuki ga kumorinagara
+  ame ga furi hajimeru
+  watashi no kotoba wa
+  todokanu mama kienuku
+  saigo no hi ni
+
+  [Pre-chorus 2 — emotional weight, 2:00-2:15]
+  mada mada koko ni iru
+  watashi wa matsu
+  anata no koto
+
+  [Final chorus — half-step lift to Bb minor, 2:15-2:50]
+  the last train leaves without you
+  the last train leaves without you
+  nagori — nagori
+  kimi wo matte iru
+  nagori — nagori
+
+  [Solo voice and piano fade, 2:50-3:00]
+  nagori...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac neoclassical, power ambient, ambient drone, Indian classical, Hindustani, sitar, tabla, raga, pipe organ, EDM, electronic lead, synthesizer lead, J-pop generic, city-pop, enka, idol pop, vocaloid, anime opening, anime ending, J-rock, J-metal, K-pop, hyperpop kawaii, anime OST soundtrack, trap, sad-trap, 808, phonk, drift phonk, drill, grime, UK drill, Latin pop, hip-hop, rap, shanty, folk, country, gospel, musical theater, choral eruption, monumental orchestral, ceremonial march, festival arrival, sacred minimalism, Gregorian chant, heldentenor, countertenor, bel canto operatic, dramatic soprano, symphonic metal, shakuhachi, koto, shamisen, taiko"
+
+notes: |
+  Anime cinematic ballad is a 2020s streaming and short-form phenomenon defined
+  by the collision of orchestral strings and solo piano with intimate confessional
+  vocals — typically female, often a voice-actor-adjacent light soprano — singing
+  in Japanese with a short English hook engineered as a TikTok sound clip. The
+  genre's emotional grammar is restraint: the voice does not belt, the strings
+  do not explode, the resolution is earned through accumulation rather than
+  sudden rupture. "Delirious" reached 164M+ TikTok views in the top-5 globally
+  in 2026, confirming the genre cluster as the dominant cinematic-vocal niche
+  on short-form platforms this cycle.
+
+  Concept source (researcher): v325 "Nagori" — anime cinematic ballad ×
+  orchestral strings. Second viral pivot after v324 Latin sad-trap success.
+  Maximally differentiates from v324: different language (Japanese vs Spanish),
+  different gender (female seiyuu soprano vs male half-spoken tenor), different
+  genre family (anime cinematic ballad vs sad-trap), different production palette
+  (crystalline strings + piano vs 808 + cello + trap percussion). Scene: a quiet
+  train platform at twilight in late autumn, the last train departing, the
+  lingering trace of someone no longer present. "Nagori" (名残) — the Japanese
+  word for the bittersweet trace left when something beloved has gone.
+
+  Composer-omission: this cycle inhabits a production territory defined by a
+  small number of anime soundtrack composers and J-pop orchestral arrangers whose
+  catalog names are withheld per discipline. Their shared sonic grammar — solo
+  piano protagonist, bowed string swell at chorus, oboe hook line, restrained
+  female soprano bridging Japanese verses and English refrain — is cited here as
+  genre context without attribution.
+
+  Duration strategy: this is a VIRAL ARM cycle targeting 2:30–3:00. The
+  playbook's duration-maximizing constraints (240+ bar counts, Build/Silence/Drop
+  stack, BPM 130–160 for 4:00+ targets) are SUSPENDED. Target is 2:30–3:00 —
+  anime ballad TikTok form factor. At 78 BPM the anime cinematic ballad classifier
+  caps naturally at ~2:45–3:00; accepting that ceiling is genre-correct, not a
+  failure. The half-step lift (A minor → Bb minor) at 2:15 is the sole modulation
+  — the canonical anime ballad emotional release point. NO [Silence] metatag per
+  feedback_silence_gate_truncates.md. Colon-syntax lyrics with timestamp anchors
+  and 2–6 word descriptor labels per feedback_lyrics_balance.md. Production tokens:
+  polished studio mix, warm tape saturation, wide stereo stage (three tokens,
+  playbook rule 2). Atmospheric-first opening anchors "Anime cinematic ballad" in
+  the first clause — fresh classifier territory test against top-5 global TikTok
+  signal. Sentence case throughout; no ALL-CAPS form labels.
+
+  Instruments with catalog gaps:
+  - solo grand piano (melodic body voice; last v301, gap 24): opens the track
+    alone for 20 seconds with a single melodic line over sustained pedal — the
+    anime ballad convention of piano as protagonist before any other element
+    enters. Returns as the intimate pairing with the soprano in the final coda.
+    Distinguished from v309 felt piano by its full grand resonance and sustained
+    sustain-pedal bloom characteristic of the genre.
+  - bowed string section (warm body voices; last in this full-section role
+    v323, gap 2 — fresh for viral arm context): violins, violas, and cellos in
+    bowed legato, entering after the piano intro and swelling at each chorus.
+    The emotional swell voice of the arrangement. Retreats to near-silence in
+    verse 2 for the stripped intimacy moment, returns full-density at the final
+    chorus with the half-step lift.
+  - oboe (warm woodwind body voice; last v258, gap 67 — deep revival): carries
+    the recurring melodic hook line above the strings, warm double-reed tone
+    curving in the spaces between vocal phrases. This is the "remembering voice"
+    — it does not double the melody but comments on it, a classic anime ballad
+    texture. NOT flute (too bright, no warmth), NOT shakuhachi (would trigger
+    zen/meditation classifier drift), NOT cor anglais (correct family but too
+    mournful in register). Oboe at 78 BPM in this melodic-hook role is the
+    optimal instrument for the genre.
+
+  Vocal direction: female seiyuu-adjacent light lyric soprano. The 64th
+  orthogonal vocal architecture in the catalog — distinct from v323 lyric
+  soprano (sacred/monumental Latin, full-resonance choral context), v321 Finnish
+  open-syllable soprano (ceremonial procession, no language specificity), v311
+  and v312 dramatic soprano (operatic Romantic-era weight), v322 countertenor
+  (male falsetto), v320 heldentenor (German-Romantic declamatory), v277 warm
+  city-pop female (80s-inflected cool-girl, languid phrasing over funk groove).
+  This is the first seiyuu-crystalline-restrained soprano with Japanese-and-English
+  bilingual structure in the catalog. Register stack: slight breathiness in lower
+  verse register (intimate close-mic), full crystalline resonance at chorus peak,
+  emotionally restrained throughout — the defining timbral identity of anime
+  ballad female vocals.
+
+  Novelty claims: genre-novelty (anime cinematic ballad — first use of this
+  specific sub-genre in the catalog; classified against top-5 2026 global TikTok
+  signal); voice-novelty (64th orthogonal vocal architecture: seiyuu-adjacent
+  light lyric soprano, slight breathiness in verse, crystalline chorus resonance,
+  emotionally restrained, Japanese-with-English-refrain bilingual — zero prior
+  catalog occurrence of this register stack and language architecture); BPM-revival
+  (78 BPM last used v275, gap 50 — fresh; anime ballad standard tempo in this
+  range); key-novelty (Bb minor as landing key — first Bb minor in the catalog;
+  A minor departure last v304, gap 21); instrument-revival (oboe last v258, gap 67
+  — deep revival in melodic-hook role); scene-novelty (late autumn train platform,
+  last train departing, absent person as spatial presence — no prior catalog scene
+  with this architecture of public-space solitude); concept-novelty (viral-arm anime
+  cinematic ballad with crystalline soprano and orchestral strings — third viral-arm
+  cycle in catalog history after v260 and v324).
+
+  Final style char count: 924.
+
+tags:
+  - solo-piano
+  - string-section
+  - oboe
+  - 78bpm
+  - a-minor
+  - bb-minor
+  - train-platform-twilight-scene
+  - revival-oboe-67-gap
+  - revival-piano-24-gap
+  - revival-78bpm-50-gap
+  - new-bpm-bb-minor
+  - new-technique
+  - anime-cinematic-ballad
+  - viral-arm
+  - 64th-vocal-architecture
+  - seiyuu-soprano
+  - japanese-language
+  - japanese-english-bilingual
+  - short-form-format
+  - tiktok-form-factor
+  - duration-2min
+  - research-driven
+  - vocal
+  - rule-override-viral-arm
