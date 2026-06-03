@@ -1,0 +1,181 @@
+name: "sorgente-v317"
+version: 317
+title: "Sorgente"
+instrumental: false
+vocal_gender: male
+
+style: "Cinematic orchestral Sardinian cantu a tenore crossover — four male voices rising from limestone at first dawn. Four voices: deep bassu drone, buzzing contra overtones, harmonic mesu oche, pastoral oche lead. Cold ridge, breath visible, four shepherds. Polished studio mix, Hollywood scoring stage, deep low-end definition. E minor lifting to F minor at 2:45, 58 BPM. Bassu and contra open in hollow modal drone — no orchestra, only primordial vibration. Oche enters at 0:40; mesu oche joins; slow-bow strings as bare sustain. All four voices lock at 1:25; French horn swells as one long tone. Without percussion, full density by 2:10. Lift to F minor at 2:45, oche at peak — apotheosis. Orchestra drops at 3:10, bassu and contra alone in decay — the ancient voice outlasts the orchestra. Wide stereo stage, lush ambience. Film score for an ascent-and-return scene. No guitars, no choral walls, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Bassu + contra hollow drone, 12 bars]
+  Sorgente...
+  antigu...
+  su tempus...
+
+  [Oche enters pastoral phrase, 12 bars]
+  Sorgente de su monte
+  boghe antigu de s'alba
+  pastores in su ventu
+  iscoltàre su tempus
+
+  [Mesu oche joins harmony — strings emerge, 14 bars]
+  Sorgente de su core
+  boghe chi no morit
+  su tempus in su ventu
+  pastores sutta s'alba
+
+  [Full 4-voice cantu a tenore — French horn enters, 20 bars]
+  Sorgente, sorgente
+  boghe de su monte
+  antigu, antigu
+  su tempus, su tempus
+  pastores, pastores
+  iscoltàre, iscoltàre
+
+  [Orchestral crescendo — building density, 24 bars]
+  Sorgente de su mundu
+  boghe chi resurget
+  su tempus antigu
+  de su monte, de s'alba
+  pastores in sa pedra
+  sorgente, iscoltàre
+
+  [APOTHEOSIS: half-step lift to F minor, 22 bars]
+  Fons aeterna — sorgente
+  vox primaeva — boghe antigu
+  Fons aeterna, fons aeterna
+  sorgente de su tempus
+  boghe, boghe, boghe
+  antigu, antigu, antigu
+
+  [Orchestra recedes — drone returns alone, 14 bars]
+  Sorgente...
+  antigu...
+  su tempus...
+  sorgente...
+
+  [End]
+
+exclude_styles: "Sardinian folk, Italian pastoral, Mediterranean folk dance, tarantella, Corsican polyphony, bel canto, operatic tenor, bel canto crossover, Welsh classical-crossover, Welsh hwyl, counter-tenor, contralto vocalise, bass-baritone aria, post-black metal, black metal, extreme metal, symphonic metal, Romantic opera, symphonic metal soprano, Georgian sacred polyphony, Bulgarian women voices, Zulu isicathamiya, Mongolian throat singing, Tuvan khoomei, Gregorian plainchant, Byzantine liturgy, Russian liturgical, Celtic folk, gospel choir, male voice choir, choral ensemble, South African township, Afrobeats, African choral, new age, zen meditation, cinematic ambient, intimate chamber, elegiac neoclassical, Arabic, tribal, world music, rock, metal, acoustic guitar, electric guitar, rap, hip-hop, trap, phonk, drill, electronic, EDM, synthesizer, free jazz, atonal, microtonal, quarter-tone, drum kit, rock drums, pipe organ"
+
+notes: |
+  v317 "Sorgente" — Sardinian cantu a tenore x cinematic orchestral apotheosis.
+  57th orthogonal vocal architecture in the catalog. 41st distinct language (Sardinian / Sardo).
+
+  TECHNIQUE: Cantu a tenore is a UNESCO-inscribed form of four-part unaccompanied
+  male polyphony native to the Barbagia region of Sardinia. The four voice roles are
+  structurally distinct: bassu holds a deep laryngeal guttural drone at the bottom (~E2-G2),
+  produced by lowering the larynx and engaging the chest and throat cavity in a wind-like
+  sustained tone; contra provides a guttural buzzing overtone counter-voice above it
+  (~B2-D3), harmonically saturated and weaving against the drone; mesu oche (half-voice)
+  fills the mid-register harmony (~E3-G3); oche carries the pastoral modal lead melody
+  (~B3-D4) and is the only voice with a true melodic-text role. The system uses flexible
+  modal tuning anchored on perfect fourths and fifths, producing a harmonic world entirely
+  unlike European SATB choral writing or the Zulu close-harmony of v304. UNESCO-inscribed
+  in 2008 as an Intangible Cultural Heritage of Humanity.
+
+  Concept source (researcher): "Sorgente — Sardinian cantu a tenore x cinematic orchestral
+  apotheosis. v304 Zulu isicathamiya validated top-tier recipe applied to completely fresh
+  vocal architecture. MONUMENTAL TRANSCENDENCE cycle: communal ascent from primordial
+  guttural drone to 4-voice full lock to orchestral climax with half-step lift, ending
+  with the ancient voice alone — the opposite pole from v316's grief."
+
+  Composer-omission: the orchestral-crescendo-beneath-ancient-voice architecture this
+  cycle most directly echoes — specifically, the device of a non-Western choral texture
+  swelling to an orchestral climax and then stripping back to the unaccompanied root voice
+  at the close — is associated with several 20th-century composers drawn to folklore-meets-
+  orchestra synthesis. None are named here per catalog discipline.
+
+  Duration strategy: BPM 58 is in the slow band (playbook rule 8 ceiling ~3:30 for ≤115 BPM).
+  Total lyric bar count: 118 bars across 8 sections — targeting 3:00-3:30. Duration drivers:
+  - Parametrized colon-lyrics with bar counts per section (playbook rule 1).
+  - Production tokens applied: polished studio mix, Hollywood scoring stage, deep low-end
+    definition, wide stereo stage, lush acoustic ambience — five tokens (rule 2 compliant).
+  - Sentence case throughout; atmospheric-first opening anchored with "Cinematic orchestral
+    Sardinian cantu a tenore crossover" (locks long-form classifier).
+  - Three body voices: slow-bow string orchestra (body string section) + French horn (body
+    brass) + Sardinian 4-voice polyphony (body vocal resonators) — satisfies ≥2 body voice
+    rule (rule 5 compliant); no spectral voices.
+  - No [Silence] metatag anywhere — hardened rule per feedback_silence_gate_truncates.md.
+    Emotional strip achieved by bracket label ("Orchestra recedes — drone returns alone")
+    without explicit silence markup.
+  - Forward-motion concept: "primordial welling up → communal ascent → apotheosis → drone
+    outlasts orchestra" — qualifies for forward-motion classifier behavior (playbook rule 10).
+    Exclude_styles blocks cinematic ambient, intimate chamber, elegiac to prevent duration
+    compression from reflective-concept auto-tags.
+
+  TRIO INSTRUMENTS:
+  - Sardinian 4-voice male polyphony (CATALOG DEBUT — never used in 316 prior versions;
+    gap ∞): bassu laryngeal drone opens alone from 0:00, contra joins immediately, creating
+    the hollow modal drone of the ridge at dawn. All four voices lock at 1:25 into the full
+    cantu a tenore texture — the densest unaccompanied vocal architecture in the catalog.
+    The 57th distinct vocal architecture.
+  - Slow-bow string orchestra (last as "string orchestra" at v310, gap 7): enters at 0:40
+    as a barely audible bare sustain pad beneath the vocal entry, swells through sections
+    3-5 as harmonic ground beneath the four-voice polyphony, reaches full density at 2:10,
+    then drops away completely at 3:10, leaving the bassu-contra drone alone. Framed as
+    "slow-bow" to anchor the non-percussive sustained quality — long bow strokes only,
+    no pizzicato, no ornament.
+  - French horn (last v312, gap 5): enters at 1:25 as a single sustained long tone beneath
+    the locked four-voice texture — not melodic, not rhythmic, purely a brass color swelling
+    from pianissimo to its peak at 2:45. The French horn's warm round timbre adds depth to
+    the orchestral mass without competing with the vocal architecture. Gap 5 is borderline
+    fresh; the use-case as pure brass-color sustain (not melody, not dialogue) is distinct
+    from v312's French-horn-in-dialogue role.
+
+  Sardinian / Sardo lyric vocabulary:
+  "sorgente" (source, spring — Italian/Sardinian crossover), "boghe" (voice — Sardo),
+  "monte" (mountain), "pastores" (shepherds — Sardo/Latin cognate), "alba" (dawn),
+  "antigu" (ancient — Sardo), "su tempus" (the time — Sardo syntax, distinct from
+  Italian "il tempo"), "iscoltàre" (to listen — Sardo), "de su core" (of the heart —
+  Sardo), "chi no morit" (that does not die — Sardo), "sutta s'alba" (under the dawn —
+  Sardo), "sa pedra" (the stone — Sardo), "de su mundu" (of the world — Sardo),
+  "resurget" (rises again — Latin cognate used in Sardo register).
+  Latin at apotheosis: "fons aeterna" (eternal source), "vox primaeva" (primordial voice).
+
+  Novelty claims: technique-novelty (Sardinian cantu a tenore 4-voice polyphony — first
+  Sardinian/Sardo-language cycle in 316-version catalog); voice-novelty (57th orthogonal
+  vocal architecture — bassu laryngeal drone + contra overtone counter + mesu oche fill +
+  oche pastoral lead, a quadripartite structure unlike any prior entry); language-novelty
+  (41st distinct language — Sardinian/Sardo, UNESCO-minority language of approximately
+  1 million speakers); BPM-fresh (58 BPM — last at v188, gap 129); key-fresh (E minor —
+  last at v303, gap 14); scene-novelty (Sardinian limestone ridge at first dawn, shepherds,
+  cold grass, the welling up of the ancient voice before the day begins).
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md, submitter MUST verify
+  Suno UI vocal_gender matches YAML (male) before Create. All four cantu a tenore roles
+  are traditionally all-male — bassu, contra, mesu oche, oche — UI single-select: Male.
+
+  Style char count: 949. Exclude_styles char count: 924. Lyrics char count: 982.
+
+tags:
+  - sardinian-4-voice-polyphony
+  - slow-bow-string-orchestra
+  - french-horn
+  - 58bpm
+  - e-minor
+  - f-minor
+  - sardinian-limestone-ridge-dawn-scene
+  - cantu-a-tenore
+  - bassu-laryngeal-drone
+  - contra-overtone-counter
+  - mesu-oche-harmonic-fill
+  - oche-pastoral-lead
+  - sardinian-language
+  - sardo-lyrics
+  - latin-shading-apotheosis
+  - catalog-debut-sardinian-polyphony
+  - 57th-orthogonal-voice
+  - 41st-distinct-language
+  - revival-slow-bow-string-orchestra-7-gap
+  - revival-french-horn-5-gap
+  - new-technique
+  - new-bpm
+  - half-step-lift-2-45
+  - drone-outlasts-orchestra-arc
+  - duration-3min
+  - research-driven
+  - vocal
+  - cinematic-classical-crossover
+  - monumental-transcendence-cycle
+  - v304-lineage
