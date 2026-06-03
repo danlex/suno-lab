@@ -1,5 +1,15 @@
 # Cron failure log
 
+### 2026-06-04 — v324 failed mid-form (NO clips generated)
+
+- **YAML**: prompts/queda-v324.yaml (Latin sad-trap ballad cinematic, VIRAL PIVOT cycle after 8 monumental)
+- **Title**: Queda
+- **Judge**: 94/100 (passed)
+- **Reason**: Chrome MCP extension disconnected mid-form during submit. Submitter had clicked the Lyrics textarea + issued cmd+a but the `type` command failed with "No tab with id: 786913479". tabs_context_mcp returned no MCP tab groups after one reconnect attempt. **Create was NOT clicked** — server-side state unchanged, no clips generated.
+- **State**: `prompts/queda-v324.yaml` exists on disk untracked, judge 94/100. v323 stale form state was still partially loaded (style field still had Perstat content; vocal_gender still Female, not yet corrected to Male; More Options panel was expanded with exclude visible). Nothing was submitted.
+- **Action taken**: Submitter exited cleanly. No retry within this cycle per safety floor #4.
+- **Next cycle should**: Per BACKLOG GUARD, `cycle_start.py` will return `recommended_action: resume_submit` for v324 (latest_yaml_uncommitted: true). Retry submit directly when bridge is healthy. No duplicate-clip risk since Create was confirmed NOT clicked.
+
 ### 2026-06-03 — cron fire, no-op — bridge fully disconnected
 
 Reason: `list_connected_browsers` returns `[]` and `tabs_context_mcp` returns "Browser extension is not connected." Chrome extension dropped between v317 (closed successfully) and this cycle. No previous YAML uncommitted (cycle_start.py reports `recommended_action: draft_new` for v318).
