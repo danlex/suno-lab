@@ -1,0 +1,164 @@
+name: "kaiku-v321"
+version: 321
+title: "Kaiku"
+instrumental: false
+vocal_gender: female
+
+style: "Atmospheric post-rock with Finnish soprano and neoclassical orchestral swell — midwinter Lapland treeline, breath against silver dawn, awe before something vast and permanent. Polished studio mix, wide stereo stage. A major lifting to Bb major at 2:20, 70 BPM. Lap steel guitar opens in shimmer over bowed singing bowl drone — spatially disorienting. Finnish soprano enters at 0:35 on open-vowel phrases: \"kaiku, valo on, taivas\" — real Finnish words as elemental presence-statements. Cello sul tasto joins at 1:10 in slow pizzicato heartbeat beneath the voice. Full string orchestra swells from near-silence at 1:40 — scale suddenly revealed. Half-step lift to Bb major at 2:20; bowed singing bowl re-enters through strings; soprano holds high. From 2:50 the orchestra drops to pianissimo, soprano resolves, lap steel alone fades. Film score for a Lapland awe scene. No drums, no electric bass, no pipe organ, no synthesizers, no electric guitar."
+
+lyrics: |
+  [Lap steel + singing bowl drone, 8 bars]
+  (A major — shimmer alone, no vocals)
+
+  [Finnish soprano enters — open vowels, 12 bars]
+  Kaiku... kaiku...
+  Valo on — valo on
+  Taivas, taivas
+  Ääni kaukana
+
+  [Cello sul tasto pizzicato pulse, 12 bars]
+  Kaiku, valo on
+  Metsä on — maa on
+  Vesi on, tuli on
+  Ääni, ääni kaukana
+
+  [Two-voice octave unison, 12 bars]
+  Ilma on — taivas on
+  Kaiku kestää
+  Aurora — hiljaa
+  Vuosi kestää
+
+  [Full string orchestra swell — awe arrival, 20 bars]
+  Kaiku! Valo on!
+  Taivas — maa — vesi — tuli
+  Ilma on kaukana
+  Aurora kestää kestää
+
+  [Half-step lift A to Bb major, 16 bars]
+  Kaiku... kestää...
+  Valo, valo on
+  Aurora — taivas
+  Hiljaa kaukana
+
+  [Strings drop to pianissimo, 12 bars]
+  Kaiku... valo...
+  Hiljaa — hiljaa
+  Maa on
+
+  [Lap steel alone closes, 8 bars]
+  (A major fading — no vocals)
+
+  [End]
+
+exclude_styles: "Finnish folk, kantele, Nordic folk, Viking metal, Nordic noir, Sigur Rós style, Hopelandic falsetto, invented-language falsetto, Celtic new age, Celtic folk, Enya-style, druid ambient, new age ambient, zen meditation, world music, Arabic, tribal, African choral, Gregorian chant, throat singing, Indian classical, Hindustani, Georgian sacred polyphony, Bulgarian women voices, Welsh hwyl, counter-tenor, bel canto, operatic tenor, operatic mezzo, dramatic soprano belt, symphonic metal soprano, symphonic metal, power metal, folk metal, stile concitato, post-black metal, black metal, extreme metal, Romantic opera, modern pop ballad, rap, hip-hop, trap, phonk, drill, R&B, lo-fi, electronic, EDM, synthesizer, rock, hard rock, acoustic guitar, electric guitar, bass guitar, drum kit, rock drums, cinematic ambient, intimate chamber, elegiac neoclassical, experimental noise, free jazz, atonal, microtonal, quarter-tone, pipe organ, gospel, country, bluegrass, jazz"
+
+notes: |
+  Atmospheric post-rock is a genre that discards conventional verse-chorus
+  structure and lead vocals in favor of long instrumental builds that arrive at
+  emotionally overwhelming peaks — the genre was pioneered by Scottish and
+  Icelandic bands in the 1990s and 2000s. v321 "Kaiku" applies the v293 Vök
+  recipe (atmospheric post-rock + vocal anchor + late orchestral swell, mean
+  3:34 at v293) as a validated top-tier configuration, returning to it after
+  27 cycles.
+
+  Concept source (researcher): v321 repeats the v293 Vök recipe with two
+  controlled substitutions — (1) Finnish real-language soprano replaces the
+  v293 Hopelandic constructed-nonsense-language falsetto; (2) A major → Bb
+  major replaces v293's G major; plus a new emotional pole: REVERENCE/AWE
+  (first sight of something vast and permanent), distinct from v316 grief,
+  v317 transcendence, v318 defiance, and v320 Liebestod.
+
+  The voice and vocal philosophy here echo a tradition of Nordic female soprano
+  art-song that goes unnamed per catalog discipline. Finnish phonology has open
+  vowels (a, o, ä, ö, y) and agglutinative syllable structure that produces
+  naturally vast, near-invented sonic quality to non-Finnish ears — ideal as
+  atmospheric vocal color inside post-rock. Finnish vocabulary deployed:
+  "kaiku" (echo/resonance), "valo on" (light is), "maa on" (earth is), "vesi
+  on" (water is), "tuli on" (fire is), "ilma on" (air is), "taivas" (sky),
+  "metsä" (forest), "ääni" (sound), "vuosi" (year), "kestää" (lasts/endures),
+  "kaukana" (far away), "hiljaa" (quietly), "aurora". Phrases are elemental
+  presence-statements — not full grammar, but identifiable Finnish words that
+  scan as almost-invented to non-Finnish ears. This is the 60th orthogonal
+  voice architecture: first Finnish soprano, first Finnish-language vocal,
+  first lap-steel-paired soprano, different register and language from v293.
+
+  Duration strategy: BPM 70 sits in the slow band (playbook rule 8: slow-BPM
+  ceiling ~3:30). Recipe fidelity to v293 (also 70 BPM, mean 3:34) is the
+  primary duration argument — Suno's post-rock classifier is what drove v293's
+  duration, not bar count alone. Total lyric bar count: 100 bars across 8
+  sections + End. Production tokens: polished studio mix, wide stereo stage,
+  lush acoustic ambience (three tokens). Sentence case throughout; atmospheric-
+  first opening with "Atmospheric post-rock" anchor in first sentence locking
+  the v293 classifier. Colon-syntax lyrics with bar counts for per-section
+  length scaffolding. NO [Silence] metatag anywhere per
+  feedback_silence_gate_truncates.md. The density layering (lap steel alone →
+  Finnish soprano enters → cello sul tasto → full string orchestra swell at
+  1:40 → half-step lift at 2:20 → pianissimo withdrawal) is forward-motion
+  arrival architecture, triggering the playbook rule 10 "forward-motion →
+  full-tutti Drop" response from Suno's classifier. The bowed singing bowl
+  re-entry at 2:20 functions as the Drop trigger without any silence gate.
+  Three body-voice trio minimum honored: lap steel guitar (body — warm steel
+  resonance), cello sul tasto (body — breathy near-bass pulse), plus the
+  vocal. The singing bowl is the ≤1 spectral voice per playbook rule 5.
+
+  Instruments with catalog gaps:
+  - lap steel guitar (CATALOG DEBUT — gap 321, never used in 320 prior
+    prompts): horizontal electric-acoustic guitar played with a metal slide,
+    producing a shimmering, vowel-like sustain that defines atmospheric
+    post-rock identity. Opens alone and provides the shimmer foundation
+    throughout. Structural role: genre identity anchor and spatial horizon.
+  - bowed singing bowl (CATALOG DEBUT — gap 321, never used in 320 prior
+    prompts): Tibetan or crystal singing bowl bowed with a rosined stick
+    rather than struck, producing a continuous spatial drone in the 1–4 kHz
+    zone — the brain struggles to locate its origin, producing the same
+    spatial-disorientation quality as a glass harmonica but with warmer,
+    more resonant overtones. Role: drone foundation and re-entry signal at
+    the half-step lift. Spectral voice (≤1 spectral per trio — honored).
+  - cello sul tasto (last v303, gap 18 — fresh framing): cello bowed over
+    the fingerboard rather than at the bridge, producing a soft, breathy,
+    near-bass tone with reduced overtones and forward warmth. Used here
+    in pizzicato heartbeat pulse entering at 1:10, providing intimate
+    rhythmic life without drums or percussion. Fresh framing: v303 deployed
+    it as bass-drone layer; here it is the sole rhythmic anchor.
+
+  Novelty claims: voice-novelty (Finnish soprano — 60th orthogonal voice,
+  first Finnish-language vocal in catalog; distinct from v293 Hopelandic
+  falsetto by register, language type, and gender); concept-novelty
+  (REVERENCE/AWE emotional pole — first sight of something vast and permanent,
+  5th pole beyond v316–v320 grief/transcendence/defiance/Liebestod); instrument-
+  novelty (lap steel guitar — catalog debut, gap 321; bowed singing bowl —
+  catalog debut, gap 321); key-novelty (A major last v273, gap 48 — very fresh;
+  Bb major last v269, gap 52 — very fresh); recipe-fidelity-test (v293 Vök
+  validated top-tier recipe, 27-cycle gap, first repeat — controlled: same 70
+  BPM, same atmospheric post-rock classifier, same late orchestral swell arc,
+  different key/language/voice/instrument set); scene-novelty (Lapland treeline
+  at midwinter dawn, awe before the vast and permanent — no prior Lapland or
+  Finnish-landscape scene in catalog).
+
+  Final style char count: 948.
+
+tags:
+  - lap-steel-guitar
+  - bowed-singing-bowl
+  - cello-sul-tasto
+  - 70bpm
+  - a-major
+  - bb-major
+  - lapland-treeline-awe-scene
+  - revival-lap-steel-guitar-321-gap
+  - revival-bowed-singing-bowl-321-gap
+  - revival-cello-sul-tasto-18-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - finnish-soprano
+  - finnish-language-debut
+  - atmospheric-post-rock
+  - v293-recipe-repeat
+  - awe-emotional-pole
+  - half-step-lift-2-20
+  - density-arrival-arc
+  - catalog-debut-lap-steel
+  - catalog-debut-bowed-singing-bowl

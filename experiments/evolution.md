@@ -365,6 +365,7 @@ mindmap
 | 318 | Ignis | Stile concitato Baroque-engine × cinematic symphonic-choral FIERY DEFIANCE (cathedral midnight lightning, third pole of monumental triptych completing v316 grief + v317 transcendence) | D minor | 120 | tam-tam (catalog debut) + piccolo (76-back deep revival) + stile concitato tremolo strings |
 | 319 | Ferrum | Staccato-string ostinato cinematic orchestral action cue FIRST INSTRUMENTAL TOP-TIER TEST (underground forge midnight, classifier engaged but instrumental territory caps shorter than vocal recipes) | B minor | 138 | bass trombone (69-back deep revival) + contrabassoon (62-back deep revival) + staccato string section |
 | 320 | Ardor | Symphonic metal HELDENTENOR Liebestod ballad — BEST RECIPE + VOCAL ANCHOR application (lovers' deck at dawn, love-death 4th pole beyond monumental triptych) | F minor | 102 | harp (70-back deep revival) + crotales (76-back deep revival) + timpani |
+| 321 | Kaiku | Atmospheric post-rock with Finnish vocal × neoclassical orchestral swell V293 RECIPE REPEAT + REVERENCE/AWE EMOTIONAL POLE (Lapland midwinter aurora, recipe validated across two cycles) | A major | 70 | lap steel guitar (catalog debut) + bowed singing bowl (catalog debut) + cello sul tasto |
 
 ## Next-cycle priorities
 
