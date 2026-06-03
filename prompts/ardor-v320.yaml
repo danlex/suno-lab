@@ -1,0 +1,146 @@
+name: "ardor-v320"
+version: 320
+title: "Ardor"
+instrumental: false
+vocal_gender: male
+
+style: "Symphonic metal operatic ballad — the lovers' deck at dawn, sea-fog lifting, two figures dissolving into rising light. Polished studio mix, Hollywood scoring stage, warm tape saturation. F minor lifting to F# minor at 2:35, 102 BPM. Heldentenor opens alone in baritonal mid-register — dark and pliant — over harp arpeggios and bare strings. Rhythm section drops at 1:00; orchestra and choir swell at 1:30. The heldentenor pushes into full tenorial height at 1:45, cutting through the orchestral mass with dramatic-tenor command. Crotales ring at the peak — cold bell-cymbals above the storm. Half-step lift at 2:35 arrives in harp and strings, not the voice. From 3:00 the orchestra withdraws; the heldentenor returns one octave lower, baritonal and bare. Timpani marks the final descent. Deep low-end definition throughout. Film score for a love-death dawn scene. No growling, no screaming, no synthesizers, no pipe organ, no autotune."
+
+lyrics: |
+  [Baritonal opening — strings and harp, 16 bars]
+  Ardor — in the sea-mist before light
+  Amor meus — the long night holds
+  Umbra recedes
+  Still one breath
+
+  [Density builds — drums enter, 16 bars]
+  In mortem — into this dawn
+  Vinculum — the bond unbreaks
+  Two becoming one
+  Ardor rising through the fog
+
+  [Tenorial push — guitars full strings, 20 bars]
+  Aeterna — love beyond the night
+  Amoris — heat without end
+  We dissolve into the other
+  Ardor — burning toward the light
+
+  [Full tutti — heldentenor high sustained, 24 bars]
+  Unum — one body one breath
+  The same surrender
+  Ardor aeterna — burning one
+
+  [Crotales peak — brass sustain, 12 bars]
+  Vita — the light opens
+  Unum holds
+
+  [Half-step lift — strings harp transform, 20 bars]
+  Ardor in mortem — ardor in vita
+  Amor — the sea holds nothing now
+  We are the light
+  Vinculum aeterna — one
+
+  [Octave lower — orchestra withdraws, 16 bars]
+  Ardor — umbra — one breath
+  Tempus finit — amoris holds
+  Mors — vita — unum
+  Ardor
+
+  [Timpani descent — final bars, 8 bars]
+
+  [End]
+
+exclude_styles: "death metal, black metal, extreme metal, growling, screaming, deathcore, metalcore, djent, slam metal, doom metal, power metal, Viking metal, folk metal, Norse metal, symphonic power metal cheese, bel canto Italian opera, Latin choral, Indian classical, Hindustani, sitar, tabla, raga, trap, rap, phonk, drill, hip-hop, R&B, lo-fi, electronic, EDM, synthesizer, new age, zen meditation, atonal, microtonal, acoustic guitar solo, country, bluegrass, gypsy, klezmer, Arabic, tribal, world music, pipe organ, cinematic ambient, intimate chamber, elegiac neoclassical, gospel, spiritual, autotune, nu-metal, alt-metal, grunge, hard rock, hair metal, stile concitato, clean tenor pop, bel canto lyric tenor, soprano ballad, female soprano over metal, symphonic metal soprano, dramatic soprano, operatic mezzo"
+
+notes: |
+  Symphonic metal operatic ballad: a subgenre in which a classically-trained operatic
+  voice is set against the full density of a modern metal rhythm section (distorted
+  rhythm guitars, drum kit, bass guitar) with a large symphonic orchestra (full strings,
+  male choir) providing harmonic mass. The genre originated in northern Europe in the
+  1990s and has become stable Suno v5.5 long-form classifier territory, consistently
+  rendering 3:00–4:00+ per v311+v312 validation data (mean 3:52, record 5:04).
+
+  Concept source (researcher): v320 "Ardor" — symphonic metal heldentenor Liebestod
+  ballad. Best recipe (v311+v312 mean 3:52) applied with two fresh variables: (1) male
+  dramatic heldentenor voice — catalog debut in symphonic metal classifier territory;
+  (2) Liebestod emotional concept — the simultaneous union of grief + transcendence +
+  erotic into one architecture. F minor → F# minor at 2:35. 102 BPM. Dawn after the
+  long night, two figures dissolving into rising light.
+
+  The voice architecture here echoes the great heldentenor tradition of the 19th and
+  20th centuries — whose foremost practitioners go unnamed here per catalog discipline.
+  The heldentenor combines baritonal depth in the mid-register with full tenorial power
+  at the apex, built to penetrate heavy orchestral density without amplification. This
+  is architecturally distinct from all 319 prior catalog entries: v311+v312 used female
+  dramatic soprano; v313 used male Romantic-opera bass-baritone; v314 used clean tenor;
+  v299 used bel canto Italian tenor — none deployed the heldentenor voice type inside
+  a symphonic metal classifier.
+
+  Duration strategy: BPM 102 sits in the slow-to-moderate band (90–115 ceiling ~3:30
+  per playbook rule 8). Duration argument rests primarily on the classifier lock:
+  "Symphonic metal operatic ballad" anchors the first word, exactly matching v311+v312's
+  proven classifier. Total lyric bar count: 132 bars across 8 sections + End. At the
+  slow-BPM ceiling, this targets 3:00–3:30. Production tokens applied: polished studio
+  mix, Hollywood scoring stage, warm tape saturation, deep low-end definition (four
+  tokens). Sentence case throughout; atmospheric-first opening; colon-syntax lyrics with
+  bar counts for per-section length scaffolding; NO [Silence] metatag (hardened rule per
+  feedback_silence_gate_truncates.md). The density build (drums 1:00 → guitars 1:15 →
+  full strings+choir 1:30 → tutti 1:45 → half-step lift 2:35 → withdrawal 3:00)
+  follows the Liebestod arc without any silence gate.
+
+  The forward-motion arc (density terracing upward) plus the half-step harmonic lift
+  at 2:35 gives Suno's classifier a "forward-motion + modulation" cue that correlates
+  with longer renders per playbook rule 10. The vocal return one octave lower at 3:00
+  is the transformation proof — deeper than the opening, not louder.
+
+  Instruments with catalog gaps:
+  - harp (last v250, gap 69 — deep revival): the concert pedal harp, providing
+    arpeggiated harmonic color in the opening bars over pizzicato strings, returning
+    as part of the half-step lift mechanism at 2:35 when the F → F# minor transformation
+    lands in the string-harp texture rather than the voice.
+  - crotales (last v244, gap 75 — deep revival): small antique bronze cup-cymbals,
+    struck to produce a piercing, pure-tone ring that cuts through any orchestral density;
+    deployed at the full-tutti eruption peak (1:45–2:10) as atmospheric bell-punctuation
+    above the storm, then silent in the withdrawal section.
+  - timpani (last v300, gap 19): concert kettledrums, marking the final descent arc
+    (3:00–end) as the orchestra withdraws — rolling softly beneath the heldentenor's
+    final baritonal phrases before the terminal cadence.
+
+  Novelty claims: voice-novelty (heldentenor voice type in symphonic metal classifier —
+  catalog debut; 59th orthogonal voice architecture, distinct from all 319 prior entries);
+  concept-novelty (Liebestod emotional framework — grief + transcendence + erotic in one
+  arc, the 4th pole beyond the v316–v318 triptych of grief/transcendence/defiance);
+  instrument-revival (harp, gap 69); instrument-revival (crotales, gap 75 — deepest
+  revival in this trio); BPM-revival (102 BPM last v291, gap 28); key-revival (F# minor
+  last v256, gap 63 — the modulation target is a deep revival); scene-novelty (lovers'
+  deck at dawn, sea-fog lifting, Liebestod dissolution — no prior dawn-at-sea love-death
+  scene in catalog); best-recipe-application (v311+v312 proven classifier + density bed
+  + half-step lift applied with two controlled fresh variables).
+
+  Final style char count: 944.
+
+tags:
+  - harp
+  - crotales
+  - timpani
+  - 102bpm
+  - f-minor
+  - f-sharp-minor
+  - lovers-deck-dawn-liebestod-scene
+  - revival-harp-69-gap
+  - revival-crotales-75-gap
+  - revival-timpani-19-gap
+  - revival-102bpm-28-gap
+  - revival-f-sharp-minor-63-gap
+  - new-technique
+  - symphonic-metal-operatic-ballad
+  - heldentenor-voice-debut
+  - liebestod-concept
+  - best-recipe-v311-v312-applied
+  - half-step-lift-2-35
+  - density-terracing-arc
+  - duration-3min
+  - research-driven
+  - vocal
+  - symphonic-metal
+  - forward-motion-arc

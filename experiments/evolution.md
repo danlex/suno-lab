@@ -364,6 +364,7 @@ mindmap
 | 317 | Sorgente | Sardinian cantu a tenore × cinematic orchestral apotheosis MONUMENTAL TRANSCENDENCE cycle (limestone ridge first dawn, 4-voice UNESCO heritage polyphony, communal apotheosis counterpart to v316 solo grief) | E minor | 58 | Sardinian 4-voice male polyphony (catalog debut UNESCO heritage) + slow-bow string orchestra + sustained French horn |
 | 318 | Ignis | Stile concitato Baroque-engine × cinematic symphonic-choral FIERY DEFIANCE (cathedral midnight lightning, third pole of monumental triptych completing v316 grief + v317 transcendence) | D minor | 120 | tam-tam (catalog debut) + piccolo (76-back deep revival) + stile concitato tremolo strings |
 | 319 | Ferrum | Staccato-string ostinato cinematic orchestral action cue FIRST INSTRUMENTAL TOP-TIER TEST (underground forge midnight, classifier engaged but instrumental territory caps shorter than vocal recipes) | B minor | 138 | bass trombone (69-back deep revival) + contrabassoon (62-back deep revival) + staccato string section |
+| 320 | Ardor | Symphonic metal HELDENTENOR Liebestod ballad — BEST RECIPE + VOCAL ANCHOR application (lovers' deck at dawn, love-death 4th pole beyond monumental triptych) | F minor | 102 | harp (70-back deep revival) + crotales (76-back deep revival) + timpani |
 
 ## Next-cycle priorities
 
