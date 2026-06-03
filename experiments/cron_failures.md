@@ -1,5 +1,12 @@
 # Cron failure log
 
+### 2026-06-03 — cron fire, no-op — bridge fully disconnected
+
+Reason: `list_connected_browsers` returns `[]` and `tabs_context_mcp` returns "Browser extension is not connected." Chrome extension dropped between v317 (closed successfully) and this cycle. No previous YAML uncommitted (cycle_start.py reports `recommended_action: draft_new` for v318).
+State: Nothing on disk. No agent chain spawned (per safety floor #4 "do NOT retry" — fully bridge-down state). v318 draft was NOT created. Catalog stays at 317.
+Action taken: Logged this no-op + committing.
+Next cycle should: Re-check `list_connected_browsers`. If it returns ≥1 entry, proceed with full v318 draft cycle. If still empty, short-circuit again. User needs to manually re-pin the Claude Code Chrome extension or refresh a logged-in claude.ai tab so the extension re-connects.
+
 ### 2026-06-02 — v304 RETRY-6 — fresh /create tab is in wrong Chrome window
 
 - **connectedAt advanced**: 1780405790503 → 1780409642261 (fresh reconnect confirmed)
