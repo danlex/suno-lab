@@ -1,0 +1,160 @@
+name: "perstat-v323"
+version: 323
+title: "Perstat"
+instrumental: false
+vocal_gender: female
+
+style: "Sacred minimalist orchestral sustained lament — a candle in a stone room at 4am, cold window unbroken, a woman keeping watch. Polished studio mix, tight chamber reverb, warm tape saturation. D minor Dorian, no modulation, 54 BPM. A four-note descending bass — D C B-flat A — repeats as slow grief ostinato without development. Lyric soprano enters at 0:28 on the contour as long held tones, never pushed high, never ornamented. Viola-led string orchestra breathes beneath at pianissimo, violas prominent over violins, texture constant. At 1:50 a shadow alto folds in a third below, not harmonizing, simply witnessing. The dynamic never rises. No climax, no modulation, no eruption — weight through duration not volume. At 2:50 the soprano stops; the alto continues briefly; only the ostinato remains until the final tone decays. Film score for a nocturnal vigil scene. No guitars, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [Viola ostinato alone — D C Bb A, 16 bars]
+  Perstat
+  Manet
+
+  [Soprano long-tone enters — string pad, 24 bars]
+  Manet candela
+  In silentio cantat
+  Anima sola
+  Vigilat
+
+  [Sustained — no development, 24 bars]
+  Per noctem
+  Sustinet — manet
+  Vigilia longa
+  Perstat — perstat
+
+  [Shadow alto enters — third below, 20 bars]
+  Lux in tenebris non frangitur
+  Manet candela
+  Anima sola — vigilat
+  Perstat
+
+  [Both voices witness — ostinato constant, 24 bars]
+  Sustinet — sustinet
+  Per noctem — vigilia longa
+  In silentio cantat
+  Manet — manet
+  Lux in tenebris non frangitur
+
+  [Soprano stops — alto alone, 16 bars]
+  Perstat
+  Anima sola
+  Vigilat — manet
+
+  [Alto stops — ostinato final descent, 16 bars]
+  Perstat
+
+  [Final note held until decay, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, pop, cinematic ambient, intimate chamber, elegiac neoclassical, power ambient, ambient drone, Gregorian chant, Latin choral ambient, choral ambient drone, meditation soundscape, Indian classical, Hindustani, sitar, tabla, raga, trap, rap, phonk, drill, hip-hop, R&B, EDM, electronic, synthesizer, pipe organ, dramatic soprano peaks, operatic soprano belting, bel canto Italian opera, Baroque period instrument, harpsichord ensemble, symphonic metal, heldentenor, countertenor cinematic, Welsh hwyl, atmospheric post-rock, clean tenor pop, choral eruption, tutti fortissimo, suspense thriller ambient, spiritual gospel, autotune, nu-metal, grunge, hard rock, film score eruption, climactic orchestral, ceremonial march, festival arrival, density arrival arc, forward-motion cinematic, waterphone drone"
+
+notes: |
+  Holy minimalism is a compositional tradition emerging in the late twentieth century
+  from Eastern and Central European composers working within a Christian spiritual
+  framework. Its signature is the sustained tension of a modal or diatonic harmonic
+  field — a single key, a single ostinato, minimal development — generating emotional
+  weight through accumulated duration rather than dramatic arc. The tradition is
+  inseparable from a small group of composers whose names are omitted here per catalog
+  discipline; their shared principle was that the architecture of endurance — sound
+  continuing without resolution — could carry spiritual and emotional mass that
+  climactic gesture cannot.
+
+  Concept source (researcher): v323 "Perstat" — holy minimalism sustained-lament form
+  × sacred-minimalist orchestral. The RESILIENCE/ENDURANCE emotional pole — the seventh
+  and final pole in the catalog's emotional taxonomy. The antithesis of dramatic peak.
+  The architecture of NOT BREAKING. Emotional weight through duration not volume.
+
+  Composer-omission: this cycle inhabits the sonic and structural territory of three
+  composers whose last names are withheld per catalog discipline — one Polish, one
+  Estonian, one English — all working in the sustained-lament mode with sparse strings,
+  held vocal lines, and repeated descending bass figures as grief ostinato. Their
+  combined output defined what "holy minimalism" sounds like in the late twentieth
+  century. No names appear in this prompt.
+
+  Duration strategy: BPM 54 places this firmly in the slow-band ceiling per playbook
+  rule 8 (≤115 BPM caps at ~3:30 regardless of bar count). Target 3:20–3:30. Concept
+  is explicitly REFLECTIVE (lament, sustained vigil, stasis architecture) — playbook
+  rule 10 confirms ~3:30 ceiling for reflective concepts. Total lyric bar count: 148
+  bars across 8 sections + End. The reflective ceiling is accepted and appropriate;
+  the form's power is emotional density not length. Production tokens applied: polished
+  studio mix, tight chamber reverb, warm tape saturation (three tokens, playbook rule 2).
+  Sentence case throughout; atmospheric-first opening anchors "sacred minimalist
+  orchestral sustained lament" in the first clause (classifier territory test adjacent
+  to v298-v300 cinematic classical-crossover but without eruption). Colon-syntax lyrics
+  with 2-6 word descriptor labels and bar counts per playbook rule 1 and
+  feedback_lyrics_balance.md. NO [Silence] metatag per feedback_silence_gate_truncates.md
+  — the density reduction is structural (soprano stops, then alto stops) not a silence
+  event. NO Build/Silence/Drop stack per playbook rule 7 — this form's architecture
+  explicitly rejects it. Both body voices (lyric soprano + shadow alto) are vocal body
+  voices; viola-led string orchestra is a string body voice — three body voices, zero
+  spectral picks, satisfying playbook rule 5.
+
+  Instruments with catalog gaps:
+  - lyric soprano (vocal — body voice; last catalog soprano use v322, gap 1 — but
+    the specific "lyric soprano in middle register, sustained long-tone, NOT
+    pushed to upper register" voice type is architecturally distinct from v322's
+    countertenor + v311/v312/v318/v320 dramatic sopranos with peaks): adult female
+    voice in the lyric soprano fach (C4–C6), singing the four-note descent contour
+    D-C-Bb-A as slow long-tone melody. Never ornaments, never climbs to high notes,
+    never increases in volume. Power through persistence rather than range. Opens at
+    0:28 and continues through 2:50 — the longest uninterrupted vocal line in the
+    catalog.
+  - viola-led string orchestra (string body voice; last string orchestra use v321, gap 2;
+    last VIOLA-PROMINENT string orchestra use v251, gap 72): the full string section
+    with violas placed above violins in the mix — the dark middle-register timbre
+    dominating, not the bright violin surface. Plays pianissimo throughout as a
+    sustained harmonic pad beneath the vocal lines. Ostinato bass line (D-C-Bb-A)
+    supplied by cellos and basses repeating unchanged for the entire form. The
+    texture does not develop, does not swell, does not arrive at a climax. It simply
+    continues.
+  - shadow alto (vocal — body voice; catalog debut architecture — 62nd orthogonal vocal
+    arrangement; gap: architecture has no prior occurrence): a second female voice
+    (alto range, A3–E5) entering at 1:50 a major third below the soprano, echoing
+    the same contour without harmonizing in the traditional sense. The alto does not
+    answer the soprano, does not resolve the soprano's line, does not provide
+    harmonic contrast. It witnesses — a second presence in the room, not a second
+    argument. When the soprano stops at 2:50 the alto continues alone briefly
+    before it too falls silent, leaving only the string ostinato.
+
+  Novelty claims: technique-novelty (holy minimalism sustained-lament ostinato form
+  — first use of this specific architecture in the catalog; all 322 prior cycles used
+  some form of climax, modulation, density arrival, or dynamic contrast); voice-novelty
+  (62nd orthogonal vocal architecture: lyric soprano sustained + shadow alto witness —
+  neither voice has peaks, no dramatic moment, no call-and-response; the pairing has
+  no prior catalog occurrence); concept-novelty (RESILIENCE/ENDURANCE — 7th emotional
+  pole; antithesis of dramatic peak; the architecture of NOT BREAKING); BPM-revival
+  (54 BPM last used v86, gap 237 — very deep revival); key-revival (D minor last
+  v318, gap 5 — recent but acceptable; Dorian inflection on D minor is fresh framing);
+  scene-novelty (stone room 4am vigil — a woman keeping watch with a single candle,
+  no prior catalog scene with this architecture of patient endurance).
+
+  Final style char count: 935.
+
+tags:
+  - lyric-soprano
+  - viola-led-string-orchestra
+  - shadow-alto
+  - 54bpm
+  - d-minor
+  - d-minor-dorian
+  - stone-room-vigil-scene
+  - revival-lyric-soprano-sustained-new-context
+  - revival-viola-led-strings-72-gap
+  - revival-shadow-alto-debut
+  - revival-54bpm-237-gap
+  - revival-d-minor-5-gap
+  - new-technique
+  - holy-minimalism-ostinato-form
+  - resilience-endurance-emotional-pole
+  - 7th-emotional-pole
+  - 62nd-vocal-architecture
+  - sustained-lament
+  - no-climax-no-modulation
+  - latin-liturgical-text
+  - grief-ostinato
+  - duration-3min
+  - research-driven
+  - vocal
+  - reflective-concept
