@@ -362,6 +362,7 @@ mindmap
 | 315 | Vael | Glossolalic contralto vocalise × cinematic atmospheric post-classical (coastal cave at low tide, invented phonetic language, classifier engaged but mid-tier duration) | G minor | 88 | cor anglais + frame drum + hurdy gurdy (68-back deep revival) |
 | 316 | Hiraeth | Welsh orchestral lamentation × cinematic classical-crossover MONUMENTAL cycle (Welsh hillside dawn mist, counter-tenor voice, Adagio-territory grief recipe applied) | C minor | 60 | alto flute (catalog debut) + low string orchestra + counter-tenor voice |
 | 317 | Sorgente | Sardinian cantu a tenore × cinematic orchestral apotheosis MONUMENTAL TRANSCENDENCE cycle (limestone ridge first dawn, 4-voice UNESCO heritage polyphony, communal apotheosis counterpart to v316 solo grief) | E minor | 58 | Sardinian 4-voice male polyphony (catalog debut UNESCO heritage) + slow-bow string orchestra + sustained French horn |
+| 318 | Ignis | Stile concitato Baroque-engine × cinematic symphonic-choral FIERY DEFIANCE (cathedral midnight lightning, third pole of monumental triptych completing v316 grief + v317 transcendence) | D minor | 120 | tam-tam (catalog debut) + piccolo (76-back deep revival) + stile concitato tremolo strings |
 
 ## Next-cycle priorities
 

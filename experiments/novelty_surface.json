@@ -1,6 +1,6 @@
 {
-  "total_prompts": 317,
-  "latest_version": 317,
+  "total_prompts": 318,
+  "latest_version": 318,
   "instruments": {
     "piano": [
       1,
@@ -564,6 +564,16 @@
       246,
       258
     ],
+    "piccolo": [
+      83,
+      116,
+      132,
+      144,
+      195,
+      221,
+      242,
+      318
+    ],
     "subcontrabass saxophone": [
       86,
       118,
@@ -648,15 +658,6 @@
       216,
       231,
       252
-    ],
-    "piccolo": [
-      83,
-      116,
-      132,
-      144,
-      195,
-      221,
-      242
     ],
     "prepared piano": [
       89,
@@ -1081,17 +1082,18 @@
       255,
       307
     ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318
+    ],
     "house": [
       242,
       261,
       280,
       292
-    ],
-    "symphonic": [
-      162,
-      178,
-      311,
-      314
     ],
     "romantic": [
       145,
@@ -1194,7 +1196,8 @@
       280,
       288,
       299,
-      305
+      305,
+      318
     ],
     "c minor": [
       15,
@@ -1820,7 +1823,8 @@
       54,
       61,
       99,
-      273
+      273,
+      318
     ],
     "121": [
       141
@@ -2005,6 +2009,17 @@
     ]
   },
   "titles": [
+    {
+      "version": 318,
+      "title": "Ignis",
+      "name": "ignis-v318",
+      "featured": [
+        "piccolo"
+      ],
+      "genre": "symphonic",
+      "key": "d minor",
+      "bpm": 120
+    },
     {
       "version": 317,
       "title": "Sorgente",

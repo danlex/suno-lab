@@ -1,0 +1,187 @@
+name: "ignis-v318"
+version: 318
+title: "Ignis"
+instrumental: false
+vocal_gender: female
+
+style: "Symphonic choral fiery defiance — stile concitato semiquaver tremolo strings as relentless agitation engine, massed low male choir in brutal unison chant, dramatic soprano soaring as spear-tip above the blaze. Cathedral nave at midnight, lightning through rose windows, stone cold, hundreds rising as one. Polished studio mix, Hollywood stage, deep low-end definition. D minor lifting to Eb minor at 2:40, 120 BPM. Tam-tam and brass fanfare open hammering meter. Tremolo strings ignite at 0:25 — violins and violas in rapid semiquavers. Bass-baritone choir enters brutal unison chant; soprano cuts through at 1:20. Bare percussion gate at 2:10: tam-tam only. Full ensemble ignition at 2:15; piccolo fanfare cuts highest. Half-step lift to Eb minor at 2:40; brass hammer blow; soprano above the choir's final chord. Film score for a communal defiance-rising scene. No guitars, no rock drums, no pipe organ, no synthesizers, no electronic beat."
+
+lyrics: |
+  [Tam-tam strikes, brass fanfare stabs, 10 bars]
+  Ignis...
+  tonat...
+
+  [Tremolo strings ignite, 16 bars]
+  Ignis, veritas, vincit
+  tonat, tonat, vincit
+  iustitia, iustitia
+  fortuna vertit
+
+  [Massed choir brutal chant, 20 bars]
+  Ignis, veritas, vincit
+  tempus, tempus tonat
+  vincit, vincit, vincit
+  ignis aeterna tonat
+
+  [Soprano apex — tremolo doubles, 24 bars]
+  Lumen aeterna, fortuna vertit
+  victoria, victoria
+  aeterna vincit
+  Ignis, veritas, vincit
+
+  [Full density choir and soprano, 28 bars]
+  Ignis aeterna, veritas
+  vincit omnia, vincit
+  iustitia tonat
+  fortuna vertit, vertit
+
+  [Bare percussion breath-gate, 8 bars]
+  Ignis...
+  vincit...
+
+  [Full ensemble ignition, piccolo, 28 bars]
+  Ignis, veritas, vincit
+  fortuna vertit, tonat
+  Lumen aeterna lucet
+  vincit omnia veritas
+
+  [Half-step lift to Eb minor, 22 bars]
+  Victoria aeterna vincit
+  iustitia, iustitia
+  fortuna vertit, vertit
+  Lumen aeterna, aeterna
+
+  [Cadential brass hammer, soprano, 20 bars]
+  Ignis aeterna
+  vincit veritas
+  fortuna vertit
+  aeterna... aeterna...
+  Ignis.
+
+  [End]
+
+exclude_styles: "power metal, symphonic metal, symphonic metal soprano, folk metal, black metal, post-black metal, extreme metal, death metal, metalcore, progressive metal, growling, screaming, operatic metal, Romantic opera, Welsh classical-crossover, counter-tenor solo, Sardinian polyphony, Georgian polyphony, Bulgarian vocal, Zulu isicathamiya, Tuvan throat singing, Mongolian throat singing, Gregorian plainchant, Byzantine liturgy, Russian liturgical, battle music, fantasy epic soundtrack, video game score, cinematic ambient, intimate chamber, elegiac neoclassical, new age ambient, Celtic folk, African choral, gospel choir, male voice choir, bel canto, jazz, rap, hip-hop, trap, phonk, drill, R&B, electronic, EDM, synthesizer, lo-fi, Arabic, tribal, world music, rock, hard rock, acoustic guitar, electric guitar, drum kit, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone"
+
+notes: |
+  v318 "Ignis" — stile concitato Baroque agitation engine x cinematic symphonic-choral
+  fiery defiance. Third pole of the monumental emotional triptych: v316 Hiraeth (grief)
+  + v317 Sorgente (transcendence) + v318 Ignis (defiance).
+
+  TECHNIQUE: Stile concitato ("agitated style") is a Baroque compositional device
+  formalised in the early 17th century as a means of musical expression for agitation,
+  combat, and fierce emotion. Its engine is the semiquaver (sixteenth-note) tremolo:
+  rapid repeated articulation of a single pitch or chord across strings or other
+  sustaining voices, producing a hammering, relentless rhythmic energy that saturates
+  the texture from below. The effect is distinct from standard tremolo (speed variation)
+  or bowing tremolo (unmeasured) — stile concitato specifies measured semiquaver
+  repetition as a structural device. Here it is deployed as a full string-section force:
+  all violins and violas in unison semiquaver figuration, not a solo line, producing a
+  wall of agitation beneath the choral mass. The technique influenced later composers'
+  battaglia and scenes of just wrath — none named here per catalog discipline.
+
+  Concept source (researcher): "v318 Ignis — stile concitato Baroque-engine x cinematic
+  symphonic-choral fiery defiance. THIRD pole of the monumental emotional triptych
+  (v316 grief + v317 transcendence + v318 DEFIANCE). Hammering semiquaver tremolo
+  strings under massed low male choir + dramatic soprano apex. Emotion through relentless
+  driving defiance — the opposite of v316's vulnerability and v317's communal welling."
+
+  Composer-omission: the architecture of massed low choir in brutal unison beneath a
+  soaring soprano, underpinned by hammering string figuration and punctuated by tam-tam
+  and brass, most directly echoes two canonical choral-orchestral works of the 19th
+  century — one a secular cantata anchored by a wheel-of-fate motif, one a sacred
+  sequence for the dead turned theatrically confrontational. Neither composer is named
+  here per catalog discipline.
+
+  Duration strategy: BPM 120 sits at the upper edge of the slow band (playbook rule 8
+  ceiling ~3:30 for ≤115 BPM, borderline at 120). Total lyric bar count: 176 bars across
+  9 sections. Duration drivers applied:
+  - Parametrized colon-lyrics with bar counts per section (playbook rule 1).
+  - Production tokens: polished studio mix, Hollywood scoring stage, deep low-end
+    definition — three tokens (rule 2 compliant).
+  - Sentence case throughout; atmospheric-first opening with "Symphonic choral fiery
+    defiance" as classifier anchor locking long-form render path (rules 3 + 4 compliant).
+  - Two body voices minimum: stile concitato tremolo strings (full violin/viola section —
+    body string force) + tam-tam (large bronze percussion — body percussive anchor) +
+    piccolo (high woodwind fanfare — body woodwind). No spectral voices. Rule 5 satisfied.
+  - No [Silence] metatag anywhere — hardened rule per feedback_silence_gate_truncates.md.
+    Breath-gate at 2:10 achieved by bracket label ("Bare percussion breath-gate, 8 bars")
+    with timpani + tam-tam only, density reduction not silence.
+  - Forward-motion concept: defiance-procession-ascent arc qualifies for the forward-motion
+    classifier advantage (playbook rule 10). Exclude_styles blocks cinematic ambient,
+    intimate chamber, elegiac neoclassical to prevent duration compression from reflective
+    auto-tags.
+  - Build/Drop analog: "Full density choir+soprano" → "Bare percussion gate" → "Full
+    ensemble ignition" approximates the frisson stack (playbook rule 7 adapted per
+    silence-gate truncation constraint — no [Silence] markup used).
+
+  TRIO INSTRUMENTS:
+  - Tam-tam (CATALOG DEBUT — never used in 317 prior versions; gap infinite): large
+    bronze gong struck with heavy beater, producing a slow-building crash with long
+    decay tail — the defining percussive marker of theatrical choral-orchestral climaxes.
+    Opens the piece from 0:00 as the first sonic event, anchoring downbeats with
+    thunderous low-frequency mass. Rolls through full-ensemble sections and final brass
+    hammer blow. First appearance of this instrument in the entire 317-version catalog.
+  - Piccolo (last v242, gap 76): the highest-pitched standard orchestral instrument,
+    sounding an octave above written pitch. Enters at the full ensemble ignition (2:15)
+    as the blazing fanfare voice cutting above every other instrument — brass, choir,
+    soprano. Its piercing high register is the exact sonic complement to the tam-tam's
+    cavernous low end, framing the full texture from extremity to extremity. 76-cycle
+    revival is among the deepest single-instrument gap revivals in catalog history.
+  - Stile concitato tremolo strings (full violin + viola section — body voice): the
+    entire violin and viola section in measured semiquaver repeated-note tremolo,
+    deployed as a full-section Baroque agitation engine from 0:25 onward. Not a solo
+    string line — a mass of strings in unison rapid figuration, creating the hammering
+    rhythmic pressure that sustains relentless defiance across every section except the
+    bare percussion gate. String orchestra used at v310 and v316 in slow-bow sustain
+    roles; this cycle's semiquaver-tremolo function is a wholly distinct deployment.
+
+  Latin lyric vocabulary: "Ignis" (fire), "veritas" (truth), "vincit" (conquers),
+  "tonat" (thunders), "iustitia" (justice), "aeterna" (eternal), "fortuna" (fortune/fate),
+  "vertit" (turns), "tempus" (time), "victoria" (victory), "lumen" (light — used as
+  song title at v298, here as lyric word only), "lucet" (shines), "omnia" (all things).
+  Male choir chants relentless short phrases ("Ignis, veritas, vincit"; "tempus, tempus
+  tonat"). Dramatic soprano carries lyric lines at peak ("Lumen aeterna, fortuna vertit";
+  "Lumen aeterna lucet"). Concept: the cathedral as crucible of justice — fire hammers
+  to truth, the wheel of fate turns by relentless percussion, the eternal flame outlasts.
+
+  VOCAL_GENDER UI CHECK: Per feedback_vocal_gender_ui_quirk.md, submitter MUST verify
+  Suno UI vocal_gender matches YAML (female) before Create. The dramatic soprano is the
+  structural climax lead voice; the massed male choir is textural and rhythmic but the
+  soprano is the melodic protagonist. UI single-select: Female.
+
+  Novelty claims: technique-novelty (stile concitato semiquaver tremolo full-section
+  string deployment — first Baroque agitation-engine cycle in the 317-version catalog);
+  instrument-novelty (tam-tam CATALOG DEBUT, gap infinite — first in 317 prior versions);
+  revival-depth (piccolo gap 76 — among the deepest single-instrument gap revivals in
+  catalog history); voice-novelty (58th orthogonal vocal architecture — massed low male
+  choir + dramatic soprano apex, distinct from all 57 prior architectures); BPM-fresh
+  (120 BPM last v273, gap 45); key-fresh (D minor last v305, gap 13); scene-novelty
+  (cathedral nave at midnight, lightning through rose windows, just defiance rising as
+  communal force). Triptych-completion: third and final pole of monumental emotional
+  trilogy begun at v316.
+
+tags:
+  - tam-tam
+  - piccolo
+  - stile-concitato-tremolo-strings
+  - 120bpm
+  - d-minor
+  - eb-minor
+  - cathedral-midnight-defiance-scene
+  - stile-concitato-baroque-engine
+  - massed-low-male-choir
+  - dramatic-soprano-apex
+  - catalog-debut-tam-tam
+  - 58th-orthogonal-voice
+  - revival-piccolo-76-gap
+  - new-technique
+  - half-step-lift-2-40
+  - bare-percussion-breath-gate
+  - latin-lyrics
+  - duration-3min
+  - research-driven
+  - vocal
+  - symphonic-choral-defiance
+  - monumental-defiance-cycle
+  - triptych-completion-v316-v317-v318
+  - v316-v317-lineage
