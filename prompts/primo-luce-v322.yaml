@@ -1,0 +1,168 @@
+name: "primo-luce-v322"
+version: 322
+title: "Primo Luce"
+instrumental: false
+vocal_gender: male
+
+style: "Symphonic metal operatic ballad — cathedral apse at pre-dawn winter, eastern window catching first red light, a male falsetto rising as the bell-tower strikes. Polished studio mix, Hollywood scoring stage, warm tape saturation. C# minor lifting to D major at 2:00, 72 BPM. Countertenor in pure falsetto opens alone — flute-like clarity over a single pipe organ pedal tone, stone-cathedral-dawn gravity beneath. Cello pizzicato enters at 0:40 as heartbeat pulse; strings rise from 1:10. Full metal tutti erupts at 1:30 — rhythm section and choir — countertenor floats above, most delicate voice over most powerful texture. At 2:00 the mass drops to one organ pedal; C# minor lifts to D major — dark becoming light. Choir enters from below at 2:15; countertenor rides above. Organ returns full at 3:00. Deep low-end definition. Film score for a cathedral awakening scene. No synthesizers, no autotune, no rock drums, no pop production."
+
+lyrics: |
+  [Countertenor alone — organ pedal, 12 bars]
+  Primo luce, ortus novus
+  In tenebris — stella matutina
+  Aurora surgere — lux in petra
+  Matutina — ortus
+
+  [Cello pizzicato heartbeat enters, 14 bars]
+  In luce novus dies
+  Matutina surgit hora
+  Stella matutina — in petra
+  Primo luce, primo luce
+
+  [Strings rise — organ swells, 16 bars]
+  Aurora — novus dies ortus
+  In luce — in luce
+  Stella matutina surgit
+  Primo luce — ortus
+
+  [Full metal tutti — countertenor on top, 24 bars]
+  Primo luce! Ortus novus!
+  Stella matutina — surge!
+  In luce — in luce ascende
+  Aurora! Novus dies!
+  In luce aeterna — ortus
+
+  [Organ pedal — C# minor to D major, 12 bars]
+  Primo luce...
+  Ortus — lux
+  In luce — matutina
+
+  [Male choir from below — countertenor above, 20 bars]
+  In luce novus dies
+  Stella matutina — ortus
+  Aurora surgit — surge in lucem
+  Primo luce — aeterna
+  In luce — in luce
+
+  [Pipe organ returns full — final cadence, 16 bars]
+  Primo luce — ortus
+  In luce aeterna surgere
+  Stella matutina — novus dies
+  Primo luce
+
+  [End]
+
+exclude_styles: "death metal, black metal, extreme metal, growling, screaming, deathcore, metalcore, djent, slam metal, doom metal, power metal, Viking metal, folk metal, Norse metal, symphonic power metal cheese, bel canto Italian opera, Baroque period instrument, harpsichord ensemble, Gregorian chant, Latin choral ambient, Indian classical, Hindustani, sitar, tabla, raga, trap, rap, phonk, drill, hip-hop, R&B, lo-fi, electronic, EDM, synthesizer, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, acoustic guitar solo, country, bluegrass, Celtic, gypsy, klezmer, Arabic, tribal, world music, cinematic ambient, intimate chamber, elegiac neoclassical, gospel, spiritual, autotune, nu-metal, alt-metal, grunge, hard rock, hair metal, symphonic metal soprano, dramatic soprano over metal, heldentenor, clean tenor pop, operatic mezzo, counter-tenor cinematic classical-crossover, Welsh hwyl, atmospheric post-rock, castrato vocal style, early music ensemble"
+
+notes: |
+  Symphonic metal operatic ballad is a subgenre in which a classically-trained
+  operatic voice is set against the full density of a modern metal rhythm section
+  (distorted rhythm guitars, drum kit, bass guitar) with a large symphonic orchestra
+  and choir. The genre originated in northern Europe in the 1990s and has become
+  confirmed long-form Suno v5.5 territory, consistently rendering 3:00–4:00+ (v311
+  mean 3:52, record 5:04). v322 applies the v311+v312+v320 proven best recipe with
+  one new variable: countertenor voice register in the symphonic metal classifier
+  context — the sixth orthogonal vocal architecture deployed in this recipe lineage.
+
+  Concept source (researcher): v322 "Primo Luce" — symphonic metal × countertenor
+  Baroque-aria architecture, AWAKENING/BIRTH emotional pole (the sixth pole beyond
+  grief/transcendence/defiance/Liebestod/reverence). The countertenor + symphonic
+  metal combination embodies the awakening paradox: the most delicate voice surviving
+  the most powerful texture. As if dawn arrives while the orchestra is still in night
+  mode. The voice does not conquer the dark; it simply appears. C# minor lifting to
+  D major at 2:00 — the minor-to-major awakening modulation, distinct from all prior
+  minor-to-minor half-step lifts.
+
+  Composer-omission: this cycle echoes the northern European tradition of layering
+  classically-trained high male voices (whether countertenor or castrato-lineage) over
+  dense orchestral and choral mass for theatrical effect — a tradition whose most
+  celebrated practitioners are not named here per catalog discipline.
+
+  The countertenor voice register was used in v316 Hiraeth, but in a completely
+  different classifier: cinematic classical-crossover Adagio with Welsh hwyl, chamber
+  strings, no rhythm section, GRIEF emotional pole. Here the countertenor operates
+  inside symphonic metal density — entirely different sonic territory. v311+v312 used
+  female dramatic soprano; v320 used male heldentenor (cuts THROUGH orchestra); this
+  countertenor FLOATS ABOVE — the voice doesn't fight the texture, it simply rises
+  above it. This is the 61st orthogonal vocal architecture.
+
+  Duration strategy: BPM 72 sits in the slow band (playbook rule 8: slow-BPM ceiling
+  ~3:30 for ≤115 BPM). Duration argument rests primarily on classifier lock:
+  "Symphonic metal operatic ballad" anchors the first sentence, matching the v311+v312
+  proven long-form classifier. Total lyric bar count: 114 bars across 7 sections +
+  End. At the slow-BPM ceiling this targets 3:00–3:30. Production tokens applied:
+  polished studio mix, Hollywood scoring stage, warm tape saturation, deep low-end
+  definition (four tokens, playbook rule 2). Sentence case throughout; atmospheric-
+  first opening; colon-syntax lyrics with bar counts for per-section length scaffolding
+  (playbook rule 1). NO [Silence] metatag anywhere per feedback_silence_gate_truncates.md
+  — the 2:00 density reduction is the tutti dropping to a single organ pedal tone, NOT
+  a silence event. The minor-to-major D major lift is the awakening modulation trigger.
+  Forward-motion arc from sparse opening to full tutti eruption correlates with longer
+  renders per playbook rule 10.
+
+  Instruments with catalog gaps:
+  - countertenor voice (catalog debut in symphonic metal context — gap: v316 used
+    counter-tenor in cinematic classical-crossover, but "countertenor + symphonic
+    metal" combination is architecturally new; 61st orthogonal voice architecture):
+    adult male voice singing in pure falsetto register, C4–G5, with flute-like
+    clarity and a tone that hovers rather than cuts. In this context the register
+    creates the awakening paradox — the most delicate voice floating above the most
+    powerful texture. Opens alone at 0:00 barely supported, survives full tutti
+    eruption at 1:30, and rides above the male choir from 2:15.
+  - pipe organ pedal tones (last prominently featured ~v303, gap 19 — fresh framing):
+    the lowest register of a cathedral pipe organ, producing sub-bass frequencies
+    that resonate in stone and bone alike. Used here not as full-organ sonority but
+    as a single sustained pedal tone beneath the opening countertenor — stone-
+    cathedral-dawn resonance underneath the bare voice. Swells one register through
+    the density build, then returns as the sole surviving sound at 2:00 after the
+    tutti drops, making it the pivot point for the C# minor → D major modulation.
+    Returns in full at 3:00 for the final wash.
+  - cello section pizzicato (last bowed use v321, gap 1 — but PIZZICATO framing
+    is fresh; plucked cello as sparse heartbeat is distinct from v321's bowed sul
+    tasto and v316's bowed orchestral cello): the cello section playing plucked
+    rather than bowed, producing a sparse, dry, rhythmic pulse. Enters at 0:40 as
+    the heartbeat of the pre-dawn world waking around the voice — the world stirs
+    as the countertenor holds its opening phrase, not the reverse. Remains through
+    the tutti, inaudible under full density, but felt as the underlying pulse.
+
+  Novelty claims: voice-novelty (countertenor in symphonic metal classifier — 61st
+  orthogonal architecture; v316 used counter-tenor but in cinematic classical-
+  crossover, not metal density); concept-novelty (AWAKENING/BIRTH emotional pole —
+  6th pole beyond grief/transcendence/defiance/Liebestod/reverence); modulation-
+  novelty (minor → MAJOR, C# minor → D major — all prior catalog half-step lifts
+  were minor → minor; this is the first dark-to-light modulation in the symphonic
+  metal ballad lineage); key-revival (C# minor last v297, gap 25; D major last v276,
+  gap 46 — both fresh); BPM-revival (72 BPM last v145, gap 177 — very deep revival);
+  scene-novelty (cathedral apse pre-dawn, bell-tower striking the hour, first red
+  light through eastern window — no prior pre-dawn cathedral bell-hour scene).
+
+  Final style char count: 944.
+
+tags:
+  - countertenor
+  - pipe-organ-pedal
+  - cello-pizzicato
+  - 72bpm
+  - c-sharp-minor
+  - d-major
+  - cathedral-apse-pre-dawn-scene
+  - revival-countertenor-metal-new-context
+  - revival-pipe-organ-pedal-19-gap
+  - revival-cello-pizzicato-fresh-framing
+  - revival-72bpm-177-gap
+  - revival-c-sharp-minor-25-gap
+  - revival-d-major-46-gap
+  - new-technique
+  - symphonic-metal-operatic-ballad
+  - countertenor-over-metal-debut
+  - awakening-birth-emotional-pole
+  - minor-to-major-modulation-debut
+  - latin-liturgical-aria
+  - best-recipe-v311-v312-v320-applied
+  - half-step-lift-2-00
+  - density-arrival-arc
+  - duration-3min
+  - research-driven
+  - vocal
+  - symphonic-metal
+  - forward-motion-arc
