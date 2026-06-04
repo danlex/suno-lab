@@ -1,5 +1,12 @@
 # Cron failure log
 
+### 2026-06-04 — cron fire, no-op (cycle 4) — v327 bridge still disconnected
+
+Reason: `list_connected_browsers` still returns `[]`. Fourth consecutive cycle blocked on v327.
+State: `prompts/geurim-v327.yaml` still untracked, judge 98/100.
+Action taken: Logged + committing. No agent spawned.
+Next cycle: Same short-circuit until bridge is reconnected.
+
 ### 2026-06-04 — cron fire, no-op (3 stacked) — v327 bridge still disconnected
 
 Reason: Three cron prompts stacked up; per BACKLOG GUARD treated as ONE cycle. `list_connected_browsers` still returns `[]`. Third consecutive cycle blocked on v327.
