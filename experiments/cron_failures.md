@@ -1,5 +1,12 @@
 # Cron failure log
 
+### 2026-06-04 — cron fire, no-op — v327 bridge still disconnected
+
+Reason: `list_connected_browsers` returns `[]` and `tabs_context_mcp` returns "Browser extension is not connected." Bridge has not been restored since last cycle's v327 submit failure.
+State: `prompts/geurim-v327.yaml` still untracked, judge 98/100. Second consecutive cycle blocked.
+Action taken: Logged this no-op + committing. No submitter agent spawned (would only burn another timeout chain on a known-failing state). Same pattern as v304 multi-cycle outage.
+Next cycle should: Re-check `list_connected_browsers`. If it returns ≥1 entry, proceed with v327 submit retry. If still empty, short-circuit again. User needs to manually re-pin the Claude Code Chrome extension or refresh a logged-in claude.ai tab so the extension re-connects.
+
 ### 2026-06-04 — v327 failed at submit (NO clips generated)
 
 - **YAML**: prompts/geurim-v327.yaml (K-pop cinematic solo ballad, VIRAL ARM cycle 4)
