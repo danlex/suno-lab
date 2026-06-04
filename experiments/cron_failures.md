@@ -1,5 +1,15 @@
 # Cron failure log
 
+### 2026-06-04 — v327 failed at submit (NO clips generated)
+
+- **YAML**: prompts/geurim-v327.yaml (K-pop cinematic solo ballad, VIRAL ARM cycle 4)
+- **Title**: Geurim
+- **Judge**: 98/100 (passed)
+- **Reason**: Chrome MCP extension disconnected at start of submit (before form interaction). Submitter reported "Browser extension not connected after one reconnect attempt via open -a Google Chrome https://claude.ai. tabId 786913761 unreachable." Create was NOT clicked — server-side state unchanged.
+- **State**: `prompts/geurim-v327.yaml` exists on disk untracked, judged 98/100. Nothing was submitted.
+- **Action taken**: Submitter exited cleanly per safety floor #4.
+- **Next cycle should**: Per BACKLOG GUARD, `cycle_start.py` will return `recommended_action: resume_submit` for v327 (latest_yaml_uncommitted: true). Retry submit when bridge is healthy. No duplicate-clip risk since Create was confirmed NOT clicked.
+
 ### 2026-06-04 — v324 failed mid-form (NO clips generated)
 
 - **YAML**: prompts/queda-v324.yaml (Latin sad-trap ballad cinematic, VIRAL PIVOT cycle after 8 monumental)
