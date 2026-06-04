@@ -1,5 +1,12 @@
 # Cron failure log
 
+### 2026-06-04 — cron fire, no-op (3 stacked) — v327 bridge still disconnected
+
+Reason: Three cron prompts stacked up; per BACKLOG GUARD treated as ONE cycle. `list_connected_browsers` still returns `[]`. Third consecutive cycle blocked on v327.
+State: `prompts/geurim-v327.yaml` still untracked, judge 98/100.
+Action taken: Logged + committing. No submitter agent spawned.
+Next cycle: Same short-circuit until bridge is reconnected. User must manually re-pin the Chrome extension.
+
 ### 2026-06-04 — cron fire, no-op — v327 bridge still disconnected
 
 Reason: `list_connected_browsers` returns `[]` and `tabs_context_mcp` returns "Browser extension is not connected." Bridge has not been restored since last cycle's v327 submit failure.
