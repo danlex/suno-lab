@@ -1,0 +1,139 @@
+name: "velours-v344"
+version: 344
+title: "Velours"
+instrumental: false
+vocal_gender: female
+
+style: "A late-morning window left open, linen curtain lifting on warm air — the feeling of wanting nothing to change. Polished studio mix, warm tape saturation on the vocal, lush acoustic ambience. Nouvelle chanson-pop, intimate French female vocal half-spoken and tender, finger-picked nylon guitar and brushed snare on the bed, warm sub-bass pulse entering quietly. At 114 BPM in D major: oboe d'amore traces a plaintive vocal-adjacent line between phrases; mellotron string-choir pad lifts each chorus into a warm bloom; cello enters on the final chorus with a singing counterline as the key lifts to E-flat major. Voice stays conversational — near-whispered, never belted. Piano arpeggio shadows the bridge, vocal humming. Final chorus tapers to a single sustained note. Underscore for a quiet kitchen scene, morning light on a wooden table, two cups of coffee. No EDM drop, no autotune, no brass section, no drum machine, no cathedral reverb."
+
+lyrics: |
+  [Intro — guitare, 0:00]
+
+  [Couplet 1 — voix et guitare, 0:12]
+  Tu es là dans la lumière du matin
+  La tasse entre tes mains, le regard loin
+  Je ne dis rien, je regarde, c'est bien
+  Ce moment qui ne pèse presque rien
+
+  [Pré-refrain — basse entre, 0:40]
+  Quelque chose de doux m'envahit
+  Le temps s'arrête ici
+  Je pose ma main sur la tienne
+  Et tout le reste s'éloigne
+
+  [Refrain 1 — mellotron, bloom, 1:00]
+  C'est du velours, c'est toi le matin
+  C'est du velours, cette heure qui prend fin
+  Ne pars pas encore, reste une seconde
+  C'est du velours, ta façon d'être au monde
+
+  [Couplet 2 — hautbois d'amour, 1:28]
+  La fenêtre ouverte, la ville s'éveille
+  Tu souris sans raison, je te souris
+  C'est tout, c'est la vie
+
+  [Pont — piano, fredonné, 2:00]
+  Hm-hm-hm, hm-hm
+
+  [Refrain final — violoncelle, demi-ton, 2:28]
+  C'est du velours, c'est toi le matin
+  C'est du velours, cette heure qui prend fin
+  Ne pars pas encore, reste une seconde
+  C'est du velours, ta façon d'être au monde
+  Hm...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, musette, bal-musette, Parisian accordionist, nu-disco, dance-floor, four-on-the-floor, club, house music, Afrobeat, K-pop, J-pop, vocal cabaret, chanson singer, gypsy, klezmer, traditional chanson, French chansonnière belt, darkwave, post-punk, shoegaze, power ballad, cinematic ambient, elegiac, English-language pop, Anglophone indie-pop, Motown, soul brass section, big band, jazz orchestra"
+
+notes: |
+  Technique: nouvelle chanson-pop — the intimate, word-forward French lyric tradition
+  in which the vocal phrasing is half-spoken and conversational, set over acoustic-adjacent
+  indie-pop production. The lineage traces from late 1960s French ye-ye and 1970s singer-
+  songwriter intimacy into contemporary French indie-pop: finger-picked nylon guitar, brushed
+  snare, warm sub-bass, and sparse piano arpeggios rather than a groove-first or orchestral-first
+  framework. This is the opposite of v329 "Lueur" (French nu-disco, dance-floor, brass-forward):
+  that entry was upbeat and groove-driven; v344 is acoustic-adjacent, intimate, and word-forward.
+
+  Concept source: charts-informed gap — no prior catalog entry has combined the nouvelle
+  chanson-pop intimacy mode with this production language and a tender-joyful (not nocturnal,
+  not longing) emotional register. All prior French-language catalog cycles (v262 dark
+  electro-chanson, v262 nocturnal contralto, v329 nu-disco groove) were either dance-floor or
+  late-night introspective; v344 is the first morning-light, tender-joyful French vocal entry.
+
+  Composer-omission: this song is in conversation with the tradition of intimate French
+  singer-songwriters whose work defined the word-forward acoustic-pop lane from the 1970s
+  through 2020s — none named here per discipline.
+
+  Trio substitution note: the caller's original suggestion included tenor saxophone and trombone
+  as part of a Motown horn spine — those were replaced (per the prompt brief itself) with oboe
+  d'amore and cello, which are acoustic, vocal-adjacent, and intimate-register instruments
+  appropriate to nouvelle chanson-pop. Mellotron was retained as the chorus bloom carrier.
+
+  Duration strategy: BPM 114 sits at the upper end of the slow band (90–115); Suno caps this
+  range at ~3:30 regardless of bar count. Target is 2:45–3:05 — achieved by optimizing for
+  emotional density over maximum bar count. Arc: Verse 1 bare (guitar + voice) → Pre-chorus
+  (sub-bass enters) → Chorus 1 (mellotron bloom) → Verse 2 (oboe d'amore enters) → Wordless
+  hummed bridge (piano only, no [Silence] tag — per silence-gate-truncates feedback) → Final
+  chorus (cello counterline, half-step lift D major → E-flat major). Last timestamp at 2:28,
+  plus the final chorus bloom and sustained held note, puts total render at ~2:45–3:05. No
+  [Silence] metatag — the hummed bridge and sustained final note do the quiet work without
+  triggering truncation. Production tokens: polished studio mix, warm tape saturation, lush
+  acoustic ambience (three v5.5 reward tokens). Sentence case throughout; no ALL-CAPS labels.
+  Atmospheric opening front-loads the morning kitchen scene. Lyrics section labels are 2–6
+  word descriptors per feedback_lyrics_balance, with explicit timestamps.
+
+  Featured trio (intimate color layer over the guitar/brushed-snare/sub-bass bed):
+  - Mellotron (gap 12, last v332): warm string-choir pad texture on the chorus; body voice
+    providing the gentle harmonic bloom without full-orchestra density. Renders a soft,
+    slightly worn warmth that analog string-choir pads carry — ideal for the tender-joyful tone.
+  - Oboe d'amore (gap 13, last v331): plaintive, vocal-adjacent woodwind counterline in the
+    verses. The oboe d'amore sits a minor third below the regular oboe, giving it a warmer,
+    more intimate timbre — closer to the human voice than standard oboe. Body voice, low and
+    close, threading between the vocal phrases without competing.
+  - Cello (gap 18, last v326): singing counterline on the final chorus as the key lifts a
+    half-step to E-flat major. Body voice — the cello's lyrical upper register mirrors the
+    vocal arc and provides the emotional peak of the song without requiring orchestral weight.
+
+  All three are body voices — no spectral instruments in this trio. The genre bed (nylon guitar,
+  brushed snare, sub-bass, piano) is structural/foundational, not a fourth trio element.
+
+  Novelty claims:
+  - Technique novelty: nouvelle chanson-pop in the intimate acoustic-adjacent lane — no prior
+    catalog entry; first tender-joyful French vocal cycle.
+  - Trio novelty: mellotron (gap 12) + oboe d'amore (gap 13) + cello (gap 18) — combination
+    is catalog-unique; three warm body voices with vocal-adjacent quality.
+  - Key novelty: D major lifting to E-flat major at final chorus — catalog-new for this tonal
+    center pairing.
+  - BPM: 114 BPM — fresh in recent cycles (recent: 107, 109, 164, 130).
+  - Scene novelty: quiet kitchen morning-light scene — distinct from all prior French entries
+    (nocturnal, rain, dusk café) and all recent cycles (rooftop/amapiano, club/phonk).
+  - Title novelty: single French word "Velours" (velvet) — catalog-first, not a prior title,
+    not an artist or band name.
+
+  Style char count: 942. Lyrics char count: 979. Both verified under hard ceilings
+  (style ≤950, lyrics ≤980) via scripts/text_tools.py in-range and count commands.
+
+tags:
+  - mellotron
+  - oboe-d-amore
+  - cello
+  - 114bpm
+  - d-major
+  - e-flat-major
+  - nouvelle-chanson-pop
+  - vocal
+  - female-vocal
+  - french-lyrics
+  - kitchen-morning-scene
+  - tender-joyful
+  - revival-mellotron-12-gap
+  - revival-oboe-d-amore-13-gap
+  - revival-cello-18-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental-false
+  - half-step-lift
+  - wordless-bridge
