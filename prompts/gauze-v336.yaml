@@ -1,0 +1,152 @@
+name: "gauze-v336"
+version: 336
+title: "Gauze"
+instrumental: false
+vocal_gender: female
+
+style: "Warm light through linen curtains — just enough space to breathe. Polished studio mix, lush acoustic ambience, warm tape saturation. F-sharp minor with ninth and major-seventh jazz extensions, lifting to G minor at the final chorus, 117 BPM bossa-pop groove with a gentle nylon-guitar clave feel. A close-miked English female voice — breathy, jazz-cool — sings over finger-picked nylon-string guitar and brushed jazz kit. Viola da gamba carries the walking-bass line, warm bow and honeyed low depth. Bass flute breathes through the instrumental bridge, airy and legato over seventh-chord changes. Crystal marimba shimmers high and vibraphone-cool, threading through the chorus hooks. Lush ninth chords, 6/9 voicings — sophisticated, warm. Bridge through 2:00, final chorus 2:30, ring-out fade near 2:55. Underscore for a late-night quiet-elegance scene. No percussive fiesta energy, no Latin-pop, no big brass, no distorted guitars, no autotune."
+
+lyrics: |
+  [Nylon guitar opens, 0:00]
+  Just the light and the chord
+  And the window half-drawn
+
+  [Verse — vocal enters, 0:28]
+  You still fold your sleeves the same
+  Leave your coffee cup too close
+  I've been reading all your quiet
+  Like a language I almost know
+
+  [Chorus — full groove, jazz chords, 0:56]
+  Honey in the half-light
+  Ninth chord, open door
+  You're the only easy thing
+  I've been waiting for
+  Honey in the half-light
+  Stay a little more
+
+  [Verse two, 1:20]
+  The bass flute finds the window
+  Everything is borrowed time
+  The crystal marimba shivers low
+
+  [Chorus reprise, 1:40]
+  Honey in the half-light
+  Ninth chord, open door
+  You're the only easy thing
+  I've been waiting for
+
+  [Instrumental bridge — bass flute, viola da gamba, 2:02]
+
+  [Final chorus — voice and nylon guitar, 2:32]
+  Honey in the half-light
+  Ninth chord, open door
+  You're the only easy thing
+  I've been waiting for
+  Honey in the half-light
+
+  [Ring-out — sustained chord fades, 2:50]
+
+  [End]
+
+exclude_styles: "samba, carnival, bossa nova brasileiro, Brazilian folk, Portuguese-language vocal, Latin pop, Latin jazz, flamenco, tango, salsa, cumbia, reggaeton, Arabic, tribal, world music, acoustic guitar solo, rock, metal, punk, lo-fi, lo-fi hip-hop, vinyl crackle, tape hiss, EDM, synthesizer, pipe organ, electronic, new age, zen meditation, free jazz, atonal, microtonal, K-pop, J-pop, C-pop, mandopop, anime, vocaloid, autotune, gospel choir, power ballad, symphonic metal, cinematic ambient, elegiac neoclassical, ballad pop, indie pop, nu-disco, folk anthem, dream-pop, alt-R&B, city-pop, gospel-pop, trip-hop, experimental noise, drone ambient"
+
+notes: |
+  Technique: cool-jazz bossa-pop — a stripped-back nylon-guitar groove with brushed
+  jazz kit and lush seventh/ninth harmony, carrying a close-miked breathy English female
+  vocal in the quiet-luxury TikTok lane that emerged in 2026. The "bossa-pop" form
+  inherits the gentle clave pulse and harmonic sophistication of the Brazilian cool-jazz
+  tradition without being nationalist or folkloric — it's the international pop
+  descendant of that tradition, dressed in understated elegance rather than carnival
+  color.
+
+  Concept source: charts-informed, original — the 2026 "quiet luxury" bossa-pop sound
+  (cool-jazz pop, intimate room, seventh-chord warmth, breathy close-mic female vocal).
+  Catalog differentiation: the only prior Brazilian-adjacent entry (v271) was unrelated
+  Portuguese sertanejo — this is the catalog's first bossa-pop cool-jazz pop entry.
+  Differentiated from v327 (ballad), v328 (indie-pop), v329 (nu-disco), v330 (folk
+  anthem), v331 (dream-pop), v332 (alt-R&B), v333 (city-pop), v334 (gospel-pop), v335
+  (cinematic downtempo/trip-hop).
+
+  Composer omission: this sound echoes the mid-twentieth-century Brazilian cool-jazz
+  composers and performers whose names are on the blocklist and are intentionally
+  omitted. It is also adjacent to the early-2020s Scandinavian-American jazz-pop
+  revival whose leading artists are similarly unnamed per discipline.
+
+  Trio — all three are fresh revivels:
+  - Viola da gamba (gap 76 — last used v259): warm bowed low-register color carrying
+    the walking-bass line; its antique bow timbre gives the groove an intimate
+    chamber-instrument flavor that distinguishes it from a modern electric bass.
+    Classified as a body voice (bowed string family).
+  - Bass flute (gap 31 — last used v304): warm, breathy woodwind that doubles the
+    bossa groove in the bridge and verse; its low-register airiness is the defining
+    color of the cool-jazz flute tradition. Body voice (woodwind family).
+  - Glass marimba (gap 92 — last used v243): crystalline high-register mallet shimmer
+    that functions as the ear-candy "replay hook" texture. In the Suno style field,
+    named "crystal marimba" — a fully accurate descriptor for the instrument's
+    glass-resonator bar construction — to comply with the composer blocklist (the word
+    "glass" alone is blocklisted as a composer surname). The instrument slug in tags
+    is "glass-marimba" (canonical Suno instrument name). Classified as a spectral/
+    mallet instrument; the two body voices above satisfy the ≥2 body voices rule, and
+    this counts as the ≤1 spectral instrument per trio.
+
+  Duration strategy (feedback_short_render_late_timestamp): intimate pop tends to
+  render short. Counter-measures applied:
+  1. Last lyric timestamp at 2:32 (final chorus), with explicit ring-out label at 2:50
+     — pushes Suno's structural planner well past 2:30.
+  2. Style anchors: "Bridge through 2:00, final chorus 2:30, ring-out fade near 2:55"
+     — two explicit time markers in the style prose.
+  3. [Instrumental bridge] section at 2:02 — a wordless section with no lyric lines
+     forces Suno to fill the timestamp gap (2:02 → 2:32) with extended instrumental
+     material, which is the "long bridge as structure" duration driver described in
+     the brief.
+  4. Target render ~2:45–3:05, consistent with BPM 117 (slow-tempo ceiling ~3:30
+     per playbook feedback_bpm_duration_ceiling).
+
+  Key: F-sharp minor (gap 79 — last used v256) with lush ninth and major-seventh
+  extensions voiced warm, not dark. Half-step lift to G minor at the final chorus —
+  the harmonic event that opens the key just enough to feel like resolution without
+  going major. The modal-warm voicing (m9, maj7, 6/9) ensures the minor key reads
+  sophisticated and intimate rather than melancholic.
+
+  Novelty claims:
+  - Genre lane: bossa-pop / cool-jazz pop — first entry in 336 versions. Prior
+    Brazilian-adjacent entry (v271) was sertanejo (unrelated genre).
+  - Trio: viola da gamba + bass flute + glass marimba — new three-way combination.
+  - BPM 117: last used v140, gap of 195 versions — effectively fresh.
+  - Key: F-sharp minor to G minor — novel key arc (F-sharp minor gap 79, G minor
+    last used v324 but the lifting arc from F# to G is new).
+
+  Style char count: 945 (verified in-range 700–950).
+  Lyrics char count: 930 (verified under 980).
+
+  Production tokens used: polished studio mix, lush acoustic ambience, warm tape
+  saturation. Sentence case throughout, atmospheric-first opening. Five inline negatives
+  present: no percussive fiesta energy, no Latin-pop, no big brass, no distorted
+  guitars, no autotune.
+
+tags:
+  - viola-da-gamba
+  - bass-flute
+  - glass-marimba
+  - 117bpm
+  - f-sharp-minor
+  - g-minor
+  - late-night-quiet-elegance-scene
+  - revival-viola-da-gamba-76-gap
+  - revival-bass-flute-31-gap
+  - revival-glass-marimba-92-gap
+  - new-bpm
+  - new-genre-lane
+  - bossa-pop
+  - cool-jazz-pop
+  - nylon-guitar
+  - brushed-kit
+  - english-female-vocal
+  - breathy-vocal
+  - jazz-ninth-chords
+  - quiet-luxury
+  - duration-3min
+  - research-driven
+  - vocal
+  - instrumental-false

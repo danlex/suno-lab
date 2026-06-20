@@ -380,6 +380,7 @@ mindmap
 | 333 | Gleam | Neo city-pop electro-pop (charts-informed viral) | B-flat minor to B minor | 143 | cornet + chalumeau + glockenspiel |
 | 334 | Ember | Gospel-pop call-and-response anthem, secular (charts-informed viral) | A-flat minor to A minor | 171 | tuba + Hammond organ + gospel piano (call-and-response choir) |
 | 335 | Undertow | Neo trip-hop orchestral pull, dry-to-reverb arc (charts-informed viral) | G major to A-flat major | 86 | nyckelharpa + handpan + cor anglais |
+| 336 | Gauze | Bossa-nova pop / cool-jazz pop, long instrumental bridge (charts-informed viral) | F-sharp minor to G minor | 117 | viola da gamba + bass flute + glass marimba |
 
 ## Next-cycle priorities
 

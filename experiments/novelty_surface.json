@@ -1,6 +1,6 @@
 {
-  "total_prompts": 335,
-  "latest_version": 335,
+  "total_prompts": 336,
+  "latest_version": 336,
   "instruments": {
     "piano": [
       1,
@@ -409,6 +409,29 @@
       249,
       330
     ],
+    "viola da gamba": [
+      113,
+      126,
+      138,
+      188,
+      209,
+      224,
+      237,
+      246,
+      259,
+      336
+    ],
+    "bass flute": [
+      100,
+      120,
+      134,
+      185,
+      208,
+      226,
+      241,
+      304,
+      336
+    ],
     "bass trombone": [
       102,
       121,
@@ -574,17 +597,6 @@
       271,
       329
     ],
-    "viola da gamba": [
-      113,
-      126,
-      138,
-      188,
-      209,
-      224,
-      237,
-      246,
-      259
-    ],
     "waterphone": [
       85,
       93,
@@ -595,16 +607,6 @@
       206,
       221,
       251
-    ],
-    "bass flute": [
-      100,
-      120,
-      134,
-      185,
-      208,
-      226,
-      241,
-      304
     ],
     "clavichord": [
       113,
@@ -625,6 +627,16 @@
       179,
       218,
       232
+    ],
+    "glass marimba": [
+      103,
+      121,
+      138,
+      189,
+      213,
+      219,
+      243,
+      336
     ],
     "hurdy gurdy": [
       113,
@@ -674,15 +686,6 @@
       215,
       233,
       309
-    ],
-    "glass marimba": [
-      103,
-      121,
-      138,
-      189,
-      213,
-      219,
-      243
     ],
     "hardanger fiddle": [
       111,
@@ -1068,7 +1071,8 @@
       312,
       316,
       317,
-      319
+      319,
+      323
     ],
     "neoclassical": [
       1,
@@ -1109,13 +1113,10 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257,
-      314,
       324,
       325,
       326,
@@ -1129,6 +1130,15 @@
       255,
       307,
       330
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1145,23 +1155,14 @@
       280,
       292
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
-    ],
-    "concerto": [
+    "romantic": [
       145,
-      149
+      149,
+      313
     ],
     "drone": [
       304,
       305
-    ],
-    "minimalist": [
-      201,
-      323
     ],
     "passacaglia": [
       111,
@@ -1186,14 +1187,17 @@
     "drill": [
       282
     ],
+    "jazz": [
+      336
+    ],
     "lo-fi": [
       296
     ],
+    "minimalist": [
+      201
+    ],
     "progressive house": [
       96
-    ],
-    "romantic": [
-      313
     ],
     "synthwave": [
       1
@@ -1405,6 +1409,16 @@
       273,
       321
     ],
+    "f-sharp minor": [
+      89,
+      119,
+      144,
+      194,
+      219,
+      236,
+      256,
+      336
+    ],
     "a-flat minor": [
       107,
       126,
@@ -1440,15 +1454,6 @@
       224,
       237,
       255
-    ],
-    "f-sharp minor": [
-      89,
-      119,
-      144,
-      194,
-      219,
-      236,
-      256
     ],
     "d-flat major": [
       92,
@@ -1896,7 +1901,8 @@
       287
     ],
     "117": [
-      140
+      140,
+      336
     ],
     "118": [
       134
@@ -2113,6 +2119,19 @@
   },
   "titles": [
     {
+      "version": 336,
+      "title": "Gauze",
+      "name": "gauze-v336",
+      "featured": [
+        "viola da gamba",
+        "bass flute",
+        "glass marimba"
+      ],
+      "genre": "jazz",
+      "key": "f-sharp minor",
+      "bpm": 117
+    },
+    {
       "version": 335,
       "title": "Undertow",
       "name": "undertow-v335",
@@ -2263,7 +2282,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -2358,7 +2377,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -3907,7 +3926,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -4058,7 +4077,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -4179,7 +4198,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -4215,7 +4234,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },
