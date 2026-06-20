@@ -1,0 +1,183 @@
+name: "nerve-v342"
+version: 342
+title: "Nerve"
+instrumental: false
+vocal_gender: female
+
+style: "Dust-road swagger with a smirk — a woman who already knows she's going to win. Warm tape saturation, polished studio mix, wide stereo stage. F major lifting to F-sharp major at the final chorus, 118 BPM alt-country pop. Banjo opens alone two bars, bright plucked defiance. Fiddle threads a wry dry countermelody through the verse. Accordion carries the harmonic body with Cajun-folk warmth. Tape-saturated acoustic guitar, upright bass, and a loose not-quite-quantized kick anchor the groove. Pre-chorus drops the bass — two bars of voice and banjo. Chorus crashes: full band, gang-vocal swell on the last word. Spoken-word bridge over single picked guitar only. Final chorus lifts a half-step; fiddle rings the fifth-above, then hard cut on beat one near 2:45. Underscore for a dust-road outlaw escape scene — engine running, door half open. No metal, no EDM drop, no orchestral strings, no pitch-corrected pop vocal, no arena-rock."
+
+lyrics: |
+  [Intro — lone banjo, 0:00]
+
+  [Verse 1, 0:08]
+  Left my name on a bar receipt
+  Borrowed truck, borrowed heat
+  Before the law wakes from sleep
+
+  [Pre-chorus — bass drop, banjo, 0:35]
+  Nothing left to lose right here
+  Just the string and the open air
+
+  [Chorus — full band, gang swell, 0:48]
+  Don't need your rules, I need the road
+  Banjo swinging every mile I've owed
+  Fiddle calls — go!
+
+  [Verse 2, 1:10]
+  Ran the red at Hendricks Creek
+  Badge radio to speak
+  Last honest girl, crooked town
+
+  [Pre-chorus — bass drop, banjo, 1:38]
+  Nothing left to lose right here
+  Just the string and open air
+
+  [Chorus — gang swell, 1:50]
+  Don't need your rules, I need the road
+  Banjo swinging every mile I've owed
+  Fiddle calls — go!
+
+  [Bridge — spoken, guitar, 2:10]
+  [Spoken Word] Paid every fine I owed. The rest were more interesting.
+
+  [Final chorus — F-sharp, harmony, 2:24]
+  Don't need your rules, I need the road
+  Banjo swinging every mile I've owed
+  Fiddle rings — go, go!
+
+  [Hard cut, fiddle, 2:42]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, metal, hard rock, arena rock, stadium rock, heavy metal, death metal, punk, grunge, psychedelic rock, synthwave, retrowave, vaporwave, chillwave, lo-fi, drum machine, 808, trap, phonk, drill, hip-hop, R&B, gospel choir, operatic soprano, symphonic metal, ambient drone, cinematic ambient, elegiac, neoclassical, chamber music, polished Nashville pop, over-produced country, bro-country, pop country gloss, country-pop ballad, singer-songwriter ballad, Americana folk ballad, bluegrass instrumental, Celtic folk, Appalachian roots"
+
+notes: |
+  Technique: outlaw alt-country pop — fiddle-and-banjo Americana fused with modern pop
+  production hallmarks: detuned vocal stack harmonics on the chorus, tape-saturated acoustic
+  guitar texture, a not-quite-quantized live kick, and a bars-long bass dropout before the
+  chorus. The emotional register is wry swaggering defiance (not romantic longing), and the
+  structural arc is an outlaw narrative with a spoken-confession bridge and a hard-cut ending
+  — deliberately contrasting the verse→chorus→bridge→final-chorus pattern that dominated
+  the preceding 15 cycles. This is the catalog's first entry in the Americana/alt-country
+  pop lane across all 341 prior versions.
+
+  Concept source: charts-informed original in the outlaw alt-country pop lane. The 2025-2026
+  charts cycle has seen outlaw and alt-country imagery resurface in pop production contexts
+  — raw acoustic texture, gang-vocal swells, tape saturation — while retaining modern
+  structural clarity. No named acts referenced per discipline.
+
+  Trio reconciliation note: the novelty picker's suggested trio included clarinet and upright
+  bass. Both were replaced to serve the genre identity. Clarinet would invoke orchestral-folk
+  or klezmer classifiers rather than Americana. Upright bass was kept as genre-bed (it is the
+  genre's essential low-end) but replaced in the featured trio by banjo — the cycle's headline
+  novelty and the genre's primary identity marker. Accordion was retained from the suggestion
+  as the harmonic body voice with Cajun-Americana coloring. Fiddle (violin in Americana framing)
+  was added as the countermelody and ring-out voice, serving the genre essential role that no
+  other instrument can play here.
+
+  Composer/performer omission: this sound is in dialogue with the outlaw-country and
+  alt-Americana tradition of the 1970s through the 2020s whose leading performers are on the
+  blocklist and are intentionally unnamed. The fiddle-and-banjo two-bar open, the tape-
+  saturated acoustic bed, the detuned gang-vocal chorus, and the wry spoken bridge are
+  idiomatic to that tradition without referencing any individual act.
+
+  Duration strategy: 118 BPM sits at the upper mid-tempo band (115-130), which per playbook
+  rule 8 should render 2:40-3:10 comfortably. Target is 2:40-3:00. Arc: lone banjo 2-bar
+  intro → verse + fiddle counterpoint → bass-dropout pre-chorus → full-band chorus with gang
+  swell → verse 2 escalation → bass-dropout pre-chorus → chorus → sparse spoken bridge →
+  final chorus in F-sharp major with fifth-above fiddle harmony → hard cut on beat one at
+  ~2:42. Late timestamp anchors are in both the style field ("hard cut near 2:45") and the
+  lyrics ("[Hard cut, fiddle, 2:42]") to push the render to target duration. No [Silence]
+  metatag per feedback_silence_gate_truncates — the pre-chorus bass dropout is conveyed via
+  section label only. Sentence case throughout. No ALL-CAPS form labels.
+
+  Production tokens used: warm tape saturation, polished studio mix, wide stereo stage.
+  Atmospheric-first opening front-loads the swagger-and-smirk scene before key/BPM.
+  Purpose phrase: "Underscore for a dust-road outlaw escape scene — engine running, door
+  half open."
+
+  Five inline negatives: no metal, no EDM drop, no orchestral strings, no pitch-corrected
+  pop vocal, no arena-rock.
+
+  Featured trio — instrument roles and gaps:
+  - Banjo (CATALOG DEBUT — first use across all 342 versions): bright plucked punctuation,
+    opens the song alone for two bars establishing place and attitude, threads rhythmic
+    fill-figures through verse and pre-chorus, and drives the chorus as the main rhythmic
+    texture. Gap: 342 (infinite — never used). The genre-defining headline novelty of this
+    cycle. Body voice (plucked string).
+  - Fiddle (CATALOG DEBUT in this framing; violin last used v289, gap 53): sparse wry
+    countermelody weaving between vocal phrases through the verse; escalates to a bolder
+    hook-fill in verse 2; provides the fifth-above harmony vocal anchor in the final chorus;
+    rings out as the song's last sound before the hard cut. Gap: 53 (violin last v289).
+    Body voice (bowed string).
+  - Accordion (last v289, gap 53): Cajun-folk harmonic body, chest-deep warmth on the verse,
+    lifts into fuller fills on the chorus, adds family diversity (free-reed) against the
+    plucked and bowed strings. Gap: 53. Body voice (free-reed aerophone).
+
+  Trio voice balance: banjo (body — plucked string) + fiddle (body — bowed string) +
+  accordion (body — free-reed) = three body voices, zero spectral picks. Satisfies
+  playbook ≥2 body voices rule with margin to spare.
+
+  Genre bed (described in style, not listed as trio instruments): tape-saturated acoustic
+  guitar, upright bass, not-quite-quantized kick, detuned vocal stacks on chorus.
+
+  Key: F major (open, twangy, bright in Americana context) lifting to F-sharp major
+  (half-step) at the final chorus. The half-step key lift in an alt-country pop context
+  is the moment the defiance becomes triumph — not sentimental, just undeniable.
+
+  Novelty claims:
+  - Genre lane: outlaw alt-country pop — catalog first across all 341 prior versions.
+    Neither banjo nor any Americana/alt-country lane has appeared before.
+  - Banjo: CATALOG DEBUT. Gap infinite (342). First plucked Americana string in the catalog.
+  - Fiddle: CATALOG DEBUT in Americana framing. Violin last v289 (gap 53); never as fiddle.
+  - Acoustic guitar: CATALOG DEBUT. Never appeared as a labeled instrument in any prior
+    prompt (though it may appear as genre-bed in style descriptions; this is its first
+    explicit role as texture anchor).
+  - Accordion revival: gap 53 (last v289). Returning in a new genre context — Cajun-folk
+    body warmth rather than its prior orchestral or chanson framings.
+  - Emotional register: wry swaggering defiance — deliberate contrast after 15 longing-
+    leaning cycles. First outlaw/defiant register in the vocal catalog.
+  - Structural novelty: spoken-confession bridge + hard-cut ending — neither element has
+    appeared in recent cycles.
+  - Title: one-word English, defiant swagger, fresh — not used in catalog.
+  - BPM 118: mid-uptempo swagger pocket — not previously used in a vocal alt-country context.
+  - Key: F major to F-sharp major — this specific pair has not appeared in the catalog.
+  - Scene: dust-road outlaw escape — novel in the catalog.
+
+  Style char count: 933 (verified in-range 700–950, blocklist clean).
+  Lyrics char count: 979 (verified under 980, blocklist clean).
+  Both verified via scripts/text_tools.py count and in-range commands.
+
+tags:
+  - banjo
+  - fiddle
+  - accordion
+  - 118bpm
+  - f-major
+  - f-sharp-major
+  - f-major-to-f-sharp-major
+  - half-step-lift
+  - dust-road-outlaw-escape-scene
+  - revival-accordion-53-gap
+  - revival-fiddle-53-gap
+  - catalog-debut-banjo
+  - catalog-debut-fiddle-americana
+  - catalog-debut-acoustic-guitar
+  - new-technique
+  - new-genre-lane
+  - outlaw-alt-country-pop
+  - americana-pop
+  - tape-saturated
+  - detuned-vocal-stacks
+  - gang-vocal-swell
+  - spoken-word-bridge
+  - hard-cut-ending
+  - bass-dropout-pre-chorus
+  - wry-swagger
+  - defiant-register
+  - duration-3min
+  - research-driven
+  - vocal
+  - instrumental-false
+  - english-lyrics
+  - female-vocal
