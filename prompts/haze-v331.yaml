@@ -1,0 +1,143 @@
+name: "haze-v331"
+version: 331
+title: "Haze"
+instrumental: false
+vocal_gender: female
+
+style: "Submerged in luminous haze — a bedroom ceiling dissolving into reverb, the world gone watercolour. Dream-pop shoegaze-pop, polished studio mix, wide stereo stage, warm acoustic ambience. Breathy English female voice, half-spoken in verses, rising to airy soprano at the chorus. 170 BPM half-time feel, kick buried deep in the wash, slow-attack pads rising behind. C major lifting to D-flat major at the final chorus. Reverb-saturated guitars form a tonal wash, never aggressive. Theremin traces continuous pitch shimmer shadowing the vocal. Oboe d'amore breathes warm longing through the pre-chorus swell. Clavichord lays a featherlight bed under the whispered verse. Chorus floods the room: doubled vocal harmonics and wide pads. Final chorus at 2:35 with the half-step lift, reverb-tail fade near 2:55. Underscore for a lucid-dream immersion scene. No distorted guitars, no deep-crunch distortion, no noise rock, no aggressive drums, no autotune."
+
+lyrics: |
+  [Intro — clavichord, bare, 0:00]
+
+  [Verse 1 — whispered vocal, guitar, 0:10]
+  All the colours bleed together
+  Nothing sharp, nothing clear
+  I have been here before somewhere
+  In the in-between, half-awake
+
+  [Pre-Chorus — oboe d'amore, pads, 0:40]
+  Something opens in the chest
+  The room grows soft at the edges
+  Hold your breath
+
+  [Chorus 1 — guitar wash, harmonics, 1:10]
+  Drift until the ceiling disappears
+  A flood of sound and light comes through
+  Let the wave take what it wants
+  I belong inside the blue
+
+  [Verse 2 — theremin shimmer, 1:28]
+  Your voice somewhere in the feedback
+  Warm and shapeless, almost found
+  I reach across the static
+  You dissolve into the sound
+
+  [Bridge — near-solo vocal, 2:00]
+  Nothing sharp now
+  Nothing solid left
+  Just the haze and what it keeps
+
+  [Final Chorus — half-step lift, 2:40]
+  Drift until the ceiling disappears
+  A flood of sound and light comes through
+  Let the wave take what it wants
+  I belong inside the blue
+
+  [Outro — reverb fade, 2:55]
+  mmm...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber, sad ballad, confessional indie-pop, slowcore, darkwave, industrial, post-punk, noise rock, distorted guitar, grunge rock, Britpop, arena rock, stadium rock, power ballad, Americana, country, bluegrass, gospel, hip hop, trap, drill, grime, reggaeton, Afrobeat, K-pop, J-pop, chanson, gypsy, klezmer, vocal cabaret, symphonic metal, ambient drone, nu-disco, French touch, disco groove, phonk, folk-pop anthem, chamber folk, autotune heavy"
+
+notes: |
+  Technique: dream-pop / shoegaze-pop — a genre defined by tonal immersion rather than
+  forward propulsion. The listener is submerged in reverb-saturated guitar wash and
+  slow-attack synth pads; the vocal floats as another texture, half-spoken in verses
+  and rising to breathy soprano on the chorus. The hook lands via a sudden harmonic lift
+  (half-step key modulation at the final chorus) discovered inside the texture rather
+  than delivered as a lyrical punch. Originated in late-1980s UK independent music and
+  refined across the early-1990s through the 2020s; no specific artist or band named
+  per blocklist discipline.
+
+  Concept source: charts-informed novelty — zero prior catalog representation of
+  dream-pop or shoegaze-pop across all 331 versions. v328 was confessional indie-pop
+  (guitar + piano, lyric-forward), v329 French nu-disco, v330 folk-pop anthem. This is
+  textural immersion, not melodic storytelling. TONAL IMMERSION is the signature.
+
+  Differentiation from last four cycles:
+  - v327 (slow ballad): not this — no slow tempo, no introspective lament.
+  - v328 (confessional indie-pop): not this — no close-mic vulnerability arc.
+  - v329 (nu-disco): not this — no groove pocket, no French language.
+  - v330 (folk-pop anthem): not this — no anthemic singalong, no acoustic instruments.
+  This is hazy, submerged, luminous — a room you fall into.
+
+  Duration strategy (duration-fix applied): last cycles rendered short. Fixes:
+  1. Eight sections with timestamps extending to 2:55.
+  2. BPM 170 — proven high-BPM band (160+) where bar counts work and renders hit 3:00+.
+  3. Late time anchors in style field: "final chorus at 2:35" and "reverb-tail fade near 2:55."
+  4. No [Silence] metatag — per feedback_silence_gate_truncates, explicit silence markup
+     truncates. The bridge near-solo is described in the bracket label only.
+  5. Final chorus labelled at 2:40 in lyrics + 2:35 in style — twin anchors push Suno
+     past the 2:10 truncation zone.
+  6. The outro "reverb fade, 2:55" signals to v5.5 that playback should continue to that
+     timestamp rather than ending early.
+
+  Synth pads NOTE: this genre requires slow-attack synth pads as genre anchor; "no
+  synthesizers" is intentionally absent from inline negatives per the caller's
+  instructions. Distortion/aggression is excluded instead.
+
+  Production tokens: polished studio mix, wide stereo stage, warm acoustic ambience
+  (three tier-1 v5.5 production tokens woven into style prose). Sentence case throughout;
+  no ALL-CAPS form labels. Atmospheric-first opening (bedroom ceiling dissolving into
+  reverb) front-loads the scene.
+
+  Featured trio (signature texture; reverb guitars + pads are genre anchor, not trio):
+  - Theremin (gap 108, last v222): continuous pitch shimmer tracing the vocal line,
+    ethereal and pitch-continuous — the ideal spectral voice for the haze. Spectral pick
+    (the one permitted per trio rules).
+  - Oboe d'amore (gap 81, last v249): warm, longing timbre in the pre-chorus swell,
+    adding ache and organic warmth against the reverb wash. Body voice.
+  - Clavichord (gap 89, last v241): featherlight key-touch action, the most intimate
+    keyboard instrument — opens the track bare before the guitar wash arrives, then
+    sustains as harmonic bed beneath the whispered verse. Body voice.
+
+  Two body voices (oboe d'amore + clavichord) plus one spectral voice (theremin): satisfies
+  the ≥2 body voices rule. Reverb guitars and slow-attack pads are genre anchors.
+
+  Novelty claims:
+  - Technique novelty: dream-pop / shoegaze-pop — zero catalog prior in 331 versions.
+    First textural-immersion vocal track in the entire catalog.
+  - Trio novelty: theremin (gap 108) + oboe d'amore (gap 81) + clavichord (gap 89) —
+    all three at significant catalog absence; combination is catalog-unique.
+  - Key novelty: C major → D-flat major (half-step lift at final chorus) — not prior.
+  - BPM novelty: 170 BPM — unused in catalog, high-BPM band, aids full render.
+  - Scene novelty: bedroom ceiling dissolving into reverb — submerged watercolour haze.
+    Distinct from all prior scene moods (morning kitchens, city apartments, processions).
+  - Genre novelty: shoegaze-pop / dream-pop — zero prior representation.
+
+  Style char count: 934. Lyrics char count: 973. Both verified via
+  scripts/text_tools.py count and in-range --min 700 --max 950 (style) and
+  count (lyrics < 980). Blocklist scan clean on both fields.
+
+tags:
+  - theremin
+  - oboe-d-amore
+  - clavichord
+  - 170bpm
+  - c-major
+  - d-flat-major
+  - bedroom-reverb-haze-scene
+  - revival-theremin-108-gap
+  - revival-oboe-d-amore-81-gap
+  - revival-clavichord-89-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - english-lyrics
+  - dream-pop
+  - shoegaze-pop
+  - tonal-immersion
+  - female-soprano
