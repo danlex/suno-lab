@@ -1,0 +1,148 @@
+name: "ember-v334"
+version: 334
+title: "Ember"
+instrumental: false
+vocal_gender: female
+
+style: "Warm conviction rising to release — a woman's voice alone in a gospel-lit hall, the whole room holding its breath before the choir erupts. Polished studio mix, wide stereo stage, warm tape saturation. A-flat minor lifting to A minor at the final chorus, 171 BPM with a half-time hand-clap feel. Warm gospel grand piano opens alone, spare, rich 7th and 9th chord voicings. A soaring female lead enters over piano only, close-miked, soulful, breath audible on the verse phrases. Hammond organ swells in at the pre-chorus. Call-and-response choir at the chorus — lead calls, choir answers — building from hum to full-voice replies. Tuba grounds the low end with round sousaphone-weight gospel brass. Hand-claps and tambourine enter by the final chorus. Final chorus at 2:35, choir pad sustain near 2:55. Anthem score for a secular conviction scene. No devotional church framing, no autotune, no EDM drop, no distorted guitars, no trap hi-hats."
+
+lyrics: |
+  [Piano intro, 0:00]
+
+  [Verse 1 — piano only, 0:10]
+  I've been carrying this a long time
+  Setting it down to pick it up again
+  Every road I walked alone
+
+  [Pre-chorus — choir hum, 0:45]
+  Something's rising in my chest
+  Can't hold back what wants to break
+  The choir hums beneath me
+
+  [Chorus — call and response, 1:10]
+  I'm letting go (let it go, let it go)
+  All the weight I swore I'd keep (lay it down)
+  Tell me I'll be alright (you'll be alright)
+  The flood has found its break
+
+  [Verse 2 — organ enters, 1:35]
+  Rooms I kept too quiet
+  Doors I never dared to open
+  The sound won't stay inside me
+
+  [Pre-chorus 2 — choir, 2:00]
+  Something rising, won't stop rising
+  Breaking open, wide and bright
+  The choir meets every calling
+
+  [Final chorus — key lift, 2:25]
+  I'm letting go (let it go, let it go)
+  All the weight I swore I'd keep (lay it down)
+  Tell me I'll be alright (you'll be alright)
+  I'm letting go, letting go
+
+  [Lead over choir pad, 2:45]
+  Alright... alright
+  Just the ember left to burn
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar lead, rock, metal, lo-fi, pipe organ, experimental noise, free jazz, atonal, microtonal, quarter-tone, K-pop, J-pop, anime, C-pop, mandopop, electronic, EDM, synthesizer, zen meditation, new age, contemporary Christian music, CCM, gospel choir worship, Christian worship, praise music, church hymn, sacred choral, Gregorian chant, ballad, slow ballad, indie-pop, nu-disco, folk anthem, folk-pop, dream-pop, alt-R&B, broken-beat, city-pop, Scandinavian folk, cinematic ambient, elegiac neoclassical, ambient drone, trap, phonk, drill, grime, 808 bass, dembow, reggaeton, autotune, vocaloid, symphonic metal, power ballad, operatic soprano"
+
+notes: |
+  Technique: gospel-pop call-and-response anthem. The structural engine is a
+  two-voice architecture — a solo soulful female lead and a call-and-response
+  choir arranged as a second "instrument." The form follows a classic gospel-pop
+  arc: stripped verse (lead + sparse piano only), pre-chorus where the choir
+  enters as hummed counter-melody under the Hammond organ swell, a full chorus
+  where the choir answers the lead in unison call-and-response exchanges, and a
+  final close where the lead voice alone sustains over a choir pad. The emotion
+  is secular conviction yielding to release — human, not devotional.
+
+  Concept source: charts-informed original. The gospel-pop structural grammar
+  (call-and-response choir as anthem engine) is at the center of multiple
+  2024-2026 crossover hits; this cycle applies that grammar to a purely secular
+  emotional arc — the release of long-carried weight — without any devotional
+  framing or religious language.
+
+  Composer-omission note: this technique echoes a generation of American
+  gospel-soul arrangers and their contemporary pop interpreters without naming
+  any of them, per blocklist discipline.
+
+  Instrumentation adaptation note: the novelty-picker for this cycle originally
+  surfaced subcontrabass saxophone and prepared piano as fresh instrument picks.
+  Both were explicitly excluded: subcontrabass saxophone conflicts badly with the
+  warm gospel register (its extreme low extension and industrial timbre clash with
+  the intimate piano-and-voice verse opening and would destabilize the gospel
+  auto-classifier toward experimental noise); prepared piano destroys the
+  gospel-grand-piano warmth the entire harmonic bed depends on. Tuba was chosen
+  instead as the revival instrument (gap 81: last used v253) — it is brass-family
+  gospel-coherent, serving as a sousaphone-weight bass anchor entirely native to
+  brass-band gospel arrangements.
+
+  Duration strategy: 171 BPM sits above the proven 130-160 duration band, which
+  means at half-time feel (~85 felt BPM) the bar-count efficiency is moderate but
+  171 BPM notated pushes Suno's internal counter higher than the slow-BPM ceiling.
+  The forward-motion concept (conviction rising to release, choir eruption) plus
+  eight lyric sections spanning 0:00 to 2:45 and an explicit late-timestamp style
+  anchor ("final chorus at 2:35, choir pad sustain near 2:55") targets 3:00 render.
+  No [Silence] metatag per feedback_silence_gate_truncates — the stripped pre-chorus
+  (choir hum only, no full choir) creates the contrast moment via section label.
+  Production tokens: polished studio mix, wide stereo stage, warm tape saturation.
+  Sentence case throughout. Atmospheric-first opening. "Gospel" appears nowhere
+  in the prior 333 catalog entries; call-and-response choir as structural engine
+  is a catalog first.
+
+  Instruments:
+  - Gospel grand piano (body voice): opens the track alone, spare and warm, rich
+    7th and 9th gospel chord voicings — the harmonic foundation throughout.
+  - Hammond organ (body voice): swells in at the pre-chorus, adding deep tonal
+    warmth beneath the choir hum; last used v324 (gap 10), essential gospel-pop
+    genre anchor.
+  - Tuba (body voice, gap 81): round sousaphone-weight gospel brass anchoring the
+    low end; last used v253; genuinely gospel-brass-band coherent, the cycle's
+    novelty-revival instrument.
+  - Call-and-response choir (second voice): hummed counter-melody at pre-chorus,
+    full unison answers at chorus — "let it go," "lay it down," "you'll be alright"
+    — the structural engine of the anthem form.
+  - Tambourine and hand-claps: enter by the final chorus for rhythmic body and
+    gospel-pop kinetic energy.
+
+  Body voice check: gospel piano (body), Hammond organ (body), tuba (body) — three
+  body voices. No spectral picks in this cycle. Fully compliant.
+
+  Novelty claims:
+  - New technique: gospel-pop call-and-response anthem (zero catalog precedent;
+    "gospel" does not appear in v1-v333).
+  - New BPM: 171 (not in catalog at this setting; prior vocal cycles used 84, 143).
+  - New key pair: A-flat minor to A minor (half-step lift in the gospel register).
+  - New scene: gospel-lit hall, conviction-yielding-to-release secular anthem.
+  - Differentiated from: ballad (v327), indie-pop (v328), nu-disco (v329), folk
+    anthem (v330), dream-pop (v331), alt-R&B (v332), city-pop (v333).
+
+  Style char count: 928. Lyrics char count: 978.
+
+tags:
+  - gospel-grand-piano
+  - hammond-organ
+  - tuba
+  - call-and-response-choir
+  - tambourine
+  - 171bpm
+  - a-flat-minor
+  - a-minor
+  - gospel-lit-hall-scene
+  - revival-tuba-81-gap
+  - revival-hammond-organ-10-gap
+  - new-technique
+  - new-bpm
+  - gospel-pop
+  - call-and-response
+  - choir-anthem
+  - conviction-release
+  - secular-anthem
+  - english-female-vocal
+  - vocal
+  - duration-3min
+  - research-driven
+  - instrumental-false
