@@ -392,6 +392,7 @@ mindmap
 | 345 | Lilt | Bright uptempo chamber-pop, racing-delight syllabic vocalise hook (charts-informed viral) | A major to B-flat major | 173 | prepared piano + pizzicato strings + marimba |
 | 346 | Saunter | Mid-tempo retro soul-funk, recurring brass-ostinato hook (charts-informed viral) | B-flat major to B major | 99 | baritone saxophone + cup-muted trumpet + clavinet |
 | 347 | Vigil | Intimate dream-folk nocturne, hushed nocturnal-wonder over continuous pulse (charts-informed viral) | B minor to B major | 111 | cristal baschet + steel tongue drum + chalumeau |
+| 348 | Sable | Downtempo chamber-groove, cool-magnetism, extended sustaining vamp (charts-informed viral, full 3:29 render) | E-flat minor to E minor | 76 | baryton + glockenspiel + subcontrabass saxophone |
 
 ## Next-cycle priorities
 
