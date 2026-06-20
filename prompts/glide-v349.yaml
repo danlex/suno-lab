@@ -1,0 +1,127 @@
+name: "glide-v349"
+version: 349
+title: "Glide"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Neo-jazz pop with cool late-night electric confidence — bright, charged, feline and precise. Duration 3:00–3:30, sustained by a mid-song soprano-sax groove vamp. Polished studio mix, wide stereo stage, warm tape saturation at 119 BPM in E-flat major. A clean jazz-voiced electric guitar comps warm chord inversions. A vibraphone scatters cool shimmer through the verses — glinting, unhurried. A soprano saxophone holds back until the vibe-switch at 1:15, then steps into a lyric-free groove vamp over walking bass and brushed snare — bright, gliding, insistent. After the vamp the hook re-enters a half-step higher in E major, guitar fills rising, vibraphone ringing brighter. Walking bass and brushed kit roll forward without weight. Neon on wet pavement, a charged walk with nowhere to be — underscore for a cool late-night city-glide scene. No synthesizers, no rock drums, no pipe organ, no smooth jazz, no vocals other than lead.
+
+lyrics: |
+  [Intro: guitar comp, 0:00]
+
+  [Verse 1: voice enters, 0:10]
+  Turn up the collar, step into the night
+  Don't need a map when everything feels right
+  The city hums low and I'm running on cool
+  Electric and easy, nobody's fool
+
+  [Verse 2: walking bass, brushed snare, 0:38]
+  Lights on the avenue bending my way
+  Nothing to prove and nothing to say
+  I move like I mean it, nothing held back
+  Smooth down the middle of my own track
+
+  [Hook: vibraphone shimmer, 1:05]
+  I just glide
+  let it roll beneath me
+  I just glide
+  nothing here to stop me now
+
+  [Vibe-switch: soprano sax, walking bass, 1:15]
+
+  [Hook return: E major lift, guitar fills, 1:55]
+  I just glide
+  let it roll beneath me
+  I just glide
+  nothing here to stop me now
+
+  [Verse 3: E major, warm vocal, 2:15]
+  This is the moment, this is the place
+  I own every second, I own every space
+  Exactly the feeling I always knew
+
+  [Final hook: full texture, 2:50]
+  I just glide
+  let it roll beneath me
+  I just glide
+  nothing here to stop me now
+
+  [Outro: guitar fades, 3:05]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, smooth jazz, fusion jazz, bebop, big-band swing, Latin jazz, Afro-Cuban jazz, jazz standard, jazz scat, auto-tune, vocal stacks, synth pads, brass band, gospel, soul ballad, R&B drums, drum machine, hip-hop beats, cinematic ambient, intimate chamber, elegiac"
+
+tags:
+  - soprano-saxophone
+  - vibraphone
+  - clean-jazz-electric-guitar
+  - 119bpm
+  - e-flat-major
+  - e-major
+  - neo-jazz-pop
+  - vibe-switch-scene
+  - debut-soprano-saxophone-349-gap
+  - revival-vibraphone-12-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-voice
+  - groove-vamp
+  - cool-electric-confidence
+
+notes: |
+  Technique: Neo-jazz pop vibe-switch — a pop-forward vocal song that drops mid-track
+  into an explicit lyric-free instrumental groove vamp, then returns to the hook a
+  half-step higher. The vamp is the primary duration lever (confirmed by v348 "Sable"
+  which used the same structural move and rendered 3:29; v346 and v347 without explicit
+  vamps landed 2:25–2:43). The vibe-switch form is distinct from a standard breakdown:
+  the soprano saxophone takes over as melodic lead during the vamp while walking bass
+  and brushed snare drive the groove, creating a self-contained cool-jazz interior
+  moment within a pop song architecture.
+
+  Concept source: Chart signal from 10k+ play neo-jazz/pop crossover songs — jazz/pop
+  fusion winning at scale via accessible hooks + mid-song textural surprise; the
+  soprano-sax-first-use debut and vibe-switch structure are the original contributions.
+
+  Composer-omission: This cycle echoes the jazz-inflected pop sensibility of certain
+  late-1990s and early-2000s producer-songwriters whose names are omitted per house
+  policy — the clean electric guitar comp + vibraphone shimmer + walking-bass groove
+  texture is their hallmark. The soprano saxophone as pop melodic lead is rarer and
+  distinguishes this from their work.
+
+  Duration strategy: BPM 119 sits in the 115–130 zone where Suno can honor bar counts
+  and reach 3:00–3:30. The explicit [Vibe-switch] section at 1:15 mandates a ~40-second
+  instrumental passage before the hook return at 1:55. Final vocal timestamp pushed to
+  2:50, outro to 3:05, anchoring the render near 3:00–3:30. Production tokens used:
+  polished studio mix, wide stereo stage, warm tape saturation. Sentence case throughout.
+  Atmospheric-first opening names genre, mood, key, BPM, and duration target in the
+  first ~200 chars. Five inline negatives close the style field.
+
+  Trio roles (verified against novelty_surface.json at v348):
+  - Soprano saxophone (DEBUT — never used in 348 versions): lyric-free melodic lead
+    during the vibe-switch groove vamp at 1:15; bright, direct, gliding tone above
+    the walking bass; the sonic payoff of the structural surprise. Gap: 349 (all-time).
+  - Vibraphone (last used v337, gap 12): cool shimmer in the verses and hook sections;
+    crystalline, unhurried, glinting; brightens and widens at the half-step-up hook
+    return in E major, providing the payoff shimmer.
+  - Clean jazz-voiced electric guitar (debut in named trio): warm chord inversions
+    in the pocket; comping through verses, fills during hook returns; the harmonic
+    anchor and rhythm-guitar texture that keeps the song reading as pop not jazz.
+
+  Walking bass and brushed snare are the rhythm bed (mentioned in style, not part of
+  the featured trio).
+
+  Novelty: soprano saxophone is an absolute catalog debut (v1–v348). Vibe-switch
+  pop form with a named instrumental-section timestamp is new to the catalog. BPM 119
+  last used at v214 (gap 135). E-flat major to E major half-step lift is the payoff
+  modulation (no [Silence] gate per feedback_silence_gate_truncates). Scene: cool
+  late-night electric confidence is a fresh register — distinct from v348 smoky
+  magnetism (darker, slower), v346 baritone sax cool (no vocal hook), and v343 amapiano
+  warmth. Forward-motion concept (gliding arrival, city-night charged walk) favors
+  the 3:00–3:30 render range per the BPM-duration-ceiling playbook rule.
+
+  Style char count: 947 (verified in-range 700–950 via text_tools.py, blocklist clean).

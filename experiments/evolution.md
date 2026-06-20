@@ -393,6 +393,7 @@ mindmap
 | 346 | Saunter | Mid-tempo retro soul-funk, recurring brass-ostinato hook (charts-informed viral) | B-flat major to B major | 99 | baritone saxophone + cup-muted trumpet + clavinet |
 | 347 | Vigil | Intimate dream-folk nocturne, hushed nocturnal-wonder over continuous pulse (charts-informed viral) | B minor to B major | 111 | cristal baschet + steel tongue drum + chalumeau |
 | 348 | Sable | Downtempo chamber-groove, cool-magnetism, extended sustaining vamp (charts-informed viral, full 3:29 render) | E-flat minor to E minor | 76 | baryton + glockenspiel + subcontrabass saxophone |
+| 349 | Glide | Neo-jazz pop vibe-switch, mid-song soprano-sax groove vamp (10k+ charts-informed viral) | E-flat major to E major | 119 | soprano saxophone + vibraphone + clean jazz-voiced electric guitar |
 
 ## Next-cycle priorities
 
