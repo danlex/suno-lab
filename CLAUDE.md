@@ -83,14 +83,21 @@ experiments/          # Logs and notes from generation sessions
 scripts/              # Helper scripts for prompt generation
 ```
 
-## Autonomous Hourly Cycle
+## Autonomous Generation Cycle (every 10 minutes)
 
-The project runs an autonomous hourly generation cycle. Each cycle:
+The project runs an autonomous generation cycle **every 10 minutes** (6/hour). Each cycle:
 
-1. **Research** — WebSearch for one rotating topic (new instruments, genre fusions, frisson techniques, film scoring trends)
-2. **Create** — Write a new YAML prompt that evolves from recent versions with one meaningful change
+1. **Research** — WebSearch for one rotating topic (new instruments, genre fusions, frisson techniques, film scoring trends) AND review what's currently topping Suno's most-listened charts to read the *signal* (genre, structure, energy, hooks, production) that is resonating right now.
+2. **Create** — Write a new, **original** YAML prompt that applies the research signal with one meaningful change. We study what's working on the charts as inspiration; we do NOT copy other creators' lyrics or styles and republish them. (Remixing is only acceptable on songs explicitly marked remixable by their creator, with substantial changes.)
 3. **Submit** — Use `/suno` or browser automation to submit to Suno at `suno.com/create`
-4. **Save** — Rebuild website (`python3 scripts/build_site.py`), commit, and push to git
+4. **Publish** — Publish both generated clips **publicly** as soon as they're ready (runbook step 6b).
+5. **Save** — Rebuild website (`python3 scripts/build_site.py`), commit, and push to git
+
+### Titling rule (non-negotiable)
+**Every song title must be exactly ONE word.** No spaces, no multi-word titles. Prefer evocative single words. Verify the title is a single token before submitting.
+
+### Language rule (non-negotiable)
+**Lyrics must be in English or French only — no other languages.** No Korean, Japanese, Spanish, Pidgin/Yoruba, Latin, etc. Instrumental songs and wordless vocables are fine. The title may be an English or French word (single word per the Titling rule). Verify every lyric line is English or French before submitting.
 
 ### After each cycle, always:
 Run the reusable close-out script — do **not** hand-type the steps:
@@ -124,8 +131,14 @@ Run the reusable close-out script — do **not** hand-type the steps:
 #### When in doubt
 Default to writing a new script and running that. The user has repeated this rule multiple times; the failure mode is *always* "I added one little `echo`/`git status` to get context" — that "one little thing" is the violation. If a piece of state is worth observing routinely, it goes in a script.
 
-### Current era: Synthesis (v93+)
-Combining electronic genres (dubstep, trance, trap, prog house, breakbeat, psytrance) with full orchestra + unusual instruments (waterphone, glass harmonica, taiko, prepared piano, handpan, contrabass clarinet, cimbalom, pipe organ). Always instrumental. Key frisson triggers: silence-before-climax, half-step modulation, Shepard tones.
+### Current era: Charts-informed viral (v324+)
+The direction is **listenable, viral-ready songs that real people enjoy**, informed by what's currently resonating on Suno. Each cycle reads the most-listened charts for *signal* — genre, song structure, energy curve, hook placement, production polish — and uses that to build an **original** prompt. We do NOT copy other creators' lyrics or styles; studying the charts is research, not appropriation. Vocal songs are welcome (recent viral pivots: Latin sad-trap v324, anime ballad v325, Afro-soul v326, K-pop solo ballad v327). The duration-maximizing instrumental synthesis stack (electronic+orchestra+unusual instruments, silence-before-climax, half-step modulation) remains available but is no longer the default — pick the form that best fits the chart signal for the cycle.
+
+**Hard rules for every song in this era:**
+- Title = exactly ONE word (see Titling rule above).
+- Lyrics in English or French only (see Language rule above).
+- Publish both clips publicly as soon as they render.
+- Original work only — no republishing lightly-edited copies of others' songs.
 
 ## Prompt File Format
 
