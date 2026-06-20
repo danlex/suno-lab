@@ -382,6 +382,7 @@ mindmap
 | 335 | Undertow | Neo trip-hop orchestral pull, dry-to-reverb arc (charts-informed viral) | G major to A-flat major | 86 | nyckelharpa + handpan + cor anglais |
 | 336 | Gauze | Bossa-nova pop / cool-jazz pop, long instrumental bridge (charts-informed viral) | F-sharp minor to G minor | 117 | viola da gamba + bass flute + glass marimba |
 | 337 | Surge | Liquid drum-and-bass vocal pop, pre-drop strips + drop (charts-informed viral) | B major to C major | 172 | vibraphone + french horn + harp |
+| 338 | Locket | Chamber-pop / orchestral-pop, two-part close harmony (charts-informed viral) | A major to B-flat major | 124 | cimbalom + oboe + trumpet |
 
 ## Next-cycle priorities
 

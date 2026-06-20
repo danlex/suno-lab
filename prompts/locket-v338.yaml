@@ -1,0 +1,152 @@
+name: "locket-v338"
+version: 338
+title: "Locket"
+instrumental: false
+vocal_gender: female
+
+style: "Bright, confessional chamber-pop with a plucked bright-transient cimbalom attack cutting through a warm intimate small-string cushion. Polished studio mix, warm tape saturation, tight chamber reverb. A major lifting to B-flat major at the final chorus, 124 BPM mid-tempo. Cimbalom opens the song alone, its hammered plucked tone ringing clear before the strings enter; returns as ornamental glitter between phrases. Oboe threads a plaintive woodwind countermelody doubling the vocal in the refrain. Trumpet carries the brass hook with clear bright tone. Two-part close harmony in thirds — lead soprano and close second voice — exposed and dry. Dynamic contrast from sudden chamber reductions to bare unaccompanied voice. Instrumental chamber interlude near 1:40. Final chorus 2:30, ring-out near 2:55. Underscore for an intimate confessional-parlor scene. No pounding drums, no EDM drop, no distorted guitars, no autotune, no reverb-drenched vocal."
+
+lyrics: |
+  [Cimbalom intro, 0:00]
+
+  [Verse — lead vocal, 0:12]
+  I keep all your letters in a painted tin
+  Every word you wrote still living under my skin
+  The morning light falls thin across the floor
+
+  [Refrain — two-part harmony, 0:28]
+  Hold me like a locket, keep me close
+  You are the one I counted on the most
+  Fold me like a letter, soft and true
+  Every gilded edge is you
+
+  [Verse two — strings in, 0:52]
+  I wore the ring you left beside the door
+  The garden holds the shape of what we planned
+
+  [Refrain — two-part harmony, 1:10]
+  Hold me like a locket, keep me close
+  You are the one I counted on the most
+  Fold me like a letter, soft and true
+  Every gilded edge is you
+
+  [Chamber interlude — cimbalom, oboe, trumpet, 1:30]
+
+  [Voice only — bare, 2:05]
+  You are the one
+
+  [Final refrain — full chamber, B-flat lift, 2:14]
+  Hold me like a locket, keep me close
+  You are the one I counted on the most
+  Fold me like a letter, soft and true
+  Every gilded edge, every gilded edge is you
+
+  [Ring-out, 2:44]
+
+  [End]
+
+exclude_styles: "baroque, harpsichord chamber, early music, indie folk, folk ballad, singer-songwriter, dream pop, indie pop, alt-R&B, city pop, neo-soul, bossa nova, trip-hop, gospel, jazz ballad, nu-disco, dance pop, drum and bass, EDM, electronic, synthesizer, ambient, new age, zen meditation, rock, metal, punk, lo-fi, hip-hop, acoustic guitar solo, pipe organ, choir, choral, free jazz, atonal, Arabic, tribal, world music, K-pop, J-pop, C-pop, synthwave, trance, power ballad, experimental noise, cinematic ambient, elegiac"
+
+notes: |
+  Technique: chamber-pop / orchestral-pop vocal with close two-part harmony — a compact
+  1960s-style orchestral-pop song structure featuring a plucked metallic-string attack
+  over a small-string cushion, a single woodwind countermelody, a bright brass lead, and
+  an exposed close-harmony female vocal in thirds. The form places dynamic contrast
+  entirely in acoustic chamber reductions (drop to unaccompanied voice) rather than
+  electronic or rock drops.
+
+  Concept source: charts-informed original in the "chamber-pop" lane — the sound of
+  1960s orchestral-pop songwriting reimagined for the current catalog. This is a catalog
+  first: prior entries at v188/v191 were instrumental; no close-harmony vocal
+  chamber-pop song has previously appeared across 337 versions. None of v327–v337 touched
+  this lane (those entries covered liquid DnB, folk anthem, dream pop, alt-R&B, city pop,
+  gospel, trip-hop, bossa nova, nu-disco, DnB, and K-pop-adjacent styles).
+
+  Composer omission: this sound echoes the orchestral-pop songwriters and arranger-
+  producers of the mid-1960s whose names are on the blocklist and are intentionally
+  omitted per discipline. The bright trumpet hook, close-thirds vocal writing, and
+  chamber-string cushion are idiomatic to that era without referencing any individual.
+
+  Oboe substitution: the novelty-picker's suggested third instrument was subcontrabass
+  saxophone, which was rejected because its extreme low-frequency dark timbre is
+  incompatible with the bright, intimate, exposed-voice chamber texture this concept
+  requires. Oboe (gap 13 — last used v325) was substituted: its plaintive woodwind
+  countermelody is a chamber-pop staple and provides the woodwind color the genre needs.
+
+  Duration strategy: chamber-pop is compact and tends to render short. Three counter-
+  measures are applied: (1) a genuine instrumental chamber interlude at 1:30 as a full
+  section — not a filler tag but a labeled section where cimbalom, oboe, and trumpet
+  trade phrases; (2) a voice-only unaccompanied section at 2:05 which extends the
+  structural map without adding lyric density; (3) the last lyric timestamp is pushed to
+  2:44 ("Ring-out") and the style anchors state "Final chorus 2:30, ring-out near 2:55"
+  to push Suno's structural planner past 2:45. Target render 2:50–3:05.
+
+  BPM 124 sits in the 115–130 transition band. At this tempo the slow-BPM ceiling
+  (~3:30) is unlikely to be hit, but the duration target is conservatively set at
+  2:50–3:05 to match what chamber-pop compactness will likely render. The interlude
+  and late timestamps are the primary duration scaffolds.
+
+  Key: A major (bright, warm, idiomatic for chamber-pop vocal) lifting to B-flat major
+  at the final refrain — a half-step upward modulation that is the classic emotional
+  peak move in 1960s orchestral pop and applies the playbook's key-lift frisson trigger
+  without any blocklist-named reference.
+
+  Trio — all three are body voices (zero spectral picks, satisfying the ≥2 body
+  voices rule with room to spare):
+  - Cimbalom (gap 86 — last used v252): hammered/plucked metallic-string attack; the
+    bright transient cutting through the string cushion is the signature harpsichord-like
+    color this genre needs without the organ/harpsichord blocklist risk. Opens solo,
+    returns as ornamental glitter throughout. Body voice.
+  - Oboe (gap 13 — last used v325): plaintive woodwind countermelody threading above
+    the string cushion and doubling the vocal in the refrain. The warm, slightly reedy
+    quality is a chamber-pop production staple. Body voice.
+  - Trumpet (gap 12 — last used v326): bright brass lead carrying the hook — the
+    ornate brass color idiomatic to 1960s orchestral pop. Participates in the chamber
+    interlude. Body voice.
+
+  Novelty claims:
+  - Genre lane: chamber-pop / orchestral-pop close-harmony vocal — catalog first
+    across 337 versions. Prior entries tagged "baroque" (v188/v191) were fully
+    instrumental; this is the first vocal chamber-pop entry.
+  - Close two-part harmony in thirds: not present in any prior catalog entry.
+  - Trio: cimbalom + oboe + trumpet — new three-way combination.
+  - Voice-only unaccompanied section as a structural beat (not a [Silence] tag,
+    per feedback_silence_gate_truncates).
+  - Concept type: reflective/confessional; duration target 2:50–3:05 is calibrated
+    accordingly per playbook rule 10.
+
+  Style char count: 944 (verified in-range 700–950).
+  Lyrics char count: 978 (verified under 980).
+
+  Production tokens used: polished studio mix, warm tape saturation, tight chamber
+  reverb. Sentence case throughout, atmospheric-first opening. Five inline negatives
+  present: no heavy drums, no EDM drop, no distorted guitars, no autotune,
+  no reverb-drenched vocal. Vocal gender: female (lead soprano + close second part
+  in thirds, exposed and dry in the mix).
+
+tags:
+  - cimbalom
+  - oboe
+  - trumpet
+  - 124bpm
+  - a-major
+  - b-flat-major
+  - confessional-parlor-scene
+  - revival-cimbalom-86-gap
+  - revival-oboe-13-gap
+  - revival-trumpet-12-gap
+  - new-genre-lane
+  - chamber-pop
+  - orchestral-pop
+  - close-harmony-vocal
+  - two-part-harmony
+  - chamber-interlude
+  - voice-only-section
+  - half-step-lift
+  - a-major-to-b-flat-major
+  - confessional
+  - english-lyrics
+  - duration-3min
+  - research-driven
+  - vocal
+  - instrumental-false
