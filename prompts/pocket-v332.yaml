@@ -1,0 +1,128 @@
+name: "pocket-v332"
+version: 332
+title: "Pocket"
+instrumental: false
+vocal_gender: female
+
+style: "Broken-beat alt-R&B neo-soul groove, intimate and soulful — a close dry room, warm lamp light, a voice inside a syncopated pocket that lands just before you expect it. Polished studio mix, warm tape saturation, deep low-end definition. D-sharp minor lifting to E minor near 2:35, fade near 2:55. 169 BPM half-time broken pocket, felt as unhurried neo-soul with snare displaced an eighth early. Dry woody kick and melodic bass counter-line anchor throughout. Tenor saxophone weaves voice-like lines between vocal phrases, warm breath tone with jazz harmonics. Trombone punches low-brass stabs and glissandi on the offbeat. Mellotron sustains a warm worn pad undertow beneath the harmony. Close-mic'd English female vocal, smooth mid-register with light falsetto flourishes, emotionally direct. Underscore for a groove-first intimate session scene. No orchestral strings, no cinematic swell, no four-on-the-floor, no autotune, no aggressive distortion."
+
+lyrics: |
+  [Groove intro, 0:00]
+
+  [Verse 1, 0:10]
+  You move like water on a borrowed clock
+  Reading signals on a tilted rock
+  The groove keeps pulling me along
+
+  [Chorus, 0:35]
+  Catch me in the pocket
+  Swaying off the grid
+  Everything I wanted
+  Was exactly what you did
+
+  [Verse 2 — trombone stabs, 1:00]
+  You stayed inside the rhythm of my chest
+  Displaced, half a step from free
+  The off-beat is where we live
+
+  [Pre-chorus — harmonies, 1:22]
+  I don't need the perfect word
+  Just the beat to be heard
+
+  [Chorus — mellotron, 1:42]
+  Catch me in the pocket
+  Swaying off the grid
+  Everything I wanted
+  Was exactly what you did
+
+  [Bridge — near-solo vocal, one chord, 2:05]
+  Tell me where the off-beat goes
+  When the groove fades
+  Tell me where the love goes
+  In the in-between space
+
+  [Final chorus — E minor, half-step up, 2:35]
+  Catch me in the pocket
+  Swaying off the grid
+  Everything I wanted
+  Was exactly what you did
+  Hold me in the off-beat
+  Let the groove decide
+
+  [Outro — groove fades, 2:50]
+  In the pocket...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, orchestral strings, rock, metal, lo-fi, pipe organ, cinematic swell, four-on-the-floor, EDM, house, techno, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, K-pop, J-pop, anime, C-pop, mandopop, girl group, boy band, drill, grime, 808 bass, dembow, reggaeton, sad-trap, Latin sad-trap, Afrobeats, vocaloid, autotune, cinematic ambient, elegiac neoclassical, sacred minimalism, Gregorian chant, ceremonial march, operatic soprano, bel canto, gospel choir, symphonic metal, power ballad, indie-pop, nu-disco, dream-pop, shoegaze, ballad, folk-pop anthem, aggressive distortion"
+
+notes: |
+  Technique: broken-beat alt-R&B / neo-soul groove. The broken-beat technique
+  places the snare an eighth note early relative to the four-on-the-floor grid,
+  creating a displaced pocket that triggers a physical anticipation response —
+  the body moves before the mind catches up. Extended jazz harmony (9th and 11th
+  voicings) over a dry woody kick and melodic bass counter-line completes the
+  groove signature. Zero prior catalog representation: the nearest neighbour is an
+  orchestral neo-soul entry at v210, but this cycle is stripped and groove-first
+  with no orchestra.
+
+  Concept source: charts-informed original — current alt-R&B scene (2025-2026)
+  prioritises rhythmic displacement and harmonic warmth over lyric density or
+  orchestral scale. The composition defers to the groove as the star.
+
+  This technique echoes a lineage of late-1990s UK broken-beat producers and
+  early-2000s American neo-soul artists without naming any of them, per blocklist.
+
+  Duration strategy: 169 BPM is unused in the catalog (new-bpm). At 169 BPM with
+  a half-time feel, Suno reads a fast base clock but renders the groove at ~84 BPM
+  felt pace — avoiding the slow-BPM ~3:30 cap while maintaining an unhurried
+  neo-soul pocket. Timestamps anchor eight sections from 0:00 to 2:50 with the
+  final lyric section at 2:50, late-section time anchor also stated in the style
+  field ("final section at 2:35, fade near 2:55") per feedback_short_render_late_timestamp.
+  No [Silence] metatag used — vulnerability peak at 2:05 Bridge conveyed via
+  section label only, per feedback_silence_gate_truncates. Half-step key lift
+  (D-sharp minor to E minor) at 2:35 final chorus for emotional lift. Production
+  tokens: polished studio mix, warm tape saturation, deep low-end definition.
+  Sentence case throughout. Atmospheric-first opening. Inline negatives preserve
+  drums and synths (groove needs them) while targeting orchestral/cinematic drift.
+
+  Instruments:
+  - Tenor saxophone (gap 73): voice-like mid-register hook lines weaving between
+    vocal phrases, warm breath tone with 9th/11th harmonic colour.
+  - Trombone (gap 81): low-brass stabs and glissandi punctuating the offbeat
+    pockets with groove punch — the most percussive element in the trio.
+  - Mellotron (gap 74): warm, slightly worn sustained pad undertow giving the
+    texture emotional weight without rising to orchestral swell.
+
+  Novelty claims:
+  - New technique: broken-beat alt-R&B / neo-soul groove (zero catalog precedent).
+  - New BPM: 169 (unused in catalog).
+  - New key pair: D-sharp minor to E minor.
+  - New scene: close-mic'd groove room, rhythm-first alt-R&B.
+  - Differentiated from: ballad (v327), indie-pop (v328), nu-disco (v329),
+    folk-pop anthem (v330), dream-pop/shoegaze (v331).
+
+  Style char count: 943. Lyrics char count: 978.
+
+tags:
+  - tenor-saxophone
+  - trombone
+  - mellotron
+  - 169bpm
+  - d-sharp-minor
+  - e-minor
+  - broken-beat-groove-scene
+  - revival-tenor-saxophone-73-gap
+  - revival-trombone-81-gap
+  - revival-mellotron-74-gap
+  - new-technique
+  - new-bpm
+  - alt-rb
+  - neo-soul
+  - broken-beat
+  - vocal
+  - english-female-vocal
+  - syncopated-groove
+  - duration-3min
+  - research-driven
+  - rhythm-first

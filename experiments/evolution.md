@@ -376,6 +376,7 @@ mindmap
 | 329 | Lueur | French nu-disco vocal pop (charts-informed viral) | B-flat major to B major | 107 | bandoneon + steelpan + upright bass |
 | 330 | Bloom | Contrast-drop chamber folk-pop anthem (charts-informed viral) | E-flat major to E major | 167 | glass harmonica + marimba + harpsichord |
 | 331 | Haze | Dream-pop / shoegaze-pop reverb-wash (charts-informed viral) | C major to D-flat major | 170 | theremin + oboe d'amore + clavichord |
+| 332 | Pocket | Broken-beat alt-R&B / neo-soul groove (charts-informed viral) | D-sharp minor to E minor | 169 | tenor saxophone + trombone + mellotron |
 
 ## Next-cycle priorities
 
