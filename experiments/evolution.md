@@ -379,6 +379,7 @@ mindmap
 | 332 | Pocket | Broken-beat alt-R&B / neo-soul groove (charts-informed viral) | D-sharp minor to E minor | 169 | tenor saxophone + trombone + mellotron |
 | 333 | Gleam | Neo city-pop electro-pop (charts-informed viral) | B-flat minor to B minor | 143 | cornet + chalumeau + glockenspiel |
 | 334 | Ember | Gospel-pop call-and-response anthem, secular (charts-informed viral) | A-flat minor to A minor | 171 | tuba + Hammond organ + gospel piano (call-and-response choir) |
+| 335 | Undertow | Neo trip-hop orchestral pull, dry-to-reverb arc (charts-informed viral) | G major to A-flat major | 86 | nyckelharpa + handpan + cor anglais |
 
 ## Next-cycle priorities
 

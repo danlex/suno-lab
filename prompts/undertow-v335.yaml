@@ -1,0 +1,141 @@
+name: "undertow-v335"
+version: 335
+title: "Undertow"
+instrumental: false
+vocal_gender: female
+
+style: "Cold intimacy pressing against thin walls — something vast about to open. Polished studio mix, deep low-end definition, wide stereo stage. G major, maj7 and suspended tensions, modal-wistful, lifting to A-flat major at the final section, 86 BPM downtempo sliced breakbeat. Nyckelharpa opens alone beneath a close-miked English female vocal — dry, unreverbed, every consonant audible. Handpan weaves a tactile pulse alongside the half-time sliced breakbeat. Cor anglais enters as a plaintive counter-voice, aching, lifting toward the modulation. Strings build as slow cinematic swells, live-adjacent orchestral texture. Bridge: sub-bass carries alone while the vocal opens into full hall reverb, the room expanding. Reverb-climax at 2:10, dry fade near 2:55. Final section in A-flat major, strings at peak density, then a last dry vocal line fades to a string pad. No lo-fi tape hiss, no sampled stabs, no autotune, no EDM drop, no distorted guitars."
+
+lyrics: |
+  [Dry open — nyckelharpa, breakbeat, 0:00]
+  Something in the walls tonight
+  A weight that has no name
+  I keep the lights turned low
+  And let it stay
+
+  [Verse — vocal close-miked, dry, 0:25]
+  You left a gap in everything
+  The kind that doesn't close
+  I trace it like a map
+  Of somewhere no one goes
+
+  The handpan counts the seconds
+  The drone string holds the key
+  I'm in the room you left
+  Like I'll always be
+
+  [Strings enter — slow swell, 1:05]
+  Underneath the quiet
+  Something lifts and turns
+  The cor anglais carries
+  What the silence earns
+
+  [Sub-bass only — reverb opens, 1:52]
+  And then the room
+  Just opened wide
+  Hall reverb falling
+  Nowhere left to hide
+
+  The cor anglais bends
+  Through A-flat sky
+  Drone and strings rise
+  Pulled open by the tide
+
+  [Final verse — dry return, 2:40]
+  One last time I'll say it
+  Dry and close and clear
+  The breakbeat fades to nothing
+  But you are still right here
+
+  [Fade — string pad only, 2:55]
+
+  [End]
+
+exclude_styles: "lo-fi, lo-fi hip-hop, lo-fi beats, tape hiss, vinyl crackle, trip-hop, Bristol sound, Arabic, tribal, world music, Scandinavian folk, Nordic folk, rock, metal, punk, EDM, synthesizer, pipe organ, zen meditation, new age, free jazz, atonal, microtonal, K-pop, J-pop, C-pop, mandopop, anime, vocaloid, autotune, gospel choir, power ballad, symphonic metal, cinematic ambient, elegiac neoclassical, sacred minimalism, Gregorian chant, ballad pop, indie pop, nu-disco, folk anthem, dream-pop, alt-R&B, city-pop, gospel-pop, experimental noise, drone ambient"
+
+notes: |
+  Technique: downtempo-breakbeat-as-rhythmic-anchor with a dry-to-spatial reverb arc.
+  The core move is structural rather than harmonic: the vocal begins completely dry and
+  close-miked (no reverb) and only opens into full hall reverb at the bridge — so the
+  reverb arrival functions as an emotional event, the room suddenly expanding around the
+  voice. This reverb-transition-as-emotional-climax approach has zero prior representation
+  across 334 versions of this catalog.
+
+  Concept source: a neo trip-hop orchestral pull — the sound of slow sliced breakbeat
+  anchoring clean orchestral string swells, with a single dry female vocal that
+  deliberately refuses the warmth of reverb until the moment it can no longer hold.
+  The genre description "trip-hop" is avoided in the style field to prevent dated lo-fi
+  coloration; replaced with "cinematic downtempo" and "sliced breakbeat" as descriptors.
+  The sound this echoes without naming its originators: the slow-tempo Bristol-adjacent
+  cinematic downtempo producers of the mid-1990s through 2000s, and the orchestral
+  expansion of that sound by later European film composers.
+
+  Duration via structure (not BPM): the brief is to lean on the naturally long sections
+  of the genre rather than bar-count arithmetic. The lyrics are structured in five
+  well-spaced time zones: 0:00, 0:25, 1:05, 1:52, 2:40, with a final [Fade] at 2:55.
+  The last lyric timestamp at 2:40 and the explicit style anchor "dry fade near 2:55"
+  give Suno two structural cues to push the render toward ~3:00 without relying on
+  [Silence] markup (which truncates per feedback_silence_gate_truncates). The
+  sub-bass-only moment is conveyed via section label "Sub-bass only — reverb opens"
+  rather than a [Silence] metatag.
+
+  Instruments (all three are body voices — no spectral instruments):
+  - Nyckelharpa (gap 83 — last used v252): warm drone-string texture that opens the
+    track alone, thickens the orchestral string bed without competing with it; the keyed
+    drone resonance gives the downtempo groove a distinctive Scandinavian-cinematic color
+    without being Nordic-folk (guarded by exclude_styles).
+  - Handpan (gap 81 — last used v254): provides the tactile downtempo percussive pulse
+    that weaves with the sliced breakbeat; its mallet-struck resonance fills the gap
+    between the breakbeat hits and keeps the groove from feeling empty.
+  - Cor anglais (gap 20 — last used v315): plaintive melodic counter-voice that enters
+    after the string swell, adding an aching oboe-family timbre that lifts into the
+    A-flat major modulation at the final section.
+
+  Key: G major voiced as modal-wistful (maj7, add9, suspended tensions, borrowed minor-iv
+  colors) lifting to A-flat major at the final section. The half-step rise is the harmonic
+  event of the song, timed to coincide with the reverb-climax arrival at 2:10. The
+  melancholic/modal voicing ensures the major key reads aching and wistful rather than
+  bright or cheery — consistent with the downtempo mood.
+
+  Novelty claims:
+  - Technique novelty: dry-to-spatial reverb arc as primary emotional event — zero prior
+    uses in 334 versions.
+  - Genre lane novelty: cinematic downtempo / orchestral downtempo — no prior version in
+    this catalog. Differentiated from v327 (ballad), v328 (indie-pop), v329 (nu-disco),
+    v330 (folk anthem), v331 (dream-pop), v332 (alt-R&B), v333 (city-pop), v334
+    (gospel-pop).
+  - Trio novelty: nyckelharpa + handpan + cor anglais — this three-way combination is
+    new to the catalog.
+  - Key novelty: G major to A-flat major (modal-wistful voicing) — fresh key context.
+
+  Style char count: 948 (verified in-range 700–950).
+  Lyrics char count: 911 (verified under 980).
+
+  Production tokens used: polished studio mix, deep low-end definition, wide stereo stage.
+  All three featured instruments are body voices (≥2 body voices rule satisfied, trio
+  contains 0 spectral instruments). Sentence case throughout, atmospheric-first opening,
+  no ALL-CAPS form labels. Five inline negatives present.
+
+tags:
+  - nyckelharpa
+  - handpan
+  - cor-anglais
+  - 86bpm
+  - g-major
+  - a-flat-major
+  - late-night-dread-to-openness-scene
+  - revival-nyckelharpa-83-gap
+  - revival-handpan-81-gap
+  - revival-cor-anglais-20-gap
+  - new-technique
+  - new-bpm
+  - cinematic-downtempo
+  - sliced-breakbeat
+  - dry-to-reverb-arc
+  - sub-bass-anchor
+  - orchestral-strings
+  - english-female-vocal
+  - duration-3min
+  - research-driven
+  - vocal
+  - instrumental-false
