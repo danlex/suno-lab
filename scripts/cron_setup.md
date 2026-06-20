@@ -2,11 +2,13 @@
 
 Session-only crons die when Claude exits. After starting a fresh session in this repo, ask Claude to re-register these (it can use `CronCreate`).
 
-## 1. Suno cycle — every 30 minutes (at :08/:38)
+## 1. Suno cycle — every 10 minutes (at :02/:12/:22/:32/:42/:52)
 
-**Schedule:** `8,38 * * * *` (true 30-min cadence, offset off the :00/:30 marks to dodge congested minute boundaries)
+**Schedule:** `2,12,22,32,42,52 * * * *` (10-min cadence, offset off the :00 marks to dodge congested minute boundaries)
 
-History: hourly `17 * * * *` → 15-min `7,22,37,52` (2026-05-28, user "every 15 minutes") → 30-min `8,38` (2026-05-29). The 15-min cadence fired faster than a full cycle (5 agents + browser submit, plus occasional retries) could complete, so fires stacked into a backlog; 30 min gives enough headroom. Note: recurring crons are session-only (the `durable` flag does not persist to disk) and auto-expire after 7 days — re-register at session start and watch the 7-day window.
+History: hourly `17 * * * *` → 15-min `7,22,37,52` (2026-05-28, user "every 15 minutes") → 30-min `8,38` (2026-05-29) → **10-min `2,12,22,32,42,52` (2026-06-20, user "1 song every 10 minutes" + new direction)**. NOTE: a full cycle (research → draft → judge → browser submit ~8 min → publish → close-out) takes well over 10 minutes, so fires WILL stack — the backlog guard (treat stacked copies as ONE cycle; resume an untracked latest YAML rather than drafting new) is what keeps this sane. 10-min effectively means "keep the pipeline continuously busy," not a literal 6 songs/hour. Recurring crons are session-only (the `durable` flag does not persist to disk) and auto-expire after 7 days — re-register at session start and watch the 7-day window.
+
+**New-direction hard rules (2026-06-20, baked into the prompt + scripts/hourly_cycle_prompt.md override block):** one-word title; English/French lyrics only; charts-informed but ORIGINAL (no copy-and-repost); vocals welcome; publish BOTH clips publicly.
 
 **Backlog guard (baked into the prompt):** if multiple cron copies stack, treat them as ONE cycle (one new version per turn, not one per copy). If the latest `prompts/*-v<N>.yaml` is untracked (a prior submit died mid-flight), RETRY that version's submit+close-out rather than drafting a new one.
 

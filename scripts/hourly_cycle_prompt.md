@@ -1,6 +1,16 @@
-# Hourly autonomous cycle prompt
+# Autonomous Suno cycle prompt (every 10 minutes)
 
-**Marker:** This is the scheduled hourly Suno cycle. You are running unattended — no user in chat. Apply `feedback_cron_auto_submit_override.md`: auto-submit authorized, but all safety floors (judge ≥90, fresh novelty_surface, no blocklist words, commit + push) still apply.
+**Marker:** This is the scheduled Suno cycle. You are running unattended — no user in chat. Apply `feedback_cron_auto_submit_override.md`: auto-submit authorized, but all safety floors (judge ≥90, fresh novelty_surface, no blocklist words, commit + push) still apply.
+
+> ## ⚠ NEW DIRECTION (2026-06-20) — THESE OVERRIDE THE OLDER STEPS BELOW
+> The project has pivoted to the **Charts-informed viral** era (see CLAUDE.md). Where the older
+> steps below conflict, these win:
+> 1. **Title = exactly ONE word.** English or French. No spaces. Verify before submit.
+> 2. **Lyrics in English or French ONLY** — no Korean/Japanese/Spanish/Pidgin/Latin/etc. Instrumental and wordless vocables are fine. (feedback_english_french_only)
+> 3. **Charts-informed, ORIGINAL.** In the research step, also look at what's topping Suno's most-listened charts and read the *signal* — genre, structure, energy, hook placement, production. Build a NEW prompt from that signal. Do NOT copy other creators' lyrics or styles and republish; never lightly-edit-and-repost someone else's song.
+> 4. **Vocals are welcome.** The ALL-CAPS-instrumental-trio requirement and silence-before-climax templates below are NO LONGER mandatory — pick the song form (vocal pop ballad, etc.) that best fits the chart signal. The instrumental synthesis stack is still allowed but is not the default.
+> 5. **Publishing both clips publicly is MANDATORY** (step 6b) — the song isn't done until both clips are public.
+> 6. **Backlog guard:** the 10-min cadence fires faster than one full cycle completes, so fires WILL stack. Treat multiple stacked copies as ONE cycle — one new version per turn. If the latest `prompts/*-v<N>.yaml` is untracked (a prior submit died mid-flight), RETRY that version's submit + publish + close-out instead of drafting a new one (use `python3 scripts/cycle_start.py` → `recommended_action`).
 
 ## Your task
 
