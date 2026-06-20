@@ -387,6 +387,7 @@ mindmap
 | 340 | Strut | Brass-forward disco-funk vocal pop, four-on-the-floor (charts-informed viral) | D-flat minor to D minor | 116 | flugelhorn + felt piano + crotales |
 | 341 | Meridian | Cinematic synth-ballad, ambient-leaning (charts-informed viral) | C-sharp minor to D minor | 93 | ondes martenot + bowed vibraphone + bass clarinet |
 | 342 | Nerve | Outlaw alt-country pop, banjo debut, narrative arc (charts-informed viral) | F major to F-sharp major | 118 | banjo + fiddle + accordion |
+| 343 | Honey | Amapiano-pop vocal crossover, log-drum groove (charts-informed viral) | A-flat major to A major | 109 | clarinet + upright bass + steelpan |
 
 ## Next-cycle priorities
 

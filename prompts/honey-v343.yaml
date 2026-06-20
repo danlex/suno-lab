@@ -1,0 +1,92 @@
+name: "honey-v343"
+version: 343
+title: "Honey"
+instrumental: false
+vocal_gender: female
+
+style: "A slow-rolling hypnotic groove in the amapiano-pop pocket: deep log drum pulsing with warm, unhurried authority, open-chord piano pads voicing lush jazzy 7th and 9th chords, a breathy English vocal floating just above the beat. Polished studio mix, wide stereo stage, warm tape saturation. Clarinet moves in smooth sighing lines over the groove in A-flat major at 109 BPM; upright bass adds organic warmth alongside the log drum; steelpan brings bright mallet shimmer on the hook. Soft shakers and piano stabs lock the pocket tighter when the hook arrives. Mid-song, the groove strips to bare percussion and log drum; the hook returns with layered harmonies as the key lifts a half-step to A major. Underscore for a late-night rooftop scene, warm air, city lights below, two people circling an unspoken truth. No EDM drop, no autotune-pop, no distorted guitars, no aggressive syncopated percussion, no four-on-the-floor house."
+
+lyrics: |
+  [Intro — log drum and piano pad, 0:00]
+  Low and slow, the beat unrolls
+  Nothing rushed, nothing cold
+
+  [Verse 1 — clarinet lead, breathy vocal, 0:18]
+  You move like the city forgot to sleep
+  Like the light off the water, something deep
+  No words between us but the groove says enough
+  Slow and low, tender and rough
+
+  [Hook — full pocket, steelpan shimmer, 0:52]
+  Pull me under easy
+  Let it be
+  That low tide feeling
+  You and me
+
+  [Verse 2 — upright bass forward, building heat, 1:18]
+  Your hands slow the hour, the air goes still
+  Log drum keeps the promise, always will
+  I don't need the daylight to know what's real
+  When the music moves it's all I feel
+
+  [Break — log drum and shakers only, 1:45]
+  (groove breathes)
+
+  [Hook return — harmonies, key lifts to A major, 2:10]
+  Pull me under easy
+  Let it be
+  That low tide feeling
+  You and me
+  Stay a little longer
+  Let it breathe
+  That slow wave breaking
+  Over me
+
+  [Outro — groove fades, steelpan last, 2:44]
+  Low and slow
+  Low and slow
+  [End]
+
+exclude_styles: "kwaito, gqom, Afro house, Afrobeats banger, electronic dance, EDM, house, four-on-the-floor, rock, metal, pop-punk, autotune, vocal trap, lo-fi, new age, ambient drone, experimental noise, atonal, microtonal, Arabic, tribal, world chant, pipe organ, synthesizer arpeggios, cinematic ambient, elegiac, intimate chamber"
+
+notes: |
+  Technique: amapiano-pop vocal crossover — the first English-vocal amapiano entry in this catalog. Amapiano (literally "the pianos") is a South African genre that emerged around 2019, defined by its signature log drum bass thud, jazzy open-chord piano pads (7th and 9th voicings), and slow hypnotic groove at 100–114 BPM. Previous amapiano appearances in this catalog (v106, v266) were both instrumental; v343 is the catalog's first attempt at the genre's natural pop-crossover form: a breathy English vocal floating over the groove. Concept source: hypnotic/sensual mood (deliberately distinct from the longing of v327–v342), loop-groove structure, half-step key lift on hook return.
+
+  Composer-omission: this groove pocket and open-chord piano language echo the artists who built the 2022–2024 global amapiano wave — none named per discipline.
+
+  Duration strategy: BPM 109 sits in the slow-BPM band (90–115); ceiling is ~3:30. Target is ~3:00 with emotional density over bar count. Timestamps run from 0:00 to 2:44, pushing the last lyric content to ~2:44–2:55 range. The stripped Break at 1:45 is implemented as a descriptive section label (not a [Silence] metatag, per silence-gate-truncates feedback). Hook return with added harmonies and half-step lift (A-flat major → A major) provides the frisson arc without the [Silence] truncation risk. Production tokens used: polished studio mix, wide stereo stage, warm tape saturation (three of the v5.5 reward tokens). Opening is atmospheric-first (mood and sound before any technique label). Style is sentence-case throughout — no ALL-CAPS form labels.
+
+  Featured trio (family-diverse across wind, string, mallet):
+  - Clarinet (gap 15 from last appearance): smooth, breathy wind lead floating above the groove — the closest timbre to the human voice in the instrumental palette, bridges groove and vocal.
+  - Upright bass (gap 14): organic, warm low-mid presence alongside the log drum — gives the groove an acoustic pop warmth rather than a purely electronic thud.
+  - Steelpan (gap 14): bright mallet shimmer on the hook — tropical-bright accent that lifts each hook arrival without clashing with the piano pads.
+
+  Genre bed rationale: log drum and piano pads are NOT listed in the trio because they are the genre's defining DNA — excluding or listing them as "featured" instruments would confuse the model. They are described as the bed/foundation in the style prose, so Suno renders them as structural. The trio provides the melodic/textural color layer on top.
+
+  Novelty claims: first English-vocal amapiano entry (v106/v266 both instrumental); BPM 109 is fresh (not the 106/110/164 cluster of recent cycles); key A-flat major → A major is catalog-new for this tonal center; single-word English title "Honey" is catalog-first; hypnotic/sensual mood arc is distinct from last 16 cycles.
+
+  Style char count: 926. Lyrics char count: 964.
+
+tags:
+  - clarinet
+  - upright-bass
+  - steelpan
+  - 109bpm
+  - ab-major
+  - a-major
+  - amapiano-pop
+  - vocal
+  - female-vocal
+  - rooftop-scene
+  - revival-clarinet-15-gap
+  - revival-upright-bass-14-gap
+  - revival-steelpan-14-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - hypnotic-sensual
+  - log-drum
+  - piano-pad-groove
+  - half-step-lift
+  - catalog-first-amapiano-vocal
