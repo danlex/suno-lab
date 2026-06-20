@@ -1,0 +1,132 @@
+name: "unravel-v328"
+version: 328
+title: "Unravel"
+instrumental: false
+vocal_gender: female
+
+style: "Confessional indie-pop — a dim bedroom at first light, cold floor. Voice and lightly crunchy electric guitar arrive at beat one, the hook declared raw and close-miked before the room has settled. Polished studio mix, warm tape saturation, wide stereo stage. E major lifting to F major at the final chorus, 168 BPM notated in a half-time feel at 84-beat pulse. Celesta stitches bright shimmer between phrases; clarinet carries verses in warm chalumeau register just above the vocal; flugelhorn swells beneath choruses like a velvet undercurrent. Verses: voice, guitar, clarinet only. Pre-chorus assembles the trio. Bridge strips to voice over one sustained flugelhorn tone. Final chorus: three-voice harmony, celesta cascading, flugelhorn and clarinet locked beneath. Ends on a ringing guitar chord fade. Underscore for a raw confessional self-exposure scene. No rock drums, no pipe organ, no synthesizers, no orchestral brass section, no autotune."
+
+lyrics: |
+  [Chorus, voice and guitar, 0:00]
+  I keep calling back
+  Every little crack
+  In the walls I built for me
+  I can't take it back
+  Every word, every act
+  I gave you everything
+
+  [Verse 1, clarinet enters, 0:22]
+  Sunday morning light
+  Your coffee going cold
+  I practiced what I'd say
+  But every word fell away
+
+  [Pre-chorus, trio assembles, 0:52]
+  I don't want to disappear
+  I want to stay right here
+  With all my edges showing
+
+  [Chorus, celesta added, 1:05]
+  I keep calling back
+  Every little crack
+  In the walls I built for me
+  I can't take it back
+  Every word, every act
+  I gave you everything
+
+  [Verse 2, stripped back, 1:27]
+  Two years in a drawer
+  Old photos on the floor
+  I've changed too much to cover
+
+  [Bridge, voice and flugelhorn, 1:52]
+  Maybe this is who I am
+  Still reaching through the dark
+  Holding every piece of me
+
+  [Final chorus, harmonies, half-step up, 2:15]
+  I keep calling back
+  Every little crack
+  In the walls I built for me
+  I can't take it back
+  Every word, every act
+  I gave you everything
+  Oh, everything
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, K-pop, J-pop, anime pop, C-pop, mandopop, vocaloid, autotune, cinematic ambient, elegiac neoclassical, sacred minimalism, Gregorian chant, operatic soprano, bel canto, power ballad, gospel choir, symphonic metal, ambient drone, bedroom pop, sad-trap, phonk, drill, grime, 808 bass, lo-fi indie, dreamy indie, chillwave, shoegaze, noise rock, emo, post-punk, sad girl folk, mumble rap, hip hop, trap, dembow, reggaeton, Afrobeat, K-indie, TikTok folk, weepy country"
+
+notes: |
+  Technique: chorus-first confessional indie-pop — the dominant structural grammar of
+  mid-2026 English streaming pop, in which the hook/chorus lands immediately at 0:00–0:18
+  as a naked, emotionally direct statement with voice plus one instrument, before any intro
+  or verse buildup. The verse then retreats into sparse intimacy, the pre-chorus rebuilds
+  harmonic tension, the second chorus arrives fuller (doubled vocal), the bridge strips
+  back to voice plus sustained pad, and the final chorus opens with layered harmonies and
+  a half-step key lift. This front-loaded-hook architecture has zero prior representation
+  in the catalog — first deployment.
+
+  Concept source: a confessional self-exposure scene — the moment someone stops hiding
+  behind composed language and simply states what they feel, raw and unedited. "Unravel"
+  names both the emotional act and the structural move: everything comes apart immediately
+  at beat one, no protective buildup. The title is one English word per the single-word
+  titling rule.
+
+  Composer-omission: this song is in conversation with a generation of English-language
+  indie-pop songwriters who pioneered close-miked confessional production in the 2020s —
+  none named here per blocklist discipline.
+
+  Style char count: 942. Lyrics char count: 968. Both verified under their respective
+  hard ceilings (style ≤950, lyrics ≤1000) via scripts/text_tools.py.
+
+  Duration strategy: TikTok form-factor, target 2:45–3:15. At 168 BPM half-time (effective
+  84-beat pulse) the classifier should read intimate pop ballad pacing. NO [Silence] metatag
+  per feedback_silence_gate_truncates. Colon-syntax lyrics with 2–6 word descriptor labels
+  per feedback_lyrics_balance. Production tokens: polished studio mix, warm tape saturation,
+  wide stereo stage. Sentence case throughout; no ALL-CAPS form labels. Atmospheric opening
+  front-loads the hook-first confessional feel before production and key/BPM details.
+
+  Featured trio (signature color over the indie-pop guitar/voice core):
+  - Celesta (gap 81): bright metallic shimmer stitched between vocal phrases throughout,
+    most prominent on second chorus and final chorus cascade. Spectral voice — the one
+    spectral pick permitted per trio rules.
+  - Clarinet (gap 80): warm chalumeau register verse companion, sitting just above the
+    vocal to add intimate mid-register warmth without competing. Body voice.
+  - Flugelhorn (gap 71): velvet undercurrent beneath bigger choruses; solo sustained tone
+    in the bridge, locking in as pad substitute. Body voice.
+
+  Two body voices (clarinet + flugelhorn) plus one spectral (celesta): satisfies the
+  ≥2 body voices rule. Electric guitar is a genre anchor for the indie-pop classification,
+  not a fourth featured instrument in the trio.
+
+  Novelty claims:
+  - Technique novelty: chorus-first confessional indie-pop — zero prior catalog versions.
+  - BPM novelty: 168 BPM notated / 84 BPM effective — check novelty surface.
+  - Key novelty: E major → F major — check novelty surface.
+  - Trio novelty: flugelhorn + clarinet + celesta combination — high gap values (71/80/81)
+    indicate long catalog absences for all three.
+  - Vocal: English female vocal, confessional indie-pop register, NOT operatic or K-pop.
+
+tags:
+  - flugelhorn
+  - clarinet
+  - celesta
+  - 168bpm
+  - 84bpm-half-time
+  - e-major
+  - f-major
+  - confessional-scene
+  - revival-flugelhorn-71-gap
+  - revival-clarinet-80-gap
+  - revival-celesta-81-gap
+  - chorus-first-architecture
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - english-lyrics
+  - indie-pop
+  - tiktok-form-factor
+  - viral-arm

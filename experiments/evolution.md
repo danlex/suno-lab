@@ -372,6 +372,7 @@ mindmap
 | 325 | Nagori | Anime cinematic ballad × orchestral strings SECOND VIRAL PIVOT (train platform autumn twilight, Japanese seiyuu-adjacent female soprano + English refrain hook, 2026 TikTok #1 trending genre) | A minor | 78 | solo piano + bowed string section + oboe (67-back deep revival) |
 | 326 | Duro | Afro-soul cinematic ballad × live-band warmth THIRD VIRAL PIVOT (Lagos balcony golden hour, Pidgin+Yoruba male tender tenor, talking drum + muted trumpet + cello counterline) | D minor | 92 | talking drum (catalog debut) + muted trumpet (71-back deep revival) + cello counterline |
 | 327 | Linger | English cinematic pop solo ballad (research-informed viral) | F minor to F# minor | 84 | Rhodes electric piano + viola section + nylon-string guitar |
+| 328 | Unravel | Chorus-first confessional indie-pop (charts-informed viral) | E major to F major | 168 | flugelhorn + clarinet + celesta |
 
 ## Next-cycle priorities
 
