@@ -373,6 +373,7 @@ mindmap
 | 326 | Duro | Afro-soul cinematic ballad × live-band warmth THIRD VIRAL PIVOT (Lagos balcony golden hour, Pidgin+Yoruba male tender tenor, talking drum + muted trumpet + cello counterline) | D minor | 92 | talking drum (catalog debut) + muted trumpet (71-back deep revival) + cello counterline |
 | 327 | Linger | English cinematic pop solo ballad (research-informed viral) | F minor to F# minor | 84 | Rhodes electric piano + viola section + nylon-string guitar |
 | 328 | Unravel | Chorus-first confessional indie-pop (charts-informed viral) | E major to F major | 168 | flugelhorn + clarinet + celesta |
+| 329 | Lueur | French nu-disco vocal pop (charts-informed viral) | B-flat major to B major | 107 | bandoneon + steelpan + upright bass |
 
 ## Next-cycle priorities
 

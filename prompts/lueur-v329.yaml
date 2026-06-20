@@ -1,0 +1,122 @@
+name: "lueur-v329"
+version: 329
+title: "Lueur"
+instrumental: false
+vocal_gender: female
+
+style: "Summer pavement cooling at dusk — neon café glow, crêpes and warm asphalt, someone leaning on a scooter. Polished studio mix, wide stereo stage, warm tape saturation on the vocal. French nu-disco vocal pop, breathy intimate French female lead, upbeat four-on-the-floor groove at 107 BPM, B-flat major lifting to B major at the final chorus. Bandoneon breathes wistful warmth between vocal phrases; steelpan rings high with bright syncopated shimmer above the hook; upright bass locks the rubbery groove pocket. Rhodes chords anchor the warm groove bed. Verse 1 bare: bass, Rhodes, vocal. Pre-chorus adds guitar and steelpan. Chorus hits full groove with bandoneon swell and backing harmonies. Breakdown strips to bass and handclaps. Final chorus lifts a half-step, brief string-pad swell, sustained groove fade. Underscore for a Paris dusk café groove scene. No lead guitar, no rock drums, no pipe organ, no synthesizers, no choir."
+
+lyrics: |
+  [Couplet 1 — voix et basse, 0:00]
+  Tu rentres tard, le soir te garde
+  Je t'entends monter l'escalier
+  La lumière est douce, elle retarde
+  Le moment où tu vas m'embrasser
+
+  [Pré-refrain — guitare et steelpan, 0:28]
+  Quelque chose en moi s'allume
+  Une lueur sur les toits
+  Je veux danser cette nuit
+  Reste là, reste avec moi
+
+  [Refrain — groove plein, 0:45]
+  Lueur, lueur sur nos visages
+  Lueur dans les yeux de la ville
+  Danse encore, efface les âges
+  Tu me rends fragile
+
+  [Couplet 2 — bandonéon entre, 1:05]
+  On comptait les jours, les heures perdues
+  Maintenant tu prends ma main
+  Et tout le reste disparaît
+  Fondu dans le soir sans fin
+
+  [Pont — basse et claquements, 1:35]
+  Juste toi, juste moi
+  Ce rythme entre nos pas
+  Reste, ne pars pas
+
+  [Refrain final — demi-ton, cordes, 1:52]
+  Lueur, lueur sur nos visages
+  Lueur dans les yeux de la ville
+  Danse encore, efface les âges
+  Tu me rends fragile
+  Tu me rends vivante
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, French house, Europop, disco revival, club, rave, house music, techno, trance, cinematic ambient, elegiac neoclassical, sacred minimalism, operatic soprano, bel canto, gospel choir, symphonic metal, ambient drone, sad-trap, phonk, drill, grime, mumble rap, hip hop, trap, reggaeton, Afrobeat, K-pop, J-pop, chanson singer, cabaret singer, gypsy, klezmer, vocal cabaret, traditional chanson, darkwave, industrial, post-punk, shoegaze, power ballad"
+
+notes: |
+  Technique: French nu-disco vocal pop — breathy intimate French-language female
+  lead vocal over a rubbery four-on-the-floor groove, with the "French touch" production
+  lineage: warmth over sheen, wistful phrasing over belt, groove-pocket bass over club
+  sidechain. Nu-disco is the dominant 2026 groove trend — 1970s/80s disco warmth recombined
+  with modern production clarity and close-miked intimacy. This is the French-language variant
+  of that lane.
+
+  Concept source: charts-informed gap in the catalog — every prior French-language cycle
+  (v248 cinematic, v253 darkwave, v262 dark electro-chanson) was nocturnal and introspective;
+  no upbeat groove-driven French vocal pop has been attempted. This fills the open lane.
+
+  Composer-omission: this song is in conversation with the tradition of French-language
+  groove-pop producers whose work defined the late 1990s and 2010s "French touch" — none
+  named here per blocklist discipline.
+
+  Style char count: 945. Lyrics char count: 864. Both verified under hard ceilings
+  (style ≤950, lyrics ≤1000) via scripts/text_tools.py in-range and count commands.
+
+  Duration strategy: target 2:45–3:10. BPM 107 is in the slow-to-mid band (90–115),
+  where Suno caps around 3:30 regardless of bar count. The arc is optimized for emotional
+  density rather than maximum length: Verse 1 bare → Pre-chorus → Chorus → Verse 2 →
+  Breakdown (bass + handclaps) → Final chorus with half-step lift and string-pad swell →
+  sustained groove fade. No [Silence] metatag per feedback_silence_gate_truncates. Colon-syntax
+  lyric labels (2–6 words, French descriptors) per feedback_lyrics_balance. Production tokens:
+  polished studio mix, wide stereo stage, warm tape saturation. Sentence case throughout;
+  no ALL-CAPS form labels. Atmospheric opening front-loads the dusk café scene.
+
+  Featured trio (signature texture over the Rhodes/guitar groove bed):
+  - Bandoneon (gap 146, last v182): wistful warm mid-field breath between vocal phrases.
+    Body voice — the unexpected warmth register in a groove context, adds the wistful French
+    pop phrasing quality without tango connotation.
+  - Steelpan (gap 111, last v217): bright syncopated shimmer above the hook, high register
+    punctuation on the pre-chorus and chorus. Spectral/bright voice — the one bright-shimmer
+    pick permitted per trio rules.
+  - Upright bass (gap 57, last v271): rubbery groove-pocket foundation, the physical
+    center of the nu-disco feel. Body voice — warm and round, locks with the four-on-the-floor
+    pulse without electric-bass hardness.
+
+  Two body voices (bandoneon + upright bass) plus one bright voice (steelpan): satisfies
+  the ≥2 body voices rule. Rhodes and jangly guitar are genre-anchor texture, not a fourth
+  trio instrument.
+
+  Novelty claims:
+  - Technique novelty: French nu-disco vocal pop — zero prior catalog versions; first
+    upbeat groove-driven French vocal pop attempt.
+  - Trio novelty: bandoneon (gap 146) + steelpan (gap 111) + upright bass (gap 57) —
+    all three at significant catalog absences; combination is catalog-unique.
+  - Key novelty: B-flat major → B major (half-step lift at final chorus) — not prior in catalog.
+  - BPM novelty: 107 BPM — only one prior use at v143 per novelty surface.
+  - Language novelty: French-language vocal in an upbeat groove context — distinct from all
+    prior French cycles which were nocturnal/introspective.
+  - Scene novelty: dusk café scooter scene — warm, upbeat urban Paris, not midnight/rain.
+
+tags:
+  - bandoneon
+  - steelpan
+  - upright-bass
+  - 107bpm
+  - b-flat-major
+  - b-major
+  - cafe-dusk-scene
+  - revival-bandoneon-146-gap
+  - revival-steelpan-111-gap
+  - revival-upright-bass-57-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - french-lyrics
+  - nu-disco
+  - french-touch-vocal-pop
