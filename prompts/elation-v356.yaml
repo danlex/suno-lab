@@ -1,0 +1,146 @@
+name: "elation-v356"
+version: 356
+title: "Elation"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Euphoric peak-time piano house — bright, instantly-memorable piano riff over a punchy four-on-the-floor groove and a warm rolling bassline, polished studio mix built for hands-in-the-air moments. E major lifting a half-step to F major at the drop, 126 BPM. A soulful female vocal delivers the sing-along hook. A flugelhorn delivers warm brass swells in the breakdown — rounded, golden. An oboe d'amore carries a honeyed melodic counterline where the piano steps back, woody warmth woven through. A steelpan adds bright shimmer at the final lift, sun-drenched overtones sparkling above the groove. Near 1:30 the track strips to piano and vocal over a held pad, a rising filter-swell building before the drop; the riff returns in F major with full groove and brass. Wide stereo, tape saturation. Underscore for a peak-time dancefloor scene — floor packed, crowd at full peak. No guitars, no rap vocals, no rock drums, no pipe organ, no synthesizers.
+
+lyrics: |
+  [Intro: piano riff and groove, 0:00]
+
+  [Verse 1: vocal over piano, 0:16]
+  Every light is on tonight
+  Every room is burning bright
+  Waiting for this feeling
+  Chasing something worth believing
+
+  [Pre-Chorus: energy building, 0:36]
+  Something in the air is changing
+  All the walls come down
+  Take me higher now
+
+  [Chorus: full piano hook, 0:50]
+  This is elation
+  Rising like a wave
+  This is elation
+  Nothing gonna hold us today
+  We are alive now
+  Every heartbeat says
+  This is elation
+
+  [Verse 2: fuller groove, 1:06]
+  Nothing lost that can't be found
+  When the music shakes the ground
+  Every stranger, every face
+  Finds a home inside this place
+
+  [Breakdown: piano and vocal, 1:22]
+  Hold on
+  Something's coming
+  Let it come
+
+  [Vamp: flugelhorn and oboe d'amore, 1:38]
+
+  [Drop: F major lift, full groove, 2:12]
+
+  [Final Chorus: euphoric, steelpan shimmer, 2:24]
+  This is elation
+  Rising like a wave
+  This is elation
+  Nothing gonna hold us today
+  We are alive now
+  Every heartbeat says
+  This is elation
+
+  [Outro: piano fades, 2:48]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, dark techno, EBM, industrial, drill, trap, phonk, hip-hop, reggaeton, Latin, country, folk, cinematic ambient, elegiac, intimate chamber, gypsy, klezmer, gospel choir, drum and bass, jungle, breakbeat, hardcore"
+
+tags:
+  - flugelhorn
+  - oboe-d-amore
+  - steelpan
+  - 126bpm
+  - e-major
+  - f-major
+  - piano-house
+  - euphoric-dancefloor-scene
+  - revival-flugelhorn-16-gap
+  - revival-oboe-d-amore-12-gap
+  - revival-steelpan-13-gap
+  - half-step-lift
+  - vamp-duration-lever
+  - forward-motion
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-voice
+
+notes: |
+  Technique: Melodic piano house is a subgenre of UK house / deep house that places a
+  bright, instantly-recognisable piano chord-stab or riff at the centre of the production,
+  over a four-on-the-floor kick and warm rolling bassline. The piano riff acts as both the
+  hook and the energy anchor; builds and drops are engineered around whether the riff is
+  present and in what key. The style peaked in UK clubs in the late 1980s and early 1990s
+  and has undergone multiple chart-friendly revivals, each time with updated production
+  sheen. The 2024-2026 revival leans into a high-production euphoric sound with melodic
+  lead vocals, polished studio mixes, and cinematic key modulations at the drop.
+
+  Concept source: euphoric peak-time piano house anthem with a bright piano riff as the
+  centrepiece hook over four-on-the-floor and rolling bassline, soulful female vocal,
+  flugelhorn brass swells, oboe d'amore honeyed countermelody, steelpan shimmer at the
+  lift, and a half-step modulation (E major to F major) at the drop after a filter-swell
+  breakdown.
+
+  Composer-omission: This cycle channels the euphoric piano-house energy of certain
+  late-1980s and early-1990s UK house producers and labels whose names are omitted per
+  house policy. The flugelhorn, oboe d'amore, and steelpan bring timbral colour those
+  productions never employed, making this compositionally distinct.
+
+  Duration strategy: BPM 126 sits near the lower edge of the proven 130-160 band;
+  given the vocal-song structure and forward-motion (euphoric arrival/lift concept),
+  the playbook targets 3:00-3:30. Duration levers applied: (1) explicit lyric-free
+  instrumental vamp at 1:38-2:12 (~34 seconds, naming flugelhorn and oboe d'amore to
+  trigger the instrument voices without sung content — hits the 30-50s vamp window),
+  (2) last lyric timestamp at 2:48 (well past the 2:40+ target), (3) outro section
+  pushes render target past 3:00. No [Silence] metatag used — per feedback, explicit
+  [Silence] markup truncates; instead the [Breakdown] strips lyrics to three minimal
+  lines over a held pad as a rising filter-swell builds pressure, then the lyric-free
+  [Vamp] extends the tension before the Drop. Forward-motion concept (euphoric ascent
+  to F-major lift) should drive the auto-classifier toward "euphoric house, dance pop"
+  tags rather than "cinematic ambient," supporting the 3:00+ duration floor.
+  Production tokens used: polished studio mix, wide stereo stage, warm tape saturation.
+  Atmospheric-first opening names genre, mood, key, BPM in the opening sentence.
+  Sentence case throughout — no ALL-CAPS form labels. Five inline negatives close style.
+
+  Instrument roles (trio: flugelhorn, oboe d'amore, steelpan):
+  - Flugelhorn (body voice, gap 16): warm rounded brass swells in the Breakdown and
+    lyric-free Vamp (1:38-2:12); its golden mellow tone is the primary non-piano melodic
+    voice through the tension phase, filling the room without cutting through too sharply.
+    Returns briefly in the Final Chorus to double the brass colour at the lift. Body voice.
+  - Oboe d'amore (body voice, gap 12): honeyed melodic counterline in the Vamp section,
+    carrying the main tune where the piano steps back; its woody mid-range warmth offers a
+    yearning, slightly plaintive contrast to the euphoric groove underneath. One of the most
+    expressive double-reed voices in the orchestral palette. Body voice.
+  - Steelpan (body voice, gap 13): enters at the Final Chorus (2:24) after the F-major drop,
+    adding bright Caribbean shimmer and sun-drenched overtone sparkle above the full groove;
+    its naturally bright upper-register attack complements the piano riff without competing
+    with it. Shimmer/colour voice at the lift. Body voice.
+
+  Trio body-voice count: 3 body voices (flugelhorn, oboe d'amore, steelpan). Satisfies
+  the >= 2 body voices rule. Zero spectral instruments in trio.
+
+  Novelty claims: Flugelhorn in a piano-house anthem context (gap 16 from v340) is novel.
+  Oboe d'amore as a vocal countermelody voice in a dance-music production context (gap 12
+  from v344) is an unusual deployment. Steelpan as a "final-lift shimmer" voice at the
+  modulation point is a fresh structural use (gap 13 from v343). The trio collectively
+  (flugelhorn + oboe d'amore + steelpan) has not appeared together in the catalog. BPM 126
+  may be new to the catalog — close to v354's nu-disco 124 BPM but distinct. E major to
+  F major half-step lift is a fresh key pair for this catalog.
+
+  Style char count: 948 (verified in-range 700-950 via text_tools.py; blocklist clean).
+  Lyrics char count: 997 (verified under 1000 via text_tools.py; blocklist clean).
