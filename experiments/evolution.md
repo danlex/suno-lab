@@ -384,6 +384,7 @@ mindmap
 | 337 | Surge | Liquid drum-and-bass vocal pop, pre-drop strips + drop (charts-informed viral) | B major to C major | 172 | vibraphone + french horn + harp |
 | 338 | Locket | Chamber-pop / orchestral-pop, two-part close harmony (charts-informed viral) | A major to B-flat major | 124 | cimbalom + oboe + trumpet |
 | 339 | Static | Jangly power-pop vocal burst, hooks-first (charts-informed viral) | E minor to F minor | 150 | jangly 12-string electric guitar + tubular bells + celesta |
+| 340 | Strut | Brass-forward disco-funk vocal pop, four-on-the-floor (charts-informed viral) | D-flat minor to D minor | 116 | flugelhorn + felt piano + crotales |
 
 ## Next-cycle priorities
 

@@ -1,0 +1,161 @@
+name: "strut-v340"
+version: 340
+title: "Strut"
+instrumental: false
+vocal_gender: female
+
+style: "Brass-forward disco-funk vocal hit — warm stage lights, polished floor, horn section up front. Polished studio mix, deep low-end definition, wide stereo stage, dry and punchy. D-flat minor lifting to D minor at the final chorus, 116 BPM four-on-the-floor. Flugelhorn carries the round warm melody above brass stabs, threading chorus hooks. Felt piano anchors spare verses with dry chordal warmth under the conversational vocal. Crotales flash crystalline shimmer where the hook ignites and again at the half-step lift. Live drummer four-on-the-floor kick, tambourine right, one rhythmic guitar chop left. Popping electric funk bass holds the pocket. Brass section stabs every chorus. Female lead vocal close-miked and dry — playful on the verse, cracking into stacked harmonized soprano hooks above the stabs. Purpose: make the body move before the brain objects. No drum machine, no autotune, no EDM drop, no distorted rock guitars, no reverb haze."
+
+lyrics: |
+  [Verse 1 — bass, felt piano]
+  Walking in like I already won
+  Heels hit the floor, the night's begun
+  I'm not here to talk — here to move
+
+  [Pre-chorus — horns slide in]
+  Feel that bass ride low and slow
+  Brass rising, getting ready to go
+
+  [Chorus — harmonized, brass stabs, 0:40]
+  Let me strut, strut, strut
+  Brass calling for something more
+  Horns cut through the night
+  Oh strut, baby strut
+
+  [Verse 2 — conversational groove]
+  Second time around you know the song
+  Come on take my hand, let's ride
+
+  [Chorus — stacked harmonies, 1:22]
+  Let me strut, strut, strut
+  Brass calling for something more
+  Horns cut through the night
+  Oh strut, baby strut
+
+  [Horn groove section, 1:48]
+
+  [Bridge — voice and bass, 2:12]
+  Just me and the bass now
+  Everything else gone quiet
+
+  [Final chorus — D minor, doubled brass, 2:28]
+  Let me strut, strut, strut
+  Brass calling for something more
+  Horns cut through the night
+  Strut like the whole world burns bright
+  Oh strut, baby strut — strut!
+
+  [Groove hit, 2:48]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, nu-disco, future funk, French house, Europop, funkadelic, boogie, electro-funk, synth-funk, drum machine funk, 808 groove, disco house, dance pop, tropical house, Afrobeat, K-pop, J-pop, C-pop, chanson, gospel choir, symphonic metal, ambient drone, cinematic ambient, elegiac neoclassical, sad-trap, phonk, drill, grime, trap, hip-hop, reggaeton, shoegaze, dream pop, autotune, vocal processing, chamber pop"
+
+notes: |
+  Technique: brass-forward disco-funk vocal pop — the dominant 2026 disco revival lane,
+  characterized by a punchy live horn section locked to a four-on-the-floor kick,
+  a popping electric funk bass, close-miked conversational female vocal that opens up
+  into stacked harmonized soprano hooks on the chorus, and a dry studio aesthetic with
+  no reverb haze. This is the live-band side of the revival (not the synthesized
+  nu-disco or future-funk lanes), emphasizing room presence, horn section bleed,
+  and the physical groove pocket over production sheen.
+
+  Concept source: charts-informed original — brass-forward disco-funk vocal pop is the
+  dominant groove trend of 2026, and the catalog has zero prior entries in this lane.
+  v329 (Lueur) was French-language nu-disco with a synthesized groove bed; v339 (Static)
+  was power-pop with jangly guitar. Neither touches the live-horn disco-funk register.
+  This fills the gap with an original English-language vocal song, original hook,
+  no homage to any named act.
+
+  Composer/band omission: this sound is in dialogue with the live-horn funk-pop tradition
+  of the 1970s–1980s whose leading acts are on the blocklist and are intentionally
+  unnamed here. The punchy brass stabs, four-on-the-floor pocket, and close-miked female
+  vocal are idiomatic to that tradition without referencing any individual performer.
+
+  BPM override note: the novelty picker's default slow-BPM suggestion (~93) was overridden
+  to 116 BPM — the classic disco-funk four-on-the-floor pocket tempo. At 93 BPM the
+  groove would lose its forward propulsion and sound more like a soul ballad than a
+  dance-floor hit. 116 sits at the upper edge of the slow BPM band (90–115), meaning
+  Suno may cap around 3:00–3:30; the arc is sized accordingly.
+
+  Duration strategy: target 2:50–3:15. Arc: sparse verse (bass + felt piano + vocal) →
+  pre-chorus (horns slide in underneath) → full chorus with brass stabs + harmonized hooks
+  at 0:40 → verse 2 → chorus at 1:22 → horn groove section at 1:48 (a real instrumental
+  groove break for added length) → bridge stripped to voice + bass at 2:12 → final chorus
+  in D minor with doubled brass at 2:28 → tight groove hit at 2:48. Last lyric timestamp
+  pushes to 2:48 per the late-anchor instruction. No [Silence] metatag per
+  feedback_silence_gate_truncates — the bridge is a sparse moment but not a silence gate.
+  Sentence case throughout; no ALL-CAPS form labels. Production tokens: polished studio
+  mix, deep low-end definition, wide stereo stage. Atmospheric-first opening front-loads
+  the stage/floor scene with purpose phrase embedded.
+
+  Featured trio and instrument roles:
+  - Flugelhorn (gap 12, last v328): carries the round warm lead melody above the punchy
+    brass stabs in the chorus sections, threading hooks with a mellow gold tone distinct
+    from the harder trumpet or trombone edge. The warm body voice of the horn section's
+    solo register. Cast here because its mellow roundness sits ABOVE the stabs rather than
+    competing with them — a lead color, not a section unison.
+  - Felt piano (gap 31, last v309): anchors the sparse verse texture with dry chordal
+    warmth, the velvet beneath the conversational vocal before the horns enter. Body voice —
+    its damped attack keeps the verse intimate and prevents the keyboard from bleeding into
+    the horn territory. Cast because felt-damped piano is the natural warm-room keyboard for
+    a live-band disco-funk context, not Rhodes (which leans more toward soul-ballad) and not
+    synth (which triggers the wrong Suno classifier).
+  - Crotales (gap 20, last v320): flashes a single high crystalline shimmer at the precise
+    moments the hook ignites (chorus entry) and at the D-minor key lift (final chorus).
+    Spectral/bright voice — the one shimmer pick permitted per trio rules. Cast because
+    its attack is percussive-metallic and brief, functioning as a cue rather than a texture,
+    which avoids cluttering the dry studio mix. The crotales shimmer is the catalog's version
+    of the ear-candy "hook bell" that pop brass arrangers use on the downbeat of a lift.
+
+  Trio voice balance: flugelhorn (body — warm brass) + felt piano (body — warm keys) =
+  two body voices. Crotales = one spectral. Satisfies the playbook ≥2 body voices rule.
+  The genre bed (live drummer, popping funk bass, brass section, tambourine, guitar chop)
+  is described in the style field as environment, not as additional trio instruments.
+
+  Key: D-flat minor (midnight disco, minor-funk groove) lifting to D minor (one half-step
+  up) at the final chorus. This is the playbook key-modulation frisson trigger in a disco-
+  funk vocal context — the key lift doubles as the "moment the whole room shifts up."
+
+  Novelty claims:
+  - Genre lane: brass-forward disco-funk vocal pop — catalog first across 339 versions.
+  - Technique novelty: live-horn disco-funk with close-miked female conversational verse
+    opening into harmonized soprano chorus — not present in any prior catalog entry.
+  - Trio novelty: flugelhorn (gap 12) + felt piano (gap 31) + crotales (gap 20) in a
+    disco-funk vocal context — combination is catalog-unique; all three at significant gaps.
+  - Key novelty: D-flat minor to D minor half-step lift in a funk-groove context — not prior.
+  - Scene novelty: polished-floor stage/live-band-room scene in a disco-funk vocal frame —
+    no prior catalog entry has this specific combination of setting + vocal genre + live brass.
+  - Title: one-word English, disco-funk energy, fresh — not used in catalog.
+
+  Style char count: 949 (verified in-range 700–950, under Suno 1000-char limit).
+  Lyrics char count: 978 (verified under 980-char target buffer, under Suno 1000-char limit).
+  Both verified via scripts/text_tools.py in-range and count commands.
+
+tags:
+  - flugelhorn
+  - felt-piano
+  - crotales
+  - 116bpm
+  - d-flat-minor
+  - d-minor
+  - d-flat-minor-to-d-minor
+  - half-step-lift
+  - stage-disco-funk-scene
+  - revival-flugelhorn-12-gap
+  - revival-felt-piano-31-gap
+  - revival-crotales-20-gap
+  - new-technique
+  - new-genre-lane
+  - brass-forward-disco-funk
+  - live-horn-section
+  - four-on-the-floor
+  - harmonized-chorus
+  - conversational-verse
+  - stacked-soprano-hooks
+  - duration-3min
+  - research-driven
+  - vocal
+  - instrumental-false
+  - english-lyrics
+  - female-vocal

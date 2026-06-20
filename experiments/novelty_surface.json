@@ -1,6 +1,6 @@
 {
-  "total_prompts": 339,
-  "latest_version": 339,
+  "total_prompts": 340,
+  "latest_version": 340,
   "instruments": {
     "piano": [
       1,
@@ -364,6 +364,19 @@
       315,
       335
     ],
+    "flugelhorn": [
+      106,
+      123,
+      135,
+      187,
+      206,
+      221,
+      234,
+      245,
+      257,
+      328,
+      340
+    ],
     "cimbalom": [
       98,
       115,
@@ -399,18 +412,6 @@
       245,
       257,
       319
-    ],
-    "flugelhorn": [
-      106,
-      123,
-      135,
-      187,
-      206,
-      221,
-      234,
-      245,
-      257,
-      328
     ],
     "harpsichord": [
       105,
@@ -633,6 +634,16 @@
       218,
       232
     ],
+    "felt piano": [
+      112,
+      127,
+      140,
+      190,
+      215,
+      233,
+      309,
+      340
+    ],
     "glass marimba": [
       103,
       121,
@@ -692,15 +703,6 @@
       255,
       326,
       338
-    ],
-    "felt piano": [
-      112,
-      127,
-      140,
-      190,
-      215,
-      233,
-      309
     ],
     "hardanger fiddle": [
       111,
@@ -821,6 +823,12 @@
       182,
       329
     ],
+    "crotales": [
+      222,
+      244,
+      320,
+      340
+    ],
     "erhu": [
       102,
       117,
@@ -876,11 +884,6 @@
       83,
       130,
       198
-    ],
-    "crotales": [
-      222,
-      244,
-      320
     ],
     "double bass": [
       178,
@@ -1079,7 +1082,8 @@
       312,
       316,
       317,
-      319
+      319,
+      323
     ],
     "neoclassical": [
       1,
@@ -1120,20 +1124,16 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257,
-      314,
       324,
       325,
       326,
       327
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
@@ -1141,6 +1141,15 @@
       307,
       330,
       338
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1157,24 +1166,18 @@
       280,
       292
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
-    ],
     "romantic": [
       145,
       149,
       313
     ],
+    "baroque": [
+      188,
+      191
+    ],
     "drone": [
       304,
       305
-    ],
-    "minimalist": [
-      201,
-      323
     ],
     "passacaglia": [
       111,
@@ -1193,9 +1196,6 @@
     "amapiano": [
       266
     ],
-    "baroque": [
-      188
-    ],
     "drill": [
       282
     ],
@@ -1204,6 +1204,9 @@
     ],
     "lo-fi": [
       296
+    ],
+    "minimalist": [
+      201
     ],
     "progressive house": [
       96
@@ -1457,6 +1460,15 @@
       245,
       257
     ],
+    "d-flat minor": [
+      103,
+      129,
+      215,
+      227,
+      243,
+      259,
+      340
+    ],
     "e-flat minor": [
       79,
       109,
@@ -1473,14 +1485,6 @@
       145,
       184,
       242
-    ],
-    "d-flat minor": [
-      103,
-      129,
-      215,
-      227,
-      243,
-      259
     ],
     "g major": [
       42,
@@ -1910,7 +1914,8 @@
     ],
     "116": [
       127,
-      287
+      287,
+      340
     ],
     "117": [
       140,
@@ -2136,6 +2141,19 @@
   },
   "titles": [
     {
+      "version": 340,
+      "title": "Strut",
+      "name": "strut-v340",
+      "featured": [
+        "flugelhorn",
+        "felt piano",
+        "crotales"
+      ],
+      "genre": null,
+      "key": "d-flat minor",
+      "bpm": 116
+    },
+    {
       "version": 339,
       "title": "Static",
       "name": "static-v339",
@@ -2337,7 +2355,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -2432,7 +2450,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -3816,7 +3834,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -3981,7 +3999,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -4132,7 +4150,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
