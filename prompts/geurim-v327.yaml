@@ -1,0 +1,111 @@
+name: "linger-v327"
+version: 327
+title: "Linger"
+instrumental: false
+vocal_gender: female
+
+style: "Cinematic pop solo ballad, tender and unhurried — a city apartment at sunset, lights flickering on, an empty mug on the table, the moment of remembering. Polished studio mix, warm tape saturation, wide stereo stage. F minor lifting to F# minor at the final chorus, 84 BPM intimate pulse. Rhodes electric piano opens alone, warm mid-register chords with gentle tone-tremolo. English-singing female airy lyric soprano enters over Rhodes only, breath-forward, close-miked, emotional tremolo on sustained notes, never belted, with quiet devastation. Viola section fades in as sustained countermelody, building harmonic tension toward the chorus. Nylon-string guitar enters at chorus only, classical warmth rounding the trio texture. String tremolo at the final chorus only. Outro: Rhodes motif alone, voice humming, slow fade. Underscore for a late-evening longing scene. No rock drums, no pipe organ, no synthesizers, no electric guitar, no autotune."
+
+lyrics: |
+  [Rhodes intro]
+
+  [Verse 1 — airy soprano, Rhodes]
+  Outside my window the city starts to shine
+  An empty mug still sitting where you were
+  A quiet longing fills me up inside
+  I miss you, I miss you
+
+  [Pre-chorus — viola enters]
+  The longer that I wait for you
+  The deeper all my thoughts run through
+  Like rain is falling in my chest
+
+  [Chorus — nylon guitar, full trio]
+  Oh linger, oh linger
+  I can't forget the light of you
+  Your eyes that shone just like the stars
+  the moon remembers what you said
+  Love is somehow still right here
+
+  [Verse 2 — voice and Rhodes]
+  Even late at night your voice in me
+  Is still alive inside my memory
+  The city lights flow by me like the moon
+  Only the waiting stays behind
+
+  [Bridge — near-whisper]
+  The memory falls down like rain
+  I cannot hold it close
+
+  [Final chorus — half-step up]
+  Oh linger, oh linger
+  I can't forget the light of you
+  Your eyes that shone just like the stars
+  Love is somehow still right here
+  Oh linger, oh linger
+
+  [Outro — dissolving hum]
+  Linger...
+  mmm...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar lead, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, K-pop group, K-pop dance-pop, K-pop idol group, J-pop, anime ballad, C-pop, mandopop, girl group, boy band, trap, phonk, drift phonk, drill, grime, 808 bass, hi-hat rolls, dembow, reggaeton, sad-trap, Latin sad-trap, Afro-soul, anime cinematic, seiyuu vocal, vocaloid, autotune, cinematic ambient, elegiac neoclassical, sacred minimalism, Gregorian chant, monumental orchestral, ceremonial march, operatic soprano, bel canto, power ballad, gospel choir, symphonic metal, power ambient, ambient drone, choral eruption, heldentenor, countertenor"
+
+notes: |
+  REDRAFT 2026-06-20: rewritten from the original Korean-language "Geurim" into
+  ENGLISH lyrics per the English-or-French-only rule (feedback_english_french_only).
+  Same musical concept retained — cinematic pop solo ballad, Rhodes electric piano +
+  viola section countermelody + nylon-string guitar, F minor → F# minor half-step
+  lift at the final chorus, 84 BPM, English-singing female airy lyric soprano,
+  breath-forward close-mic with quiet devastation. Title changed to the single
+  English word "Linger" (one-word titling rule).
+
+  Concept: a late-evening longing scene — a city apartment at sunset, lights flickering
+  on, an empty mug on the table, the precise moment of remembering someone who isn't
+  coming back. The hook word "linger" carries the ache of absence and the lingering of
+  memory; it doubles as the chorus refrain.
+
+  Instruments:
+  - Rhodes electric piano (warm chordal body-voice): opens the track alone for 15
+    seconds, establishing the intimate register, then continues as harmonic foundation.
+  - viola section (sustained countermelody): enters at the pre-chorus beneath the
+    soprano, sustaining countermelody chords that build harmonic tension toward the
+    chorus; a string tremolo thread adds density at the final chorus only.
+  - nylon-string guitar (warm plucked body-voice): enters at chorus only, rounding the
+    trio texture without displacing Rhodes or voice as the lead register.
+
+  Vocal direction: English-singing female airy lyric soprano, breath-forward tone,
+  emotional tremolo on sustained notes, intimate close-mic feel — cinematic pop solo
+  ballad register with quiet devastation rather than operatic power.
+
+  Duration strategy: VIRAL ARM cycle. Target 2:45–3:00, TikTok-optimized form factor.
+  At 84 BPM the classifier may cap around 3:00–3:15; arc designed to feel complete
+  within that window. NO [Silence] metatag per feedback_silence_gate_truncates.md.
+  Colon-syntax lyrics with timestamp anchors, 2–6 word descriptor labels per
+  feedback_lyrics_balance. Production tokens: polished studio mix, warm tape
+  saturation, wide stereo stage. Sentence case throughout; no ALL-CAPS form labels.
+
+tags:
+  - rhodes-electric-piano
+  - viola-section
+  - nylon-string-guitar
+  - 84bpm
+  - f-minor
+  - f-sharp-minor
+  - city-apartment-sunset-scene
+  - debut-rhodes-electric-piano
+  - debut-nylon-string-guitar
+  - revival-viola-4-gap
+  - revival-84bpm-37-gap
+  - new-technique
+  - cinematic-pop-ballad
+  - english-female-soprano
+  - english-lyrics
+  - viral-arm
+  - short-form-format
+  - tiktok-form-factor
+  - duration-3min
+  - research-driven
+  - vocal
+  - rule-override-viral-arm
