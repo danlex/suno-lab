@@ -1,6 +1,6 @@
 {
-  "total_prompts": 346,
-  "latest_version": 346,
+  "total_prompts": 347,
+  "latest_version": 347,
   "instruments": {
     "piano": [
       1,
@@ -426,6 +426,18 @@
       257,
       319
     ],
+    "cristal baschet": [
+      86,
+      93,
+      112,
+      132,
+      144,
+      194,
+      215,
+      230,
+      257,
+      347
+    ],
     "harpsichord": [
       105,
       121,
@@ -530,17 +542,6 @@
       244,
       259,
       333
-    ],
-    "cristal baschet": [
-      86,
-      93,
-      112,
-      132,
-      144,
-      194,
-      215,
-      230,
-      257
     ],
     "flute": [
       66,
@@ -834,11 +835,24 @@
       331,
       344
     ],
+    "steel tongue drum": [
+      108,
+      123,
+      185,
+      233,
+      347
+    ],
     "bandoneon": [
       105,
       117,
       182,
       329
+    ],
+    "chalumeau": [
+      223,
+      254,
+      333,
+      347
     ],
     "clarinet": [
       199,
@@ -864,12 +878,6 @@
       180,
       290
     ],
-    "steel tongue drum": [
-      108,
-      123,
-      185,
-      233
-    ],
     "taiko": [
       95,
       96,
@@ -886,11 +894,6 @@
       106,
       125,
       186
-    ],
-    "chalumeau": [
-      223,
-      254,
-      333
     ],
     "contrabass": [
       83,
@@ -1097,8 +1100,7 @@
       312,
       316,
       317,
-      319,
-      323
+      319
     ],
     "neoclassical": [
       1,
@@ -1156,7 +1158,8 @@
       307,
       330,
       338,
-      345
+      345,
+      347
     ],
     "symphonic": [
       162,
@@ -1198,6 +1201,10 @@
       304,
       305
     ],
+    "minimalist": [
+      201,
+      323
+    ],
     "passacaglia": [
       111,
       202
@@ -1220,9 +1227,6 @@
     ],
     "lo-fi": [
       296
-    ],
-    "minimalist": [
-      201
     ],
     "progressive house": [
       96
@@ -1399,7 +1403,8 @@
       296,
       306,
       314,
-      319
+      319,
+      347
     ],
     "d major": [
       27,
@@ -1923,7 +1928,8 @@
       264
     ],
     "111": [
-      213
+      213,
+      347
     ],
     "112": [
       68,
@@ -2173,6 +2179,19 @@
     ]
   },
   "titles": [
+    {
+      "version": 347,
+      "title": "Vigil",
+      "name": "vigil-v347",
+      "featured": [
+        "cristal baschet",
+        "steel tongue drum",
+        "chalumeau"
+      ],
+      "genre": "chamber",
+      "key": "b minor",
+      "bpm": 111
+    },
     {
       "version": 346,
       "title": "Saunter",
@@ -2461,7 +2480,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "orchestral",
+      "genre": "minimalist",
       "key": "d minor",
       "bpm": 54
     },

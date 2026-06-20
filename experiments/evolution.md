@@ -391,6 +391,7 @@ mindmap
 | 344 | Velours | Nouvelle chanson-pop, intimate French indie (charts-informed viral) | D major to E-flat major | 114 | mellotron + oboe d'amore + cello |
 | 345 | Lilt | Bright uptempo chamber-pop, racing-delight syllabic vocalise hook (charts-informed viral) | A major to B-flat major | 173 | prepared piano + pizzicato strings + marimba |
 | 346 | Saunter | Mid-tempo retro soul-funk, recurring brass-ostinato hook (charts-informed viral) | B-flat major to B major | 99 | baritone saxophone + cup-muted trumpet + clavinet |
+| 347 | Vigil | Intimate dream-folk nocturne, hushed nocturnal-wonder over continuous pulse (charts-informed viral) | B minor to B major | 111 | cristal baschet + steel tongue drum + chalumeau |
 
 ## Next-cycle priorities
 
