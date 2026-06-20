@@ -1,0 +1,83 @@
+name: "lilt-v345"
+version: 345
+title: "Lilt"
+instrumental: false
+vocal_gender: female
+
+style: "Bright uptempo chamber-pop bursting with racing delight, clean modern production, 173 BPM in A major lifting to B-flat major at the final section for a joyful half-step uplift. A female voice delivers fast rhythmic syllabic vocalise — light playful non-lexical syllables like da-na-ta, la-li-la, dee-da-dee — as the primary hook, woven between short English anchor lines. Sunlit room, bare feet bright on warm boards. The trio is prepared piano, pizzicato strings, and marimba: prepared piano gives a plinky percussive attack bright, full of spring, pizzicato strings drive the chamber-pop propulsion with tight rhythmic energy, and marimba carries the bright mallet melody in arpeggiated runs. The texture stays light and transparent, never dense. Final syllabic race-out near 2:45, bright ringing cadence near 3:00. Underscore for a sunlit sprint scene, morning air sharp. No guitars, no rock drums, no synthesizers, no pipe organ, no thick bass."
+
+lyrics: |
+  [Intro: prepared piano plink, marimba arpeggios, 0:00]
+  Da-na-ta, dee-da-dee
+  La-li-la, ta-da-na
+
+  [Verse: syllabic hook, pizzicato pulse, 0:20]
+  Da-na-ta, la-li-la
+  Every morning runs this way
+  Dee-da-dee, ta-da-na
+  Nothing left to weigh
+
+  [Chorus: full trio A major, marimba runs, 0:44]
+  Da-na-ta, dee-da-dee, la-li-la
+  Let it race, let it fly
+  Da-na-ta, ta-da-na, dee-da-dee
+  Watch the bright day rise high
+
+  [Verse 2: prepared piano plink, lean texture, 1:10]
+  Da-na-ta, la-li-la
+  Light is rushing in again
+  Dee-da-dee, ta-da-na
+  No room left for pain
+
+  [Chorus: full trio reprised, driving, 1:34]
+  Da-na-ta, dee-da-dee, la-li-la
+  Let it race, let it fly
+  Da-na-ta, ta-da-na, dee-da-dee
+  Watch the bright day rise high
+
+  [Bridge: stripped marimba, breath, 2:00]
+  La-li-la, dee-da
+  Every moment earned
+
+  [Final Chorus: B-flat major lift, syllabic race-out, 2:20]
+  Da-na-ta, dee-da-dee, la-li-la
+  Let it race, let it fly
+  (Da-na-ta, la-li-la, dee-da-dee)
+
+  [Outro: marimba rings, bright fade, 2:45]
+  Da-na... la-li-la...
+
+  [End]
+
+exclude_styles: "tabla, sitar, Indian classical, Hindustani, raga, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, heavy bass, synth pads, big orchestra, rock drums, choir, ambient drone, world music, tribal, Arabic, zen meditation, new age, free jazz, atonal, vocal cabaret"
+
+notes: |
+  RESEARCH SIGNAL: Chart analysis for 2026-06-20 showed major-key uplift and vocal directness dominating top Suno listens — bright chamber-pop hybrids with a clean production sheen and hook-forward structures are trending strongly. The key signal was "joyful release" replacing the longing/ache register that dominated v340–v344. Rhythmic syllabic vocalise (non-lexical fast syllables as the primary melodic hook) emerged from research into vocal directness trends; it delivers the energy of scat-style phrasing without jazz connotations and keeps the song firmly in chamber-pop territory.
+
+  NOVEL ELEMENT: Rhythmic syllabic vocalise as the structural hook material — the singer delivers da-na-ta, la-li-la, dee-da-dee type non-lexical syllables interleaved with short English anchor lines. This is distinct from Indian classical (which uses specific solfège like sa-re-ga) or jazz scat (which implies swing feel); the framing here is pure chamber-pop propulsion.
+
+  TRIO: Prepared piano (gap ~102 versions since last use), pizzicato strings (gap ~15 versions), and marimba (gap ~15 versions). All three instruments are bright and percussive, keeping the entire palette in the upper-mid and bright frequency range with no dark or heavy tone. Prepared piano delivers a plinky, spring-loaded attack; pizzicato strings provide the rhythmic chamber-pop pulse; marimba handles the melodic rapid arpeggiation and bright ring at cadences.
+
+  DURATION STRATEGY: 173 BPM is fresh (unused in the catalog per novelty surface). At this tempo, standard pop structures render short (~2:00), so the lyrics are extended with a late timestamp push to 2:45 for the Outro and a style-field time anchor ("Final syllabic race-out near 2:45, bright ringing cadence near 3:00") to guide the render toward 2:45–3:15. Eight sections with timestamps from 0:00 to 2:45 scaffold the arc. No [Silence] metatag used (per feedback_silence_gate_truncates — silence markup causes truncation). The half-step modulation A major → B-flat major at the Final Chorus delivers the goosebump uplift without a silence gate.
+
+  KEY: A major to B-flat major (joyful lift modulation). BPM: 173 (fresh). Style chars: 922. Lyrics chars: 998. Both fields verified clean against blocklist. Sentence case throughout style field. Atmospheric/mood-first opening.
+
+tags:
+  - prepared-piano
+  - pizzicato-strings
+  - marimba
+  - 173bpm
+  - new-bpm
+  - a-major
+  - b-flat-major
+  - chamber-pop-scene
+  - syllabic-vocalise-hook
+  - new-technique
+  - revival-prepared-piano-102-gap
+  - revival-marimba-15-gap
+  - revival-pizzicato-strings-15-gap
+  - duration-3min
+  - research-driven
+  - bright-uptempo
+  - joyful-release
+  - female-vocal

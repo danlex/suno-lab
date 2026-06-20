@@ -389,6 +389,7 @@ mindmap
 | 342 | Nerve | Outlaw alt-country pop, banjo debut, narrative arc (charts-informed viral) | F major to F-sharp major | 118 | banjo + fiddle + accordion |
 | 343 | Honey | Amapiano-pop vocal crossover, log-drum groove (charts-informed viral) | A-flat major to A major | 109 | clarinet + upright bass + steelpan |
 | 344 | Velours | Nouvelle chanson-pop, intimate French indie (charts-informed viral) | D major to E-flat major | 114 | mellotron + oboe d'amore + cello |
+| 345 | Lilt | Bright uptempo chamber-pop, racing-delight syllabic vocalise hook (charts-informed viral) | A major to B-flat major | 173 | prepared piano + pizzicato strings + marimba |
 
 ## Next-cycle priorities
 
