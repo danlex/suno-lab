@@ -1,0 +1,137 @@
+name: "buzz-v350"
+version: 350
+title: "Buzz"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Sunlit psychedelic-soul funk — hip-swaying tresillo groove, feel-good swagger, warm and danceable, duration 3:10. Polished studio mix, wide stereo, warm tape saturation. D-flat major, 102 BPM. An electric sitar opens with a buzzing resin-bright pluck — warm mid-range shimmer, overtone-rich and psychedelic, the hook voice throughout. A tuba lays down a punchy NOLA-funk bassline, low, round, irresistible. A Wurlitzer electric piano comps syncopated chords in the pocket, analog bounce. At 1:30 the song strips bare — electric sitar solos over the tuba and rhythm alone, bright runs above the brass pulse, a 35-second groove vamp. After the vamp the full arrangement returns, lifting a half-step to D major at 2:10. Final section near 2:50, warm groove fade near 3:10. Afternoon sun on bare shoulders, pavement warm underfoot — underscore for a sunlit feel-good dance scene. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers.
+
+lyrics: |
+  [Intro: sitar groove, 0:00]
+
+  [Verse 1: full pocket, 0:10]
+  Step out into the gold and let it land on you
+  Move slow, move easy, everything I do
+  Got that warmth inside that I can't put down
+  Feet finding rhythm on the sun-baked ground
+
+  [Hook: sitar shimmer, 0:38]
+  Feel the buzz
+  moving through me all day long
+  Feel the buzz
+  can't go wrong, can't go wrong
+
+  [Verse 2: tresillo pocket, 1:02]
+  Nothing on my mind but this easy thing
+  Electric sitar sings and the tuba swings
+
+  [Hook: wide stereo, 1:12]
+  Feel the buzz
+  moving through me all day long
+  Feel the buzz
+  can't go wrong
+
+  [Groove vamp: sitar solo over tuba, 1:30]
+
+  [Hook return: D major lift, 2:10]
+  Feel the buzz
+  lifted higher now, golden and free
+  Feel the buzz
+  this is where I need to be
+
+  [Verse 3: warm and open, 2:28]
+  Riding on the shimmer, open and wide
+  Electric and easy, all on my side
+
+  [Final hook: full texture, 2:50]
+  Feel the buzz
+  lifted higher now, golden and free
+  Feel the buzz
+  this is where I need to be
+
+  [Outro: warm groove fade, 3:05]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, Indian classical, raga, Bollywood, Hindustani, bhangra, reggaeton, Latin sad-trap, dancehall, lounge, smooth jazz, jazz fusion, cinematic ambient, elegiac, intimate chamber"
+
+tags:
+  - electric-sitar
+  - tuba
+  - wurlitzer-electric-piano
+  - 102bpm
+  - d-flat-major
+  - d-major
+  - psychedelic-soul-funk
+  - sunlit-feel-good-scene
+  - debut-electric-sitar-349-gap
+  - revival-tuba-15-gap
+  - revival-wurlitzer-55-gap
+  - new-technique
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-voice
+  - groove-vamp
+  - tresillo-groove
+  - half-step-lift
+
+notes: |
+  Technique: Psychedelic-soul funk groove vamp as duration lever — a danceable
+  uptempo vocal song that drops mid-track to a lyric-free electric sitar solo over
+  the tuba bassline and rhythm alone (the groove vamp at 1:30, ~35 seconds), then
+  returns with the full arrangement lifting a half-step from D-flat major to D major
+  at 2:10. The explicit groove vamp section is the structural duration anchor,
+  confirmed working in v348 (3:29) and v349 (3:04) which used the same mid-song
+  instrumental vamp move. The half-step lift at the return is the payoff modulation —
+  no [Silence] gate used, per feedback_silence_gate_truncates.
+
+  Concept source: 10k+ play chart signal analysis — danceable uptempo R&B-funk
+  grooves with warm psychedelic textures are winning at scale. The tresillo-flavored
+  syncopated pocket is the proven danceable rhythm at this BPM range. Electric sitar
+  (catalog debut) and NOLA-funk tuba bassline are the original novel contributions.
+
+  Composer-omission: This cycle echoes the warm psychedelic-soul-funk sensibility of
+  certain late-1960s and early-1970s studio sessions whose architects are omitted per
+  house policy — the electric sitar over a punchy brass-band bassline with a warm
+  keyboard comp is a hallmark of that era's psychedelic soul recordings. The featured
+  trio reframes those textures for a modern danceable groove with a forward-motion
+  emotional register.
+
+  Duration strategy: BPM 102 sits in the 90–115 slow-tempo zone where Suno caps
+  around 3:30 regardless of bar count. The duration target is 3:00–3:30, accepted as
+  the ceiling for this tempo. The explicit groove vamp at 1:30 is the primary duration
+  lever — it forces Suno to sustain the instrumental section before the vocal return,
+  adding ~35 seconds. Final vocal timestamp pushed to 2:50, outro to 3:05, anchoring
+  the render near 3:10. Production tokens used: polished studio mix, wide stereo stage,
+  warm tape saturation. Sentence case throughout. Atmospheric-first opening names genre,
+  mood, key, BPM, and duration target in the first ~200 chars. Five inline negatives
+  close the style field. The forward-motion emotional register (sunlit, danceable,
+  feel-good swagger) favors the 3:00–3:30 render range per the concept-type duration
+  playbook rule.
+
+  Trio instrument roles (verified against novelty_surface.json at v349):
+  - Electric sitar (CATALOG DEBUT — never used in 349 previous versions): the buzzing
+    metallic-pluck hook voice; warm mid-range with overtone-rich psychedelic shimmer,
+    distinct from acoustic sitar (no raga, no Indian classical framing — psychedelic-soul
+    funk context only); solos during the groove vamp at 1:30 as the central melodic
+    payoff. Gap: 350 (debut, all-time first use).
+  - Tuba (last used v334, gap = 15): NOLA-funk danceable bassline — punchy, low and
+    round, inescapably moving; the harmonic and rhythmic anchor of the groove; keeps the
+    bass register warm and brass-flavored rather than electronic. Gap: 15.
+  - Wurlitzer electric piano (last featured use v294 as accent, gap ~55): syncopated
+    chord comp in the pocket; warm analog bounce; the textural glue between the sitar
+    hook and the tuba groove; confirmed fresh at gap ~55 versions. Retained (not swapped)
+    because its tone is the correct warm-analog-funk keyboard for this concept. Gap: ~55.
+
+  Novelty claims: Electric sitar is an absolute catalog debut (v1–v349, zero prior uses).
+  Psychedelic-soul-funk genre is new to this catalog. Groove-vamp as named explicit
+  lyric-free section is a technique continuation from v348–v349. BPM 102 last used at
+  v320 (gap 30). D-flat major last used at v242 (gap 107) — very fresh key. Scene:
+  sunlit danceable psychedelic-soul swagger is a register not previously used in this
+  catalog's recent era (distinct from v349 cool electric confidence, v348 smoky chamber,
+  v346 grown soul warmth).
+
+  Style char count: 933 (verified in-range 700–950 via text_tools.py; blocklist clean).
+  Lyrics char count: 999 (verified under 1000 via text_tools.py; blocklist clean).
