@@ -1,0 +1,134 @@
+name: "prism-v351"
+version: 351
+title: "Prism"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Danceable mid-tempo indie-electronic dream-pop, luminous and euphoric — duration around 3:15. Polished studio mix, wide stereo stage, warm tape saturation. D-sharp minor lifting to D-sharp major at the final chorus, 121 BPM. A hammered dulcimer opens with bell-like struck-string arpeggios — glistening shimmer, the hook voice throughout. A felt piano lays warm intimate chords beneath. A theremin traces a sweet, vocal-like countermelody — dreamy and luminous, the electronic signature. Four-on-the-floor pulse and soft bass keep it danceable. At 1:30 the vocal drops — dulcimer and theremin over the kick alone, lyric-free shimmer vamp ~35 seconds. Final chorus near 2:10 lifts to D-sharp major, euphoric and wide. Last vocal near 2:50, luminous close near 3:10. Sunlight splitting through glass, colors scattered across a bare wall — underscore for a luminous awakening scene. No guitars, no rock drums, no pipe organ, no synthesizers, no vocals.
+
+lyrics: |
+  [Intro: dulcimer arpeggios, 0:00]
+
+  [Verse 1: felt piano and dulcimer, 0:12]
+  I was standing still when the color came through
+  A crack in the window, a gold breaking new
+  Every edge of the room caught the light and held
+  Something I had waited on, something I felt
+
+  [Chorus: full dream-pop lift, 0:38]
+  Prism, catch me in the light
+  Scatter all my colors wide
+  I am rising, I am bright
+  Prism, catch me in the light
+
+  [Verse 2: theremin enters, 1:02]
+  Second wind, a shimmer on the floor
+  I can feel the pulse of something more
+  All the walls dissolving into gold
+  This is every story I was told
+
+  [Chorus: wide and glowing, 1:20]
+  Prism, catch me in the light
+  Scatter all my colors wide
+  I am rising, I am bright
+
+  [Instrumental drop: dulcimer and theremin, 1:30]
+
+  [Final chorus: D-sharp major lift, 2:10]
+  Prism, catch me in the light
+  Scatter all my colors wide
+  I am rising, I am bright
+  Prism, now the world is wide
+  Rising through the gold
+
+  [Outro: luminous dulcimer fade, 2:52]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, hyperpop, big-room EDM, dubstep, folk, Celtic, Appalachian, cinematic ambient, drone ambient, elegiac, intimate chamber, world fusion, Latin, reggaeton, hip-hop, trap, phonk"
+
+tags:
+  - hammered-dulcimer
+  - felt-piano
+  - theremin
+  - 121bpm
+  - d-sharp-minor
+  - d-sharp-major
+  - indie-electronic-dream-pop
+  - luminous-light-breaking-scene
+  - debut-hammered-dulcimer-351-gap
+  - revival-theremin-20-gap
+  - revival-felt-piano-11-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-voice
+  - shimmer-vamp
+  - parallel-major-lift
+  - forward-motion
+
+notes: |
+  Technique: Mid-song instrumental shimmer vamp as duration lever — a danceable
+  mid-tempo vocal song that drops its vocal at 1:30 to a lyric-free section of
+  hammered dulcimer arpeggios and theremin over a four-on-the-floor kick (~35 seconds),
+  then returns with the full arrangement lifting from D-sharp minor to D-sharp major
+  (the parallel major) at the final chorus near 2:10. The parallel-major lift — not a
+  half-step transposition — is the payoff resolution. No [Silence] metatag used, per
+  feedback_silence_gate_truncates. The explicit instrumental drop section is the
+  structural duration anchor, confirmed working in v348 (3:29), v349 (3:04), v350 (3:12–3:24).
+
+  Concept source: 10k+ play chart signal analysis of the 2026 TikTok-viral indie-electronic
+  lane — warm analog instruments meeting crisp electronic production, four-on-the-floor
+  danceable pulse, luminous/euphoric forward-motion register, clear hook-first vocal.
+  The hammered dulcimer brings a bell-like organic shimmer that mimics a synth arpeggio
+  (the crossover appeal) while remaining acoustically warm. Theremin in its sweet/dreamy
+  register (not horror/eerie) anchors the "electronic signature" without EDM associations.
+
+  Composer-omission: This cycle echoes the luminous dream-pop sensibility of certain
+  late-2010s and early-2020s UK indie-electronic artists whose names are omitted per
+  house policy — the struck-string hook voice over a warm keyboard bed with a floating
+  electronic countermelody and a four-on-the-floor pulse is a hallmark of that lane.
+  The hammered dulcimer reframes that palette with an entirely novel timbre, and the
+  felt piano brings the intimacy of analog recording to the chord bed.
+
+  Duration strategy: BPM 121 sits in the 115–130 transitional zone — above the slow-BPM
+  ceiling (≤115 caps at ~3:30) and pushing toward the proven 130–160 duration band.
+  Target 3:00–3:30. The explicit shimmer vamp at 1:30 is the primary duration lever.
+  Final vocal timestamp pushed to 2:52 (outro), anchoring the render near 3:10–3:15.
+  Production tokens: polished studio mix, wide stereo stage, warm tape saturation.
+  Sentence case throughout. Atmospheric-first opening names genre, mood, key, BPM, and
+  duration target in the first ~150 chars. Five inline negatives close the style field.
+  Forward-motion emotional register (luminous, euphoric, light breaking through, rising)
+  favors 3:00–3:30 per the concept-type duration playbook rule (vs. reflective ~3:30 cap).
+  Exclude_styles blocks EDM/big-room, dubstep, folk/Celtic/Appalachian, cinematic ambient,
+  and hyperpop — the four main drift vectors for this genre anchor at 121 BPM.
+
+  Trio instrument roles (verified against novelty_surface.json at v350):
+  - Hammered dulcimer (CATALOG DEBUT — never used in 350 previous versions, v1–v350):
+    the bell-like struck-string hook voice; glistening arpeggios that mimic a synth
+    pattern without losing organic warmth; solos during the shimmer vamp at 1:30 as
+    the melodic centrepiece. Gap: 351 (absolute debut, all-time first use). Note: kept
+    timbral throughout — never framed as "Appalachian," "mountain dulcimer," or "Celtic."
+  - Felt piano (last used v340, gap = 11): warm, intimate analog chord bed; the second
+    warm body voice; its muted, close-mic'd tone is the dream-pop harmonic anchor that
+    keeps the arrangement from sounding purely electronic. Gap: 11.
+  - Theremin (last used v331, gap = 19 — close to the caller-stated 20): sweet and
+    vocal-like countermelody above the dulcimer; framed as dreamy/luminous rather than
+    eerie — the electronic signature that connects the organic trio to the indie-electronic
+    genre anchor. Gap: 19.
+
+  Novelty claims: Hammered dulcimer is an absolute catalog debut (v1–v350, zero prior uses
+  confirmed in novelty_surface.json — no "dulcimer" key of any kind). This is the
+  primary novelty driver. Theremin at gap 19 is reasonably fresh. Felt piano at gap 11
+  is the most recent of the three but still provides warm body texture. BPM 121 is new
+  to this catalog (no prior 121 BPM entry in novelty_surface.json). D-sharp minor →
+  D-sharp major parallel-major lift is a novel resolution arc not used in recent cycles
+  (recent arcs: D-flat major v350, half-step lift v348/v349/v350). The luminous-euphoric
+  forward-motion register is distinct from the recent register sequence (confident-warmth,
+  hushed-wonder, cool-magnetism, cool-electric, feel-good-swagger).
+
+  Style char count: 949 (verified in-range 700–950 via text_tools.py; blocklist clean).
+  Lyrics char count: 969 (verified under 1000 via text_tools.py; blocklist clean).

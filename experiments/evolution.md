@@ -395,6 +395,7 @@ mindmap
 | 348 | Sable | Downtempo chamber-groove, cool-magnetism, extended sustaining vamp (charts-informed viral, full 3:29 render) | E-flat minor to E minor | 76 | baryton + glockenspiel + subcontrabass saxophone |
 | 349 | Glide | Neo-jazz pop vibe-switch, mid-song soprano-sax groove vamp (10k+ charts-informed viral) | E-flat major to E major | 119 | soprano saxophone + vibraphone + clean jazz-voiced electric guitar |
 | 350 | Buzz | Psychedelic-soul/NOLA-funk groove, electric-sitar debut + mid-song groove vamp (10k+ charts-informed viral) | D-flat major to D major | 102 | electric sitar + tuba + Wurlitzer electric piano |
+| 351 | Prism | Indie-electronic dream-pop, hammered-dulcimer debut + mid-song vamp; WINNER of 10x best-of-3 tournament (vs strut dance-pop, anthemic pop), 10k+ charts-informed viral | D-sharp minor to D-sharp major | 121 | hammered dulcimer + felt piano + theremin |
 
 ## Next-cycle priorities
 
