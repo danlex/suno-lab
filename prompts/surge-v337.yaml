@@ -1,0 +1,155 @@
+name: "surge-v337"
+version: 337
+title: "Surge"
+instrumental: false
+vocal_gender: female
+
+style: "Warm euphoria pressing upward — liquid drum and bass for the UK dance chart crossover of 2025–26, club lights blooming as the bass reloads. Polished studio mix, wide stereo stage, deep low-end definition. B major lifting to C major at the final chorus, 172 BPM rolling two-step breakbeat with deep sub-bass and warm pad washes. An emotive English female soprano carries the hook high and bright above the breaks. Vibraphone shimmers in bright metallic fills between vocal phrases. French horn holds warm mid-register pads, a harmonic cushion below the soprano. Harp arpeggios propel the groove, liquid attack on each two-step downbeat. The pre-drop strips the bass for four bars before the full sub-bass and breaks reload under the hook. Final drop 2:20, breaks fade to pad near 2:50. No breakbeat aggression, no patois vocals, no chopped amen patterns, no dark techstep texture, no autotune. Underscore for a euphoric dance-floor arrival scene."
+
+lyrics: |
+  [Pad wash intro, 0:00]
+
+  [Bare vocal hook, 0:18]
+  Every colour runs to you
+  Every light comes breaking through
+
+  [Verse one — rolling breaks, 0:35]
+  I keep finding ways to lose the thread
+  Then the whole room fills with you instead
+
+  [Chorus — sub-bass in, 0:55]
+  You are the surge, the open door
+  Feel you in the low end of the floor
+  You are the surge, come back for more
+
+  [Pre-drop — bass strips out, 1:20]
+  Hold the space
+
+  [Drop — full sub-bass, 1:28]
+  You are the surge, the open door
+  Feel you in the low end of the floor
+
+  [Verse two — harp forward, 1:46]
+  Every city night has had your face
+  Every corner of the sound you trace
+
+  [Build — vibraphone lifts, 2:04]
+  Lifting, lifting, higher through the break
+
+  [Pre-drop two — bass strips out, 2:14]
+  Hold the space
+
+  [Final drop — C major key lift, 2:20]
+  You are the surge, the open door
+  Feel you in the low end of the floor
+  You are the surge, come back for more
+  Breaking into something worth the war
+
+  [Breaks fade to pad, 2:48]
+
+  [End]
+
+exclude_styles: "jungle, drum and bass aggression, darkstep, neurofunk, techstep, ragga, dancehall, UK garage, 2-step garage, grime, drill, afrobeats, Afro swing, reggaeton, Latin pop, Arabic, tribal, world music, chanson, folk, country, metal, rock, punk, acoustic guitar, lo-fi, lo-fi hip-hop, vinyl crackle, pipe organ, gospel choir, choir, choral, classical orchestra, neoclassical, cinematic ambient, new age, zen meditation, free jazz, atonal, microtonal, K-pop, J-pop, C-pop, vocaloid, power ballad, synthwave, trance, hardstyle, gabber, electro house, festival EDM, dubstep wobble, breakcore, happy hardcore, psytrance, drone ambient, experimental noise"
+
+notes: |
+  Technique: liquid drum and bass vocal pop — the dominant UK dance-chart crossover
+  form of 2025–26. Liquid DnB strips the aggression from its parent genre: the
+  two-step breakbeat is soft-kicked and rolling (not chopped or sliced), the
+  sub-bass is lush and melodic rather than aggressive, and warm pad washes provide
+  harmonic cushion behind an emotive English female soprano hook carried high in the
+  mix. The verse-chorus pop structure over a DnB engine is the crossover innovation
+  that drove multiple 2025 UK chart entries in this lane.
+
+  Concept source: charts-informed original — the 2025–26 liquid DnB / emotive vocal
+  DnB lane that produced major UK dance-chart crossover hits. First DnB-rooted vocal
+  pop entry in the catalog (336 prior versions had no DnB genre; the closest entries
+  were 2-step garage at v100, house at v242/v261, and trap at v264+).
+
+  Composer omission: this sound echoes the mid-2000s and 2020s liquid drum and bass
+  producers and vocal crossover acts whose names are on the blocklist and are
+  intentionally omitted per discipline.
+
+  BPM override rationale: the novelty-picker's suggested BPM was 126, which is not a
+  DnB tempo at all (DnB standard is 160–180 BPM). Overriding to 172 is genre-essential
+  — liquid DnB without ~172 BPM rolling breaks is simply not the form. BPM 172 is
+  confirmed unused across all 336 prior catalog entries (the BPM surface skips from
+  171 at v334 to 174 at v72/v269, with 172 entirely absent). This is also a new BPM.
+
+  Trio — all three satisfy the ≥2 body voices requirement:
+  - Vibraphone (gap 24 — last used v312): resonant metallic mallet fills occupying
+    the space between vocal phrases; in liquid DnB this shimmer layer is the signature
+    emotive ear-candy texture. Standard orchestral percussion — body voice.
+  - French horn (gap 19 — last used v317): warm sustained pads in the mid-register,
+    cushioning the harmonic changes under every section. The horn's round sustain is
+    the "warm pad wash" described in liquid DnB production. Body voice.
+  - Harp (gap 16 — last used v320): arpeggiated propulsion under the vocal, providing
+    liquid attack and harmonic color on each two-step downbeat. The harp's bright
+    pluck is distinct from synth arpeggios — it adds organic luminosity to the groove.
+    Body voice.
+
+  Arc structure: the brief's pre-drop tension strip is implemented via a section label
+  "[Pre-drop — bass strips out]" rather than a [Silence] metatag, per
+  feedback_silence_gate_truncates (explicit [Silence] causes truncation; section
+  labels achieve the bass-strip tension without triggering the gate). Two pre-drop /
+  drop cycles at ~1:20 and ~2:14/2:20 provide structural length. Final drop at 2:20
+  carries the half-step key lift (B major → C major), with last lyric timestamp at
+  2:48 to push Suno's structural planner past 2:45.
+
+  Duration strategy (BPM 172 is in the 160+ fast band per the playbook table):
+  at 172 BPM, bar counts work efficiently. The two-drop structure, late timestamp
+  at 2:48, and style anchors ("Final drop 2:20, breaks fade to pad near 2:50") give
+  strong scaffolding. Target render ~2:45–3:10.
+
+  Key: B major (gap 89 — last used v247) lifting to C major (gap 6 — last used v331)
+  at the final chorus. The B→C half-step lift is the euphoric peak modulation
+  idiomatic to UK dance-pop crossovers. B major reads bright and propulsive; the
+  lift to C major at the emotional peak is the standard frisson trigger in this lane.
+
+  Novelty claims:
+  - Genre lane: liquid drum and bass vocal pop — first entry in 337 versions.
+    No prior DnB of any sub-type in the catalog.
+  - Trio: vibraphone + french horn + harp — new three-way combination.
+  - BPM 172: confirmed unused across all 336 prior versions — new BPM.
+  - Key arc: B major (gap 89) lifting to C major — novel lifting arc.
+  - Concept type: forward-motion (euphoric propulsive surge, arrival-at-peak arc)
+    — per playbook rule 10, forward-motion + BPM 160+ reliably renders 4:00+ or
+    at minimum strong 3:00+.
+
+  Style char count: 929 (verified in-range 700–950).
+  Lyrics char count: 971 (verified under 980).
+
+  Production tokens used: polished studio mix, wide stereo stage, deep low-end
+  definition. Sentence case throughout, atmospheric-first opening. Five inline
+  negatives present: no breakbeat aggression, no patois vocals, no chopped amen
+  patterns, no dark techstep texture, no autotune. Vocal gender: female (emotive
+  soprano, high in mix).
+
+tags:
+  - vibraphone
+  - french-horn
+  - harp
+  - 172bpm
+  - b-major
+  - c-major
+  - euphoric-dance-chart-crossover-scene
+  - revival-vibraphone-24-gap
+  - revival-french-horn-19-gap
+  - revival-harp-16-gap
+  - new-bpm
+  - new-genre-lane
+  - liquid-dnb
+  - drum-and-bass
+  - vocal-pop
+  - liquid-dnb-vocal-pop
+  - two-step-breakbeat
+  - sub-bass
+  - english-female-soprano
+  - emotive-soprano
+  - half-step-lift
+  - b-major-to-c-major
+  - pre-drop-tension-strip
+  - duration-3min
+  - research-driven
+  - vocal
+  - instrumental-false
+  - uk-dance-chart-crossover
