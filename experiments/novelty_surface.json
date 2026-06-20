@@ -1,6 +1,6 @@
 {
-  "total_prompts": 352,
-  "latest_version": 352,
+  "total_prompts": 353,
+  "latest_version": 353,
   "instruments": {
     "piano": [
       1,
@@ -391,6 +391,19 @@
       328,
       340
     ],
+    "tubular bells": [
+      101,
+      119,
+      135,
+      186,
+      207,
+      224,
+      236,
+      246,
+      311,
+      339,
+      353
+    ],
     "bowed vibraphone": [
       85,
       99,
@@ -463,6 +476,18 @@
       333,
       348
     ],
+    "handpan": [
+      97,
+      116,
+      133,
+      184,
+      208,
+      225,
+      240,
+      254,
+      335,
+      353
+    ],
     "harpsichord": [
       105,
       121,
@@ -510,18 +535,6 @@
       253,
       334,
       350
-    ],
-    "tubular bells": [
-      101,
-      119,
-      135,
-      186,
-      207,
-      224,
-      236,
-      246,
-      311,
-      339
     ],
     "upright bass": [
       109,
@@ -613,17 +626,6 @@
       192,
       220,
       330
-    ],
-    "handpan": [
-      97,
-      116,
-      133,
-      184,
-      208,
-      225,
-      240,
-      254,
-      335
     ],
     "subcontrabass saxophone": [
       86,
@@ -1110,8 +1112,7 @@
       312,
       316,
       317,
-      319,
-      323
+      319
     ],
     "neoclassical": [
       1,
@@ -1197,11 +1198,6 @@
       320,
       322
     ],
-    "romantic": [
-      145,
-      149,
-      313
-    ],
     "amapiano": [
       266,
       343
@@ -1210,6 +1206,10 @@
       188,
       191
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "drone": [
       304,
       305
@@ -1217,6 +1217,10 @@
     "jazz": [
       336,
       349
+    ],
+    "minimalist": [
+      201,
+      323
     ],
     "passacaglia": [
       111,
@@ -1239,14 +1243,17 @@
     "drill": [
       282
     ],
+    "garage": [
+      353
+    ],
     "lo-fi": [
       296
     ],
-    "minimalist": [
-      201
-    ],
     "progressive house": [
       96
+    ],
+    "romantic": [
+      313
     ],
     "synthwave": [
       1
@@ -1468,7 +1475,8 @@
       232,
       245,
       257,
-      341
+      341,
+      353
     ],
     "e-flat minor": [
       79,
@@ -2039,7 +2047,8 @@
       268
     ],
     "133": [
-      221
+      221,
+      353
     ],
     "134": [
       142,
@@ -2200,6 +2209,18 @@
     ]
   },
   "titles": [
+    {
+      "version": 353,
+      "title": "Stitch",
+      "name": "stitch-v353",
+      "featured": [
+        "tubular bells",
+        "handpan"
+      ],
+      "genre": "garage",
+      "key": "c-sharp minor",
+      "bpm": 133
+    },
     {
       "version": 352,
       "title": "Voltage",
@@ -2561,7 +2582,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "orchestral",
+      "genre": "minimalist",
       "key": "d minor",
       "bpm": 54
     },
@@ -4477,7 +4498,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -4513,7 +4534,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
