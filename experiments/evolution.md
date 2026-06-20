@@ -399,6 +399,7 @@ mindmap
 | 352 | Voltage | Dark clubbing / EBM-industrial techno, cold female vocal + mid-track drop; WINNER of 10x best-of-3 tournament (vs Memphis phonk, euphoric house), 98/100, on-signal dark-techno | G-sharp minor to A minor | 134 | waterphone + contrabass clarinet + cornet |
 | 353 | Stitch | UK garage / 2-step, chopped female vocal hooks + mid-song breakdown; WINNER of 10x best-of-3 tournament (vs afro-house, synthwave), 98/100, chart-current dance revival | C-sharp minor to D minor | 133 | Rhodes electric piano + tubular bells + handpan |
 | 354 | Glitter | Nu-disco / disco-house, four-on-the-floor feel-good groove + mid-song disco break; WINNER of 10x best-of-3 tournament (vs future-bass, liquid DnB), 97/100 | G major to A-flat major | 120 | trumpet + trombone + glass marimba |
+| 355 | Cipher | Flagship 5x MoA tournament winner (vs speed garage, melodic techno, future bass, disco-house); dark techno/EBM-industrial, cold female vocal + filter-sweep build into half-step lift drop; cimbalom glacial shimmer, one-time saxophone warmth in breakdown, late french horn cold calls; 100/100 judge, danceability 9, 4:07/4:12 renders | A-flat minor to A minor | 134 | cimbalom, tenor saxophone, french horn |
 
 ## Next-cycle priorities
 

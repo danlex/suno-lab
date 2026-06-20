@@ -1,0 +1,133 @@
+name: "cipher-v355"
+version: 355
+title: "Cipher"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Cold dark-techno menace, hypnotic, relentless, polished studio mix, wide stereo. A-flat minor lifting a half-step to A minor at the final section, 134 BPM. A four-on-the-floor kick anchors the pulse; a thick detuned bass pulse grinds cold beneath; industrial percussion flares. A cimbalom casts glacial hammered-steel shimmer above the bed — each struck string a frozen needle. A tenor saxophone breathes once in the breakdown, a smoky line of unexpected warmth. A french horn enters late — cold muted calls through the lifted grid. Cold female phrases, deadpan. Near 1:30 the filter sweeps upward, tension coils, vocal strips to just the bass pulse — then the drop lifts half a step, the full grid returns harder. Near 2:06 the drop lands full. Cold grid underfoot, ciphered numbers above. Underscore for a cipher-transmission scene — the message decoded at the drop. No guitars, no warm strings, no pipe organ, no synthesizers, no acoustic drums.
+
+lyrics: |
+  [Intro: kick and bass pulse, 0:00]
+
+  [Verse 1: cold vocal over kick grid, 0:14]
+  Signal locked behind the wall
+  Every number placed and small
+  Cold inside the corridor
+  Nothing human anymore
+
+  [Verse 2: cimbalom shimmer enters, 0:38]
+  Watch the grid until it bends
+  Every threshold breaks and mends
+  Something hollow in the wire
+  Feeds the city like a fire
+
+  [Chorus: full industrial layers, 1:02]
+  Run the current
+  Let it burn
+  Nothing standing
+  Nowhere to turn
+  Run it colder
+
+  [Filter Sweep: bass rises, vocal strips bare, 1:26]
+
+  [Breakdown: bass pulse, tenor saxophone line, 1:38]
+
+  [Drop: A minor lift, full kick and cimbalom, 2:06]
+
+  [Verse 3: vocal over lifted grid, 2:14]
+  Underneath the concrete runs
+  Every wire, every one
+  No one watching at the seam
+  Nothing here is what it seems
+
+  [Final Chorus: french horn cold calls, relentless close, 2:38]
+  Run the current
+  Watch it burn
+  Nothing standing
+  Nowhere to turn
+  Run it colder
+
+  [Outro: kick and bass fade, 3:02]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals chorus, pipe organ, EDM, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, happy hardcore, breakcore, Belgian new beat, retro-EBM pastiche, industrial rock, noise rock, grindcore, drum and bass, jungle, neurofunk, gypsy, klezmer, cinematic ambient, drone ambient, elegiac, intimate chamber, world fusion, Latin, reggaeton, hip-hop, trap, phonk, synthwave, vaporwave, chillwave, retrowave"
+
+tags:
+  - cimbalom
+  - tenor-saxophone
+  - french-horn
+  - 134bpm
+  - a-flat-minor
+  - a-minor
+  - dark-techno
+  - ebm-industrial
+  - cold-dancefloor-surveillance-scene
+  - revival-cimbalom
+  - revival-tenor-saxophone
+  - revival-french-horn
+  - half-step-lift
+  - vocal-strip-breakdown
+  - forward-motion
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-voice
+
+notes: |
+  Technique: EBM-industrial dark-techno with three acoustic texture voices — cimbalom,
+  tenor saxophone, and french horn — layered above a cold electronic engine. The cimbalom,
+  a Central European hammered dulcimer with a bright metallic reverberant attack, functions
+  as the primary glacial shimmer voice; each struck string delivers a "frozen needle" of
+  overtone that cuts through the low-end reese density. The tenor saxophone enters once in
+  the mid-track breakdown as an unexpected human warmth contrast voice — a single smoky noir
+  line against the machine. The french horn enters in the final section with cold muted calls
+  cutting through the half-step-lifted grid, adding a brass authority to the relentless close.
+
+  Concept source: dark clubbing / EBM-industrial techno with cimbalom as glacial
+  hammered-metal texture above the synth bed, tenor saxophone as one-time human-warmth
+  breakdown voice, french horn as cold muted final-section brass, cold deadpan female vocal,
+  and a filter-sweep build into a half-step lift drop (A-flat minor to A minor).
+
+  Composer-omission: This cycle echoes the cold-menacing industrial club sensibility of
+  certain late-1980s through early-2000s European electronic-industrial acts whose names
+  are omitted per house policy. The cimbalom, tenor saxophone, and french horn bring acoustic
+  textures those acts never employed, making this compositionally distinct.
+
+  Duration strategy: BPM 134 sits in the proven 130-160 duration band. Forward-motion
+  concept (cipher-as-cold-grid, half-step kinetic payoff) targets 3:00-3:30 per the
+  playbook rule. Duration levers applied: (1) explicit lyric-free instrumental vamp
+  at 1:38-2:06 (~28 seconds, Filter Sweep + Breakdown stretch without sung lyrics), (2)
+  last lyric timestamp at 2:38, (3) outro section pushed to 3:02. No [Silence] metatag
+  used — per feedback_silence_gate_truncates, explicit [Silence] markup truncates; instead
+  the [Filter Sweep] section removes vocal and builds tension while kick keeps running,
+  then [Breakdown] continues the lyric-free stretch with saxophone and reese only.
+  Production tokens: polished studio mix, deep low-end definition, wide stereo stage.
+  Atmospheric-first opening names genre, mood, key, BPM in the first ~115 chars. Five
+  inline negatives close the style field. Sentence case throughout — no ALL-CAPS labels.
+
+  Instrument roles (trio: cimbalom, tenor saxophone, french horn):
+  - Cimbalom (body voice): glacial hammered-steel shimmer; enters at Verse 2 and runs
+    through the track; metallic attack cuts through reese density with frozen-needle
+    overtones; returns prominently at the Drop (2:06) as signal the lifted grid is back.
+    Primary featured instrument. Body voice (hammered dulcimer family).
+  - Tenor saxophone (body voice): enters once in the Breakdown at 1:38; a single smoky
+    noir line offering unexpected human warmth against the cold machine before the Drop
+    reclaims the track. Contrast voice — one appearance makes it memorable. Body voice.
+  - French horn (body voice): enters in the Final Chorus (2:38); cold muted brass calls
+    cutting through the half-step-lifted grid, adding authority to the relentless close.
+    Body voice. All three trio instruments are body voices — zero spectral picks.
+
+  Trio body-voice count: 3 body voices (cimbalom, tenor saxophone, french horn).
+  Satisfies the >= 2 body voices rule with margin. Zero spectral instruments in trio.
+
+  Novelty claims: Cimbalom in an EBM/dark-techno context is novel to the catalog.
+  Tenor saxophone as a single-appearance "human warmth vs. machine" contrast voice in
+  a cold techno breakdown is a fresh deployment. French horn in a dark-techno grid
+  context adds a menacing brass weight rarely associated with this genre. The filter-sweep
+  build (no [Silence] tag, filter opens rising) is validated per feedback. BPM 134 matches
+  v352 (proven dark-techno duration). A-flat minor to A minor is a fresh key pair.
+
+  Style char count: 949 (verified in-range 700-950 via text_tools.py; blocklist clean).
+  Lyrics char count: 956 (verified under 1000 via text_tools.py; blocklist clean).
