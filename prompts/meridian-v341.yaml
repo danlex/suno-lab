@@ -1,0 +1,151 @@
+name: "meridian-v341"
+version: 341
+title: "Meridian"
+instrumental: false
+vocal_gender: female
+
+style: "Cavernous-but-intimate warmth, a lone analog pad in the dark before a female voice enters unguarded — earnest longing with nowhere to hide. Polished studio mix, warm tape saturation, wide stereo stage. C-sharp minor lifting to D minor at the chorus, 93 BPM cinematic synth-ballad. Lush Juno-style analog pad stacks open alone; gated-reverb snare and arpeggiator pulse enter at the pre-chorus. Ondes martenot carries the cinematic atmosphere with its vocal-like ethereal tone, exposed at the bridge. Bowed vibraphone shimmers beneath the vocal as a luminous cushion. Bass clarinet weaves warm low-woodwind countermelody. Strings enter at the final chorus only. Warm synth bass grounds the low end. Doubled lead vocal at the chorus. Final chorus near 2:25, pad-and-string swell fading to 2:55. Underscore for a late-night window scene, headlights on a ceiling. No ironic synth-pastiche, no EDM drop, no autotune, no distorted guitars, no chiptune."
+
+lyrics: |
+  [Analog pad, 0:00]
+
+  [Verse — bare vocal, 0:10]
+  I leave the light on just in case
+  You find your way back to this place
+  The window holds a second life
+
+  [Pre-chorus — snare pulse, 0:40]
+  Something shifts inside the static
+  Pulling me toward what I can't name
+
+  [Chorus — full pads, 0:53]
+  Right here on the meridian
+  Between the life I had and this
+  Every breath a kind of distance
+  Hold me on the meridian
+
+  [Verse two, 1:18]
+  The city hums a wavelength low
+  I press my hand against the glass
+  I follow signals into air
+
+  [Chorus two, 1:52]
+  Right here on the meridian
+  Between the life I had and this
+  Every breath a kind of distance
+  Hold me on the meridian
+
+  [Bridge — ondes, 2:10]
+  [Whispered] just stay
+  [Whispered] one wire of sound in the dark
+
+  [Final chorus — strings, 2:26]
+  Right here on the meridian
+  Between the life I had and this
+  Every kiss an atlas of what is
+  Hold me on the meridian
+
+  [Pad swell, 2:47]
+
+  [End]
+
+exclude_styles: "retrowave, synthwave, vaporwave, cyberpunk, outrun, italo disco, neon-80s pastiche, chillwave, dreamwave, lo-fi synthwave, chiptune, EDM, electronic dance, trance, house, techno, drum and bass, dubstep, trap, phonk, drill, hip-hop, rock, metal, punk, distorted guitar, acoustic guitar solo, folk, singer-songwriter, gospel, choir, pipe organ, new age, zen meditation, ambient drone, experimental noise, free jazz, atonal, microtonal, Arabic, tribal, world music, K-pop, J-pop, C-pop, anime, power ballad, operatic soprano, cinematic ambient, elegiac, intimate chamber"
+
+notes: |
+  Technique: cinematic synth-ballad — warm 1980s-influenced analog architecture
+  (lush Juno-style pad stacks, gated-reverb snare, arpeggiator pulse) fused with a
+  contemporary emotional hook. The synth is the emotional atmosphere, not the rhythm
+  engine; the voice rides above it unguarded. The form moves from bare intimacy to
+  doubled soaring chorus, through a stripped whispered bridge, then a final chorus
+  thickened by a string layer. Earnest longing — not nostalgic irony, not cyberpunk.
+
+  Concept source: charts-informed original in the earnest cinematic synth-ballad lane.
+  Synthwave has appeared only once across the entire catalog (v1, example-synthwave.yaml),
+  never as a vocal ballad. This is the first entry in this genre lane across 340 versions.
+
+  Instrumentation substitution note: the novelty-picker for this cycle originally
+  proposed accordion and upright bass as the distinctive color instruments. Both were
+  rejected because they conflict with the 1980s-analog-synth aesthetic — accordion
+  invokes chanson/folk-pop contexts, and upright bass leans jazz/acoustic, both pulling
+  the auto-classifier away from cinematic synth-ballad. Ondes martenot and bass clarinet
+  were substituted: ondes martenot provides a genuinely electronic-but-acoustic-feeling
+  lead (vocal-like, ethereal, instrument native to early-electronic atmosphere) that is
+  both genre-coherent and stylistically fresh; bass clarinet provides warm low-woodwind
+  countermelody that adds intimate depth without pulling toward acoustic lanes. Bowed
+  vibraphone was kept from the original surface as the shimmering cushion voice.
+
+  Composer omission: this sound echoes the aesthetic of 1980s UK and American
+  synth-pop production — warm pad architecture, gated snare, arpeggiator pulse — whose
+  producers and artists are on the blocklist and are intentionally omitted per discipline.
+  The earnest emotional framing and the ondes martenot + bowed vibraphone + bass clarinet
+  trio bring the concept well beyond any single reference.
+
+  Duration strategy: 93 BPM places this in the slow-tempo band (90–115), which per
+  playbook rule 8 caps around 3:30 regardless of bar count. Duration target is therefore
+  3:00–3:30. Counter-measures applied: (1) the pre-chorus section label ("snare pulse,
+  0:40") gives Suno a structural expansion cue before the chorus; (2) the bridge at 2:10
+  is labeled with instrument identity so Suno's planner treats it as a genuine section
+  rather than a tag; (3) last lyrics timestamp pushed to 2:47 ("Pad swell") with a
+  style anchor confirming "pad-and-string swell fading to 2:55" to push the render
+  past 2:45. The forward-motion arc (yearning verse → chorus eruption → bridge strip →
+  final chorus with string addition) is the concept-level duration driver. No [Silence]
+  metatag per feedback_silence_gate_truncates.
+
+  Trio — all three are body voices (zero spectral picks, satisfying the ≥2 body
+  voices requirement):
+  - Ondes martenot (body-adjacent/spectral — classified here as spectral; gap 30,
+    last used v311): vocal-like ethereal electronic tone carrying the cinematic
+    atmosphere; solitary and exposed at the bridge, the song's single most emotional
+    timbral moment. NOTE: ondes martenot is listed in the playbook's spectral category.
+    This trio has two confirmed body voices (bowed vibraphone, bass clarinet) plus ondes
+    martenot as the one allowed spectral pick. Compliant (≤1 spectral, ≥2 body).
+  - Bowed vibraphone (body voice; gap 36, last used v305): shimmering luminous cushion
+    beneath the vocal throughout verses and choruses; soft attack, sustained shimmer.
+  - Bass clarinet (body voice; gap 29, last used v312): warm low-woodwind countermelody
+    weaving between vocal phrases; adds intimate depth and woodwind color native to
+    cinematic scoring without pulling toward jazz or acoustic lanes.
+
+  Production tokens: polished studio mix, warm tape saturation, wide stereo stage.
+  Sentence case throughout. Atmospheric-first opening. Five inline negatives present:
+  no ironic synth-pastiche, no EDM drop, no autotune, no distorted guitars, no chiptune.
+  Vocal gender: female (bare intimate verse → doubled soaring chorus → whispered bridge).
+
+  Novelty claims:
+  - New genre lane: earnest cinematic synth-ballad (zero catalog precedent across 340
+    versions; synthwave appeared only at v1 as an example file, never as a vocal ballad).
+  - New trio: ondes martenot + bowed vibraphone + bass clarinet — new three-way
+    combination in the catalog.
+  - New BPM: 93 in this lane (the BPM has appeared in slow instrumental cycles but
+    not in a synth-ballad vocal context).
+  - New key: C-sharp minor to D minor (half-step lift; this pair has not appeared
+    in the catalog).
+  - New scene: late-night window / headlights-on-ceiling — domestic urban isolation.
+
+  Style char count: 945 (verified in-range 700–950, blocklist clean).
+  Lyrics char count: 901 (verified under 980, blocklist clean).
+
+tags:
+  - ondes-martenot
+  - bowed-vibraphone
+  - bass-clarinet
+  - 93bpm
+  - c-sharp-minor
+  - d-minor
+  - late-night-window-scene
+  - revival-ondes-martenot-30-gap
+  - revival-bowed-vibraphone-36-gap
+  - revival-bass-clarinet-29-gap
+  - new-technique
+  - new-genre-lane
+  - cinematic-synth-ballad
+  - analog-pad-stacks
+  - gated-reverb-snare
+  - arpeggiator
+  - earnest-longing
+  - half-step-lift
+  - whispered-bridge
+  - english-lyrics
+  - vocal
+  - instrumental-false
+  - duration-3min
+  - research-driven
