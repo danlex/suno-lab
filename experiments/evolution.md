@@ -374,6 +374,7 @@ mindmap
 | 327 | Linger | English cinematic pop solo ballad (research-informed viral) | F minor to F# minor | 84 | Rhodes electric piano + viola section + nylon-string guitar |
 | 328 | Unravel | Chorus-first confessional indie-pop (charts-informed viral) | E major to F major | 168 | flugelhorn + clarinet + celesta |
 | 329 | Lueur | French nu-disco vocal pop (charts-informed viral) | B-flat major to B major | 107 | bandoneon + steelpan + upright bass |
+| 330 | Bloom | Contrast-drop chamber folk-pop anthem (charts-informed viral) | E-flat major to E major | 167 | glass harmonica + marimba + harpsichord |
 
 ## Next-cycle priorities
 
