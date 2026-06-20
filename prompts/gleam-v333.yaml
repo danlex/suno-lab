@@ -1,0 +1,153 @@
+name: "gleam-v333"
+version: 333
+title: "Gleam"
+instrumental: false
+vocal_gender: female
+
+style: "Sun-warmed analog shimmer, airy and bright — a rooftop at golden hour, a clean female voice riding a gliding melodic bass and a soft disco four-on-the-floor groove. Polished studio mix, wide stereo stage, warm tape saturation. B-flat minor lifting to B minor at the payoff chorus, 143 BPM. An analog synth hook opens cold and shimmering, female vocal enters at ten seconds doubling the hook. Rhodes electric piano sustains warm maj7 voicings with gentle chorus-shimmer. Cornet delivers close-miked warm brass stabs, bright and round. Chalumeau brings husky low-register warmth into verse gaps, a breath-dark undertow. Glockenspiel doubles the synth hook with bright mallet shimmer an octave higher. Gliding melodic bass anchors the groove. English-singing clean bright soprano, airy and close-miked. Final chorus at 2:35, synth-hook fade near 2:55. No distorted guitars, no aggressive drums, no autotune, no Scandinavian folk, no orchestral strings."
+
+lyrics: |
+  [Synth hook, 0:00]
+
+  [Vocal doubles hook, 0:20]
+  Shimmer on the rooftop
+  You and the gold light stay
+  Every note we're holding
+  Won't ever fade away
+
+  [Full groove, 0:40]
+
+  [Verse 1, 0:50]
+  Catch me in the shimmer
+  Slow your breathing down
+  You're the warm-lit window
+  Every time I come around
+  We don't need a reason
+  When the groove runs high
+
+  [Pre-chorus — bass and vocal, 1:25]
+  Let it ring out
+  Let it ring out bright
+  One more step
+  Stepping into light
+
+  [Payoff chorus — B minor, 1:42]
+  Gleam like the morning gold
+  Gleam, never growing cold
+  This melody is ours to hold
+  Gleam, bright and bold
+
+  [Verse 2 — cornet stabs, 2:02]
+  Keep the rhythm easy
+  Let the synth hook run
+  Feel the bass line carry
+  Every note until we're done
+
+  [Final chorus — full, 2:35]
+  Gleam like the morning gold
+  Gleam, never growing cold
+  This melody is ours to hold
+  Gleam, bright and bold
+  Gleam, bright and bold
+
+  [Outro — synth hook fades, 2:50]
+  Gleam...
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, experimental noise, free jazz, atonal, microtonal, quarter-tone, K-pop, J-pop, anime, C-pop, mandopop, girl group, boy band, drill, grime, 808 bass, dembow, reggaeton, sad-trap, Latin sad-trap, Afrobeats, vocaloid, city pop, citypop, city-pop, Japanese pop, anime pop, shibuya-kei, Scandinavian folk, Nordic folk, folk-pop, folk anthem, indie-folk, indie-pop, dream-pop, shoegaze, ballad, slow ballad, nu-disco, broken-beat, neo-soul, elegiac, cinematic ambient, sacred minimalism, Gregorian chant, ceremonial march, operatic soprano, bel canto, gospel choir, symphonic metal, power ballad, autotune, ambient drone, orchestral strings, new age, zen meditation"
+
+notes: |
+  Technique: neo city-pop electro-pop, described entirely through sound — shimmering
+  analog synth hook, sun-warmed Rhodes electric piano, soft disco four-on-the-floor
+  groove, gliding melodic bass, clean airy English female vocal. The genre label
+  "city pop", "J-pop", or "Japanese" does not appear anywhere in the prompt (they
+  anchor Suno to wrong tonal palettes and language models); instead the sound is
+  described with sensory anchors: "sun-warmed analog shimmer", "warm maj7 voicings",
+  "soft disco groove", "gliding melodic bass". This approach is a catalog first — no
+  prior entry uses this sound family.
+
+  Concept source: charts-informed original — the neo city-pop revival (2024-2026)
+  emphasises shimmering analog synth hooks, sun-warmed Rhodes, four-on-the-floor
+  disco grooves, and clean English-language female vocals rather than the original
+  era's Japanese-language register. This cycle translates that sonic vocabulary
+  without genre-labelling it, preventing auto-classifier drift.
+
+  This technique echoes a generation of late-1970s through 1980s Tokyo-based studio
+  producers and their 2020s-revival interpreters without naming any of them, per
+  blocklist discipline.
+
+  Nyckelharpa substitution note: the novelty-picker suggested nyckelharpa (gap 79)
+  for the reed-family slot, but nyckelharpa carries strong Nordic-folk character
+  that would conflict with the bright electro-pop palette and trigger Scandinavian
+  folk classifier drift. Chalumeau (gap 79) was substituted — it fills the same
+  "husky low-register warmth in the verse gaps" role without the folk implication,
+  and the exclude_styles field blocks "Scandinavian folk, Nordic folk" to prevent
+  the glockenspiel (bright mallet) from pulling the same direction.
+
+  Duration strategy: 143 BPM is in the proven 130-160 duration band (playbook rule 8).
+  At 143 BPM with bar-count-anchored timestamps, Suno targets 3:00+ renders. Nine
+  lyric sections span 0:00 to 2:50, with the final lyric timestamp at 2:50 and an
+  explicit late-section style anchor ("final chorus at 2:35, synth-hook fade near
+  2:55") per feedback_short_render_late_timestamp. No [Silence] metatag — the
+  stripped pre-chorus at 1:25 (bass and vocal only) creates the contrast moment via
+  section label, per feedback_silence_gate_truncates. Half-step key lift (B-flat
+  minor to B minor) at 1:42 payoff chorus for emotional lift. Production tokens:
+  polished studio mix, wide stereo stage, warm tape saturation. Sentence case
+  throughout. Atmospheric-first opening. Inline negatives preserve synths, Rhodes,
+  drums, and bass (all essential to this sound) while blocking distortion, aggression,
+  and folk/orchestral drift. The concept is forward-motion (groove builds, chorus
+  arrives, final chorus pays off) which Suno's auto-classifier resolves toward
+  "electro-pop, synth-pop, disco" — the duration band expected is 3:00-3:30.
+
+  Instruments:
+  - Cornet (gap 74): close-miked warm brass stabs in the hook — brighter and more
+    compact than trumpet, native to the warm pop-brass palette; contributes
+    contrasting attacks over the smooth groove texture.
+  - Chalumeau (gap 79): husky low-register clarinet warmth in verse gaps — the
+    chalumeau register sits below the break, producing a breathy undertow beneath
+    the shimmering upper texture without the folk implication of nyckelharpa.
+  - Glockenspiel (gap 40): bright mallet shimmer doubling the analog synth hook
+    one octave higher at the chorus — a fresh mallet-family revival adding a
+    crystalline top-end shimmer that is sonically consistent with the disco/pop
+    palette.
+
+  Body voice check: cornet (body), chalumeau (body) — two body voices confirmed.
+  Glockenspiel is a spectral/mallet voice (one spectral allowed per playbook rule 5);
+  count: 1 spectral. Compliant.
+
+  Novelty claims:
+  - New technique: neo city-pop electro-pop sound-described (zero catalog precedent;
+    no prior entry uses this sound family without genre-labelling it).
+  - New BPM: 143 (not used in catalog at this setting; breaks recent 167-170 cluster).
+  - New key pair: B-flat minor to B minor (half-step lift).
+  - New scene: rooftop-at-golden-hour, soft-disco-groove electro-pop.
+  - Differentiated from: ballad (v327), indie-pop (v328), nu-disco (v329), folk
+    anthem (v330), dream-pop (v331), broken-beat R&B (v332).
+
+  Style char count: 949. Lyrics char count: 915.
+
+tags:
+  - cornet
+  - chalumeau
+  - glockenspiel
+  - 143bpm
+  - b-flat-minor
+  - b-minor
+  - rooftop-golden-hour-scene
+  - revival-cornet-74-gap
+  - revival-chalumeau-79-gap
+  - revival-glockenspiel-40-gap
+  - new-technique
+  - new-bpm
+  - neo-city-pop
+  - electro-pop
+  - synth-pop
+  - disco-groove
+  - analog-shimmer
+  - rhodes
+  - english-female-vocal
+  - vocal
+  - duration-3min
+  - research-driven
+  - instrumental-false
