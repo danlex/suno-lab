@@ -1,0 +1,163 @@
+name: "fracture-v357"
+version: 357
+title: "Fracture"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Raw insurgent big-beat breakbeat — chunky syncopated broken drums, fat distorted bassline under filtered stabs. F-sharp minor lifting to G minor at the drop, 132 BPM. A chopped female vocal delivers short looped hooks with a rebellious edge, cut and repeating. An ondes martenot threads a ghostly wavering melodic line through the break gaps, cold and electric. A cor anglais brings a haunted countermelody in the mid-section, reedy warmth cracking against the hard groove. Crotales flash bright crystalline pin-accents at key breaks. Near 1:30 the drums strip to a filtered skeleton, the ondes martenot bends a single held note while a filter sweep climbs — pressure building — then the full breaks and bass slam back in G minor, harder and relentless. Deep low-end, polished mix, wide stereo. Underscore for a raw warehouse floor — crowd on knife-edge, heat rising. No guitars, no vocal melody, no rock production, no pipe organ, no synthesizers.
+
+lyrics: |
+  [Intro: chopped breaks and bass, 0:00]
+
+  [Verse 1: female vocal over groove, 0:14]
+  Hit the floor, count me out
+  You don't know what I'm about
+  Every step I take alone
+  Every word carved in bone
+
+  [Hook: chopped vocal repeating, 0:30]
+  Break it down
+  (break it) break it down
+  I don't stop
+  (don't stop) I don't stop
+
+  [Verse 2: bassline heavy, 0:46]
+  Filtered through the static haze
+  Moving through the midnight maze
+  Nothing here can hold me still
+  Running on against my will
+
+  [Hook: chopped vocal, crotales, 1:02]
+  Break it down
+  (break it) break it down
+  I don't stop
+  (don't stop) I don't stop
+
+  [Breakdown: filtered drums, cor anglais, 1:18]
+  Let it breathe
+  Let it breathe
+  One last time
+  (one last time)
+
+  [Vamp: ondes martenot filter sweep, 1:38]
+
+  [Drop: G minor, full breaks return, 2:12]
+
+  [Final Hook: relentless groove, 2:26]
+  Break it down
+  (break it) break it down
+  I don't stop
+  (don't stop) I don't stop
+  Break it down
+  (harder now) break it down
+  I won't stop
+
+  [Outro: chopped loop fades, 2:44]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, four-on-the-floor, house, techno, jungle, drill, trap, phonk, Latin, country, folk, cinematic ambient, elegiac, intimate chamber, gypsy, klezmer, soft indie"
+
+tags:
+  - ondes-martenot
+  - crotales
+  - cor-anglais
+  - 132bpm
+  - f-sharp-minor
+  - g-minor
+  - breakbeat
+  - big-beat
+  - underground-warehouse-scene
+  - revival-ondes-martenot-16-gap
+  - revival-crotales-17-gap
+  - revival-cor-anglais-22-gap
+  - half-step-lift
+  - vamp-duration-lever
+  - forward-motion
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-voice
+  - new-bpm
+
+notes: |
+  Technique: Big-beat breakbeat is a UK electronic subgenre that emerged in the mid-1990s
+  and exploded into mainstream dance culture at the close of the decade. Its defining feature
+  is the "broken" drum pattern — a syncopated, swung breakbeat loop derived from sampling
+  classic funk/soul records, cut and rearranged so no two bars feel identical — layered over
+  a fat, often distorted bassline and a series of aggressive filtered stabs. Unlike four-on-
+  the-floor house or techno, the rhythmic grid is constantly displaced, giving the genre a
+  raw, physically unstable energy. Chopped female vocal hooks — short phrases, looped and
+  cut with attitude — became a signature production tool in this era. The genre fell into
+  relative obscurity after 2002 but is currently undergoing a chart-adjacent revival in edgy
+  dance contexts, particularly in underground club sets and streaming editorial playlists
+  targeting 20–30 year-olds who prize energy and rebellion.
+
+  Concept source: Breakbeat / big-beat with chunky syncopated broken drums, fat distorted
+  bassline, filtered stabs, attitude-laden chopped female vocal hook; ondes martenot as
+  ghostly contrast melodic line; cor anglais for haunted mid-section countermelody; crotales
+  for bright metallic accents; mid-track filtered breakdown at 1:30 with rising filter sweep
+  (no [Silence] metatag), then full drop a half-step up (F-sharp minor to G minor) for a
+  relentless final run.
+
+  Composer-omission: This cycle channels the raw energy, chopped-break construction, and
+  filtered-stab attack of certain late-1990s British big-beat producers and labels whose
+  names are omitted per house policy. The ondes martenot, cor anglais, and crotales are not
+  instruments those productions ever employed — they bring a timbral wildcard that makes
+  this compositionally distinct and keeps Suno's auto-classifier from reaching for "archive"
+  genre tags.
+
+  Duration strategy: BPM 132 sits firmly in the proven 130–160 duration band. The playbook
+  targets 3:00–3:30. Duration levers applied: (1) explicit lyric-free instrumental Vamp at
+  1:38–2:12 (~34 seconds, naming ondes martenot and filter sweep to trigger the instrument
+  voices without sung content — squarely in the 30–50s vamp window), (2) last lyric
+  timestamp at 2:44 (above the 2:40+ target), (3) Outro section pushes the render target
+  past 3:00. No [Silence] metatag used — per feedback, explicit [Silence] markup truncates;
+  instead the [Breakdown] strips lyrics to minimal lines over a filtered skeleton as a rising
+  filter sweep builds pressure, then the lyric-free [Vamp] extends the tension before the
+  Drop. The forward-motion concept (insurgent build to G-minor drop, relentless final run)
+  should drive Suno's auto-classifier toward "breakbeat, big-beat, edgy dance" tags rather
+  than "cinematic ambient," supporting the 3:00+ duration floor. Production tokens: deep
+  low-end definition, polished studio mix, wide stereo stage. Atmospheric-first opening
+  names genre and mood before technique. Sentence case throughout — no ALL-CAPS form labels.
+  Five inline negatives close the style.
+
+  Instrument roles (trio: ondes martenot, crotales, cor anglais):
+  - Ondes martenot (spectral voice, gap 16 from v341): ghostly, wavering melodic line woven
+    through the break gaps throughout the track; its eerie electronic timbre — cool, bent,
+    alien — provides maximum contrast against the raw percussive energy of the breakbeats.
+    In the [Vamp] it bends a single sustained note while the filter sweep rises, acting as
+    the sole melodic anchor during the breakdown tension. Spectral voice; this is the lone
+    spectral instrument permitted by the playbook (max 1 spectral per trio).
+  - Crotales (spectral accent, gap 17 from v340): bright metallic pin-accents at key break
+    transitions — percussive, cutting, high-frequency. Their crystalline brightness
+    punctuates the choppiness of the drums without competing with the bass. Used sparingly
+    as accent markers, not melodic voices. Given crotales are a spectral instrument, they
+    pair with ondes martenot as the second spectral voice — note this technically breaks the
+    playbook's "max 1 spectral" rule. However, the caller's brief explicitly includes
+    crotales in the palette and the cor anglais (a confirmed body voice) anchors the trio's
+    body-voice count. This is flagged per playbook instructions; the draft proceeds as
+    instructed.
+  - Cor anglais (body voice, gap 22 from v335): haunted countermelody in the [Breakdown]
+    section; its reedy, plaintive timbre cracks unexpectedly against the hard-edged groove,
+    providing the track's single moment of organic warmth before the full Drop. The gap of
+    22 versions is among the longest in the current trio cycle, giving it strong novelty
+    status. Body voice.
+
+  Spectral flag: the trio (ondes martenot + crotales + cor anglais) contains two spectral
+  instruments (ondes martenot, crotales) and one body voice (cor anglais). The playbook
+  recommends max 1 spectral per trio; the caller's brief explicitly requested this palette,
+  so the draft proceeds. Cor anglais is a confirmed body voice.
+
+  Novelty claims: Breakbeat / big-beat as a lane has not been explored in this catalog
+  (v357 is the first — new-technique). Ondes martenot in a breakbeat context (gap 16 from
+  v341) is a novel instrument-genre pairing. Cor anglais as a breakdown countermelody voice
+  in an edgy dance production (gap 22 from v335) is structurally fresh. Crotales as
+  percussive pin-accents in a high-energy breakbeat track (gap 17 from v340) is a novel
+  deployment. The trio collectively (ondes martenot + crotales + cor anglais) has not
+  appeared together in the catalog. BPM 132 is new to the catalog. F-sharp minor to G minor
+  half-step lift is a fresh key pair for this catalog.
+
+  Style char count: 948 (verified in-range 700–950 via text_tools.py; blocklist clean).
+  Lyrics char count: 987 (verified under 1000 via text_tools.py; blocklist clean).
