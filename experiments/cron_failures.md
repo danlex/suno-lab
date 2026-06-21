@@ -1,5 +1,16 @@
 # Cron failure log
 
+### 2026-06-21 — v359 NO-SHIP — first run on the critical rubric, no candidate reached 88
+
+Reason: no candidate cleared the ≥88 ship bar on the new CRITICAL judge rubric (commit 6b5170e). Ran TWO full rounds = 10 candidates:
+- Round 1 (template-ish lanes): afro-house "Groove" 66, trance "Ascend" 68, electro "Verrou" 67, speed-garage "Slam" 63, hard-groove "Squelch" 68.
+- Round 2 (engineered to beat round-1 ceilings: ownable hook + non-half-step climax): electro-swing "Slink" 76, neuro-DnB "Snarl" 75, UK-bassline "Notch" 73, future-garage "Drift" 71, funky-house "Groovelock" 67.
+Best = 76 (Slink). All STALLED, none ≥88. No prompt promoted; nothing submitted/published. `prompts/` unchanged (latest committed = v358 torque).
+Systemic finding: production/distinctiveness/danceability/frisson dimensions score well (11-17, 8-9), but the LYRIC HOOK is the universal ceiling at 14-18/25 — AI-drafted hooks read as competent chants, not 3-second singable identities. This is a concept-level limit no style edit fixes. To clear 88 regularly the harness likely needs a dedicated hook-generation step (or to accept that 88 is genuinely rare and shipping cadence drops).
+Harness fix this cycle: the compliance gate previously REQUIRED a half-step modulation at the climax — the exact move the quality rubric penalizes. Fixed SKILL.md + suno-judge so the gate accepts any clearly-defined climax (beat-flip, half-time, genre-flip, hook-transformation, structural break), half-step no longer privileged.
+Action taken: logged + committing the gate fix. Did NOT ship below the bar (correct per the >95→88 critical-bar policy).
+Next cycle: cron job fcd33d9b (:07) fires normally. Consider a hook-first drafting pass or a separate hook-writer subagent if ≥88 stays unreached.
+
 ### 2026-06-21 — v359 cycle aborted — account usage/session limit
 
 Reason: suno-researcher and novelty-picker subagents both returned "You've hit your session limit · resets 2pm (Europe/Luxembourg)" with zero work done. The Agent (subagent) tool is rate-limited, so the drafters, judges, and submitter cannot run either. Not a Suno/browser problem — a Claude account usage cap.

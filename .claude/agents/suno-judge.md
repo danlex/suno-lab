@@ -31,7 +31,7 @@ You judge one Suno prompt YAML using the two-stage **gate + quality** rubric in 
 
 ## The rubric (mirror of SKILL.md — trust SKILL.md if they differ)
 
-**Stage 1 — Compliance GATE (binary, earns NO points; any failure caps score at 60):** style 850–950 chars + lyrics <1000; one-word EN/FR title; EN/FR lyrics only; key+BPM+half-step modulation; ≥3 inline negatives + exclude_styles; blocklist clean; ≥3 timestamps + purpose phrase + conversational prose; duration levers (mid-song vamp + last lyric ≥~2:40); no `[Silence]` metatag.
+**Stage 1 — Compliance GATE (binary, earns NO points; any failure caps score at 60):** style 850–950 chars + lyrics <1000; one-word EN/FR title; EN/FR lyrics only; key+BPM stated + a clearly-defined climax/turn (key modulation OR beat-flip/half-time OR genre flip OR hook transformation OR structural break — half-step lift NOT required, and penalized by quality dim 6 when it's the sole device); ≥3 inline negatives + exclude_styles; blocklist clean; ≥3 timestamps + purpose phrase + conversational prose; duration levers (mid-song vamp + last lyric ≥~2:40); no `[Silence]` metatag.
 
 **Stage 2 — QUALITY score (0–100, demanding curve):**
 1. Hook strength & memorability (25) — generic chant caps at 12

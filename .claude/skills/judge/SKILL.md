@@ -34,7 +34,7 @@ Every item must pass. Any failure → **cap the score at 60** and fix it before 
 - Style 850–950 chars (verify via `python3 scripts/text_tools.py`); lyrics <1000 chars
 - Title: exactly ONE word, English or French
 - Lyrics: English or French only
-- Key + BPM both stated, with a half-step (or comparable) modulation at the climax
+- Key + BPM both stated, AND a clearly-defined climax/turn — which may be a key modulation, but may equally be a beat-flip/half-time switch, a genre flip, a hook transformation, a drop-to-bare-rhythm, or a structural break. A half-step lift is NOT required and is no longer privileged (the quality rubric penalizes it as formulaic when it is the sole climax device)
 - ≥3 inline "No X" negatives in style + a populated `exclude_styles`
 - Blocklist clean (see list below) — in the `style` and `lyrics` fields
 - ≥3 timestamps; a purpose phrase ("underscore for Y"); conversational prose, not a tag list
