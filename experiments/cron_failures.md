@@ -1,6 +1,13 @@
 # Cron failure log
 
-### 2026-06-04 — cron fire, no-op (cycle 5) — v327 bridge still disconnected
+### 2026-06-21 — v359 cycle aborted — account usage/session limit
+
+Reason: suno-researcher and novelty-picker subagents both returned "You've hit your session limit · resets 2pm (Europe/Luxembourg)" with zero work done. The Agent (subagent) tool is rate-limited, so the drafters, judges, and submitter cannot run either. Not a Suno/browser problem — a Claude account usage cap.
+State: `cycle_start.py` reported v359, `recommended_action="draft_new"`. Nothing drafted; `prompts/` unchanged (latest committed = v358 torque). First cycle under the new CRITICAL judge rubric (commit 6b5170e) — not yet exercised.
+Action taken: Logged + exiting without submitting. No retry (would re-hit the cap until reset). Did NOT spawn further subagents.
+Next cycle should: The hourly cron (job fcd33d9b, :07) will fire again; once the limit resets at ~2pm Europe/Luxembourg, the next fire should proceed normally with the full pipeline and the ≥88 critical bar.
+
+
 
 Reason: `list_connected_browsers` still returns `[]`. Fifth consecutive cycle blocked on v327.
 State: `prompts/geurim-v327.yaml` still untracked, judge 98/100.
