@@ -1,5 +1,16 @@
 # Cron failure log
 
+### 2026-06-22 — v359 NO-SHIP #2 — HOOK-FIRST round, best 84, none reached 88 (but the fix works)
+
+Ran the full hook-first pipeline (suno-hook-writer now registered): 5 hook-writers produced ownable hooks scoring 21-22/25 (vs the chant round's 14-18), then 5 drafters built around them, then 5 critical judges.
+Results: speed-garage "Séraphine" 84/d9, DnB "Encore" 84/d9, afro-house "Dusk" 76/d7, melodic-techno "Kelvin" 76/d8, future-bass "Aureole" 76/d8. Best = 84. None ≥88 → no-ship per the bar.
+WIN: the hook-first step demonstrably lifted the ceiling 76 → 84. In-render hook dimension rose to 19-21/25 (was 14-18). The approach is validated.
+Remaining gap to 88 is concept-level and narrow: (1) distinctiveness caps at 14-17 because the chosen lanes (melodic-techno, speed-garage) have PRIOR catalog entries — only genuinely debut lanes (afro-house, DnB earned 16-17) score higher; (2) hook caps at ~19-20 because a melodic-contour spec in style text is an instruction Suno may not render faithfully — judges discount for that.
+PROCESS ERROR (mine): I gave ALL 5 candidates the SAME key (C minor→E-flat major) and the SAME trio palette (harpsichord/xylophone). The judge penalized "Dusk" and "Aureole" for intra-cycle CONVERGENCE (shared harpsichord + shared modulation). Fix: diversify key, trio, AND climax device ACROSS the 5 candidates each cycle — never give them a single shared recipe. Cron prompt (d5b483da) updated accordingly.
+Stray cleanup: drafter L4 wrote to prompts/aureole-v359.yaml instead of scratchpad; removed it so cycle_start version detection stays correct.
+Action: logged + committing. Did NOT ship below 88.
+Open decision for the user: pipeline now tops out ~84 on the critical scale. Either (a) hold 88 and keep improving the harness toward it, (b) set bar to 84 to ship genuinely-strong tracks, or (c) only run debut-genre lanes (which score the distinctiveness needed).
+
 ### 2026-06-21 — v359 NO-SHIP — first run on the critical rubric, no candidate reached 88
 
 Reason: no candidate cleared the ≥88 ship bar on the new CRITICAL judge rubric (commit 6b5170e). Ran TWO full rounds = 10 candidates:
