@@ -1,0 +1,115 @@
+name: "porcelaine-v361"
+version: 361
+style: "Underscore for a dancefloor that breaks you open — 1993-era eurodance revival,
+  chest-deep four-on-the-floor kick grid, crystalline soprano hook the crowd finishes
+  alone. B-flat major rising to E-flat via a fourth-up modulation and filter-sweep:
+  low-pass opens at 2:40, glass harmonica blooms into full-range resonance as the key
+  lifts. 140 BPM. Kick on every beat, open hi-hat on the off, staccato ophicleide
+  brass stabs on 2 and 4, voicing the chord grid, sub-bass tracking chord roots.
+  Glass harmonica holds the chord pad above — bright bowl-resonance tying harmony
+  between the stab pulses. Soprano carries the hook: rising minor third, fifth plateau,
+  stepwise descent to tonic. The 8-bar phrase pairs 4 bars soprano with 4 bars riff
+  alone so the listener finishes the melody. Vamp at 1:45 strips to ophicleide stabs,
+  glass harmonica pulse, and kick for 32 bars. No guitars, no rock drums, no rap,
+  no synthesizer leads, no pipe organ."
+title: "Porcelaine"
+lyrics: |
+  [Intro: kick, ophicleide stabs, glass harmonica, 0:00, 8 bars]
+
+  [Verse 1: soprano, 0:14, 4 bars]
+  Something breaks like china when you leave
+  Every piece too sharp to touch or keep
+  Patterns on the floor I used to see
+  Now they only cut whenever I breathe
+
+  [Hook riff: 0:28, 4 bars]
+
+  [Verse 2: soprano, 0:42, 4 bars]
+  You left a mark in white and gold and grey
+  A cabinet you packed and walked away
+  Each crack runs deep the way I never showed
+  All that fine-bone beauty, letting go
+
+  [Hook riff: 0:56, 4 bars]
+
+  [Chorus: 1:10, 8 bars]
+  Something breaks like china when you leave
+  Something breaks like china when you leave
+  The kind of break that won't be healed or sealed
+  Something breaks — the kind you only feel
+
+  [Vamp: 1:38, ophicleide, glass harmonica, kick, 32 bars]
+
+  [Chorus: E-flat major, filter sweep, 2:40, 8 bars]
+  Something breaks like china when you leave
+  Something breaks like china when you leave
+  The kind of break that won't be healed or sealed
+  Something breaks — the kind you only feel
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi,
+  pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental
+  noise, free jazz, atonal, microtonal, quarter-tone, trance, house, hard dance,
+  italo disco, hi-NRG, folk, country, jazz, ambient, drone, K-pop, J-pop, reggaeton,
+  hip-hop, r-and-b, chanson, classical orchestra, string quartet"
+notes: |
+  Eurodance revival (1993-95 formula, 2026 TikTok-driven debut in the catalog). The
+  genre is characterised by a four-on-the-floor kick grid, synth-stab chords on beats
+  2 and 4, a sub-bass following the chord roots, and a short repetitive soprano hook
+  alternating with riff-alone bars so listeners mentally complete the phrase — the
+  mechanism behind the genre's TikTok loop virality. The concept source is the
+  china-breaking-as-departure image: departure as breakage of something irreplaceable
+  and beautiful, emotionally specific rather than generic heartbreak chant-filler.
+
+  The composer whose output this most closely echoes — a prolific 1990s Eurodance
+  production team responsible for several genre-defining chart records — is not named
+  per blocklist policy.
+
+  Duration strategy: parametrized colon-lyrics with timestamps and bar counts (0:00
+  Intro through 2:40 final Chorus), polished studio mix + wide stereo stage as
+  production tokens, sentence case throughout, atmospheric-first opening. The
+  instrumental vamp at 1:38 (32 bars at 140 BPM ≈ 55 seconds of lyric-free groove)
+  is the explicit duration lever per the duration-lever feedback. Last lyric timestamp
+  at 2:40 gives Suno a late anchor to push toward 3:00+. The fourth-up modulation
+  (B-flat major → E-flat major) with simultaneous filter sweep is the climax — NOT
+  the overused half-step lift from v216-v219.
+
+  Instruments:
+  - Glass harmonica (spectral voice): shimmering crystalline synth-pad analog,
+    bright 1-4 kHz register, provides the ethereal shimmer above the groove. Debut
+    lane: not previously used as a featured trio voice in a eurodance context.
+  - Ophicleide (body voice): keyed brass instrument, low-mid register, here used as
+    the stab-chord brass punch on 2 and 4. Debut lane.
+  - Soprano (body voice): carries the central hook with the specified rising minor
+    third (Bb→Db), sustained fifth plateau (F), and stepwise descent (D-C-Bb).
+
+  Note on "Glass" blocklist false positive: the substring matcher flags "glass
+  harmonica" because "Glass" also matches the composer Philip Glass. This is an
+  instrument-name false positive; the composer is not referenced. The instrument was
+  explicitly specified by the caller.
+
+  Novelty: eurodance debut lane; glass harmonica + ophicleide pairing is new to the
+  catalog; fourth-up modulation (not half-step) is first appearance of this specific
+  interval as climax device; 140 BPM confirmed new per cycle_start novelty surface.
+
+  Style char count: 941.
+tags:
+  - glass-harmonica
+  - ophicleide
+  - soprano
+  - 140bpm
+  - b-flat-major
+  - e-flat-major
+  - dancefloor-heartbreak-scene
+  - eurodance-revival
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-vocal
+  - fourth-up-modulation
+  - debut-lane-eurodance
+  - hook-first
