@@ -1,0 +1,81 @@
+name: "peach-v360"
+version: 360
+style: "Candy-brutal bubblegum bass club track in G major at 150 BPM, built for the 2026 PC Music revival. Purpose: pit candy-bright piccolo hook against a hypercompressed 808 sub with extreme sidechain pump — every beat collapses the mix before the next hit. 808 pressure in the chest; master bus clips the high-end hard. Piccolo carries a falling-fifth hook shrill and bright at the top of the mix. Harp delivers sweeping arpeggiated shimmer on offbeats, crystalline and clipped. Cristal baschet marks each chorus arrival with a mid-range bowl-ring, bridging sub and piccolo. Thin bright female vocal rides the gaps. At 2:00 the piccolo drops an octave while the sidechain pump cuts entirely; mix becomes one sustained chord held smooth for eight bars, then pump and upper-octave piccolo return together in a single hit. Tight chamber reverb, warm tape saturation on the 808. No key change at the climax. No guitars, no pipe organ, no live rock drums."
+title: "Peach"
+lyrics: |
+  [Intro: sidechain pump, piccolo hook over 808 sub, 0:00]
+
+  [Verse 1: 0:18]
+  Sprayed neon on a sugar wall
+  Ate the pink from the waterfall
+  Teeth like candy in a traffic jam
+  Sticky knuckles, neon gram
+
+  [Chorus: hook, 0:34]
+  Bite the neon peach
+  Bite the neon peach
+  Crack the syrup open, let the color bleed
+  Bite the neon peach
+
+  [Verse 2: 0:52]
+  Crushed the violet in my palm
+  Sugar trauma, saccharine calm
+  Painted teeth in ultraviolet
+  Swallow hard, don't you die yet
+
+  [Chorus: hook, 1:08]
+  Bite the neon peach
+  Bite the neon peach
+  Crack the syrup open, let the color bleed
+  Bite the neon peach
+
+  [Vamp: piccolo and harp, lyric-free sidechain groove, 1:26]
+
+  [Climax: octave-drop piccolo, pump removed, sustained chord eight bars, 2:00]
+
+  [Drop: pump and upper piccolo return together, 2:16]
+
+  [Chorus: final, 2:28]
+  Bite the neon peach
+  Bite the neon peach
+  Crack the syrup open, let the color bleed
+  Bite the neon peach
+
+  [Outro: 2:44]
+  Neon drips and the sugar dries
+  Bite the peach 'til the color dies
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, indie folk, shoegaze, ambient drone, cinematic ambient, elegiac, intimate chamber"
+notes: |
+  Bubblegum bass (also called PC Music club or hyperpop-club) is a 2010s-origin UK/London internet-pop subgenre defined by extreme sidechain compression, pitched-up female vocals, hypercompressed 808 sub bass, candy-bright synth leads, and a deliberately overcrowded frequency stack. It was revived in 2025-2026 club culture with harder sub emphasis and more extreme pumping. This is the genre's debut in the catalog (no prior PC Music / bubblegum-bass entry). The concept source: pre-validated hook "bite the neon peach" (21/25 hook score, joint-highest in cycle v360 bracket) built around a rising stepwise G4-A4-B4 then falling perfect fifth B4-E4, with the final word hard-cut to one full beat of gap before the 808 fires. The canon composers working in PC-adjacent hyperpop space go unnamed per blocklist; their approach (pitched-up ultra-compressed candy aesthetics) is echoed here without attribution.
+
+  Duration strategy: 150 BPM falls in the 130-160 proven duration band; bar counts work reliably. Lyric-free vamp from 1:26 to 2:00 (34s) extends the arc past the second chorus. Last lyric line at 2:44. No [Silence] metatag (confirmed truncation risk). Climax is sidechain-removal + octave-drop — not a key change, not a half-step lift. Parametrized colon-lyrics with timestamps, sentence case throughout, atmospheric-first style opening. Production tokens: polished studio mix, wide stereo stage, deep low-end definition, tight chamber reverb, warm tape saturation.
+
+  Trio rationale — 2 body voices + 1 spectral (within limit): Piccolo (body, gap 42 versions since v318) is the candy-bright hook carrier at the top of the frequency stack, the shrill upper register perfectly fitting the PC Music aesthetic. Harp (body, gap 23 versions since v337) delivers sweeping arpeggiated shimmer on offbeats, replacing the usual pitched-up synth arpeggiator with an acoustic analog. Cristal baschet (spectral, gap 13 versions since v347) provides alien overtone wash in the mid-range — its bowl-resonator timbre is architecturally between the 808 sub and the piccolo lead, filling the space without muddying either.
+
+  Novelty: debut genre (bubblegum bass / PC Music — no prior catalog entry); G major used before (v354 most recent, gap 6); 150 BPM new; piccolo gap 42, harp gap 23, cristal baschet gap 13.
+
+  Final style char count: 947.
+tags:
+  - piccolo
+  - harp
+  - cristal-baschet
+  - 150bpm
+  - g-major
+  - candy-brutalism-scene
+  - revival-piccolo-42-gap
+  - revival-harp-23-gap
+  - revival-cristal-baschet-13-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - bubblegum-bass
+  - pc-music
+  - hyperpop-club
+  - sidechain-pump
+  - hook-first
+  - vocal
