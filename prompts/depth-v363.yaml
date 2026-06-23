@@ -1,0 +1,72 @@
+name: "depth-v363"
+version: 363
+style: "Cold pressure at forty fathoms, where a drowned city hums on robotic time — underscore for a machine-soul dancefloor that never surfaces. Classic Detroit electro-funk at 130 BPM, crisp 808 drum machine, snapping electro kick pattern, stiff 16th-note grid, A minor. Female vocal, cold and clear, vocoder-edged but intelligible, a signal cutting through brine. Polished studio mix, deep low-end definition, wide stereo stage. Contrabassoon delivers the robotic bass riff, low-growl ostinato locked to the 808 grid, chest-register pressure. Clavichord supplies the cold hook figure, plucked decay answering the vocal stabs with dry percussive clarity. Baryton bowed mid-register, between clavichord and contrabassoon, machine-soul weight and harmonic hum. Tight drum-machine swing feel, electro-funk syncopation, pressure-locked groove that keeps the body moving. No guitars, no rock drums, no pipe organ, no synthesizers, no live orchestral strings."
+title: "Depth"
+lyrics: |
+  [Intro: 808 grid, contrabassoon ostinato, 0:00]
+
+  [Verse 1, 0:12]
+  Forty fathoms down, the arrays are lit
+  Pressure at nine, the readout never quits
+  Baryton hums at the boundary wall
+  Clavichord cold, logging nothing at all
+
+  [Chorus: first drop, 0:30]
+  Depth gauge says love
+  (held — null datum)
+  Depth gauge says love
+
+  [Verse 2, 0:48]
+  Station clock zeros, hull confirmed secure
+  Current reads magnetic, the low brass sure
+  Something throbs through the instrument feed
+  Cold plucked signal ticks, impossible creed
+
+  [Chorus: double-drop, stabs then false stop, 1:06]
+  Depth gauge says love
+  (breath — grid stops)
+  Depth gauge says love
+
+  [Vamp: contrabassoon, clavichord, baryton, 1:24]
+
+  [Bridge, 2:02]
+  Not designed for this — no protocol exists
+  Readout burns at nine, machine hiss
+
+  [Build: grid doubles, baryton bowed hard, 2:20]
+
+  [Hold: full ensemble stops, one breath, 2:28]
+
+  [Drop: full grid, stabs bare, 2:32]
+  Depth gauge says love
+  Depth gauge says love
+
+  [Outro: contrabassoon fades, 2:50]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac, ambient drone, new age meditation, orchestral, symphonic, live drums"
+notes: |
+  Electro as a genre traces its lineage directly to the early 1980s Detroit and New York intersections of funk rhythm programming with synthesizer-driven bass — the drum machine (808 in particular) replaced live percussion, and vocoder processing gave vocals a machine-adjacent coldness while keeping melodic intelligibility. The sub-genre mythology represented here — underwater cities populated by robotic beings who escaped oppression by retreating beneath the Atlantic — emerged from Detroit electro's conceptual underground in the early 1990s, and its producer has never been named in this catalog per blocklist protocol. The concept source is the double-drop structure as dramatic mechanism: a depth gauge is an instrument of pressure measurement that returns a numerical datum — it cannot return "love"; that impossible datum is the machine-soul thesis, the song's entire argument. Duration strategy: timestamps push the final vocal moment to 2:50 via a lyric-free vamp from 1:24 to 2:02 (~38 seconds of instrumental space) followed by a Bridge, then a Build/Hold/Drop stack using [Hold] rather than [Silence] to avoid the truncation-trigger documented in feedback_silence_gate_truncates.md. Production tokens used: polished studio mix, deep low-end definition, wide stereo stage. Sentence case throughout, atmospheric-first opening. All three instruments are body voices. Contrabassoon (gap 44 from v319): low-register robotic bass riff, the ostinato foundation of the electro grid. Clavichord (gap 32 from v331): cold plucked hook figure, the instrument's touch-sensitive key-tangent mechanism gives dry, decaying attack that mirrors the staccato vocal stabs exactly. Baryton (gap 15 from v348): bowed mid-register hum beneath the grid, provides the machine-soul weight and harmonic depth that neither plucked instrument can sustain. Novelty: debut of electro as genre in this catalog; debut of the Detroit electro underwater mythology concept; double-drop (stabs/false-stop/revelation) rather than half-step key lift is a new climax form. BPM 130 is in the proven duration band. Style char count: 923. Lyrics char count: 991.
+tags:
+  - contrabassoon
+  - clavichord
+  - baryton
+  - 130bpm
+  - a-minor
+  - electro
+  - detroit-electro
+  - underwater-station-scene
+  - revival-contrabassoon-44-gap
+  - revival-clavichord-32-gap
+  - revival-baryton-15-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-vocal
+  - machine-soul
+  - double-drop-climax
+  - debut-genre-electro
