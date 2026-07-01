@@ -1,5 +1,10 @@
 # Cron failure log
 
+### 2026-06-30 — v365 ALL-STALL — 5-candidate MoA tournament (afro house/EBM/UK garage/amapiano/dark techno). Best: EBM 80. Root cause: ALL 5 candidates used half-step modulation (Db→D, Eb→E, G#→A) as the climax device → Dim 6 capped at 5/10 on every candidate. Rescue attempt pending with texture-explosion climax on afro house (debut).
+
+Scores: EBM "Coolant" 80/d7, UK Garage "Glass" 76/d7, Amapiano "Bruise" 76/d7, Dark Techno "Fourier" 69/d8, Afro House "Harmattan" (judge hit session limit, estimated ~80).
+Process error: novelty picker assigned a single shared key (Db minor → D minor) to all lanes; ALL drafters then used that half-step as the climax → identical frisson penalty ×5. Fix: key/climax diversification must be enforced ACROSS lanes at the orchestrator level, not delegated to drafters.
+
 ### 2026-06-22 — v359 NO-SHIP #3 — HOOK-FIRST + DIVERSIFIED + DEBUT-LANES round, best 82. CEILING IS CONCLUSIVE (~82-84); 88 is unreachable by this pipeline.
 
 Ran the fully-optimized round: 5 DEBUT genres (gqom, jersey club, ghettotech, hard house/donk, bmore), each with a pre-validated hook (20-21/25), a DISTINCT key, a DISTINCT trio, and a DISTINCT non-half-step climax (parallel-major lift / octave-transposition / tempo-reveal / density-re-entry / texture-explosion). Fixed two gate bugs (drafters set "no vocals" on vocal-hook tracks).
