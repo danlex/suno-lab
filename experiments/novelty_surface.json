@@ -1,6 +1,6 @@
 {
-  "total_prompts": 363,
-  "latest_version": 363,
+  "total_prompts": 370,
+  "latest_version": 365,
   "instruments": {
     "piano": [
       1,
@@ -326,6 +326,21 @@
       337,
       360
     ],
+    "subcontrabass saxophone": [
+      86,
+      118,
+      141,
+      194,
+      212,
+      228,
+      240,
+      256,
+      348,
+      365,
+      365,
+      365,
+      365
+    ],
     "violin": [
       45,
       47,
@@ -340,6 +355,21 @@
       151,
       170,
       289
+    ],
+    "waterphone": [
+      85,
+      93,
+      94,
+      114,
+      129,
+      181,
+      206,
+      221,
+      251,
+      352,
+      365,
+      365,
+      365
     ],
     "celesta": [
       69,
@@ -382,6 +412,33 @@
       328,
       340,
       356
+    ],
+    "prepared piano": [
+      89,
+      95,
+      131,
+      183,
+      208,
+      228,
+      243,
+      345,
+      365,
+      365,
+      365,
+      365
+    ],
+    "bowed vibraphone": [
+      85,
+      99,
+      128,
+      143,
+      193,
+      218,
+      239,
+      255,
+      305,
+      341,
+      364
     ],
     "cimbalom": [
       98,
@@ -487,6 +544,19 @@
       341,
       357
     ],
+    "tuba": [
+      82,
+      104,
+      131,
+      192,
+      207,
+      223,
+      235,
+      253,
+      334,
+      350,
+      365
+    ],
     "tubular bells": [
       101,
       119,
@@ -500,6 +570,31 @@
       339,
       353
     ],
+    "upright bass": [
+      109,
+      122,
+      136,
+      187,
+      213,
+      228,
+      242,
+      271,
+      329,
+      343,
+      365
+    ],
+    "bass flute": [
+      100,
+      120,
+      134,
+      185,
+      208,
+      226,
+      241,
+      304,
+      336,
+      364
+    ],
     "bass trombone": [
       102,
       121,
@@ -511,18 +606,6 @@
       250,
       319,
       359
-    ],
-    "bowed vibraphone": [
-      85,
-      99,
-      128,
-      143,
-      193,
-      218,
-      239,
-      255,
-      305,
-      341
     ],
     "glass harmonica": [
       32,
@@ -560,6 +643,18 @@
       249,
       330
     ],
+    "marimba": [
+      137,
+      192,
+      211,
+      237,
+      258,
+      330,
+      345,
+      365,
+      365,
+      365
+    ],
     "tenor saxophone": [
       107,
       123,
@@ -572,30 +667,6 @@
       332,
       355
     ],
-    "tuba": [
-      82,
-      104,
-      131,
-      192,
-      207,
-      223,
-      235,
-      253,
-      334,
-      350
-    ],
-    "upright bass": [
-      109,
-      122,
-      136,
-      187,
-      213,
-      228,
-      242,
-      271,
-      329,
-      343
-    ],
     "viola da gamba": [
       113,
       126,
@@ -606,29 +677,6 @@
       237,
       246,
       259,
-      336
-    ],
-    "waterphone": [
-      85,
-      93,
-      94,
-      114,
-      129,
-      181,
-      206,
-      221,
-      251,
-      352
-    ],
-    "bass flute": [
-      100,
-      120,
-      134,
-      185,
-      208,
-      226,
-      241,
-      304,
       336
     ],
     "clavichord": [
@@ -697,17 +745,6 @@
       318,
       360
     ],
-    "subcontrabass saxophone": [
-      86,
-      118,
-      141,
-      194,
-      212,
-      228,
-      240,
-      256,
-      348
-    ],
     "trumpet": [
       83,
       92,
@@ -718,6 +755,17 @@
       326,
       338,
       354
+    ],
+    "vibraphone": [
+      110,
+      130,
+      195,
+      235,
+      312,
+      337,
+      349,
+      365,
+      365
     ],
     "duduk": [
       32,
@@ -738,16 +786,6 @@
       225,
       247,
       315
-    ],
-    "prepared piano": [
-      89,
-      95,
-      131,
-      183,
-      208,
-      228,
-      243,
-      345
     ],
     "theremin": [
       101,
@@ -795,15 +833,6 @@
       290,
       292
     ],
-    "marimba": [
-      137,
-      192,
-      211,
-      237,
-      258,
-      330,
-      345
-    ],
     "mbira": [
       109,
       124,
@@ -839,15 +868,6 @@
       329,
       343,
       356
-    ],
-    "vibraphone": [
-      110,
-      130,
-      195,
-      235,
-      312,
-      337,
-      349
     ],
     "viola": [
       45,
@@ -965,6 +985,10 @@
       190,
       310
     ],
+    "wagner tuba": [
+      313,
+      364
+    ],
     "baritone saxophone": [
       346
     ],
@@ -976,9 +1000,6 @@
     ],
     "ney": [
       278
-    ],
-    "wagner tuba": [
-      313
     ]
   },
   "genres": {
@@ -1183,13 +1204,10 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257,
-      314,
       324,
       325,
       326,
@@ -1215,7 +1233,18 @@
       356,
       358,
       359,
-      362
+      362,
+      365,
+      365
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1226,25 +1255,21 @@
       297,
       301
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
+    "techno": [
+      279,
+      352,
+      355,
+      365
+    ],
+    "amapiano": [
+      266,
+      343,
+      365
     ],
     "romantic": [
       145,
       149,
       313
-    ],
-    "techno": [
-      279,
-      352,
-      355
-    ],
-    "amapiano": [
-      266,
-      343
     ],
     "baroque": [
       188,
@@ -1253,6 +1278,10 @@
     "drone": [
       304,
       305
+    ],
+    "garage": [
+      353,
+      365
     ],
     "jazz": [
       336,
@@ -1277,9 +1306,6 @@
     ],
     "drill": [
       282
-    ],
-    "garage": [
-      353
     ],
     "lo-fi": [
       296
@@ -1505,6 +1531,18 @@
       333,
       358
     ],
+    "d-flat minor": [
+      103,
+      129,
+      215,
+      227,
+      243,
+      259,
+      340,
+      365,
+      365,
+      365
+    ],
     "c-sharp minor": [
       117,
       179,
@@ -1515,6 +1553,17 @@
       257,
       341,
       353
+    ],
+    "e-flat minor": [
+      79,
+      109,
+      123,
+      213,
+      224,
+      237,
+      255,
+      348,
+      365
     ],
     "f-sharp minor": [
       89,
@@ -1537,16 +1586,6 @@
       334,
       355
     ],
-    "e-flat minor": [
-      79,
-      109,
-      123,
-      213,
-      224,
-      237,
-      255,
-      348
-    ],
     "g major": [
       42,
       120,
@@ -1556,6 +1595,16 @@
       335,
       354,
       360
+    ],
+    "g-sharp minor": [
+      143,
+      180,
+      214,
+      225,
+      241,
+      252,
+      352,
+      365
     ],
     "c# minor": [
       68,
@@ -1574,24 +1623,6 @@
       184,
       242,
       350
-    ],
-    "d-flat minor": [
-      103,
-      129,
-      215,
-      227,
-      243,
-      259,
-      340
-    ],
-    "g-sharp minor": [
-      143,
-      180,
-      214,
-      225,
-      241,
-      252,
-      352
     ],
     "d-sharp minor": [
       210,
@@ -1615,6 +1646,13 @@
       247,
       337,
       359
+    ],
+    "c major": [
+      39,
+      110,
+      203,
+      331,
+      364
     ],
     "e-flat major": [
       128,
@@ -1661,12 +1699,6 @@
       264,
       300
     ],
-    "c major": [
-      39,
-      110,
-      203,
-      331
-    ],
     "eb major": [
       37,
       51,
@@ -1695,6 +1727,9 @@
     ],
     "db major": [
       46
+    ],
+    "db minor": [
+      365
     ],
     "f# major": [
       275
@@ -2012,7 +2047,8 @@
     ],
     "114": [
       139,
-      344
+      344,
+      365
     ],
     "115": [
       106,
@@ -2042,7 +2078,9 @@
       99,
       273,
       318,
-      354
+      354,
+      365,
+      365
     ],
     "121": [
       141,
@@ -2094,11 +2132,14 @@
       146,
       248,
       268,
-      357
+      357,
+      364,
+      365
     ],
     "133": [
       221,
-      353
+      353,
+      365
     ],
     "134": [
       142,
@@ -2256,6 +2297,9 @@
       72,
       269
     ],
+    "175": [
+      365
+    ],
     "200": [
       70
     ],
@@ -2264,6 +2308,97 @@
     ]
   },
   "titles": [
+    {
+      "version": 365,
+      "title": "Bruise",
+      "name": "bruise-cand365",
+      "featured": [
+        "prepared piano",
+        "marimba",
+        "waterphone"
+      ],
+      "genre": "amapiano",
+      "key": "e-flat minor",
+      "bpm": 114
+    },
+    {
+      "version": 365,
+      "title": "Harmattan",
+      "name": "burning-cand365",
+      "featured": [
+        "subcontrabass saxophone",
+        "marimba",
+        "prepared piano"
+      ],
+      "genre": "house",
+      "key": "d-flat minor",
+      "bpm": 120
+    },
+    {
+      "version": 365,
+      "title": "Coolant",
+      "name": "coolant-cand365",
+      "featured": [
+        "waterphone",
+        "prepared piano",
+        "subcontrabass saxophone"
+      ],
+      "genre": null,
+      "key": "d-flat minor",
+      "bpm": 175
+    },
+    {
+      "version": 365,
+      "title": "Fourier",
+      "name": "fourier-cand365",
+      "featured": [
+        "waterphone",
+        "subcontrabass saxophone",
+        "vibraphone"
+      ],
+      "genre": "techno",
+      "key": "db minor",
+      "bpm": 133
+    },
+    {
+      "version": 365,
+      "title": "Glass",
+      "name": "glass-cand365",
+      "featured": [
+        "vibraphone",
+        "upright bass",
+        "tuba"
+      ],
+      "genre": "garage",
+      "key": "g-sharp minor",
+      "bpm": 132
+    },
+    {
+      "version": 365,
+      "title": "Harmattan",
+      "name": "harmattan",
+      "featured": [
+        "subcontrabass saxophone",
+        "marimba",
+        "prepared piano"
+      ],
+      "genre": "house",
+      "key": "d-flat minor",
+      "bpm": 120
+    },
+    {
+      "version": 364,
+      "title": "Empty",
+      "name": "empty-v364",
+      "featured": [
+        "bowed vibraphone",
+        "bass flute",
+        "wagner tuba"
+      ],
+      "genre": null,
+      "key": "c major",
+      "bpm": 132
+    },
     {
       "version": 363,
       "title": "Depth",
@@ -2861,7 +2996,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -4410,7 +4545,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -4561,7 +4696,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

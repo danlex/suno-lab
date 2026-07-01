@@ -1,0 +1,81 @@
+name: "coolant-v365"
+version: 365
+title: "Coolant"
+instrumental: false
+vocal_gender: male
+
+style: "Electronic body music, industrial dance, cold confrontational machinery at 175 BPM in D-flat minor, modulating to D minor at the system-reboot climax. Waterphone provides tonal scrape and ringing decay bleeding into the grid; prepared piano delivers percussive detuned attacks that ARE the rhythm, not ornament; subcontrabass saxophone anchors a sub-bass drone beneath the synthetic kick. Rigid bassline loops without deviation. Hook delivered flat, no melodic inflection — cold incantation of a cataloguing system. Drum machine locked until stutter-glitch fractures the beat into polyrhythm at 2:00 — malfunction, then reboot at higher voltage as the modulation lands. Sidechain-compressed mix: low-end punch, razor transients, floor pressure. Underscore for an EBM club floor at midnight: bodies logged as inventory, sweat as lubrication data, steel presses marking time. No guitars, no rock drums, no pipe organ, no acoustic warmth, no ambient wash."
+
+lyrics: |
+  [Intro: drum machine pulse, saxophone drone, 8 bars]
+
+  [Verse 1: vocal over locked bassline, 0:14]
+  Sweat reads as coolant
+  Your jaw fits the mold
+  Tolerance: zero point four
+  Everything measured, nothing told
+
+  [Chorus: rigid punch on Db root, 0:44]
+  Sweat reads as coolant
+  Sweat reads as coolant
+  Inventory sealed
+
+  [Verse 2: metrics escalate, 1:00]
+  Output logged at six-fifteen
+  Pressure nominal, seams aligned
+  Your jaw fits the mold again
+  Tolerance: zero point four refined
+
+  [Chorus: waterphone scrape intensifies, 1:30]
+  Sweat reads as coolant
+  Sweat reads as coolant
+  Inventory sealed
+
+  [Mechanical Interlude: lyric-free grid, drum locked, 36 bars — 1:48]
+
+  [Build: stutter-glitch at 2:00, polyrhythm fracture]
+
+  [Climax: D minor reboot, last vocal at 2:40]
+  Sweat reads as coolant
+  Your jaw fits the mold
+  Tolerance: zero point four
+  Inventory closed
+
+  [Outro: instrumental decay at 2:50, drone sustain, 24 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, warm, organic, cinematic ambient, industrial metal, noise rock"
+
+notes: |
+  Electronic body music is a genre crystallized in the 1980s at the intersection of Belgian and German industrial dance culture — rigid drum machine patterns at aggressive tempos, confrontational cold vocals, synthetic basslines that repeat without variation, and a central thesis that the human body is indistinguishable from machinery. The aesthetic emerges from post-punk industrial culture stripped to its hardest functional elements. The concept source passed here is "the biometric misclassification thesis": the body's distress signal (sweat) is catalogued by the system as a machine lubricant (coolant) — the body as inventory, its signals as engineering data. The echo of that 1980s Belgian/German tradition is present throughout; no project names or artist names are used per blocklist discipline.
+
+  Duration strategy: 175 BPM places this in the proven duration band where bar counts translate reliably to wall-clock time. The lyric-free mechanical interlude (36 bars) between verse/chorus cycles and verse 2/chorus cycles is the primary duration lever — community-documented as the move that clears 3:00 at this tempo. Last lyric timestamp pushed to approximately 2:40 with a long rigid instrumental outro beginning at 2:50. Total bar count: ~188 bars, targeting 3:00–3:30 wall-clock. Production tokens: polished studio mix, deep low-end definition, wide stereo stage. Sentence case throughout — no ALL-CAPS form labels. Atmospheric-first opening leads with the genre and temperature. Two of three instruments are body voices (prepared piano, subcontrabass saxophone); waterphone is the one permitted spectral pick.
+
+  Trio instruments and roles:
+  - Waterphone (gap 13): metallic scrape and ringing decay; provides the inhuman texture that blurs the boundary between machine noise and resonance.
+  - Prepared piano (gap 20): percussive detuned rhythmic attacks; replaces what a standard piano would do melodically — here it is purely rhythmic and industrial, locking to the drum machine grid.
+  - Subcontrabass saxophone (gap 17): sub-bass drone; the lowest pitched saxophone variant, anchoring the foundation below the synthetic bassline and providing the "coolant" texture in sound — slow, massive, continuous.
+
+  Novelty claims: EBM is a catalog debut genre. 175 BPM is an unused BPM in the catalog. The machine-malfunction escalation climax (stutter-glitch → polyrhythm fracture → modulation as system reboot) avoids the build-strip-half-step-lift formula by framing the key change as a state change rather than a vocal lift. Style char count: 917.
+
+tags:
+  - waterphone
+  - prepared-piano
+  - subcontrabass-saxophone
+  - 175bpm
+  - db-minor
+  - d-minor
+  - midnight-factory-scene
+  - revival-waterphone-13-gap
+  - revival-prepared-piano-20-gap
+  - revival-subcontrabass-saxophone-17-gap
+  - new-technique
+  - new-bpm
+  - new-genre-ebm
+  - duration-3min
+  - research-driven
+  - ebm
+  - industrial-dance
+  - machine-malfunction-climax
+  - catalog-debut-genre
