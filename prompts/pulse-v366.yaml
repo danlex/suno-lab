@@ -1,0 +1,88 @@
+name: "pulse-v366"
+version: 366
+title: "Pulse"
+instrumental: false
+vocal_gender: female
+
+style: "Dark dance-pop at 4am when you've stopped trying to stop — surrender to your own momentum, urgent and a little reckless. Polished studio mix, wide stereo stage, deep low-end definition at 122 BPM in C minor, lifting to Db minor at the final chorus. Four-on-the-floor kick with syncopated snare ghost, driving synth bass on the root and b7, sidechained pads breathing with the groove. Electric piano threads through the verses, warm under the cold synth surface. Vocal lead sits close and plainspoken — first-person, emotionally direct, no runs, a voice confessing rather than performing. Chorus lands hard at 0:28: two punching lines, root-anchored melody anyone can sing after one listen. Beat strips to kick-and-bass in a 16-bar post-chorus vamp; final chorus arrives with the key already lifted, melody returning at a register that feels like breaking through. No guitars, no rock drums, no pipe organ, no harsh noise, no ambient drift."
+
+lyrics: |
+  [Hook: full beat, 0:00]
+  I don't know how to stop
+  I don't want to
+  I don't know how to stop
+  I don't want to
+
+  [Verse 1: 0:28]
+  Been here before at the edge of the door
+  One hand on the handle, one foot on the floor
+  Told myself this time I'd walk away clean
+  But clean is the one thing I've never been
+
+  [Pre-Chorus: 1:00]
+  Something in my chest just won't let go
+  Every time I try it pulls me back below
+
+  [Chorus: full production, 1:16]
+  I don't know how to stop
+  I don't want to
+  I don't know how to stop
+  I don't want to
+
+  [Instrumental Vamp: 1:38]
+
+  [Verse 2: 2:05]
+  The damage is old, the hunger is new
+  I've made every promise and broken it too
+  But some things you carry like they carry you
+  And I stopped asking which one is true
+
+  [Pre-Chorus: pads rebuild, 2:28]
+  Something in my chest just won't let go
+  Every time I try it pulls me back below
+
+  [Final Chorus: Db minor, 2:42]
+  I don't know how to stop
+  I don't want to
+  I don't know how to stop
+  I don't — I don't want to
+
+  [Outro: fade from 2:50]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac, indie folk, country, R&B, trap, hip hop, ballad, shoegaze"
+
+notes: |
+  This prompt is the real v366 ship, replacing the stalled tournament candidates. It takes direct signal from the current #1 Suno explore track — plainspoken first-person conversational lyrics, a universal emotional theme, clean modern production — and pairs it with our audience's known preference for danceable and edgy. The result is dark dance-pop / electro-pop: accessible enough to sing along to after one listen, with enough groove and production edge to satisfy the beat-driven crowd.
+
+  The theme is momentum and surrender — being fully all-in on something and either unable or unwilling to stop, with a vulnerable underside about having tried to walk away and failed. This is broader and more relatable than romantic heartbreak alone; it maps onto obsession, self-identity, love, addiction to a feeling. The hook "I don't know how to stop / I don't want to" is deliberately plain: a short two-line declarative that admits both the loss of control and the complicity in it. No obscure metaphors, no clever wordplay — just the emotional truth spoken directly.
+
+  Genre anchor: dark dance-pop / electro-pop at 122 BPM, four-on-the-floor with syncopated ghost snare, a classic pocket that serves the groove without going too fast or too slow. C minor gives it the needed emotional weight; the lift to Db minor at the final chorus is the earned modulation — arrived at not through a silence-gate gimmick but through the key already being shifted when the chorus drops. The final chorus melody returns at a higher register that feels like breaking through rather than being rescued.
+
+  Duration levers: chorus hits immediately at bar one (0:00) so the hook is planted before the verse even starts — hook-first structure per the brief. The 16-bar kick-and-bass instrumental vamp (1:38–2:05) is the primary 3:00 lever, community-documented as the structural move that clears that threshold at this BPM. Final lyric pushed to approximately 2:42 with a 16-bar instrumental outro fading from 2:50. Total arc targeting 3:00–3:20 wall-clock.
+
+  Instrumentation rationale: the brief explicitly asks for normal pop instrumentation and forbids forcing obscure chamber instruments. The instrument palette is synth bass, pads, four-on-the-floor kick, snare ghost, and a single electric piano color thread — all serving the song and the genre. No unusual trio forced; simplicity is the point here.
+
+  Climax design is non-formulaic: no explicit [Silence] metatag (documented to truncate renders), no build-then-pause-then-half-step-lift as a standalone gimmick. Instead the key lift (C minor → Db minor) is embedded inside the final chorus landing — the beat never fully stops, the modulation arrives with the drop rather than after a silence. The effect is momentum, not interruption.
+
+  Style char count: 936.
+
+tags:
+  - dark-dance-pop
+  - electro-pop
+  - 122bpm
+  - c-minor
+  - db-minor
+  - surrender-momentum-scene
+  - hook-first
+  - vocal
+  - female-vocal
+  - four-on-the-floor
+  - duration-3min
+  - research-driven
+  - charts-signal
+  - accessible
+  - danceable
+  - modulation-climax
+  - real-ship-v366
