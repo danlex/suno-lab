@@ -1,5 +1,11 @@
 # Cron failure log
 
+### 2026-07-11 — v389 STALL (autonomous /loop, 2 drafts) — Afropop-dancehall → Afro-house, best 78/d8. NOT SHIPPED.
+Concept: "communal joy + edge of longing" — the last songs of a night, hook "Three more songs and then I lose you" (hook-writer 22/25). Draft 1 (Afropop/dancehall one-drop, 108 BPM, A major) STALLED 71/d7 — danceability only 8/15, judge: 108 one-drop too mellow for our beat-driven audience. Re-draft (Afro-house, 123 BPM, A minor, four-on-the-floor) lifted danceability 8→13/15 (fix worked) but still STALLED 78 — honest concept ceiling ~79-81.
+Root cause = concept-level, not editable: (D2 14/20) the bittersweet-dancefloor-farewell theme overlaps v367 ("you look like a memory already", UK garage) DNA; (D6 7/10) strip→drop climax is club-standard; (D1 21/25) countdown hook is literary, no melodic fingerprint in text.
+LESSON for the loop: (1) accessible-vocal is necessary but NOT sufficient — the lane must be genuinely beat-driven (≥~120 BPM, driving groove); mellow mid-tempo (one-drop/108) caps danceability. (2) Avoid re-treading the "dancefloor goodbye / you're already a memory" emotional register — it's now a catalog near-neighbor (v367, v389). Next cycles need a distinct emotional theme AND a hook with a stronger in-render melodic identity AND a genuinely novel climax device (not strip→drop, not half-step).
+Action: logged, advancing loop to v390 with a fresher concept. Did NOT ship the stalled 78. Stray file prompts/countdown389-v389.yaml left uncommitted as scrap.
+
 ### 2026-06-30 — v365 ALL-STALL — 5-candidate MoA tournament (afro house/EBM/UK garage/amapiano/dark techno). Best: EBM 80. Root cause: ALL 5 candidates used half-step modulation (Db→D, Eb→E, G#→A) as the climax device → Dim 6 capped at 5/10 on every candidate. Rescue attempt pending with texture-explosion climax on afro house (debut).
 
 Scores: EBM "Coolant" 80/d7, UK Garage "Glass" 76/d7, Amapiano "Bruise" 76/d7, Dark Techno "Fourier" 69/d8, Afro House "Harmattan" (judge hit session limit, estimated ~80).
