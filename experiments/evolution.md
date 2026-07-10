@@ -411,6 +411,7 @@ mindmap
 | 364 | Empty | Hook-first 5-candidate MoA tournament (5 fresh debut/rare moderate-BPM danceable lanes: broken-beat/electroclash/kuduro/moombahton/dembow). WINNER electroclash (catalog DEBUT genre), hook 'Calibrated, empty' (21/25 — deadpan android self-diagnosis, EN+FR), texture-explosion climax (sparse cold track erupts to full density from near-nothing). bowed vibraphone + bass flute + wagner tuba. Judge 84/100 critical rubric (ties 2nd-highest ever; distinctiveness 18/20), danceability 8, 3:03+2:47 renders (fuller-arc recipe holding — both clips cleared duration target). Runners-up: moombahton 'Pool' 80, broken-beat 'Late' 77, dembow 'Neon' 75, kuduro 'Bells' 66. | C major | 132 | bowed vibraphone, bass flute, wagner tuba |
 | 365 | Coolant | machine-malfunction climax (stutter-glitch to polyrhythm fracture to modulation as system reboot) | D-flat minor to D minor | 175 | waterphone, prepared piano, subcontrabass saxophone |
 | 366 | Pulse | charts-signal vocal dark-dance-pop; plainspoken universal first-person hook; Db-minor modulation climax (no silence gate) | C minor to Db minor | 122 | synth bass, sidechained pads, electric piano |
+| 367 | Memory367 | melancholy-uplift UK 2-step garage vocal pop; anticipatory-acceptance theme (You look like a memory already); stripped-bridge to full-chorus density-contrast climax (no half-step, no silence gate) | F-sharp minor | 130 | shuffled hi-hats, sub bass, synth pads |
 
 ## Next-cycle priorities
 

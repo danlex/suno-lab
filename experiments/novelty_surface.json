@@ -1,6 +1,6 @@
 {
-  "total_prompts": 371,
-  "latest_version": 366,
+  "total_prompts": 372,
+  "latest_version": 367,
   "instruments": {
     "piano": [
       1,
@@ -142,7 +142,8 @@
       322,
       323,
       324,
-      366
+      366,
+      367
     ],
     "pipe organ": [
       1,
@@ -187,7 +188,8 @@
       322,
       323,
       324,
-      366
+      366,
+      367
     ],
     "cello": [
       33,
@@ -1214,6 +1216,7 @@
       327
     ],
     "chamber": [
+      191,
       192,
       203,
       252,
@@ -1253,6 +1256,11 @@
       297,
       301
     ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
     "techno": [
       279,
       352,
@@ -1262,17 +1270,13 @@
       266,
       343
     ],
-    "baroque": [
-      188,
-      191
-    ],
-    "concerto": [
-      145,
-      149
-    ],
     "drone": [
       304,
       305
+    ],
+    "garage": [
+      353,
+      367
     ],
     "jazz": [
       336,
@@ -1296,6 +1300,9 @@
     "afrobeats": [
       270
     ],
+    "baroque": [
+      188
+    ],
     "breakbeat": [
       357
     ],
@@ -1305,17 +1312,11 @@
     "footwork": [
       366
     ],
-    "garage": [
-      353
-    ],
     "lo-fi": [
       296
     ],
     "progressive house": [
       96
-    ],
-    "romantic": [
-      313
     ],
     "synthwave": [
       1
@@ -1537,6 +1538,18 @@
       333,
       358
     ],
+    "f-sharp minor": [
+      89,
+      119,
+      144,
+      194,
+      219,
+      236,
+      256,
+      336,
+      357,
+      367
+    ],
     "c-sharp minor": [
       117,
       179,
@@ -1547,17 +1560,6 @@
       257,
       341,
       353
-    ],
-    "f-sharp minor": [
-      89,
-      119,
-      144,
-      194,
-      219,
-      236,
-      256,
-      336,
-      357
     ],
     "a-flat minor": [
       107,
@@ -2124,7 +2126,8 @@
       292,
       363,
       366,
-      366
+      366,
+      367
     ],
     "131": [
       220
@@ -2309,6 +2312,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 367,
+      "title": "Memory367",
+      "name": "memory367-v367",
+      "featured": [],
+      "genre": "garage",
+      "key": "f-sharp minor",
+      "bpm": 130
+    },
     {
       "version": 366,
       "title": "Couteau",
@@ -4388,7 +4400,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "baroque",
+      "genre": "chamber",
       "key": "e minor",
       "bpm": 51
     },
@@ -4825,7 +4837,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -4861,7 +4873,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

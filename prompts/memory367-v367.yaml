@@ -1,0 +1,93 @@
+name: "memory367-v367"
+version: 367
+title: "Memory367"
+instrumental: false
+vocal_gender: female
+
+style: "Bittersweet summer feeling — knowing something beautiful is already ending while you're still inside it — as UK two-step garage vocal pop at 130 BPM in F-sharp minor. Polished studio mix, wide stereo stage, deep low-end definition. Crisp shuffled hi-hats over a warm sub bass pulse. Bright clean synth pads; a tight sidechained pad breathes with the groove. Close plainspoken female vocal at the front of the mix — confessional, clear-eyed, no runs. The hook \"you look like a memory already\" lands on a triplet arc across the 2-step shuffle accent, falling minor third on \"already\" resolving to F-sharp tonic. Verses are low and intimate; the chorus fills with synth and percussion; a stripped bridge of vocal-and-hi-hat only precedes the final chorus re-entry. Danceable and luminous on the surface, something quietly aching underneath. No guitars, no rock drums, no pipe organ, no synthesizer arpeggios, no grime basslines."
+
+lyrics: |
+  [Hook: 2-step, 0:00]
+  You look like a memory already
+  You look like a memory already
+
+  [Verse 1: 0:18]
+  I walked in knowing how this ends
+  Counted every exit sign
+  Told myself I'd hold the border
+  And I crossed it every time
+
+  [Pre-Chorus: 0:45]
+  I'm not surprised, I'm not afraid
+  I just want to stay inside the mistake
+
+  [Chorus: 1:00]
+  You look like a memory already
+  Standing here in the light
+  You look like a memory already
+  And I'm choosing tonight
+
+  [Vamp: 2-step, 1:24]
+
+  [Verse 2: 1:52]
+  The way you move like no one's watching
+  That's the part that gets me every time
+  I know I'll keep this image somewhere
+  Long after you've left my mind
+
+  [Pre-Chorus: 2:18]
+  I'm not surprised, I'm not afraid
+  I just want to stay inside the mistake
+
+  [Bridge: vocal and hi-hat, 2:32]
+  Already — already
+  I'm here while you're going
+  Already — already
+
+  [Final Chorus: full density, 2:44]
+  You look like a memory already
+  Standing here in the light
+  You look like a memory already
+  And I'm choosing tonight
+
+  [Outro: 3:02]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, grime, dubstep, UK funky, garage house, drum and bass, jungle, UK drill, trip-hop, R&B, trap, hip hop, shoegaze, indie folk, country, vocal cabaret, dancehall"
+
+notes: |
+  UK two-step garage vocal pop is the lane: that late-2025 / summer-2026 chart cluster of bittersweet, danceable songs with plainspoken female vocals over a shuffled garage beat — accessible, emotionally honest, clean production. The concept is anticipatory acceptance: walking into a beautiful thing knowing it will end, choosing it anyway, clear-eyed not regretful. Present-and-gone-at-once. This maps to a universal feeling (love, a night, a friendship, a season) without being cryptically literary — every listener can slot their own story in.
+
+  The hook "you look like a memory already" is the whole thesis stated plainly: you are here and already becoming the past. The triplet arc on "memory" across the 2-step shuffle accent is the melodic fingerprint that separates it from generic sad-pop. The falling minor third on "already" resolving to F-sharp tonic gives it a finish that feels both inevitable and a little heartbreaking — the tonic resolution IS the acceptance.
+
+  Style follows the winning v366 recipe: accessible vocal, danceable, plainspoken, universal, clean modern production. No obscure chamber instruments forced. The brief explicitly requests this lane. Genre: UK two-step garage vocal pop, 130 BPM, F-sharp minor. Polished studio mix, wide stereo stage, deep low-end definition as production tokens. Sentence case throughout, atmospheric-first opening.
+
+  Climax design is non-formulaic per the brief: the stripped bridge (vocal + hi-hat only) contrasts against the full final chorus re-entry without using an explicit [Silence] metatag (documented to truncate renders) and without a half-step modulation gimmick. The density contrast IS the climax — the listener senses the near-absence before the full beat comes back.
+
+  Duration levers: hook-first structure plants the melody at 0:00. A 28-bar post-chorus 2-step instrumental vamp (1:24–1:52) is the primary 3:00 lever (community-documented as the structural move that clears that threshold at 130 BPM). Final lyric pushed to ~2:44 with an instrumental outro fading from 3:02. Target 3:00–3:20 wall-clock. BPM 130 is in the proven 130–160 duration band per playbook rule 8.
+
+  Exclude styles blocks genre drift: grime, dubstep, UK funky, garage house, drum and bass, jungle, UK drill, trip-hop — all adjacent genres that Suno's classifier might drift toward on a UK garage prompt. No artist names appear anywhere.
+
+  Style char count: 925.
+
+tags:
+  - uk-garage
+  - two-step-garage
+  - vocal-pop
+  - 130bpm
+  - f-sharp-minor
+  - bittersweet-summer-scene
+  - hook-first
+  - vocal
+  - female-vocal
+  - shuffled-hihats
+  - sub-bass
+  - synth-pads
+  - anticipatory-acceptance-theme
+  - duration-3min
+  - research-driven
+  - charts-signal
+  - accessible
+  - danceable
+  - stripped-bridge-climax
