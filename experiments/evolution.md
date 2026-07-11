@@ -424,6 +424,7 @@ mindmap
 | 406 | Glow406 | sidechain surge (over-driven sub-bass sidechain pump audible/rhythmic at final chorus, one-beat energy lift, diva peak riding on top; complete call+answer chorus) | E minor | 136 | rolling gritty Reese sub-bass + garage-swing kick/clap + soaring diva vocal |
 | 407 | Dust407 | groove-skeleton reveal (log-drum+kalimba+melodic layers strip to naked vocal over continuing kick+bass for 4 bars, then groove crashes back MORE abundant with added shaker+secondary conga; complete call+answer chorus) | B major | 125 | log-drum + kalimba (major-6th harmonic anchor) + conga/shaker over driving sidechain kick |
 | 408 | Versions408 | bass-becomes-melody (Reese bass pitched to play the answer hook melody G#-F#-E-D#-C# for 8 bars — machine sings the verdict — then slams back at double density; complete call+answer chorus, 'still' syntactic trap, 24/25 hook) | C# minor | 174 | chopped Amen break + squelching Reese bass stabs + soaring female vocal |
+| 410 | Autograph410 | metric stutter-expand (triplet grid lurches into a displaced 3/4 stagger for 4 bars, then snaps back to full 140 4/4 with doubled bed-squeak density + a new upper melody an octave up; complete call+answer chorus, verb-noun-collision hook) | Ab major | 140 | triplet-kick pattern + bed-squeak percussion + chopped vocal stabs |
 
 ## Next-cycle priorities
 

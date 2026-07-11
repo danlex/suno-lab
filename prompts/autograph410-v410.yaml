@@ -1,0 +1,84 @@
+name: "autograph410"
+version: 410
+style: "Hard-edged Jersey Club bounce with defiant-exhilaration heat — percussive and lurching, never warm. Polished studio mix, wide stereo stage, deep low-end definition. 140 BPM, Ab major. The signature triplet kick drives everything: two quarter kicks, two dotted-eighth kicks, one eighth kick — the floor stutters before it drops. Bed-squeak percussion cracks in the gaps, thundering bass locks to the kick, chopped and re-pitched vocal stabs punctuate every phrase. A confident sung female topline with a real melodic arc delivers the hook clean, then gets chopped into hard-consonant cells that ride the groove. Stabs sparse in the verse, dense at the chorus drop. At the climax the triplet grid lurches into a 3/4 stagger for four bars, chopped stabs stretching unresolved, then snaps back to 140 BPM 4/4 doubled with a new upper melody line. Underscore for defiance. No guitars, no rock drums, no pipe organ, no live band kit, no pads."
+title: "Autograph410"
+lyrics: |
+  [Intro: 0:00]
+
+  [Verse 1: 0:10]
+  Measured every exit
+  Marked the door on my way through
+  Kept the receipt for damage
+  Filed it under me and you
+  Cause the losses all were mine
+
+  [Pre-Chorus: 0:34]
+  You thought the wreckage meant I broke
+  I signed it like a work of art
+
+  [Chorus: 0:46]
+  I autographed the damage on my way out
+  Signed it where it hurt the most
+  I autographed the damage on my way out
+  Signed it where it hurt the most
+
+  [Verse 2: 1:12]
+  Calibrated the angle
+  Signed the wound and caught the light
+  Didn't even flinch
+  Ticked each consequence in ink
+
+  [Pre-Chorus: 1:30]
+  You think departure means defeat
+  The scar is just my signature
+
+  [Chorus: 1:42]
+  I autographed the damage on my way out
+  Signed it where it hurt the most
+  I autographed the damage on my way out
+  Signed it where it hurt the most
+
+  [Vamp: 2:08]
+
+  [Stutter]
+
+  [Chorus: 2:45]
+  I autographed the damage on my way out
+  Signed it where it hurt the most
+  I autographed the damage on my way out
+  Signed it where it hurt the most
+
+  [Outro: 3:10]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "trap, drill, house, techno, drum and bass, garage, trance, hardstyle, reggaeton, hip hop, chipmunk pitch processing, acoustic guitar, rock, metal, lo-fi, pipe organ, EDM, new age, experimental noise, free jazz, atonal, Arabic, tribal, world music, cinematic ambient, intimate chamber, elegiac"
+notes: |
+  Jersey Club is a Newark-born regional club music defined by its triplet kick pattern (two quarter kicks, two dotted-eighth kicks, one eighth kick), bed-squeak percussion samples, thundering bass, and chopped/re-pitched vocal stabs — rhythmically it belongs to a distinct family from 4/4 electronic lanes (house, techno, drum and bass) and produces a stuttering, lurching bounce at 130-160 BPM. This cycle's concept source: defiant exhilaration — the electric confidence of claiming a reckless act as authorship, signing the damage on the way out, knowing exactly where precision lands.
+
+  This is a catalog debut for the Jersey Club rhythmic family. The call+answer chorus was pre-scored as a unit (23/25): the CALL 'I autographed the damage on my way out' traces a rise-then-chromatic-slide arc (Ab4 → Db5 → Eb5 → chromatic D5 on 'age' — the dissonant fingerprint — → root Ab4 snap on 'OUT'), and the ANSWER 'Signed it where it hurt the most' inverts it (Eb5 → peak blue-note Gb5 on 'HURT' → resting on C5, degree 3, leaning forward). The two contours mirror-invert: call descends to root, answer rises then rests unresolved.
+
+  Climax device: metric stutter-expand (catalog fresh, not drawn from the used list). The triplet grid lurches into a displaced 3/4 stagger for four bars — the chopped stabs [AU-TO-GRAPHED] and [DAM-AGE] each claim a beat of the 3/4, the chromatic D5 hanging unresolved — then the grid snaps back to 140 BPM 4/4 with bass thundering, bed-squeak doubled, and a new upper melody doubling the answer contour an octave higher. No [Silence] tag; no half-step key change.
+
+  Duration lever: an explicit ~38-bar instrumental vamp (triplet kick + pitched vocal chops, no full lyric) mid-song, plus final sung line pushed to ~2:45+. 140 BPM in the proven duration band (130-160) with ~170 lyric bars total targets ~3:00 wall-clock.
+
+  Playbook moves: parametrized colon-lyrics with bar counts (every bracket carries a content label and bar count); three production tokens (polished studio mix, wide stereo stage, deep low-end definition); sentence case throughout; atmospheric-first opening leading with the heat and edge before naming tempo/key; inline negatives at close; exclude_styles blocks genre drift including cinematic ambient and elegiac to prevent classifier compression. The triplet kick + bed-squeak + vocal chop stack are the load-bearing production signatures — no synthesizer/vocal ban in exclude_styles to preserve the sung topline and electronic chop production. Vocal topline is female (Jersey Club convention). Style: 921 chars.
+tags:
+  - jersey-club
+  - debut-genre
+  - ab-major
+  - 140bpm
+  - new-bpm
+  - defiant-exhilaration
+  - triplet-kick
+  - vocal-chops
+  - bed-squeak-percussion
+  - call-and-answer
+  - metric-stutter-expand
+  - climax-metric-stutter
+  - duration-3min
+  - research-driven
+  - female-vocal
+  - rhythmic-family-debut
+  - 4x4-meta-flip
