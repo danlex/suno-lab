@@ -1,0 +1,107 @@
+name: "hallway401-v401"
+version: 401
+title: "Hallway401"
+instrumental: false
+vocal_gender: female
+
+style: "Warm late-night yearning in a bright open room — liquid drum-and-bass at 174 BPM with a half-time groove pocket at 87 BPM, in A-flat major, emotionally open and lush. Underscore for a warm midnight vigil, hopeful not tragic. Wide stereo, deep low-end: shuffled 2-step liquid dnb breakbeat, warm Reese-ish sub-bass, lush reverb synth pads. Live alto saxophone is structural co-lead: states the hook alone in the intro, doubles vocal in unison on each chorus, solos over sub-bass in the break, fades alone in the outro. Reverb pads shift harmonic color in the final chorus — borrowed substitutions flood under the sax-vocal unison. Conversational neo-soul vocal, not a belt, Bb4 to Eb5. Hook: four-step rise cresting on sustained Eb5, triplet-fall to root Ab4; sax-and-voice unison is the fingerprint. Final chorus: same melody, new chords underneath. No guitars, no rock drums, no pipe organ, no trance synths, no trumpet leads."
+
+lyrics: |
+  [Intro]
+
+  [Verse 1: 0:14]
+  I kept the afternoon free
+  Just in case you changed your mind
+  Left the window the way you like it
+  Cracked — so the sound could find
+
+  [Pre-Chorus: 0:44]
+  Not holding my breath
+  Just holding the space
+  Everything right where you left it
+  Nothing erased
+
+  [Chorus: 1:00]
+  I left the hall light on
+  I left the hall light on
+  In case you find your way back here tonight
+  I left the hall light on
+
+  [Verse 2: 1:28]
+  I made enough for two
+  I don't know why I do
+  Door unlatched, bowl on the counter
+  Old habit coming through
+
+  [Pre-Chorus: 1:50]
+  Not holding my breath
+  Just holding the space
+  Everything right where you left it
+  Nothing erased
+
+  [Chorus: 2:04]
+  I left the hall light on
+  I left the hall light on
+  In case you find your way back here tonight
+  I left the hall light on
+
+  [Alto Sax Solo: 2:28]
+
+  [Final Chorus: 3:05]
+  I left the hall light on
+  I left the hall light on
+  In case you find your way back here tonight
+  I left the hall light on
+
+  [Outro: 3:38]
+
+  [End]
+
+exclude_styles: "jazz, bebop, bossa nova, smooth jazz, neurofunk, dark dnb, jump-up, ragga, liquid funk cliche, chipmunk pitched vocals, amen breakbeats, hard dnb, drum and bass drop, techstep, breakbeat, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber, sad ballad, euphoric belt, hardstyle, trance anthem, Arabic, tribal, world music"
+
+notes: |
+  Liquid drum-and-bass is a sub-genre of drum and bass characterized by rolling 174 BPM breakbeats (as opposed to the harder neurofunk or jump-up variants), warm Reese-ish sub-bass, and melodic harmonic content; its defining trait is a half-time feel where the groove breathes at roughly 87 BPM while the underlying breakbeat runs at 174, creating an elastic, suspended quality. Neo-soul is a post-Motown style built on conversational mid-register vocal phrasing, warm harmonic language, and live instrumental integration — as opposed to R&B's fuller-production belt. No prior version in the catalog has combined liquid DnB with neo-soul vocal phrasing; this is a debut family pairing. Alto saxophone has never appeared as the hook-carrying signature instrument in the catalog (prior saxophone appearances are tenor, baritone, and subcontrabass in supporting roles).
+
+  Concept source: "yearning and hopeful longing — reaching for someone just out of grasp; the warm ache of almost-having; hopeful not tragic; late-night, open-hearted; leaving a light on in case they come back." Verses use concrete domestic details of waiting (kept the afternoon free, door unlatched, bowl on the counter) rather than abstract emotional statements.
+
+  The hook "I left the hall light on" uses a four-step rising line Bb4→C5→Db5→Eb5 cresting on the sustained fifth Eb5 on the word "hall," then a four-note descending triplet run Db5→C5→Bb4→Ab4 on "light on," landing on the root. The melodic range Bb4–Eb5 sits in a comfortable mid-register for a conversational female neo-soul voice — no belting required. The alto saxophone doubles this arc in unison on each chorus statement, making the sax the co-lead voice rather than a backing texture.
+
+  The climax device is a reharmonization: the final chorus repeats the identical sung melody but the chord underneath the held Eb5 on "hall" shifts from Ab major's stable fifth-above-root to a Cbmaj7 (or enharmonically Bmaj7) borrowed substitution — so the same pitch that was a restful fifth of the home chord becomes the warm major third of the new chord, flooding the note with unexpected color. No key change occurs; no half-step modulation; the melody does not move. This is a deceptive/substitution harmonic device, not a transposition.
+
+  The [Alto Sax Solo Break] at 2:28 provides ~30–40 seconds of lyric-free instrumental content — the primary duration lever per catalog data from v348, v349, and v395. It is placed between the second chorus and the reharmonized final chorus, following the same structural logic that cleared 3:00+ in those cycles. The final sung line lands at approximately 3:25 and an outro sax fade extends to ~3:38+, targeting a 3:30+ wall-clock render.
+
+  Formula-break delivered on four axes: (1) TONALITY — A-flat major, bright and open, breaking a run of dark-minor tracks; (2) VOCAL — smooth conversational mid-register neo-soul phrasing, not a euphoric belt; (3) TIMBRE — live alto saxophone as the signature hook instrument, a catalog debut in that role; (4) STRUCTURE — liquid groove with half-time pocket, not a hard build-drop arc; no [Silence] metatag.
+
+  Duration strategy: 174 BPM is in the proven fast-band (per playbook, BPM 160+ allows bar counts to translate well). The 10-section arc targets 220+ bars total. The explicit alto sax solo break, the extended outro, and the pushed final vocal timestamp to ~3:25 are the three leveraged duration extenders. Concept is forward-motion: open-hearted yearning directed outward, not elegiac lament. Style char count: 910. Blocklist: clean. No artist names anywhere.
+
+tags:
+  - liquid-dnb
+  - neo-soul
+  - debut-family
+  - debut-lane
+  - alto-saxophone
+  - alto-sax-debut-hook-role
+  - 174bpm
+  - ab-major
+  - bright-major-key
+  - formula-break
+  - dark-minor-streak-broken
+  - smooth-conversational-vocal
+  - non-belt-vocal
+  - yearning-scene
+  - hopeful-longing-scene
+  - reharmonization-climax
+  - borrowed-chord-substitution
+  - novel-climax-device
+  - sax-solo-break
+  - half-time-groove
+  - reese-bass
+  - liquid-drums
+  - neo-soul-vocal
+  - domestic-detail-lyrics
+  - forward-motion
+  - female-vocal
+  - vocal
+  - duration-3min
+  - research-driven
+  - danceable
