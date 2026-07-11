@@ -422,6 +422,7 @@ mindmap
 | 403 | Itself403 | grid suspension (all percussion hard-cuts while vocal holds tonic D over a sustained drone — NOT silence — then full grid crashes back at higher gain; absence-as-drop) | D minor | 150 | aggressive four-on-the-floor kick + polyrhythmic synth line + struck crotales (countdown marker) |
 | 405 | Cache405 | timbral-splice storm (complextro drop rapid-cycles 8 synth timbres in 1/16ths AND re-sequences the singer's own vocal cells as at-pitch stutter-texture; complete call+answer chorus) | F minor | 130 | bright digital staccato chord stabs + sub-locked bass + chopped-vocal-as-instrument |
 | 406 | Glow406 | sidechain surge (over-driven sub-bass sidechain pump audible/rhythmic at final chorus, one-beat energy lift, diva peak riding on top; complete call+answer chorus) | E minor | 136 | rolling gritty Reese sub-bass + garage-swing kick/clap + soaring diva vocal |
+| 407 | Dust407 | groove-skeleton reveal (log-drum+kalimba+melodic layers strip to naked vocal over continuing kick+bass for 4 bars, then groove crashes back MORE abundant with added shaker+secondary conga; complete call+answer chorus) | B major | 125 | log-drum + kalimba (major-6th harmonic anchor) + conga/shaker over driving sidechain kick |
 
 ## Next-cycle priorities
 

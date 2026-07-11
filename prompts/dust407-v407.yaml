@@ -1,0 +1,83 @@
+name: "Dust407"
+version: 407
+style: "Underscore for homecoming joy — warm organic afro-house, 125 BPM, B major, polished studio mix. A sidechain-pumped four-on-the-floor kick drives the floor with peak-time forward energy — insistent, not laid-back. Log-drum and conga patterns lock with a continuous shaker on the offbeats, wide stereo spread. A kalimba two-bar melodic cell lifts to the major sixth and resolves — warm, the harmonic anchor. A rounded warm bass holds deep low-end definition. A sung female topline weaves between the congas like a fifth drum — short phrases on offbeats, syllables answering the log-drum hits, intimate in the verse, opening wider in the chorus. Close-miked, warm, plainspoken, forward in the mix. Verses tighter; chorus opens to a fuller, brighter sound. The groove is communal and joyful — organic percussion, a ringing kalimba, and a voice that belongs inside the rhythm. No guitars, no rock drums, no pipe organ, no autotuned pitch shifts."
+title: "Dust407"
+lyrics: |
+  [Intro: log-drum, kalimba, 0:00]
+
+  [Verse 1: 0:12]
+  The chair is still beside the window
+  Where I used to read the light
+  My handprint on the door frame
+  Worn into the wood just right
+  There's a dip in the floorboard
+  Where I always stood to wait
+
+  [Pre-Chorus: 0:33]
+  I didn't ask it to hold on
+  But every corner held my name
+
+  [Chorus: 0:46]
+  They swept the floor but kept my dust
+  My name is still warm in this wood
+  They swept the floor but kept my dust
+  My name is still warm in this wood
+
+  [Groove Vamp: log-drum, kalimba, 1:06]
+
+  [Verse 2: 1:44]
+  A cup kept my colour on the shelf
+  The threshold still remembers every step
+  A crack above the window holds the year
+  I walked away — the house would still be here
+
+  [Chorus: 2:01]
+  They swept the floor but kept my dust
+  My name is still warm in this wood
+  They swept the floor but kept my dust
+  My name is still warm in this wood
+
+  [Skeleton Reveal: kick+bass+vocal, 2:43]
+  They swept the floor but kept my dust
+  My name is still warm in this wood
+
+  [Outro: 3:04]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "amapiano, kwaito, gqom, afrobeats, tribal, world music, reggaeton, deep house piano, chipmunk-pitched, Arabic, metal, lo-fi, electronic EDM, free jazz, atonal, new age, experimental noise, cinematic ambient"
+notes: |
+  Afro-house is a sub-genre of house music developed in southern African club culture, characterized by organic percussion (log-drums, congas, shakers), a driving four-on-the-floor kick, warm bass, and melodic surface instruments like kalimba. It is distinct from amapiano (which leans jazz-log drum + lazy shuffle) and from gqom (harder, more industrial) — afro-house sits at the intersection of club functionality and timbral warmth. The concept source here is homecoming joy: a person returns to a space that has materially preserved their absence, expressed through paradox (the floor was swept but their dust was kept) and sensory memory (the wood remembers the warmth of their name, worn into the grain).
+
+  The composer tradition this echoes — warm communal percussion, a voice that functions rhythmically as a drum layer, and melodic cells that repeat with slight variation — belongs to a lineage this catalog has not sampled before; no specific composer is named per playbook discipline.
+
+  Duration strategy: a ~32-bar log-drum instrumental vamp with no vocal sits between choruses as the primary duration lever (validated from v348/v349 that explicit mid-song instrumental vamps clear 3:00). Final sung line targets ~2:45+ by section placement. The 10-section arc and bar-count colon-syntax give Suno v5.5 per-section length scaffolding. Production tokens applied: polished studio mix, wide stereo stage, deep low-end definition. Style is sentence-case prose (no ALL-CAPS labels). Atmospheric-first opening. This is a vocal track, so 'vocals'/'singing'/'synthesizer' are excluded from the inline negatives and exclude_styles to avoid suppressing needed parts; targeted negatives used instead (no guitars, no rock drums, no pipe organ, no autotuned pitch shifts). Kalimba is a body voice (melodic idiophone, physical resonance); log-drum and conga are body percussion.
+
+  Instrumentation: log-drum (catalog gap: recent use, but new in afro-house family context), kalimba (unusual melodic color in a club context — warm metallic ringing two-bar cell that is the track's melodic fingerprint; catalog debut in afro-house lane), conga (supporting body percussion; interlocks with the vocal topline). The sung female voice functions as a fifth percussion instrument — short offbeat phrases that answer the conga hits rhythmically. This trio is all body instruments; no spectral picks.
+
+  Climax device: Groove Skeleton Reveal — the most emotionally exposed moment. Melodic percussion (log-drum, kalimba, conga pattern) strips away for exactly 4 bars, leaving only kick, bass, and the naked sung vocal. This is NOT a full silence (kick and bass continue) and NOT a kick-withdrawal-return (kick stays). It is the rhythmic skeleton + voice exposed raw — maximum emotional nakedness on the call+answer hook — then the full groove crashes back with a second conga line added underneath and an extra shaker layer on top, making the return demonstrably fuller and more abundant than before. The theatrical boldness is in the contrast: 4 bars of near-nothing, then a return that exceeds the original.
+
+  Chorus call+answer: CALL "They swept the floor but kept my dust" (contour: F#5–E–D#–D#–C#–B, with leap to G# on 'dust', resolving to B on the offbeat conga landing). ANSWER "My name is still warm in this wood" (contour: B–C#–D#–D#–E–D#–E–C#, open 2nd-degree cadence on 'wood', pulling the groove forward without tonic closure). Pre-scored 23/25 as a unit.
+
+  Novelty claims: afro-house is a catalog-debut family (D2); the dust/wood call+answer is the strongest hook unit yet drafted (D1); kalimba as melodic centerpiece in a club context is unusual (D3); 125 BPM four-on-the-floor with insistent forward energy targets the danceability gap identified in warm mid-tempo stalls (D4); homecoming-joy as distinct from catalog laments/elegies (D5); Groove Skeleton Reveal climax is fresh and not on the used-climax list (D6).
+
+  Style char count: 948.
+tags:
+  - afro-house
+  - vocal
+  - female-vocal
+  - log-drum
+  - kalimba
+  - conga
+  - 125bpm
+  - b-major
+  - homecoming-scene
+  - debut-afro-house
+  - new-technique
+  - groove-skeleton-reveal
+  - duration-3min
+  - research-driven
+  - danceability-floor-filling
+  - call-answer-chorus
+  - catalog-debut-family
