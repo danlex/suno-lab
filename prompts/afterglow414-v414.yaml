@@ -1,0 +1,98 @@
+name: "afterglow414-v414"
+version: 414
+title: "Afterglow414"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 72 BPM in A major, slow and weightless. Hypnotic analog synthesizers washed in heavy hall reverb, warm 1970s tape saturation with soft hiss and gentle wobble, a lush spacey soundscape, a round distorted sub-bass, and crisp compressed drums with long reverb tails. An ethereal male falsetto floats at the very front, tender and airy, drenched in reverb and delay, singing a simple catchy hook over deep introspective lines. The mood: the light of a star that died long ago, still arriving — luminous, melancholic, bittersweet, beautiful because it is already gone. It builds from near silence: an intro of pulsing pads and tape hiss, intimate close verses, choruses opening into a wide shimmering wash, a stripped falsetto bridge, then a final chorus of layered harmonies decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune. 72 BPM, A major."
+
+lyrics: |
+  [Intro]
+  A long time gone
+  Still I glow
+
+  [Verse 1]
+  I am the afterglow
+  Of a star that died
+  I crossed the dark alone
+  To find your eyes
+  Nothing left to burn
+  Only the trace
+  A light without a source
+  A warmth without a face
+
+  [Pre-Chorus]
+  By the time you see me
+  I'm already gone
+  Love a thing that isn't there
+  Hold on
+
+  [Chorus]
+  I am the afterglow
+  Still I glow, still I glow
+  Beautiful and over
+  Long ago, long ago
+  Come and hold the light
+  Of something that is gone
+  Falling through your window
+  Every dawn
+
+  [Verse 2]
+  The stars you wish upon
+  Burned out long ago
+  The sky is full of ghosts
+  You'll never know
+  I am the memory
+  Outliving the flame
+  No one left to answer
+  When you call my name
+
+  [Bridge]
+  Gone but shining
+  Gone but near
+  The kindest lie
+  Is light, my dear
+
+  [Final Chorus]
+  I am the afterglow
+  Still I glow, still I glow
+  Beautiful and over
+  Long ago, long ago
+  Hold me while I last
+  A photograph of light
+  The present is a postcard
+  From goodnight
+
+  [Outro]
+  Still I glow
+  Still I glow
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  PIVOT song (v414). User rejected the fast beat-driven debut-genre /loop run (v390-v413) as too similar and redirected to their own loved style — slow dreamy psychedelic-pop / synth-wave (ref: their song "I am the blackhole"). This is a deliberate BIG-VARIANCE departure: slow 72 BPM (vs recent ≥128), ethereal MALE falsetto (vs female belts), warm luminous-bittersweet mood (vs cold/edgy), lush reverby analog production (vs clean/hard digital), through-built dreamy pop structure.
+
+  Theme (user-chosen): Afterglow / dead-star light — first-person as the light of a star that already died, still arriving; beauty and memory that outlive their source. Spare, incantatory, cosmic-existential lyric style matching the reference (short 2-4 word lines). Catchy chorus hook "Still I glow, still I glow" with a deep bittersweet payload ("The present is a postcard / From goodnight").
+
+  Style matches the reference signal: Psychedelic Pop x Dreamy Synth-Wave, hypnotic analog synths, heavy reverb, 1970s tape saturation, ethereal male falsetto, lush spacey, melancholic and airy, very catchy but deep. 72 BPM, A major. exclude_styles blocks hardness/genre-drift without suppressing vocals or synths.
+
+  To be published on Suno (both clips public) AND distributed on DistroKid under artist ELYAI per user request.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 72bpm
+  - a-major
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - lush-spacey
+  - melancholic-airy
+  - cosmic-existential
+  - afterglow-dead-star-theme
+  - slow-tempo
+  - very-catchy-deep
+  - big-variance-pivot
+  - distrokid
