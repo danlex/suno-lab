@@ -1,6 +1,6 @@
 {
-  "total_prompts": 381,
-  "latest_version": 405,
+  "total_prompts": 382,
+  "latest_version": 406,
   "instruments": {
     "organ": [
       1,
@@ -78,7 +78,8 @@
       400,
       401,
       403,
-      405
+      405,
+      406
     ],
     "piano": [
       1,
@@ -207,7 +208,8 @@
       400,
       401,
       403,
-      405
+      405,
+      406
     ],
     "cello": [
       33,
@@ -1187,8 +1189,7 @@
       312,
       316,
       317,
-      319,
-      323
+      319
     ],
     "neoclassical": [
       1,
@@ -1286,26 +1287,30 @@
       355,
       403
     ],
-    "romantic": [
-      145,
-      149,
-      313
+    "garage": [
+      353,
+      367,
+      406
     ],
     "amapiano": [
       266,
       343
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "drone": [
       304,
       305
     ],
-    "garage": [
-      353,
-      367
-    ],
     "jazz": [
       336,
       349
+    ],
+    "minimalist": [
+      201,
+      323
     ],
     "passacaglia": [
       111,
@@ -1342,11 +1347,11 @@
     "lo-fi": [
       296
     ],
-    "minimalist": [
-      201
-    ],
     "progressive house": [
       96
+    ],
+    "romantic": [
+      313
     ],
     "synthwave": [
       1
@@ -1487,7 +1492,8 @@
       303,
       311,
       317,
-      339
+      339,
+      406
     ],
     "g minor": [
       59,
@@ -2200,7 +2206,8 @@
     ],
     "136": [
       138,
-      247
+      247,
+      406
     ],
     "137": [
       222
@@ -2363,6 +2370,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 406,
+      "title": "Glow406",
+      "name": "glow406-v406",
+      "featured": [],
+      "genre": "garage",
+      "key": "e minor",
+      "bpm": 136
+    },
     {
       "version": 405,
       "title": "Cache405",
@@ -3053,7 +3069,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "orchestral",
+      "genre": "minimalist",
       "key": "d minor",
       "bpm": 54
     },
@@ -4969,7 +4985,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -5005,7 +5021,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

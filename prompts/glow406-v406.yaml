@@ -1,0 +1,103 @@
+name: "glow406-v406"
+version: 406
+title: "Glow406"
+instrumental: false
+vocal_gender: female
+
+style: "Underscore for breathless reverence — UK bassline meets speed garage at 136 BPM in E minor, gritty Reese sub-bass rolling thick beneath a diva-style female vocal pushed to the front. Four-to-the-floor kick with deliberate garage swing, crisp clap on 2 and 4, shimmering hi-hat rolls across the off-beats. A pitched bass-synth doubles the Reese an octave up — dense vibrating column in the low-mid. A detuned synth pad breathes beneath the midrange: narrow and close in the verse, swelling to full stereo width as each chorus opens, so the diva rides the expanding room. At the final chorus the sidechain becomes deliberately over-driven: the sub pumps hard in lockstep with every kick, a rhythmic swell that lifts energy in one beat, the room inhaling — while the peak diva note rides above, cutting clean. Soaring high-chest delivery, not timid. 136 BPM, E minor. No guitars, no rock drums, no pipe organ, no acoustic instruments, no rap."
+
+lyrics: |
+  [Intro: Reese sub, kick with garage swing, 0:00]
+
+  [Verse 1: 0:08]
+  Felt it before I knew what it was
+  Ribs opened wide around a frequency
+  The floor already knew my weight
+  Something moved the air — then moved through me
+
+  [Pre-Chorus: 0:28]
+  Not a chord — a pressure
+  Not a beat — a tide
+  It reached inside my sternum
+  Before it reached my mind
+
+  [Chorus: 0:46]
+  Plaster cracked — I heard it glow
+  Not every miracle needs a sound
+
+  [Bass-Only Dub Break: bass and kick, no vocal, 1:02]
+
+  [Verse 2: 1:36]
+  Walls know things that windows don't
+  The sub-bass wrote its name on every joint
+  A thin high frequency stayed in my teeth
+  The room kept ringing at its resonant point
+
+  [Pre-Chorus: 1:58]
+  Not a message — a weather
+  Not a song — a law
+  The plaster let it happen
+  Because it knew the awe
+
+  [Chorus: 2:18]
+  Plaster cracked — I heard it glow
+  Not every miracle needs a sound
+
+  [Final Chorus: sidechain surge, 2:36]
+  Plaster cracked — I heard it glow
+  Not every miracle needs a sound
+
+  [Outro: 2:50]
+  I heard it glow
+
+  [End]
+
+exclude_styles: "2-step, grime, jungle, dubstep, R&B ballad, trap, liquid dnb, house piano, chipmunk pitched vocals, Arabic, tribal, world music, rock, metal, lo-fi, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber"
+
+notes: |
+  UK bassline is a subgenre of UK garage that emerged from Sheffield around 2005-2008, defined by a driving four-to-the-floor kick, rolling Reese-bass sub lines (detuned oscillators creating a warm gritty low-end texture), crisp off-beat claps, and a prominent vocal — often a female diva delivery — pushed to the front of the mix. Speed garage is an earlier (late 1990s) fast-rolling variant of UK garage at 130-140 BPM with similar swing feel. This cycle fuses both into a 136 BPM diva-vocal track — distinct from the slower 2-step variants logged at v353 and v367, making this a debut-family entry in the catalog.
+
+  Concept source: wonder / awe — the specific physical experience of a sound system doing something impossible to the body before the mind understands it; the sub-bass moves you and the architecture first, consciousness comes second. The CALL is synesthetic ("I heard it glow" — the sub cracked plaster and registered as light); the ANSWER reframes it as a miracle that needs no explanation.
+
+  The chorus is built as a complete call-and-answer unit — both ceiling-fixes from v405 applied. CALL: "Plaster cracked — I heard it glow" — syncopated descent scale degrees 5→3 (B4→G4) across beats 1-2, an eighth-rest pause in the garage-swing gap, then an off-beat triplet re-ascent 3→5 (G4→B4) followed by a sustained peak on scale degree 7 (D5) on 'GLOW' with vibrato riding the swing. ANSWER: "Not every miracle needs a sound" — rapid eight-syllable stepwise descent 5→2 (B4→F#4) through 'Not every miracle', a valley hesitation on degree 2, then an explosive leap to the root octave (E5) on the single syllable 'SOUND' — the highest note of the chorus on the plainest word, sustained and able to cut through the sidechain surge. No filler lines; the entire chorus is the hook engine.
+
+  Verse lyrics are concrete and specific throughout: ribs opening around a frequency, the floor knowing the singer's weight before the mind does, walls knowing what windows don't, the sub-bass writing its name on every joint, a high frequency lingering in the teeth, the room ringing at its resonant point — all grounded synesthetic physical detail consistent with the wonder/awe theme.
+
+  Climax device: sidechain surge — novel in the catalog. At the final chorus (2:36) the sidechain compression on the Reese sub-bass becomes deliberately over-driven, pumping audibly and hard in lockstep with each kick hit, creating a rhythmic swell that lifts perceived energy by 6-8 dB in one beat (the room 'inhaling'). The diva peak note (E5 on 'SOUND') rides above the root-centered sub and cuts through the surge. No key change, no [Silence] metatag. Prior novel catalog climax devices: texture-inversion (v390), pitch-brake/tape-stop (v395), reharmonization (v401), grid-suspension (v403), timbral-splice-storm with vocal chop (v405). Sidechain surge has not appeared.
+
+  Duration strategy: an explicit bass-only dub break at 1:02 (~34s, Reese bass and kick, no vocal) is the primary duration lever — per catalog data from v348/v349/v395, a vocal-free instrumental section of this length is the single most reliable extender. Final sung line pushed to 2:50, outro runs to end. Target wall-clock: 3:00-3:20. BPM 136 sits firmly in the proven fast-band (130-160).
+
+  Meta-flip: v403 dark hard techno (150 BPM, D minor, cold), v404 warm nu-italo (analog warmth, nostalgia), v405 bright digital complextro (120 BPM, digital spite). v406 is gritty UK garage warmth — high swing, sub-bass physicality, diva-vocal reverence — maximum contrast on emotional register (awe vs spite), texture (rolling gritty sub vs staccato stabs), and concept (wonder vs vindication).
+
+  Style char count: 911. Blocklist: clean. No artist names anywhere. Title: Glow406 — exactly one fused token. Lyrics: English only.
+
+tags:
+  - uk-bassline
+  - speed-garage
+  - uk-garage
+  - debut-lane
+  - debut-family
+  - new-genre-family
+  - 136bpm
+  - e-minor
+  - wonder-scene
+  - awe-scene
+  - call-and-answer-chorus
+  - complete-chorus-hook
+  - reese-bass
+  - garage-swing
+  - four-on-the-floor
+  - diva-vocal
+  - female-vocal
+  - sidechain-surge-climax
+  - novel-climax-device
+  - bass-dub-break
+  - duration-lever
+  - synesthetic-lyrics
+  - wonder-awe-theme
+  - meta-flip
+  - forward-motion
+  - vocal
+  - duration-3min
+  - research-driven
+  - danceable
