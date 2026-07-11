@@ -415,6 +415,7 @@ mindmap
 | 390 | Sharp390 | hyperpop 2.0 x drum-and-bass defiance anthem; chant hook 'Sharp end first'; texture-inversion climax (double-time snare + chords cut then full-density detonation, no modulation, no silence gate) | F minor | 128 | supersaw stabs, DnB snare rolls, punchy kick |
 | 393 | Vertige393 | Euro Hi-NRG (catalog-DEBUT family) euphoria anthem; melodically-rich sunrise hook 'Le vertige blanc' (minor-6th leap arc, D1 fix); arpeggio-announced major-third modulation climax (Ab->C, genre-authentic, NOT half-step); fresh genre family fixed the lane-saturation stalls | A-flat major to C major | 138 | octave-jumping bassline, sawtooth synth stabs, gated-reverb snare |
 | 395 | Trapdoor395 | pitch-brake drop (tape-stop deceleration then snap-back at doubled kick) | F# minor | 155 | punchy kick + distorted bouncy bassline + aggressive distorted synth lead |
+| 396 | Shoulders396 | double breakdown (normal supersaw drop then unexpected second strip to voice+held pad, kick snaps back) | A major | 140 | detuned supersaw layers + trance pluck arpeggios + rolling offbeat bassline |
 
 ## Next-cycle priorities
 

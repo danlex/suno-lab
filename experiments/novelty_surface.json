@@ -1,6 +1,6 @@
 {
-  "total_prompts": 375,
-  "latest_version": 395,
+  "total_prompts": 376,
+  "latest_version": 396,
   "instruments": {
     "piano": [
       1,
@@ -146,7 +146,8 @@
       367,
       390,
       393,
-      395
+      395,
+      396
     ],
     "pipe organ": [
       1,
@@ -195,7 +196,8 @@
       367,
       390,
       393,
-      395
+      395,
+      396
     ],
     "cello": [
       33,
@@ -1329,6 +1331,9 @@
     ],
     "synthwave": [
       1
+    ],
+    "trance": [
+      396
     ]
   },
   "keys": {
@@ -1533,7 +1538,8 @@
       273,
       321,
       338,
-      345
+      345,
+      396
     ],
     "b-flat minor": [
       86,
@@ -2195,7 +2201,8 @@
       201,
       278,
       359,
-      361
+      361,
+      396
     ],
     "141": [
       224
@@ -2327,6 +2334,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 396,
+      "title": "Shoulders396",
+      "name": "shoulders396-v396",
+      "featured": [],
+      "genre": "trance",
+      "key": "a major",
+      "bpm": 140
+    },
     {
       "version": 395,
       "title": "Trapdoor395",
