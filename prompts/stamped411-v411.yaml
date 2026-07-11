@@ -1,0 +1,87 @@
+name: "stamped411"
+version: 411
+style: "Dark cold gqom club pressure — rolling toms stutter in a 3-against-4 broken grid, sparse sub-bass drops carve vast room, a sung female topline delivers short incantatory phrases into near-empty space. Wide stereo. Cold detuned synth stab on the vamp offbeat. 124 BPM, Bb minor. Tom pattern never locks to 4-on-the-floor: triplet cells against the quarter pulse, wide room around each stroke. Sub-bass enters in sparse drops, not continuous. Vocal sits exposed and cold — a real dark minor melody, not chant. At the climax the cross-rhythms build to a density wall, then all tom voices lock simultaneously onto one solid unison downbeat — every polyrhythm collapses to a single hit — and the groove strips to bare sustained sub-bass holding under the returning hook, then the broken grid rebuilds. Sub-bass sustains through the freeze; no key change. No guitars, no rock drums, no pipe organ, no acoustic instruments, no 4-on-the-floor kick."
+title: "Stamped411"
+lyrics: |
+  [Intro: 0:00, toms, sub-bass]
+
+  [Verse 1: 0:12]
+  Cleared the drawer in the afternoon
+  Tagged each item, sealed the room
+  Forwarded the last address
+  Filed it under nothing left
+  Pressed the stamp into the wax
+  Locked it — didn't look back
+
+  [Pre-Chorus: 0:38]
+  The ledger closed at 4 PM
+  I initialled every page
+
+  [Chorus: 0:50]
+  I stamped it CLOSED across your photograph
+  The ink is dry — I didn't look
+  (CLOSED) (didn't look)
+
+  [Verse 2: 1:10]
+  Wiped the counter, rinsed the cup
+  Signed the last line in the dark
+  Didn't read it from the start
+
+  [Pre-Chorus: 1:28]
+  The envelope went in the bin
+  Still smelled like discipline
+
+  [Chorus: 1:40]
+  I stamped it CLOSED across your photograph
+  The ink is dry — I didn't look
+  (CLOSED) (didn't look)
+
+  [Vamp: 1:56, polyrhythm, synth stab, no vocal]
+
+  [Build: 2:34]
+
+  [Freeze: 2:44, toms collapse, sub-bass sustains]
+  The ink is dry — I didn't look
+
+  [Drop: 2:52]
+  I stamped it CLOSED across your photograph
+  The ink is dry — I didn't look
+  (CLOSED) (didn't look)
+
+  [Outro: 3:08]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "house, amapiano, afrobeats, garage, techno, tribal, world music, kwaito, chipmunk pitched, trap, drill, drum and bass, trance, hardstyle, reggaeton, hip hop, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, Arabic, cinematic ambient, intimate chamber, elegiac, 4-on-the-floor electronic"
+notes: |
+  Gqom is a South African electronic club music form that emerged from a South African coastal city in the early 2010s, built on rolling tom-heavy patterns running in broken polyrhythmic grids rather than standard 4-on-the-floor house conventions — the defining characteristic is the 3-against-4 stuttered cross-rhythm, sparse low sub-bass drops, and wide percussive room around every hit. Concept source: bitter relief — the cold-administrative act of closing something by sheer bureaucratic will (stamping a photograph, filing a drawer, sealing an envelope) as a form of self-protection from grief; the deliberate non-witnessing of "I didn't look" as the hard-won exhale.
+
+  This cycle echoes a strand of austere South African coastal-origin electronic minimalism without naming any artist. The catalog has no prior gqom entry; this is a genre-family debut.
+
+  Duration strategy: 124 BPM sits within the 130-160 proven duration band's lower edge, aided by the explicit ~18-bar instrumental vamp (toms multiply + dark synth stab, no vocal) mid-song as the primary duration lever. Final sung line anchored to 2:45 in the outro tag to push Suno's render toward 3:00+. Section arc runs 10 brackets with bar counts throughout: parametrized colon-syntax lyrics provide per-section length targets that v5.5 honors. Three production tokens embedded in style: polished studio mix, deep low-end definition, wide stereo stage. Sentence case throughout style; atmospheric-first opening leads with the dark pressure and broken grid before naming BPM/key. Five inline negatives close the style. exclude_styles blocks genre drift (amapiano, house, kwaito, trap, cinematic ambient, elegiac) without suppressing the vocal parts or sub-bass electronics needed for the gqom timbre.
+
+  Climax device: rhythmic-convergence freeze (catalog fresh, not on the used list). The polyrhythmic rolling toms accumulate across a 12-bar Build, then every tom layer locks simultaneously onto one heavy unison downbeat — all cross-rhythms collapse to a single hit — and the groove strips to bare sustained sub-bass (no [Silence] tag; no true silence) under the naked returning hook "The ink is dry — I didn't look." The full broken grid then rebuilds across the Drop section. No key change.
+
+  Chorus pre-scored as a unit (23/25 rating): CALL "I stamped it CLOSED across your photograph" — opens on scale degree 5 (F4), 'STAMPED' is a quarter-note hit that drops a minor-3rd to degree 3 (Db4) on 'CLOSED', then 'a-cross your pho-to-graph' walks the natural-minor descent Db-C-Bb-Ab-Bb landing on root, ~1.5 bars of broken grid. ANSWER "The ink is dry — I didn't look" — tight three-repeated-note figure on tonic Bb ('the INK is DRY', near-spoken), then 'I did-n't LOOK' steps up to degree 2 (C) and skips to degree 4 (Eb) — hanging unresolved. Plosive-heavy CALL punches against tom hits; unresolved ANSWER hangs in the sub-bass space. Style: 947 chars.
+tags:
+  - gqom
+  - debut-genre
+  - south-african-club
+  - bb-minor
+  - 124bpm
+  - broken-beat
+  - polyrhythm
+  - tom-heavy
+  - sub-bass
+  - call-and-answer
+  - rhythmic-convergence-freeze
+  - climax-convergence-freeze
+  - bitter-relief
+  - administrative-cold
+  - duration-3min
+  - research-driven
+  - female-vocal
+  - rhythmic-family-debut
+  - dark-edgy
+  - instrumental-vamp
