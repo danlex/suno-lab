@@ -420,6 +420,7 @@ mindmap
 | 400 | Grin400 | mambo shout-chorus (additive brass-stack + double-time timbale descarga, groove unbroken) [SHORT RENDER 2:03/2:02 — constant-groove/no-build structure wraps early despite montuno vamp] | G major | 130 | trumpet jabs + trombone glisses + son-clave congas/timbales |
 | 401 | Hallway401 | reharmonization climax (final chorus keeps melody, borrowed-chord substitution recolors held Eb5 from 5th of Ab to major-3rd under Cbmaj7 — no key change) + alto-sax solo as duration lever | Ab major | 174 | alto saxophone (signature hook lead) + Reese sub-bass + lush reverb pads |
 | 403 | Itself403 | grid suspension (all percussion hard-cuts while vocal holds tonic D over a sustained drone — NOT silence — then full grid crashes back at higher gain; absence-as-drop) | D minor | 150 | aggressive four-on-the-floor kick + polyrhythmic synth line + struck crotales (countdown marker) |
+| 405 | Cache405 | timbral-splice storm (complextro drop rapid-cycles 8 synth timbres in 1/16ths AND re-sequences the singer's own vocal cells as at-pitch stutter-texture; complete call+answer chorus) | F minor | 130 | bright digital staccato chord stabs + sub-locked bass + chopped-vocal-as-instrument |
 
 ## Next-cycle priorities
 

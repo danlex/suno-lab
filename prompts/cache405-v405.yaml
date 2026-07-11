@@ -1,0 +1,105 @@
+name: "cache405-v405"
+version: 405
+title: "Cache405"
+instrumental: false
+vocal_gender: female
+
+style: "Underscore for digital vindication — electro house colliding with complextro at 130 BPM in F minor, pumping sidechain on every melodic layer, wide stereo, hyper-compressed master. Four-on-the-floor kick anchors a kaleidoscopic synth palette: staccato chord stabs cycle timbre every two bars, sub-locked bass drives the grid, and a clean sharp female vocal delivers with controlled confidence — intimate disdain in the verses, full width in the chorus. After each sung chorus the complextro drop arrives: eight distinct synth timbres fire in rapid 16th-note succession, tension rebuilding from the chorus's resolution. The climax splice-storm goes further — the singer's own vocal cells get stutter-chopped and resequenced as rhythmic texture inside the drop, voice becoming instrument without pitch-shifting. Tempo is 130 BPM, forward, floor-filling, relentless. No guitars, no rock drums, no pipe organ, no live brass, no acoustic instruments."
+
+lyrics: |
+  [Intro: staccato stabs, 0:00]
+
+  [Verse 1: 0:08]
+  You kept a screenshot from a year ago
+  Called it evidence — I watched you let it go
+  You drew your lines in data that was stale
+  Ran your whole case on a corrupted file
+
+  [Pre-Chorus: 0:28]
+  You flagged me out of date
+  But your read was never real
+  Every version that you loved
+  Was a shadow — not the deal
+
+  [Chorus: 0:46]
+  You cached an older version of me
+  Delete your copy — mine's already live
+
+  [Complextro Drop: eight-timbre synth, no vocal, 1:00]
+
+  [Verse 2: 1:38]
+  You built your story out of archived logs
+  Pinned your certainty to frozen catalogues
+  You called it knowing — that's a narrow read
+  The signal moved on — you ran on stale build
+
+  [Pre-Chorus: 1:58]
+  You kept the old deployment
+  Refused to run the patch
+  Every claim you made from memory
+  Was already out of batch
+
+  [Chorus: 2:16]
+  You cached an older version of me
+  Delete your copy — mine's already live
+
+  [Splice-Storm Drop: vocal stutter-resequence, 2:30]
+
+  [Outro: 2:50]
+  Mine's already live
+
+  [End]
+
+exclude_styles: "dubstep, brostep, future bass, trap, riddim, hardstyle, trance, pitched-up vocals, nightcore, Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber, gabber, rawstyle, neurofunk"
+
+notes: |
+  Electro house is a subgenre of house music that emerged in the mid-2000s, defined by heavy four-on-the-floor kicks, sidechain-compressed bass, sharp filtered synth stabs, and a clear pop-song structure. Complextro is a production sub-style — popularized in the early 2010s — distinguished by rapid-fire timbral switching inside the instrumental drop: rather than a single drop sound, the producer cuts between eight or more distinct synthesizer timbres in fast 16th-note succession, creating a kaleidoscopic, fragmented texture that retains rhythmic lock. Neither pure electro house nor complextro has appeared as a primary catalog lane before this cycle; this is a debut-family entry.
+
+  Concept source: SPITE — cold, vindicated, reclaiming power from someone who tried to diminish or mis-see you; the spite idiom is entirely software/signal vocabulary (cache, version, copy, deploy, live, archived logs, frozen catalogues, signal, patch, batch, deployment). The narrative: he held a stale archived snapshot and judged from it; she flags it as out-of-date data, orders its deletion, declares the real her already shipped.
+
+  The chorus is built as a complete call-and-answer unit rather than a hook surrounded by filler — fixing the v404 stall. CALL: "You cached an older version of me" — vocal contour starts on C5 (scale degree 5), stepwise descent through 'an older version', then a minor-sixth leap up to F5 on 'me' (she owns the room on the peak note). ANSWER: "Delete your copy — mine's already live" — opens Eb5 (b7), descends a minor-third to C5 on 'Delete your copy', a 16th-rest at the dash (the blade lands), then a syncopated rising triplet Bb4 to C5 to F5 on 'mine's already live' (command-descend plus grounded retort). The entire chorus is the hook engine; no filler lines.
+
+  Verse lyrics are rich and specific throughout: screenshot as evidence, corrupted file, archived logs, frozen catalogues, refused to run the patch, out of batch — all concrete tech-emotional spite details consistent with the cache/deploy vocabulary, not generic heartbreak language.
+
+  Climax device: timbral-splice storm with vocal chop — catalog-debut climax move. The extended drop at 2:30 rapid-fires eight distinct synth timbres in 16th-note succession AND re-sequences the singer's own vocal cells ("You cached" / "older version" / "of me" / "delete your copy" / "mine's already live") as stutter-chopped rhythmic texture inside the splice storm, voice becoming instrument. Crucially: no pitch-shift — vocal stays at pitch, making it recognizable and bold rather than cartoonishly alienated. This is audible and unmistakable: the boldness is the point. Prior novel catalog climax devices: texture-inversion (v390), pitch-brake/tape-stop (v395), reharmonization (v401), grid suspension (v403). Timbral-splice storm with vocal chop has not appeared.
+
+  Duration strategy: the 30-40s instrumental complextro drop after the first sung chorus (1:00-1:38) is the primary duration lever — per catalog data from v348/v349/v395, an explicit vocal-free instrumental section of this length is the single most reliable extender. The splice-storm climax drop at 2:30 adds a second dense section. Final sung line pushed to 2:50, outro runs to end. Target wall-clock: 3:00-3:20. BPM 130 sits in the proven fast-band (130-160) where bar counts translate well.
+
+  Meta-flip: v403 was dark hard techno (150 BPM, D minor, cold menace, distorted industrial). v404 was warm analog nu-italo (warm tape, analog pads). v405 is bright, digital, glitchy, staccato — maximum contrast across all three axes: warmth (cold digital vs warm analog), texture (staccato stabs vs smooth pads), emotional register (vindicated spite vs longing/nostalgia). This three-cycle arc maximizes catalog diversity.
+
+  Exclude-styles block specific drift risks: dubstep/brostep (wrong bass signature), future bass (wrong atmosphere), trap/riddim (wrong grid), pitched-up vocals and nightcore (prevent the vocal-chop being misread as pitch-altered treatment). Notably: 'vocals', 'singing', and 'synthesizer' are NOT in exclude_styles — this is a vocal electronic track built on synthesis; suppressing those tags would remove the core components.
+
+  Style char count: 924. Blocklist: clean. No artist names anywhere. Title: Cache405 — exactly one fused token. Lyrics: English only.
+
+tags:
+  - electro-house
+  - complextro
+  - debut-lane
+  - debut-family
+  - new-genre-family
+  - 130bpm
+  - f-minor
+  - spite-scene
+  - digital-spite-scene
+  - call-and-answer-chorus
+  - complete-chorus-hook
+  - cache-hook
+  - timbral-splice-storm-climax
+  - vocal-chop-texture
+  - novel-climax-device
+  - staccato-chord-stabs
+  - sidechain-compression
+  - four-on-the-floor
+  - complextro-drop
+  - kaleidoscopic-synth
+  - female-vocal
+  - sharp-confident-vocal
+  - meta-flip
+  - bright-digital-counter-swing
+  - forward-motion
+  - vocal
+  - duration-3min
+  - research-driven
+  - danceable
+  - tech-emotional-vocabulary
+  - spite-power-reclaim
