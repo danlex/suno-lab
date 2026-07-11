@@ -417,6 +417,7 @@ mindmap
 | 395 | Trapdoor395 | pitch-brake drop (tape-stop deceleration then snap-back at doubled kick) | F# minor | 155 | punchy kick + distorted bouncy bassline + aggressive distorted synth lead |
 | 396 | Shoulders396 | double breakdown (normal supersaw drop then unexpected second strip to voice+held pad, kick snaps back) | A major | 140 | detuned supersaw layers + trance pluck arpeggios + rolling offbeat bassline |
 | 398 | Ghost398 | kick-withdrawal return (reverse-bass kick + low end drop out for 8-bar weightless float, laser screech, then hard kick slams back under soaring hook) | Ab minor | 150 | distorted reverse-bass kick + orchestral supersaw chords + laser-screech sweep |
+| 400 | Grin400 | mambo shout-chorus (additive brass-stack + double-time timbale descarga, groove unbroken) [SHORT RENDER 2:03/2:02 — constant-groove/no-build structure wraps early despite montuno vamp] | G major | 130 | trumpet jabs + trombone glisses + son-clave congas/timbales |
 
 ## Next-cycle priorities
 
