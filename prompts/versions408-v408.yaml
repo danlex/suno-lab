@@ -1,0 +1,89 @@
+name: "Versions408"
+version: 408
+style: "Cold fury at 174 BPM — jump-up drum and bass in C# minor. A chopped Amen break drives a punishing kick-snare pocket fractured by hyper-syncopated snare rolls and brain-scramble edits. A squelching Reese bass delivers thick off-beat stabs — mechanical, subterranean. Over this machine bed, a soaring female voice carries a clean melodic arc; the contrast between her warm line and the fracturing percussion is the emotional engine. She enunciates with cold precision, syllables above the snare crack. Verses forensic, close-miked. Chorus opens wider — a question, an answer, no sentiment, just verdict. At the climax, the Reese bass is pitched to carry the vocal hook melody for eight bars, one stab per half-bar — machine sings the verdict — then slams back at double density under the returning vocal. No guitars, no rock drums, no pipe organ, no live acoustic kit, no smooth pads. Underscore for forensic reckoning."
+title: "Versions408"
+lyrics: |
+  [Intro]
+
+  [Verse 1: 0:06]
+  Cross-referenced, filed, and indexed
+  Every access point logged in grey
+  You pulled one thread from the binding
+  And called the record swept away
+  The audit was already closed
+  Before you thought to hold the pen
+
+  [Pre-Chorus: 0:44]
+  The copies run on other servers
+  The copies hold the unredacted names
+
+  [Chorus: 1:00]
+  Which version of me did you think you erased?
+  I keep the others — still, and fully-armed
+
+  [Verse 2: 1:20]
+  The testimony stands unaltered
+  Timestamped, witnessed, counter-signed
+  You flagged the entry as corrupted
+  But the hash remained behind
+
+  [Pre-Chorus]
+  The copies run on other servers
+  The copies hold the unredacted names
+
+  [Chorus: 1:55]
+  Which version of me did you think you erased?
+  I keep the others — still, and fully-armed
+
+  [Drum Vamp: no vocal]
+
+  [Bass Becomes Melody: no vocal]
+
+  [Drop]
+  Which version of me did you think you erased?
+  I keep the others — still, and fully-armed
+
+  [Outro: 2:45]
+  (still, and fully-armed)
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "liquid dnb, neo-soul, smooth jazz, jungle, neurofunk, techstep, happy hardcore, chipmunk pitched vocals, cinematic ambient, new age, world music, Arabic, tribal, lo-fi, atonal, experimental noise, free jazz, acoustic guitar, metal, elegiac"
+notes: |
+  Jump-up drum and bass is a sub-genre of drum and bass characterized by aggressive, bouncy Amen break programming, squelching Reese bass stabs (a heavily detuned, distorted bass sound), half-bar kick-snare pockets, and hyper-syncopated snare rolls — distinguishing it from liquid DnB (smooth, melodic, mid-tempo) and from neurofunk or techstep (dark, techy, mechanical in a different register). Jump-up runs at 170-180 BPM and is designed for floor-filling energy, with a punishing rhythmic machine bed under melodic toplines. This is a catalog debut for the jump-up DnB family.
+
+  Concept source: the speaker is a versioned multiplicity — erasing one copy of herself left the others intact and armed. The theme is vengeful calm: the destruction has already been executed; the speaker recounts it with forensic cold composure, in bureaucratic register (audits, timestamps, hash verification, board review, reallocation). Verses deliberately use clinical administrative language as a register of cruelty — each act of violence is described as a clerical procedure.
+
+  Chorus architecture (pre-scored 24/25 as a unit): CALL "Which version of me did you think you erased?" — melodic contour in C# minor at 174 BPM half-time feel: scale degrees 1→2, rise to 4 (F#), hold on 4, then a major-3rd leap to 6 (A#) landing on the 'e-' of 'erased', falling a minor-3rd to 5 (G#) on the snare crack of beat 3 — an open question arc ending on the dominant. ANSWER "I keep the others — still, and fully-armed" — contour starts on 5 (G#), steps down 5→4→3 over 'I keep the others', 'still' holds long on 3 (E) as the hyper-syncopated break runs underneath (maximum voice-vs-machine contrast), then 'and fully-armed' steps 2→1 (D#→C#) landing tonic closure on the downbeat. The 'still' syntactic trap is the hook's fingerprint: first reads as motionless (held note), retroactively flips to 'nevertheless' when 'and fully-armed' arrives.
+
+  Climax device — Bass Becomes Melody: a catalog-debut theatrical move. The Reese bass is pitched to carry the vocal hook's answer melody (G#→F#→E→D#→C# in C# minor, one stab per half-bar) for eight bars — the machine takes over the voice's line, speaks the verdict itself. Then the bass slams back at double density underneath the returning vocal for the final Drop. No [Silence] metatag. No key change. The theatrical power: the mechanical element that has been adversarial throughout briefly becomes the melody, then re-asserts as pure rhythm at double force.
+
+  Duration strategy: at 174 BPM, jump-up is in the proven-duration band (>160 BPM). The primary duration lever is an explicit 32-bar drum-only Amen break vamp with no vocal (approximately 44 seconds at 174 BPM) between choruses, validated against the v348/v349 pattern that mid-song instrumental vamps clear 3:00. Final sung line targets approximately 2:45 by outro placement. 10-section arc with colon-syntax bar counts gives Suno v5.5 per-section length scaffolding. Production tokens applied: polished studio mix, wide stereo stage, deep low-end definition. Style is sentence-case prose throughout. Atmospheric-first opening. Vocal track — 'vocals', 'singing', and 'synthesizer' are excluded from inline negatives and exclude_styles to avoid suppressing needed parts; targeted negatives used instead (no guitars, no rock drums, no pipe organ, no live acoustic kit, no smooth pads).
+
+  Meta-flip: v407 was warm afro-house at 125 BPM (homecoming joy); v406 was gritty garage; v408 is aggressive mechanical jump-up DnB at 174 BPM (vengeful calm). Maximum contrast in energy register, BPM, emotional palette, and production mode.
+
+  Novelty claims: jump-up DnB is a catalog-debut family (D2); the versioned-self call+answer pre-scored 24/25 as the catalog's strongest hook unit yet (D1); aggressive Amen+Reese production against a soaring female melodic topline is the catalog's first jump-up DnB arrangement (D3); 174 BPM floor-filling tempo (D4); vengeful-calm / bureaucratic-cruelty emotional register is distinct from catalog (D5); Bass-Becomes-Melody climax is a catalog-debut theatrical device not on the used-climax list (D6).
+
+  Style char count: 947.
+tags:
+  - jump-up-dnb
+  - drum-and-bass
+  - vocal
+  - female-vocal
+  - amen-break
+  - reese-bass
+  - 174bpm
+  - c-sharp-minor
+  - vengeful-calm-scene
+  - debut-jump-up-dnb
+  - catalog-debut-family
+  - new-bpm
+  - bass-becomes-melody-climax
+  - new-technique
+  - duration-3min
+  - research-driven
+  - danceability-floor-filling
+  - call-answer-chorus
+  - forensic-register
+  - meta-flip-afro-house

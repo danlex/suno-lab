@@ -423,6 +423,7 @@ mindmap
 | 405 | Cache405 | timbral-splice storm (complextro drop rapid-cycles 8 synth timbres in 1/16ths AND re-sequences the singer's own vocal cells as at-pitch stutter-texture; complete call+answer chorus) | F minor | 130 | bright digital staccato chord stabs + sub-locked bass + chopped-vocal-as-instrument |
 | 406 | Glow406 | sidechain surge (over-driven sub-bass sidechain pump audible/rhythmic at final chorus, one-beat energy lift, diva peak riding on top; complete call+answer chorus) | E minor | 136 | rolling gritty Reese sub-bass + garage-swing kick/clap + soaring diva vocal |
 | 407 | Dust407 | groove-skeleton reveal (log-drum+kalimba+melodic layers strip to naked vocal over continuing kick+bass for 4 bars, then groove crashes back MORE abundant with added shaker+secondary conga; complete call+answer chorus) | B major | 125 | log-drum + kalimba (major-6th harmonic anchor) + conga/shaker over driving sidechain kick |
+| 408 | Versions408 | bass-becomes-melody (Reese bass pitched to play the answer hook melody G#-F#-E-D#-C# for 8 bars — machine sings the verdict — then slams back at double density; complete call+answer chorus, 'still' syntactic trap, 24/25 hook) | C# minor | 174 | chopped Amen break + squelching Reese bass stabs + soaring female vocal |
 
 ## Next-cycle priorities
 
