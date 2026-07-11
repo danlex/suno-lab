@@ -413,6 +413,7 @@ mindmap
 | 366 | Pulse | charts-signal vocal dark-dance-pop; plainspoken universal first-person hook; Db-minor modulation climax (no silence gate) | C minor to Db minor | 122 | synth bass, sidechained pads, electric piano |
 | 367 | Memory367 | melancholy-uplift UK 2-step garage vocal pop; anticipatory-acceptance theme (You look like a memory already); stripped-bridge to full-chorus density-contrast climax (no half-step, no silence gate) | F-sharp minor | 130 | shuffled hi-hats, sub bass, synth pads |
 | 390 | Sharp390 | hyperpop 2.0 x drum-and-bass defiance anthem; chant hook 'Sharp end first'; texture-inversion climax (double-time snare + chords cut then full-density detonation, no modulation, no silence gate) | F minor | 128 | supersaw stabs, DnB snare rolls, punchy kick |
+| 393 | Vertige393 | Euro Hi-NRG (catalog-DEBUT family) euphoria anthem; melodically-rich sunrise hook 'Le vertige blanc' (minor-6th leap arc, D1 fix); arpeggio-announced major-third modulation climax (Ab->C, genre-authentic, NOT half-step); fresh genre family fixed the lane-saturation stalls | A-flat major to C major | 138 | octave-jumping bassline, sawtooth synth stabs, gated-reverb snare |
 
 ## Next-cycle priorities
 
