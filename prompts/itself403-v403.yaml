@@ -1,0 +1,102 @@
+name: "itself403-v403"
+version: 403
+title: "Itself403"
+instrumental: false
+vocal_gender: female
+
+style: "Underscore for cold predatory patience — hard techno at 150 BPM in D minor, industrial menace in a room that has already decided. Relentless four-on-the-floor kick, distorted low-end rumble, a polyrhythmic synthesizer line weaving cold staccato counterpoint against the grid. Struck crotales chime high as the countdown marker; sub-drone anchors every section. A clean mid-register female voice delivers the hook flat-affect and unhurried — no belt, no breath-attack — a cold sung four-bar phrase with a chromatic Bb slip before tonic D resolves: melody that remembers itself wrong. At the grid suspension kick and drums hard-cut; vocal holds tonic D over a thinned pad and sub-drone — a suspended breath, not a gap — then the full grid crashes back at higher gain, that held note becoming the anticipation making the crash land like a verdict. No guitars, no supersaw leads, no pipe organ, no rock drums, no trance arpeggios."
+
+lyrics: |
+  [Kick and Drone: 0:00]
+
+  [Verse 1: 0:12]
+  I measure the distance from the door
+  Seven steps — I've counted before
+  Something shifts in the frame
+  The ceiling lowers, always the same
+
+  [Hook: 0:34]
+  The room counts down by itself
+  The room counts down by itself
+  Nothing can stop it — it counts alone
+  The room counts down by itself
+
+  [Verse 2: 1:02]
+  I keep the light at the end of the hall
+  Not a warning — just watching you stall
+  Every second narrows the field
+  The walls remember — the walls don't yield
+
+  [Hook: 1:24]
+  The room counts down by itself
+  The room counts down by itself
+  Nothing can stop it — it counts alone
+  The room counts down by itself
+
+  [Synth Breakdown: polyrhythmic synth and kick only, 1:52]
+
+  [Grid Suspension: drums cut, vocal over sub-drone, 2:28]
+  The room counts down
+  I have already won
+
+  [Grid Crash: 2:38]
+
+  [Final Hook: 2:45]
+  The room counts down by itself
+  The room counts down by itself
+  Nothing can stop it — it counts alone
+  The room counts down by itself
+
+  [Outro: 3:10]
+
+  [End]
+
+exclude_styles: "gabber, hardcore, hardtekk, rawstyle, acid house, 303 pastiche, warehouse rave anthem, trance, happy hardcore, chipmunk pitched vocals, Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber, gabber kicks, speedcore, neurofunk, jump-up"
+
+notes: |
+  Hard techno is a sub-genre of techno originating in the early 2000s Berlin and Eastern European club circuit, defined by relentless four-on-the-floor kicks (typically 145-155 BPM), distorted low-end rumble, industrial spatial production, and sparse or textural vocal treatment. Its defining characteristic is that the kick drum IS the melodic anchor — vocals in hard techno traditionally serve as textural or processed layers, not as sung toplines. The friction of a genuine clean sung melodic phrase placed over a brutal techno grid is structurally unusual for the genre, which is precisely the distinctiveness axis this cycle exploits.
+
+  Concept source: COLD MENACE / PREDATORY PATIENCE — the singer is not afraid, not fleeing; she is quietly accounting, watching, waiting; the controlled unhurried threat of someone who already knows she has won. "The room counts down by itself" is reported as a flat status update, not a warning. The menace is that the space is autonomous, beyond stopping — she merely lives in a world already closing around you. Verses use cold, concrete, specific images of patient predation: measuring distances (seven steps counted before), watching someone stall, walls that remember and do not yield.
+
+  Hook specification: "The room counts down by itself" — descending D-minor stepwise from scale-degree 5 to 1 (A–G–F–G–F–E–D), with a chromatic Bb slip (flat-6 color) landing on the word "counts" as a cold sideways half-step before the descent continues; a controlled hiccup on scale-degree 4 gives the phrase a circular, trapped quality; tonic D lands on bar 4 beat 1. Voice appears on beat 1 of bar 1 mid-register with no breath-attack swell. Delivery: cold flat-affect, not belted. The chromatic Bb is the fingerprint — the melody remembers itself wrong before resolving.
+
+  This is a catalog-debut primary lane: no prior version has used hard techno as its primary genre. The meta-break is intentional — the preceding three cycles (v398 hyperpop, v400 Hi-NRG, v401 liquid DnB) were bright-major live-instrument lanes; v403 swings hard and dark as the deliberate counter-swing. The sung-hook-over-techno-grid friction is the primary distinctiveness axis: hard techno normally uses processed or textural vocals, not sung four-bar toplines with specified chromatic contours.
+
+  Climax device — grid suspension — is novel to the catalog: at ~2:28 the entire percussion section (kick + all drums) hard-cuts while the vocal holds its tonic D alone over a sustained sub-drone and thinned polyrhythmic pad. This is deliberately NOT a true gap (which truncates Suno renders; documented catalog failure mode) — the drone and pad sustain underneath. Then at 2:38 the full grid crashes back at higher gain; the held tonic D becomes the anticipation so the crash lands like a verdict. No key change, no half-step modulation — the impact is from percussion re-entry alone. Prior novel climax devices in the catalog: texture-inversion (v390), pitch-brake/tape-stop (v395), reharmonization (v401). Grid suspension has not appeared.
+
+  Duration strategy: 150 BPM sits in the proven fast-band (130-160) where bar counts translate well. Short-render risk at 150 BPM is real (makina v395 needed heavy levers). Countermeasures applied: (1) explicit 10-section arc with timestamps anchoring Suno's section targets; (2) an instrumental-only Synth Breakdown at 1:52 running ~35 seconds (polyrhythmic synth + kick + rumble, no vocal) — this is the single most reliable duration extender per v348/v349/v395 catalog data; (3) the Grid Suspension at 2:28 is itself a length-generating event (percussion-absence bars cost full clock time); (4) final sung hook pushed to ~2:45 with outro running to 3:10+. Target wall-clock: 3:00-3:20.
+
+  Exclude-styles block the specific drift risks for hard techno: gabber (too raw), hardtekk (too European), rawstyle (wrong bass signature), acid house and 303 pastiche (the polyrhythmic synth is NOT a 303 — deliberate framing to prevent acid-house classifier pull), warehouse rave anthem (wrong energy arc), trance and happy hardcore (wrong melodic register), chipmunk pitched vocals (wrong treatment). Notably: 'vocals', 'singing', and 'synthesizer' are NOT in exclude_styles — this is a vocal electronic track and those tokens would suppress the parts we need. Inline negatives target only elements not wanted: supersaw leads, guitars, pipe organ, rock drums, trance arpeggios.
+
+  Style char count: 950. Blocklist: clean. No artist names, no place/country references in lyrics or style. Title: Itself403 — exactly one fused token. Lyrics: English only.
+
+tags:
+  - hard-techno
+  - debut-lane
+  - debut-family
+  - new-genre-family
+  - 150bpm
+  - d-minor
+  - cold-menace-scene
+  - predatory-patience-scene
+  - sung-hook-over-techno-grid
+  - chromatic-bb-slip
+  - flat-affect-vocal
+  - grid-suspension-climax
+  - novel-climax-device
+  - percussion-absence-drop
+  - polyrhythmic-synthesizer
+  - four-on-the-floor
+  - distorted-low-end
+  - sub-drone
+  - female-vocal
+  - clean-vocal-over-distortion
+  - meta-break
+  - dark-hard-counter-swing
+  - forward-motion
+  - vocal
+  - duration-3min
+  - research-driven
+  - danceable
+  - industrial-production
+  - dark-minor

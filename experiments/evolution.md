@@ -419,6 +419,7 @@ mindmap
 | 398 | Ghost398 | kick-withdrawal return (reverse-bass kick + low end drop out for 8-bar weightless float, laser screech, then hard kick slams back under soaring hook) | Ab minor | 150 | distorted reverse-bass kick + orchestral supersaw chords + laser-screech sweep |
 | 400 | Grin400 | mambo shout-chorus (additive brass-stack + double-time timbale descarga, groove unbroken) [SHORT RENDER 2:03/2:02 — constant-groove/no-build structure wraps early despite montuno vamp] | G major | 130 | trumpet jabs + trombone glisses + son-clave congas/timbales |
 | 401 | Hallway401 | reharmonization climax (final chorus keeps melody, borrowed-chord substitution recolors held Eb5 from 5th of Ab to major-3rd under Cbmaj7 — no key change) + alto-sax solo as duration lever | Ab major | 174 | alto saxophone (signature hook lead) + Reese sub-bass + lush reverb pads |
+| 403 | Itself403 | grid suspension (all percussion hard-cuts while vocal holds tonic D over a sustained drone — NOT silence — then full grid crashes back at higher gain; absence-as-drop) | D minor | 150 | aggressive four-on-the-floor kick + polyrhythmic synth line + struck crotales (countdown marker) |
 
 ## Next-cycle priorities
 
