@@ -427,6 +427,7 @@ mindmap
 | 410 | Autograph410 | metric stutter-expand (triplet grid lurches into a displaced 3/4 stagger for 4 bars, then snaps back to full 140 4/4 with doubled bed-squeak density + a new upper melody an octave up; complete call+answer chorus, verb-noun-collision hook) | Ab major | 140 | triplet-kick pattern + bed-squeak percussion + chopped vocal stabs |
 | 411 | Stamped411 | rhythmic-convergence freeze (polyrhythmic 3-against-4 toms build to a density wall, all lock to ONE unison downbeat, groove drops to bare SUSTAINED sub-bass under the naked hook — no silence — then broken grid rebuilds; complete call+answer chorus, bitter-relief theme) | Bb minor | 124 | rolling broken-beat toms (3-against-4) + sparse sub-bass drops + cold detuned synth stab |
 | 412 | Exits412 | fill-cascade acceleration (stuttered Baltimore kick fills double + re-double every 2 bars into a rolling sprint under the hook, groove never drops; complete call+answer chorus) [SHORT RENDER 2:15/2:27 — breakbeat club wraps early despite percussion vamp] | C minor | 132 | stuttered 8/4 Baltimore-roll breakbeat + chopped percussive snaps + thumping club bass |
+| 413 | Rearview413 | voice-machine fusion lock (at the final drop the growl bass pitch-locks in UNISON to the sustained vocal root F# for ~4 bars — voice + bass fuse into one composite tone, then the growl re-widens; complete call+answer chorus, arc-based build→drop→breakdown→final-drop) | F# major | 145 | detuned supersaw swell + growl wobble-bass + ethereal female vocal |
 
 ## Next-cycle priorities
 
