@@ -1,0 +1,91 @@
+name: "bloom429-v429"
+version: 429
+title: "Bloom429"
+instrumental: false
+vocal_gender: female
+
+style: "Dream-pop and shoegaze at 105 BPM in B major, hazy, euphoric and bittersweet, a warm wall of sound. Layers of heavily reverbed, chorused electric guitars washing into one shimmering blur, a driving midtempo drum kit with a soft motorik pulse, a hazy melodic bass, tremolo and slow feedback swells, and a faint bed of warm synth pads. An ethereal, breathy female voice floats half-buried in the mix, gauzy and reverbed, more feeling than words, opening into wordless soaring 'ahs' at the peaks. The feeling: a rush too big for the body — a feeling blooming and dissolving at once, crying and smiling at the same time, driving into bright light; euphoric-melancholy, overwhelmed, alive. Verses swirl and pulse; the chorus detonates into a bright wall of guitar and voice; a floating bridge that drops to almost nothing; a final chorus that blooms huge then decays into feedback and reverb. No EDM drop, no four-on-the-floor club beat, no rap, no autotune, no harsh distortion. 105 BPM, B major."
+
+lyrics: |
+  [Intro]
+  (ahs)
+  Here it comes
+
+  [Verse 1]
+  It hits me at the crossing
+  When the green light turns to rain
+  Something way too big to hold
+  Pouring through a narrow vein
+  I don't even know its name
+  I just know it's here
+  A joy that looks like crying
+  A bright and aching year
+
+  [Pre-Chorus]
+  I can feel it opening
+  I can't make it slow
+
+  [Chorus]
+  Bloom, bloom
+  Too much all at once
+  Everything at the same time
+  And none of it enough
+  Bloom, bloom
+  I'm crying in the light
+  I have never been this open
+  I have never been this alive
+
+  [Verse 2]
+  It'll be gone by the morning
+  Every big thing always is
+  So I'm holding the whole flood
+  While it's mine, while it exists
+  Don't tell me to be careful
+  Don't tell me to come down
+  Let me overflow the evening
+  Let me nearly drown
+
+  [Bridge]
+  (soft ahs)
+  Open — open
+  Everything at once
+  It hurts because it's beautiful
+  It's beautiful because
+
+  [Final Chorus]
+  Bloom, bloom
+  I'm crying in the light
+  I have never been this open
+  I have never been this alive
+
+  [Outro]
+  (fading)
+  Here it goes
+
+exclude_styles: "EDM, big room, club drop, four-on-the-floor, techno, house, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, harsh distortion, country"
+
+notes: |
+  STYLE-ROTATION loop (cycle 6). Full style change from v424-428 (orchestral / soul / folk / trip-hop / piano-ballad): DREAM-POP / SHOEGAZE — a warm wall of sound: layers of reverbed & chorused guitars blurring together, driving motorik midtempo drums, hazy bass, tremolo/feedback swells, warm synth pads under the guitars. Vocal is an ETHEREAL BREATHY FEMALE voice half-buried in the mix, more feeling than words, wordless soaring 'ahs' at the peaks (a blurred/gauzy texture distinct from the clear soprano v424, soul-belt v425, and smoky alto v427). Faster tempo (105) than the recent ballads — but NOT club/EDM.
+
+  Theme: BLOOM — a rush too big for the body, a feeling blooming and dissolving at once, crying and smiling simultaneously. Mood rotates to EUPHORIC-MELANCHOLY / bittersweet overwhelm — a NEW register (distinct from Ascend's uplifting-grief, Sunday's contentment, Willow's nostalgia, Static's noir, Harbor's protective love). Catchy hook 'Bloom, bloom / I'm crying in the light / I have never been this open / I have never been this alive.'
+
+  B major, 105 BPM, ethereal breathy female. exclude_styles blocks EDM/club drift WITHOUT excluding the guitars/pads/drums or vocals the style needs. Publish both clips public.
+
+tags:
+  - dream-pop
+  - shoegaze
+  - wall-of-sound
+  - 105bpm
+  - b-major
+  - ethereal-female-vocal
+  - breathy-buried-vocal
+  - reverb-guitars
+  - motorik-drums
+  - tremolo-feedback
+  - synth-pads
+  - euphoric-melancholy
+  - bittersweet-overwhelm
+  - bloom-rush-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-6-dream-pop
