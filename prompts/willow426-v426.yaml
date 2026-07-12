@@ -1,0 +1,89 @@
+name: "willow426-v426"
+version: 426
+title: "Willow426"
+instrumental: false
+vocal_gender: male
+
+style: "Warm cosmic folk and dream-folk at 78 BPM in D major, gentle and spacious, intimate and earthy. A fingerpicked steel-string acoustic guitar leads, with round upright bass, soft brushed drums, and touches of fiddle, mandolin, and pedal steel that bend like far light. Faint dusty tape warmth, a wide natural room, hall reverb hanging like evening. A warm, close male folk voice sings low and unhurried at the front — plainspoken, tender, a storyteller's voice with a slight rasp — layered into soft harmony on the hook. The feeling: a willow tree standing by a slow river, watching generations carve their names and leave, staying rooted while everyone it loves goes on downstream; wistful, grateful, deep-time tenderness. Verses close and quiet over guitar and bass; the chorus opens with fiddle and harmony; a hushed bridge; a final chorus swelling then decaying to a single string. No EDM, no club beat, no synth bass drop, no rap, no autotune, no heavy distortion. 78 BPM, D major."
+
+lyrics: |
+  [Intro]
+  By the slow river
+
+  [Verse 1]
+  I have stood here longer
+  Than the road, than the town
+  I have watched the water take
+  Everything on down
+  Somebody's grandfather
+  Cut his name in my side
+  He's been gone a hundred years
+  And I still hold him inside
+
+  [Pre-Chorus]
+  They all come, they all carve
+  They all drift on by
+
+  [Chorus]
+  I'm the willow, I'm the willow
+  I stay where I am put
+  Every summer somebody swears
+  They'll come back to this root
+  And the river keeps its promise
+  It takes them all downstream
+  But I keep every name they gave me
+  Like a long green dream
+
+  [Verse 2]
+  A girl climbed up my shoulder
+  Sixty winters gone
+  She's an old woman somewhere
+  And I'm still holding on
+  I don't envy the going
+  I keep the ones who leave
+  In the quiet way
+
+  [Bridge]
+  Root — root
+  Deep in the cold
+  I trade the going for the keeping
+  And the keeping's worth its gold
+
+  [Final Chorus]
+  I'm the willow, I'm the willow
+  I stay where I am put
+  And I keep every name they gave me
+  Like a long green dream
+
+  [Outro]
+  By the slow river
+
+exclude_styles: "EDM, techno, house, dubstep, trap, drum and bass, hardstyle, aggressive club beat, four-on-the-floor, synth bass drop, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 3). Deliberate full style change from v424 (cinematic orchestral, female soprano) and v425 (warm 70s soul, female soul voice): COSMIC / DREAM FOLK — acoustic and earthy (fingerpicked steel-string guitar, upright bass, brushed drums, fiddle, mandolin, pedal steel), dusty tape warmth. Vocal rotates back to MALE but a totally different timbre from the v415-423 falsetto series: a warm, low, plainspoken male FOLK voice (storyteller, slight rasp). Theme is EARTHY/rooted, not synth-cosmic — a nice contrast to all the space songs while keeping the deep-time poetry the catalog likes.
+
+  Theme: WILLOW — a willow tree by a slow river that outlives everyone who carves a name into it; it stays rooted while all it loves drifts on downstream, and keeps every name "like a long green dream." Mood rotates to WISTFUL NOSTALGIA / grateful deep-time tenderness — trading the going for the keeping. Distinct from Ascend's uplifting-grief and Sunday's contented joy.
+
+  D major, 78 BPM (folk-gentle, between the 70-76 synth run and the 92 soul groove), male folk voice. exclude_styles blocks EDM/club drift WITHOUT excluding the acoustic instruments or vocals the style needs. Publish both clips public.
+
+tags:
+  - cosmic-folk
+  - dream-folk
+  - folk
+  - acoustic
+  - 78bpm
+  - d-major
+  - male-folk-voice
+  - storyteller-vocal
+  - fingerpicked-guitar
+  - upright-bass
+  - fiddle
+  - pedal-steel
+  - tape-warmth
+  - wistful-nostalgia
+  - deep-time-tenderness
+  - willow-river-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-3-folk
