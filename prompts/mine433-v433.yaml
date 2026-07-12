@@ -1,0 +1,89 @@
+name: "mine433-v433"
+version: 433
+title: "Mine433"
+instrumental: false
+vocal_gender: female
+
+style: "Warm neo-soul and R&B at 90 BPM in E-flat major, smooth, grown and sensual, deep in a laid-back pocket. A fat electric bass and live swung drums with a backbeat snap, warm Rhodes and Wurlitzer on lush extended chords, muted clean guitar, soft brass and string sweetening, finger snaps. A rich, grown female neo-soul voice leads up close — conversational, unhurried, honey-toned, dropping into easy jazzy runs and soft falsetto flips, layered into smooth stacked harmonies on the hook. The feeling: a woman calmly taking herself back after giving too much away — not angry, just done and sure; self-possession, quiet confidence, sensual warmth. Verses intimate and spoken-close over Rhodes and bass; the chorus opens with stacked harmony and brass; a smoky breakdown; a final chorus with ad-libbed runs over the groove. Vintage analog warmth, tasteful and unforced. No EDM, no club beat, no four-on-the-floor, no aggressive trap, no autotune, no distortion. 90 BPM, E-flat major."
+
+lyrics: |
+  [Intro]
+  Mm, taking it back
+
+  [Verse 1]
+  I gave you the good years
+  And the benefit too
+  Poured myself out like water
+  Just to keep something with you
+  I kept filling everybody's cup
+  While nobody poured for me
+
+  [Pre-Chorus]
+  So I'm quiet about it
+  But I'm sure
+
+  [Chorus]
+  This heart is mine
+  I'm taking the rest of it back
+  Every soft thing I handed out
+  I'm keeping some of it, that's that
+  I'm not slamming a single door
+  I'm just done being kind to a fault
+  This heart is mine
+  And I'm learning to want what I got
+
+  [Verse 2]
+  You'll say I got colder
+  I'd say I just got clear
+  There's a difference between distance
+  And finally being here
+  I'm not asking you to fix it
+  I'm not asking you to stay
+  I'm just done leaving myself
+  Out in the rain all day
+
+  [Bridge]
+  Mine — all mine
+  The tender and the tough
+  Turns out loving myself first
+  Was never loving you less, just enough
+
+  [Final Chorus]
+  This heart is mine
+  I'm taking the rest of it back
+  This heart is mine
+  And I'm learning to want what I got
+
+  [Outro]
+  Mm, all mine now
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, aggressive trap, drum and bass, hardstyle, rap, autotune, heavy metal, harsh distortion, country"
+
+notes: |
+  STYLE-ROTATION loop (cycle 10). Full style change from v424-432 (orchestral / soul / folk / trip-hop / piano-ballad / dream-pop / gospel / bossa / post-rock): WARM NEO-SOUL / R&B — laid-back pocket groove: fat electric bass, live swung drums with a backbeat snap, Rhodes + Wurlitzer on lush extended chords, muted clean guitar, soft brass/string sweetening, finger snaps. Vocal is a rich GROWN FEMALE NEO-SOUL voice — conversational, honey-toned, easy jazzy runs + soft falsetto flips, stacked harmonies (distinct from v425's big soul belt and v427's smoky noir alto: this is warm, unforced, grown). Rebalances vocal gender to female after two male cycles (v431/v432).
+
+  Theme: MINE — a woman calmly taking herself back after giving too much away: not angry, just done, grown, and sure ('turns out loving myself first was never loving you less, just enough'). Mood rotates to GROWN SELF-POSSESSION / quiet confidence + sensual warmth — a NEW register after all the longing/awe (Glacier's catharsis, Dusk's saudade, Harbor's protective love). Catchy hook 'This heart is mine / I'm taking the rest of it back.'
+
+  E-flat major, 90 BPM, grown female neo-soul voice. exclude_styles blocks EDM/club/trap drift WITHOUT excluding the live band, keys, brass, or vocals the style needs. Publish both clips public.
+
+tags:
+  - neo-soul
+  - r-and-b
+  - soul
+  - 90bpm
+  - eb-major
+  - female-neo-soul-vocal
+  - honey-toned-vocal
+  - jazzy-runs
+  - rhodes
+  - wurlitzer
+  - fat-bass
+  - swung-drums
+  - finger-snaps
+  - grown-self-possession
+  - quiet-confidence
+  - sensual-warmth
+  - taking-myself-back-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-10-neo-soul
