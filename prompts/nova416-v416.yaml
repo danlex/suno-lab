@@ -1,0 +1,89 @@
+name: "nova416-v416"
+version: 416
+title: "Nova416"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 74 BPM in D-flat major, slow and weightless, building to a radiant bloom. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation, a lush spacey soundscape, round sub-bass, crisp compressed drums with long reverb tails, and a shimmering layered choir on the choruses. An ethereal male falsetto floats at the front, tender and airy, drenched in reverb and delay, rising from a whisper to an ecstatic soaring peak. The feeling: a dying star going nova — releasing a billion years of hoarded light at once, becoming everything, transcendence not tragedy. Luminous, awestruck, joyful through tears. Near-silent intimate intro, choruses opening into an enormous radiant wash, a hushed falsetto bridge, then a towering final chorus decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune, no club beat. 74 BPM, D-flat major."
+
+lyrics: |
+  [Intro]
+  Hold it in
+  Let it go
+
+  [Verse 1]
+  For a billion years
+  I held the light
+  Folded in my chest
+  Too bright to write
+  Now the seams give way
+  Now the core ignites
+  I am not dying
+  I am giving sight
+
+  [Pre-Chorus]
+  Everything I kept
+  I finally spend
+
+  [Chorus]
+  Nova, I'm a nova
+  Blooming into everyone
+  All the light I hoarded
+  Given back, given back to the sun
+  Nova, I'm a nova
+  This is not the end I feared
+  It's the brightest thing I've ever been
+  The moment I disappear
+
+  [Verse 2]
+  Don't grieve the flash
+  Don't mourn the flare
+  The atoms in your hands
+  Were once my glare
+  I become the iron
+  In your blood and bone
+  You are made of stars
+  That let go alone
+
+  [Bridge]
+  Brighter — brighter
+  Then gone — but in you
+  The end of me
+  Is the start of you
+
+  [Final Chorus]
+  Nova, I'm a nova
+  Blooming into everyone
+  All the light I hoarded
+  Given back, given back to the sun
+
+  [Outro]
+  Hold it in
+  Let it go
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Loved-style series (v415+): dreamy psychedelic-pop / synth-wave (Blackhole/Afterglow world). Slow, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic-existential lyrics. Drafted directly (no fast-viral pipeline / no danceability gate).
+
+  Theme: NOVA — a dying star releasing a billion years of hoarded light at once; ecstatic dissolution, transcendence-not-tragedy, "you are made of stars that let go." Emotion (deliberate mood-variance): AWE / ECSTATIC TRANSCENDENCE — bright, overwhelming, joyful-through-tears — distinct from Afterglow's melancholy loss and Orbit's warm bittersweet longing. Builds from a whisper to a radiant soaring bloom (bigger climax than the others). Catchy hook "Nova, I'm a nova / blooming into everyone."
+
+  D-flat major (fresh vs Afterglow A / Orbit E), 74 BPM. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 74bpm
+  - db-major
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - layered-choir
+  - cosmic-awe-theme
+  - supernova-theme
+  - ecstatic-transcendence
+  - slow-build-bloom
+  - very-catchy-deep
+  - loved-style-series
