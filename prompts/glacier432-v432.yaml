@@ -1,0 +1,75 @@
+name: "glacier432-v432"
+version: 432
+title: "Glacier432"
+instrumental: false
+vocal_gender: male
+
+style: "Cinematic ambient post-rock at 72 BPM in E major, vast, slow-burning and cathartic, quiet building to overwhelming. It opens in near silence — a tremolo-picked guitar shimmering in cavernous reverb, a low bowed-guitar drone, distant glockenspiel — then slowly gathers bass, brushed then thundering drums, layers of reverbed guitars, swelling strings, and a deep timpani heartbeat, rising in long waves toward a towering wall of sound. A sparse, ethereal male voice floats far back in the cathedral space — mostly wordless soaring 'ah' vocalise, a few plain English lines surfacing at the crests, high and aching, more instrument than singer. The feeling: a glacier — centuries of slow pressure, then the thunder of calving ice into the sea; immense patience breaking into release and awe. Long instrumental passages, huge swings from whisper to roar, a final cathartic climax dissolving back into reverb and drone. No EDM, no club beat, no rap, no autotune, no harsh distortion. 72 BPM, E major."
+
+lyrics: |
+  [Intro: tremolo guitar and drone, near silence]
+  (soft wordless ah)
+
+  [Slow Build: glockenspiel, bass enters]
+  (distant oohs rising)
+
+  [Verse: hushed, high and far back]
+  A thousand quiet winters
+  Pressed into the blue
+  I have held the whole weight
+  Of everything I knew
+
+  [Swell: drums and strings gather]
+  (wordless ah, climbing)
+
+  [Pre-Climax: building loud]
+  And I feel the first crack
+  Run bright through the cold
+
+  [Climax: full wall of sound, voice soaring]
+  Let it go — let it go
+  All the years I held
+  Come down like thunder
+  (ah — ah — ah)
+  Break me into the sea
+  Let it go — let it go
+  I was never meant to hold forever
+  Just to fall, and be free
+  (ah — ah — ah)
+
+  [Comedown: waves receding]
+  (wordless ah, softening)
+
+  [Outro: drone and reverb]
+  Into the blue
+  (ah...)
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, harsh distortion, country"
+
+notes: |
+  STYLE-ROTATION loop (cycle 9). Full style change from v424-431 (orchestral / soul / folk / trip-hop / piano-ballad / dream-pop / gospel / bossa): CINEMATIC AMBIENT POST-ROCK — a long slow-burn crescendo: tremolo-picked reverb guitars, bowed-guitar drone, glockenspiel, gathering layers of guitar + strings + timpani + thundering drums, huge quiet-to-overwhelming dynamic swings and a cathartic wall-of-sound climax. Vocal is a SPARSE, ethereal MALE voice far back in a cathedral space — mostly wordless 'ah/oh' vocalise with only a few English lines at the crests (more instrument than singer) — distinct from the hazy buried dream-pop female (v429) and the intimate dreamy-pop falsetto: this is a cathartic post-rock SOAR, not an intimate hook voice.
+
+  Theme: GLACIER — centuries of slow silent pressure, then the thunder of calving ice into the sea; immense patience breaking into release. Mood rotates to CATHARTIC AWE / overwhelming release — being cracked open by something bigger than you ('let it go... I was never meant to hold forever, just to fall and be free'). Distinct from the gospel's communal joy, Dusk's saudade, Bloom's private overwhelm, Ascend's grief.
+
+  E major, 72 BPM, sparse ethereal male vocalise. Long instrumental passages + a few English crest-lines (language rule satisfied). exclude_styles blocks EDM/club drift WITHOUT excluding the guitars/strings/drums or vocals the style needs. Publish both clips public.
+
+tags:
+  - post-rock
+  - ambient
+  - cinematic
+  - crescendocore
+  - 72bpm
+  - e-major
+  - ethereal-male-vocalise
+  - wordless-vocal
+  - tremolo-guitars
+  - bowed-guitar-drone
+  - glockenspiel
+  - timpani
+  - wall-of-sound-climax
+  - quiet-loud-dynamics
+  - cathartic-awe
+  - overwhelming-release
+  - glacier-calving-theme
+  - style-rotation-loop
+  - style-9-post-rock
