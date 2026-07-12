@@ -1,6 +1,6 @@
 {
-  "total_prompts": 404,
-  "latest_version": 429,
+  "total_prompts": 405,
+  "latest_version": 430,
   "instruments": {
     "organ": [
       1,
@@ -86,7 +86,8 @@
       411,
       412,
       413,
-      425
+      425,
+      430
     ],
     "piano": [
       1,
@@ -161,7 +162,8 @@
       301,
       325,
       366,
-      425
+      425,
+      430
     ],
     "pipe organ": [
       1,
@@ -1254,10 +1256,13 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257,
+      314,
       324,
       325,
       326,
@@ -1290,15 +1295,6 @@
       405,
       407
     ],
-    "symphonic": [
-      162,
-      178,
-      311,
-      314,
-      318,
-      320,
-      322
-    ],
     "trap": [
       264,
       274,
@@ -1307,6 +1303,12 @@
       287,
       297,
       301
+    ],
+    "symphonic": [
+      311,
+      318,
+      320,
+      322
     ],
     "techno": [
       279,
@@ -1712,6 +1714,15 @@
       407,
       429
     ],
+    "c major": [
+      39,
+      110,
+      203,
+      331,
+      364,
+      423,
+      430
+    ],
     "e major": [
       25,
       91,
@@ -1746,14 +1757,6 @@
       343,
       393,
       401
-    ],
-    "c major": [
-      39,
-      110,
-      203,
-      331,
-      364,
-      423
     ],
     "d-sharp minor": [
       210,
@@ -2004,7 +2007,8 @@
     "80": [
       109,
       202,
-      309
+      309,
+      430
     ],
     "81": [
       195
@@ -2441,6 +2445,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 430,
+      "title": "Higher430",
+      "name": "higher430-v430",
+      "featured": [],
+      "genre": null,
+      "key": "c major",
+      "bpm": 80
+    },
     {
       "version": 429,
       "title": "Bloom429",
@@ -3443,7 +3456,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": "b minor",
       "bpm": 100
     },
@@ -4992,7 +5005,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -5143,7 +5156,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },

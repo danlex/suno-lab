@@ -1,0 +1,87 @@
+name: "dusk431-v431"
+version: 431
+title: "Dusk431"
+instrumental: false
+vocal_gender: male
+
+style: "Warm bossa nova and lounge at 112 BPM in A minor with lush jazzy major-seventh color, relaxed, sensual and wistful, a gentle sway. A soft nylon-string guitar plays the bossa comping, with supple upright bass, brushed drums, warm Rhodes, glinting vibraphone, and a lone muted trumpet answering in the gaps. A warm, smooth, close-mic'd male croon leads at the front — understated, intimate, breathy and unhurried, a lounge crooner half-smiling, layered into soft harmony on the hook. The feeling: a slow dance on a balcony as the evening ends, gold light going blue, choosing to be fully inside the fade — saudade, sensual wistfulness, bittersweet warmth. Conversational verses over guitar and bass; the chorus opens with vibraphone and trumpet; a muted-trumpet break; a final chorus that leans in, then a whispered ending. No EDM, no club beat, no four-on-the-floor, no rap, no autotune, no distortion, no rock guitars. 112 BPM, A minor."
+
+lyrics: |
+  [Intro]
+  Un, deux... slow
+
+  [Verse 1]
+  The record's on its last song
+  And your shoes are in your hand
+  There's a blue coming up the window
+  Where the gold used to stand
+  But the song's not over
+  And neither are you
+
+  [Pre-Chorus]
+  So stay in the turning
+  One more slow degree
+
+  [Chorus]
+  It's dusk, it's dusk
+  Everything good is a little bit leaving
+  It's dusk, it's dusk
+  So I'm holding you close while it's still worth the grieving
+  I won't waste the ending
+  Being sad it's the end
+  Dance me through the last of the light
+  My slow, going friend
+
+  [Verse 2]
+  Tomorrow's got its reasons
+  And the morning's got its pull
+  But right here in the almost-dark
+  My whole cup is full
+  I don't need it forever
+  I just need it now
+
+  [Bridge]
+  Fade — fade
+  Soft as you please
+  The sweetest things arrive already
+  Halfway to the leaves
+
+  [Final Chorus]
+  It's dusk, it's dusk
+  So I'm holding you close while it's still worth the grieving
+  Dance me through the last of the light
+  My slow, going friend
+
+  [Outro]
+  Un, deux... gone
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, rock, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 8). Full style change from v424-430 (orchestral / soul / folk / trip-hop / piano-ballad / dream-pop / gospel): WARM BOSSA NOVA / LOUNGE — soft nylon-string guitar bossa comping, supple upright bass, brushed drums, Rhodes, vibraphone, a lone muted trumpet answering in the gaps; lush jazzy maj7 color. Vocal is a warm, smooth, close-mic'd MALE CROON (understated lounge crooner, breathy-intimate) — distinct from the plainspoken folk baritone (v426) and the big emotive tenor (v428). Relaxed bossa sway at 112 (tempo variance) — the FEEL is unmistakably laid-back, NOT club.
+
+  Theme: DUSK — a slow dance on a balcony as the evening ends, gold light going blue, choosing to be fully inside the fade rather than mourning it ('I won't waste the ending being sad it's the end'). Mood rotates to SENSUAL WISTFULNESS / saudade / bittersweet warmth + present-tense acceptance — distinct from the gospel's communal joy, Harbor's protective love, Static's noir, etc. The French count-in 'un, deux' (one, two) is a spoken bossa count-in gesture — everything sung is English; French is allowed under the language rule. Catchy hook 'It's dusk, it's dusk / dance me through the last of the light.'
+
+  A minor (jazzy), 112 BPM, warm male croon. exclude_styles blocks EDM/club/rock drift WITHOUT excluding the acoustic/jazz instruments or vocals the style needs. Publish both clips public.
+
+tags:
+  - bossa-nova
+  - lounge
+  - jazz
+  - 112bpm
+  - a-minor
+  - male-croon
+  - lounge-crooner
+  - nylon-string-guitar
+  - upright-bass
+  - brushed-drums
+  - vibraphone
+  - muted-trumpet
+  - rhodes
+  - sensual-wistfulness
+  - saudade
+  - present-in-the-fade
+  - dusk-slow-dance-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-8-bossa-lounge
