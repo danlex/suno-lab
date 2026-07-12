@@ -1,0 +1,86 @@
+name: "sunday425-v425"
+version: 425
+title: "Sunday425"
+instrumental: false
+vocal_gender: female
+
+style: "Warm 1970s soul and soul-pop at 92 BPM in B-flat major, golden and unhurried, deep in the pocket. A tight live rhythm section — round electric bass, warm live drums with a soft brushed snare, Rhodes electric piano, Hammond organ swells, clean rhythm guitar chanking on the offbeats — with a small horn section (trumpet and tenor sax) and lush string sweetening. A rich, full-chested female soul voice leads at the front, warm and tender with gentle melisma, answered by soft backing 'oohs'. The feeling: a slow Sunday morning in love — coffee going cold, someone still asleep beside you, sunlight on a bare shoulder, unhurried gratitude. Vintage analog warmth and tape saturation, wide stereo, real room. Catchy, hopeful, deeply human. Verses intimate over Rhodes and bass; choruses open up with horns and strings; a warm bridge; a final chorus with layered harmonies. No EDM, no aggressive club beat, no four-on-the-floor kick, no rap, no autotune, no harsh distortion. 92 BPM, B-flat major."
+
+lyrics: |
+  [Intro]
+  Mm... slow gold
+
+  [Verse 1]
+  Coffee going cold
+  'Cause I won't move my arm
+  You're a heavy kind of peaceful
+  And I like the way you're warm
+  The whole world's running late
+  Let the whole world wait
+  There's a Sunday on your shoulder
+  And I don't want to be great
+
+  [Pre-Chorus]
+  Let it ring, let it ring
+  Nobody's home
+
+  [Chorus]
+  This is the slow gold
+  The stay-in-bed, the coffee-cold
+  Light across your bare shoulder
+  And a love that's growing old — the good way
+  This is the slow gold
+  No place to be, no clock to mind
+  Everything I ran around for
+  Was here the whole time
+
+  [Verse 2]
+  I used to chase the morning
+  Like it owed me a crown
+  Now your breathing keeps the tempo
+  And the fear slows down
+  The only urgent thing
+  Is that I'm here
+
+  [Bridge]
+  Stay, stay
+  Let the kettle sing alone
+  Every road I ever wanted
+  Just led back to your home
+
+  [Final Chorus]
+  This is the slow gold
+  The stay-in-bed, the coffee-cold
+  Everything I ran around for
+  Was here the whole time
+
+  [Outro]
+  Mm... slow gold
+
+exclude_styles: "EDM, techno, house, dubstep, trap, drum and bass, hardstyle, aggressive club beat, four-on-the-floor, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 2). Deliberate full style change from v424 (cinematic orchestral) and the v415-423 dreamy synth-pop run: WARM 1970s SOUL / soul-pop — live band (electric bass, live drums, Rhodes, Hammond, guitar), horns + strings. Vocal rotates again to a full-chested FEMALE SOUL voice (vs the soprano of v424 and the male falsetto series). Earthy/HUMAN theme (not cosmic). Mood rotates to CONTENTED JOY / warmth (vs Ascend's uplifting-grief). Mid-tempo groove 92 BPM (tempo variance vs the 70-76 range).
+
+  Theme: SUNDAY / SLOW GOLD — a slow Sunday morning in love, unhurried gratitude, 'everything I ran around for was here the whole time.' Hook rewritten to avoid the famous 'A Sunday Kind of Love' phrase — original hook is 'this is the slow gold.' Warm, hopeful, human.
+
+  B-flat major, 92 BPM, female soul. exclude_styles blocks EDM/club drift WITHOUT excluding the live-band instruments or vocals the style needs (Rhodes/Hammond are electromechanical, not blocked). Publish both clips public.
+
+tags:
+  - soul
+  - soul-pop
+  - 70s-soul
+  - 92bpm
+  - bb-major
+  - female-soul-vocal
+  - rhodes
+  - hammond-organ
+  - horn-section
+  - strings
+  - live-band
+  - vintage-analog
+  - warm-contented-joy
+  - sunday-morning-love-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-2-soul

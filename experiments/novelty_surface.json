@@ -1,6 +1,6 @@
 {
-  "total_prompts": 398,
-  "latest_version": 423,
+  "total_prompts": 399,
+  "latest_version": 424,
   "instruments": {
     "organ": [
       1,
@@ -321,7 +321,8 @@
       310,
       316,
       321,
-      323
+      323,
+      424
     ],
     "harp": [
       37,
@@ -342,7 +343,8 @@
       320,
       337,
       360,
-      418
+      418,
+      424
     ],
     "french horn": [
       52,
@@ -1202,8 +1204,7 @@
       312,
       316,
       317,
-      319,
-      323
+      319
     ],
     "neoclassical": [
       1,
@@ -1231,7 +1232,8 @@
       200,
       248,
       249,
-      321
+      321,
+      424
     ],
     "cinematic": [
       5,
@@ -1327,6 +1329,10 @@
       336,
       349
     ],
+    "minimalist": [
+      201,
+      323
+    ],
     "passacaglia": [
       111,
       202
@@ -1361,9 +1367,6 @@
     ],
     "lo-fi": [
       296
-    ],
-    "minimalist": [
-      201
     ],
     "progressive house": [
       96
@@ -1570,7 +1573,8 @@
       64,
       187,
       276,
-      344
+      344,
+      424
     ],
     "a major": [
       38,
@@ -1926,7 +1930,8 @@
       293,
       321,
       419,
-      423
+      423,
+      424
     ],
     "71": [
       180
@@ -2417,6 +2422,18 @@
     ]
   },
   "titles": [
+    {
+      "version": 424,
+      "title": "Ascend424",
+      "name": "ascend424-v424",
+      "featured": [
+        "string orchestra",
+        "harp"
+      ],
+      "genre": "neoclassical",
+      "key": "d major",
+      "bpm": 70
+    },
     {
       "version": 423,
       "title": "Aphelion423",
@@ -3260,7 +3277,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "orchestral",
+      "genre": "minimalist",
       "key": "d minor",
       "bpm": 54
     },
