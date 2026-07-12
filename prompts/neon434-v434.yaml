@@ -1,0 +1,94 @@
+name: "neon434-v434"
+version: 434
+title: "Neon434"
+instrumental: false
+vocal_gender: male
+
+style: "Glossy 1980s city-pop at 114 BPM in A major, bright, warm and bittersweet, cruising. Funky clean chorused guitar, warm slap-tinged bass in the pocket, crisp gated-reverb drums, lush analog synth pads, glassy electric-piano stabs, shimmering bells, and a bright alto sax. A smooth, slightly wistful male voice leads up front — polished and easy, a little yearning, gliding into airy falsetto on the hook, layered with silky backing harmonies. The feeling: cruising neon-lit streets past midnight, windows down, replaying a summer and a person already memory; glossy nostalgia, bittersweet warmth, missing something while smiling. Verses ride the groove; the pre-chorus lifts; the chorus opens wide and catchy with synth pads and harmonies; a mid-song sax solo over the groove; a final chorus with ad-libs, then a long cruising outro. Sleek analog warmth, retro-futurist glow. No EDM drop, no four-on-the-floor club beat, no aggressive bass, no rap, no autotune, no distortion. 114 BPM, A major."
+
+lyrics: |
+  [Intro]
+  Green light, go
+
+  [Verse 1]
+  The city's wet with color
+  And the radio's warm
+  I take the long way over
+  Just to stay in the storm
+  Your ghost rides shotgun quiet
+  With the window cracked
+  I could take you home tonight
+  If you were coming back
+
+  [Pre-Chorus]
+  But the light turns green
+  And the night pulls me on
+
+  [Chorus]
+  Neon, neon
+  Painting your name on the rain
+  I'm cruising through a memory
+  That still knows how to ache
+  Neon, neon
+  Every window's got your face
+  I'm not lost, I'm just driving
+  Somewhere you used to be
+
+  [Verse 2]
+  I know the song is over
+  I just love how it sounds
+  So I keep it on repeat
+  While the whole town slows down
+  Tomorrow I'll be sober
+  And the streets will just be streets
+  But at midnight in the color
+  You're still riding next to me
+
+  [Sax Solo]
+
+  [Bridge]
+  Glow — glow
+  Let it stay unreal
+  Some things are only honest
+  In the light they don't feel
+
+  [Final Chorus]
+  Neon, neon
+  Painting your name on the rain
+  I'm not lost, I'm just driving
+  Somewhere you used to be
+
+  [Outro]
+  Green light
+
+exclude_styles: "EDM, techno, house, big room, club drop, four-on-the-floor, dubstep, trap, drum and bass, hardstyle, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 11). Full style change from v424-433 (orchestral / soul / folk / trip-hop / piano-ballad / dream-pop / gospel / bossa / post-rock / neo-soul): GLOSSY 1980s CITY-POP — funky clean chorused guitar, slap-tinged pocket bass, crisp gated-reverb drums, lush analog synth pads + glassy EP stabs, shimmering bells, a bright ALTO-SAX SOLO. Vocal is a smooth, slightly wistful MALE city-pop voice (polished, airy falsetto on the hook, silky harmonies) — distinct from the folk baritone, emotive tenor, bossa croon, post-rock vocalise. Upbeat groove (114) but NOT club/EDM.
+
+  Theme: NEON — cruising neon-lit streets past midnight replaying a love that's already memory ('I'm not lost, I'm just driving somewhere you used to be'). Mood rotates to GLOSSY NEON NOSTALGIA / bittersweet night-drive yearning — motion, neon, missing something while still smiling. New register vs neo-soul's self-possession, Glacier's awe, Dusk's saudade.
+
+  DURATION FIX (v433 rendered 2:13/2:39 short): built in an explicit [Sax Solo] mid-song instrumental vamp + a long cruising outro + a late final chorus to push a fuller ~3:00 arc.
+
+  A major, 114 BPM, smooth male city-pop voice. exclude_styles blocks EDM/club drift WITHOUT excluding the guitar/synths/sax/drums or vocals the style needs. Publish both clips public.
+
+tags:
+  - city-pop
+  - 80s
+  - retro-futurist
+  - 114bpm
+  - a-major
+  - male-city-pop-vocal
+  - airy-falsetto-hook
+  - chorused-guitar
+  - slap-bass
+  - gated-reverb-drums
+  - analog-synth-pads
+  - alto-sax-solo
+  - glossy-neon-nostalgia
+  - bittersweet-night-drive
+  - neon-memory-theme
+  - sax-solo-vamp-for-duration
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-11-city-pop
