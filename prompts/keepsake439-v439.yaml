@@ -1,0 +1,88 @@
+name: "keepsake439-v439"
+version: 439
+title: "Keepsake439"
+instrumental: false
+vocal_gender: female
+
+style: "Ornate chamber-folk and baroque-pop at 90 BPM in E minor, a lilting 3/4 waltz, intimate, literate and bittersweet. Fingerpicked nylon guitar, warm harp, string quartet, clarinet and oboe trading lines, harpsichord and glassy celeste, soft upright bass, and brushes with a gentle waltzing swing. A clear, pure female voice leads up close — warm literate mezzo, unadorned and expressive, a storyteller with perfect diction, soft harmony on the refrain. The feeling: pressing small things between the pages of a book to keep a moment already leaving — a ticket stub, a pressed flower, a soft-cornered photograph; tender literary wonder, the sweet ache of holding time. Verses lilt over guitar and harp; the refrain blooms with strings and woodwinds; a mid-song clarinet-and-oboe interlude; a hushed verse, then a final refrain swelling warm, a last plucked harp note. Warm chamber-hall reverb. No EDM, no drums-forward beat, no club rhythm, no synths, no rap, no autotune. 90 BPM, 3/4, E minor."
+
+lyrics: |
+  [Intro]
+  Between the pages
+
+  [Verse 1]
+  A ticket to a matinee
+  We never talked about
+  A leaf you handed me in fall
+  Before the leaves ran out
+  I press them flat and shut the book
+  And put it on the shelf
+  A little archive of the days
+  I couldn't keep myself
+
+  [Refrain]
+  Keepsake, keepsake
+  Flatten the flower, save the day
+  Everything beautiful is leaving
+  So I fold a little of it away
+  Keepsake, keepsake
+  I can't hold the season, only this
+  A pressed and paper version
+  Of a thing too bright to miss
+
+  [Verse 2]
+  I know it isn't really you
+  It's a ticket and a stain
+  But when the winter takes the color
+  It gives me back a grain
+  I open to the flattened rose
+  And I'm rich once more
+
+  [Clarinet Interlude]
+
+  [Bridge]
+  Fold — fold
+  The corners of the bright
+  We are all just little curators
+  Of a quickly-closing light
+
+  [Final Refrain]
+  Keepsake, keepsake
+  I can't hold the season, only this
+  A pressed and paper version
+  Of a thing too bright to miss
+
+  [Outro]
+  Between the pages... still
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, rock"
+
+notes: |
+  STYLE-ROTATION loop (cycle 16). Full style change from v424-438: ORNATE CHAMBER-FOLK / BAROQUE-POP — fingerpicked nylon guitar, harp, string quartet, clarinet + oboe, harpsichord + celeste, upright bass, brushed waltz. FIRST 3/4 WALTZ of the rotation (a meter change — every prior cycle was 4/4). Vocal is a clear, pure, LITERATE FEMALE mezzo storyteller with perfect diction (distinct from v424's operatic soprano, v425 soul belt, v437 torch singer, v433 neo-soul — this is an unadorned art-song voice). Intimate, hand-made, no drums-forward beat.
+
+  Theme: KEEPSAKE — pressing small things (a ticket stub, a flat blue flower, a soft-cornered photograph) between the pages of a book to keep a moment already leaving; 'we are all just little curators of a quickly-closing light.' Mood rotates to TENDER LITERARY WONDER / bittersweet preservation — the sweet ache of trying to hold time, love of small perishable things. A NEW register vs Rust's grit-pride, Smoke's devastation, Sparks' joy. Refrain hook 'Keepsake, keepsake / I can't hold the season, only this.'
+
+  DURATION LEVER: explicit lyric-free [Clarinet Interlude] mid-song + late final refrain + plucked-harp outro for a fuller ~3:00 arc.
+
+  E minor, 90 BPM in 3/4, clear literate female mezzo. exclude_styles blocks EDM/club/synth/rock drift WITHOUT excluding the chamber instruments or vocals the style needs. Publish both clips public.
+
+tags:
+  - chamber-folk
+  - baroque-pop
+  - chamber-pop
+  - 3-4-waltz
+  - 90bpm
+  - e-minor
+  - literate-female-mezzo
+  - art-song-vocal
+  - harp
+  - string-quartet
+  - clarinet-oboe
+  - harpsichord-celeste
+  - clarinet-interlude
+  - tender-literary-wonder
+  - bittersweet-preservation
+  - keepsake-pressed-flower-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-16-chamber-folk
