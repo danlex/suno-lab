@@ -1,0 +1,89 @@
+name: "voyager418-v418"
+version: 418
+title: "Voyager418"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 72 BPM in G major, slow, warm and weightless. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation with soft hiss, a lush spacey soundscape, round sub-bass, gentle harp-like arpeggios, and crisp compressed drums with long reverb tails. An ethereal male falsetto floats at the front, tender and airy, drenched in reverb and delay, singing a simple catchy hook over deep introspective lines. The feeling: a small lonely spacecraft carrying a golden record of human music, drifting past the edge of the solar system, singing into the dark for anyone who might hear — hopeful, aching, at peace. A love note to the void. Intimate close verses, choruses opening into a wide shimmering wash, a hushed falsetto bridge, then a final chorus of layered harmonies decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune, no four-on-the-floor club beat. 72 BPM, G major."
+
+lyrics: |
+  [Intro]
+  Out here
+  No one near
+
+  [Verse 1]
+  I carry a record
+  Of everything we were
+  A whale, a rainstorm
+  A mother's blur
+  I was thrown at the dark
+  With a song in my chest
+  No address, no answer
+  Just do your best
+
+  [Pre-Chorus]
+  If anyone finds me
+  Play me loud
+
+  [Chorus]
+  I'm a voyager, a voyager
+  Singing to the black
+  Forty years of silence
+  And I'm never turning back
+  I'm a voyager, a voyager
+  A love note to the void
+  Maybe no one hears it
+  But I sang it, overjoyed
+
+  [Verse 2]
+  The sun's a pale star now
+  Behind my back
+  Everyone I sang for
+  Is a speck of light, a crack
+  But the record still turns
+  In the freezing hush
+  Carrying your laughter
+  Through the endless rush
+
+  [Bridge]
+  Not lost — just far
+  Not gone — just sent
+  The love outlives
+  The instrument
+
+  [Final Chorus]
+  I'm a voyager, a voyager
+  Singing to the black
+  A love note to the void
+  And I'm never turning back
+
+  [Outro]
+  Out here
+  No one near
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Loved-style series (v415+): dreamy psychedelic-pop / synth-wave (Blackhole/Afterglow world). Slow, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic lyrics. Drafted directly (no fast-viral pipeline / no danceability gate).
+
+  Theme: VOYAGER — a small craft carrying a golden record of human music into the endless dark, singing to no one, hoping to be heard; a love note to the void. Emotion (deliberate mood-variance): TENDER HOPE / bittersweet peace — warm, gentle, hopeful-lonely, at peace — distinct from Afterglow (loss), Orbit (love), Nova (awe), Pulsar (defiance). Catchy hook "I'm a voyager, a voyager / a love note to the void."
+
+  G major (warm, fresh vs A / E / Db / Bm), 72 BPM, gentle harp-like arpeggios. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 72bpm
+  - g-major
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - harp-arpeggios
+  - cosmic-hope-theme
+  - voyager-golden-record-theme
+  - tender-bittersweet-peace
+  - slow-tempo
+  - very-catchy-deep
+  - loved-style-series
