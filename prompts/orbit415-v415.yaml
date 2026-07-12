@@ -1,0 +1,89 @@
+name: "orbit415-v415"
+version: 415
+title: "Orbit415"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 72 BPM in E major, slow and weightless. Hypnotic analog synthesizers washed in heavy hall reverb, warm 1970s tape saturation with soft hiss, a lush spacey soundscape, round distorted sub-bass, crisp compressed drums with long reverb tails. An ethereal male falsetto floats at the front, tender and airy, drenched in reverb and delay, singing a simple catchy hook over deep introspective lines. The feeling: two bodies caught in orbit — falling toward each other forever, never landing, gravity as devotion. Luminous, aching, bittersweet. It builds from a soft pulsing intro into wide shimmering choruses, a stripped falsetto bridge, then a final chorus of layered harmonies decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune, no four-on-the-floor club beat. 72 BPM, E major."
+
+lyrics: |
+  [Intro]
+  Round and round
+  Never down
+
+  [Verse 1]
+  I fall around you
+  I never land
+  Caught in the pull
+  Of your open hand
+  Close as the light
+  Far as the dark
+  I circle the fire
+  Can't hold the spark
+
+  [Pre-Chorus]
+  Gravity — gravity
+  Won't let me go
+
+  [Chorus]
+  We orbit, we orbit
+  Never touching, never through
+  All my falling, all my falling
+  Is a falling toward you
+  We orbit, we orbit
+  Two bright bodies in the blue
+  I would burn to reach you
+  But the burning's all I'd do
+
+  [Verse 2]
+  A hundred thousand years
+  In the same slow ring
+  You are my noon
+  You are everything
+  I learned the whole sky
+  To stay this near
+  The closest I come
+  Is to circle here
+
+  [Bridge]
+  Let go — I'd drift
+  Hold on — I'd fall
+  The orbit is the love
+  That holds it all
+
+  [Final Chorus]
+  We orbit, we orbit
+  Never touching, never through
+  All my falling, all my falling
+  Is a falling toward you
+
+  [Outro]
+  Round and round
+  Never down
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Series in the user's LOVED style (v415+): dreamy psychedelic-pop / synth-wave (like their "I am the blackhole" + Afterglow414). Slow 72 BPM, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic-existential first-person lyrics. Drafted directly (the fast-viral MoA/danceability pipeline is mis-tuned for this slow style; no danceability gate). Loop re-pointed to this style — NO fast beat-driven/club experiments.
+
+  Theme: ORBIT — cosmic love as gravity; two bodies falling toward each other forever, never landing; devotion that can never quite arrive. Emotion: luminous, aching, bittersweet (distinct from Afterglow's dead-star melancholy — this is warm longing). Catchy hook "We orbit, we orbit / all my falling is a falling toward you."
+
+  E major (warm, fresh vs Afterglow's A major). Publish both clips public. Bigger-variance directive: vary theme + mood across the series.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 72bpm
+  - e-major
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - lush-spacey
+  - cosmic-love-theme
+  - orbit-gravity-theme
+  - bittersweet-longing
+  - slow-tempo
+  - very-catchy-deep
+  - loved-style-series
