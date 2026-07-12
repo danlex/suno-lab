@@ -1,0 +1,87 @@
+name: "sparks436-v436"
+version: 436
+title: "Sparks436"
+instrumental: false
+vocal_gender: female
+
+style: "Bright, anthemic indie-pop at 120 BPM in G major, sunny, kinetic and joyful. Jangly chorused guitars ringing out, a bouncy melodic bass, punchy live drums with a driving backbeat, bright synth sparkle and glockenspiel, warm handclaps, and big gang-vocal 'whoa-oh' backing. An earnest, bright female voice leads out front — youthful, breathless and grinning, a little raw at the top, tumbling words out fast in the verses and belting the hook wide open. The feeling: brand-new love that makes you want to run at everything — heart-racing, reckless, laughing, the world suddenly in color; exuberant, restless, wide-awake joy. Verses ride fast and close; the pre-chorus lifts; the chorus explodes bright and huge with gang vocals and handclaps; a stomping gang-vocal bridge; a final chorus even bigger, then a ringing guitar outro. Warm, live, punchy, radio-bright. No EDM drop, no heavy club four-on-the-floor kick, no rap, no autotune, no distortion, no dark or moody tone. 120 BPM, G major."
+
+lyrics: |
+  [Intro]
+  Oh, whoa-oh
+
+  [Verse 1]
+  Met you on a Tuesday
+  Nothing Tuesdays do that
+  Now I'm running every yellow
+  Just to get where you're at
+  Then you laughed at something stupid
+  And it kicked out all my gears
+
+  [Pre-Chorus]
+  And my chest goes bang
+  Every time you say my name
+
+  [Chorus]
+  Sparks — I'm all sparks
+  You lit the whole dry field of me on fire
+  Sparks — catching sparks
+  I forgot that I could ever want it higher
+  I'm running at the morning
+  I'm running at the dark
+  Whatever this is, don't put it out
+  I love being all sparks
+
+  [Verse 2]
+  I used to walk the long way
+  Around anything that mattered
+  Now I'm sprinting at the deep end
+  With my careful heart in tatters
+  Turns out I was never tired
+  I just had nowhere to go
+
+  [Bridge: gang vocals, stomp-clap]
+  Whoa-oh, whoa-oh
+  Burn it down, let it show
+  Whoa-oh, whoa-oh
+  I'm not careful anymore
+
+  [Final Chorus]
+  Sparks — I'm all sparks
+  You lit the whole dry field of me on fire
+  Whatever this is, don't put it out
+  I love being all sparks
+
+  [Outro]
+  Oh, whoa-oh
+
+exclude_styles: "EDM, techno, house, big room, club drop, dubstep, trap, drum and bass, hardstyle, rap, hip hop, autotune, heavy metal, harsh distortion, dark, moody, ambient"
+
+notes: |
+  STYLE-ROTATION loop (cycle 13). Full style change from v424-435 (orchestral / soul / folk / trip-hop / piano-ballad / dream-pop / gospel / bossa / post-rock / neo-soul / city-pop / dreamy-synth-pop): BRIGHT ANTHEMIC INDIE-POP — jangly chorused guitars, bouncy bass, punchy live drums, glockenspiel + synth sparkle, handclaps, big gang-vocal 'whoa-oh' hooks. Earnest bright FEMALE voice (youthful, breathless, raw at the top — rebalances gender after two male cycles v434/v435, and is a totally different vocal from the soul belt / gospel lead / neo-soul / breathy shoegaze). DELIBERATE ENERGY + MOOD CONTRAST: the catalog has been slow/atmospheric/bittersweet for many cycles — this is fast-ish (120), sunny, and unambiguously JOYFUL. NOT club/EDM: live band, organic, radio-bright.
+
+  Theme: SPARKS — brand-new love that makes you want to run at everything; the careful person cutting loose ('turns out I was never tired, I just had nowhere to go'). Mood rotates to EXUBERANT, RESTLESS NEW-LOVE JOY — wide-awake, reckless, laughing — a fresh upbeat register vs the recent longing/awe/drift/nostalgia. Big sing-along hook 'Sparks — I'm all sparks / you lit the whole dry field of me on fire.'
+
+  DURATION: stomping gang-vocal bridge breakdown + even-bigger final chorus + ringing guitar outro for a fuller ~3:00 arc.
+
+  G major, 120 BPM, bright female indie voice. exclude_styles blocks EDM/club/dark drift WITHOUT excluding the guitars/drums/synth-sparkle or vocals the style needs. Publish both clips public.
+
+tags:
+  - indie-pop
+  - anthemic
+  - jangle-pop
+  - 120bpm
+  - g-major
+  - bright-female-vocal
+  - gang-vocals
+  - jangly-guitars
+  - handclaps
+  - glockenspiel
+  - big-singalong-hook
+  - exuberant-joy
+  - restless-new-love
+  - energy-contrast-cycle
+  - sparks-new-love-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-13-indie-pop
