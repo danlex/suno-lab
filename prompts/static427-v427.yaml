@@ -1,0 +1,92 @@
+name: "static427-v427"
+version: 427
+title: "Static427"
+instrumental: false
+vocal_gender: female
+
+style: "Nocturnal trip-hop and downtempo at 88 BPM in G minor, smoky, cinematic and cool. A dusty half-time boom-bap beat with a fat lazy snare behind the beat, deep round sub-bass, warm vinyl crackle and tape hiss, dubby echo, a smoky Rhodes, a lonely muted trumpet, cold cinematic string swells, and a soft vibraphone glinting in the dark. A cool, breathy female alto sings low and close at the front — intimate, unhurried, a little detached, jazz-inflected, soaked in reverb and delay — layered into hushed harmony on the hook. The feeling: 3 a.m., tuning an old radio through dead frequencies, catching the ghost of a voice you knew inside the hiss; noir melancholy, distance, strange calm. Verses close and whispered over beat and bass; the chorus opens into strings and echo; a stripped bridge with just trumpet and crackle; a final chorus dissolving into static. No EDM, no club drop, no four-on-the-floor, no rap verses, no aggressive bass, no autotune, no distortion. 88 BPM, G minor."
+
+lyrics: |
+  [Intro]
+  (static hiss)
+  Turn it low
+
+  [Verse 1]
+  Three in the morning
+  And the dial's my only friend
+  Turning through the nothing
+  Where the signals end
+  Somewhere in the crackle
+  There's a room we used to share
+  I don't catch the words now
+  Just the shape of you in air
+
+  [Pre-Chorus]
+  Between the stations
+  Is where you live
+
+  [Chorus]
+  You're just static now
+  A voice inside the hiss
+  A little warm, a little gone
+  A frequency I miss
+  You're just static now
+  But I let the noise come through
+  'Cause even in the nothing
+  There's a little bit of you
+
+  [Verse 2]
+  I could turn it off
+  And let the quiet win
+  But the quiet's where you're really gone
+  So I let the hiss back in
+  They say let the dead ones rest
+  But your ghost lives in the wiring
+  And the wiring knows me best
+
+  [Bridge]
+  Fade — fade
+  Under the tone
+  I'd rather have you as a whisper
+  Than a silence on my own
+
+  [Final Chorus]
+  You're just static now
+  A voice inside the hiss
+  'Cause even in the nothing
+  There's a little bit of you
+
+  [Outro]
+  (static fading)
+  Turn it low
+
+exclude_styles: "EDM, techno, house, dubstep, big room, four-on-the-floor, hardstyle, aggressive bass, rap verses, hip hop bars, autotune, heavy metal, harsh distortion, country"
+
+notes: |
+  STYLE-ROTATION loop (cycle 4). Full style change from v424 (cinematic orchestral, female soprano), v425 (warm 70s soul, female soul voice), v426 (cosmic folk, male folk voice): NOCTURNAL TRIP-HOP / DOWNTEMPO — dusty half-time boom-bap beat, deep sub-bass, vinyl crackle & tape hiss, smoky Rhodes, lonely muted trumpet, cold cinematic strings, vibraphone. Vocal is a cool, breathy, jazz-inflected FEMALE ALTO (smoky/detached) — a distinct timbre from the soprano (424) and the soul belt (425). Slow-hip-hop tempo (88) with a behind-the-beat swing.
+
+  Theme: STATIC — 3 a.m., tuning an old radio through dead frequencies and catching the ghost of a voice you used to know inside the hiss; keeping someone as a whisper in the noise rather than a silence. Mood rotates to NOIR MELANCHOLY / cool nocturnal longing with a strange calm — distinct from Ascend's uplifting-grief, Sunday's contented joy, and Willow's wistful nostalgia. Catchy hook 'You're just static now / a voice inside the hiss.'
+
+  G minor, 88 BPM, breathy female alto. exclude_styles blocks EDM/club/rap drift WITHOUT excluding the beat, bass, strings, or vocals the style needs. Publish both clips public.
+
+tags:
+  - trip-hop
+  - downtempo
+  - nocturnal
+  - noir
+  - 88bpm
+  - g-minor
+  - female-alto
+  - breathy-jazz-vocal
+  - boom-bap-beat
+  - sub-bass
+  - vinyl-crackle
+  - muted-trumpet
+  - cinematic-strings
+  - vibraphone
+  - noir-melancholy
+  - cool-nocturnal-longing
+  - static-radio-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-4-trip-hop
