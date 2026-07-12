@@ -1,0 +1,89 @@
+name: "comet421-v421"
+version: 421
+title: "Comet421"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 72 BPM in E-flat major, slow, warm and weightless, wide-eyed. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation with soft hiss, a lush spacey soundscape, round sub-bass, twinkling bell and celeste tones, and crisp compressed drums with long reverb tails. An ethereal male falsetto floats at the front, tender and airy, drenched in reverb and delay, full of open-hearted wonder, singing a simple catchy hook over deep introspective lines. The feeling: a child on the grass watching a comet that won't return for a lifetime — the vast slow ache of deep time, smallness under an enormous sky, pure wonder tinged with gentle poignancy. Intimate close verses, choruses opening into a wide shimmering starlit wash, a hushed falsetto bridge, then a final chorus of layered harmonies decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune, no four-on-the-floor club beat. 72 BPM, E-flat major."
+
+lyrics: |
+  [Intro]
+  Look up
+  There you are
+
+  [Verse 1]
+  They woke me in the dark
+  Said come and see the sky
+  A smear of silver fire
+  Just passing by
+  Once every lifetime
+  It leans in close
+  Then it's gone for years
+  I love it the most
+
+  [Pre-Chorus]
+  Don't blink — don't blink
+  It won't come round again soon
+
+  [Chorus]
+  Comet, comet
+  I'll be old when you come back
+  But I'll be looking up
+  From the same green patch
+  Comet, comet
+  Draw your long slow line
+  Everyone I love
+  Is under you tonight
+
+  [Verse 2]
+  My mother held my shoulders
+  She is starlight now
+  My kids are on the grass
+  I show them how
+  We are just a blink
+  To a thing this old
+  But oh, to get to see it
+  Silver, blue and gold
+
+  [Bridge]
+  Small — small
+  Under all of it
+  And somehow I'm allowed
+  To witness this
+
+  [Final Chorus]
+  Comet, comet
+  I'll be old when you come back
+  But I'll be looking up
+  From the same green patch
+
+  [Outro]
+  Look up
+  There you are
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Loved-style series (v415+): dreamy psychedelic-pop / synth-wave (Blackhole/Afterglow world). Slow, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic lyrics. Drafted directly (no fast-viral pipeline / no danceability gate).
+
+  Theme: COMET — watching a once-in-a-lifetime comet across a whole life (a child, then a parent showing their own kids); deep time, smallness, generations under the same sky. Emotion (deliberate mood-variance): WONDER — wide-eyed, open-hearted, tinged with gentle poignancy — distinct from Nova's ecstatic death-awe. First-person HUMAN watcher (not a cosmic entity), adding angle-variance vs Afterglow/Pulsar/Voyager/Drift. Twinkling bell/celeste tones. Catchy hook "Comet, comet / I'll be old when you come back / but I'll be looking up / from the same green patch."
+
+  E-flat major (warm, fresh vs A / E / Db / Bm / G / Cm / F), 72 BPM. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 72bpm
+  - eb-major
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - bell-celeste
+  - cosmic-wonder-theme
+  - comet-deep-time-theme
+  - wonder-poignancy
+  - generational
+  - very-catchy-deep
+  - loved-style-series
