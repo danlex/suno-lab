@@ -1,0 +1,86 @@
+name: "rust438-v438"
+version: 438
+title: "Rust438"
+instrumental: false
+vocal_gender: male
+
+style: "Warm heartland americana and alt-country at 100 BPM in D major, weathered, driving and hopeful. A full roots band — strummed acoustic, twangy tremolo electric guitar, singing pedal steel, fiddle, upright bass, brushed-to-full drums, Hammond organ, and bright mandolin. A warm, weathered male voice leads up front — road-worn baritone-tenor with gravel and crack, plainspoken and full of heart, lifting into rough harmonies on the chorus. The feeling: a fading rust-belt town and a worn-down working life that still won't quit — cracked hands, pride in staying when everyone left; weathered resilience, dignity in the grit. Verses ride the strum and brush; the chorus opens wide with pedal steel, fiddle, and drums; a mid-song pedal-steel and fiddle solo over the band; a last quiet verse, then a big final chorus with rough harmony. Dusty analog warmth, live room, honest and unpolished. No EDM, no club beat, no synths, no rap, no autotune, no distortion, no pop gloss. 100 BPM, D major."
+
+lyrics: |
+  [Intro]
+  Yeah, still standing
+
+  [Verse 1]
+  The mill shut down in '99
+  Took the main street with it
+  But my daddy's hands still fit these tools
+  And I was born to grip it
+  Somebody's got to keep the lights on
+  In the towns the map forgot
+
+  [Chorus]
+  We don't shine, we don't quit
+  We're the rust that holds the iron
+  We're the last ones on the porch
+  When the whole street stops trying
+  You can call us leftover
+  You can call us the past
+  But the roots that grow through concrete
+  Are the roots that last
+
+  [Verse 2]
+  My girl works the diner double
+  And she still finds a way to laugh
+  A cracked hand's still a strong hand
+  A slow town's still a home
+  And a beat-up truck that keeps on starting
+  Is a kind of poem
+
+  [Pedal Steel Solo]
+
+  [Bridge]
+  Rust — rust
+  We wear it like a crown
+  You can rain on us forever
+  We are not coming down
+
+  [Final Chorus]
+  We don't shine, we don't quit
+  We're the rust that holds the iron
+  But the roots that grow through concrete
+  Are the roots that last
+
+  [Outro]
+  Still standing, yeah
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, pop gloss"
+
+notes: |
+  STYLE-ROTATION loop (cycle 15). Full style change from v424-437: WARM HEARTLAND AMERICANA / ALT-COUNTRY — a full roots band (strummed acoustic, twangy tremolo electric, singing pedal steel, fiddle, upright bass, brushed-to-full drums, Hammond, mandolin). Vocal is a warm, weathered MALE road-worn baritone-tenor with gravel and crack, rough harmonies (distinct from v426's spare plainspoken cosmic-folk baritone — this is bigger, band-driven, heartland — and from the smooth crooners of v431/v434). Mid-tempo driving 100, organic, no synths/gloss.
+
+  Theme: RUST — a fading rust-belt town and a worn-down working life that still won't quit; pride in staying when everyone left ('we're the rust that holds the iron'). Mood rotates to WEATHERED RESILIENCE / hard-won hometown pride + dignity-in-grit — a NEW register: not love or heartbreak, but stubborn working-class hope. Distinct from Smoke's devastation, Sparks' new-love joy, Tether's drift. Catchy hook 'We don't shine, we don't quit / we're the rust that holds the iron.'
+
+  DURATION LEVER: explicit lyric-free [Pedal Steel Solo] mid-song section + late final chorus + outro for a fuller ~3:00 arc (per the confirmed lever — a sung bridge alone renders short).
+
+  D major, 100 BPM, weathered male americana voice. exclude_styles blocks EDM/club/synth/gloss drift WITHOUT excluding the roots band or vocals the style needs. Publish both clips public.
+
+tags:
+  - americana
+  - alt-country
+  - heartland-rock
+  - roots
+  - 100bpm
+  - d-major
+  - male-americana-vocal
+  - weathered-baritone-tenor
+  - pedal-steel
+  - fiddle
+  - mandolin
+  - hammond-organ
+  - pedal-steel-solo
+  - weathered-resilience
+  - working-class-pride
+  - rust-belt-town-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-15-americana
