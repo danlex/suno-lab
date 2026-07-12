@@ -1,0 +1,89 @@
+name: "drift419-v419"
+version: 419
+title: "Drift419"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 70 BPM in C minor, slow, cold and weightless. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation with soft hiss, a vast empty spacey soundscape, deep round sub-bass, sparse crisp compressed drums with long reverb tails, and a faint high tone like breath fogging a visor. An ethereal male falsetto floats at the front, fragile and airy, drenched in reverb and delay, close as a whisper, singing a catchy hook that drifts from quiet dread into eerie calm. The feeling: an astronaut whose tether has snapped, drifting away from a shrinking ship into the endless dark — panic dissolving into a strange, cold peace. Intimate close verses, choruses opening into a wide hollow wash, a hushed falsetto bridge, then a final chorus decaying into reverb and silence. No rock guitars, no aggressive drop, no rap, no harsh autotune, no four-on-the-floor club beat. 70 BPM, C minor."
+
+lyrics: |
+  [Intro]
+  The line
+  Let go
+
+  [Verse 1]
+  I reached for the hull
+  And the tether snapped
+  One soft little sound
+  And the cord went slack
+  Now the ship is a window
+  Getting small and gold
+  And the dark has no floor
+  And the dark is cold
+
+  [Pre-Chorus]
+  Breathe slow — breathe slow
+  There's only so much left
+
+  [Chorus]
+  I'm a drift, I'm a drift
+  No up, no down, no end
+  Just the turning of the stars
+  And my own breath for a friend
+  I'm a drift, I'm a drift
+  Falling but I'll never land
+  Reaching for a hand
+  Reaching for a hand
+
+  [Verse 2]
+  Funny how the fear
+  Turns to something still
+  The panic used it up
+  Now the quiet fills
+  I can see my own street
+  In a pinprick of blue
+  Every light I ever loved
+  Fits inside my view
+
+  [Bridge]
+  No scream travels here
+  No one hears me go
+  So I'll sing it to myself
+  Soft and slow
+
+  [Final Chorus]
+  I'm a drift, I'm a drift
+  No up, no down, no end
+  Just the turning of the stars
+  And my own breath for a friend
+
+  [Outro]
+  The line
+  Let go
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Loved-style series (v415+): dreamy psychedelic-pop / synth-wave (Blackhole/Afterglow world). Slow, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic lyrics. Drafted directly (no fast-viral pipeline / no danceability gate).
+
+  Theme: DRIFT — an astronaut whose tether snaps, drifting from a shrinking ship into the endless dark; panic dissolving into eerie cold peace. Emotion (deliberate mood-variance): DREAD → eerie acceptance — cold, fragile, unsettling then strangely calm — distinct from Afterglow (loss), Orbit (love), Nova (awe), Pulsar (defiance), Voyager (tender hope). Colder/emptier production (vast hollow space, 70 BPM). Catchy hook "I'm a drift, I'm a drift / no up, no down, no end."
+
+  C minor (dark, fresh vs A / E / Db / Bm / G), 70 BPM. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 70bpm
+  - c-minor
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - vast-empty-space
+  - cosmic-dread-theme
+  - untethered-astronaut-theme
+  - dread-to-eerie-calm
+  - slow-tempo
+  - very-catchy-deep
+  - loved-style-series
