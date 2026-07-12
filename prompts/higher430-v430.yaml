@@ -1,0 +1,87 @@
+name: "higher430-v430"
+version: 430
+title: "Higher430"
+instrumental: false
+vocal_gender: female
+
+style: "Uplifting gospel-soul at 80 BPM in C major, warm, communal and transcendent, building to ecstatic. A live gospel band — walking electric bass, warm drums with tambourine and hand-claps on the two and four, a rolling gospel grand piano, and swelling Hammond B3 organ — with a big, full church choir. A powerful female gospel lead sings out front, huge and soulful, full of runs and grit and joy, calling out lines that the choir answers back in rich call-and-response harmony. The feeling: being lifted by other people's hands when you cannot stand on your own; collective, ecstatic, defiant hope, the whole room rising together, tears turning to joy. It starts intimate — lead over soft organ and piano — the choir enters, the band builds, and the final chorus explodes into a clapping, organ-soaked celebration with the lead ad-libbing over the choir. Rich, live, jubilant. No EDM, no club beat, no synthesizers, no four-on-the-floor, no rap, no autotune, no distortion. 80 BPM, C major."
+
+lyrics: |
+  [Intro: soft organ, lead voice]
+  When I couldn't stand
+
+  [Verse 1]
+  I was down on the floor of it
+  Couldn't lift my own head
+  Sure that the morning
+  Was something I'd dread
+  Then I felt them beneath me
+  A hundred quiet hands
+  Nobody said a sermon
+  They just helped me stand
+
+  [Pre-Chorus]
+  And I felt it lift, lift
+  From the soles of my feet
+
+  [Chorus]
+  Higher (higher!)
+  You carry me higher (higher!)
+  When my own two legs give out
+  You lift me out of the mire
+  Higher (higher!)
+  On a hundred hands higher (higher!)
+  I could not rise alone
+  So you rose beneath me like a choir
+
+  [Verse 2]
+  Now I'm somebody's floor now
+  When their own knees fold
+  We don't do this alone here
+  That was never the plan
+  You fall and I will catch you
+  Then you help the next one stand
+
+  [Bridge: claps, choir swells]
+  Lift — lift (higher!)
+  Nobody falls for good
+  The way that we always should
+
+  [Final Chorus]
+  Higher (higher!)
+  You carry me higher (higher!)
+  I could not rise alone
+  So you rose beneath me like a choir
+
+  [Outro]
+  A hundred hands, higher
+
+exclude_styles: "EDM, techno, house, synthesizer, club beat, four-on-the-floor, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 7). Full style change from v424-429 (orchestral / soul / folk / trip-hop / piano-ballad / dream-pop): UPLIFTING GOSPEL-SOUL — a live gospel band (walking bass, drums + tambourine + hand-claps, rolling gospel grand piano, swelling Hammond B3) with a big church CHOIR and a powerful female gospel LEAD trading call-and-response with the choir. A wholly new ENERGY: communal, ecstatic, collective — warm/organic/hand-clapped, NOT the club/EDM feel the user rejected. Big intimate-to-explosive build. NOTE this is distinct from v425's intimate secular soul: this is congregational, choir-driven, jubilant.
+
+  Theme: HIGHER — being lifted by other people's hands when you can't stand on your own, then becoming the floor for the next person who falls; 'I could not rise alone / so you rose beneath me like a choir.' Mood rotates to TRANSCENDENT / COMMUNAL JOY + defiant collective hope — distinct from Ascend's solitary uplifting-grief, Harbor's one-to-one protective love, Bloom's private overwhelm. Call-and-response hook 'Higher (higher!) / you carry me higher.'
+
+  C major, 80 BPM, powerful female gospel lead + full choir. exclude_styles blocks EDM/club/synth drift WITHOUT excluding the live band, organ, choir, or vocals the style needs. Publish both clips public.
+
+tags:
+  - gospel
+  - gospel-soul
+  - choir
+  - call-and-response
+  - 80bpm
+  - c-major
+  - female-gospel-lead
+  - hammond-b3
+  - gospel-piano
+  - hand-claps
+  - tambourine
+  - walking-bass
+  - transcendent-communal-joy
+  - defiant-collective-hope
+  - intimate-to-explosive-build
+  - higher-lifted-by-hands-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-7-gospel-soul
