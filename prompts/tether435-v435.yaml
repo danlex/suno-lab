@@ -1,0 +1,92 @@
+name: "tether435-v435"
+version: 435
+title: "Tether435"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 72 BPM in F-sharp minor, slow, spacious and weightless, gently unmoored. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation, a wide cold-space soundscape, slow-breathing pads, round sub-bass, and brushed drums with long reverb tails. An ethereal male falsetto floats far out at the front, airy and dreamlike, drenched in reverb and delay, singing a catchy hook that feels like it's watching itself from outside the body. The feeling: an astronaut who lets go of the tether and drifts, getting smaller, strangely calm — dissociation as a kind of peace, weightless numbness, life oddly beautiful and far away. Intimate close verses; the chorus opens into a wide slow wash; a floating synth-solo break; a hushed bridge; a final chorus of soft harmonies decaying into reverb, then a long drifting outro. No rock guitars, no aggressive drop, no four-on-the-floor club beat, no rap, no harsh autotune. 72 BPM, F-sharp minor."
+
+lyrics: |
+  [Intro]
+  Letting go
+  Of the line
+
+  [Verse 1]
+  They keep calling from the station
+  Their voices small and thin
+  Something in me came unhooked
+  And I just floated out and in
+  I can see the whole blue marble
+  Turning under my slow spin
+
+  [Pre-Chorus]
+  I should be afraid
+  But I'm not, I'm not
+
+  [Chorus]
+  Cut the tether, watch me go
+  A little further, soft and slow
+  I'm not falling, I'm not saved
+  I'm just weather now, a wave
+  Cut the tether, let me drift
+  Everything I was gets light
+  I am nobody's again
+  And it's alright
+
+  [Verse 2]
+  Down there someone's calling dinner
+  I used to be the one who answered
+  I don't answer anymore
+  It's not sad up here, it's silver
+  A gentle kind of leaving
+  With a slow and open heart
+
+  [Synth Solo]
+
+  [Bridge]
+  Small — small
+  A speck in the glass
+  The kindest way to lose a thing
+  Is to watch it drift, not grasp
+
+  [Final Chorus]
+  Cut the tether, let me drift
+  Everything I was gets light
+  I am nobody's again
+  And it's alright
+
+  [Outro]
+  Getting smaller
+  And it's fine
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  STYLE-ROTATION loop (cycle 12) — a return to the user's LOVED home base: DREAMY PSYCHEDELIC-POP / SYNTH-WAVE (the Blackhole/Afterglow world). Untouched since the v415-423 run (11 cycles ago), and the bigger-variance memory explicitly names it a valid style to return to and vary from. Slow ethereal male falsetto, hypnotic analog synths, heavy reverb, 1970s tape saturation, wide cold-space soundscape. Distinct from v429 dream-pop/shoegaze (that was a guitar wall-of-sound; this is analog-synth, spacey, hypnotic).
+
+  Theme: TETHER — an astronaut who lets go of the line and drifts, getting smaller, strangely calm. Mood (fresh vs the v415-423 run's love/loss/awe/defiance/tender-hope/dread/homecoming/wonder/obsession/serenity): DISSOCIATIVE WEIGHTLESS DRIFT — numb-eerie-calm, watching yourself from outside, a gentle unmooring that's oddly beautiful ('the kindest way to lose a thing is to watch it drift, not grasp'). NOT Aphelion's earned peace — this is unhooked, floating-numb, a little uncanny. Catchy hook 'Cut the tether, let me drift / everything I was gets light / I am nobody's again / and it's alright.'
+
+  DURATION: built in an explicit [Synth Solo] mid-song break + long drifting outro + late final chorus for a fuller ~3:00 arc.
+
+  F-sharp minor (fresh key), 72 BPM, ethereal male falsetto. exclude_styles keeps EDM/rock/club out WITHOUT excluding the synths/vocals the style needs. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - synth-pop
+  - 72bpm
+  - fsharp-minor
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - synth-solo-break
+  - spacious-weightless
+  - dissociative-drift
+  - numb-eerie-calm
+  - astronaut-tether-theme
+  - loved-home-base-style
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-12-dreamy-synth-pop
