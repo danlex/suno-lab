@@ -1,0 +1,89 @@
+name: "reentry420-v420"
+version: 420
+title: "Reentry420"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 74 BPM in F major, slow, warm and weightless, building to a glowing homecoming. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation with soft hiss, a lush spacey soundscape thawing into warmth, round sub-bass, and crisp compressed drums with long reverb tails that gather as the song descends. An ethereal male falsetto floats at the front, tender and airy, drenched in reverb and delay, rising from a hush to a relieved, tearful soar. The feeling: an astronaut re-entering the atmosphere after years in the dark — burning gold through the sky, falling home toward blue, oceans and waiting hands. Relief, gratitude, the ache-joy of return. Intimate close verses, choruses opening into a wide shimmering warm wash, a hushed falsetto bridge, then a final chorus of layered harmonies decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune, no four-on-the-floor club beat. 74 BPM, F major."
+
+lyrics: |
+  [Intro]
+  Blue again
+  Coming home
+
+  [Verse 1]
+  I've been gone so long
+  I forgot the rain
+  Forgot the weight of ground
+  Forgot my own name
+  Now the window's burning
+  Orange, gold, and white
+  I'm falling like a prayer
+  Back into the light
+
+  [Pre-Chorus]
+  Hold the sky
+  I'm coming down
+
+  [Chorus]
+  Reentry, reentry
+  Burning to be held
+  Every mile of empty
+  Is a story I won't tell
+  Reentry, reentry
+  Take me down, take me home
+  I crossed the whole of nothing
+  Just to not be alone
+
+  [Verse 2]
+  There's an ocean getting closer
+  There's a coast I used to know
+  There are hands that will be waiting
+  When the parachutes let go
+  I gave the stars my silence
+  I gave the dark my years
+  Now I trade it all for gravity
+  And a sky that ends in tears
+
+  [Bridge]
+  Down — down
+  Into the green
+  The farthest I have been
+  Is finally seen
+
+  [Final Chorus]
+  Reentry, reentry
+  Take me down, take me home
+  I crossed the whole of nothing
+  Just to not be alone
+
+  [Outro]
+  Blue again
+  Coming home
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Loved-style series (v415+): dreamy psychedelic-pop / synth-wave (Blackhole/Afterglow world). Slow, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic lyrics. Drafted directly (no fast-viral pipeline / no danceability gate).
+
+  Theme: REENTRY — an astronaut burning back through the atmosphere after years away, falling home toward blue, oceans and waiting hands. Emotion (deliberate mood-variance): HOMECOMING — relief, gratitude, ache-joy of return; the one song in the series that comes BACK (the others go outward/away). Distinct from Afterglow (loss), Orbit (love), Nova (awe), Pulsar (defiance), Voyager (tender hope/legacy), Drift (dread). Warm, thawing production that gathers on the descent. Catchy hook "Reentry, reentry / take me down, take me home."
+
+  F major (warm, fresh vs A / E / Db / Bm / G / Cm), 74 BPM. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 74bpm
+  - f-major
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - warm-homecoming
+  - cosmic-homecoming-theme
+  - reentry-astronaut-theme
+  - relief-gratitude
+  - slow-build-warm
+  - very-catchy-deep
+  - loved-style-series
