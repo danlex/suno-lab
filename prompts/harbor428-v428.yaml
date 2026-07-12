@@ -1,0 +1,88 @@
+name: "harbor428-v428"
+version: 428
+title: "Harbor428"
+instrumental: false
+vocal_gender: male
+
+style: "Intimate piano ballad and chamber-pop at 68 BPM in F major, tender, cinematic and building. It opens with a close, warm grand piano alone, then a lone cello, then a small string section that swells as the song grows; soft brushed drums and upright bass enter late, and a French horn lifts the final chorus. A raw, emotive male tenor sings at the front — a warm chest voice, plainspoken and aching, cracking a little at the peaks, layered into a small choir of harmonies on the last chorus. The feeling: a vow to be someone's safe harbor — the still water they come back to after every storm, the light left on, the arms that don't let go; fierce, tender, protective love and steady hope. Hushed intimate verses over solo piano; the chorus opens wide with strings; a stripped whispered bridge; a towering final chorus with full strings, horn, and harmony, then a gentle piano resolve. No EDM, no synthesizers, no club beat, no four-on-the-floor, no rap, no autotune, no distortion. 68 BPM, F major."
+
+lyrics: |
+  [Soft Piano Intro]
+
+  [Verse 1]
+  You came in like weather
+  All thunder, all rain
+  Shaking at the doorway
+  Half-drowned in your pain
+  You said you're too much to carry
+  You said you'd understand
+  If I let go of the rope
+  But I closed my hand
+
+  [Pre-Chorus]
+  So come in from the storm
+  I already know
+
+  [Chorus]
+  I'll be the harbor
+  Come break against me
+  I'll be the still water
+  When you can't stand the sea
+  Throw your whole weight on me
+  I was built for the strain
+  I'll be the harbor
+  You can come home from the rain
+
+  [Verse 2]
+  You don't have to be lovely
+  You don't have to be light
+  You can show up in pieces
+  At three in the night
+  I'm not going anywhere
+  That's the whole of the plan
+  You can lean your whole life on me
+  See how long I stand
+
+  [Bridge]
+  Storm — storm
+  Do what you do
+  Every wave that tries to take you
+  Has to come through me too
+
+  [Final Chorus]
+  I'll be the harbor
+  Come break against me
+  I was built for the strain
+  You can come home from the rain
+
+  [Gentle Piano Outro]
+  Come home from the rain
+
+exclude_styles: "EDM, techno, house, synthesizer, synth-pop, club beat, four-on-the-floor, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 5). Full style change from v424 (orchestral), v425 (soul), v426 (folk), v427 (trip-hop): INTIMATE PIANO BALLAD / CHAMBER-POP — solo grand piano opening out to cello, string section, late brushes + upright bass, and a French horn lifting the last chorus (acoustic/chamber, NO synths). Vocal is a raw emotive MALE TENOR — warm chest voice that cracks at the peaks (distinct from the low folk baritone of v426 and the falsetto series). Ballad tempo 68.
+
+  Theme: HARBOR — a vow to be someone's safe harbor: the still water they come back to after every storm, arms that don't let go, 'you can show up in pieces at three in the night.' Mood rotates to FIERCE-TENDER PROTECTIVE LOVE / steady hope — an OUTWARD, giving devotion (distinct from Moon's inward obsession in the prior series, and from Ascend's grief, Sunday's contentment, Willow's nostalgia, Static's noir). Big cathartic build. Catchy hook 'I'll be the harbor / come break against me.'
+
+  F major, 68 BPM, male tenor. exclude_styles blocks EDM/synth/club drift WITHOUT excluding the acoustic instruments or vocals the style needs. Publish both clips public.
+
+tags:
+  - piano-ballad
+  - chamber-pop
+  - orchestral-ballad
+  - 68bpm
+  - f-major
+  - male-tenor
+  - emotive-chest-voice
+  - grand-piano
+  - cello
+  - string-section
+  - french-horn
+  - big-cathartic-build
+  - fierce-tender-protective-love
+  - steady-hope
+  - harbor-vow-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-5-piano-ballad
