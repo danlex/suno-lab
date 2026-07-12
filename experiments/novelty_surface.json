@@ -1,6 +1,6 @@
 {
-  "total_prompts": 397,
-  "latest_version": 422,
+  "total_prompts": 398,
+  "latest_version": 423,
   "instruments": {
     "organ": [
       1,
@@ -1244,13 +1244,10 @@
       155,
       157,
       158,
-      162,
       173,
-      178,
       187,
       251,
       257,
-      314,
       324,
       325,
       326,
@@ -1280,6 +1277,15 @@
       405,
       407
     ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
+    ],
     "trap": [
       264,
       274,
@@ -1288,12 +1294,6 @@
       287,
       297,
       301
-    ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
     ],
     "techno": [
       279,
@@ -1306,6 +1306,11 @@
       367,
       406
     ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
     "amapiano": [
       266,
       343
@@ -1313,10 +1318,6 @@
     "baroque": [
       188,
       191
-    ],
-    "concerto": [
-      145,
-      149
     ],
     "drone": [
       304,
@@ -1366,9 +1367,6 @@
     ],
     "progressive house": [
       96
-    ],
-    "romantic": [
-      313
     ],
     "synthwave": [
       1
@@ -1724,6 +1722,14 @@
       359,
       407
     ],
+    "c major": [
+      39,
+      110,
+      203,
+      331,
+      364,
+      423
+    ],
     "d-sharp minor": [
       210,
       222,
@@ -1754,13 +1760,6 @@
       264,
       300,
       411
-    ],
-    "c major": [
-      39,
-      110,
-      203,
-      331,
-      364
     ],
     "f# minor": [
       77,
@@ -1926,7 +1925,8 @@
       108,
       293,
       321,
-      419
+      419,
+      423
     ],
     "71": [
       180
@@ -2417,6 +2417,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 423,
+      "title": "Aphelion423",
+      "name": "aphelion423-v423",
+      "featured": [],
+      "genre": null,
+      "key": "c major",
+      "bpm": 70
+    },
     {
       "version": 422,
       "title": "Moon422",
@@ -3346,7 +3355,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -4895,7 +4904,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -5046,7 +5055,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -5167,7 +5176,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -5203,7 +5212,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

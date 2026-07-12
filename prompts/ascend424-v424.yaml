@@ -1,0 +1,79 @@
+name: "ascend424-v424"
+version: 424
+title: "Ascend424"
+instrumental: false
+vocal_gender: female
+
+style: "Sublime neoclassical cinematic orchestral music in D major, slow at 70 BPM, monumental and deeply beautiful. A warm full string orchestra — deep celli and violas beneath soaring violins — with grand piano, harp, and a distant hall choir. A pure, emotive female soprano leads at the front, luminous and aching, singing simple hymn-like lines and rising into wordless vocalise at the peaks. The emotional world of a great film adagio: grief becoming light, ruin reaching for the sun. It opens in near silence with a single piano figure over low strings, gathers through swelling strings and rising harp, holds one held breath, then blooms into a towering climax where full orchestra and soprano rise together and the key lifts a half step for a goosebump surge, before settling into a gentle resolved coda. Rich concert-hall reverb, natural orchestral dynamics, real string warmth, timeless. No drums, no synthesizers, no electronic elements, no beat, no autotune. 70 BPM, D major."
+
+lyrics: |
+  [Soft Piano Intro]
+
+  [Verse 1]
+  I laid it down
+  The weight I carried
+  Every name
+  The years had buried
+
+  [Pre-Chorus]
+  And the light came slow
+  The way it always knew
+
+  [Chorus]
+  Rise — rise
+  Even ruined things reach for the sun
+  Rise — rise
+  We are not finished, we have only begun
+  Ah — ah — ah
+
+  [Verse 2]
+  I was the ash
+  Now I'm the ember
+  What the dark took
+  The dawn will remember
+
+  [Bridge: near silence, solo piano]
+  Hold the quiet
+  Hold the breath
+  There is a morning
+  On the other side of death
+
+  [Final Chorus: full orchestra, key lifts a half step]
+  Rise — rise
+  Even ruined things reach for the sun
+  Rise — rise
+  We are not finished, we have only begun
+  Aaah — aaah
+
+  [Gentle Coda]
+  Rise
+
+  [End]
+
+exclude_styles: "rock, pop, drums, percussion, beat, EDM, electronic, synthesizer, hip hop, rap, trap, autotune, lo-fi, Arabic, world music, metal"
+
+notes: |
+  STYLE-ROTATION loop (v424+): the user asked to stop fixating on one style and cycle through many, one per song. This is cycle 1 of the rotation — CINEMATIC ORCHESTRAL / NEOCLASSICAL (a full style change from the v415-423 dreamy synth-pop run, and a switch to FEMALE soprano vocal). Their "classic music" lean; house classic-beauty style (see feedback_classic_beauty_dopamine, feedback_bigger_variance). Next cycle: a DIFFERENT style (retro soul / folk / trip-hop / etc.).
+
+  Theme: ASCEND — grief becoming light, ruin reaching for the sun, rising after loss. Emotion: uplifting-grief / hard-won hope, monumental. Silence-before-climax + half-step key lift (D->Eb) at the final chorus = classic frisson levers. Soprano sings hymn-like lines + wordless vocalise at peaks (so lyric-language stays simple English). No drums/synths — purely orchestral, timeless.
+
+  D major -> Eb at climax, 70 BPM, female soprano. Publish both clips public.
+
+tags:
+  - neoclassical
+  - cinematic-orchestral
+  - orchestral
+  - female-soprano
+  - string-orchestra
+  - grand-piano
+  - harp
+  - choir
+  - monumental
+  - film-adagio
+  - d-major
+  - half-step-lift-climax
+  - silence-before-climax
+  - uplifting-grief
+  - classic-beauty
+  - style-rotation-loop
+  - style-1-orchestral
