@@ -1,6 +1,6 @@
 {
-  "total_prompts": 395,
-  "latest_version": 420,
+  "total_prompts": 396,
+  "latest_version": 421,
   "instruments": {
     "organ": [
       1,
@@ -1243,10 +1243,13 @@
       155,
       157,
       158,
+      162,
       173,
+      178,
       187,
       251,
       257,
+      314,
       324,
       325,
       326,
@@ -1276,15 +1279,6 @@
       405,
       407
     ],
-    "symphonic": [
-      162,
-      178,
-      311,
-      314,
-      318,
-      320,
-      322
-    ],
     "trap": [
       264,
       274,
@@ -1293,6 +1287,12 @@
       287,
       297,
       301
+    ],
+    "symphonic": [
+      311,
+      318,
+      320,
+      322
     ],
     "techno": [
       279,
@@ -1729,6 +1729,14 @@
       332,
       351
     ],
+    "e-flat major": [
+      128,
+      146,
+      217,
+      330,
+      349,
+      421
+    ],
     "f major": [
       28,
       40,
@@ -1750,13 +1758,6 @@
       203,
       331,
       364
-    ],
-    "e-flat major": [
-      128,
-      146,
-      217,
-      330,
-      349
     ],
     "f# minor": [
       77,
@@ -1938,7 +1939,8 @@
       322,
       414,
       415,
-      418
+      418,
+      421
     ],
     "73": [
       187
@@ -2411,6 +2413,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 421,
+      "title": "Comet421",
+      "name": "comet421-v421",
+      "featured": [],
+      "genre": null,
+      "key": "e-flat major",
+      "bpm": 72
+    },
     {
       "version": 420,
       "title": "Reentry420",
@@ -3322,7 +3333,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": "b minor",
       "bpm": 100
     },
@@ -4871,7 +4882,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -5022,7 +5033,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },

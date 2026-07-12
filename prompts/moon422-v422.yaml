@@ -1,0 +1,89 @@
+name: "moon422-v422"
+version: 422
+title: "Moon422"
+instrumental: false
+vocal_gender: male
+
+style: "Dreamy psychedelic pop and synth-wave at 72 BPM in A-flat minor, slow, intimate and hypnotic. Hypnotic analog synthesizers in heavy hall reverb, warm 1970s tape saturation with soft hiss, a lush close spacey soundscape, round sub-bass, and crisp compressed drums with long reverb tails. An ethereal male falsetto floats at the front, tender and airy, drenched in reverb and delay, singing a catchy hook with a devotion that borders on obsession. The feeling: the moon, tidally locked, showing one face to the earth forever — pulling the oceans, borrowing all its light, refusing to ever look away; devotion so complete it becomes a beautiful prison. Warm, fixated, a little unsettling under the sweetness. Intimate close verses, choruses opening into a wide shimmering wash, a hushed falsetto bridge, then a final chorus of layered harmonies decaying into reverb. No rock guitars, no aggressive drop, no rap, no harsh autotune, no four-on-the-floor club beat. 72 BPM, A-flat minor."
+
+lyrics: |
+  [Intro]
+  One face
+  Always you
+
+  [Verse 1]
+  They say I have a dark side
+  A half I've never known
+  I could turn and see it
+  But I'd leave you alone
+  So I stay the way I've stayed
+  Since the world was new
+  One cheek to the cold
+  One cheek to you
+
+  [Pre-Chorus]
+  I don't need my other half
+  If it costs me the view
+
+  [Chorus]
+  I'm the moon, I'm the moon
+  I only face one way
+  Pulling at your oceans
+  Just to make you sway
+  I'm the moon, I'm the moon
+  I borrow all my light
+  I have nothing of my own
+  But I own your night
+
+  [Verse 2]
+  I move your whole sea
+  And you don't move mine
+  I'd call that unfair
+  If I wanted to be fine
+  But I don't want fair
+  And I don't want free
+  I want the same slow orbit
+  You and me
+
+  [Bridge]
+  Locked — locked
+  Face to your face
+  The prettiest prison
+  Is a gravity's embrace
+
+  [Final Chorus]
+  I'm the moon, I'm the moon
+  I only face one way
+  I have nothing of my own
+  But I own your night
+
+  [Outro]
+  One face
+  Always you
+
+exclude_styles: "rock, heavy metal, aggressive EDM drop, big room, four-on-the-floor, rap, hip hop, drum and bass, hardstyle, techno, harsh autotune, country, folk, orchestral"
+
+notes: |
+  Loved-style series (v415+): dreamy psychedelic-pop / synth-wave (Blackhole/Afterglow world). Slow, ethereal male falsetto, heavy reverb, 1970s tape saturation, lush spacey, catchy-but-deep, spare cosmic lyrics. Drafted directly (no fast-viral pipeline / no danceability gate).
+
+  Theme: MOON — tidally locked, one face to earth forever, pulling the tides, borrowing all its light, refusing to look away. Emotion (deliberate mood-variance): OBSESSIVE DEVOTION — tender but fixated, sweet with an unsettling edge ("the prettiest prison is a gravity's embrace"); one-sided all-consuming fixation — distinct from Orbit's mutual bittersweet falling, and from the series' other moods (loss/awe/defiance/tender-hope/dread/homecoming/wonder). Catchy hook "I'm the moon, I'm the moon / I have nothing of my own / but I own your night."
+
+  A-flat minor (dark/intimate, fresh vs A / E / Db / Bm / G / Cm / F / Eb), 72 BPM. Publish both clips public.
+
+tags:
+  - psychedelic-pop
+  - dreamy-synth-wave
+  - 72bpm
+  - ab-minor
+  - male-falsetto
+  - ethereal-falsetto
+  - heavy-reverb
+  - analog-synth
+  - tape-saturation
+  - intimate-hypnotic
+  - cosmic-devotion-theme
+  - tidal-lock-moon-theme
+  - obsessive-devotion
+  - beautiful-prison
+  - very-catchy-deep
+  - loved-style-series
