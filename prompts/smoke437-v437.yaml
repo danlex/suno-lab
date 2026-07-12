@@ -1,0 +1,87 @@
+name: "smoke437-v437"
+version: 437
+title: "Smoke437"
+instrumental: false
+vocal_gender: female
+
+style: "Slow torch song and jazz-noir at 66 BPM in C minor, smoky, dramatic and glamorous, rubato and after-hours. A dim nightclub trio — brushed drums, walking upright bass, smoky rubato piano — under lush noir strings, a lone muted trumpet, and a warm tenor sax. A sultry, dramatic female torch singer leads right up front — rich and smoldering, heavy vibrato, phrasing behind the beat like the last one at the bar, aching and poised at once. The feeling: a woman alone at 3 a.m. in a red dress, still burning for a love already ash, holding her devastation with perfect posture; smoldering heartbreak, glamorous ruin. Hushed verses over piano and brush; the chorus swells with strings and trumpet; a smoky mid-song sax solo over the trio; a final verse breaking, then a held note fading into cymbal shimmer. Vintage tube warmth, velvet vocal, smoky room reverb. No EDM, no beat drop, no club rhythm, no rap, no autotune, no distortion, no upbeat pop. 66 BPM, C minor."
+
+lyrics: |
+  [Intro]
+  Pour one more
+
+  [Verse 1]
+  The band went home an hour ago
+  The chairs are on the tables
+  I wore the red you liked the most
+  To a room you'll never enter
+  Look at me, all dressed for a fire
+  That went out last December
+
+  [Chorus]
+  You're smoke, just smoke
+  The kind that stays in the curtains
+  Gone but I still breathe you in
+  And that's the cruelest certain
+  I could air out every room
+  Throw the windows to the cold
+  But I'd rather choke on what we were
+  Than let the last of you go
+
+  [Verse 2]
+  They say that time's a gentleman
+  Who takes your coat and your pain
+  But mine keeps handing both of them back
+  Every time it starts to rain
+  So I'll sit here in my finery
+  A woman in her Sunday best
+  At the funeral of her heart
+
+  [Sax Solo]
+
+  [Bridge]
+  Burn — burn
+  Low and blue
+  There's no elegant way to say
+  I'm still on fire for you
+
+  [Final Chorus]
+  You're smoke, just smoke
+  Gone but I still breathe you in
+  I'd rather choke on what we were
+  Than let the last of you go
+
+  [Outro]
+  Just smoke... now
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, harsh distortion, upbeat pop, rock"
+
+notes: |
+  STYLE-ROTATION loop (cycle 14). Full style change from v424-436: SLOW TORCH SONG / JAZZ-NOIR — a dim after-hours nightclub trio (brushed drums, walking upright bass, smoky rubato piano) under lush noir strings, a lone muted trumpet, and a tenor sax. Vocal is a sultry, DRAMATIC FEMALE TORCH SINGER — rich smoldering vibrato, phrasing behind the beat, theatrical devastation held with poise. Distinct from v427's trip-hop noir (that was a cool, DETACHED, breathy alto over a programmed dusty beat; this is a HOT, dramatic, rubato live-jazz torch belt) and from v425's soul. Very slow (66), rubato, no beat-driven feel at all.
+
+  Theme: SMOKE — a woman alone at 3 a.m. in a red dress, still burning for a love that's already ash, holding her devastation with perfect posture ('a woman in her Sunday best at the funeral of her heart'). Mood rotates to SMOLDERING, GLAMOROUS DEVASTATION — dramatic heartbreak with dignity, a brand-new register vs Sparks' exuberant joy, Tether's drift, Neon's nostalgia. Catchy hook 'You're smoke, just smoke / gone but I still breathe you in.'
+
+  DURATION LEVER (v436 rendered short with only a SUNG bridge): built an explicit LYRIC-FREE [Sax Solo] mid-song section + a late final chorus + a held fading outro for a fuller ~3:00 arc.
+
+  C minor, 66 BPM, dramatic female torch voice. exclude_styles blocks EDM/club/upbeat drift WITHOUT excluding the jazz trio, strings, horns, or vocals the style needs. Publish both clips public.
+
+tags:
+  - torch-song
+  - jazz-noir
+  - vocal-jazz
+  - 66bpm
+  - c-minor
+  - female-torch-singer
+  - dramatic-vibrato
+  - smoky-piano
+  - upright-bass
+  - muted-trumpet
+  - tenor-sax-solo
+  - noir-strings
+  - smoldering-devastation
+  - glamorous-ruin
+  - after-hours-nightclub
+  - smoke-lost-love-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-14-torch-jazz-noir
