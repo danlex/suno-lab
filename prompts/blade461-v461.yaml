@@ -1,0 +1,86 @@
+name: "blade461-v461"
+version: 461
+title: "Blade461"
+instrumental: false
+vocal_gender: female
+
+style: "Dramatic nuevo tango at 116 BPM in A minor, sharp, elegant and dangerous, full of rubato push and sudden stops. A lead bandoneon breathing at the center, staccato marcato strings, percussive grand piano, upright bass driving the tango pulse, and subtle hard-accented percussion. A dramatic, smoky female voice leads out front — low and precise, proud and unhurried, snapping into fierce clipped phrases then holding a long dark note. The feeling: a woman who moves through the room like a blade and dances alone by choice, elegant and unafraid, choosing her partners and when to leave; proud dangerous elegance, self-possessed defiance, controlled fire. Verses stalk over bandoneon and bass; the chorus snaps taut with strings and accents; a fiery mid-song bandoneon solo with sharp stops; a hushed rubato verse, then a final chorus with a dramatic ritard. Cinematic close reverb, sharp and elegant. No EDM, no club beat, no synths, no rap, no autotune, no distortion. 116 BPM, A minor."
+
+lyrics: |
+  [Intro]
+  One, two, and turn
+
+  [Verse 1]
+  You watched me from the corner
+  Like I'm something you could win
+  But this floor is not a market
+  And I don't dance to be let in
+  I came here for the music
+  Not the men who line the wall
+
+  [Chorus]
+  I'm a blade, I'm a blade
+  I cut a clean line through the room
+  I choose who gets the next dance
+  And I choose when I leave you
+  Don't mistake this grace for softness
+  Don't mistake alone for less
+  I'm a blade, I'm a blade
+  And I sharpened this red dress
+
+  [Verse 2]
+  I have loved with all my edges
+  I have paid for every one
+  So I lead now, or I sit down
+  I don't beg to be undone
+  If you match me, keep your spine straight
+  If you don't, then let me pass
+
+  [Bandoneon Solo]
+
+  [Bridge]
+  Turn — turn
+  On the balls of my own feet
+  A woman who can leave a room
+  Is a woman hard to beat
+
+  [Final Chorus]
+  I'm a blade, I'm a blade
+  I cut a clean line through the room
+  I'm a blade, I'm a blade
+  And I sharpened this red dress
+
+  [Outro]
+  One... and gone
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, Arabic, world music"
+
+notes: |
+  STYLE-ROTATION loop (cycle 38). Full style change from v455-460: DRAMATIC NUEVO TANGO (Piazzolla-esque, never used) — lead bandoneon, staccato marcato strings, percussive piano, upright bass driving the tango pulse, subtle hard-accented percussion. Dramatic smoky FEMALE voice (low/precise/proud, clipped-fierce to long-dark-note — distinct from v437 torch belter and v443 bolero belter: this is sharp/angular/controlled, not soaring). Rebalances to female after male v460. Bandoneon-led timbre is a totally new lead instrument for the catalog. Rubato push-pull ~116.
+
+  Theme: BLADE — a woman who moves through the room like a blade and dances alone by choice, choosing her partners and when to leave ('this floor is not a market and I don't dance to be let in'; 'a woman who can leave a room is a woman hard to beat'). Mood rotates to PROUD DANGEROUS ELEGANCE / self-possessed defiance / controlled fire — sharp/angular (distinct from v433 neo-soul's warm grown self-possession: this is dangerous, not warm); distinct from Hollow's ache, Unbroken's uplift, Sparkplug's wild joy.
+
+  DURATION LEVER: explicit lyric-free [Bandoneon Solo] with sharp stops + hushed rubato verse + dramatic-ritard final chorus (~116) for a ~3:00 arc. Blocked Arabic/world scales (tango needs plain A minor). Lyrics fully English (the intro/outro 'One, two, and turn' is a spoken dance count-in) — EN/FR rule satisfied.
+
+  A minor, 116 BPM, dramatic smoky female voice. exclude_styles blocks EDM/club/synth AND Arabic/world-scale drift WITHOUT excluding the bandoneon/strings/piano or vocals the style needs. Publish both clips public.
+
+tags:
+  - nuevo-tango
+  - tango
+  - piazzolla-esque
+  - 116bpm
+  - a-minor
+  - dramatic-female-vocal
+  - smoky-precise-voice
+  - bandoneon
+  - marcato-strings
+  - percussive-piano
+  - upright-bass-tango-pulse
+  - bandoneon-solo
+  - proud-dangerous-elegance
+  - self-possessed-defiance
+  - controlled-fire
+  - blade-dances-alone-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-38-nuevo-tango
