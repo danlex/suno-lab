@@ -1,0 +1,87 @@
+name: "crimson443-v443"
+version: 443
+title: "Crimson443"
+instrumental: false
+vocal_gender: female
+
+style: "Grand, sweeping bolero and Latin-romantic ballad at 76 BPM in D minor, passionate, dramatic and unashamed. A dramatic nylon flamenco guitar, lush cinematic strings, tremulous grand piano, warm upright bass, and soft bolero-rhythm percussion with brushed snare and a lone trumpet. A passionate, vibrato-rich female voice leads out front — grand and theatrical, smoldering low then soaring into full-throated declaration, rolling with dramatic rubato. The feeling: a love vowed in defiance of time — knowing it cannot last forever and choosing to burn crimson-bright anyway, all in, no hedging; grand passionate devotion, romantic fatalism, glorious surrender. Intimate rubato verses over guitar and piano; the chorus swells huge with strings and trumpet; a fiery mid-song Spanish-guitar solo; a whispered verse, then a towering final chorus with a key lift, and a last held note. Warm cinematic hall, lush. No EDM, no club beat, no synths, no rap, no autotune, no distortion. 76 BPM, D minor."
+
+lyrics: |
+  [Intro]
+  Give me the fire, then
+
+  [Verse 1]
+  Don't promise me forever
+  I have seen what forever does
+  It goes cold and careful
+  Till it forgets it ever was
+  I would rather have you reckless
+  For a season, for a spark
+  Than a lukewarm little always
+  Growing quiet in the dark
+
+  [Chorus]
+  So love me crimson
+  Love me loud and doomed and true
+  If it only lasts a summer
+  Let it scorch the summer through
+  I don't want a careful ember
+  I want the whole sky set alight
+  Love me crimson, love me now
+  Love me like there's only tonight
+
+  [Verse 2]
+  They'll say we were foolish
+  Burning everything we had
+  But the ones who never blaze at all
+  Aren't wiser, they're just sad
+  Kiss me like the match already
+  Threw the careful years away
+
+  [Spanish Guitar Solo]
+
+  [Bridge]
+  Burn — burn
+  Let the whole thing show
+  A love too big to keep
+  Is the only kind worth letting go
+
+  [Final Chorus]
+  So love me crimson
+  Love me loud and doomed and true
+  Love me crimson, love me now
+  Love me like there's only tonight
+
+  [Outro]
+  Give me the fire
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, rock"
+
+notes: |
+  STYLE-ROTATION loop (cycle 20). Full style change from v424-442: GRAND BOLERO / LATIN-ROMANTIC BALLAD (English lyrics) — dramatic nylon flamenco guitar, lush cinematic strings, tremulous piano, upright bass, soft bolero-rhythm percussion, lone trumpet. Vocal is a passionate, vibrato-rich, THEATRICAL FEMALE (smoldering-to-soaring, dramatic rubato) — distinct from v424 operatic soprano, v437 smoky torch, v431 breezy bossa croon: this is grand, unashamed, Latin-ballad GRANDEUR. Rebalances gender to female after male v442.
+
+  Theme: CRIMSON — a love vowed in defiance of time, choosing to burn bright BECAUSE it cannot last ('I don't want a careful ember, I want the whole sky set alight'; 'a love too big to keep is the only kind worth letting go'). Mood rotates to DEFIANT PASSIONATE DEVOTION / romantic fatalism / glorious surrender — grander and more theatrical than the recent intimate ballads; distinct from Whistle's giddy joy, Postcard's wistful distance, Smoke's devastation.
+
+  DURATION LEVER: explicit lyric-free [Spanish Guitar Solo] mid-song + key-lifting towering final chorus + held-note outro for a fuller ~3:00 arc.
+
+  D minor, 76 BPM, passionate theatrical female. exclude_styles blocks EDM/club/synth/rock drift WITHOUT excluding the guitar/strings/vocals the style needs. Publish both clips public.
+
+tags:
+  - bolero
+  - latin-romantic-ballad
+  - cinematic
+  - 76bpm
+  - d-minor
+  - passionate-female-vocal
+  - theatrical-vibrato
+  - flamenco-nylon-guitar
+  - lush-strings
+  - spanish-guitar-solo
+  - bolero-rhythm
+  - defiant-passionate-devotion
+  - romantic-fatalism
+  - glorious-surrender
+  - crimson-doomed-love-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-20-bolero
