@@ -1,0 +1,86 @@
+name: "horizon444-v444"
+version: 444
+title: "Horizon444"
+instrumental: false
+vocal_gender: male
+
+style: "Epic cinematic orchestral adventure at 88 BPM in C major, grand, heroic and soaring, full of forward momentum. A large film orchestra — driving staccato low strings, sweeping violins, bold brass fanfares, French horns, thunderous timpani and taiko, harp runs, and a full triumphant choir. A powerful, warm male baritone leads out front — noble and stirring, plainspoken then rising into a soaring call, answered by the choir. The feeling: standing at the edge of the known world at dawn and choosing to sail past it — courage, wonder, the terrified thrill of setting out toward an unknown horizon; triumphant, adventurous, wide-open. A quiet solo-cello-and-horn opening; verses gather strings and drums; a chorus erupting with brass and choir; a grand mid-song orchestral interlude; a final chorus with a key lift and full choir, a last ringing chord. Sweeping concert-hall grandeur, natural dynamics, monumental. No EDM, no club beat, no synths, no rap, no autotune, no distortion. 88 BPM, C major."
+
+lyrics: |
+  [Soft Cello and Horn Intro]
+  The map ends here
+
+  [Verse 1]
+  Every harbor that I've known
+  Is a small and certain thing
+  And the edge of every certain thing
+  Is where the wide unknown begins
+  But my whole life has been the asking
+  And the answer isn't here
+
+  [Chorus]
+  So sail me past the edge of it
+  Where the old maps say beware
+  I would rather chase a maybe
+  Than salute an empty chair
+  Lift the sail, lift the sail
+  Let the frightened harbor shrink
+  I was not made to watch the water
+  I was made to leave the brink
+
+  [Verse 2]
+  I don't know what's out past the blue
+  And that's the reason that I go
+  Let them keep their painted borders
+  And their lanterns on the shore
+  I'll be the story that they tell
+  Of the one who wanted more
+
+  [Orchestral Interlude]
+
+  [Bridge]
+  Rise — rise
+  Meet the open air
+  Everything worth finding
+  Is a leap taken on a dare
+
+  [Final Chorus]
+  So sail me past the edge of it
+  Where the old maps say beware
+  Lift the sail, lift the sail
+  I was made to leave the brink
+
+  [Outro]
+  Past the horizon, on
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, rock, pop"
+
+notes: |
+  STYLE-ROTATION loop (cycle 21). REVISIT of cinematic orchestral (last used v424, 20 cycles ago) with a wholly DIFFERENT treatment: v424 was a tender female-soprano grief-to-light adagio; THIS is an EPIC ADVENTURE/HEROIC orchestral — driving staccato strings, brass fanfares, French horns, timpani + taiko, harp, full triumphant choir, and a powerful warm MALE HEROIC BARITONE + choir call-and-response. Rebalances gender to male after female v443. Grand forward-momentum, monumental.
+
+  Theme: HORIZON — standing at the edge of the known world at dawn and choosing to sail past it; the terrified thrill of setting out ('I was not made to watch the water, I was made to leave the brink'). Mood rotates to COURAGEOUS WONDER / triumphant setting-out / adventurous defiance — a NEW register (the big epic/heroic moment the catalog has lacked; distinct from Ascend's grief-uplift, Crimson's romantic fatalism, and all the intimate recent ballads).
+
+  DURATION LEVER: explicit lyric-free [Orchestral Interlude] mid-song + key-lifting final chorus + ringing outro (mid-tempo 88) for a fuller ~3:00 arc.
+
+  C major, 88 BPM, heroic male baritone + choir. exclude_styles blocks EDM/synth/rock/pop drift WITHOUT excluding the orchestra, choir, or vocals the style needs. Publish both clips public.
+
+tags:
+  - cinematic-orchestral
+  - epic
+  - adventure
+  - heroic
+  - 88bpm
+  - c-major
+  - male-heroic-baritone
+  - choir
+  - brass-fanfare
+  - driving-strings
+  - timpani-taiko
+  - orchestral-interlude
+  - courageous-wonder
+  - triumphant-setting-out
+  - horizon-departure-theme
+  - monumental
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-21-epic-orchestral
