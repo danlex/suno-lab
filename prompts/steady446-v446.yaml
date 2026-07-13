@@ -1,0 +1,83 @@
+name: "steady446-v446"
+version: 446
+title: "Steady446"
+instrumental: false
+vocal_gender: male
+
+style: "Warm roots reggae at 76 BPM in A major, easy, sunlit and resilient, deep in a one-drop pocket. A crisp offbeat skank guitar, deep melodic bass, a one-drop drum kit, bubbling Hammond organ, warm horn stabs, and gentle backing harmonies. A warm, soulful male voice leads out front — unhurried and wise, rootsy and a little weathered, riding easy behind the beat, joined by harmonies on the hook. The feeling: standing steady through a hard season, trusting that the tide turns and the pressure passes, letting the rhythm hold you up like a faith; resilient patience, warm defiant hope, dignity and calm. Verses ride the skank and bass; the chorus opens with horns and organ; a mid-song bubbling organ-and-horn instrumental break; a dropped-down verse over bass and drum, then a full final chorus with harmonies, a warm fade. Vintage analog warmth, wide and sunlit, deeply human. No EDM, no club beat, no aggressive drop, no rap, no autotune, no distortion, no dancehall speed. 76 BPM, A major."
+
+lyrics: |
+  [Intro]
+  Easy now, easy
+
+  [Verse 1]
+  Bills on the table like a bad hand dealt
+  Rent still climbing on the air I breathe
+  But my grandmother taught me long ago
+  The storm always thinks it'll never leave
+  I'm not going nowhere, I'm right here
+
+  [Chorus]
+  Steady, steady, hold it steady
+  The tide comes in, the tide goes back
+  Everything that presses on you
+  Is a season, not a stone
+  Steady, steady, hold it steady
+  You are not walking this alone
+
+  [Verse 2]
+  My neighbour brought me soup I didn't ask for
+  Turns out the ones who don't have plenty
+  Are the quickest sharing all they got
+  So I'll pass it on when I am standing
+  You carry me on Tuesday, I'll carry you on Friday
+  That's the only way we go on
+
+  [Organ and Horn Break]
+
+  [Bridge]
+  Slow — slow
+  Let it come around
+  What looks like sinking, sometimes
+  Is just you settling into ground
+
+  [Final Chorus]
+  Steady, steady, hold it steady
+  The tide comes in, the tide goes back
+  Steady, steady, hold it steady
+  You are not walking this alone
+
+  [Outro]
+  Easy now
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, dancehall speed, rap, hip hop, autotune, heavy metal, harsh distortion, rock"
+
+notes: |
+  STYLE-ROTATION loop (cycle 23). Full style change from v439-445: WARM ROOTS REGGAE — crisp offbeat skank guitar, deep melodic bass, one-drop drums, bubbling Hammond organ, warm horn stabs, backing harmonies. Warm soulful weathered MALE voice riding behind the beat (rebalances to male after female v445; distinct from all recent male voices — folk baritone, doo-wop crooner, epic baritone, motown lead: this is a rootsy easy reggae voice). Slow-mid one-drop 76.
+
+  Theme: STEADY — standing steady through a hard season (bills, rent, pressure), trusting the tide turns, and leaning on community ('you carry me on Tuesday, I'll carry you on Friday'). Mood rotates to RESILIENT PATIENCE / warm defiant hope / dignity-and-calm — a warm uplifting non-romantic register the melancholy-leaning catalog lacked; distinct from Sunburn's giddy fun, Horizon's epic gravitas, Crimson's passion. Hook 'Steady, steady, hold it steady / the tide comes in, the tide goes back.'
+
+  DURATION LEVER: explicit lyric-free [Organ and Horn Break] mid-song + dropped-down verse + full final chorus + warm fade (slow 76) for a fuller ~3:00 arc.
+
+  A major, 76 BPM, warm soulful male reggae voice. exclude_styles blocks EDM/club/dancehall-speed drift WITHOUT excluding the reggae band, organ, horns, or vocals the style needs. Publish both clips public.
+
+tags:
+  - roots-reggae
+  - reggae
+  - one-drop
+  - 76bpm
+  - a-major
+  - male-reggae-vocal
+  - soulful-weathered-voice
+  - offbeat-skank-guitar
+  - melodic-bass
+  - hammond-organ
+  - horn-section
+  - organ-horn-break
+  - resilient-patience
+  - warm-defiant-hope
+  - community-solidarity-theme
+  - steady-through-hard-times
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-23-roots-reggae
