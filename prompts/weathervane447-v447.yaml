@@ -1,0 +1,86 @@
+name: "weathervane447-v447"
+version: 447
+title: "Weathervane447"
+instrumental: false
+vocal_gender: female
+
+style: "Bright 1960s-70s folk-rock at 116 BPM in G major, jangly, driving and questioning. A chiming Rickenbacker 12-string electric guitar, a warm acoustic strum, melodic bass, a driving tambourine backbeat, and glowing Hammond, under tight stacked vocal harmonies. A bright, clear female voice leads out front — earnest and a little defiant, folk-plain but ringing, wrapped in high sunlit harmony on the hook. The feeling: refusing the handed-down map and the life someone else picked for you, restless and idealistic, pointing yourself where your own asking blows; searching, hopeful, gently rebellious. Verses drive on the twelve-string and tambourine; the chorus opens into ringing harmony; a mid-song jangly twelve-string guitar solo; a dropped verse, then a big final chorus with full harmony, a bright ringing end. Warm vintage jangle, live and bright. No EDM, no club beat, no synths bass drop, no rap, no autotune, no distortion, no metal. 116 BPM, G major."
+
+lyrics: |
+  [Intro]
+  Which way, which way
+
+  [Verse 1]
+  They handed me a compass
+  With the needle glued in place
+  Pointed at a tidy little life
+  And a tidy little space
+  But I keep hearing weather
+  In a language I don't own
+
+  [Chorus]
+  I'm a weathervane, weathervane
+  I don't point where they nailed me down
+  I turn to face whatever's coming
+  From the far edge of the town
+  Call it lost, I call it listening
+  For a wind that knows my name
+  I would rather spin and mean it
+  Than stay still and stay the same
+
+  [Verse 2]
+  My mother loved me careful
+  My father loved me sure
+  But there's a door behind the doorway
+  And a road behind the door
+  I'm not angry, I'm just aiming
+  At a sky they never tried
+
+  [Twelve-String Guitar Solo]
+
+  [Bridge]
+  Turn — turn
+  Let the north come loose
+  A life that only points one way
+  Is a beautiful excuse
+
+  [Final Chorus]
+  I'm a weathervane, weathervane
+  I don't point where they nailed me down
+  I would rather spin and mean it
+  Than stay still and stay the same
+
+  [Outro]
+  Which way... mine
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 24). Full style change from v440-446: BRIGHT 1960s-70s FOLK-ROCK (jangly Byrds/CSN territory — never used this run) — chiming Rickenbacker 12-string electric, acoustic strum, melodic bass, driving tambourine backbeat, glowing Hammond, tight stacked harmonies. Bright clear FEMALE lead + harmony stacks (rebalances to female after male v446; distinct from acoustic cosmic-folk v426, heartland americana v438, baroque chamber-folk v439 — this is electric jangle-rock with a driving backbeat). Up-mid 116.
+
+  Theme: WEATHERVANE — refusing the handed-down map/compass and the life someone else picked, turning to face your own direction ('I don't point where they nailed me down'; 'a life that only points one way is a beautiful excuse'). Mood rotates to RESTLESS QUESTIONING / idealistic seeking / gentle rebellion — a searching register the catalog lacked; not-angry-just-aiming; distinct from Steady's patience, Sunburn's fun, Horizon's epic departure. Hook 'I'm a weathervane... I'd rather spin and mean it than stay still and stay the same.'
+
+  DURATION LEVER: explicit lyric-free [Twelve-String Guitar Solo] mid-song + dropped verse + big final chorus (up-mid 116 → likely ~2:40-3:00).
+
+  G major, 116 BPM, bright female folk-rock lead + harmonies. exclude_styles blocks EDM/club/synth drift WITHOUT excluding the jangle/Hammond or vocals the style needs. Publish both clips public.
+
+tags:
+  - folk-rock
+  - jangle-pop
+  - 60s
+  - 70s
+  - 116bpm
+  - g-major
+  - bright-female-vocal
+  - stacked-harmonies
+  - rickenbacker-12-string
+  - hammond-organ
+  - tambourine-backbeat
+  - twelve-string-solo
+  - restless-questioning
+  - idealistic-seeking
+  - gentle-rebellion
+  - weathervane-own-direction-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-24-folk-rock
