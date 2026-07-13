@@ -1,6 +1,6 @@
 {
-  "total_prompts": 421,
-  "latest_version": 446,
+  "total_prompts": 422,
+  "latest_version": 447,
   "instruments": {
     "organ": [
       1,
@@ -1239,7 +1239,6 @@
       316,
       317,
       319,
-      323,
       444
     ],
     "neoclassical": [
@@ -1356,18 +1355,21 @@
       367,
       406
     ],
-    "romantic": [
-      145,
-      149,
-      313
-    ],
     "amapiano": [
       266,
       343
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "drone": [
       304,
       305
+    ],
+    "minimalist": [
+      201,
+      323
     ],
     "passacaglia": [
       111,
@@ -1407,11 +1409,11 @@
     "lo-fi": [
       296
     ],
-    "minimalist": [
-      201
-    ],
     "progressive house": [
       96
+    ],
+    "romantic": [
+      313
     ],
     "synthwave": [
       1
@@ -1657,6 +1659,20 @@
       395,
       435
     ],
+    "g major": [
+      42,
+      120,
+      233,
+      271,
+      293,
+      335,
+      354,
+      360,
+      400,
+      418,
+      436,
+      447
+    ],
     "b-flat minor": [
       86,
       102,
@@ -1669,19 +1685,6 @@
       246,
       333,
       358
-    ],
-    "g major": [
-      42,
-      120,
-      233,
-      271,
-      293,
-      335,
-      354,
-      360,
-      400,
-      418,
-      436
     ],
     "a-flat minor": [
       107,
@@ -2235,7 +2238,8 @@
     "116": [
       127,
       287,
-      340
+      340,
+      447
     ],
     "117": [
       140,
@@ -2508,6 +2512,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 447,
+      "title": "Weathervane447",
+      "name": "weathervane447-v447",
+      "featured": [],
+      "genre": null,
+      "key": "g major",
+      "bpm": 116
+    },
     {
       "version": 446,
       "title": "Steady446",
@@ -3585,7 +3598,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "orchestral",
+      "genre": "minimalist",
       "key": "d minor",
       "bpm": 54
     },
@@ -5501,7 +5514,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -5537,7 +5550,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

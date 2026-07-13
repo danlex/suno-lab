@@ -1,0 +1,86 @@
+name: "redline448-v448"
+version: 448
+title: "Redline448"
+instrumental: false
+vocal_gender: male
+
+style: "Cinematic 1980s synthwave and outrun at 106 BPM in A minor, dark, driving and neon-lit, cool cold adrenaline. A pulsing arpeggiated analog synth sequence, a fat punchy synth bass, big gated-reverb drums, sweeping neon pads, chrome-bright lead synth, and a distant electric-guitar sting. A cool, moody male voice leads out front — low and controlled, detached and determined, half-spoken then lifting hard on the hook. The feeling: flat-out down an empty midnight highway toward a reckoning you've put off too long — no fear, no doubt, just chrome and taillights and resolve; steely determination, cold adrenaline, forward at all costs. Verses drive on the arp and bass; the chorus opens huge with pads and lead synth; a mid-song neon synth solo; a stripped verse over pulse, then a final chorus with a lift, a long taillight fade. Wide cinematic reverb, retro-futurist, propulsive. No club four-on-the-floor drop, no EDM build, no dubstep, no rap, no autotune, no distortion. 106 BPM, A minor."
+
+lyrics: |
+  [Intro]
+  Engine on
+
+  [Verse 1]
+  I've been circling this exit
+  For a couple of years
+  Every reason to turn back
+  Is a coward in my ears
+  But the tank is finally honest
+  And the road is finally clear
+
+  [Chorus]
+  Redline, redline
+  I'm not slowing for the doubt
+  Everything I should have said
+  I'm going there to say it out
+  Redline, redline
+  Let the mile markers blur
+  I was built to face the morning
+  Not to flinch and turn around
+
+  [Verse 2]
+  There's a version of me waiting
+  At the far end of this dark
+  Braver by a hundred miles
+  And he's holding up a spark
+  I can't call, I can't rehearse it
+  I can only close the gap
+
+  [Synth Solo]
+
+  [Bridge]
+  Drive — drive
+  Past the point of turning round
+  The bravest thing I ever did
+  Was keep my foot down
+
+  [Final Chorus]
+  Redline, redline
+  I'm not slowing for the doubt
+  I was built to face the morning
+  Not to flinch and turn around
+
+  [Outro]
+  Engine on... go
+
+exclude_styles: "club four-on-the-floor, EDM build, big room, festival drop, dubstep, trap, drum and bass, hardstyle, rap, hip hop, autotune, heavy metal, harsh distortion, ballad"
+
+notes: |
+  STYLE-ROTATION loop (cycle 25). Full style change from v441-447: CINEMATIC 1980s SYNTHWAVE / OUTRUN (never used this run) — pulsing arpeggiated analog synth sequence, fat punchy synth bass, big gated-reverb drums, neon pads, chrome lead synth, distant guitar sting. Cool moody detached-determined MALE voice (low/controlled, half-spoken to hard-lift hook — distinct from v435 hazy dreamy-synth falsetto and v434 warm city-pop croon: this is dark/driving/cinematic). Rebalances to male after female v447. Mid-tempo 106, propulsive, NOT club-EDM (no four-on-the-floor drop).
+
+  Theme: REDLINE — flat-out down an empty midnight highway toward a reckoning/confrontation you've put off too long; a braver version of yourself waiting at the far end of the dark ('the bravest thing I ever did was keep my foot down'). Mood rotates to STEELY COLD-ADRENALINE DETERMINATION / resolve / forward-at-all-costs — a NEW register (resolve/drive, never done); distinct from Weathervane's seeking, Steady's patience, Crimson's passion, all the ballads.
+
+  DURATION LEVER: explicit lyric-free [Synth Solo] mid-song + stripped verse + lifted final chorus + long fade (mid 106) for a ~3:00 arc.
+
+  A minor, 106 BPM, cool moody male. exclude_styles blocks club/EDM/ballad drift WITHOUT excluding the synths/drums/vocals the style needs. Publish both clips public.
+
+tags:
+  - synthwave
+  - outrun
+  - 80s
+  - retro-futurist
+  - 106bpm
+  - a-minor
+  - male-synthwave-vocal
+  - cool-detached-voice
+  - arpeggiated-synths
+  - synth-bass
+  - gated-reverb-drums
+  - neon-pads
+  - synth-solo
+  - steely-determination
+  - cold-adrenaline-resolve
+  - midnight-drive-reckoning-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-25-synthwave
