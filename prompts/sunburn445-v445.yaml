@@ -1,0 +1,90 @@
+name: "sunburn445-v445"
+version: 445
+title: "Sunburn445"
+instrumental: false
+vocal_gender: female
+
+style: "Bright 1960s surf-pop and surf-rock at 136 BPM in E major, sunny, twangy and carefree, all summer. Reverb-drenched tremolo surf guitar, galloping tom-toms and a snappy backbeat, bouncy walking bass, bright Farfisa organ, tambourine, and sha-la-la girl-group harmonies. A bright, fun young female voice leads out front — sunny and grinning, a little bratty and breathless, belting the hook with hand-in-the-air joy. The feeling: one perfect reckless summer day at the beach with your friends — salt, gasoline, cheap sunglasses, no plan and no tomorrow; playful, carefree, laughing, gloriously young. Verses bounce over surf guitar and toms; the chorus bursts wide with harmonies and organ; a classic reverb surf-guitar solo mid-song; a quick breakdown, then a final chorus with claps and whoops, a splashy cymbal ending. Vintage spring-reverb warmth, punchy and live, pure sunshine. No EDM, no modern club beat, no synths bass drop, no rap, no autotune, no distortion, no ballad. 136 BPM, E major."
+
+lyrics: |
+  [Intro]
+  (sha-la-la!) Let's go!
+
+  [Verse 1]
+  Threw the map out on the highway
+  Got a tank of gas and you
+  Six of us and four seatbelts
+  And a radio that only knew
+  One good station, all the windows
+  Screaming down the coast
+  We're not going anywhere in particular
+  And that's the part I love the most
+
+  [Chorus]
+  Sunburn, saltwater, gasoline
+  Best bad idea I ever seen
+  We'll pay for it tomorrow
+  But today is solid gold
+  Sunburn, sunburn
+  Let it turn me red
+  I'd rather have a wild one
+  Than a safe day home in bed
+
+  [Verse 2]
+  Somebody lost a flip-flop
+  In the water, nobody cares
+  There's sand in every sandwich
+  And salt in everybody's hair
+  We are broke and we are golden
+  And the afternoon won't end
+  I will remember this one
+  When I'm ninety, my friend
+
+  [Surf Guitar Solo]
+
+  [Bridge]
+  Go — go
+  Chase the tide back out
+  This is the good part, honey
+  This is what it's all about
+
+  [Final Chorus]
+  Sunburn, saltwater, gasoline
+  Best bad idea I ever seen
+  Sunburn, sunburn
+  Today is solid gold
+
+  [Outro]
+  (sha-la-la!) One more wave!
+
+exclude_styles: "EDM, techno, house, modern club beat, four-on-the-floor kick drop, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, ballad, slow"
+
+notes: |
+  STYLE-ROTATION loop (cycle 22). Full style change from v438-444: BRIGHT 1960s SURF-POP / SURF-ROCK — reverb-drenched tremolo surf guitar, galloping toms + snappy backbeat, bouncy bass, Farfisa organ, tambourine, sha-la-la girl-group backing. Bright fun young FEMALE lead (sunny, a little bratty, hand-in-air joy) — rebalances gender to female after male v444; distinct from all recent female voices (torch, chamber mezzo, downtempo, bolero — this is bratty/bright/retro-fun). UP-TEMPO 136.
+
+  Theme: SUNBURN — one perfect reckless summer beach day with friends: salt, gasoline, cheap sunglasses, no plan, no tomorrow ('best bad idea I ever seen'; 'we are broke and we are golden'). Mood rotates to PLAYFUL CAREFREE SUMMER FUN — non-romantic, light, laughing, gloriously young — a register the melancholy-leaning catalog badly lacked (deliberate joy/playfulness axis, distinct from Horizon's epic gravitas, Crimson's passion, all the recent ballads).
+
+  DURATION LEVER: explicit lyric-free [Surf Guitar Solo] mid-song + final chorus (NOTE up-tempo 136 will likely render ~2:15-2:40, which is period-authentic for a 60s surf single — accepted; the solo still lengthens vs a bare fast pop).
+
+  E major, 136 BPM, bright female surf-pop lead + harmonies. exclude_styles blocks EDM/modern/ballad drift WITHOUT excluding the surf guitar, organ, or vocals the style needs. Publish both clips public.
+
+tags:
+  - surf-pop
+  - surf-rock
+  - 60s
+  - girl-group
+  - uptempo
+  - 136bpm
+  - e-major
+  - bright-female-vocal
+  - backing-harmonies
+  - reverb-surf-guitar
+  - farfisa-organ
+  - galloping-toms
+  - surf-guitar-solo
+  - playful-carefree-summer-fun
+  - non-romantic-joy
+  - beach-day-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-22-surf-pop
