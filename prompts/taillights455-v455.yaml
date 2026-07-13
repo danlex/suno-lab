@@ -1,0 +1,87 @@
+name: "taillights455-v455"
+version: 455
+title: "Taillights455"
+instrumental: false
+vocal_gender: female
+
+style: "Modern pop-country crossover at 102 BPM in G major, bright, crisp and anthemic, radio-polished. A ringing acoustic and bright electric guitar, rolling banjo and mandolin, warm fiddle, clean deep bass, a stomp-clap groove with punchy live/programmed drums, and stacked gang harmonies. A clear, warm, slightly twangy female voice up front — conversational storyteller in verses, big and belting on the hook. The feeling: a woman finally driving out of the small town that kept her small — windows down, chin up, grateful and free rather than bitter, the past shrinking in the mirror; bright fresh-start empowerment, joyful liberation. Verses ride the banjo and stomp; the chorus opens huge with fiddle and gang harmony; a mid-song fiddle-and-guitar solo; a stripped verse, then a final chorus even bigger, a bright ringing end. Crisp headphone-era production, wide stereo, layered. No aggressive EDM drop, no club four-on-the-floor, no dubstep, no rap, no autotune, no distortion. 102 BPM, G major."
+
+lyrics: |
+  [Intro]
+  Rearview
+
+  [Verse 1]
+  This town measured me in whispers
+  Kept me two sizes too small
+  Every dream I said out loud
+  Got a laugh down at the mall
+  So I packed the truck at midnight
+  Left the porch light burning gold
+
+  [Chorus]
+  Now I'm taillights, taillights
+  Getting smaller in your town
+  I'm not angry, I'm not crying
+  I'm just finally turning 'round
+  You can keep the little box
+  You were always gonna build
+  I'll be taillights, red and shining
+  On a highway, going still-uphill
+
+  [Verse 2]
+  Mama said you'll come back running
+  When the big world lets you down
+  But the world's been nothing but a window
+  After years of just this town
+  I'll send a postcard from the ocean
+  I'll be kind, I won't be small
+
+  [Fiddle and Guitar Solo]
+
+  [Bridge]
+  Roll — roll
+  Let the county line go by
+  The girl they thought they knew
+  Is a stranger with a sky
+
+  [Final Chorus]
+  Now I'm taillights, taillights
+  Getting smaller in your town
+  I'll be taillights, red and shining
+  On a highway, going still-uphill
+
+  [Outro]
+  Rearview, shine
+
+exclude_styles: "aggressive EDM drop, club four-on-the-floor, big room, dubstep, trap, drum and bass, hardstyle, rap, hip hop, autotune, heavy metal, harsh distortion, ballad"
+
+notes: |
+  STYLE-ROTATION loop (cycle 32) — CHART-SIGNAL cycle. MODERN POP-COUNTRY / COUNTRY-CROSSOVER, fully ORIGINAL (informed by July 2026 chart signal — pop-country is the dominant force, Ella Langley/Morgan Wallen at the top; modern storytelling + pop polish + crisp headphone-era production. We study the signal, we do NOT clone any song). Full style change from v448-454: ringing acoustic + bright electric, banjo/mandolin, fiddle, clean deep bass, stomp-clap + live/programmed drums, stacked gang harmonies. Clear warm slightly-twangy FEMALE lead (conversational verse → belting hook — distinct from americana v438 weathered male and folk-rock v447 jangly female: this is polished radio country-pop crossover). Rebalances to female after male v454. Up-mid 102.
+
+  Theme: TAILLIGHTS — a woman finally driving out of the small town that kept her small; windows down, grateful and free rather than bitter ('I'm not angry, I'm not crying, I'm just finally turning round'). Mood rotates to BRIGHT FRESH-START EMPOWERMENT / joyful liberation — on-trend confident country-pop; distinct from Sundown's stoic solitude, Prism's trance, Pocket's groove. Big singable hook 'Now I'm taillights, taillights / getting smaller in your town.'
+
+  Headphone-era production per chart signal: clear up-front vocal, deep bass, wide stereo, layered. DURATION LEVER: explicit lyric-free [Fiddle and Guitar Solo] + stripped verse + bigger final chorus (up-mid 102) for a ~3:00 arc.
+
+  G major, 102 BPM, bright female country-pop lead + gang harmonies. exclude_styles blocks EDM/club drift WITHOUT excluding the country band or vocals the style needs. Publish both clips public.
+
+tags:
+  - pop-country
+  - country-crossover
+  - modern-country
+  - chart-signal-original
+  - 102bpm
+  - g-major
+  - female-country-pop-vocal
+  - twangy-lead
+  - banjo-mandolin
+  - fiddle
+  - stomp-clap
+  - gang-harmonies
+  - crisp-radio-production
+  - fiddle-guitar-solo
+  - bright-fresh-start-empowerment
+  - joyful-liberation
+  - taillights-leaving-town-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-32-pop-country
