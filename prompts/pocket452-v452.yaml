@@ -1,0 +1,87 @@
+name: "pocket452-v452"
+version: 452
+title: "Pocket452"
+instrumental: false
+vocal_gender: male
+
+style: "Classic 1970s funk at 108 BPM in E minor (dorian), greasy, syncopated and joyous, deep in the pocket. A scratchy wah rhythm guitar, popping slap bass, funky clavinet, punchy horn stabs, congas and a tight fat-backbeat drum groove, and swirling organ. A charismatic male voice leads out front — gritty, rhythmic and full of holler, half-preaching the hook, answered by punchy backing shouts. The feeling: getting so deep in the groove that everything clenched from the week finally lets go — bodies loosening, grins breaking, pure kinetic joy and life-force; groove-confidence, liberation, unstoppable strut. Verses ride the wah and bass; the chorus hits hard with horns and shouts; a greasy mid-song funk guitar-and-clav break; a stripped bass-and-drum breakdown, then a final chorus riding out with horn stabs. Warm analog funk, live and sweaty, irresistible. No EDM, no modern club drop, no four-on-the-floor kick, no synth-house, no rap, no autotune, no distortion. 108 BPM, E minor."
+
+lyrics: |
+  [Intro]
+  (Hah! Get down)
+
+  [Verse 1]
+  Shoulders up around my ears
+  Been clenched since Monday noon
+  Then the one-drop hit the two
+  And it loosened something soon
+  I ain't cool, I'm coming undone
+  In the best way, watch me move
+
+  [Chorus]
+  I'm in the pocket, in the pocket
+  Where the week can't follow me
+  Every knot I've been carrying
+  Shakes out and sets me free
+  Drop it in the pocket, honey
+  Let the low end do the rest
+  I'm in the pocket, in the pocket
+  And the pocket knows me best
+
+  [Verse 2]
+  My knees forgot their manners
+  And my spine remembered why
+  There's a church in a bassline
+  And I'm getting sanctified
+  Don't need a single word up here
+  Just the one, the two, the sky
+
+  [Funk Guitar Break]
+
+  [Bridge]
+  Down — down
+  In the deep and greasy groove
+  The only thing I gotta do
+  Is let the low end move
+
+  [Final Chorus]
+  I'm in the pocket, in the pocket
+  Where the week can't follow me
+  I'm in the pocket, in the pocket
+  And the pocket sets me free
+
+  [Outro]
+  (Hah! Stay down)
+
+exclude_styles: "EDM, modern club drop, four-on-the-floor kick, synth-house, big room, dubstep, trap, drum and bass, rap, hip hop, autotune, heavy metal, harsh distortion, ballad"
+
+notes: |
+  STYLE-ROTATION loop (cycle 29). Full style change from v445-451: CLASSIC 1970s FUNK (never used) — scratchy wah rhythm guitar, popping slap bass, funky clavinet, punchy horn stabs, congas + tight fat-backbeat kit, swirling organ. Charismatic gritty rhythmic MALE voice half-preaching the hook + backing shouts (distinct from every prior male voice). Rebalances to male after female v451. Groove-forward 108 — a life-force ENERGY injection (catalog skews slow/melancholy); NOT club-EDM (live/syncopated/sweaty, no four-on-the-floor).
+
+  Theme: POCKET — getting so deep in the groove that everything clenched from the week lets go; the body remembering joy ('there's a church in a bassline and I'm getting sanctified'). Mood rotates to JOYOUS GROOVE-CONFIDENCE / bodily liberation / unstoppable strut — a fresh life-force register; distinct from Carousel's whimsy, Mercy's plea, Firecracker's sass (this is groove-locked physical release, not lyrical swagger).
+
+  DURATION LEVER: explicit lyric-free [Funk Guitar Break] + bass-and-drum breakdown + final ride-out chorus (groove 108) for a ~3:00 arc.
+
+  E minor (dorian), 108 BPM, charismatic male funk voice. exclude_styles blocks EDM/club/house drift WITHOUT excluding the funk band, horns, or vocals the style needs. Publish both clips public.
+
+tags:
+  - funk
+  - 70s-funk
+  - classic-funk
+  - groove
+  - 108bpm
+  - e-minor-dorian
+  - male-funk-vocal
+  - gritty-charismatic-voice
+  - wah-rhythm-guitar
+  - slap-bass
+  - clavinet
+  - horn-section
+  - funk-guitar-break
+  - joyous-groove-confidence
+  - bodily-liberation
+  - unstoppable-strut
+  - pocket-groove-theme
+  - very-catchy-fun
+  - style-rotation-loop
+  - style-29-funk
