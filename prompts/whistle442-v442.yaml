@@ -1,0 +1,88 @@
+name: "whistle442-v442"
+version: 442
+title: "Whistle442"
+instrumental: false
+vocal_gender: male
+
+style: "Joyful 1960s Motown soul-pop at 126 BPM in F major, bright, snappy and euphoric, dancing in the pocket. A driving live-band groove — punchy walking bass, tambourine and crisp backbeat, stabbing horn section, sweet strings, chiming piano triplets, and chicken-scratch guitar — with warm 'ooh-ooh' backing harmonies. A jubilant young male lead sings out front, bright and grinning, soulful and full of run-up energy, answered by the group. The feeling: on a train platform hearing the whistle that means your love is finally coming home, too happy to stand still; pure ecstatic joyful anticipation, sunlight and rhythm. Verses bounce over bass and tambourine; the chorus bursts wide with horns and group vocals; a mid-song horn-and-sax instrumental break; a key-lifting final chorus with claps and ad-libs, then a bright button ending. Vintage mono punch, warm and live. No EDM, no modern club beat, no synths, no rap, no autotune, no distortion. 126 BPM, F major."
+
+lyrics: |
+  [Intro]
+  (ooh-ooh) Here it comes!
+
+  [Verse 1]
+  Been counting down the timetable
+  Since a quarter after four
+  Got my good shoes on the platform
+  And my heart out the door
+  The signal's turning over
+  And the rail begins to sing
+  Eleven months of missing you
+  About to mean nothing
+
+  [Chorus]
+  That whistle, that whistle
+  Is the sweetest sound in town
+  It means you're on the last mile home
+  And the whole world's coming round
+  Blow that whistle, blow it
+  Let the whole street hear me shout
+  My baby's on the 5:15
+  And I'm dancing it on out
+
+  [Verse 2]
+  I ironed every minute
+  Of this ordinary day
+  So it'd be all clean and folded
+  When you're finally on your way
+  I don't need a brass band, honey
+  Just the squeal of them old brakes
+  And your face in the window
+
+  [Horn Break]
+
+  [Bridge]
+  Ring — ring
+  Down the shining track
+  Every mile you traveled out
+  You are giving me back
+
+  [Final Chorus]
+  That whistle, that whistle
+  Is the sweetest sound in town
+  My baby's on the 5:15
+  And I'm dancing it on out
+
+  [Outro]
+  (ooh-ooh) Come on home!
+
+exclude_styles: "EDM, techno, house, modern club beat, four-on-the-floor kick drop, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 19). Full style change from v424-441: JOYFUL 1960s MOTOWN SOUL-POP — driving live-band groove (punchy walking bass, tambourine + crisp backbeat, stabbing horn section, sweet strings, piano triplets, chicken-scratch guitar), 'ooh-ooh' backing group. Jubilant young MALE lead + group (rebalances gender after female v441; distinct from all prior male voices — this is a bright grinning Motown soul lead). UP-TEMPO (126) and EUPHORIC — a deliberate energy/mood jolt for a catalog that skews slow/melancholy; distinct from v425's slow warm 70s soul and v430's gospel. NOT club-EDM: vintage live-band pop.
+
+  Theme: WHISTLE — standing on a train platform hearing the whistle that means your love is finally coming home after eleven months, too happy to stand still ('my baby's on the 5:15 and I'm dancing it on out'). Mood rotates to ECSTATIC JOYFUL ANTICIPATION — sunlight and rhythm, pure uncomplicated happiness. A fresh register vs Postcard's wistful distance, Smoke's devastation, Streetlight's nervous yearning.
+
+  DURATION LEVER: explicit lyric-free [Horn Break] mid-song + key-lifting late final chorus + button ending for a fuller ~3:00 arc.
+
+  F major, 126 BPM, jubilant male Motown lead + backing group. exclude_styles blocks EDM/modern/synth drift WITHOUT excluding the live band, horns, or vocals the style needs. Publish both clips public.
+
+tags:
+  - motown
+  - 60s-soul
+  - soul-pop
+  - uptempo
+  - 126bpm
+  - f-major
+  - male-motown-lead
+  - backing-group
+  - horn-section
+  - tambourine-backbeat
+  - walking-bass
+  - horn-break
+  - ecstatic-joyful-anticipation
+  - uptempo-joy-cycle
+  - train-homecoming-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-19-motown
