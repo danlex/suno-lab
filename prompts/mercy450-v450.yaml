@@ -1,0 +1,86 @@
+name: "mercy450-v450"
+version: 450
+title: "Mercy450"
+instrumental: false
+vocal_gender: male
+
+style: "Slow, deep Southern soul ballad at 62 BPM in A-flat major, raw, aching and pleading, dripping with feeling. A weeping horn section, warm Hammond organ swells, a tremolo electric guitar, a round electric bass, brushed drums with a heavy backbeat, and a gospel-tinged grand piano. A raw, pleading male soul voice leads right up front — cracked and desperate, rising into a full sweat-soaked wail, begging on the edge of his range. The feeling: a man on his knees with no pride left, laying every last defense down and begging someone not to go; raw vulnerability, desperate tenderness, love without any armor. Hushed pleading verses over organ and piano; the chorus swells huge with horns and a wail; a weeping mid-song horn-and-organ break; a whispered near-collapse, then a final chorus that breaks all the way open, a last held cry. Vintage Stax warmth, close and sweaty, deeply human. No EDM, no club beat, no synths, no rap, no autotune, no distortion, no upbeat. 62 BPM, A-flat major."
+
+lyrics: |
+  [Intro]
+  Please... don't
+
+  [Verse 1]
+  I had a whole speech ready
+  About my dignity and pride
+  Then I heard you pull the suitcase down
+  And every word of it died
+  So here's me with nothing clever
+  On my knees on the kitchen floor
+
+  [Chorus]
+  Mercy, mercy, have a little mercy
+  I'm not too proud to beg
+  I'll say it loud, I'll say it ugly
+  Don't you walk out on the edge
+  I have got no armor left now
+  Not a single thing to hide
+  Mercy, mercy, have a little mercy
+  Don't leave me on this side
+
+  [Verse 2]
+  I was cool for forty years, girl
+  Kept my soft parts out of sight
+  But you can have the whole trembling truth of me
+  If you'll only stay tonight
+  I'll be foolish, I'll be naked
+  I'll be anything but through
+
+  [Horn and Organ Break]
+
+  [Bridge]
+  Stay — stay
+  I'll unlearn every wall
+  A man too proud to beg for love
+  Never loved at all
+
+  [Final Chorus]
+  Mercy, mercy, have a little mercy
+  I'm not too proud to beg
+  Mercy, mercy, have a little mercy
+  Don't leave me on this side
+
+  [Outro]
+  Have a little mercy
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, upbeat"
+
+notes: |
+  STYLE-ROTATION loop (cycle 27) — v450 milestone. Full style change from v443-449: SLOW DEEP SOUTHERN SOUL BALLAD (Stax/Muscle-Shoals) — weeping horn section, Hammond swells, tremolo guitar, round bass, heavy-backbeat brushed drums, gospel-tinged piano. Raw pleading MALE deep-soul voice (cracked/desperate, sweat-soaked wail — distinct from every prior male voice and from v425's warm CONTENTED FEMALE Sunday-soul: this is a raw male DEEP-soul pleader). Rebalances to male after female v449. Slow 62, palette-cleanser after the fast swing v449.
+
+  Theme: MERCY — a man on his knees with no pride left, laying every defense down and begging someone not to leave ('a man too proud to beg for love never loved at all'). Mood rotates to RAW PLEADING VULNERABILITY / no-armor desperate tenderness — a rawness/desperation the polished catalog lacked; distinct from Firecracker's sass, Redline's resolve, Crimson's grand passion (this is naked/undignified, not grand). Hook 'Mercy, mercy, have a little mercy / I'm not too proud to beg.'
+
+  DURATION LEVER: explicit lyric-free [Horn and Organ Break] + near-collapse whisper + broken-open final chorus + held cry (slow 62) for a fuller ~3:00+ arc.
+
+  A-flat major, 62 BPM, raw pleading male deep-soul voice. exclude_styles blocks EDM/club/synth/upbeat drift WITHOUT excluding the soul band, horns, organ, or vocals the style needs. Publish both clips public.
+
+tags:
+  - deep-soul
+  - southern-soul
+  - stax
+  - soul-ballad
+  - 62bpm
+  - ab-major
+  - male-deep-soul-vocal
+  - pleading-wail
+  - weeping-horns
+  - hammond-organ
+  - tremolo-guitar
+  - horn-organ-break
+  - raw-pleading-vulnerability
+  - no-armor-devotion
+  - mercy-begging-theme
+  - v450-milestone
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-27-deep-soul
