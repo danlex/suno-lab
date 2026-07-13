@@ -1,0 +1,87 @@
+name: "carousel451-v451"
+version: 451
+title: "Carousel451"
+instrumental: false
+vocal_gender: female
+
+style: "Whimsical carousel waltz and music-box chamber-pop at 102 BPM in G major, a lilting 3/4, tender and bittersweet. A glockenspiel/celeste music-box melody, wheezing accordion, pizzicato and bowed strings, toy piano, soft brushed waltz drums, and a distant calliope, with minor turns under the sweetness. A delicate, wonder-struck female voice leads up close — light and airy, a little childlike and aching, wrapped in soft harmony on the hook. The feeling: standing by a carousel at the end of the fair as the lights click off — the sweet ache of wonderful things that spin and end, holding childhood one more turn; whimsical melancholy, tender nostalgia. Verses lilt over music-box and accordion; the chorus blooms with strings and calliope; a mid-song music-box interlude; a slowing verse, then a final chorus swelling warm, a last winding-down chime. Warm carnival reverb, hand-cranked. No EDM, no club beat, no synths, no rap, no autotune, no distortion, no rock. 102 BPM, 3/4, G major."
+
+lyrics: |
+  [Intro]
+  Round and round
+
+  [Verse 1]
+  The ticket boy is yawning
+  And the sky's gone cotton-blue
+  One more turn before they close it
+  On the painted horse and you
+  I know the song is slowing
+  I can hear it in the gears
+
+  [Chorus]
+  Carousel, carousel
+  Don't stop turning yet
+  Everything that ever glittered
+  Is a thing we won't forget
+  Spin me while the lights are on
+  Before the dark comes down
+  Carousel, carousel
+  Keep a little magic in this town
+
+  [Verse 2]
+  The grown-ups check their watches
+  Like the wonder's on a clock
+  But I saw a whole cathedral
+  In a plastic horse and lock
+  Let me be small a minute
+  Let me not know what I know
+
+  [Music Box Interlude]
+
+  [Bridge]
+  Slow — slow
+  The calliope sighs
+  The bravest thing a small thing does
+  Is glitter, then say goodbye
+
+  [Final Chorus]
+  Carousel, carousel
+  Don't stop turning yet
+  Carousel, carousel
+  Keep a little magic in this town
+
+  [Outro]
+  Round and round... goodnight
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, rock"
+
+notes: |
+  STYLE-ROTATION loop (cycle 28). Full style change from v444-450: WHIMSICAL CAROUSEL WALTZ / MUSIC-BOX CHAMBER-POP — glockenspiel/celeste music-box, wheezing accordion, pizzicato + bowed strings, toy piano, soft brushed waltz drums, distant calliope, minor turns under the sweetness. 3/4 meter (third non-4/4 of the run, after v439 baroque-chamber and v440 doo-wop 6/8; palette wholly distinct from v439 — this is music-box/carnival, not baroque). Delicate wonder-struck FEMALE voice (light/airy/childlike-aching — distinct from every prior female voice). Rebalances to female after male v450. Mid waltz ~102.
+
+  Theme: CAROUSEL — standing by a carousel at the end of the fair as the lights click off; the sweet ache of wonderful things that spin, slow, and end; holding childhood one more turn ('the bravest thing a small thing does is glitter, then say goodbye'). Mood rotates to WHIMSICAL MELANCHOLY / tender nostalgia / magic-winding-down — a fresh whimsy register; distinct from Mercy's raw plea, Firecracker's sass, Redline's resolve. Hook 'Carousel, carousel / keep a little magic in this town.'
+
+  DURATION LEVER: explicit lyric-free [Music Box Interlude] + slowing verse + warm final chorus + winding-down chime (mid 102 in 3/4) for a ~3:00 arc.
+
+  G major, 102 BPM in 3/4, delicate female voice. exclude_styles blocks EDM/club/synth/rock drift WITHOUT excluding the music-box/accordion/strings or vocals the style needs. Publish both clips public.
+
+tags:
+  - carousel-waltz
+  - music-box
+  - chamber-pop
+  - carnival
+  - 3-4-waltz
+  - 102bpm
+  - g-major
+  - delicate-female-vocal
+  - glockenspiel-celeste
+  - accordion
+  - pizzicato-strings
+  - calliope
+  - music-box-interlude
+  - whimsical-melancholy
+  - tender-nostalgia
+  - magic-winding-down
+  - carousel-end-of-fair-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-28-carousel-waltz
