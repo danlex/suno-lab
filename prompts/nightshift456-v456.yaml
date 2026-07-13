@@ -1,0 +1,87 @@
+name: "nightshift456-v456"
+version: 456
+title: "Nightshift456"
+instrumental: false
+vocal_gender: male
+
+style: "Smooth 1980s quiet-storm and slow-jam R&B at 72 BPM in D-flat major, lush, velvet and nocturnal, deep in a slow groove. A warm Rhodes electric piano, a breathy tenor saxophone, a fretless bass gliding underneath, soft brushed drums with a gentle rim tap, chiming clean guitar, and silky synth pads. A smooth, intimate male voice leads up close — mellow and unhurried, honeyed low then floating into soft falsetto, warm and confiding. The feeling: the strange peace of the night shift — awake keeping the city running while everyone you love sleeps, unseen and oddly content; quiet nocturnal dignity, tender solitude. Verses drift over Rhodes and rim tap; the chorus opens warm with sax and pads; a smooth mid-song tenor-sax solo; a hushed verse over bass, then a final chorus with soft layered harmony, a long velvet fade. Warm analog nocturne, wide and intimate. No EDM, no club beat, no aggressive drop, no rap, no autotune, no distortion, no upbeat. 72 BPM, D-flat major."
+
+lyrics: |
+  [Intro]
+  Three a.m., all mine
+
+  [Verse 1]
+  The whole block finally quiet
+  Just the hum of the machines
+  I mop the empty hallways
+  Where the daylight people lean
+  Nobody sees the night crew
+  And that's alright by me
+
+  [Chorus]
+  It's my shift, my quiet kingdom
+  While the city's tucked in tight
+  I keep the small lights burning
+  So it's warm when you arrive
+  You'll never know my name, love
+  And you'll never have to know
+  I'm the hands behind the morning
+  I'm the reason the lights glow
+
+  [Verse 2]
+  There's a peace in being needed
+  By a world that never looks
+  I know the building's secrets
+  Like an old and dog-eared book
+  I'll be home by the time you're waking
+  Smelling faintly of the dark
+
+  [Sax Solo]
+
+  [Bridge]
+  Hush — hush
+  Let the night be kind
+  There's a dignity in tending
+  What the daylight leaves behind
+
+  [Final Chorus]
+  It's my shift, my quiet kingdom
+  While the city's tucked in tight
+  I'm the hands behind the morning
+  I'm the reason the lights glow
+
+  [Outro]
+  Three a.m., all mine
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, aggressive drop, rap, hip hop, autotune, heavy metal, harsh distortion, upbeat"
+
+notes: |
+  STYLE-ROTATION loop (cycle 33). Full style change from v449-455: SMOOTH 1980s QUIET-STORM / SLOW-JAM R&B (never used) — warm Rhodes, breathy tenor sax, gliding fretless bass, soft brushed drums + rim tap, chiming guitar, silky pads. Smooth intimate MALE voice (mellow, honeyed-low to soft falsetto, confiding — distinct from the gritty funk v452, deep-soul pleader v450, western baritone v454). Rebalances to male after female v455. Slow 72 velvet nocturne — timbrally distinct from all the recent guitar-band/orchestral/country cycles.
+
+  Theme (deliberately NON-romance for mood variety): NIGHTSHIFT — the strange peace of being awake keeping the city running while everyone sleeps; unseen service, quiet contentment ('I'm the hands behind the morning, I'm the reason the lights glow'; 'there's a dignity in tending what the daylight leaves behind'). Mood rotates to QUIET NOCTURNAL DIGNITY / tender solitude / calm — a fresh register (unseen-worker pride, not love/heartbreak); distinct from Taillights' empowerment, Sundown's stoicism, Pocket's groove.
+
+  DURATION LEVER: explicit lyric-free [Sax Solo] + hushed bass verse + final chorus + long velvet fade (slow 72) for a ~3:00+ arc.
+
+  D-flat major, 72 BPM, smooth intimate male voice. exclude_styles blocks EDM/club/upbeat drift WITHOUT excluding the Rhodes/sax/pads or vocals the style needs. Publish both clips public.
+
+tags:
+  - quiet-storm
+  - slow-jam
+  - 80s-r-and-b
+  - smooth-soul
+  - 72bpm
+  - db-major
+  - smooth-male-vocal
+  - honeyed-falsetto
+  - rhodes
+  - tenor-sax
+  - fretless-bass
+  - silky-pads
+  - sax-solo
+  - quiet-nocturnal-dignity
+  - tender-solitude
+  - unseen-worker-theme
+  - non-romance-mood
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-33-quiet-storm
