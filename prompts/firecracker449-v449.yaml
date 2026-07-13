@@ -1,0 +1,87 @@
+name: "firecracker449-v449"
+version: 449
+title: "Firecracker449"
+instrumental: false
+vocal_gender: female
+
+style: "Rowdy 1940s-50s swing and jump-blues at 132 BPM in B-flat major, brassy, struttin' and fun, a shuffle in the pocket. A punchy big-band horn section, walking upright bass, brushed shuffle drums with a fat backbeat, boogie-woogie piano, a twangy hollow-body guitar, and a honking tenor saxophone. A sassy, brassy female belter leads out front — big, cheeky and full of swagger, growling and winking, tossing the hook out like a dare. The feeling: a woman who is a glorious handful and knows it, owning the whole room, unbothered and delighted with herself; playful sass, good-time swagger, cheeky defiance. Verses strut over walking bass and piano; the chorus kicks in with full horns and shout-backs; a honking mid-song tenor-sax solo; a stop-time break, then a final chorus with the whole band wailing, a big button ending. Vintage big-band warmth, live and rowdy. No EDM, no modern beat, no synths, no rap, no autotune, no distortion, no ballad. 132 BPM, B-flat major."
+
+lyrics: |
+  [Intro]
+  (Well, well, well!)
+
+  [Verse 1]
+  Mama said behave now
+  I said mama, that's a stretch
+  I'm a lit and hissing sparkler
+  You can't tell a spark to sketch
+  I walk in and the room tilts
+  And I like it tilted, honey
+
+  [Chorus]
+  I'm a firecracker, firecracker
+  Light me up and stand on back
+  I don't simmer and I don't apologize
+  For the color that I lack
+  You want quiet, buy a candle
+  You want dull, well, there's the door
+  I'm a firecracker, firecracker
+  And a firecracker roars
+
+  [Verse 2]
+  They keep tryna file me smoother
+  Like my edges are a flaw
+  But the edges are the best part
+  And I never signed that law
+  I'll turn the whole night gold
+  Then I'm gone before the smoke
+
+  [Sax Solo]
+
+  [Bridge]
+  Boom — boom
+  Cover up your drink
+  A girl this loud on purpose
+  Is louder than you think
+
+  [Final Chorus]
+  I'm a firecracker, firecracker
+  Light me up and stand on back
+  I'm a firecracker, firecracker
+  And a firecracker roars
+
+  [Outro]
+  (Ha! Told ya)
+
+exclude_styles: "EDM, techno, house, modern club beat, four-on-the-floor kick drop, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, ballad, slow"
+
+notes: |
+  STYLE-ROTATION loop (cycle 26). Full style change from v442-448: ROWDY 1940s-50s SWING / JUMP-BLUES (never used) — punchy big-band horn section, walking upright bass, brushed shuffle drums + fat backbeat, boogie-woogie piano, twangy hollow-body guitar, honking tenor sax. Sassy brassy FEMALE belter (big/cheeky/swaggering, growl-and-wink — distinct from every prior female voice: soprano/soul/torch/mezzo/gospel/downtempo/bolero/surf/neo-soul). Rebalances to female after male v448. UP-TEMPO shuffle 132.
+
+  Theme: FIRECRACKER — a woman who's a glorious handful and knows it, owning the room ('you want quiet, buy a candle'; 'the edges are the best part and I never signed that law'). Mood rotates to PLAYFUL SASSY SWAGGER / good-time cheeky defiance — fun, brassy, self-delighted — a register the catalog never had; distinct from Redline's steely resolve, Weathervane's earnest seeking, Sunburn's sweet fun (this is grown/cheeky, not teen). Hook 'I'm a firecracker, firecracker / and a firecracker roars.'
+
+  DURATION LEVER: explicit lyric-free [Sax Solo] + stop-time break + final chorus (up-tempo 132 shuffle will likely render ~2:20-2:45, period-authentic for a jump-blues romp — accepted).
+
+  B-flat major, 132 BPM shuffle, sassy female swing belter. exclude_styles blocks EDM/modern/ballad drift WITHOUT excluding the big band, sax, or vocals the style needs. Publish both clips public.
+
+tags:
+  - swing
+  - jump-blues
+  - big-band
+  - 40s
+  - 50s
+  - uptempo-shuffle
+  - 132bpm
+  - bb-major
+  - sassy-female-belter
+  - brassy-vocal
+  - horn-section
+  - boogie-woogie-piano
+  - walking-upright-bass
+  - tenor-sax-solo
+  - playful-sassy-swagger
+  - good-time-defiance
+  - firecracker-handful-theme
+  - very-catchy-fun
+  - style-rotation-loop
+  - style-26-swing-jump-blues
