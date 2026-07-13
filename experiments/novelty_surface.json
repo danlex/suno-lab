@@ -1,6 +1,6 @@
 {
-  "total_prompts": 432,
-  "latest_version": 457,
+  "total_prompts": 433,
+  "latest_version": 458,
   "instruments": {
     "organ": [
       1,
@@ -175,7 +175,8 @@
       443,
       449,
       450,
-      456
+      456,
+      458
     ],
     "pipe organ": [
       1,
@@ -1258,35 +1259,6 @@
       323,
       444
     ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      162,
-      173,
-      178,
-      187,
-      251,
-      257,
-      314,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      448,
-      454
-    ],
     "neoclassical": [
       1,
       2,
@@ -1316,6 +1288,31 @@
       321,
       424
     ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      173,
+      187,
+      251,
+      257,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      454
+    ],
     "chamber": [
       191,
       192,
@@ -1341,7 +1338,17 @@
       359,
       362,
       405,
-      407
+      407,
+      458
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1357,12 +1364,6 @@
       349,
       431,
       437
-    ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
     ],
     "techno": [
       279,
@@ -1395,6 +1396,10 @@
     "post-classical": [
       112,
       315
+    ],
+    "synthwave": [
+      1,
+      448
     ],
     "2-step garage": [
       100
@@ -1434,9 +1439,6 @@
     ],
     "romantic": [
       313
-    ],
-    "synthwave": [
-      1
     ],
     "trance": [
       396
@@ -1667,7 +1669,8 @@
       396,
       414,
       434,
-      446
+      446,
+      458
     ],
     "g major": [
       42,
@@ -2517,7 +2520,8 @@
       330
     ],
     "168": [
-      328
+      328,
+      458
     ],
     "169": [
       332
@@ -2551,6 +2555,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 458,
+      "title": "Sparkplug458",
+      "name": "sparkplug458-v458",
+      "featured": [],
+      "genre": "house",
+      "key": "a major",
+      "bpm": 168
+    },
     {
       "version": 457,
       "title": "Seabound457",
@@ -2640,7 +2653,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "synthwave",
       "key": "a minor",
       "bpm": 106
     },
@@ -3825,7 +3838,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -5374,7 +5387,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -5525,7 +5538,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

@@ -1,0 +1,88 @@
+name: "unbroken459-v459"
+version: 459
+title: "Unbroken459"
+instrumental: false
+vocal_gender: female
+
+style: "Polished modern emotional pop anthem at 104 BPM in C major, warm, cinematic and uplifting, radio and headphone ready. A driving grand piano at the center, warm synth pads, deep clean sub-bass, a hybrid kit of crisp live drums and soft programmed claps, swelling strings, and stacked backing vocals. A big, clear female voice up front — intimate and conversational low, then belting the hook wide open with real grit. The feeling: telling someone you love, cracking under a dark season, that they are not broken — cracks are where the becoming gets in; fierce tender encouragement, cathartic uplift. Intimate piano verses; a lifting pre-chorus; a huge open chorus with strings and harmony; a stripped mid-song piano-and-strings break; a whispered bridge, then a final chorus opening all the way up. Crisp production, deep bass, wide stereo, layered. No aggressive EDM drop, no club four-on-the-floor, no dubstep, no rap, no autotune, no distortion. 104 BPM, C major."
+
+lyrics: |
+  [Intro]
+  Hey — look at me
+
+  [Verse 1]
+  I know the mirror's lying
+  Telling you you're less
+  I've watched you carry mountains
+  In a quiet, folded dress
+  You think the cracks are failing
+  But love, lean in and see
+
+  [Chorus]
+  You're not broken, you're beginning
+  That's just where the light gets through
+  Every line the years have carved you
+  Is a door, not a bruise
+  Hold on one more ugly morning
+  I have seen what you'll become
+  You're not broken, you're not broken
+  You're just halfway to the sun
+
+  [Verse 2]
+  So put the knife of every voice down
+  Especially your own
+  You don't have to feel like winning
+  You just can't do this alone
+  Text me at the bad hour
+  I will pick up every time
+
+  [Instrumental Break]
+
+  [Bridge]
+  Breathe — breathe
+  Just the next small thing
+  You don't climb a mountain shouting
+  You climb it whispering
+
+  [Final Chorus]
+  You're not broken, you're beginning
+  That's just where the light gets through
+  You're not broken, you're not broken
+  You're just halfway to the sun
+
+  [Outro]
+  Halfway to the sun
+
+exclude_styles: "aggressive EDM drop, club four-on-the-floor, big room, festival drop, dubstep, trap, drum and bass, hardstyle, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 36) — CHART-SIGNAL cycle (due ~v459-460; last was v455 pop-country). Took the OTHER dominant July-2026 signal: POLISHED MODERN EMOTIONAL POP ANTHEM (pop is the top streaming force — genre-fluid, emotional-yet-upbeat, headphone-era production with clear vocals/deep bass/wide layered mix). Fully ORIGINAL (built from the signal, cloned nothing). Full style change from v453-458: piano-centred pop anthem — grand piano, warm synth pads, deep clean sub-bass, hybrid live+programmed kit, swelling strings, stacked BVs. Big clear belting FEMALE voice (intimate-low to gritty-belt). Rebalances to female after male v458. Emotional MID-tempo 104 (NOT club/EDM — the fast formulaic feel the user rejected is explicitly excluded).
+
+  Theme: UNBROKEN — telling someone you love, cracking under a dark season, that they are not broken; cracks are where the becoming/light gets in ('a door, not a bruise'; 'text me at the bad hour, I will pick up every time'). Mood rotates to FIERCE TENDER ENCOURAGEMENT / hope offered to another / cathartic uplift — an OUTWARD supportive register (distinct from Sparkplug's wild joy, Nightshift's calm, Taillights' self-empowerment; this is you-to-someone-else solidarity).
+
+  DURATION LEVER: explicit lyric-free [Instrumental Break] (piano + strings) + whispered bridge + full final chorus (mid 104) for a ~3:00 arc.
+
+  C major, 104 BPM, big clear female pop voice. exclude_styles blocks aggressive-EDM/club drift WITHOUT excluding the piano/synths/drums or vocals the style needs. Publish both clips public.
+
+tags:
+  - modern-pop
+  - emotional-pop
+  - pop-anthem
+  - piano-pop
+  - chart-signal-original
+  - 104bpm
+  - c-major
+  - big-female-pop-vocal
+  - belting-hook
+  - grand-piano
+  - synth-pads
+  - hybrid-drums
+  - string-swells
+  - instrumental-break
+  - fierce-tender-encouragement
+  - cathartic-uplift
+  - unbroken-you-will-make-it-theme
+  - headphone-era-production
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-36-modern-pop
