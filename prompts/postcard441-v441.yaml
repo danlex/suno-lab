@@ -1,0 +1,92 @@
+name: "postcard441-v441"
+version: 441
+title: "Postcard441"
+instrumental: false
+vocal_gender: female
+
+style: "Warm organic downtempo and chillwave at 96 BPM in B minor, lush, golden and unhurried, headphone music not club music. Warm analog pads, a loose broken-beat groove with dusty drums, deep sub-bass, plucked kalimba and Rhodes, acoustic guitar, live strings, breathy flute, faint rain/traffic ambience. A soulful, airy female voice sits present and warm up front — intimate and honeyed, a little jazzy, easy melisma, soft harmonies on the hook. The feeling: two people under the same sky in different cities, sending warmth across the distance — same moon, different window, missing someone tenderly and hopefully; connection stretched thin but holding, golden-hour longing. Verses drift over Rhodes and beat; the chorus opens warm with strings and pads; a mid-song instrumental break of kalimba, flute and Rhodes; a hushed verse, a fuller final chorus, a long warm fade. Vintage warmth, human. No aggressive EDM drop, no four-on-the-floor club beat, no hard bass, no rap, no autotune. 96 BPM, B minor."
+
+lyrics: |
+  [Intro]
+  Same moon, love
+
+  [Verse 1]
+  It's ten o'clock where you are
+  It's already tomorrow for me
+  I'm looking at the same three stars
+  You point at across the sea
+  I mailed you something silly
+  A shell, a leaf, a line
+  A little piece of my whole day
+  To fold into yours sometime
+
+  [Chorus]
+  Same moon, different window
+  Same ache, softer kind
+  I'm not sad that you're far
+  I just carry you in mind
+  Postcard, postcard
+  Flying slow across the blue
+  Everything I saw today
+  I only saw for you
+
+  [Verse 2]
+  We keep such different hours
+  And we keep the same warm thread
+  I fall asleep still talking
+  To the pillow, not the bed
+  It isn't quite together
+  But it's nowhere close to gone
+  It's a candle in two houses
+  That we each keep burning on
+
+  [Instrumental Break]
+
+  [Bridge]
+  Miles — miles
+  Thin as thread and gold
+  Distance never cooled a thing
+  That two hearts choose to hold
+
+  [Final Chorus]
+  Same moon, different window
+  Same ache, softer kind
+  Postcard, postcard
+  I only saw it for you
+
+  [Outro]
+  Same moon... goodnight
+
+exclude_styles: "aggressive EDM, big room, club drop, four-on-the-floor, hardstyle, dubstep, trap, drum and bass, techno, rap, hip hop, autotune, heavy metal, harsh distortion, rock"
+
+notes: |
+  STYLE-ROTATION loop (cycle 18). Full style change from v424-440: WARM ORGANIC DOWNTEMPO / CHILLWAVE (Bonobo/Tycho-leaning) — warm analog pads, loose live-feel broken beat, deep sub-bass, plucked kalimba + Rhodes, acoustic guitar, live strings, breathy flute, faint rain/traffic field-recording ambience. EXPLICITLY not club-EDM: mid-tempo (96), lush, melodic, headphone music (avoids the fast formulaic club feel the user rejected). Vocal is a soulful, airy, honeyed FEMALE topline sitting PRESENT in the mix (jazzy easy melisma) — distinct from v429 buried shoegaze female and v435 male falsetto: this is warm and forward. Rebalances gender to female after male v440.
+
+  Theme: POSTCARD — two people under the same sky in different cities sending warmth across the distance ('same moon, different window'; 'a candle in two houses that we each keep burning on'). Mood rotates to WARM HOPEFUL LONGING ACROSS DISTANCE / tender connection — missing someone in a way that is hopeful rather than sad. A NEW register vs the recent heartbreak/devastation/grit. Hook 'Same moon, different window / same ache, softer kind.'
+
+  DURATION LEVER: explicit lyric-free [Instrumental Break] (kalimba/flute/Rhodes) mid-song + fuller final chorus + long warm fade for a ~3:00 arc.
+
+  B minor, 96 BPM, soulful airy female. exclude_styles blocks aggressive-EDM/club drift WITHOUT excluding the synths/beat/vocals the warm-downtempo style needs. Publish both clips public.
+
+tags:
+  - downtempo
+  - chillwave
+  - organic-electronica
+  - trip-hop-adjacent
+  - 96bpm
+  - b-minor
+  - soulful-female-vocal
+  - airy-jazzy-vocal
+  - analog-pads
+  - kalimba
+  - rhodes
+  - broken-beat
+  - flute
+  - field-recording-ambience
+  - instrumental-break
+  - warm-hopeful-longing
+  - long-distance-theme
+  - same-moon-different-window
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-18-downtempo
