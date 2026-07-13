@@ -1,0 +1,86 @@
+name: "prism453-v453"
+version: 453
+title: "Prism453"
+instrumental: false
+vocal_gender: female
+
+style: "Swirling 1960s psychedelic rock at 118 BPM in D dorian, hypnotic, trippy and visionary, driving and reverb-soaked. A fuzz-drenched reverb guitar, swirling Farfisa and Hammond organ, a sitar-like drone, tom-heavy drums, tambourine, throbbing bass, and backwards-tape swells. A bold, incantatory female voice leads out front — powerful and hypnotic, half-chanting then soaring, wrapped in phased reverb. The feeling: waking up to see plain white light break into its whole hidden spectrum — perception cracking open, the ordinary revealed as astonishing; visionary awakening, bold trance. Verses churn on the fuzz and drone; the chorus opens into a swirling wash of organ and voice; a wild mid-song fuzz guitar solo; a drone-and-tambourine trance break, then a final chorus rising into phased chaos. Warm analog phasing, wide and swirling, kaleidoscopic. No EDM, no modern club beat, no synths bass drop, no rap, no autotune, no harsh metal distortion. 118 BPM, D dorian."
+
+lyrics: |
+  [Intro]
+  Open your eyes
+
+  [Verse 1]
+  I walked past the same gray river
+  For thirty ordinary years
+  Then a crack of light came sideways
+  And it rearranged the gears
+  The river isn't gray now
+  It was never gray at all
+
+  [Chorus]
+  I'm a prism, I'm a prism
+  The plain light breaks in me
+  All the colors that were hiding
+  In the white you thought you'd see
+  Wake up, wake up, look sideways
+  At the world you thought was small
+  I'm a prism, I'm a prism
+  And there's rainbow in it all
+
+  [Verse 2]
+  They told me what was solid
+  And I believed them out of fear
+  But the wall began to shimmer
+  And I walked right through the sheer
+  I'm not high, I'm not dreaming
+  I'm just finally awake
+
+  [Fuzz Guitar Solo]
+
+  [Bridge]
+  See — see
+  Through the ordinary skin
+  Everything you called plain
+  Had a universe within
+
+  [Final Chorus]
+  I'm a prism, I'm a prism
+  The plain light breaks in me
+  Wake up, wake up, look sideways
+  And there's rainbow in it all
+
+  [Outro]
+  Open your eyes... wider
+
+exclude_styles: "EDM, modern club beat, synth bass drop, four-on-the-floor, dubstep, trap, drum and bass, rap, hip hop, autotune, harsh metal distortion, ballad"
+
+notes: |
+  STYLE-ROTATION loop (cycle 30). Full style change from v446-452: SWIRLING 1960s PSYCHEDELIC ROCK (never used) — fuzz/reverb electric guitar, swirling Farfisa + Hammond organ, sitar-like drone, tom-heavy tribal drums, tambourine, throbbing bass, backwards-tape swells. Bold incantatory FEMALE voice (powerful/hypnotic, half-chant to soar, phased reverb — Grace-Slick-esque; distinct from every prior female voice). Rebalances to female after male v452. Driving hypnotic 118, NOT club-EDM (live/fuzzy/analog).
+
+  Theme: PRISM — waking up mid-life to see the plain white light break into its whole hidden spectrum; perception cracking open, the ordinary revealed as astonishing ('everything you called plain had a universe within'). Mood rotates to HYPNOTIC VISIONARY AWAKENING / bold trance / mind-expansion — a fresh trippy register; distinct from Pocket's groove-joy, Carousel's whimsy, Mercy's plea. Hook 'I'm a prism, I'm a prism / the plain light breaks in me.'
+
+  DURATION LEVER: explicit lyric-free [Fuzz Guitar Solo] + drone-and-tambourine trance break + phased final chorus + ringing drone (driving 118) for a ~2:50-3:00 arc.
+
+  D dorian, 118 BPM, bold female psych voice. exclude_styles blocks EDM/club/metal drift WITHOUT excluding the fuzz guitar, organ, drone, or vocals the style needs. Publish both clips public.
+
+tags:
+  - psychedelic-rock
+  - 60s-psych
+  - acid-rock
+  - 118bpm
+  - d-dorian
+  - bold-female-vocal
+  - incantatory-voice
+  - fuzz-guitar
+  - farfisa-hammond-organ
+  - sitar-drone
+  - tom-heavy-drums
+  - fuzz-guitar-solo
+  - hypnotic-visionary-awakening
+  - bold-trance
+  - mind-expansion
+  - prism-perception-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-30-psychedelic-rock
