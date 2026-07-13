@@ -1,0 +1,89 @@
+name: "seabound457-v457"
+version: 457
+title: "Seabound457"
+instrumental: false
+vocal_gender: female
+
+style: "Ethereal Celtic neo-folk at 92 BPM in E minor, a lilting 6/8, windswept, modal and mythic. A heartbeat bodhrán, a low whistle and uilleann pipes, a keening fiddle, a Celtic harp, a fingerpicked acoustic guitar, and a low cello drone, wide with sea-air reverb. A pure, soaring female voice leads out front — clear and modal, aching and bell-bright, opening into wordless 'aah' at the peaks like wind over water. The feeling: the pull of the sea in the blood, an ancestral longing to go back to the water that made you, standing on a grey cliff with the wind taking your name; windswept mythic longing, ancestral memory, wild belonging. Verses lilt over harp and bodhrán; the chorus lifts on pipes and soaring voice; a mid-song low-whistle-and-fiddle solo; a hushed drone-and-harp verse, then a final chorus swelling into wordless vocalise, a last wave of reverb. Vast natural reverb, ancient and windswept. No EDM, no club beat, no synths, no rap, no autotune, no distortion. 92 BPM, 6/8, E minor."
+
+lyrics: |
+  [Intro]
+  (aah)
+  The tide knows my name
+
+  [Verse 1]
+  My grandmother was born here
+  Where the green gives to the grey
+  She said the sea just lends us to the land
+  And it wants us back someday
+  I have walked in a hundred cities
+  But my feet still turn to foam
+
+  [Chorus]
+  I am seabound, seabound
+  There's a tide inside my chest
+  Every river that I follow
+  Runs me west and west and west
+  Call me home, you old grey water
+  I was only ever yours
+  I am seabound, seabound
+  And the land was just the shore
+
+  [Verse 2]
+  They built me roads and reasons
+  And a roof to keep the rain
+  But I dream in salt and lantern-light
+  And the creak of a wooden frame
+  I don't fear the deep that takes me
+  It's the same deep that I'm from
+
+  [Low Whistle and Fiddle Solo]
+
+  [Bridge]
+  Home — home
+  Past the last grey stone
+  The sea does not forget the ones
+  It only sent on loan
+
+  [Final Chorus]
+  I am seabound, seabound
+  There's a tide inside my chest
+  I am seabound, seabound
+  And the land was just the shore
+
+  [Outro]
+  (aah)
+  The tide knows my name
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, Arabic, world music"
+
+notes: |
+  STYLE-ROTATION loop (cycle 34). Full style change from v450-456: ETHEREAL CELTIC NEO-FOLK (never used) — heartbeat bodhrán, low whistle + uilleann pipes, keening fiddle, Celtic harp, fingerpicked acoustic guitar, low cello drone, sea-air reverb. Pure soaring modal FEMALE voice with wordless 'aah' peaks (bell-bright, distinct from every prior female voice). Rebalances to female after male v456. 6/8 lilt (4th non-4/4 of the run), mid 92. Distinct from all prior folk cycles (cosmic-folk male v426, americana v438, folk-rock v447, chamber-folk baroque v439 — this is Celtic/modal/windswept).
+
+  Theme: SEABOUND — the pull of the sea in the blood, an ancestral longing to return to the water that made you ('the sea just lends us to the land and it wants us back someday'; 'the land was just the shore'). Mood rotates to WINDSWEPT MYTHIC LONGING / ancestral memory / wild belonging — a fresh register; distinct from Nightshift's nocturnal dignity, Sundown's stoicism, Taillights' empowerment. Hook 'I am seabound, seabound / there's a tide inside my chest.'
+
+  DURATION LEVER: explicit lyric-free [Low Whistle and Fiddle Solo] + drone-and-harp verse + final chorus swelling to vocalise (mid 92 in 6/8) for a ~3:00 arc. Blocked Arabic/world scales (Celtic needs plain modal minor).
+
+  E minor, 92 BPM in 6/8, pure soaring female voice. exclude_styles blocks EDM/club/synth AND Arabic/world-scale drift WITHOUT excluding the Celtic instruments or vocals the style needs. Publish both clips public.
+
+tags:
+  - celtic
+  - celtic-folk
+  - neo-folk
+  - ethereal-folk
+  - 6-8-lilt
+  - 92bpm
+  - e-minor
+  - pure-soaring-female-vocal
+  - modal-voice
+  - bodhran
+  - low-whistle-uilleann-pipes
+  - fiddle
+  - celtic-harp
+  - whistle-fiddle-solo
+  - windswept-mythic-longing
+  - ancestral-memory
+  - seabound-sea-in-the-blood-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-34-celtic-folk
