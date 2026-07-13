@@ -1,0 +1,86 @@
+name: "hollow460-v460"
+version: 460
+title: "Hollow460"
+instrumental: false
+vocal_gender: male
+
+style: "Hard-driving high-lonesome bluegrass at 140 BPM in B major, bright, breakneck and aching, all acoustic fire. A rolling three-finger banjo, a keening fiddle, a chopping mandolin, a crying dobro, a walking upright bass, and driving flatpicked acoustic guitar. A high-lonesome male tenor leads out front — piercing and plaintive, mountain-raw, stacked with a high tight brother-harmony on the chorus. The feeling: singing your grief fast because slow would break you — a man watching the hollow that raised him swallow the home and the people he loved, the bright picking racing the sorrow; high-lonesome ache, hard-won endurance, joy and grief in the same breath. Verses gallop on banjo and bass; the chorus opens with full harmony and fiddle; a blazing mid-song banjo-and-fiddle breakdown; a stripped verse over bass, then a final chorus flat-out, a hard stop. Warm string-band room, close and bright. No EDM, no club beat, no synths, no drums, no rap, no autotune, no distortion. 140 BPM, B major."
+
+lyrics: |
+  [Intro]
+  High on the ridge
+
+  [Verse 1]
+  My daddy dug this valley
+  With his hands and with his back
+  The company took the mountain
+  And they never brought it back
+  The creek runs orange now
+  Where we used to catch the light
+
+  [Chorus]
+  Oh the hollow, the hollow
+  Took my people one by one
+  I sing it fast and loud, boys
+  'Cause the crying leaves me numb
+  Roll that banjo like a river
+  Let the fiddle do the grief
+  Oh the hollow, the hollow
+  Is the only home I keep
+
+  [Verse 2]
+  My brother's up on cemetery hill
+  My mother by the pine
+  I'd move away to somewhere flat
+  But the ridge, the ridge is mine
+  There's a stubborn kind of loving
+  In a place that broke your heart
+
+  [Banjo and Fiddle Breakdown]
+
+  [Bridge]
+  Run — run
+  Faster than the ache
+  A mountain song sung quick enough
+  Is a heart that will not break
+
+  [Final Chorus]
+  Oh the hollow, the hollow
+  Took my people one by one
+  Oh the hollow, the hollow
+  Is the only home I keep
+
+  [Outro]
+  High on the ridge
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, drum kit, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 37). Full style change from v454-459: HARD-DRIVING HIGH-LONESOME BLUEGRASS (never used) — rolling three-finger banjo, keening fiddle, chopping mandolin, crying dobro, walking upright bass, driving flatpicked guitar. NO drum kit (bluegrass is drumless — the bass+mandolin chop carry the beat). High-lonesome MALE tenor + high tight brother-harmony (piercing/plaintive/mountain-raw — distinct from americana v438 weathered rock, folk-rock v447 jangle, celtic v457 modal, cosmic-folk v426: this is fast virtuosic string-band). Rebalances to male after female v459. Fast 140 but all-acoustic (NOT club/EDM).
+
+  Theme: HOLLOW — a man watching the mountain hollow that raised him get swallowed (company mining took the mountain), grief for the home and people he lost, singing it fast because slow would break him ('I sing it fast and loud 'cause the crying leaves me numb'; 'a stubborn kind of loving in a place that broke your heart'). Mood rotates to HIGH-LONESOME ACHE / grief outrun by tempo / hard-won endurance — the bluegrass paradox (bright breakneck instruments, sorrowful song); distinct from Unbroken's uplift, Sparkplug's wild joy, Nightshift's calm.
+
+  DURATION LEVER: explicit lyric-free [Banjo and Fiddle Breakdown] + stripped bass verse + flat-out final chorus (fast 140 — bluegrass may render ~2:20-2:50, accepted; the breakdown lengthens it). exclude_styles blocks EDM/club/synth AND 'drum kit' (bluegrass is drumless) WITHOUT excluding the string band or vocals.
+
+  B major, 140 BPM, high-lonesome male tenor + harmony. Publish both clips public.
+
+tags:
+  - bluegrass
+  - high-lonesome
+  - string-band
+  - drumless
+  - 140bpm
+  - b-major
+  - male-tenor-high-lonesome
+  - brother-harmony
+  - three-finger-banjo
+  - fiddle
+  - mandolin-chop
+  - dobro
+  - banjo-fiddle-breakdown
+  - high-lonesome-ache
+  - grief-outrun-by-tempo
+  - hollow-lost-mountain-home-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-37-bluegrass
