@@ -1,0 +1,88 @@
+name: "sundown454-v454"
+version: 454
+title: "Sundown454"
+instrumental: false
+vocal_gender: male
+
+style: "Cinematic spaghetti-western ballad at 100 BPM in D minor, wide, dusty and mythic, lonesome and stoic. A twangy tremolo-reverb guitar, lonesome whistling, a lone mariachi-style trumpet, galloping brushed percussion with a tolling bell, upright bass, jaw-harp, and a distant wordless choir. A deep, weathered male baritone narrates out front — grave and unhurried, Cash-deep and dust-dry, more storyteller than singer, with the choir swelling behind the hook. The feeling: the lone rider at sundown who rides into a broken town, sets one wrong right, and rides out alone before the thanks arrive — stoic solitude, mythic weariness. Verses ride the twang and gallop; the chorus opens with trumpet and choir; a wide mid-song trumpet-and-guitar solo; a bell-and-whistle break, then a final chorus riding into a long dusty fade. Wide cinematic reverb, vast. No EDM, no club beat, no synths, no rap, no autotune, no distortion, no Arabic or world scales. 100 BPM, D minor."
+
+lyrics: |
+  [Intro]
+  (whistle)
+  Ride on
+
+  [Verse 1]
+  Rode into a crooked town
+  Where the good folks kept their heads
+  A bad man ran the only well
+  And the church bell hung in dread
+  I don't do this for the medals
+  I just can't abide a thief
+
+  [Chorus]
+  So it's sundown, sundown
+  When the long shadow calls my name
+  I'll fix the thing that's broken
+  Then I'm gone before the fame
+  Don't build me any statue
+  Don't you learn my given name
+  I'm just sundown, sundown
+  And the sundown does the same
+
+  [Verse 2]
+  They wanted me to stay on
+  Wear a badge and take a wife
+  But a man who mends the fences
+  Wasn't built to live inside
+  There's another town come morning
+  With a bell that needs to ring
+
+  [Trumpet and Guitar Solo]
+
+  [Bridge]
+  Ride — ride
+  Past the last dry creek
+  The ones who save the village
+  Rarely get to keep the week
+
+  [Final Chorus]
+  So it's sundown, sundown
+  When the long shadow calls my name
+  Don't you learn my given name
+  I'm just sundown, all the same
+
+  [Outro]
+  (whistle fading)
+  Ride on
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, Arabic, world music"
+
+notes: |
+  STYLE-ROTATION loop (cycle 31). Full style change from v447-453: CINEMATIC SPAGHETTI-WESTERN BALLAD (never used) — twangy tremolo/reverb guitar, lonesome whistling, lone mariachi-style trumpet, galloping brushed percussion + tolling bell, upright bass, jaw-harp, distant wordless 'aah' choir. Deep weathered MALE BARITONE narrator (grave/unhurried, Cash-deep, storyteller-not-singer — distinct from every prior male voice). Rebalances to male after female v453. Mid 100, cinematic.
+
+  Theme: SUNDOWN — the lone rider who rides into a broken town, sets one wrong right, and rides out alone before the thanks arrive ('the ones who save the village rarely get to keep the week'). Mood rotates to LONE-RIDER STOICISM / mythic solitude / the cost of never staying — a wholly new register; distinct from Prism's trance, Pocket's groove-joy, Mercy's plea. Hook 'It's sundown, sundown / don't you learn my given name.'
+
+  DURATION LEVER: explicit lyric-free [Trumpet and Guitar Solo] + bell-and-whistle break + final ride-out chorus + long dusty fade (mid 100) for a ~3:00 arc.
+
+  D minor, 100 BPM, deep male baritone narrator + wordless choir. exclude_styles blocks EDM/club/synth AND Arabic/world-scale drift (western needs plain minor, not Arabic scales — cf the Dune/desert trigger) WITHOUT excluding the guitar/trumpet/choir or vocals the style needs. 'Frontier/canyon/dust/sundown' imagery, NOT 'desert/Dune'. Publish both clips public.
+
+tags:
+  - spaghetti-western
+  - cinematic-western
+  - western-ballad
+  - 100bpm
+  - d-minor
+  - male-baritone-narrator
+  - cash-deep-voice
+  - twang-tremolo-guitar
+  - lonesome-whistle
+  - mariachi-trumpet
+  - wordless-choir
+  - trumpet-guitar-solo
+  - lone-rider-stoicism
+  - mythic-solitude
+  - cost-of-never-staying
+  - sundown-lone-rider-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-31-spaghetti-western
