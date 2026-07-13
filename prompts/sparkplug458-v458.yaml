@@ -1,0 +1,87 @@
+name: "sparkplug458-v458"
+version: 458
+title: "Sparkplug458"
+instrumental: false
+vocal_gender: male
+
+style: "Wild 1950s rockabilly at 168 BPM in A major, twangy, jumpy and electric, a slapping train-beat shuffle. A slapback-echo Gretsch guitar with spring reverb, a slapped upright doghouse bass, a driving brushed-and-snare train beat, boogie-woogie piano, and hand-claps. A charismatic young male voice leads out front — hiccupping and yelping with rockabilly swagger, grinning wild, too wired to hold a note still. The feeling: a kid with an engine where his patience should be, who cannot sit still in a town and a pew built for sitting still, so he shakes it out instead; restless wild joy, kinetic rebellion, cannot-be-tamed. Verses jump on the slap bass and twang; the chorus explodes with claps and yelps; a wild mid-song rockabilly guitar solo; a stop-time break, then a final chorus faster and looser, a hot button ending. Vintage slapback echo, live and rowdy, one-take energy. No EDM, no modern beat, no synths, no rap, no autotune, no distortion, no ballad. 168 BPM, A major."
+
+lyrics: |
+  [Intro]
+  (Well!) Can't sit still
+
+  [Verse 1]
+  Teacher said sit down now
+  Preacher said the same
+  But there's a motor in my sneakers
+  And it don't know how to brake
+  I got ants inside my Sunday suit
+  And a jump inside my name
+
+  [Chorus]
+  I'm a sparkplug, sparkplug
+  Can't keep me in the chair
+  Wind me up on a slow town Sunday
+  And I'll rattle all the air
+  Go, cat, go, I gotta move it
+  Or I'll shake right off the map
+  I'm a sparkplug, sparkplug
+  And this town is a nap
+
+  [Verse 2]
+  Mama loves me dearly
+  From a safe and sittin' chair
+  Says one day you'll settle, baby
+  I say mama, I don't care
+  There's a whole loud world out spinning
+  And I mean to spin it too
+
+  [Guitar Solo]
+
+  [Bridge]
+  Shake — shake
+  Let the quiet fall behind
+  A boy this full of lightning
+  Wasn't built to sit and mind
+
+  [Final Chorus]
+  I'm a sparkplug, sparkplug
+  Can't keep me in the chair
+  I'm a sparkplug, sparkplug
+  And this town is a nap
+
+  [Outro]
+  (Go!) Can't sit still
+
+exclude_styles: "EDM, modern club beat, four-on-the-floor kick drop, dubstep, trap, drum and bass, synth-pop, rap, hip hop, autotune, heavy metal, harsh distortion, ballad, slow"
+
+notes: |
+  STYLE-ROTATION loop (cycle 35). Full style change from v452-457: WILD 1950s ROCKABILLY (never used) — slapback-echo Gretsch guitar + spring reverb, slapped upright doghouse bass, driving train-beat snare, boogie-woogie piano, hand-claps. Charismatic hiccupping/yelping MALE voice with rockabilly swagger (distinct from every prior male voice — smooth crooners, deep baritone, funk holler, deep-soul pleader: this is a wired hiccupping rock'n'roll shouter). Rebalances to male after female v457. UP-TEMPO 168 — a deliberate joy/energy injection (catalog skews slow/melancholy).
+
+  Theme: SPARKPLUG — a kid with an engine where his patience should be, who cannot sit still in a town and a pew built for sitting still, so he shakes it out ('there's a motor in my sneakers and it don't know how to brake'; 'this town is a nap'). Mood rotates to RESTLESS WILD JOY / kinetic rebellion / cannot-be-tamed — a fresh PHYSICAL-energy register; distinct from Weathervane's idealistic questioning (that was folk-rock/cerebral), Nightshift's calm, Seabound's longing. Hook 'I'm a sparkplug, sparkplug / can't keep me in the chair.'
+
+  DURATION LEVER: explicit lyric-free [Guitar Solo] + stop-time break + faster final chorus (up-tempo 168 rockabilly will likely render ~2:15-2:40, period-authentic for a 50s rock'n'roll romp — accepted).
+
+  A major, 168 BPM shuffle, wild male rockabilly voice. exclude_styles blocks EDM/modern/ballad drift WITHOUT excluding the rockabilly band or vocals the style needs. Publish both clips public.
+
+tags:
+  - rockabilly
+  - 50s-rock-n-roll
+  - rock-and-roll
+  - uptempo-shuffle
+  - 168bpm
+  - a-major
+  - male-rockabilly-vocal
+  - hiccup-yelp-vocal
+  - slapback-echo
+  - gretsch-twang-guitar
+  - slap-upright-bass
+  - boogie-woogie-piano
+  - guitar-solo
+  - restless-wild-joy
+  - kinetic-rebellion
+  - cant-be-tamed
+  - sparkplug-cant-sit-still-theme
+  - very-catchy-fun
+  - style-rotation-loop
+  - style-35-rockabilly
