@@ -1,0 +1,88 @@
+name: "streetlight440-v440"
+version: 440
+title: "Streetlight440"
+instrumental: false
+vocal_gender: male
+
+style: "Classic 1950s-60s doo-wop ballad at 68 BPM in D-flat major, slow, sweet and earnest, a swaying 6/8 triplet stroll on the timeless I-vi-IV-V changes. Warm tremolo guitar, walking upright-bass triplets, brushed drums, vibraphone, tender piano, and a honking tenor sax. A sincere young male lead sings up front — clear and a little nervous, aching with first-love honesty, floating into falsetto on the highs — over a rich vocal group answering with bass 'bom-bom', 'sha-la-la' and blended harmonies. The feeling: a shy kid under a corner streetlight at night, working up the courage to say how he feels; innocent, tender, timeless, hopeful and terrified at once — prom-night sincerity. Verses sway over guitar and bass; the chorus lifts into full group harmony; a mid-song tenor-sax solo; a key-lifting final chorus, then a held falsetto and a last bass note. Vintage mono warmth, room echo. No EDM, no modern beat, no synths, no rap, no autotune. 68 BPM, 6/8, D-flat major."
+
+lyrics: |
+  [Intro]
+  (bom, bom, bom-bom)
+  Ooh...
+
+  [Verse 1]
+  There's a light on the corner
+  Where I've waited all night
+  Rehearsing all the small words
+  Till the small words sound right
+  Girl I've practiced this a hundred times
+  And I still come undone
+
+  [Chorus]
+  So under the streetlight (sha-la-la)
+  I'm gonna say it tonight (say it tonight)
+  I have loved you since September
+  And I've hid it out of fright
+  Be mine, oh be mine (be mine)
+  Let me walk you to your door
+  I'm a nervous fool in a borrowed coat
+  But I've never been more sure
+
+  [Verse 2]
+  I ain't got a nice car
+  Or a smooth word to say
+  Just a heart that's been yours quietly
+  Since the first day of May
+  But I can't keep it in another night
+  So here, beneath the sky
+
+  [Sax Solo]
+
+  [Bridge]
+  Be mine, be mine, under this light
+  Everything I never said
+  Is coming out right
+
+  [Final Chorus]
+  So under the streetlight (sha-la-la)
+  I'm gonna say it tonight (say it tonight)
+  I'm a nervous fool in a borrowed coat
+  But I've never been more sure
+
+  [Outro]
+  (bom bom)
+  Be mine tonight
+
+exclude_styles: "EDM, techno, house, club beat, four-on-the-floor, dubstep, trap, drum and bass, synth-pop, modern pop, rap, hip hop, autotune, heavy metal, harsh distortion"
+
+notes: |
+  STYLE-ROTATION loop (cycle 17). Full style change from v424-439: CLASSIC 1950s-60s DOO-WOP BALLAD — swaying 6/8 triplet stroll on the timeless I-vi-IV-V changes; tremolo guitar, walking upright-bass triplets, brushed drums, vibraphone, tender piano, honking tenor sax, and a full VOCAL GROUP (bass 'bom-bom', 'sha-la-la', blended harmonies). Warm sincere young MALE lead + group (rebalances gender after female v439; distinct from all prior male voices — this is an earnest first-love crooner with falsetto over a doo-wop group). SECOND non-4/4 meter of the rotation (6/8, after v439's 3/4).
+
+  Theme: STREETLIGHT — a shy kid under a corner streetlight working up the courage to finally confess first love ('I'm a nervous fool in a borrowed coat but I've never been more sure'). Mood rotates to EARNEST TEENAGE DEVOTION / prom-night sincerity — innocent, tender, timeless, hopeful-and-terrified — a wholly NEW register vs the sophisticated recent moods (chamber-folk wonder, americana grit, torch devastation). Call-and-response group hook 'Under the streetlight (sha-la-la) / I'm gonna say it tonight.'
+
+  DURATION LEVER: explicit lyric-free [Sax Solo] mid-song + key-lifting late final chorus + held-falsetto outro for a fuller ~3:00 arc.
+
+  D-flat major, 68 BPM in 6/8, sincere young male lead + doo-wop group. exclude_styles blocks EDM/modern/synth drift WITHOUT excluding the band, sax, or vocals the style needs. Publish both clips public.
+
+tags:
+  - doo-wop
+  - 50s
+  - 60s
+  - vocal-group
+  - 6-8-triplet-ballad
+  - 68bpm
+  - db-major
+  - male-doo-wop-lead
+  - falsetto
+  - group-harmonies
+  - tremolo-guitar
+  - tenor-sax-solo
+  - vibraphone
+  - fifties-changes
+  - earnest-teenage-devotion
+  - prom-night-sincerity
+  - streetlight-confession-theme
+  - very-catchy-deep
+  - style-rotation-loop
+  - style-17-doo-wop
