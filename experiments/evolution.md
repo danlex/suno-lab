@@ -480,6 +480,7 @@ mindmap
 | 463 | Polaroid463 | arch-form central textural bloom (no modulation) | F-sharp minor | 74 | mellotron + lap steel guitar + bass flute |
 | 464 | Owe464 | groove-and-harmony lift (no modulation) | C-sharp minor | 110 | log drum + vibraphone + baritone saxophone |
 | 465 | Dangerous465 | brass-unison stab + Picardie parallel-major lift (no half-step transposition) | B-flat minor | 98 | cornet + Rhodes electric piano + slap funk bass |
+| 466 | Tremor466 | double-drop filter/density climax (no modulation), rhythm-primary form-break | E-flat minor | 130 | tamborzão kick grid + wobbling sub-bass + chopped female vocalise (crotales accents) |
 
 ## Next-cycle priorities
 

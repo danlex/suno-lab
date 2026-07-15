@@ -1,0 +1,96 @@
+name: "tremor-v466"
+version: 466
+title: "Tremor466"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Bass house floor-track for after-midnight sessions when the sub-bass goes physical — bodies locked into a two-bar kick-grid that withholds beat one, keeping the floor in perpetual unresolved motion until the drop. E-flat minor, 130 BPM, total duration around 3:00. Polished studio mix with deep low-end definition and wide stereo stage. The tamborzão kick grid drives the pocket: syncopated two-bar pattern, beat-one avoided so tension coils until the drop. Wobbling sub-bass swells and pumps beneath, pressure-building through each phrase. Crotales deliver bright metallic overtone stabs above the low-end mass — glinting spatial accents that cut against the bass weight. Wordless female vocalise chopped and pitched into rhythmic stabs: open-phoneme motif (oh, ay, eh, ah) used as melodic percussion, not sung melody. No guitar, no piano, no acoustic instruments. No trap patterns, no drill percussion, no sung words, no rapping.
+
+lyrics: |
+  [Grid Intro]
+  (oh—)
+  (ay-ay—)
+  (eh—)
+
+  [Build]
+  (oh ay oh)
+  (eh-ay—)
+  (oh oh ay—)
+  (hah—)
+
+  [Drop 1]
+  (oh ay oh ay)
+  (eh-eh-oh—)
+  (hah ay oh)
+  (ay-ay-eh—)
+  (oh—hah—)
+  (ay oh ay oh)
+  (eh—oh—ay—)
+
+  [Break]
+
+  [Build 2]
+  (oh—)
+  (ay-ay eh—)
+  (oh—oh—hah—)
+
+  [Drop 2]
+  (oh ay oh ay)
+  (hah-eh-oh—)
+  (ay-ay oh—hah)
+  (eh oh ay oh)
+  (oh—hah—ay—)
+  (ay oh-oh eh—)
+  (hah—oh—ay—)
+  (eh-eh oh ay)
+
+  [Outro]
+  (oh—)
+  (ay—)
+  (eh—)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, Middle Eastern, gqom, afrobeats, hip hop, rap, drill, trap, lo-fi, acoustic guitar, rock, metal, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, sung verses, lyrical vocals, vocal ballad, chanson, folk, country, cinematic ambient, elegiac, intimate chamber"
+
+notes: |
+  v466 TOURNAMENT WINNER (inline-judged 77/100, tied with sibling Static466 at 77; won on danceability — our engagement signal — and render reliability vs Static's risky long-build/long-suspended-break). The run's first genuine FORM-BREAK: rhythm-primary, wordless-vocalise, NOT verse-chorus — a deliberate high-variance move after four sung songs (v462 speed garage, v463 dream-pop, v464 Afropiano soul, v465 new jack swing).
+
+  FORM: four-part club structure — Grid -> Vocalise Hook -> Break -> Double Drop — how bass house / baile funk actually work on a floor. The primary material is RHYTHM, not melody or lyric narrative.
+
+  TAMBORZÃO KICK GRID: a syncopated two-bar kick/snare pattern (forward-leaning, beat one often withheld so the groove feels perpetually unresolved), fused with bass house's sub-heavy aesthetic — physically propulsive without ever fully landing until the drop.
+
+  VOCALISE AS INSTRUMENT: the female voice never sings words — an open-phoneme motif (oh, ay, eh, ah, hah) chopped and pitched as melodic percussion. Lyrics field is vocables + structural metatags only, no real words in any language (wordless vocables are explicitly permitted by the language rule).
+
+  CROTALES: small antique cymbals (bright 4-6 kHz overtone stabs) provide the signature unusual color — their glinting high-frequency attack cuts through the sub-bass mass, the textural identity of the track (sub-bass wobble vs crotale stab).
+
+  DOUBLE-DROP, NO MODULATION: the climax is a FILTER/DENSITY event (sidechain release + sub-bass thickness), not a key change — the correct climax mechanism for bass house. Single tonal center (E-flat minor) throughout.
+
+  DURATION LEVER: the lyric-free [Break] (~30-45s of sub-bass drone + cymbal rolls) is the mid-song lever; Drop 2 is placed late (~2:30+) so the final payoff extends the render toward 3:00. 130 BPM sits in the proven duration band.
+
+  Novelty: bass house × tamborzão grid is a catalog debut; wordless-vocalise-as-instrument form is new; crotales as bass-house accent is a fresh deployment; double-drop rhythm-primary structure is a form-break from the verse-chorus template.
+
+  Style char count: 931.
+
+tags:
+  - crotales
+  - wobbling-sub-bass
+  - tamborzao-kick-grid
+  - female-vocalise
+  - bass-house
+  - baile-funk
+  - 130bpm
+  - eb-minor
+  - e-flat-minor
+  - floor-track
+  - club-scene
+  - double-drop
+  - form-break
+  - rhythm-primary
+  - new-technique
+  - duration-3min
+  - research-driven
+  - wordless-vocalise
+  - filter-density-drop
+  - no-modulation
