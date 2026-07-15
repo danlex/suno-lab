@@ -1,0 +1,97 @@
+name: "glass-v462"
+version: 462
+title: "Glass462"
+instrumental: false
+vocal_gender: male
+
+style: "Speed garage club track built for release and euphoria, total duration around 3:00, with a soulful aggressive male vocal singing every line with floor-filling conviction, in A minor at 134 BPM. Four-on-the-floor swing kick, skippy offbeat snares, wobbling squelch bass — with THEREMIN as the eerie hovering lead, BASS CLARINET supplying the organic growling squelch, and STEEL TONGUE DRUM locked into the skippy percussion grid. Catharsis on the dancefloor: a man who cracks open and lets go. Warm tape saturation on the drum bus, deep low-end definition from the bass clarinet growl, wide stereo stage on the theremin. The climax is a kick-withdrawal suspension — kick and bass drop entirely for two bars, leaving only voice and theremin suspended, then the full groove slams back on the downbeat. No modulation, no key change; the arc is accumulation and withdrawal. No guitars, no pipe organ, no 2-step, no grime, no drum and bass."
+
+lyrics: |
+  [Intro: swing kick locks in, bass clarinet growl rises, 8 bars]
+
+  [Verse 1: hushed urgency, building pressure]
+  I been holding myself together too long
+  Every seam pulled tight, every word held wrong
+  There's a rattle in my chest where the silence lives
+  And I got nothing left to keep, only things to give
+
+  [Pre-Chorus: snares skip harder, theremin climbs]
+  Something in me finally breaking loose
+  I can feel the floor decide
+
+  [Chorus: full squelch drop, sung with conviction]
+  Crack me open, I was glass
+  Pour yourself into the cracks
+  Crack me open, I was glass
+  Light gets in — and it never looks back
+
+  [Verse 2: fuller band, more urgency, mid-song heat]
+  Spent a whole life being careful, being clean
+  But careful never felt like it meant anything
+  Now the bass is in my blood and the beat's on fire
+  And I don't know which part of me is real, and I don't care
+
+  [Pre-Chorus: escalating, snares doubling up]
+  Something in me finally breaking loose
+  I can feel the floor decide
+
+  [Squelch Bass and Theremin Break: lyric-free instrumental, bass clarinet and theremin trade phrases over skippy steel tongue drum, 16 bars]
+
+  [Chorus: soulful and full-throated, high energy]
+  Crack me open, I was glass
+  Pour yourself into the cracks
+  Crack me open, I was glass
+  Light gets in — and it never looks back
+
+  [Kick Withdrawal — Voice and Theremin Only: kick and bass drop out, voice and theremin suspended bare, two bars of space]
+  I was — glass
+
+  [Drop Return: full groove slams back on the downbeat, steel tongue drum leads]
+  Crack me open, I was glass
+  Pour yourself into the cracks
+  Crack me open — glass
+
+  [Outro: bass clarinet holds long tone, theremin fades, kick softens, 0:02:40]
+  Never going back
+  Never going back
+
+  [End]
+
+exclude_styles: "2-step garage, grime, jungle, drum and bass, Arabic music, world music, tribal, acoustic guitar, rock, metal, pipe organ, EDM with generic drops, lo-fi, cinematic ambient, new age, free jazz, atonal, non-English language, spoken word"
+
+notes: |
+  Speed garage is a UK sub-genre that emerged from UK garage in the late 1990s — it pushes the tempo to 130-140 BPM while retaining the four-on-the-floor swing kick, the skippy offbeat snare pattern, and the signature wobbling squelch bass. The genre's emotional register leans toward release and floor-filling euphoria rather than cool detachment.
+
+  The concept source: a man who finally cracks open and lets go on the dancefloor — "I was glass" as the central image, fragility transformed into liberation.
+
+  v462 TOURNAMENT WINNER (inline-judged 81/100, danceability 8; bar lowered to >=70 by user directive 2026-07-15). Beat sibling Flooded462 (79/100, double-time beat-flip). An earlier v462 speed-garage tournament (Smoke/Corridor/Orbit) STALLED at 61-74 because all three shared the build->strip->half-step-lift arc and used a cool/spoken vocal; this winning attempt fixed both: a genuinely SUNG melodic hook (22/25 from the hook-writer) and a bold non-modulation climax (kick-withdrawal suspension), single key throughout.
+
+  Duration strategy: the total duration target (around 3:00) is stated early in the style. The mid-song [Squelch Bass and Theremin Break] provides the explicit lyric-free instrumental duration lever (~16 bars at 134 BPM = ~28-35 seconds of pure instrumental groove). The final lyric line lands around 2:40 via the [Outro] timestamp. Sentence case is used throughout; the style opens atmosphere-first with genre + purpose + BPM before naming the trio.
+
+  Architecture rationale: the prior-version failure came from the default build->strip->half-step-key-lift->drop template. This version stays locked in A minor with zero modulation. The climax device is a kick-withdrawal suspension: kick and bass cut for ~2 bars, leaving voice and theremin exposed, then the full groove slams back on the downbeat. The "drop" IS the return of the groove, not a key change. This is named explicitly in the style prose and instantiated with [Kick Withdrawal — Voice and Theremin Only] in the lyrics.
+
+  Trio roles and novelty: THEREMIN (spectral voice — eerie hovering lead melody, fills space the bass clarinet vacates during the kick-withdrawal); BASS CLARINET (body voice — organic growling squelch bass surrogate, deep low-end definition); STEEL TONGUE DRUM (body voice — skippy percussion grid, leads the drop return). Two body voices (bass clarinet + steel tongue drum), one spectral (theremin).
+
+  Hook contour: "Crack me open" lands on a syncopated triplet attack on the offbeat snare pair; "o-pen" descends stepwise; "I was GLASS" rises a major sixth, the high note held over the squelch-bass wobble peak. The call-and-response answer — "Pour yourself into the cracks" — is a melodically distinct second idea.
+
+  Novelty claims: speed garage has not appeared as the genre anchor in the catalog. Bass clarinet as squelch-bass surrogate is an untested fusion. Steel tongue drum in a UK club context is novel. The kick-withdrawal climax architecture is a deliberate departure from the overused v216-v219 template. BPM 134 in this genre band has not appeared. Scene: cathartic release on a dancefloor.
+
+  Final style char count: 934.
+
+tags:
+  - theremin
+  - bass-clarinet
+  - steel-tongue-drum
+  - 134bpm
+  - a-minor
+  - speed-garage
+  - cathartic-release-scene
+  - uk-garage
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal-male
+  - kick-withdrawal-climax
+  - squelch-bass-clarinet-fusion
+  - floor-filling-euphoria
