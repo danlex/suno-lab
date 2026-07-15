@@ -1,0 +1,112 @@
+name: "window-v467"
+version: 467
+title: "Window467"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Sun-drenched French-touch filter house fused with city-pop warmth — bright, hedonistic, four-on-the-floor for golden-hour dance floors. A major, 124 BPM, total duration around 3:00. Polished studio mix, wide stereo stage, warm tape saturation. The low-pass filter opens progressively across the whole arc — dark at the open, gradually clearing, arriving at one euphoric full-open bloom on the final chorus. Progressive filter automation is the climax, not a key change. A chopped late-seventies rhythm-guitar loop churns under heavy filter sweeps for the French-touch heartbeat. Sidechain-pumped warm bass locks four-on-the-floor, glittering hi-hats above. Flugelhorn delivers warm golden countermelodies over lush major-seventh and add-ninth city-pop chords on electric piano. Warm breathy female vocal, effortless and cool, sings a lazy descending triplet hook against the straight kick. No trap, no drill, no rap, no pipe organ, no distortion.
+
+lyrics: |
+  [Filtered Intro: chopped guitar loop under closed filter, sidechain bass enters bar 5, 8 bars]
+
+  [Verse 1: filter at 30% open, warm electric piano chords, breathy vocal entering mid-phrase, 16 bars]
+  The city hums beneath a tangerine sky
+  Neon on the pavement, you and I
+  A lazy Sunday stretching into night
+  Something in the air feels almost right
+
+  [Pre-Chorus: filter lifting to 50%, flugelhorn countermelody rising, 8 bars]
+  I slow down
+  I breathe out
+  The room just glows and turns around
+
+  [Chorus 1: filter at 65% open, full groove locked, vocal hook on triplet arc, 16 bars]
+  Leave the window warm for me
+  I'll find my way back, just wait and see
+  Leave the window warm, let the light stay on
+  Golden in the morning when the dark is gone
+
+  [Filtered Guitar and Flugelhorn Break: full lyric-free instrumental, filter sweeping 40% to 80%, flugelhorn solo over city-pop chord sequence, sidechain pump prominent, 32 bars]
+
+  [Verse 2: filter at 70% open, electric piano brighter, vocal more forward, 16 bars]
+  We don't need a reason, just a time
+  Somewhere between midnight and the climb
+  Pull the curtain back and let it in
+  Let the morning find us where we've been
+
+  [Pre-Chorus 2: filter at 80%, flugelhorn fills between vocal phrases, 8 bars]
+  I slow down
+  I breathe out
+  The room just glows and turns around
+
+  [Chorus 2: filter at 85% open, groove tighter, 16 bars]
+  Leave the window warm for me
+  I'll find my way back, just wait and see
+  Leave the window warm, let the light stay on
+  Golden in the morning when the dark is gone
+
+  [Build: filter held at 85%, hi-hats doubled, bass swell, held breath before full open, 8 bars]
+
+  [Final Chorus — Full Filter Open: low-pass fully open, mix blooms to complete brightness, euphoric full ensemble, 16 bars]
+  Leave the window warm for me
+  I'll find my way back, just wait and see
+  Leave the window warm, let the light stay on
+  Golden in the morning — and you're not gone
+
+  [Outro: filter gently reclosing, vocal ad-libs fade, sidechain bass to silence, 8 bars]
+  (warm for me)
+  (warm for me)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, Middle Eastern, gqom, afrobeats, hip hop, rap, drill, trap, hardstyle, trance, synthwave arpeggios, lo-fi, vaporwave, chillwave, acoustic guitar, rock, metal, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, chanson singer, vocal cabaret, cinematic ambient, elegiac, intimate chamber"
+
+notes: |
+  v467 CANDIDATE "WINDOW" — French-touch filter house × city-pop. A major, 124 BPM.
+
+  TECHNIQUE — FILTER-AS-FORM (progressive brightening): The low-pass filter is not a production effect but the structural arc itself. The mix opens progressively across the whole song — approximately 30% at verse 1, 50% at the pre-chorus, 65% at chorus 1, 40-80% sweep during the instrumental break, 70-85% through verse 2 and chorus 2, held at 85% through the build, and then FULL OPEN at the final chorus. That single bloom to full brightness IS the climax — no key modulation, no half-step lift, no silence trick. This is the catalog's first use of filter-as-form as the primary climax device (vs. filter as incidental production texture). The technique has roots in French-touch DJ performance practice (live filter sweeps as structural dramaturgy) applied to a full song arc rather than a club set.
+
+  CONCEPT SOURCE: French-touch filter house (chopped rhythm-guitar loops under heavy low-pass sweeps, as pioneered by late-90s Parisian club producers) × city-pop (Japanese-influenced lush major-seventh harmony, breathy soulful female vocal, warm electric piano, pre-dawn romantic ease). The cross is a catalog debut — the closest prior work was disco-inflected v390s cycles, but never with city-pop harmony or this filter-arc structure.
+
+  COMPOSER OMISSION: The filter-sweep-as-DJ-performance lineage is well-documented in late-90s French house production; no specific names are cited per blocklist discipline.
+
+  HIGH-VARIANCE CONTRAST: Five straight minor-key ships (v462 E minor, v463 D minor, v464 B-flat minor, v465 F minor, v466 E-flat minor). Window467 deliberately breaks to A major — bright, hedonistic, sunlit-romance register. The emotional mood (easy joy, golden-hour warmth) is also fresh against the catalog's recent run of edgy/dark/intense cycles.
+
+  TRIO:
+  - Filtered disco guitar chop (gap ~111 versions): the French-touch heartbeat — a late-seventies rhythm-guitar loop chopped and played under progressive low-pass filter sweeps. Not a conventional guitar part; the filter is inseparable from the timbre.
+  - Sidechain-pumped warm bass (gap ~111 versions): four-on-the-floor pumping bass locked to the kick, the rhythmic glue that defines French-touch floor feel.
+  - Flugelhorn (gap ~111 versions): warm golden countermelody instrument; rounder and softer than trumpet, slightly darker than flugelhorn's brassy cousins, providing the fresh signature timbre over the city-pop chord changes. Delivers the mid-song solo in the 32-bar instrumental break.
+
+  HOOK CONTOUR: "leave the window warm for me" — lazy descending triplet arc (A→F#→E→D#) in eighth-note triplets against the straight 124 BPM kick grid (cross-rhythm tension), resolving on "warm for me" with a rising step to a sustained major third held over the sidechain pump release. The triplet-against-four feel is the fingerprint.
+
+  DURATION LEVER: Explicit 32-bar lyric-free [Filtered Guitar and Flugelhorn Break] mid-song (~35-45s at 124 BPM). Final lyric line lands late in the final chorus (~2:40+ target). 124 BPM is in the proven 130-160 duration band (slightly below but close), supporting ~3:00 render.
+
+  Style char count: 946.
+
+tags:
+  - filtered-disco-guitar-chop
+  - sidechain-pumped-bass
+  - flugelhorn
+  - flugelhorn-gap-111
+  - 124bpm
+  - a-major
+  - french-touch
+  - filter-house
+  - city-pop
+  - filter-as-form
+  - progressive-filter-arc
+  - no-modulation
+  - four-on-the-floor
+  - breathy-female-vocal
+  - major-7th-harmony
+  - electric-piano
+  - golden-hour-scene
+  - sunlit-romance-mood
+  - high-variance-major-contrast
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - instrumental-break
+  - catalog-debut-french-touch-city-pop
