@@ -1,0 +1,113 @@
+name: "dangerous-v465"
+version: 465
+title: "Dangerous465"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Smoky late-night groove with a belted female R&B vocal dripping gospel fire, total duration around 3:00. New jack swing drum-machine funk: snappy programmed snare on 2 and 4, syncopated hi-hats, slap funk bass popping the upbeats, Rhodes electric piano voicing warm seventh-chord patterns. A cornet leads the horn stabs — bright centered brass in call-and-response with the vocal on every chorus. Polished studio mix, deep low-end definition, wide stereo stage. B-flat minor, 98 BPM. The voice brings gospel-style runs, a chromatic blue-note bend on "dan-GER-ous," a pickup into "in," then a fifth leap belted hard on "Red," held in full chest voice while the cornet answers on beat 4. At the climax the ensemble fires a brass-unison stab burst, then lifts from B-flat minor to B-flat major — Picardie parallel-major brightening, not a transposition — flooding the final chorus with sudden light. No rap, no trap, no pipe organ, no acoustic guitar.
+
+lyrics: |
+  [Intro: Rhodes seventh-chord vamp, slap bass and drum machine lock in, 4 bars]
+
+  [Verse 1: Belted R&B vocal, intimate threat, cornet stabs punctuate phrase ends, 8 bars]
+  I walk in through the smoke and the low red light
+  Every room goes quiet like a held breath tight
+  I don't come to beg, I don't come to plead
+  I come to take exactly what I need
+
+  [Pre-Chorus: Vocal rises, bass drops to half-time feel, tension mounts, 4 bars]
+  You've been warned, you've been told
+  Something about me runs hot and cold
+  Step back now or step in line
+  You are already crossing mine
+
+  [Chorus: Big belted hook, cornet call-and-response on beat 4, full band, 8 bars]
+  Dangerous in Red
+  Dangerous in Red
+  You never should have let me walk through that door
+  Now you're wanting so much more
+
+  [Verse 2: Stripped — Rhodes and slap bass only, vocal more conversational, 8 bars]
+  I move through this city like a blade through silk
+  Nobody clocks the danger till they've spilled the milk
+  I built this fire slow, one match at a time
+  Now watch it catch, watch it climb
+
+  [Pre-Chorus: Full band re-enters, cornet stabs tighten, 4 bars]
+  You've been warned, you've been told
+  Something about me runs hot and cold
+  You can't call it back now
+  You already crossed my vow
+
+  [Chorus: Belted repeat, gospel runs on "Red," cornet answer louder, 8 bars]
+  Dangerous in Red
+  Dangerous in Red
+  You never should have let me walk through that door
+  Now you're wanting so much more
+
+  [Drum Machine and Horn Break: Instrumental — cornet trading phrases with the slap bass over the drum machine groove, no vocal, 16 bars]
+
+  [Bridge: Vocal spoken-low over Rhodes ostinato, building intensity, 4 bars]
+  I gave you every sign
+  I drew you every line
+  You stepped across anyway
+  So tonight, you stay
+
+  [Brass-Unison Picardie Lift: Full ensemble brass-unison stab burst, harmony pivots B-flat minor to B-flat major, 4 bars]
+
+  [Final Chorus: Belted in B-flat major, gospel runs peak, cornet blazing, 8 bars]
+  Dangerous in Red
+  Dangerous in Red
+  You never should have let me walk through that door
+  Now you can't want anything more
+
+  [Outro: Rhodes and slap bass alone, vocal hums and fades, drum machine dissolves, 4 bars]
+
+  [End]
+
+exclude_styles: >
+  Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ,
+  electronic, EDM, synthesizer pads, zen meditation, new age, experimental noise,
+  free jazz, atonal, microtonal, quarter-tone, hip hop, rap, trap, drill,
+  drum-and-bass, gqom, dancehall, reggaeton, K-pop, J-pop, cinematic ambient,
+  elegiac, intimate chamber
+
+notes: |
+  v465 TOURNAMENT WINNER (inline-judged 84/100 — the run's best; beat sibling Spell465 at 80). New jack swing is a late-1980s/early-1990s style grafting tight drum-machine programming onto R&B harmonic language — syncopated hi-hats, hard snare on 2 and 4, bass-and-horn funk interplay. Catalog debut genre.
+
+  HIGH-VARIANCE contrast (4th distinct profile this run): v464 mid Afropiano soul / male; v463 slow dream-pop / female airy; v462 fast speed garage / male — this is retro-R&B drum-machine / belted female, maximally distinct across tempo, genre, vocal register, and production era.
+
+  The hook was engineered around a specific belted contour (hook-writer scored it 23/25): ascending gospel run + chromatic blue-note bend on "dan-GER-ous" + perfect-fifth leap belted on "Red," cornet answering in call-and-response. The parenthetical stage-directions in the drafted chorus were removed before submit so Suno does not sing them as ad-libs; the style field carries the cornet call-and-response instruction.
+
+  Trio: CORNET (fresh brass, ~103-version gap — bright centered tone lighter than trumpet, leads the horn stabs) + RHODES ELECTRIC PIANO (seventh-chord funk bed) + SLAP FUNK BASS (syncopated upbeat pops). All body voices.
+
+  Duration: explicit 16-bar lyric-free [Drum Machine and Horn Break] mid-song is the duration lever; final lyric line ~2:40; 98 BPM sits in the slow-BPM band, target 3:00-3:30.
+
+  Climax device (non-formulaic, NOT a half-step transposition): a brass-unison stab burst into a PICARDIE parallel-major pivot (B-flat minor -> B-flat major on the same tonic) that floods the final chorus with sudden brightness. Fresh device for the catalog.
+
+  Novelty: new jack swing catalog debut; cornet as lead brass fresh (~103 gap); Picardie parallel-major climax not previously used.
+
+  Style char count: 948.
+
+tags:
+  - cornet
+  - rhodes-electric-piano
+  - slap-funk-bass
+  - 98bpm
+  - bb-minor
+  - bb-major
+  - new-jack-swing
+  - r-and-b
+  - drum-machine-funk
+  - belted-female-vocal
+  - gospel-runs
+  - picardie-lift
+  - brass-unison
+  - revival-cornet-103-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - high-variance-v464-v465
+  - dangerous-scene

@@ -479,6 +479,7 @@ mindmap
 | 462 | Glass462 | kick-withdrawal suspension climax (no modulation) | A minor | 134 | theremin + bass clarinet + steel tongue drum |
 | 463 | Polaroid463 | arch-form central textural bloom (no modulation) | F-sharp minor | 74 | mellotron + lap steel guitar + bass flute |
 | 464 | Owe464 | groove-and-harmony lift (no modulation) | C-sharp minor | 110 | log drum + vibraphone + baritone saxophone |
+| 465 | Dangerous465 | brass-unison stab + Picardie parallel-major lift (no half-step transposition) | B-flat minor | 98 | cornet + Rhodes electric piano + slap funk bass |
 
 ## Next-cycle priorities
 
