@@ -1,0 +1,91 @@
+name: "scar-v468"
+version: 468
+title: "Scar468"
+instrumental: false
+vocal_gender: male
+
+style: |
+  Southern soul blues-rock with warm grit and raw humanity, total duration around 3:00, polished studio mix with deep low-end definition and wide stereo stage. Slow-burn driving shuffle at 82 BPM in G major — dry snare backbeat, walking electric bass, an unhurried groove that breathes with the band. A weathered baritone male voice: chest register, slightly ragged at the top of phrases, disarmingly vulnerable and lived-in, no autotune. The lead melodic voice is a resonator slide guitar — metallic shimmer and acoustic warmth — answering the vocal in call-and-response. Hammond organ swells behind the chorus with round, churning fills. The harmonica is withheld entirely until the final chorus: its first breath is the emotional peak, arriving after a stripped bare duet of voice and resonator only. Warm tape saturation and lush acoustic ambience throughout. No synth pads, no EDM synths, no trap drums, no electric distortion, no autotune.
+
+lyrics: |
+  [Intro: resonator slide guitar states the G-major theme, call with no answer yet, 8 bars]
+
+  [Verse 1: baritone vocal enters — low, matter-of-fact, 16 bars]
+  I came home with something missing
+  Found the gap where the warmth used to live
+  Tried to fill it with forward motion
+  Couldn't take what I wouldn't give
+
+  [Chorus: full band — vocal contour rises stepwise, resonator fills the gap, 16 bars]
+  Scar tissue holding the tenderness
+  Holding the tenderness in
+  Every old wound becomes a witness
+  Letting the light back in
+
+  [Verse 2: baritone digs deeper — organ swells low behind, 16 bars]
+  You don't ask about the quiet mornings
+  The way I hold my coffee cup
+  You just sit across the table knowing
+  Some things break before they open up
+
+  [Chorus: Hammond organ rises fuller, resonator slide answers hard, 16 bars]
+  Scar tissue holding the tenderness
+  Holding the tenderness in
+  Every old wound becomes a witness
+  Letting the light back in
+
+  [Resonator and Organ Break: lyric-free instrumental — slide guitar leads in call-and-response with Hammond organ, dry snare keeping the shuffle, bass walking, 32 bars]
+
+  [Strip Down: voice and resonator slide only — bare, exposed, no drums no organ, 12 bars]
+  What the years do they don't ask permission
+  What the body keeps the mouth won't say
+  But I'm standing in the same light different
+  Closer to the place I meant to stay
+
+  [Final Chorus: full band returns and harmonica enters for the first time — its first note is the peak, 20 bars]
+  Scar tissue holding the tenderness
+  Holding the tenderness in
+  Every old wound becomes a witness
+  Letting the light — letting it in
+
+  [Outro: harmonica leads, resonator answers, organ fades beneath, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock drums, metal, lo-fi, EDM, house music, techno, trap, hip hop, rap, drill, synth-pop, synth pads, drum machine, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, pop gloss, autotune, modern pop, indie pop, country pop, cinematic ambient, pipe organ, acoustic guitar strum"
+
+notes: |
+  v468 TOURNAMENT WINNER (inline-judged 81/100, tied with sibling Twelve468 at 81; won on a more distinctive/ownable hook and the fresher withheld-harmonica-reveal climax). Southern soul blues-rock is a CATALOG DEBUT — a deliberate high-variance organic pivot after the electronic/groove-heavy, female-skewed run (v463-v467): warm gritty live-band, weathered baritone male, G major, slow-burn 82 BPM shuffle.
+
+  The central conceit is architectural, not just lyrical — the HARMONICA REVEAL. The harmonica is withheld for the entire song and enters only in the final chorus, its first breath the emotional climax, arriving after a hard STRIP to just baritone + resonator slide. A strip-plus-instrument-reveal arc, explicitly distinct from (and avoiding) the half-step key-lift template. No modulation anywhere.
+
+  Trio: RESONATOR SLIDE GUITAR (catalog debut, zero prior uses) is the lead melodic voice, answering the baritone in call-and-response and filling the half-bar gap after the hook's "tenderness" with a soft major-sixth shimmer. HAMMOND ORGAN provides warm swelling fills / harmonic body. HARMONICA (catalog debut) is the withheld reveal. (exclude_styles tightened from the draft — removed bare "electronic"/"synthesizer" which could dampen the electromechanical Hammond; specific synth-pop / synth pads / EDM synths blocks retained.)
+
+  Hook: "Scar tissue holding the tenderness" (hook-writer 22/25) — baritone enters on the repeated G root (grounded), climbs stepwise on "holding the tenderness" with a ragged crack-and-release on "TEN" at the top of comfortable range; resonator answers on the major sixth.
+
+  Duration: 82 BPM shuffle sits in the slow-BPM band (target 3:00-3:30). Levers: a 32-bar lyric-free [Resonator and Organ Break] mid-song (~47s), the [Strip Down] section before the reveal, and the final lyric line pushed late (~2:40).
+
+  Novelty: southern-soul-blues-rock genre debut; resonator slide guitar debut; harmonica debut; withheld-instrument-reveal climax is a new arc type for the catalog.
+
+  Style char count: 943.
+
+tags:
+  - resonator-slide-guitar
+  - hammond-organ
+  - harmonica
+  - 82bpm
+  - g-major
+  - southern-soul-blues-rock
+  - slow-burn-shuffle-scene
+  - resonator-slide-guitar-debut
+  - harmonica-debut
+  - hammond-organ-revival
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - baritone-male-vocal
+  - harmonica-reveal-climax
+  - strip-down-arc
+  - catalog-debut-southern-soul
+  - high-variance-contrast
