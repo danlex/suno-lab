@@ -1,9 +1,9 @@
 ---
-name: suno-resume
-description: Fast-resume the Suno song-generation project after a restart — reload project status (latest/next version, recommended action, novelty surface) and recent cycle history in ONE shot, no manual digging. Run this first thing in a fresh session.
+name: suno-loop
+description: Fast-resume the Suno song-generation project after a restart AND start the self-paced autonomous loop — reload project status (latest/next version, recommended action, novelty surface) + recent cycle history in ONE shot, then kick off continuous generation. Run this first thing in a fresh session.
 ---
 
-# Suno — Resume Project
+# Suno — Resume Project & Start Loop
 
 One-shot reload of the autonomous Suno song-generation project state so a fresh session can pick up exactly where the last one left off. Do NOT hand-type the steps — invoke the reusable scripts.
 
