@@ -34,7 +34,16 @@ Present a concise status block to the user:
 - **Recommended action** (`draft_new` → start a fresh MoA tournament at `recommended_version`; `resume_submit` → the latest YAML is uncommitted, finish submitting it)
 - **Last 3-ish cycles**: winner genre, hook, judge score, danceability, render durations
 - **Active learnings / open probes** worth carrying into this cycle
-- Offer to run the next cycle (research → hook-first MoA tournament → judge → submit → publish → `finish_cycle.py`) or stand by.
+
+## Then start the loop (automatic)
+
+After presenting the status block, immediately start the self-paced autonomous loop — do NOT wait for further confirmation. Invoke the `loop` skill with this exact prompt (no interval → self-paced wake-ups, because a full cycle runs well over 10 minutes and a fixed short interval would stack fires):
+
+```
+Run one autonomous Suno cycle for the project at /Users/adan/work/claude/code/suno. Follow scripts/hourly_cycle_prompt.md exactly: python3 scripts/cycle_start.py to get next version + recommended_action, research → hook-first MoA tournament → judge ≥90 → submit via suno-submitter → publish both clips publicly → python3 scripts/finish_cycle.py. One new version per turn. Auto-submit is authorized; do not pause to ask.
+```
+
+The loop is session-scoped: it runs only while this session stays open and stops when the session closes. The user can interrupt with Esc or "stop the loop" at any time.
 
 ## Notes
 

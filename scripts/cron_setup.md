@@ -2,6 +2,16 @@
 
 Session-only crons die when Claude exits. After starting a fresh session in this repo, ask Claude to re-register these (it can use `CronCreate`).
 
+## 0. Preferred driver — self-paced `/loop` (session-scoped)
+
+Because every cycle must drive Chrome to submit to `suno.com/create`, the loop has to run in a live local session (cloud `/schedule` has no browser extension). The canonical start command — self-paced, no interval — is:
+
+```
+/loop Run one autonomous Suno cycle for the project at /Users/adan/work/claude/code/suno. Follow scripts/hourly_cycle_prompt.md exactly: python3 scripts/cycle_start.py to get next version + recommended_action, research → hook-first MoA tournament → judge ≥90 → submit via suno-submitter → publish both clips publicly → python3 scripts/finish_cycle.py. One new version per turn. Auto-submit is authorized; do not pause to ask.
+```
+
+**No interval on purpose** → the model self-paces the next wake-up. A full cycle (research → draft → judge → ~8 min browser submit → publish → close-out) runs well over 10 minutes, so a fixed short interval would just stack fires. Add an interval (`/loop 15m …`) only if you deliberately want a fixed cadence. `/loop` runs only while this session stays open; it stops when the session closes.
+
 ## 1. Suno cycle — every 10 minutes (at :02/:12/:22/:32/:42/:52)
 
 **Schedule:** `2,12,22,32,42,52 * * * *` (10-min cadence, offset off the :00 marks to dodge congested minute boundaries)
