@@ -1,0 +1,91 @@
+name: "owe-v464"
+version: 464
+title: "Owe464"
+instrumental: false
+vocal_gender: male
+
+style: |
+  Late-night Afropiano soul — swung 4/4 groove that breathes and pulls, total duration around 3:00. Polished studio mix built on log drum, vibraphone, and baritone saxophone over lush minor-9th electric-piano chord beds. C-sharp minor, 110 BPM. Log drum anchors the pocket: punchy downbeat on 1, ghost on the 'and' of 2, upbeat stab before 4, call-and-response with a muted off-beat shaker. Vibraphone lays warm melodic shimmer between vocal phrases. Baritone saxophone breathes chest-resonant countermelody, unhurried, behind the beat. Wide stereo stage, warm tape saturation. Warm soulful male vocal, genuinely sung, close-mic intimate with soft room bloom. Climax is a groove-and-harmony lift: texture strips to bare log drum and voice, then the full chord bed returns with stacked backing harmonies — color and density, not a key change. Afrobeats-Amapiano-R&B fusion. No guitars, no rock drums, no trap hi-hats, no pipe organ, no distorted bass.
+
+lyrics: |
+  [Intro: log drum alone, shaker entering, electric piano chords bloom, 8 bars]
+
+  [Verse 1: warm male vocal over log drum and electric piano, close and intimate, 16 bars]
+  I left your number in a coat I never wear
+  Still feel the weight of everything we didn't say
+  The room is warm but I keep reaching for cold air
+  Trying to find the note you left before you walked away
+
+  [Pre-Chorus: vibraphone enters, tension building, 8 bars]
+  I know the distance isn't measured out in miles
+  I've been counting in the silence between calls
+
+  [Chorus: full trio — log drum punching, vibraphone shimmer, baritone sax countermelody, 16 bars]
+  You still owe me a slow song
+  A minor-ninth, a hand in mine, the night drawn long
+  You still owe me that moment when the lights go low
+  Come back and pay the debt before I let you go
+
+  [Verse 2: voice and electric piano, log drum low and patient, 16 bars]
+  I played the playlist that we made on your birthday
+  Every song a different version of goodbye
+  The baritone comes in low like it has something to say
+  But the only voice I want is yours against the night sky
+
+  [Pre-Chorus: vibraphone shimmer, pull toward the drop, 8 bars]
+  I know the distance isn't measured out in miles
+  I've been counting in the silence between calls
+
+  [Log Drum and Vibraphone Groove: mid-song instrumental — log drum, vibraphone, shaker, no vocal, let the pocket breathe, 40 bars]
+
+  [Chorus: full ensemble returns with baritone sax countermelody, 16 bars]
+  You still owe me a slow song
+  A minor-ninth, a hand in mine, the night drawn long
+  You still owe me that moment when the lights go low
+  Come back and pay the debt before I let you go
+
+  [Groove-and-Harmony Lift: log drum alone with voice, then full chord bed floods back with stacked backing harmonies — no key change, just density and warmth, 24 bars]
+  You still owe me a slow song (owe me, owe me)
+  Bring it home, bring it all the way home
+  You still owe me that moment (owe me)
+  Come back, I'm not done, I won't leave you alone
+
+  [Outro: electric piano chord fades, log drum ghosting, shaker last, vocal hum to silence, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, EDM, drum and bass, trap, gqom, gospel, West African folk, electronic dance, free jazz, atonal, microtonal, quarter-tone, new age, zen meditation, experimental noise, cinematic ambient, acoustic guitar, country"
+
+notes: |
+  v464 TOURNAMENT WINNER (inline-judged 81/100, tied with sibling Hands464 at 81; won on the stronger title-hook, D1). A HIGH-VARIANCE mid-tempo cycle: v462 was fast speed garage (134, male, edgy), v463 was slow dream-pop (74, female, reflective), this is mid-tempo 110 BPM warm Afropiano soul with a genuinely sung male vocal.
+
+  Afropiano is the emergent fusion of Amapiano (the South African log-drum-driven house genre built on the deep syncopated bass log drum) with Afrobeats rhythmic sensibility and contemporary R&B harmonic warmth. The concept foregrounds the LOG DRUM as the signature novel voice (never foregrounded in the catalog before), combined with vibraphone (melodic shimmer) and baritone saxophone (near-debut as a groove voice — chest-resonant low-mid countermelody), over electric-piano minor-9th chord beds.
+
+  The groove-and-harmony lift architecture deliberately avoids the half-step key modulation cliche. The climax is a textural/harmonic event: strip to bare log drum + voice, then flood the full chord bed with stacked backing harmonies. The impact comes from density and warmth returning, not from pitch displacement.
+
+  Duration strategy: parametrized colon-lyrics with bar counts; an explicit 40-bar mid-song instrumental groove ([Log Drum and Vibraphone Groove]) is the primary duration lever; the final lyric line lands around 2:40. Three body-voice trio (log drum, vibraphone, baritone saxophone) — strongest duration signal.
+
+  Novelty: log drum foregrounded debut; baritone saxophone near-debut as a groove voice; vibraphone in a new Afropiano context; 110 BPM mid-tempo groove; the trio combination has no prior instance.
+
+  Style char count: 948.
+
+tags:
+  - log-drum
+  - vibraphone
+  - baritone-saxophone
+  - 110bpm
+  - c-sharp-minor
+  - late-night-warm-hypnotic-scene
+  - log-drum-debut
+  - baritone-sax-groove-revival
+  - vibraphone-revival
+  - new-technique
+  - afropiano
+  - amapiano
+  - afrobeats
+  - r-and-b
+  - groove-and-harmony-lift
+  - duration-3min
+  - research-driven
+  - vocal-male
+  - high-variance-cycle
