@@ -1,0 +1,119 @@
+name: "polaroid-v463"
+version: 463
+title: "Polaroid463"
+instrumental: false
+vocal_gender: female
+
+style: >
+  Dreamy, melancholic-euphoric dream pop drifting through reverb-drenched stillness at 74 BPM,
+  total duration around 3:00, warm tape saturation. A memory that won't resolve, floating in
+  F-sharp minor. Ethereal female voice — genuinely sung, long held notes, intimate and unhurried.
+  Mellotron carries the harmonic bed in tape-choir and flute voices, warmth slightly warped by age.
+  Lap steel guitar takes the melodic lead with infinite sustain and slow vibrato glides. Bass flute
+  breathes low counter-melodies, close-miked. Arch form: sparse mellotron flute opens alone,
+  textures accumulate toward a central textural bloom where the full mellotron choir, lap steel and
+  bass flute swell into a lush reverb wash — the climax is a textural swell, not a key change —
+  then everything recedes to near-silence. Polished studio mix, wide stereo stage, lush acoustic
+  ambience. Brushed percussion only, or none. No guitars, no drum kit, no horns, no club pulse.
+
+lyrics: |
+  [Sparse Opening: mellotron flute voice alone, 8 bars]
+  half-awake in Polaroid light
+  where colors don't quite dry
+
+  [Verse 1: bass flute enters beneath the mellotron, lap steel traces quietly, 12 bars]
+  the room still holds the shape of you
+  a smear of gold, a crooked hue
+  I keep the frame the way it fell
+  some things too soft to tell
+
+  [Chorus: voice rises, lap steel glides, mellotron choir swells gently, 12 bars]
+  half-awake in Polaroid light
+  three seconds from the sun
+  the edge of almost-right
+
+  [Second Verse: intimate, bass flute answers each phrase, 12 bars]
+  the clock forgets to move past noon
+  the window keeps the same pale moon
+  I trace the frost to find your face
+  the cold just takes your place
+
+  [Chorus: voice fuller, mellotron thickens, 12 bars]
+  half-awake in Polaroid light
+  three seconds from the sun
+  the edge of almost-right
+
+  [Lap Steel and Mellotron Drift: lyric-free instrumental, lap steel glides across the full register, mellotron choir swells beneath, bass flute hums, reverb wash fills the stereo field, 40 bars]
+
+  [Textural Bloom: full trio at peak density — mellotron choir, lap steel sustaining high, bass flute low, voice rejoins floating above, 16 bars]
+  half-awake in Polaroid light
+  somewhere between the held and gone
+  the light fades slow, the colors run
+  I let it go
+
+  [Recession: textures thin one by one, lap steel fades to silence, mellotron flute alone again, 10 bars]
+  half-awake
+  (fading)
+
+  [Coda: single mellotron flute note sustained into silence, 6 bars]
+
+  [End]
+
+exclude_styles: >
+  Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, EDM, electronic,
+  club, dance, drum and bass, trap, hip hop, R&B, jazz, blues, country, pop punk, Latin,
+  new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone,
+  cinematic ambient, elegiac, intimate chamber, choir, orchestra, strings ensemble, flute ensemble,
+  drum machine, programmed beats, bass drop
+
+notes: >
+  v463 TOURNAMENT WINNER (inline-judged 81/100; beat sibling Tuesday463 at 79). A deliberate
+  HIGH-VARIANCE swing from v462 (fast/134/edgy/male speed garage) into a slow dreamy lane the user
+  loves: 74 BPM, female, intimate, no percussion anchor, no key-tension release.
+
+  POLAROID explores arch form (ABCBA) in dream pop — the piece opens sparse, accumulates texture
+  to a central bloom, then recedes symmetrically, with no modulation or key change. The climax is
+  purely textural: a reverb-drenched swell of the full trio rather than a harmonic lift or
+  half-step shift (deliberately avoiding the overused build-strip-half-step-lift template).
+
+  Concept source: a memory that won't resolve — the psychic state of a Polaroid photograph still
+  developing, caught between exposure and fading. The hook ("half-awake in Polaroid light") is
+  built around a near-spoken D-D on "half-awake," a step down to C, then a minor-third lift to a
+  held Eb on "light" — grounded then opened, never resolved. (A stray contour annotation that had
+  leaked into the lyric body was removed before submit.)
+
+  Duration strategy: a 40-bar lyric-free instrumental drift ([Lap Steel and Mellotron Drift]) is
+  the primary duration lever; the final lyric line lands around 2:40. Reflective concept at 74 BPM
+  is calibrated for ~2:50-3:10 per the BPM-duration research.
+
+  Instrument roles: MELLOTRON (tape choir + flute voices) is the warm slightly-warped harmonic bed,
+  present throughout, thinning at start and end (deep-revival timbre). LAP STEEL GUITAR is a CATALOG
+  DEBUT (zero prior uses across 462 versions) — melodic lead with infinite sustain and wide vibrato
+  glides, providing the emotional lift without percussion or modulation. BASS FLUTE is a breathy,
+  low, close-miked counter-melody answering the vocal.
+
+  Novelty: lap steel guitar catalog debut; arch/textural-bloom architecture unused in the catalog;
+  74 BPM in the slow-drift band; mellotron + lap steel + bass flute has no prior instance.
+
+  Final style char count: 947.
+
+tags:
+  - mellotron
+  - lap-steel-guitar
+  - bass-flute
+  - 74bpm
+  - f-sharp-minor
+  - dream-pop-scene
+  - new-technique
+  - new-bpm
+  - lap-steel-debut
+  - mellotron-revival
+  - bass-flute-revival
+  - arch-form
+  - textural-bloom
+  - high-variance-contrast
+  - duration-3min
+  - research-driven
+  - vocal
+  - female-vocal
+  - reflective-concept
