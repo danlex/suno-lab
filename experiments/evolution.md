@@ -483,6 +483,7 @@ mindmap
 | 466 | Tremor466 | double-drop filter/density climax (no modulation), rhythm-primary form-break | E-flat minor | 130 | tamborzão kick grid + wobbling sub-bass + chopped female vocalise (crotales accents) |
 | 467 | Window467 | filter-as-form progressive brightening to full-open (no modulation) | A major | 124 | filtered disco guitar + sidechain-pumped bass + flugelhorn |
 | 468 | Scar468 | harmonica-reveal climax after strip-down (no modulation) | G major | 82 | resonator slide guitar + Hammond organ + harmonica |
+| 469 | Rhinestone469 | kick-only-vamp tease into full-stack distortion drop (no modulation) | G-sharp minor | 142 | distorted kick + buzzing analog bass + detuned sawtooth stab (prepared-piano stabs) |
 
 ## Next-cycle priorities
 

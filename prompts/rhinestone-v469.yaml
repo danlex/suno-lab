@@ -1,0 +1,120 @@
+name: "rhinestone-v469"
+version: 469
+title: "Rhinestone469"
+instrumental: false
+vocal_gender: female
+
+style: |
+  Hard techno meets electroclash on a cold industrial floor — peak-time brutalism dressed in campy confidence, total duration around 3:00. G-sharp minor, 142 BPM, polished studio mix with deep low-end definition and wide stereo stage. The distorted four-on-the-floor kick cuts like a blade: every beat a snap-transient, physical and relentless. A buzzing analog bassline locks beneath it, thick and slightly detuned. Detuned sawtooth synth stabs fire on the off-beat — trashy glinting neon snarls against the kick's thud. Prepared piano delivers metallic hammered-string stabs: the track's signature industrial color. The female vocal is sung — coolly melodic, self-possessed, almost sneering — with a deadpan spoken tail after the hook. The climax strips to kick alone for two bars then slams the full stack back with a distortion surge — a density event, not a key change. No reverb wash, no lush synth pads, no guitars, no choir, no acoustic.
+
+lyrics: |
+  [Kick and Bass Intro: distorted four-on-the-floor kick enters alone, buzzing analog bassline joins bar 5, sawtooth stabs trickle in bar 7, no vocal, 8 bars]
+
+  [Verse 1: full stack — sung female vocal enters, coolly melodic and self-possessed, 16 bars]
+  Cold tile under neon lights
+  I know exactly what I cost
+  Everybody's counting rubble
+  I was never what you lost
+  Every room I walk into
+  something glints that wasn't there
+  Call it cheap, call it obvious —
+  darling, I don't care
+
+  [Pre-Chorus: sawtooth stabs double in density, analog bass swells, vocal rises toward the hook, 8 bars]
+  You built a wreckage just to prove
+  that wreckage can be permanent
+  Go ahead, I'll wait
+
+  [Chorus Hook 1: kick and full stack lock in, sung hook with pitch contour F#→G# on 'Rhinestone', stepwise fall E on 'in a', minor-third rise B→C# on 'wreck-age', sawtooth stab fires in silence gap, then deadpan spoken tail locked to kick, 16 bars]
+  Rhinestone in a wreckage
+  [spoken] that's the plan
+  Rhinestone in a wreckage
+  [spoken] that's the plan
+  Rhinestone in a wreckage
+  [spoken] that's the plan
+  Still here — still shine — still standing
+  [spoken] that's the plan
+
+  [Verse 2: vocal sneer deepens, prepared piano stabs punctuate between lines, 16 bars]
+  You said the lights were too much
+  I said the dark is the problem
+  You catalogued my every flaw
+  I framed them and I sold them
+  This is not an accident
+  this is a point of view
+  Every crack's a price tag —
+  let me quote it back to you
+
+  [Stab Breakdown: lyric-free — prepared piano metallic stabs lead, sawtooth stabs answer, kick present but dry, no bass, the mix goes skeletal and angular, 16 bars]
+
+  [Kick Vamp Tease: full stack stripped to kick alone — just the distorted four-on-the-floor, nothing else, breath of industrial cold, 8 bars]
+
+  [Hard Drop Return: full stack slams back with distortion surge — kick, analog bass, sawtooth stabs, prepared piano all hit simultaneously, density and distortion event, no key change, 24 bars]
+  Rhinestone in a wreckage
+  [spoken] still the plan
+  Rhinestone in a wreckage
+  [spoken] still the plan
+  Rhinestone in a wreckage
+  [spoken] still the plan
+  Cold, bright, impossible —
+  [spoken] still the plan
+
+  [Final Hook: vocal pushed late, hook mutates to final deadpan tail, stack holds full intensity, 16 bars]
+  Rhinestone in a wreckage
+  [spoken] always was the plan
+  Rhinestone in a wreckage
+  [spoken] always was the plan
+  Don't mistake the glint for warmth
+  I know what I am
+  Rhinestone in a wreckage —
+  [spoken] always was the plan
+
+  [Outro: kick and sawtooth stabs alone, prepared piano delivers single final metallic stab, kick fades, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, Middle Eastern, trance, ambient, orchestral, acoustic, blues, soul, trap, hip hop, rap, drill, lo-fi, rock, metal, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, vocal ballad, chanson, folk, country, elegiac, intimate chamber, club house, progressive house, lush synth pads, reverb wash, choir"
+
+notes: |
+  v469 candidate RHINESTONE — hard techno x electroclash, a deliberate high-variance uptempo contrast after an organic/mid-tempo run (v464-v468: vibraphone soul at 110, new-jack swing at 98, bass house at 130, window house at 124, southern soul blues-rock at 82). The last genuinely cold-industrial track in the catalog was several dozen cycles ago.
+
+  GENRE FUSION: hard techno x electroclash is a catalog debut combination — hard techno provides the distorted four-on-the-floor brutalism; electroclash provides the campy-deadpan female persona, trashy sawtooth stab aesthetic, and spoken-tail delivery. Neither genre alone appears in recent catalog in this fusion form.
+
+  PREPARED PIANO AS INDUSTRIAL STAB: prepared piano last appeared at v365 (gap ~104 cycles). Here it operates in pure industrial mode — metallic hammered-string attack used as rhythmic percussive color, not as a melodic/harmonic instrument. This is a new deployment mode for prepared piano in the catalog (previously used in atmospheric/harmonic roles).
+
+  HOOK ARCHITECTURE: "Rhinestone in a wreckage" is built with a specific pitch contour — rising grace-note scoop F#→G# on 'Rhinestone', stepwise fall to E on 'in a', minor-third rise B→C# on 'wreck-age', then a sawtooth stab fires in the silence gap before the deadpan spoken tail "that's the plan" locked to the kick on three flat notes. Voice and kick alternate so they never collide — a conversation between the sung hook and the distorted beat. The tail mutates across choruses: "that's the plan" → "still the plan" → "always was the plan."
+
+  CLIMAX ARC — KICK VAMP TEASE + DENSITY DROP: mid-song the track strips to kick alone (8 bars of nothing but distorted four-on-the-floor), then the full stack slams back simultaneously — kick, analog bass, sawtooth stabs, prepared piano — with a distortion/intensity surge. This is a DENSITY/DISTORTION event, not a key modulation. G-sharp minor throughout, single tonal center, zero half-step lift.
+
+  DURATION LEVER: 142 BPM sits in the proven duration band (130-160). The lyric-free [Stab Breakdown] (~16 bars, ~7s) + [Kick Vamp Tease] (~8 bars, ~3s) + [Hard Drop Return] mid-song (24 bars) provide structural length. Final hook pushed to ~2:45 to pull the render toward 3:00.
+
+  VOCAL: campy-confident, melodically sung, self-possessed and slightly sneering — explicitly NOT rapped or near-spoken. The deadpan spoken tail is a distinct layer (three flat notes on the kick) that contrasts with the sung main hook rather than replacing it.
+
+  Instruments with gaps: DISTORTED FOUR-ON-THE-FLOOR KICK + BUZZING ANALOG BASSLINE (electronic genre anchors, continuous), DETUNED SAWTOOTH SYNTH STABS (off-beat trashy electroclash color), PREPARED PIANO (last used v365, gap 104 cycles — metallic hammered industrial stabs, a new deployment mode).
+
+  Novelty: hard-techno x electroclash fusion is a catalog debut; kick-vamp-tease + density-drop climax arc is new (distinct from modulation or instrument-reveal arcs); prepared piano in industrial-stab mode is a fresh deployment; 142 BPM high-energy uptempo injection after slow/mid run.
+
+  Style char count: 943.
+
+tags:
+  - prepared-piano
+  - distorted-kick
+  - analog-bassline
+  - sawtooth-synth-stabs
+  - 142bpm
+  - g-sharp-minor
+  - hard-techno
+  - electroclash
+  - peak-time-club-scene
+  - campy-confident-female
+  - female-vocal
+  - kick-vamp-tease
+  - density-drop-climax
+  - no-modulation
+  - prepared-piano-104-gap
+  - new-technique
+  - duration-3min
+  - research-driven
+  - high-variance-contrast
+  - catalog-debut-hard-techno-electroclash
+  - industrial-color
