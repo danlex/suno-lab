@@ -1,0 +1,116 @@
+name: "savannah-v477"
+version: 477
+title: "Savannah477"
+instrumental: false
+vocal_gender: male
+style: "Pure carnival euphoria blazing at 155 BPM in B-flat major — power soca built to fill a savannah and make the whole field move as one. Polished studio mix with wide stereo stage, deep low-end definition under a four-on-the-floor kick that never lets up. Bright trumpets and trombones land brass stabs on the anti-grid soca stress, locking with a driving bass that sits fat under the groove. Steelpan carries the hook melody with ringing Caribbean brightness, rising pan riffs on the two and the four. Charismatic male lead vocal, open-vowel chanting style, built for a crowd to scream the answer back. Call-and-response density holds the full arc through chorus, half-time breakdown, and crowd-crash finale. Total duration around 3:00. This is the Queen's Park Savannah at dusk, flags raised high, brass punching the sky, the whole field answering in one voice. No guitars, no pipe organ, no trap hi-hats, no reggae skank, no dancehall drop."
+
+lyrics: |
+  [Steelpan Intro: steelpan states the hook melody naked over kick and bass, 8 bars]
+
+  [Verse 1: male chant over stripped kick, bass, and brass stabs, 16 bars]
+  Flag up high, the road is calling
+  Every year we come back falling
+  Into something bigger than our name
+  Born to run this road again
+
+  You know the way, you feel the pull
+  Carnival fire burning full
+  Whole city moving as one
+  From the first drum to the last gun
+
+  [Chorus: full brass plus steelpan call-and-response, crowd roar, 16 bars]
+  Cross the Savannah!
+  (Cross it!)
+  Cross the Savannah!
+  (Cross it!)
+  Every heart is open, every voice is lifted
+  Brass in the sky and we are never shifting
+  Cross the Savannah!
+  (Cross it!)
+
+  [Verse 2: vocal groove over bass and percussion, brass hits on two, 16 bars]
+  Road march memory deep in the bone
+  Carry the rhythm when you're far from home
+  This feeling can't be bought or sold
+  Pan and brass and the story told
+
+  We come from every corner, every street
+  When the steelpan calls you move your feet
+  Raise the flag, let the horn blow true
+  The Savannah always calls us through
+
+  [Chorus: full ensemble call-and-response, crowd peaking, 16 bars]
+  Cross the Savannah!
+  (Cross it!)
+  Cross the Savannah!
+  (Cross it!)
+  Every heart is open, every voice is lifted
+  Brass in the sky and we are never shifting
+  Cross the Savannah!
+  (Cross it!)
+
+  [Half-Time Breakdown: groove drops to half-time, solo brass and steelpan call holds tension over pulse, 16 bars]
+  One voice in the open air
+  Waiting for the field to flare
+  Hold the pulse, the road ain't done
+  Here it comes — here it comes —
+
+  [Steelpan and Brass Break: lyric-free vamp, full pan and brass over four-on-the-floor, 16 bars]
+
+  [Full-Tempo Crowd-Crash Chorus: 155 BPM returns, full brass, full steelpan, crowd roar peak, 24 bars]
+  Cross the Savannah!
+  (Cross it!)
+  Cross the Savannah!
+  (Cross it!)
+  Every heart is open, every voice is lifted
+  Brass in the sky and we are never shifting
+  Cross the Savannah!
+  (Cross it!)
+  This road is ours, we never stop!
+  (Cross it!)
+  Horns to the sky until we drop!
+  (Cross it!)
+
+  [Outro: steelpan fades over kick and bass pulse, crowd chant trailing off, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic dance music, EDM, trap, hip hop, rap, reggae, dancehall, calypso-lite, afrobeats, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber, non-English language"
+
+notes: |
+  v477 TOURNAMENT WINNER (inline-judged 83/100; beat sibling Bacchanal477 at 79 on cleaner execution + dynamic contrast). Power soca is a fresh catalog lane — high-variance UPTEMPO carnival contrast after a mid-tempo/atmospheric run (v472-v476). 155 BPM four-on-the-floor, B-flat major, male lead + crowd call-and-response.
+
+  Lyrics cleaned before submit: converted "Lead:/Crowd:" prefixes to lead-line + parenthetical crowd answer "(Cross it!)" (idiomatic Suno call-response, avoids the prefixes being sung), removed parenthetical stage-direction lines from instrumental sections, and softened the one meta line ("brass stab on the one" -> "Brass in the sky"). English only — the strongest hook option ("jamette", 22/25) was set aside as a Creole word violating the English/French-only rule; "Cross the Savannah" (21/25) is fully English and carnival-specific.
+
+  Power soca: high-energy calypso derivative fusing four-on-the-floor kick with brass stabs, steelpan, and driving bass for road-march/large-field performance; the anti-grid stress (beat two) is its rhythmic fingerprint. STEELPAN is the fresh signature color (gap ~121) AND the genre signature — states the hook naked in the intro, trades with brass in the break, rings out in the outro.
+
+  Climax (non-modulation, no silence-gate): half-time BREAKDOWN (solo brass/steelpan call over a held pulse) then the full-tempo four-on-the-floor CROWD-CRASH finale — tempo/density return IS the climax, not a key change. Duration lever: the breakdown + lyric-free [Steelpan and Brass Break]; call-response density holds the arc; final lyric block late (~2:40).
+
+  Novelty: power soca lane debut; steelpan as primary signature; half-time-breakdown-to-crowd-crash (tempo-as-climax) architecture; 155 BPM in the proven band; Caribbean carnival / Queen's Park Savannah scene.
+
+  Style char count: 940.
+
+tags:
+  - power-soca
+  - soca
+  - steelpan
+  - brass-stabs
+  - trumpets
+  - trombones
+  - four-on-the-floor
+  - 155bpm
+  - b-flat-major
+  - carnival-scene
+  - call-and-response
+  - male-vocal
+  - crowd-response
+  - half-time-breakdown
+  - crowd-crash-climax
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - high-variance
+  - caribbean
+  - road-march

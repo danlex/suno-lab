@@ -491,6 +491,7 @@ mindmap
 | 474 | Livewire474 | pre-chorus strip into chorus; final-chorus BV/brass density lift (no modulation) | D-sharp minor | 120 | slap bass + clavinet + talkbox |
 | 475 | Automatic475 | pre-chorus strip; final-chorus arpeggio/ondes density lift (no modulation) | B minor | 122 | sawtooth synth bass + retro drum machine + ondes martenot |
 | 476 | Halflight476 | feedback density-flood climax after filtered dip (no modulation, no silence-gate) | F-sharp major | 120 | layered feedback electric guitars + driving bass + motorik drums (glockenspiel accent) |
+| 477 | Savannah477 | half-time-breakdown to full-tempo crowd-crash (tempo/density climax, no key change) | B-flat major | 155 | brass stabs (trumpets+trombones) + steelpan + four-on-the-floor kick/bass |
 
 ## Next-cycle priorities
 
