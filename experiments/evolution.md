@@ -486,6 +486,7 @@ mindmap
 | 469 | Rhinestone469 | kick-only-vamp tease into full-stack distortion drop (no modulation) | G-sharp minor | 142 | distorted kick + buzzing analog bass + detuned sawtooth stab (prepared-piano stabs) |
 | 470 | Lantern470 | full orchestral/choir density-swell climax (no modulation) | D major | 109 | nyckelharpa + oboe d'amore + french horn |
 | 471 | Wont471 | Jersey-pause kick-vamp into full chop-drop (no modulation); clip1 short 1:47, clip2 3:06 — minimal-chop jersey lanes can render short | E minor | 138 | triplet kick + staccato 808 bass + pitched vocal chop (marimba chop-stabs) |
+| 472 | Familiar472 | breakdown into second-drop density/pad-register lift (no modulation) | C-sharp major | 176 | rolling liquid bass + warm piano + chalumeau |
 
 ## Next-cycle priorities
 

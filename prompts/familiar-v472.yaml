@@ -1,0 +1,118 @@
+name: "familiar-v472-candX"
+version: 472
+style: |
+  Bittersweet-euphoric liquid drum and bass, total duration around 3:00, soaring emotive female vocal riding a rolling break at 176 BPM with a half-time harmonic feel — fast and floaty, deeply danceable. Polished studio mix in C-sharp major. Warm Reese sine sub-roll bass locks onto a half-time downbeat, lush reverb-drenched pads bloom wide on the stereo stage, a warm piano lays chord swells across the groove, and a chalumeau reed weaves a low jazzy countermelody beneath the vocal. Deep low-end definition from the rolling break, wide stereo stage on the pad layer. The vocal is full and ringing, not chopped — long sustained notes held over bass drops, syncopated pickups into rising stepwise lines. Longing at speed, uplift with an ache. No pipe organ, no distorted guitars, no neurofunk growl bass, no trap hi-hats, no rock drums.
+title: "Familiar472"
+lyrics: |
+  [Pads and Bass Intro: lush reverb pad bloom, Reese sub-roll enters, no drums yet, 8 bars]
+
+  [Rolling Break Drops: liquid break kicks in under the groove, chalumeau enters low, 4 bars]
+
+  [Verse 1: warm piano and rolling break, chalumeau countermelody, 12 bars]
+  City lights blur at speed
+  Every exit looks the same
+  I am reaching through the dark
+  Searching for a name
+
+  I count the overpasses
+  White lines pulled like thread
+  Somewhere in the motion
+  Is everything we said
+
+  [Build to Chorus: pads swell, bass rolls deeper, vocal rises, 4 bars]
+
+  [Chorus: full ensemble, vocal soaring, half-time downbeat drop, 16 bars]
+  Drive me past the last familiar street
+  Hold the wheel while I
+  Let the distance make it sweet
+
+  I don't know the road ahead
+  But I know the ache is real
+  Drive me past the last familiar street
+  Let me feel, let me feel
+
+  [Verse 2: break continues, piano pulls back slightly, chalumeau forward, 12 bars]
+  Radio half-static now
+  Your voice between the songs
+  I have been going somewhere
+  Feeling like I belong
+
+  The skyline drops behind us
+  A silhouette erased
+  Only speed and open dark
+  And everything I chased
+
+  [Build to Second Chorus: pads rise, rolling bass intensifies, 4 bars]
+
+  [Second Chorus: full ensemble, vocal full and ringing, 16 bars]
+  Drive me past the last familiar street
+  Hold the wheel while I
+  Let the distance make it sweet
+
+  I don't know the road ahead
+  But I know the ache is real
+  Drive me past the last familiar street
+  Let me feel, let me feel
+
+  [Piano and Vocal Breakdown: full ensemble stops, just piano chords and bare vocal, intimate, 16 bars]
+  I was never meant to stay
+  In the place that made me
+  But I carry every lane
+  Of every road that saved me
+
+  [Second Drop: rolling break returns, higher pad register, layered stacked vocal on hook, density and register lift as climax, 24 bars]
+  Drive me past the last familiar street
+  Hold the wheel while I
+  Let the distance make it sweet
+
+  I don't know the road ahead
+  But I know the ache is real
+  Drive me past the last familiar street
+
+  [Outro: pads fade, Reese sub-roll and chalumeau remain, 8 bars]
+  Let me feel
+  Drive me past
+  Let me feel
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "neurofunk, jungle, jump-up dnb, hard dnb, trap, hip hop, rap, Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic noise, EDM drops, synthesizer leads, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, cinematic ambient, elegiac"
+notes: |
+  Liquid drum and bass is a subgenre of DnB that favours smooth, warm basslines, organic textures, and melodically rich vocal hooks over the dark or aggressive timbre of neurofunk or jump-up. It emerged in the late 1990s UK underground and has seen continuous revival in the 2020s dance music scene, prized for its ability to combine fast breakbeat energy (~170–180 BPM) with an almost soul-music emotional warmth.
+
+  Concept source: 176 BPM liquid DnB with a half-time harmonic feel, bittersweet-euphoric tone (longing at speed, uplift with an ache), C-sharp major, hook "Drive me past the last familiar street" — a sonic lane fresh to this catalog.
+
+  This cycle echoes the emotive liquid-DnB producers of the late 1990s and early 2000s — deep artists whose names remain unmentioned per catalog discipline — whose innovations in warm Reese bass construction and melodic female-vocal integration define the sound we are targeting.
+
+  Duration strategy: the mid-song piano+vocal breakdown (16 bars, ~30–35 seconds at half-time feel) followed by a second drop with higher pad register and stacked vocal layers serves as the primary duration lever, targeting ~3:00 wall-clock. Rolling break sections carry the density at 176 BPM. Production tokens used: polished studio mix, reverb-drenched pads, wide stereo stage, deep low-end definition. Sentence case throughout the style. Atmospheric-first opening leads with the emotional register before production tokens. Five inline negatives at style close.
+
+  Instruments and their roles:
+  - Rolling liquid bass (warm Reese/sine sub-roll): gap ~0 from standard DnB — this is the genre anchor. Warm, not growling; locks the half-time downbeat on every chorus drop.
+  - Warm piano (chord swells): gap ~110 in recent catalog. Provides harmonic mid-register warmth and breakdown intimacy; the piano+vocal section is the emotional low-point before the second drop climax.
+  - Chalumeau (jazzy dark-reed countermelody): gap ~110 in recent catalog. The novel timbral color of this cycle. The chalumeau is the lowest register of the clarinet family — warm, breathy, and dark — here playing a jazzy syncopated counter-line beneath the vocal, an unusual pairing with electronic DnB that gives the track a distinctive organic depth.
+
+  Novelty claims: liquid DnB is a fresh lane for this catalog (no prior DnB cycle confirmed). Chalumeau as a DnB countermelody voice is a first. C-sharp major at 176 BPM not previously used. Second-drop density/register climax (no key modulation) is the architecture variant for this cycle — the higher pad register and stacked vocal double as the emotional peak without a half-step lift. High-variance departure from the recent run of slower or mid-tempo cycles.
+
+  Final style char count: 829 characters.
+tags:
+  - liquid-dnb
+  - drum-and-bass
+  - chalumeau
+  - piano
+  - rolling-bass
+  - reese-bass
+  - 176bpm
+  - c-sharp-major
+  - bittersweet-euphoric
+  - female-vocal
+  - danceable
+  - fast-tempo
+  - breakdown-second-drop
+  - duration-3min
+  - research-driven
+  - new-technique
+  - new-bpm
+  - revival-chalumeau-110-gap
+  - revival-piano-110-gap
+  - high-variance-cycle
