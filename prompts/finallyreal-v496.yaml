@@ -1,0 +1,111 @@
+name: "finallyreal-v496"
+version: 496
+title: "Finallyreal496"
+instrumental: false
+vocal_gender: female
+
+style: "Classic soulful house, 131 BPM, C-sharp major — warm and chrome-bright, built for a dancefloor that becomes a sanctuary. A big chest-forward soulful diva voice is the melodic hero: raw, unfiltered phrasing soaring from verse grit to a sustained G-sharp belt on the hook. Four-on-the-floor TR-909 kick with snare and 16th-note open hi-hats, rolling warm machine bassline, soulful piano stabs on the offbeats, Hammond organ swells filling the upper register. Hand-claps frame beats two and four. Punchy club mix, warm analog machine bass, wide stereo stage. Real sung verses with chord movement, urgent pre-chorus lift, then the hook arrives hard. Climax by density: filter opens wide, organ swells fuller, extra clap layer enters — no key change, raw ascending power from the diva's chest belt. Groove and organ breathe under ad-libs through the outro before a controlled close. No rock, no acoustic guitar, no trap, no live band, no festival drop."
+
+lyrics: |
+  [Intro groove: 909 kick, machine bass, piano stab lock, 4 bars]
+
+  [Verse 1: diva sings over rolling groove, real chord movement]
+  Lights half-down, crowd pressed close
+  I been hiding in the working week
+  Somebody else got my daytime name
+  But this beat finds the part I keep
+  Piano hits the two, hits the four
+  Something in my chest wants more
+
+  [Pre-chorus build: hi-hats tighten, organ rises, tension mounts]
+  Feel it coming up from the floor
+  Feel it moving through every pore
+  I don't have to hold it back no more
+
+  [Chorus: diva belt on G-sharp, claps frame beats 2 and 4]
+  Three a.m. and I am finally real
+  (finally real)
+  This is what I came here to feel
+  (came here to feel)
+  Three a.m. and I am finally real
+  No more hiding, this moment is sealed
+
+  [Verse 2: groove continues, diva more open and confident]
+  Bodies moving, light in the haze
+  This is mine — I don't owe them days
+  Everything I carried gets light
+  When the bass line holds me right
+  Hand-clap pulse on my heartbeat now
+  I remember how — I remember how
+
+  [Pre-chorus build: full repeat, organ louder, urgency peaks]
+  Feel it coming up from the floor
+  Feel it moving through every pore
+  I don't have to hold it back no more
+
+  [Chorus: full diva, sustained belt, crowd-ready]
+  Three a.m. and I am finally real
+  (finally real)
+  This is what I came here to feel
+  (came here to feel)
+  Three a.m. and I am finally real
+  No more hiding, this moment is sealed
+
+  [Piano and Organ Break: piano stabs and filtered rolling bassline over 909, Hammond organ chord swells building through 8 bars — no vocal, groove deepens]
+
+  [Final chorus: density climax — filter opens, organ full, extra clap layer, diva chest belt + ad-libs]
+  Three a.m. and I am finally real
+  (oh yeah, finally)
+  This is what I came here to feel
+  (yeah, yeah, feel it)
+  Three a.m. and I am finally real
+  (real, real, real)
+  No more hiding, this moment is sealed
+  (sealed, oh)
+
+  [Outro: groove and organ alive, diva ad-libs over rolling bassline, controlled fade to close]
+  (this is real, this is real)
+  (three a.m., finally)
+  (yeah... yeah... real)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, EDM festival drop, future bass, trap, hip-hop, live band, acoustic guitar, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, country, folk, ambient drone"
+
+notes: |
+  v496 TOURNAMENT WINNER (inline-judged ~86/100; beat sibling candidate B "build-and-strip pit dynamic form" at ~85 — very close; A won on a fuller sung arc [two full verses = better duration insurance at a dance tempo], marginally richer narrative, and a more trivial defect to fix. B had leaked stage-directions inside sung ad-lib positions ["(All layers in, organ peaking, chest belt)", "(Just the bass, just the kick, just her voice)"] — a Suno leak risk; A's only defect was the place-name "Chicago" in the style field, stripped to "soulful" on promotion). Lane: CLASSIC (Chicago) SOULFUL HOUSE, diva vocal — never used as a standalone lane in v462-v495 (we did 2-step, footwork, amapiano, nu-disco but never the originating house form); beat-driven/danceable FEMALE — maximum contrast to v495's slow warm acoustic MALE bossa.
+
+  HIGH VARIANCE: big chest-forward soulful DIVA belt (euphoric/communal — distinct from every recent female: hard-tuned hyperpop v494, intimate soul v492), driving 131 BPM four-on-the-floor (breaks far from the recent 73/153/101/91/127 cluster), C-sharp MAJOR (bright chrome, novelty gap 24, only 2 prior uses), all-machine club production. Vocal-gender alternation M/F held across v477-v496 (v495 male → v496 female).
+
+  HOOK: "Three a.m. and I am finally real" (hook-writer 20/25) — a precise clock-anchor ("Three a.m." not generic "all night") fused with house's gospel-of-becoming (the floor as the place the hidden weekday self is finally allowed to exist). Contour: hard chest attack on C# (root) landing "THREE" on beat 1, syncopated triplet "fi-NAL-ly", sustained belt on G# (the 5th of C# major) on "REAL" held two-plus beats, TR-909 claps framing beats 2 and 4. Narrative: "Somebody else got my daytime name / But this beat finds the part I keep"; "This is mine — I don't owe them days."
+
+  ARCHITECTURE — classic vocal-house SONG form, density climax (non-modulation): intro groove lock → V1 (real sung topline, chord movement) → pre-chorus build → belted chorus (hook) → V2 → chorus → described lyric-free [Piano and Organ Break] (textured — piano stabs + filtered rolling bass + Hammond over 909, NOT an empty bracket; duration lever) → final chorus DENSITY climax (filter opens, organ full, extra clap layer, diva belt + ad-libs) → live-groove outro (NO cold stop). Dropped the penalized half-step lift.
+
+  DURATION GUARD (learnings): NOT a groove-primary one-phrase loop — full melodic sung arc (two 6-line verses + pre-chorus + three choruses) + a described textured break + a live-groove ad-lib outro (no dissolution-to-silence).
+
+  INSTRUMENTS: four-on-the-floor TR-909 (kick/snare/16th-open-hats) + rolling warm machine bassline + soulful PIANO STABS (offbeats) + HAMMOND organ swells + hand-claps (beats 2 & 4). BPM 131 (novelty gap 276, near-virgin dance band) and C-sharp major (novelty gap 24) from the novelty surface; dropped its glass-marimba suggestion (not house-authentic — the 909/piano/organ palette is the genre).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/electronic/synth/909/drum-machine/piano/organ/bass (all core). "pipe organ" excluded = church-drift (Hammond organ kept, named positively). Excludes rock/live-band/acoustic/trap/festival-drop/future-bass drift. English only. PLACE-NAME "Chicago" STRIPPED from the style field on promotion (→ "soulful") per the no-place-names rule; genre context kept in notes only (not submitted).
+
+  Style char count: 947.
+
+tags:
+  - chicago-house
+  - soulful-house
+  - house
+  - diva-vocal
+  - female-vocal
+  - tr-909
+  - hammond-organ
+  - piano-stabs
+  - machine-bassline
+  - 131bpm
+  - c-sharp-major
+  - late-night-dancefloor-scene
+  - density-climax
+  - vocal-house-form
+  - no-modulation
+  - duration-lever-break
+  - research-driven
+  - new-lane
+  - high-variance

@@ -510,6 +510,7 @@ mindmap
 | 493 | Night493 | classic cumbia call-and-response, density-peak climax (doubled clave + full percussion + accordion-doubled melody + falsetto ad-libs, no key change); 24-bar accordion-solo duration lever; drove 3:31/3:43 | E-flat major | 101 | lead accordion (catalog-first melodic lead) + guiro + congas/3-2 clave (over walking electric bass & cornet stabs) |
 | 494 | Upload494 | hyperpop maximalist glitch-pop, strip-to-crash + second-drop density climax, hook 'I uploaded the ache' with production-as-meaning pitched vocal-chop cascade | A major | 153 | hard-tuned female vocal + supersaw hyper-synth + 808 sub-bass (glitch drums, formant-shifted vocal layers, pitched chops) |
 | 495 | Accent495 | intimate bossa nova croon, classic verse/chorus with flute-solo peak then strip-back final (non-modulation frisson climax), hook 'the silence has your accent' with rising-minor-second flute echo fingerprint | A-flat minor | 73 | warm close-mic male croon + fingerpicked nylon-string guitar batida + walking upright bass + flute counter-melody (brushed snare, dense maj7/9/13 jazz harmony) |
+| 496 | Finallyreal496 | classic soulful house diva anthem, vocal-house song form with density climax (non-modulation), hook 'Three a.m. and I am finally real' with G-sharp belt + call-and-response tails | C-sharp major | 131 | soulful diva belt + TR-909 four-on-the-floor + rolling machine bassline + soulful piano stabs (Hammond organ swells, hand-claps) |
 
 ## Next-cycle priorities
 
