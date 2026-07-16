@@ -1,6 +1,6 @@
 {
-  "total_prompts": 456,
-  "latest_version": 481,
+  "total_prompts": 457,
+  "latest_version": 482,
   "instruments": {
     "organ": [
       1,
@@ -180,7 +180,8 @@
       456,
       458,
       459,
-      472
+      472,
+      482
     ],
     "pipe organ": [
       1,
@@ -499,6 +500,21 @@
       436,
       476
     ],
+    "mellotron": [
+      116,
+      126,
+      143,
+      196,
+      216,
+      234,
+      246,
+      258,
+      332,
+      344,
+      358,
+      463,
+      482
+    ],
     "tenor saxophone": [
       107,
       123,
@@ -584,20 +600,6 @@
       353,
       362,
       479
-    ],
-    "mellotron": [
-      116,
-      126,
-      143,
-      196,
-      216,
-      234,
-      246,
-      258,
-      332,
-      344,
-      358,
-      463
     ],
     "oboe": [
       65,
@@ -1295,6 +1297,36 @@
       444,
       470
     ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      162,
+      173,
+      178,
+      187,
+      251,
+      257,
+      314,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      448,
+      454,
+      459
+    ],
     "neoclassical": [
       1,
       2,
@@ -1323,32 +1355,6 @@
       249,
       321,
       424
-    ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      173,
-      187,
-      251,
-      257,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      454,
-      459
     ],
     "chamber": [
       191,
@@ -1380,15 +1386,6 @@
       466,
       467
     ],
-    "symphonic": [
-      162,
-      178,
-      311,
-      314,
-      318,
-      320,
-      322
-    ],
     "trap": [
       264,
       274,
@@ -1418,6 +1415,12 @@
       406,
       462
     ],
+    "symphonic": [
+      311,
+      318,
+      320,
+      322
+    ],
     "drone": [
       304,
       305,
@@ -1438,10 +1441,6 @@
     "post-classical": [
       112,
       315
-    ],
-    "synthwave": [
-      1,
-      448
     ],
     "2-step garage": [
       100
@@ -1481,6 +1480,9 @@
     ],
     "romantic": [
       313
+    ],
+    "synthwave": [
+      1
     ],
     "trance": [
       396
@@ -1848,6 +1850,16 @@
       348,
       466
     ],
+    "a-flat major": [
+      90,
+      185,
+      228,
+      343,
+      393,
+      401,
+      450,
+      482
+    ],
     "b major": [
       122,
       230,
@@ -1897,15 +1909,6 @@
       252,
       352,
       469
-    ],
-    "a-flat major": [
-      90,
-      185,
-      228,
-      343,
-      393,
-      401,
-      450
     ],
     "b-flat major": [
       138,
@@ -2421,7 +2424,8 @@
       96,
       234,
       279,
-      390
+      390,
+      482
     ],
     "129": [
       219
@@ -2645,6 +2649,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 482,
+      "title": "Virage482",
+      "name": "virage-v482",
+      "featured": [],
+      "genre": null,
+      "key": "a-flat major",
+      "bpm": 128
+    },
     {
       "version": 481,
       "title": "Rattle481",
@@ -2999,7 +3012,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "synthwave",
+      "genre": "cinematic",
       "key": "a minor",
       "bpm": 106
     },
@@ -4184,7 +4197,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": "b minor",
       "bpm": 100
     },
@@ -5733,7 +5746,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -5884,7 +5897,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },

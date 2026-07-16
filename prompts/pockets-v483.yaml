@@ -1,0 +1,123 @@
+name: "pockets-v483"
+version: 483
+title: "Pockets483"
+instrumental: false
+vocal_gender: male
+
+style: "Warm Ghanaian highlife live band in rolling 12/8 lilt — triplet-swung feel, bell-timeline breathing between every beat. Polished studio mix, warm tape saturation, wide stereo stage, 113 BPM, F major with jazzy seventh chords. Two interlocking electric guitars trade arpeggiated riffs across the stereo field, one calling and one answering; flugelhorn and horn stabs punch the off-beats; light jazzy vibraphone floats accents; warm electric bass walks below. Soulful warm male vocal phrases with ease and gentle ache — lead calls and group voices answer a third above, call-and-response woven through verse and chorus. A lyric-free two-guitar trading section mid-song opens the riffs wide, extending and replying over the bell groove. Final chorus layers lead, full group-vocal stack, horn stabs, both guitars into dense communal payoff — F major throughout, no key change. No synthesizers, no electronic drums, no trap beats, no EDM, no pipe organ."
+
+lyrics: |
+  [Intro: two interlocking guitars open in rolling 12/8 lilt, bell-timeline sets the groove, flugelhorn answers, 8 bars]
+
+  [Verse 1: soulful male lead calls each line, group voices answer in parentheses, 16 bars]
+  The week was long but the night is wide
+  (the night is wide)
+  We put on our best and we step outside
+  (step outside)
+  The rent is late but the music plays
+  (music plays)
+  And tomorrow can wait for tomorrow's days
+  (tomorrow's days)
+
+  [Chorus: full band blooms, lead and group voices lock, horn stabs punctuate, 16 bars]
+  Pocket full of nothing, still we sing
+  (still we sing)
+  Hand in hand around this circle ring
+  (circle ring)
+  Pocket full of nothing, still we rise
+  (still we rise)
+  Joy is what we carry, not a prize
+  (not a prize)
+
+  [Verse 2: lead vocal traces the guitar riff, group answers tighter, vibraphone brightens, 16 bars]
+  My neighbor brought bread, I brought the fire
+  (brought the fire)
+  We share what we have and we climb higher
+  (climb higher)
+  No table is full but no one starves
+  (no one starves)
+  We heal up our wounds with the songs and guitars
+  (songs and guitars)
+
+  [Chorus: call-and-response tighter, horn stabs land harder, 16 bars]
+  Pocket full of nothing, still we sing
+  (still we sing)
+  Hand in hand around this circle ring
+  (circle ring)
+  Pocket full of nothing, still we rise
+  (still we rise)
+  Joy is what we carry, not a prize
+  (not a prize)
+
+  [Two-Guitar Trading: interlocking guitars trade extended licks over bell groove, vibraphone weaves between, 24 bars]
+
+  [Verse 3: stripped-back, lead vocal solo over bass and bell only, building expectation, 8 bars]
+  Some days the rain won't let the sun through
+  (let the sun through)
+  But every voice in here says we made it
+  (says we made it)
+
+  [Final Chorus: lead vocal, full group-vocal stack, flugelhorn, horn stabs, both guitars weaving simultaneously — dense layered call-and-response, F major, no key change, 24 bars]
+  Pocket full of nothing, still we sing
+  (still we sing, still we sing)
+  Hand in hand around this circle ring
+  (circle ring, circle ring)
+  Pocket full of nothing, still we rise
+  (still we rise, still we rise)
+  Joy is what we carry, not a prize
+  (not a prize, not a prize)
+  Sing it for the ones who walked before
+  (walked before)
+  Sing it till our voices fill the floor
+  (fill the floor)
+
+  [Outro: bell-timeline and bass continue, guitars fade to single riff, flugelhorn holds one long note, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal drums, ethnic chanting, world music, acoustic guitar, synthesizer, electronic, EDM, trap, lo-fi, rock, metal, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, classical orchestra"
+
+notes: |
+  v483 TOURNAMENT WINNER (inline-judged 86/100; beat sibling candidate A "4/4 flugelhorn-solo/chorus-bloom" at 82 on a more fully-realized call-and-response hook with a cleaner payoff ["Joy is what we carry, not a prize" vs A's clunky "no one comes to cancel" + a meta arrangement-describing line], a more distinctive architecture, and an equally warm narrative). Lane: GHANAIAN HIGHLIFE — never used; a warm/organic live-band ENGLISH MALE swing away from v482's electronic synth airy-female French italo.
+
+  HIGH VARIANCE vs v482: fully organic live band (interlocking electric guitars, not synth), warm soulful MALE (not airy female), English (not French), joyful-aching communal mood. Vocal-gender alternation M/F/M/F/M/F/M held across v477-v483.
+
+  PROMOTE EDIT: removed "choir" from exclude_styles so it can't suppress the group-vocal-stack climax (B leans on group backing vocals).
+
+  HOOK: "Pocket full of nothing, still we sing" (hook-writer 20/25) — honest communal image, joy built on acknowledged hardship. Ascending broken F-major triad on "Pocket full of nothing", caesura the bell-timeline fills, octave leap on "still we sing"; group vocals echo a third above. Chorus is a call-and-response machine (lead line + parenthetical group answer throughout).
+
+  ARCHITECTURE — 12/8 lilting highlife, layered call-and-response STACK climax (no modulation): rolling triplet-swung 12/8 (the other classic highlife meter, distinct from a straight 4/4); call-and-response woven through every section; mid-song lyric-free [Two-Guitar Trading] feature; a STRIPPED verse-3 (lead over bass+bell) builds expectation into the FINAL CHORUS where lead + full group-vocal stack + horns + both guitars all interlock at once — density payoff in F major, NO key change.
+
+  DURATION LEVER: the 24-bar lyric-free [Two-Guitar Trading] section + the stripped verse-3 build + full arc.
+
+  INSTRUMENTS: two interlocking electric highlife guitars (HERO), warm FLUGELHORN + horn stabs (gap ~16, softer/warmer than the recent trumpet/trombone), light jazzy VIBRAPHONE accent (gap ~19), bell-timeline percussion, warm electric bass. BPM 113 (novelty gap 194, highlife-native) and F major (novelty gap 41, "highlife brightness") from the novelty surface, avoiding all recent keys.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude guitar/horns/brass/vocals/singing (all core to highlife); excludes electronic/synth/EDM/trap (organic genre) + world-music-drift terms (tribal drums, ethnic chanting). "acoustic guitar" excluded is fine — highlife uses ELECTRIC guitars.
+
+  Style char count: 948.
+
+tags:
+  - ghanaian-highlife
+  - highlife
+  - electric-guitar
+  - flugelhorn
+  - vibraphone
+  - bell-timeline
+  - 113bpm
+  - f-major
+  - 12-8-meter
+  - compound-lilt
+  - call-and-response
+  - community-joy
+  - resilience-theme
+  - soulful-male-vocal
+  - two-guitar-trading
+  - group-vocal-stack
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - west-african
+  - live-band
+  - jazzy-sevenths
+  - new-lane
+  - high-variance
