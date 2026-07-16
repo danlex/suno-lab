@@ -1,6 +1,6 @@
 {
-  "total_prompts": 462,
-  "latest_version": 487,
+  "total_prompts": 463,
+  "latest_version": 488,
   "instruments": {
     "organ": [
       1,
@@ -836,6 +836,18 @@
       348,
       365
     ],
+    "theremin": [
+      101,
+      119,
+      135,
+      185,
+      209,
+      223,
+      331,
+      351,
+      462,
+      488
+    ],
     "tuba": [
       82,
       104,
@@ -891,17 +903,6 @@
       242,
       318,
       360
-    ],
-    "theremin": [
-      101,
-      119,
-      135,
-      185,
-      209,
-      223,
-      331,
-      351,
-      462
     ],
     "accordion": [
       204,
@@ -1302,8 +1303,39 @@
       316,
       317,
       319,
+      323,
       444,
       470
+    ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      162,
+      173,
+      178,
+      187,
+      251,
+      257,
+      314,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      448,
+      454,
+      459
     ],
     "neoclassical": [
       1,
@@ -1334,32 +1366,6 @@
       321,
       424
     ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      173,
-      187,
-      251,
-      257,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      454,
-      459
-    ],
     "house": [
       242,
       261,
@@ -1387,15 +1393,6 @@
       347,
       348,
       451
-    ],
-    "symphonic": [
-      162,
-      178,
-      311,
-      314,
-      318,
-      320,
-      322
     ],
     "trap": [
       264,
@@ -1426,6 +1423,12 @@
       406,
       462
     ],
+    "symphonic": [
+      311,
+      318,
+      320,
+      322
+    ],
     "baroque": [
       188,
       191,
@@ -1436,17 +1439,14 @@
       305,
       453
     ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
     "amapiano": [
       266,
       343
-    ],
-    "concerto": [
-      145,
-      149
-    ],
-    "minimalist": [
-      201,
-      323
     ],
     "passacaglia": [
       111,
@@ -1456,9 +1456,9 @@
       112,
       315
     ],
-    "synthwave": [
-      1,
-      448
+    "trance": [
+      396,
+      488
     ],
     "2-step garage": [
       100
@@ -1487,14 +1487,14 @@
     "lo-fi": [
       296
     ],
+    "minimalist": [
+      201
+    ],
     "progressive house": [
       96
     ],
-    "romantic": [
-      313
-    ],
-    "trance": [
-      396
+    "synthwave": [
+      1
     ]
   },
   "keys": {
@@ -1620,7 +1620,8 @@
       406,
       439,
       452,
-      457
+      457,
+      488
     ],
     "f minor": [
       12,
@@ -2486,7 +2487,8 @@
     ],
     "135": [
       97,
-      255
+      255,
+      488
     ],
     "136": [
       138,
@@ -2668,6 +2670,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 488,
+      "title": "Dissolve488",
+      "name": "dissolve-v488",
+      "featured": [],
+      "genre": "trance",
+      "key": "e minor",
+      "bpm": 135
+    },
     {
       "version": 487,
       "title": "Drum487",
@@ -3081,7 +3092,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "synthwave",
+      "genre": "cinematic",
       "key": "a minor",
       "bpm": 106
     },
@@ -4171,7 +4182,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -4266,7 +4277,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": "b minor",
       "bpm": 100
     },
@@ -5815,7 +5826,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -5966,7 +5977,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -6087,7 +6098,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -6123,7 +6134,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

@@ -1,0 +1,104 @@
+name: "worry-v489"
+version: 489
+title: "Worry489"
+instrumental: false
+vocal_gender: male
+
+style: "Warm cosmic psychedelic funk — a room loosening by degrees, bodies finding the pocket, worry evaporating in the groove. Polished studio mix with deep low-end definition and wide stereo stage. B-flat minor Dorian at 107 BPM. Slapped funk bass pops on every downbeat, wah guitar works tight 16th-note chops, a talkbox lead swoops with vocoded personality, staccato horn hits land on the two and four, warm organic drums lock the engine. A charismatic soulful male belt leads with rising pentatonic swagger; a crew group chant answers with clipped descending stabs. Elements layer continuously — bass and wah open, talkbox enters, horn hits stack, group chants swell — groove thickens, never strips. Mid-song the talkbox takes a featured melodic solo over the full locked groove. Climax is maximum communal density: crew chants locked with talkbox and horns on the hook, no key change, swagger payoff. No EDM, no trap, no metal, no orchestral strings."
+
+lyrics: |
+  [Groove Opens: slapped funk bass and wah guitar only, pocket locking in, 8 bars]
+
+  [Verse 1: male lead enters over bass and wah, talkbox swoops beneath, 16 bars]
+  Heavy coat you been wearing since way back when
+  You packed it yourself, but you carried it again
+  Every morning you check it, still right where you left it
+  But lately I notice it's losing its grip
+
+  [Hook 1: horn hits stack in, group chant answers the call, moderate crew size, 8 bars]
+  Your worry left without you
+  (Let it walk)
+  Your worry left without you
+  (Let it walk — let it walk)
+
+  [Verse 2: full band locked, talkbox more prominent, crew murmurs underneath, 16 bars]
+  You rehearse every ending before it begins
+  You hand out your losses to anyone in
+  But the groove don't lie and the bass don't hide
+  When the pocket calls you got nowhere to run
+
+  [Hook 2: group chant louder, horn hits on every response downbeat, talkbox swoops, 8 bars]
+  Your worry left without you
+  (Let it walk)
+  Your worry left without you
+  (Let it walk — let it walk — yeah)
+
+  [Talkbox Solo: talkbox melodic lead over the full locked groove, bass and wah and drums driving underneath, 24 bars]
+
+  [Verse 3: male lead returns confident, group hums beneath, groove at full power, 12 bars]
+  You kept a seat at the table for what never came
+  Saved all your sorrow a permanent name
+  But the door swung open, the coat went free
+  Nothing left to carry now — just you and the beat
+
+  [Hook 3: full crew erupts, talkbox doubles the call, horns stab on every response, maximum density, 16 bars]
+  Your worry left without you
+  (Let it walk)
+  Your worry left without you
+  (Let it walk — let it walk)
+  Oh — it walked on out the door
+  (Let it walk)
+  Left you on the floor
+  (Let it walk — let it walk — yeah)
+
+  [Climax Chant: full communal lock, crew and talkbox and horns on the hook repeated, no key change, 16 bars]
+  (Let it walk — let it walk)
+  (Let it walk — let it walk)
+  Your worry left without you
+  (Let it walk — walk — walk)
+
+  [Outro: groove rides out, bass and wah fade last, talkbox final swoop, 8 bars]
+
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, metal, orchestral, new age, lo-fi, acoustic folk, country, pop ballad, R&B polished, rap, hip-hop drum machine, ambient, atonal, free jazz, world music, Arabic, tribal, cinematic ambient"
+
+notes: |
+  v489 TOURNAMENT WINNER (inline-judged 87/100; beat sibling candidate A "classic vamp/strip-and-flood" at 83 on a coherent extended metaphor + narratively-developing hook + distinctive architecture). Lane: P-FUNK (cosmic/psychedelic funk) — never used; warm, organic, danceable, swaggering — maximum contrast to v488's fast euphoric electronic female trance.
+
+  HIGH VARIANCE: warm organic FUNK (not synth), charismatic MALE belt + group chant (not soaring female), swaggering/cosmic mood, mid-tempo 107, B-flat minor Dorian. Vocal-gender alternation M/F held across v477-v489.
+
+  HOOK: "Your worry left without you" / group "Let it walk" (hook-writer 21/25) — a six-word P-funk story (worry gave up and walked out alone). Rising Bb-minor-pentatonic call held on the fifth; clipped descending "Let it walk" (Ab-Gb-F) response landing on the downbeat with a slap-bass pop; talkbox swoops echoing the call; horn stab on the response. WINNING WRITING: the "heavy coat" extended metaphor runs the whole song ("you packed it yourself… the door swung open, the coat went free"); the hook develops narratively in Hook 3 ("it walked on out the door / Left you on the floor").
+
+  INSTRUMENTS (THREE catalog-first fresh timbres): SLAPPED FUNK BASS (groove architecture), WAH GUITAR (16th-note chops), TALKBOX (vocoded lead — swoops under verses, takes a featured mid-song solo). Plus light staccato horn hits + warm organic drums. Deliberately dropped the researcher's clavinet/Hammond co-signature (both used v487, 2 cycles ago) in favor of these three never-used funk timbres. BPM 107 (novelty gap 160, P-funk pocket) and B-flat minor Dorian (novelty gap 24, "canonical funk Dorian home") from the novelty surface, avoiding all recent keys/tempos.
+
+  ARCHITECTURE — CONTINUOUS COMMUNAL BUILD, density climax (no modulation): groove locks and thickens by LAYERING (bass+wah -> +talkbox -> +horns -> +group chants), never fully strips; a mid-song [Talkbox Solo] (24 bars) featured over the FULL groove (distinct from a stripped interlude); climax = max-density communal chant (crew + talkbox + horns on the hook). NO key change (deliberately dropped the researcher's half-step-lift suggestion, a penalized template).
+
+  DURATION LEVER: the 24-bar lyric-free [Talkbox Solo] + full sung arc (3 verses + 3 hooks + climax chant); groove stays live throughout (no dissolution). ~132 bars at 107 BPM targets ~3:00-3:30.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/guitar/bass/talkbox/synth/electronic (talkbox + wah are electric-processed — a broad electronic ban would gut them). Excludes only genre drift (EDM/trap/house/metal/orchestral). English only, no place-names.
+
+  Style char count: 948.
+
+tags:
+  - p-funk
+  - cosmic-funk
+  - psychedelic-funk
+  - slap-bass
+  - wah-guitar
+  - talkbox
+  - 107bpm
+  - bb-minor
+  - dorian
+  - male-belt
+  - group-chant
+  - call-and-response
+  - continuous-build
+  - talkbox-solo-feature
+  - no-modulation
+  - communal-liberation-scene
+  - catalog-first-timbres
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
