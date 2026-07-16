@@ -1,0 +1,115 @@
+name: "nobody-v478"
+version: 478
+title: "Nobody478"
+instrumental: false
+vocal_gender: female
+
+style: "Rain streaking a dark window after closing time, the ache of being alone that is half loneliness and half relief — noir trip-hop for nocturnal cities, intimate and low-lit, never anthemic. Polished studio mix with deep low-end definition and warm tape saturation. A smoky Rhodes electric piano loop breathes underneath a lethargic chopped breakbeat and deep sub-bass, vinyl crackle dusting the edges. The signature colors are bowed vibraphone for an ethereal woozy shimmer and smoky tenor saxophone carrying the noir melodic lead. Ab minor, around 84 BPM. A breathy intimate female voice hovers between whispered singing and soft spoken word — matter-of-fact, not mournful — with a wordless falsetto aah motif as a secondary hook layer answering the melody. Wide stereo stage with tight chamber reverb on the vibraphone and dry close-mic warmth on the voice. No guitars, no choir, no rock drums, no synthesizers, no pop brightness."
+
+lyrics: |
+  [Intro: chopped breakbeat alone, no bass, bowed vibraphone shimmer entering bar 4, 8 bars]
+
+  [Verse 1: deep sub-bass enters like smoke filling a room, Rhodes silent, voice close and dry, 16 bars]
+  The last train left at half past ten
+  I missed it on purpose, I think
+  The barman wiped the counter clean
+  and didn't ask me what I'd like to drink
+  Clock on the wall, hands at a cross
+  pointing nowhere in particular
+  I counted cracks along the ceiling
+  and ran out of things to be afraid of
+
+  [Pre-Chorus: smoky Rhodes chord hits arrive, sparse, voice barely rises, 8 bars]
+  No one's waiting up for me
+  No message on a darkened screen
+  (aah)
+  The city hums — it isn't company
+
+  [Chorus: locked groove, full bed, hook stated plain, falsetto aah answers, 16 bars]
+  Quarter past nobody
+  that's the hour I keep
+  Quarter past nobody
+  too awake for sleep
+  (aah — aah)
+  The kind of quiet you stop fighting
+  (aah)
+
+  [Verse 2: groove locked, Rhodes low in the mix, saxophone curls a counter-melody behind the voice, 16 bars]
+  The neon bends across the wet road
+  it spells something that isn't a word
+  I've gotten good at being still
+  at not moving when I'm not stirred
+  There's a version of me at a table
+  in a window of a warmer place
+  I watch her through the other side
+  and she has almost the same face
+
+  [Pre-Chorus: Rhodes rises in texture, bowed vibraphone enters the gaps, 8 bars]
+  No one's coming round the corner
+  No headlights turning slow for me
+  (aah)
+  The rain falls even, indifferent and free
+
+  [Chorus: full density, hook with slight rhythmic delay, falsetto aah long and open, 16 bars]
+  Quarter past nobody
+  that's the hour I keep
+  Quarter past nobody
+  too awake for sleep
+  (aah — aah)
+  The kind of quiet you stop fighting
+  (aah)
+
+  [Noir Break: tenor saxophone melodic statement over bowed vibraphone and locked groove, voice absent, 24 bars]
+
+  [Final Chorus: everything locked in, Rhodes full, sub-bass deep, voice most direct of the song, 16 bars]
+  Quarter past nobody
+  still the hour I keep
+  Quarter past nobody
+  I am not asleep
+  (aah — aah)
+  The kind of quiet you stop fighting
+  The kind of alone that starts to feel like sleep
+  (aah)
+
+  [Outro: breakbeat fades first, then sub-bass, bowed vibraphone sustain, voice breathes one last aah, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar strumming, rock, metal, lo-fi, EDM, four-on-the-floor, electronic drop, pop anthem, bright pop, synthesizer pad, pipe organ, autotune, gospel choir, choir vocals, cinematic ambient, new age, zen meditation, experimental noise, free jazz, atonal, hip-hop braggadocio, trap hi-hat rolls, gypsy jazz, klezmer"
+
+notes: |
+  v478 TOURNAMENT WINNER (inline-judged 83/100; beat sibling candidate B "dub-bridge" at 77 on a stronger hook extension, a more moving narrative, and lower render-risk). Lane: NOIR TRIP-HOP — untouched in the catalog; maximum contrast to v477 (155 BPM male carnival) on every axis: tempo 155->84, gender male->female, energy exuberant-crowd->intimate-solo, mood->nocturnal.
+
+  HIGH VARIANCE: after an uptempo/loud/male v477, this swings hard to slow (84 BPM), intimate breathy female, narrow dynamic range, nocturnal noir mood.
+
+  HOOK: "Quarter past nobody" (hook-writer 24/25) — hijacks clock grammar to measure absence ("nobody" as a time of day). Contour: Eb4 pickup descending to Db4, Cb4 hard on 'past', early tonic Ab3 on 'no-', lazy falling triplet Bb3-Ab3-G3 on '-bo-dy'; breathy falsetto 'aah' answers echoing the Bb3-Ab3 fragment. Delivery matter-of-fact, not mournful.
+
+  ARCHITECTURE — smoke-fill, held-back groove -> density-shift climax: chopped breakbeat enters ALONE (8 bars, no bass), sub-bass fills under Verse 1 "like smoke filling a room", smoky Rhodes chord hits withheld until the pre-chorus so their arrival reads as a density payoff. The climax is a DENSITY-SHIFT (full locked groove under the hook) — NO key modulation (deliberately avoids the penalized half-step-lift template).
+
+  DURATION LEVER: an explicit 24-bar lyric-free [Noir Break] (tenor sax in dialogue with bowed vibraphone over the locked groove) between the 2nd and final chorus, plus a fuller sung arc (two verse/pre-chorus/chorus cycles + break + final chorus + outro) — sparse/loop trip-hop renders short, so the arc is kept full. Chose the density-shift over candidate B's dissolution-to-near-silence dub bridge specifically to dodge the silence-gate truncation risk at this slow BPM.
+
+  INSTRUMENTS (novelty picks that fit the lane): bowed vibraphone (gap ~114, ethereal woozy shimmer filling the spaces the voice leaves), smoky tenor saxophone (gap ~22, noir melodic lead + break solo), Rhodes electric piano bed. BPM 84 (virtually virgin, novelty pick) and A-flat minor (gap ~56, dark/lush) both from the novelty surface. Differentiated from the catalog's only prior trip-hop-adjacent track (Static427, G minor / 88 BPM).
+
+  Style char count: 931.
+
+tags:
+  - noir-trip-hop
+  - trip-hop
+  - bowed-vibraphone
+  - tenor-saxophone
+  - rhodes-electric-piano
+  - chopped-breakbeat
+  - deep-sub-bass
+  - vinyl-crackle
+  - 84bpm
+  - ab-minor
+  - nocturnal-city-mood
+  - breathy-female-voice
+  - falsetto-aah-hook
+  - density-shift-climax
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - high-variance
+  - vocal
+  - new-lane
