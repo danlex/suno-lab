@@ -1,0 +1,99 @@
+name: "concrete-v479"
+version: 479
+title: "Concrete479"
+instrumental: false
+vocal_gender: male
+
+style: "Dark hypnotic gqom built on a hollow off-beat kick, deep sub-bass rumble, and sparse single-oscillator acid synth stabs — polished studio mix, wide stereo stage, 123 BPM, F minor. The skeleton: hollow reverbed snare locks the groove, pitched-down vocal chops land on the off-beat as pure rhythm, a handpan adds cold metallic shimmer between stabs. Over this machine-dark pulse a clear assertive male chest voice rises — genuinely sung, melodic, high above the grid, defiant and controlled, not a chant, alive with interval. Warm tape saturation keeps the low end physical. Arc opens with drums alone, the sung topline arriving as revelation, verses sparse and taut, a bridge of sub-bass and a single repeated phrase, then a full-grid double-drop flooding the groove with doubled topline and dense vocal-chop percussion — density payoff, no key change. No guitars, no live drums, no bright pop production, no four-on-the-floor kick, no EDM supersaw."
+
+lyrics: |
+  [Drum Grid Alone: hollow off-beat kick, sub-bass rumble, acid synth stabs, no melody — 16 bars, pure skeletal percussion]
+
+  [Hook Reveal: sung male topline drops in over the grid — melodic, assertive, defiant]
+  Cracks in the concrete, that's where I live
+  Every fissure tells you what I've got to give
+  The city hums, the city breathes
+  I own the dark between the leaves
+
+  [Verse 1: sparse grid, sung male voice over hollow kick and acid stabs]
+  I don't need the clean streets, the lit-up towers
+  I'm the one who counts the unmarked hours
+  Grid keeps turning, machine won't sleep
+  I found my footing in the rubble, mine to keep
+
+  [Chorus: topline full-voiced, vocal chops dense on off-beats]
+  Cracks in the concrete, that's where I live
+  Every fissure tells you what I've got to give
+  Down below the surface, underneath the frame
+  I carved my name
+
+  [Verse 2: vocal stripped back, handpan shimmer enters between stabs]
+  No borrowed light — I struck my own
+  Built a place from what the city had thrown
+  Off-beat clock and a sub-bass low
+  The only rhythm that I'll ever know
+
+  [Chorus: full grid, doubled vocal chops, assertive and controlled]
+  Cracks in the concrete, that's where I live
+  Every fissure tells you what I've got to give
+  Down below the surface, underneath the frame
+  I carved my name
+
+  [Instrumental Break: synth stabs, handpan, vocal-chop percussion grid — no melody, pure groove, 24 bars]
+
+  [Bridge: sub-bass only, single sung phrase repeated — tension building, grid stays live]
+  This is mine
+  This is mine
+  This is mine
+
+  [Double-Drop Final Chorus: topline doubled in octaves, vocal chops flooding every off-beat, all stabs return — full density, F minor held, no key change]
+  Cracks in the concrete, that's where I live
+  Every fissure tells you what I've got to give
+  Down below the surface, underneath the frame
+  I carved my name
+  Cracks in the concrete — I live
+  I live
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, township jive, kwaito, afrobeats, afro-pop, acoustic guitar, rock, metal, lo-fi, pipe organ, EDM, trance, supersaw, four-on-the-floor house, bright pop, trap, hip-hop rap, new age, experimental noise, free jazz, atonal, female vocals, choir"
+
+notes: |
+  v479 TOURNAMENT WINNER (inline-judged 83/100; beat sibling candidate B "call-response/beat-flip" at 76). PRE-SUBMIT FIX: removed "singing" from exclude_styles (it is a SUNG topline — that negative was a self-contradiction per feedback_negative_prompt_contradiction; candidate B had a worse cluster of these — "no vocals/no synthesizers" in style + "electronic/synthesizer/singing" in exclude — and was rejected partly for that). Kept "female vocals, choir" to enforce the male topline.
+
+  Lane: GQOM (Durban electronic) with a genuinely SUNG male melodic topline — untouched in the catalog; beat-driven/danceable/edgy = our audience-engagement signal, with the favored strong SUNG hook. HIGH VARIANCE vs v478 (slow intimate breathy-female noir jazz): sparse dark electronic, hypnotic drive, male, defiant — opposite on every axis. Also distinct from prior electronic lanes (warmer amapiano, UK garage, full-frequency hard techno).
+
+  HOOK: "Cracks in the concrete, that's where I live" (hook-writer 21/25) — inverts urban decay into defiant ownership. Contour: stepwise descending Ab4-G4-F4-Eb4-C4 over four beats (accent just before the off-beat kick), then compressed rising triplet Ab4-Bb4-Ab4 on "that's where I live". A pitched-down "-crete" chop (dropped ~major 7th, on the and-of-3) folds the hook word into the percussion skeleton.
+
+  ARCHITECTURE — reveal-drop -> full-grid DOUBLE-DROP climax: 16 bars of pure skeletal percussion first (gqom withholds melody, so the sung topline arrives as the central event, not decoration), sparse taut verses, a bridge of sub-bass + a repeated phrase ("This is mine" x3 — NOT silence, to avoid truncation), then a double-drop final chorus (topline doubled in octaves + vocal-chop flood + all stabs returning). Density payoff, NO key change (deliberately avoids the penalized half-step-lift template).
+
+  DURATION LEVER: explicit 24-bar lyric-free [Instrumental Break] (synth stabs + handpan + vocal-chop percussion) before the bridge — gqom loops read short to the classifier, so the labeled break + full two-cycle sung arc anchor a long render.
+
+  INSTRUMENTS: gqom synth palette (hollow off-beat kick, deep sub-bass, single-oscillator acid stabs, hollow reverbed snare, pitched-down vocal chops as percussion) + one fresh accent, HANDPAN (novelty gap ~117, cold metallic shimmer between stabs — fits afro-electronic without world-music trigger). BPM 123 (novelty gap 263) and F minor (gap 74) both from the novelty surface, avoiding all recent keys.
+
+  Style char count: 948.
+
+tags:
+  - gqom
+  - south-african-electronic
+  - dark-electronic
+  - hypnotic
+  - 123bpm
+  - f-minor
+  - male-voice
+  - sung-topline
+  - hollow-kick
+  - sub-bass
+  - acid-synth
+  - vocal-chop-percussion
+  - handpan
+  - reveal-drop-architecture
+  - double-drop-climax
+  - no-modulation
+  - urban-defiance
+  - danceable
+  - beat-driven
+  - duration-3min
+  - new-lane
+  - research-driven
+  - high-variance

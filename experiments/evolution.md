@@ -493,6 +493,7 @@ mindmap
 | 476 | Halflight476 | feedback density-flood climax after filtered dip (no modulation, no silence-gate) | F-sharp major | 120 | layered feedback electric guitars + driving bass + motorik drums (glockenspiel accent) |
 | 477 | Savannah477 | half-time-breakdown to full-tempo crowd-crash (tempo/density climax, no key change) | B-flat major | 155 | brass stabs (trumpets+trombones) + steelpan + four-on-the-floor kick/bass |
 | 478 | Nobody478 | smoke-fill held-back groove to density-shift climax (no key change), 24-bar noir sax break duration lever | A-flat minor | 84 | smoky Rhodes + bowed vibraphone + tenor saxophone (over chopped breakbeat & deep sub-bass) |
+| 479 | Concrete479 | reveal-drop (16-bar skeletal grid before topline) to full-grid double-drop climax (no key change), 24-bar instrumental break duration lever | F minor | 123 | hollow off-beat kick + deep sub-bass + acid synth stabs (with handpan shimmer & pitched-down vocal-chop percussion) |
 
 ## Next-cycle priorities
 
