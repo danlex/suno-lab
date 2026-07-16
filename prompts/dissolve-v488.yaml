@@ -1,0 +1,116 @@
+name: "dissolve-v488"
+version: 488
+title: "Dissolve488"
+instrumental: false
+vocal_gender: female
+
+style: "Peak-hour uplifting trance with a soaring diva vocal and double-drop architecture — wide, euphoric, emotionally overwhelming. Widescreen layered supersaw pads across a polished studio mix with deep low-end definition and wide stereo stage. Punchy four-on-the-floor kick, rolling sidechained bass, plucky arpeggio, white-noise risers, theremin-sine lead carrying the melodic solo through the second breakdown before the mega drop detonates. Female diva voice: full, powerful, reaching — hook held low over bare pads in the first breakdown, then a rising staircase locks in unison with the sine lead on the drop. E minor, 135 BPM. Two drops, the second wider and denser — theremin weaves a counter-line under stacked vocals at maximum width. Peak-of-night transcendence: letting go of something heavy and finding you are still whole. No key change — the drop is the climax. No guitars, no live band, no acoustic, no rock drums, no orchestral strings."
+
+lyrics: |
+  [Intro: supersaw pads open wide, arpeggio climbs, kick locks in, 8 bars]
+
+  [Verse 1: female vocal, steady and searching, pads underneath, 16 bars]
+  I have been running from the weight of knowing
+  Hands full of everything I cannot keep
+  The noise inside my head keeps growing
+  Tell me there's a bottom to this deep
+
+  (let it fall)
+  Every wall I built to hold me
+  Every word I swallowed in the dark
+  Something in the frequency has found me
+  Something pulling open at the heart
+
+  [Pre-Chorus Build: arpeggio accelerates, bass pumps harder, vocal rising, 8 bars]
+  I feel it rising through the floor
+  Through every bone and every door
+  I don't know what I'm waiting for —
+  I'm ready
+
+  [Breakdown 1: supersaw pads sustain lush, kick drops, vocal holds low, theremin fades in gently, riser builds, 16 bars]
+  Dissolve —
+
+  [Drop 1: kick detonates, supersaw slams Em, sine lead doubles the staircase, 16 bars]
+  and I am not lost
+  and I am not lost
+  (still here — still here)
+  Dissolve — and I am not lost
+
+  [Verse 2: vocal returns more assured, bass groove continues, pads breathe, 16 bars]
+  I used to think that coming apart meant breaking
+  That emptiness was proof of something wrong
+  But here inside the sound that's overtaking
+  I'm finding I was hollow all along
+
+  (lighter now)
+  Every old idea I carried
+  Every shape I wore that wasn't mine
+  They're burning off like fog until the air is
+  Clean and still and bright as opening eyes
+
+  [Pre-Chorus Build 2: all elements stack, white-noise riser climbs, vocal at full power, 8 bars]
+  I feel it louder than before
+  I feel it reaching to the core
+  I know exactly what I'm for —
+  I'm ready
+
+  [Breakdown 2: kick strips away, theremin-sine lead carries melodic solo, supersaw pads lush and wide, vocal hook floats dreamily above, long riser gathering, 32 bars]
+  Dissolve —
+  (and I am not lost)
+  Dissolve —
+  (still here, still here, still here)
+
+  [Mega Drop 2: full ensemble detonates at maximum width, vocal stacks, theremin weaves counter-melody under the hook, 32 bars]
+  and I am not lost
+  and I am not lost
+  (I am whole — I am whole)
+  Dissolve — and I am not lost
+  Dissolve — and I am not lost
+  (dissolve, dissolve, dissolve)
+
+  [Outro: pads fade to a held supersaw chord, theremin trails, arpeggio decelerates, 8 bars]
+  Dissolve —
+  (and I am not lost)
+
+  [End]
+
+exclude_styles: "rock, metal, live band, acoustic guitar, folk, country, jazz, lo-fi, trap, drill, hip-hop, R&B, orchestral, pipe organ, new age, world music, tribal, Arabic, free jazz, atonal, cinematic ambient, intimate chamber"
+
+notes: |
+  v488 TOURNAMENT WINNER (inline-judged 85/100; beat sibling candidate A "single breakdown-drop + synth-solo vamp" at 83 on deeper/more thematically ambitious writing [hollowness reframed as openness] + a more distinctive double-drop architecture). PROMOTE EDIT: swapped candidate's "(let go)" ad-libs — a hook-writer-flagged cliché — for thematic ones "(let it fall)" (echoes the hook's "found in the falling") and "(dissolve)" (echoes the hook). Lane: UPLIFTING VOCAL TRANCE (diva-drop form) — never used as a diva-vocal song (the old v94 "trance" was orchestral-synthesis). Euphoric electronic — maximum contrast to v487's organic brass-led male Afrobeat and the recent organic run.
+
+  HIGH VARIANCE: euphoric SYNTH/electronic (not organic band), soaring SUNG FEMALE diva (not male belt), faster 135 BPM (out of the 113-129 cluster), breakdown-drop dance form. Vocal-gender alternation M/F held across v477-v488.
+
+  HOOK: "Dissolve — and I am not lost" (hook-writer 22/25) — paradox of release (dissolving old weight = freedom, not loss). "Dissolve" held LOW (E3) over the bare (but LUSH — pads+theremin, not silent) breakdown, a riser building; then "and I am not lost" fires as a 6-note RISING STAIRCASE (B3-D4-E4-G4-A4-B4) landing B4 sustained on the DROP, sine-lead doubling the vocal in unison, supersaw detonating Em — voice and synth arrive as one.
+
+  ARCHITECTURE — DOUBLE-DROP, breakdown-drop climax (no modulation): verse -> pre-chorus build -> Breakdown 1 (lush) -> Drop 1 -> verse 2 -> pre-chorus build 2 -> Breakdown 2 (theremin-sine MELODIC SOLO feature, 32 bars) -> MEGA Drop 2 (max width, theremin counter-melody under stacked vocals). Two drops, the second wider/denser — continuous escalating euphoria. The DROP is the climax — NO key change (deliberately dropped the researcher's suggested half-step lift, a penalized template).
+
+  DURATION LEVER (+ truncation guard): both breakdowns kept LUSH (supersaw pads continuous, never true silence — guards the silence-gate truncation risk); the 32-bar theremin-lead Breakdown 2 + two-drop structure + full sung arc (~160 bars at 135) target ~3:00-3:30+.
+
+  INSTRUMENTS: widescreen supersaw pads (signature) + rolling sidechained bass + four-on-the-floor kick + plucky arpeggio + white-noise risers + THEREMIN-sine lead (novelty gap ~26, fresh electronic color — breakdown solo + drop unison doubler). BPM 135 (novelty gap 233, classic uplifting-trance tempo) and E minor (novelty gap 31, "trance/synthwave love E minor") from the novelty surface, avoiding all recent keys/tempos.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude synth/synthesizer/electronic/supersaw/vocals/singing/trance (all core). Excludes rock/live-band/acoustic/orchestral drift + trap/drill + cinematic-ambient/intimate-chamber (to prevent classifier compression). English only, no place-names.
+
+  Style char count: 948.
+
+tags:
+  - uplifting-trance
+  - vocal-trance
+  - diva-vocal
+  - female-vocal
+  - double-drop
+  - supersaw
+  - theremin-lead
+  - sidechained-bass
+  - arpeggio
+  - 135bpm
+  - e-minor
+  - peak-hour
+  - euphoric
+  - transcendence
+  - breakdown-drop-arc
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
