@@ -1,0 +1,114 @@
+name: "walls-v491"
+version: 491
+title: "Walls491"
+instrumental: false
+vocal_gender: male
+
+style: "Confessional anthemic indie-rock with crushing quiet-loud dynamic contrast, polished studio mix with wide stereo stage, recorded at 127 BPM in B major. A close-mic slightly raspy male lead — doubting and intimate in whispered dry verses, fully committed and soaring in the explosive choruses. Gang backing vocals (\"whoa-oh\" singalong crowd) slam in with the chorus and carry the hook. Core bed: jangly clean electric guitar in the hushed verse, then a stacked fuzzy guitar wall detonates at every chorus. Driving electric bass, live rock drums, guitar-primary throughout. Deep low-end definition from the bass and kick in the loud sections. The song lives in the space between collapse and survival — scraped-thin exhaustion in the verse, cathartic defiant-hopeful release in the chorus. Warm tape saturation on the guitars, tight chamber reverb on the gang vocals. No synthesizers, no electronic drums, no orchestral strings, no EDM, no trap."
+
+lyrics: |
+  [Verse 1: hushed, dry close-mic — clean guitar only, almost whispered male vocal]
+  I slept on the floor of a room that forgot my name
+  Three in the morning, the ceiling was all I claimed
+  I counted the cracks until the counting was all I knew
+  Couldn't call it giving up — just couldn't call it through
+
+  [Pre-Chorus: voice tightening, guitar barely rising]
+  Something shifted in the plaster, something low
+  Not a voice, not a light — just the room letting go
+
+  [Chorus: full explosive — fuzzy stacked guitar wall slams in, live drums punch, gang vocals enter]
+  I was almost gone and then the walls sang
+  (whoa-oh — walls sang)
+  Every hollow room remembered every broken thing
+  (whoa-oh — walls sang)
+  I was almost gone but the echo had my name
+  And I'm standing in the wreckage of the almost, unashamed
+
+  [Verse 2: hushed again — stark quiet-loud reset, intimate raspy vocal]
+  I sold off the pieces that I thought were keeping me whole
+  Traded every guardrail for the feeling of some control
+  Didn't know a room could hold a man the way arms do
+  But that night the walls were the only ones who knew
+
+  [Pre-Chorus: voice tightening, guitar barely rising]
+  Something pushed against the silence, something old
+  Not a rescue, not a reason — just the room taking hold
+
+  [Chorus: explosive — full fuzzy-guitar wall + gang vocals, live drums crashing]
+  I was almost gone and then the walls sang
+  (whoa-oh — walls sang)
+  Every hollow room remembered every broken thing
+  (whoa-oh — walls sang)
+  I was almost gone but the echo had my name
+  And I'm standing in the wreckage of the almost, unashamed
+
+  [Bridge: stripped bare — single clean guitar + exposed male vocal, no drums, no fuzz]
+  And I don't know what saves a man
+  Maybe nothing does, maybe the room just can
+  Carry what you can't — hold what won't hold
+  Some things only bare walls know
+
+  [Final Chorus 1 of 2: no comedown — full fuzzy-guitar wall detonates, live drums, gang vocals]
+  I was almost gone and then the walls sang
+  (whoa-oh — walls sang)
+  Every hollow room remembered every broken thing
+  (whoa-oh — walls sang)
+  I was almost gone but the echo had my name
+  And I'm standing in the wreckage of the almost, unashamed
+
+  [Final Chorus 2 of 2: maximum sustained — gang vocals full, guitars wall, drums driving]
+  I was almost gone and then the walls sang
+  (whoa-oh — walls sang)
+  Every hollow room remembered every broken thing
+  (whoa-oh — walls sang)
+  I was almost gone but I chose to stay and fight
+  And I'm standing in the ringing of the almost — I'm alright
+
+  [Outro: full-band sustained drive — guitars locked, bass walking, gang vocal repeats under]
+  (whoa-oh — walls sang)
+  (whoa-oh — walls sang)
+  (walls sang)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, lo-fi, heavy metal, screamo, hip-hop, rap, trap, drill, gospel choir, orchestral strings, horns, electronic drums, drum machine"
+
+notes: |
+  v491 TOURNAMENT WINNER (inline-judged 86/100; beat sibling candidate A "classic build + guitar solo" at 80 on a deeper/more vivid cohesive narrative, a stronger hook payoff, and a more distinctive/effective quiet-loud-quiet architecture). Lane: CONFESSIONAL / ANTHEMIC INDIE-ROCK (guitar-forward, male) — never used; the FIRST guitar-primary male rock lane of the v300+ era (all recent male lanes were groove/rhythm-primary). Maximum contrast to v490's bright uplifting FEMALE gospel-pop.
+
+  HIGH VARIANCE: guitar-primary rock (not synth/organic-groove), close-mic raspy MALE (not belt-female), raw-confessional→cathartic mood, B major. Vocal-gender alternation M/F held across v477-v491. NOTE: deliberately dropped the researcher's suggested "gospel-choir surge" (too close to v490's choir) and used GANG/GROUP backing vocals ("whoa-oh" indie-stadium singalong) instead — keeps the guitar-rock identity clean and the contrast from v490 sharp. Accepted moderate danceability as the trade for the guitar-forward variance.
+
+  HOOK: "I was almost gone and then the walls sang" (hook-writer 20/25) — the room itself echoing back as witness (spatial/involuntary, not a commanded crowd-uplift). Contour: stepped iambic rise "I was al-most gone" (B-B-D#-D#-F#), held "gone," pickup "and then the," octave LEAP to B5 on "WALLS" (anthem peak), "sang" drops a fourth to F# (dominant) held unresolved — a gap the GANG VOCALS fill with "(whoa-oh — walls sang)". Narrative ties the walls throughout ("the walls were the only ones who knew"; "Some things only bare walls know").
+
+  ARCHITECTURE — QUIET-LOUD-QUIET dynamic + NO-COMEDOWN double final (no modulation): hushed dry close-mic verse → EXPLOSIVE fuzzy-guitar-wall + gang-vocal chorus (the classic indie/grunge dynamic lever) → 2nd hushed verse → chorus → STRIPPED bare bridge (clean guitar + naked vocal, doubt returns — NOT silence) → a NO-COMEDOWN DOUBLE final chorus that stays at max + driving outro. Climax is dynamic/arrangement, NO key change (deliberately dropped the researcher's suggested half-step lift, a penalized template).
+
+  DURATION LEVER: the stripped bridge + the doubled final chorus + full outro + full sung arc; kept live throughout (the bridge is stripped, not silent — no truncation risk).
+
+  INSTRUMENTS: jangly clean electric guitar (verse) → stacked fuzzy guitar wall (chorus) + driving electric bass + live rock drums + gang backing vocals. Guitar-primary (guitar-rock is a fresh lane vs the v483 shoegaze feedback-wall — this is jangly/anthemic, a different use). BPM 127 (novelty gap 274, near-virgin) and B major (novelty gap 31, bright anthemic — breaks the recent minor run) from the novelty surface, avoiding all recent keys/tempos.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/guitar/electric-guitar/bass/drums (all core). Excludes synths/electronic-drums/EDM/trap + metal/screamo (keeps it indie-rock, not metal) + gospel-choir (to keep gang vocals, not a choir). English, no place-names.
+
+  Style char count: 943.
+
+tags:
+  - indie-rock
+  - anthemic
+  - confessional
+  - male-vocal
+  - gang-vocals
+  - 127bpm
+  - b-major
+  - jangly-electric-guitar
+  - fuzzy-guitar
+  - electric-bass
+  - live-rock-drums
+  - quiet-loud-dynamic
+  - no-comedown-double-final
+  - no-modulation
+  - cathartic
+  - defiant-hopeful
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

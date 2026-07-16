@@ -505,6 +505,7 @@ mindmap
 | 488 | Dissolve488 | uplifting vocal trance DOUBLE-DROP (breakdown->drop x2, 2nd bigger with theremin-lead solo breakdown; drop is climax, no key change); lush breakdowns (no silence) + full sung arc drove 4:37/4:22 | E minor | 135 | layered supersaw pads + theremin-sine lead + plucky arpeggio (over four-on-the-floor kick, sidechained bass & white-noise risers) |
 | 489 | Worry489 | P-funk continuous communal build (layering, never strips) + mid-song talkbox-solo feature -> max-density chant climax (no key change); heavy-coat extended metaphor, call-and-response | B-flat minor (Dorian) | 107 | slapped funk bass + wah guitar + talkbox (three catalog-first timbres, over warm organic drums & staccato horn hits) |
 | 490 | Porch490 | secular gospel-pop shout-section energy-shift (mid-song double-time praise-break -> max-density choir shout; density climax, no key change); belt + call-response choir, full chorus text each pass | C major | 111 | Hammond B3 organ + gospel grand piano + hand-clap/tambourine groove (over walking bass, live drums & call-response choir) |
+| 491 | Walls491 | anthemic indie-rock quiet-loud-quiet dynamic + no-comedown DOUBLE final chorus (stripped bridge, then sustained max; density/dynamic climax, no key change); drove 4:14/4:36 | B major | 127 | jangly clean -> stacked fuzzy electric guitar wall + driving electric bass + live rock drums (with gang whoa-oh backing vocals) |
 
 ## Next-cycle priorities
 
