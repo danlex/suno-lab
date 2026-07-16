@@ -504,6 +504,7 @@ mindmap
 | 487 | Drum487 | classic 70s Afrobeat congregation-accumulation (leader-alone -> group -> horns -> clavinet stack, never strips) with arrangement-density climax (no key change); mid-song clavinet+guitar groove feature + full lyrical arc drove 3:21/4:01 | D minor | 117 | talking-drum/congas polyrhythm + baritone/tenor sax horn section + clavinet (catalog-first) over walking bass & funky rhythm guitar |
 | 488 | Dissolve488 | uplifting vocal trance DOUBLE-DROP (breakdown->drop x2, 2nd bigger with theremin-lead solo breakdown; drop is climax, no key change); lush breakdowns (no silence) + full sung arc drove 4:37/4:22 | E minor | 135 | layered supersaw pads + theremin-sine lead + plucky arpeggio (over four-on-the-floor kick, sidechained bass & white-noise risers) |
 | 489 | Worry489 | P-funk continuous communal build (layering, never strips) + mid-song talkbox-solo feature -> max-density chant climax (no key change); heavy-coat extended metaphor, call-and-response | B-flat minor (Dorian) | 107 | slapped funk bass + wah guitar + talkbox (three catalog-first timbres, over warm organic drums & staccato horn hits) |
+| 490 | Porch490 | secular gospel-pop shout-section energy-shift (mid-song double-time praise-break -> max-density choir shout; density climax, no key change); belt + call-response choir, full chorus text each pass | C major | 111 | Hammond B3 organ + gospel grand piano + hand-clap/tambourine groove (over walking bass, live drums & call-response choir) |
 
 ## Next-cycle priorities
 
