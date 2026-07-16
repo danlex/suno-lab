@@ -1,0 +1,103 @@
+name: "saltwater-v501"
+version: 501
+title: "Saltwater501"
+instrumental: false
+vocal_gender: male
+
+style: "Warm conscious roots reggae with deep dub treatment, slow and unhurried. One-drop riddim at 77 BPM in G major: kick on beat 3, ghosted beat 1, hi-hats light. Deep melodic bass carries the chord movement — the harmonic hero. Offbeat staccato skank guitar locks the pocket. Hammond organ bubbles on the offbeats. Warm flugelhorn brass stabs lift the chorus, sharing the sustained E4 with the baritone lead on the hook. Warm analog dub mix with spring reverb on vocal lines, tape-delay echoes spiraling wide, deep bass in the stereo field. Raspy male baritone lead, soulful and genuinely sung, phrasing just behind the beat — grounded and wise. Mid-song dub breakdown: one-drop and bass stay alive, spring reverb opens the top layers into spacious echo, the riddim never stops. Full band floods back for the final chorus at peak density. Live-groove outro, controlled close. No rock band, no EDM, no trap, no four-on-the-floor, no orchestral strings."
+
+lyrics: |
+  [Intro: melodic bass and one-drop drums, skank and organ enter, no vocal, 8 bars]
+
+  [Verse 1: raspy baritone over skank and organ bubble, chord movement G–C–Am–D, 16 bars]
+  I have walked through the kind of weather
+  That bends the tallest standing tree
+  I have held on past the breaking
+  I have learned what it costs to be free
+  Every wound that the tide delivered
+  Left a lesson underneath
+  What the water took, the water gave back
+  Written in the salt and the deep
+
+  [Chorus: flugelhorn brass stabs, shared E4 on the hook, baritone rises into the phrase, 8 bars]
+  Salt water taught me how to float (float on)
+  Not to fight what I cannot hold (oh)
+  I came up breathing, strong and whole
+  Salt water taught me how to float
+
+  [Verse 2: baritone, skank and organ, chord movement adds Em–Bm pivot, 16 bars]
+  I have lost more than I can number
+  I have mourned what I thought I'd keep
+  But there is a kind of knowing
+  Only born in the dark and the deep
+  Every scar holds a line of wisdom
+  Every storm left a gift behind
+  What I thought was meant to sink me
+  Brought me closer to my own mind
+
+  [Chorus: full band, flugelhorn answering the hook, organ lifting, 8 bars]
+  Salt water taught me how to float (float on)
+  Not to fight what I cannot hold (oh)
+  I came up breathing, strong and whole
+  Salt water taught me how to float
+
+  [Dub Breakdown: one-drop and melodic bass continue unbroken; skank guitar fades to spring-reverb echoes; tape-delay throws isolated vocal shards into the space; Hammond swells slow and wide; 16 bars of textured open riddim]
+  (float on)
+  (float on)
+  (how to float)
+
+  [Final Chorus Flood-Return: full band floods back — flugelhorn stabs, organ, skank all return at once; baritone warm and full; density peak, no key change, 16 bars]
+  Salt water taught me how to float (float on)
+  Not to fight what I cannot hold (oh)
+  I came up breathing, strong and whole
+  Salt water taught me how to float
+  Salt water taught me how to float (float on)
+  Every wave was a way to grow (oh)
+  I came up breathing, I let go
+  Salt water taught me how to float
+
+  [Outro: one-drop, bass, and skank hold the pocket; organ fades last; controlled close, not cold stop, 8 bars]
+
+  [End]
+
+exclude_styles: "rock band, electric guitar solo, EDM, trap, four-on-the-floor kick, dancehall digital, reggaeton, orchestral, new age, world music fusion, electronic synth lead, lo-fi beats, jazz fusion, Arabic scales, free jazz, atonal, choir, pipe organ"
+
+notes: |
+  v501 TOURNAMENT WINNER (inline-judged ~83/100; TIED with sibling candidate B "continuous-riddim call-and-response + organ/flugelhorn feature + harmony-stack climax" also ~83 — tiebroken to A on two lane-specific factors: (1) CONCEPT FIDELITY — the lane is conscious roots DUB, and A features the genre-defining dub breakdown [riddim held, top layers opened into spring-reverb/tape-delay space] while B is roots-reggae with only light dub FX and no real dub section; (2) DURATION SAFETY at slow 77 BPM — A's arc is 96 bars with fully separated choruses + a doubled 8-line final chorus vs B's 80 bars with the hook embedded in verses. B's call-and-response communality was genuinely strong [D2 edge] but A better delivers the dub concept + is the safer duration bet). Lane: CONSCIOUS ROOTS REGGAE + DUB — never used as a vocal lane in v462-v500; warm/low/spacious/hypnotic MALE baritone — strong contrast to v500's fast euphoric female eurodance.
+
+  HIGH VARIANCE: warm raspy grounded MALE BARITONE (roots, just-behind-the-beat — distinct from every recent male: Ethio-jazz tenor v499, afroswing v497, bossa croon v495), slow hypnotic 77 BPM one-drop (breaks from the recent 139/85/126/93/131 cluster), G MAJOR (warm/uplifting — a deliberate key-color RESET to major after four straight minors v497-v500, novelty gap 33), warm analog dub production. Vocal-gender alternation M/F held across v477-v501 (v500 female → v501 male).
+
+  HOOK: "Salt water taught me how to float" (hook-writer 21/25) — hardship (the sea, hard times) reframed as TEACHER not enemy; buoyancy earned through endurance. Contour: laid-back triplet push on "SALT wa-ter TAUGHT me" across the offbeat skanks, then a sustained rising major sixth (B3->E4, held) on "HOW to FLOAT" with the bass sliding G->D underneath for a buoyant swell; the flugelhorn sustains the shared E4 (voice + brass unison). Wise developed verses: "What I thought was meant to sink me / Brought me closer to my own mind."
+
+  ARCHITECTURE — classic roots verse/chorus, textured dub breakdown → flood-return climax (non-modulation): one-drop + melodic bass intro → V1 → brass-lift chorus (hook, flugelhorn shares E4) → V2 → chorus → textured [Dub Breakdown] (one-drop + melodic bass CONTINUE unbroken; skank fades to spring-reverb echoes; tape-delay on vocal shards; Hammond swells; 16 bars — the riddim NEVER stops, NOT silence; duration lever + the genre-defining dub moment) → doubled FINAL CHORUS flood-return (full band back at once, density peak, no key change) → live-groove outro (riddim in the pocket, controlled close — NO cold stop). Dropped any half-step lift.
+
+  DURATION GUARD (learnings): full melodic sung arc (two 8-line verses + three choruses, final doubled to 16 bars = 96 total bars) + a textured non-silent dub breakdown + a live-groove no-cold-stop outro. Slow 77 BPM caps ~3:30 (accepted; emotional density over bar arithmetic; the fuller 96-bar arc is the lever).
+
+  INSTRUMENTS: ONE-DROP drums (kick on 3, ghosted 1) + deep MELODIC BASS (harmonic hero) + offbeat staccato SKANK GUITAR + HAMMOND organ bubble + warm FLUGELHORN brass stabs (novelty gap 18, folded in as the warm/lyrical brass voice) + dub spring-reverb/tape-delay. BPM 77 (novelty gap 308) and G major (novelty gap 33) from the novelty surface; dropped the modulation pair (non-modulation).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/skank-guitar/bass/organ/flugelhorn/drums (all core). "electric guitar solo" excluded ≠ the offbeat skank rhythm guitar (kept positive); "electronic synth lead" fine (no synth in roots dub); "Arabic scales" = standard-tuning guard. Excludes EDM/trap/four-on-the-floor/reggaeton/dancehall-digital drift. English only, no place-names, no nationality references, no religion-specific language (no jah/babylon/rasta).
+
+  Style char count: 947.
+
+tags:
+  - roots-reggae
+  - dub
+  - conscious-reggae
+  - 77bpm
+  - g-major
+  - one-drop
+  - melodic-bass
+  - hammond-organ
+  - flugelhorn
+  - skank-guitar
+  - spring-reverb
+  - tape-delay
+  - male-baritone
+  - dub-breakdown
+  - flood-return-climax
+  - no-modulation
+  - grounded-hope-scene
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
