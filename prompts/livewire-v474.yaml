@@ -1,0 +1,115 @@
+name: "livewire-v474-candX"
+version: 474
+title: "Livewire474"
+instrumental: false
+vocal_gender: male
+
+style: "Late-night glamour and muscular groove — nu-disco boogie-funk with polished studio mix warmth, total duration around 3:00. Silky male falsetto over a four-on-the-floor kick at 120 BPM in D-sharp minor, single key throughout. Slap bass pops on every off-16th, clavinet chops the 16th-note grid, talkbox answers the vocal with a falling wah arc on beat three. Disco string stabs hit the off-beat; brass stabs punch the downbeat of the next bar. Wide stereo stage on the verse, intimate and coiled. A pre-chorus strip drops to slap bass and kick alone before the full chorus detonates with brass, strings, and falsetto. Mid-song a talkbox-and-brass vamp runs 32 bars — the duration lever. The final chorus adds stacked backing vocals and full brass density; that density lift is the climax, no key change. Warm tape saturation on the low end, tight chamber reverb on brass. No guitars, no EDM synth leads, no trap hi-hats, no pipe organ, no rap vocals."
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, trap, hip hop, rap, house build-drop, drum and bass, reggaeton, new age, experimental noise, free jazz, atonal, cinematic ambient, zen meditation"
+
+lyrics: |
+  [Intro: four-on-the-floor kick alone, then slap bass enters, 4 bars]
+
+  [Verse 1: falsetto close and intimate, clavinet 16th chops, slap bass popping]
+  You move like static in slow motion
+  every room you enter holds its breath
+  I keep my cool but barely — just an ocean
+  of silk disguising live-wire underneath
+
+  [Pre-Chorus Strip: slap bass and kick only, no other instruments, tension coiling]
+  Something in the circuit
+  wants to pull the switch tonight
+
+  [Chorus: full brass stabs, disco string off-beats, falsetto release]
+  Silk on a live wire
+  rising through the voltage in your eyes
+  Silk on a live wire
+  no one leaves this current without fire
+  (yeah) burning in disguise
+
+  [Verse 2: groove returns with clavinet and talkbox answering vocal lines]
+  You wear the night like it was tailored for you
+  every movement costs me something real
+  I run my fingers over what you're after
+  the current tells me everything I feel
+
+  [Pre-Chorus Strip: slap bass and kick only, coiling tighter]
+  Something in the signal
+  breaks before it breaks me right
+
+  [Chorus: brass, string stabs, falsetto at peak]
+  Silk on a live wire
+  rising through the voltage in your eyes
+  Silk on a live wire
+  no one leaves this current without fire
+  (yeah) burning in disguise
+
+  [Talkbox and Brass Solo Vamp: talkbox wah phrases trading with brass over bare groove, 32 bars]
+
+  [Chorus Final: stacked backing vocals enter, full brass and string density]
+  Silk on a live wire
+  rising through the voltage in your eyes
+  Silk on a live wire
+  no one leaves this current without fire
+  and I am burning, burning, burning in your eyes
+
+  [Outro: slap bass fades, kick alone, then silence, 4 bars]
+  [End]
+
+notes: |
+  Nu-disco boogie-funk is a late-1970s/early-1980s revival form that fuses the four-on-the-floor
+  kick and orchestrated string stabs of disco with the slap-bass-driven groove and electric clavinet
+  comping of funk. The talkbox — a resonator tube that routes an instrument's signal through the
+  performer's mouth — acts as the signature color here, a wah-filtered voice answering the falsetto
+  on beat three of each chorus bar. This lane is fresh to the catalog; the catalog has not featured
+  a boogie-funk cycle, a clavinet-led groove, or a talkbox as the signature timbre in any prior
+  version.
+
+  The concept source: high-variance contrast to the recent catalog run; disco/funk family entirely
+  fresh; male falsetto is a new vocal register for the cycle (distinct from every prior male voice:
+  no baritone crooner, rockabilly hiccup, or high-lonesome tenor — this is the smooth, high, groove-
+  riding falsetto of classic boogie-funk). The composer whose work this most closely echoes is not
+  named per blocklist discipline; the lineage runs through the Philly soul and Motown-to-disco bridge.
+
+  Duration strategy: mid-song talkbox-and-brass solo vamp (32 bars, ~30-40 seconds at 120 BPM) is
+  the explicit duration lever, validated by v348/v349 patterns. Final lyric line is late in the arc
+  (~2:40 equivalent). Pre-chorus strip (slap bass + kick only) creates coiled tension before each
+  chorus detonation. Density lift on the final chorus (stacked BVs + full brass density) is the
+  climax — no key change, single key throughout (D-sharp minor). Production tokens used: polished
+  studio mix, wide stereo stage, warm tape saturation, tight chamber reverb.
+
+  Signature elements: slap bass (genre spine, popping on off-16ths), clavinet (16th-note comping,
+  the harmonic engine), talkbox (falling-wah answering phrase on beat three, the unusual color).
+  Disco string stabs on the off-beat; brass stabs on the downbeat of the following bar.
+
+  Hook architecture: 'silk' lands on a slap-bass-attack eighth-note pop at the root; 'on a LIVE—'
+  rises stepwise through the major third across three 16ths locked to the clavinet chop; '—WIRE'
+  launches a full octave leap to the top of the falsetto, held one beat over a string-stab off-beat,
+  then falls a fifth on release; talkbox answers with a falling wah 'yeah' on beat three; brass stab
+  punches the 1 of the next bar.
+
+  Novelty: nu-disco boogie-funk is a fresh genre family for the catalog; talkbox is an unused
+  signature timbre; smooth male falsetto is an unused vocal register; clavinet-led 16th-note comping
+  has not appeared in prior prompts; density-lift climax (no key change) replaces the half-step
+  modulation cliche. BPM 120 in the four-on-the-floor disco band. Style char count: 949.
+
+tags:
+  - nu-disco
+  - boogie-funk
+  - slap-bass
+  - clavinet
+  - talkbox
+  - 120bpm
+  - d-sharp-minor
+  - male-falsetto
+  - four-on-the-floor
+  - disco-strings
+  - brass-stabs
+  - late-night-glamour-scene
+  - new-technique
+  - duration-3min
+  - research-driven
+  - vocal
+  - high-variance-cycle
+  - fresh-genre-family
