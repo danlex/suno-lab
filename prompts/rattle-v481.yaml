@@ -1,0 +1,108 @@
+name: "rattle-v481"
+version: 481
+title: "Rattle481"
+vocal_gender: male
+instrumental: false
+
+style: "Sweat and urgency on a packed dancehall floor — coins rattling in pockets, the whole room lurching on the off-beat — 2-tone ska at 137 BPM in D-flat minor, tight and alive. Polished studio mix of a live band: skank guitar slamming short percussive upstrokes on beats 2 and 4, walking bass anchoring every bar, crisp train-beat snare cracking hard and clean. A punchy horn section — trumpet, trombone, and baritone saxophone — fires countermelodies and unison stabs, the baritone sax answering the hook with a flutter-tongue rattle. Wide stereo stage places the horns left-center-right over warm tape saturation that keeps the guitar grit organic. Vocals: wiry clipped urgent male shout-sing on verses — barked and rhythmic — opening into a melodic chorus the crowd shouts back. Every hit precise, every rest intentional. No synthesizers, no electronic drums, no reggae one-drop, no dub echo, no metal distortion."
+
+lyrics: |
+  [Horn Fanfare: trumpet + trombone + baritone sax blast over bare skank guitar and walking bass, 4 bars]
+
+  [Verse 1: clipped urgent male shout-sing, full tempo, 16 bars]
+  Clock out, count up, nothing left to show
+  Coins in the pocket — hear them rattle as I go
+  Monday bit me hard, Friday let me loose
+  Out on this floor there's nothing left to lose
+
+  Same street, same shoes, same thin excuse
+  They want your back bent and your spine reduced
+  I keep my chin up, keep my feet in time
+  Off-beat's the only thing that's truly mine
+
+  [Chorus: melodic hook, baritone sax rattle answer, horn unison stabs, crowd shout-back, 16 bars]
+  Loose change, loose change — I've got a rattle and a reason
+  (Loose change — loose change!)
+  Something in my pocket for every broken season
+  (Loose change — loose change!)
+  Loose change, loose change — I've got a rattle and a reason
+
+  [Verse 2: shout-sing, same clipped urgency, 16 bars]
+  Floor's packed tight, shoulder to shoulder, heels to wall
+  Every working body, every one who took the fall
+  The horns don't ask you where you're from or what you earn
+  They just demand you move — the only thing to learn
+
+  Rent's due Monday, back's due never
+  We hold this beat together or we fall apart forever
+  Count to two, skank hard, let it go
+  The only thing we own tonight is tempo
+
+  [Chorus: melodic hook, baritone sax rattle answer, horn unison stabs, crowd shout-back, 16 bars]
+  Loose change, loose change — I've got a rattle and a reason
+  (Loose change — loose change!)
+  Something in my pocket for every broken season
+  (Loose change — loose change!)
+  Loose change, loose change — I've got a rattle and a reason
+
+  [Bridge: bass and skank guitar only, single barked line per phrase, no horns, 12 bars]
+  Just the coins — just the beat — just the floor
+  That's enough — that's enough — that's what it's for
+  (Hey!) Hold it down — hold it down
+
+  [Horn Break: trumpet + trombone + baritone sax trading phrases over full skank rhythm section, no vocals, 24 bars]
+
+  [Final Chorus: handclaps added, gang-vocal crowd shout-back at full volume, full horn unison stabs, hard stop on last beat, 20 bars]
+  Loose change, loose change — I've got a rattle and a reason
+  (Loose change — loose change!)
+  Something in my pocket for every broken season
+  (Loose change — loose change!)
+  Every hand clapping, every body on the floor
+  Loose change, loose change — we don't ask for anything more
+  (Loose change!) (Loose change!)
+
+  [End]
+
+exclude_styles: "reggae, dub, one-drop, dancehall vocal, metal, hard rock, distorted guitar, EDM, electronic, synthesizer, trap, hip-hop, ambient, new age, pop ballad, smooth jazz, jazz fusion, Latin, Arabic, world music, cinematic ambient, orchestral, strings section"
+
+notes: |
+  v481 TOURNAMENT WINNER (inline-judged 86/100; narrowly beat sibling candidate B "half-time bluebeat breakdown" at 84 — B had a more distinctive architecture but A's hook realization + class-conscious lyricism are stronger, the binding dimension per feedback_critical_judge). Lane: 2-TONE SKA — never used; a guitar-forward, horn-driven, FAST/energetic swing away from the electronic mid-tempo run (v477-v480). The off-beat SKANK GUITAR is a brand-new timbral anchor for the catalog.
+
+  HIGH VARIANCE vs v480 (warm mid-tempo belt-FEMALE disco-soul): fast 137 BPM, wiry clipped MALE shout-sing, edgy/confrontational mood, live-band 2-tone ska — opposite on tempo, vocal, mood, production era, and form.
+
+  HOOK: "Loose change, loose change — I've got a rattle and a reason" (hook-writer 20/25) — class-specific image (literal coins/margins) fused with onomatopoeia (the rattle IS the skank). Repeated open perfect fifth (Db-Ab) on "loose change, loose change" landing hard on beat 1 against the off-beat skank; baritone-sax flutter-tongue rattle answer; trumpet+trombone unison stab on "reason." Gang-vocal crowd shout-back "(Loose change — loose change!)".
+
+  ARCHITECTURE — classic 2-tone (arrangement-density climax, no modulation): horn fanfare intro -> clipped shout-sing verses -> melodic chorus -> stripped bass+skank bridge (NOT silence) -> lyric-free horn break -> final chorus with handclaps + gang-vocal + full horn unison, hard stop. NO key change (deliberately dropped the novelty-picker's suggested Db-minor->D-minor half-step lift, a penalized template).
+
+  DURATION LEVER: explicit 24-bar lyric-free [Horn Break] (horns trading over the skank) before the final chorus + a full two-verse/chorus arc.
+
+  INSTRUMENTS: off-beat skank guitar (new anchor) + walking bass + crisp train-beat snare + horn section (trumpet + TROMBONE gap ~81 + BARITONE SAX gap ~17 — fresh brass/reed novelty picks). BPM 137 (novelty gap 259) and D-flat minor (novelty gap 116, freshest minor) both from the novelty surface, avoiding all recent keys.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/horns/brass/saxophone/guitar (all core to ska). Excluding electronic/synthesizer/drum-machine is correct — 2-tone ska is a live-band acoustic-electric genre.
+
+  Style char count: 912.
+
+tags:
+  - ska
+  - 2-tone-ska
+  - punk-ska
+  - trumpet
+  - trombone
+  - baritone-saxophone
+  - skank-guitar
+  - walking-bass
+  - horn-section
+  - 137bpm
+  - d-flat-minor
+  - dancehall-scene
+  - male-vocal
+  - shout-sing
+  - working-class-theme
+  - live-band
+  - no-modulation
+  - research-driven
+  - duration-3min
+  - handclap-climax
+  - gang-vocal
+  - new-lane
+  - high-variance

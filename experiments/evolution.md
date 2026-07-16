@@ -495,6 +495,7 @@ mindmap
 | 478 | Nobody478 | smoke-fill held-back groove to density-shift climax (no key change), 24-bar noir sax break duration lever | A-flat minor | 84 | smoky Rhodes + bowed vibraphone + tenor saxophone (over chopped breakbeat & deep sub-bass) |
 | 479 | Concrete479 | reveal-drop (16-bar skeletal grid before topline) to full-grid double-drop climax (no key change), 24-bar instrumental break duration lever | F minor | 123 | hollow off-beat kick + deep sub-bass + acid synth stabs (with handpan shimmer & pitched-down vocal-chop percussion) |
 | 480 | Rooftops480 | groove-first (16-bar Rhodes pocket intro) + gospel BV call-and-response, backing-vocal-wall + horn counter-line density climax (no key change), 24-bar horn/Rhodes break duration lever | E major | 115 | Fender Rhodes + trumpet/horn section + muted funk guitar (over four-on-the-floor & warm bass with string stabs) |
+| 481 | Rattle481 | classic 2-tone arrangement-density climax (horn fanfare -> shout-sing verse -> stripped bridge -> handclap/gang-vocal + full horn unison finale, no key change), 24-bar horn break duration lever | D-flat minor | 137 | off-beat skank guitar + horn section (trumpet/trombone/baritone sax) + walking bass (over crisp train-beat snare) |
 
 ## Next-cycle priorities
 
