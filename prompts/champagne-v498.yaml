@@ -1,0 +1,105 @@
+name: "champagne-v498"
+version: 498
+title: "Champagne498"
+instrumental: false
+vocal_gender: female
+
+style: "Smoky, self-assured electro-swing with a punchy cabaret female belt — clipped, sassy, golden-age swagger colliding with a modern shuffled breakbeat. Live brass section (trumpet, trombone, clarinet, alto sax) blooms over a hard-quantized electronic kick and snare in a driving swung pocket at 126 BPM. Walking upright bass locks the low end with acoustic warmth while the electronic drums snap tight underneath the brass bloom. Punchy club-jazz mix with wide stereo stage and tight close-room brass. The feel is noir-glamour: playful, sharp-tongued, a little dangerous — a woman who chose this bar on purpose. E-flat minor, 126 BPM. Production: acoustic brass bloom riding hard-quantized electronic drums, wide stereo stage, warm upright-bass definition throughout. No rock band, no heavy metal, no EDM festival drop, no dubstep, no orchestral-classical strings."
+
+lyrics: |
+  [Intro: solo clarinet hook over stuttered swing breakbeat, brass silent, 4 bars]
+
+  [Verse 1: cabaret belt over walking bass and shuffled electronic beat, brass comping light]
+  I walked in wearing last night's lipstick on my sleeve
+  The lights were low, the smoke was thick, the crowd knew not to leave
+  I found a stool, I found a stain, I found a familiar face
+  Some things don't need to be explained — I like the taste
+
+  [Pre-Chorus: brass punches accent, bass tightens, belt lifts]
+  They said the top shelf's over there, I said I know
+  I know exactly what I want and where to go
+
+  [Chorus: full brass punch, trumpet stab answers the hook topline, belt peak]
+  Champagne in a dirty glass
+  (hey!)
+  That's how the good ones last
+  Poured too rich for this room
+  Every bubble's got a little bit of gloom
+  Champagne in a dirty glass
+
+  [Verse 2: fuller arrangement, trombone comps under the belt, sax fills]
+  The man beside me ordered neat, the woman ordered ice
+  I ordered mine the way I do — I never order twice
+  The barkeep raised his brow at me, I raised my glass and smiled
+  Expensive taste in borrowed light, been doing it a while
+
+  [Pre-Chorus: belt digs in, brass comps tighten into chorus]
+  They said the top shelf's over there, I said I know
+  I know exactly what I want and where to go
+
+  [Chorus: full brass punch, trumpet stab, sax harmony layer]
+  Champagne in a dirty glass
+  (oh!)
+  That's how the good ones last
+  Poured too rich for this room
+  Every bubble's got a little bit of gloom
+  Champagne in a dirty glass
+
+  [Brass Break: trumpet-led melodic solo trading phrases with clarinet and alto sax over walking upright bass and shuffled electronic shuffle groove, trombone bloom on turnarounds, no vocals, 16 bars]
+
+  [Final Chorus: full brass-section swell, all layers in, belt at peak power, density climax]
+  Champagne in a dirty glass
+  (hey! oh!)
+  That's how the good ones last
+  Poured too rich for this room
+  Every bubble's got a little bit of gloom
+  Champagne in a dirty glass
+  (yeah — that kind of glass)
+
+  [Outro: shuffle groove stays alive, walking bass holds, trumpet tags the hook phrase twice, brass decay, controlled close — no cold stop]
+
+  [End]
+
+exclude_styles: "rock band, heavy metal, EDM festival drop, dubstep, orchestral-classical strings, acoustic guitar solo, pop ballad, rap, hip-hop, country, reggae, bossa nova, world music, tribal, new age, experimental noise, free jazz, atonal, pipe organ, synthesizer lead, ambient drone"
+
+notes: |
+  v498 TOURNAMENT WINNER (inline-judged ~86/100; sibling candidate B "call-and-response big-band + lyric-free brass shout-chorus climax" scored marginally higher on paper ~87 for distinctiveness/danceability/frisson, but A won on two tiebreaks: (1) DURATION SAFETY — B leaned on short call-response lines + a long lyric-free shout chorus + a bare "(hey!)" intro = less sung content, the same leaner pattern that rendered v497 short at 2:59; A carries two full 4-line verses + pre-choruses + full choruses, the fuller arc that cleared 4:03 at v496; (2) RENDER PREDICTABILITY — B encoded the brass answers as onomatopoeic vocable ad-libs "(bah-dap!)/(bap!)" that Suno may render as vocal scat rather than actual brass, while A's brass break is cleanly described as instrumental. A also writes the strongest narrative + a hook chorus that develops the metaphor). Lane: ELECTRO-SWING — never used in v462-v497; bold/brassy/danceable FEMALE cabaret belt — strong contrast to v497's warm mid-tempo male afroswing.
+
+  HIGH VARIANCE: punchy brassy FEMALE cabaret BELT (sassy/clipped — distinct from every recent female: house diva v496, hyperpop v494, intimate soul v492), driving swung 126 BPM electro-swing (breaks from the recent 93/131/73/153/101 cluster), E-flat MINOR (smoky noir, brass-idiomatic flat key, novelty gap 31), live-brass-over-electronic-drums production. Vocal-gender alternation M/F held across v477-v498 (v497 male → v498 female).
+
+  HOOK: "Champagne in a dirty glass" (hook-writer 22/25) — a luxury-meets-seedy collision image (she could afford a clean glass; she picked this bar on purpose). Contour: five-syllable swung triplet pair landing on beats 1-and-a 2-and; "GLASS" held as a clipped flat-5 (B-flat over Eb minor, the tritone) cut short on beat 3; a trumpet stab answers on the next downbeat — voice clips, brass confirms. Chorus develops the metaphor: "That's how the good ones last / Poured too rich for this room / Every bubble's got a little bit of gloom." Narrative: "I ordered mine the way I do — I never order twice"; "Expensive taste in borrowed light, been doing it a while."
+
+  ARCHITECTURE — classic verse/chorus swing song form, density climax (non-modulation): solo clarinet-hook intro → V1 (belt over walking bass + shuffle, light brass comp) → pre-chorus → brass-punch chorus (hook, trumpet stab) → V2 → pre-chorus → chorus → described lyric-free [Brass Break] (trumpet-led, trading with clarinet/sax over walking bass, 16 bars — textured, NOT empty; duration lever) → final chorus DENSITY climax (full brass-section swell, all layers, belt peak) → live-groove outro (shuffle + walking bass + trumpet tag, NO cold stop). Dropped the penalized half-step lift.
+
+  DURATION GUARD (learnings): full melodic sung arc (two 4-line verses + two pre-choruses + three choruses) + a described textured brass break + a live-groove no-cold-stop outro (the researcher's "beat-stop fermata" was NOT taken as an ending — the song closes on a live groove).
+
+  INSTRUMENTS: live BRASS section (trumpet [melodic hero], trombone, clarinet, alto sax) + shuffled swing breakbeat (hard-quantized electronic kick/snare) + walking UPRIGHT BASS + brass-bloom-vs-electronic-drums collision. BPM 126 (novelty gap 55, classic electro-swing pocket) and E-flat minor (novelty gap 31, brass-idiomatic) from the novelty surface; dropped its nyckelharpa suggestion (electro-swing is brass-driven).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/brass/trumpet/trombone/clarinet/saxophone/upright-bass/electronic/drums (all core). "synthesizer lead" excluded = prevents synth-lead drift while brass stays the lead + electronic drums kept. Excludes rock/metal/EDM-drop/dubstep/orchestral + drift genres. English only, no place-names, no artist names.
+
+  Style char count: 861.
+
+tags:
+  - electro-swing
+  - cabaret
+  - female-vocal
+  - female-belt
+  - brass-section
+  - trumpet
+  - trombone
+  - clarinet
+  - alto-sax
+  - upright-bass
+  - electronic-drums
+  - 126bpm
+  - eb-minor
+  - noir-cabaret
+  - speakeasy-scene
+  - verse-chorus-form
+  - brass-break
+  - density-climax
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
