@@ -1,0 +1,109 @@
+name: "upload-v494"
+version: 494
+title: "Upload494"
+instrumental: false
+vocal_gender: female
+
+style: "Candy-bright and deeply uncanny, emotion so hot it pixelates — every feeling uploaded past the red line and turned to data. Hard-tuned female lead vocal riding a genuine singable melodic hook; formant-shifted vocal layers stacking in dissonant shimmer. Supersaw hyper-synth leads through a hyper-compressed stereo field, deliberately broken glitch-drum patterns stuttering beneath, heavy 808 sub-bass punching low. Pitched vocal chops cascade on the hook's held note, diced into a descending glitch fill. Polished studio mix at the surface, wrong-pitch artifacts and crushed transients underneath. A major, 153 BPM. Opens sparse — processed vocal over a stuttered kick cell — then a crystalline pre-chorus strips distortion to reveal the pure sung line; the full maximalist chorus crashes every layer at once. Second drop raises density, all A major, no modulation. No guitars, no live band, no acoustic instruments, no orchestral strings, no jazz."
+
+lyrics: |
+  [Glitch-Cell Intro: processed hard-tuned vocal loop, stuttered synth kick, sparse, 8 bars]
+  (ache — ache — ache — uploading)
+
+  [Verse 1: supersaw bed low in the mix, glitch drums ticking, vocal clear and close]
+  I typed it out and hit the send
+  Watched the progress bar extend
+  Every pixel of the pain
+  Moving through a cable vein
+  Zipped and tagged and labeled clean
+  Feeling filed in a machine
+  Thought if I could move it out
+  I could finally live without
+
+  [Pre-Chorus: distortion drops, pure sung line exposed over a single pad, crystalline]
+  But the folder's full of me
+  And the cloud won't set me free
+
+  [Chorus: every layer crashes — supersaw, glitch drums, 808, pitched chop cascade on "ache"]
+  I uploaded the ache
+  (ache-ache-ache)
+  Sent it over the break
+  Watched it buffer and shake
+  I uploaded the ache
+  (ache-ache-ache)
+  Still it won't go away
+  It just plays and replays
+  I uploaded the ache
+
+  [Verse 2: 808 more present, glitch drums denser, vocal layered with formant-shifted doubles]
+  I compressed it down to 4K
+  Renamed the file "okay"
+  Drag and drop and let it go
+  Watch the spinning wheel below
+  But the data's in my chest
+  Screaming through the manifest
+  Can't delete what I don't own
+  Every byte right to the bone
+
+  [Pre-Chorus 2: same crystalline strip, one beat of held breath before the drop]
+  But the folder's full of me
+  And the cloud won't set me free
+
+  [Synth-Arp and Vocal-Chop Vamp: lyric-free — pitched synth arpeggios, layered vocal chops cascading, no new sung lines, 24 bars]
+  (ache-ache — ache-ache — uploading)
+  (ache — ache — ache — ache)
+
+  [Final Chorus — Second Drop: maximum density, every layer louder and more saturated, same A major hook, no key change]
+  I uploaded the ache
+  (ache-ache-ache)
+  Sent it over the break
+  Watched it buffer and shake
+  I uploaded the ache
+  (ache-ache-ache)
+  Still it won't go away
+  It just plays and replays
+  I uploaded the ache
+  (ache — ache — ache — ache — uploading — ache)
+
+  [Outro: glitch drums stutter to silence, pitched chop of "ache" loops and decays, 4 bars]
+  [End]
+
+exclude_styles: "rock, live band, acoustic guitar, acoustic instruments, orchestral, strings section, jazz, folk, acoustic pop, lo-fi, ambient, new age, zen meditation, EDM festival drop, trap, hip hop, rap, country, R&B smooth, cinematic ambient, world music, tribal, ethnic"
+
+notes: |
+  v494 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate B "vocal-chop-as-drop / escalating-shatter" at ~78 decisively on the DURATION axis — B leaned on a 3-line verse, 2-line couplets, and an EMPTY [Glitch Breakdown] bracket, exactly the sparse/short-render pattern our learnings flag at fast tempo; A carries a full sung arc + a textured 24-bar vamp and writes the conceit far more vividly). Lane: HYPERPOP maximalist glitch-pop — never used; fast/edgy/synthetic FEMALE — maximum contrast to v493's bright mid-tempo acoustic MALE cumbia.
+
+  HIGH VARIANCE: hard-tuned pitched FEMALE (candy-bright, synthetic — not the intimate soul female of v492, not a belter), fast 153 BPM (breaks far from the recent 91/101/111/127 cluster), A MAJOR (bright candy key — breaks toward major), all-synthetic hyper-compressed production. Vocal-gender alternation M/F held across v477-v493 (v493 male → v494 female).
+
+  HOOK: "I uploaded the ache" (hook-writer 22/25) — pain as digital file-transfer; the PRODUCTION is the lyric meaning (the held "ache" bends a semitone flat and is diced by pitched vocal chops into a descending F#-F-E-Eb glitch cascade — the sound of a feeling being uploaded past the red line). Contour: A4 pickup → A4 "load" → B4 "ed" → C#5 "the" → leap to F#5 on "ache" (bittersweet sixth), then the semitone bend + chop cascade. Vivid conceit lines: "compressed it down to 4K / renamed the file okay"; "the data's in my chest / screaming through the manifest"; "can't delete what I don't own."
+
+  ARCHITECTURE — classic hyperpop strip→crash, density-peak / second-drop climax (NO modulation): glitch-cell intro → verse → crystalline pre-chorus (strips distortion to expose the pure sung line, max contrast) → maximalist chorus-crash (all layers + chop cascade) → verse 2 (denser) → pre-chorus 2 → lyric-free [Synth-Arp and Vocal-Chop Vamp] (24 bars, duration lever) → final chorus SECOND DROP (max density, same A major, no key change). Deliberately dropped the penalized half-step-lift; climax is density + saturation.
+
+  DURATION LEVER: the 24-bar lyric-free textured vamp (pitched arps + chop cascade, texture stays alive — no dissolution) + a melodically full sung arc (two 8-line verses, double pre-chorus, extended final chorus). Fast 153 BPM sits in the proven band where bar counts translate to wall-clock.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/electronic/synthesizer/808/autotune/pitch-correction (all core to hyperpop). Excludes only drift genres (rock/live-band/acoustic/orchestral/jazz/folk/country/rap) + ambient/new-age classifier drift + EDM-festival-drop. English only, no place-names.
+
+  Style char count: 948.
+
+tags:
+  - hyperpop
+  - glitch-pop
+  - maximalist
+  - hard-tuned-vocal
+  - female-vocal
+  - supersaw
+  - 808
+  - glitch-drums
+  - pitched-vocal-chops
+  - formant-shift
+  - 153bpm
+  - a-major
+  - candy-bright
+  - uncanny
+  - digital-emotion
+  - second-drop-climax
+  - no-modulation
+  - duration-lever-vamp
+  - research-driven
+  - new-lane
+  - high-variance

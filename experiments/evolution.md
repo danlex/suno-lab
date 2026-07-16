@@ -508,6 +508,7 @@ mindmap
 | 491 | Walls491 | anthemic indie-rock quiet-loud-quiet dynamic + no-comedown DOUBLE final chorus (stripped bridge, then sustained max; density/dynamic climax, no key change); drove 4:14/4:36 | B major | 127 | jangly clean -> stacked fuzzy electric guitar wall + driving electric bass + live rock drums (with gang whoa-oh backing vocals) |
 | 492 | Grain492 | alt-R&B mid-song BEAT-SWITCH (groove flips to fuller/deeper pocket, recontextualizes the same hook; structural pivot, no key change); glitch-laced texture kept live, post-switch verse ties the flip to the emotion | C-sharp minor | 91 | warm Wurlitzer electric-piano + soft celesta shimmer + deep sub-bass (over stuttered glitchy programmed percussion & mist string pads, stacked BVs) |
 | 493 | Night493 | classic cumbia call-and-response, density-peak climax (doubled clave + full percussion + accordion-doubled melody + falsetto ad-libs, no key change); 24-bar accordion-solo duration lever; drove 3:31/3:43 | E-flat major | 101 | lead accordion (catalog-first melodic lead) + guiro + congas/3-2 clave (over walking electric bass & cornet stabs) |
+| 494 | Upload494 | hyperpop maximalist glitch-pop, strip-to-crash + second-drop density climax, hook 'I uploaded the ache' with production-as-meaning pitched vocal-chop cascade | A major | 153 | hard-tuned female vocal + supersaw hyper-synth + 808 sub-bass (glitch drums, formant-shifted vocal layers, pitched chops) |
 
 ## Next-cycle priorities
 
