@@ -1,0 +1,78 @@
+name: "Halflight476"
+version: 476
+style: "Shoegaze post-punk anthem with danceable motorik energy, raw intimate female voice cutting through guitar density, total duration around 3:00. Layered feedback-drenched electric guitars flood every frequency with reverb-soaked harmonic haze — they are the structural instrument. Driving post-punk bass guitar locks the motorik four-on-the-floor kick. A shimmering glockenspiel accent pierces the haze with cold bell clarity. The voice is melodic and present, slightly raw, never buried — dreamy precision over the guitar wall. Wide stereo stage, polished studio mix. F-sharp major, 120 BPM. Arc: guitar-wall intro, intimate stripped verse, thickened second chorus, lyric-free mid-song feedback vamp where guitars swell to peak saturation, filtered dip with low drone, then full-density chorus flood as climax — no key change, the density is the arrival. No synthesizers, no drum machines, no programmed beats, no auto-tune, no EDM drops."
+title: "Halflight476"
+lyrics: |
+  [Motorik Guitar-Wall Intro: feedback guitars surge, bass locks kick, 8 bars]
+
+  [First Chorus: full guitar density, voice present and raw]
+  I only breathe in borrowed light
+  The kind that falls when no one's watching
+  I hold it close, I hold it tight
+  Until the morning comes for something
+
+  [Stripped Verse: bass and reverb arpeggio only, voice intimate]
+  I traced the seams along the wall
+  Where the paint had started peeling
+  You left the window cracked in fall
+  I still remember how that ceiling
+
+  [Stripped Verse Continued]
+  Looked in the half-dark, half-awake
+  The kind of light that rooms can borrow
+  I pressed my ear against the ache
+  And couldn't tell the night from sorrow
+
+  [Second Chorus: stacked guitars, thicker density]
+  I only breathe in borrowed light
+  The kind that falls when no one's watching
+  I hold it close, I hold it tight
+  And something in the haze keeps knocking
+
+  [Lyric-Free Feedback Vamp: guitars swell to peak saturation, 24 bars]
+
+  [Filtered Dip: low guitar drone and bass only, breath of near-silence]
+
+  [Final Chorus Density Flood: full guitar wall returns at maximum density]
+  I only breathe in borrowed light
+  The rooms we held dissolve by morning
+  I keep the dark pressed to my side
+  And call the halflight home without warning
+
+  [Outro: feedback fades to single guitar tone, 4 bars]
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, synthesizer, synth-pop, EDM, trap, hip-hop, rap, lo-fi, metal, pipe organ, electronic, new age, zen meditation, free jazz, atonal, experimental noise, drum machine, programmed drums, psychedelia, acoustic only, country, R&B, soul"
+notes: |
+  Shoegaze is a guitar-centric subgenre defined by dense, reverb-flooded electric guitar layers that create a harmonic wall of texture — the voice sits in rather than above the mix, though here the singer is intentionally present and raw-cut to stay intelligible. Post-punk provides the rhythmic spine: motorik four-on-the-floor kick, locked bass, forward-driving tempo. The researcher's concept: a danceable-edgy guitar-wall anthem as high-variance contrast to the catalog's recent synth-heavy run, with a shimmering glockenspiel accent as the one unexpected timbral pierce.
+
+  This echoes the guitar-density approach of 1990s UK shoegaze artists without naming them — the key innovation is using guitar saturation density, rather than key modulation or silence, as the climax mechanism. The density-flood finale replaces the overused silence-gate-plus-half-step template.
+
+  Duration strategy: parametrized bracket labels with explicit architectural metatags (stripped verse, feedback vamp, filtered dip, density flood); mid-song lyric-free feedback vamp of ~24 bars at 120 BPM is the primary duration lever targeting 3:00; final lyric line pushed to ~2:40 to hold the arc; wide stereo stage + polished studio mix as production tokens; 120 BPM in the proven 115-130 band.
+
+  No body/spectral trio analysis applies — this is a guitar-forward vocal track, not an instrumental trio composition. Core instruments: layered feedback-drenched electric guitars (structural harmonic architecture), driving post-punk bass guitar (rhythmic anchor), motorik drum kit (four-on-the-floor engine), glockenspiel accent (timbral pierce).
+
+  Hook spec: "I only breathe in borrowed light" — ascending stepwise approach landing on an unresolved sixth held on 'light', the ache never resolving. The held note sits one step below tonic F-sharp and does not cadence. Second chorus line varied to avoid repetition of "knocking/watching."
+
+  Novelty claims: shoegaze/post-punk is a fresh lane in this catalog (contrast to electronic/synth cycles); guitar-wall as structural instrument rather than backing texture; glockenspiel as the sole timbral outlier; density-flood climax (no key change, no silence gate); 120 BPM motorik groove.
+
+  Style char count: 937.
+tags:
+  - shoegaze
+  - post-punk
+  - electric-guitar
+  - bass-guitar
+  - motorik-drums
+  - glockenspiel
+  - 120bpm
+  - f-sharp-major
+  - halflight-scene
+  - guitar-wall-climax
+  - density-flood
+  - feedback-vamp
+  - raw-female-vocal
+  - duration-3min
+  - research-driven
+  - high-variance-contrast
+  - new-technique

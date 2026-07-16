@@ -490,6 +490,7 @@ mindmap
 | 473 | Borrowed473 | sung-chorus/rapped-verse split; final chorus density+register lift with muted trumpet (no modulation) | E-flat major | 88 | walking upright bass + Wurlitzer + cor anglais |
 | 474 | Livewire474 | pre-chorus strip into chorus; final-chorus BV/brass density lift (no modulation) | D-sharp minor | 120 | slap bass + clavinet + talkbox |
 | 475 | Automatic475 | pre-chorus strip; final-chorus arpeggio/ondes density lift (no modulation) | B minor | 122 | sawtooth synth bass + retro drum machine + ondes martenot |
+| 476 | Halflight476 | feedback density-flood climax after filtered dip (no modulation, no silence-gate) | F-sharp major | 120 | layered feedback electric guitars + driving bass + motorik drums (glockenspiel accent) |
 
 ## Next-cycle priorities
 
