@@ -1,0 +1,115 @@
+name: "night-v493"
+version: 493
+title: "Night493"
+instrumental: false
+vocal_gender: male
+
+style: "Warm tropical night air and a communal dance floor alive with syncopated joy — bright cumbia with a bittersweet ache just beneath the celebration. Polished studio mix with warm tape saturation and a wide stereo stage that keeps every percussion voice distinct. A slightly nasal lead accordion stabs the offbeat melody like a heartbeat the whole room shares, guiro scraping the steady pulse, congas and a lopsided 3-2 clave driving the groove from below, a warm walking electric bass anchoring every step, and short cornet brass stabs adding color on the and-of-four. A warm male tenor sings the melody genuinely — call answered by a small crowd group response, bright and celebratory with a shadow of something borrowed and owed. The dance is the inheritance. E-flat major, 101 BPM. No guitars, no rock drums, no pipe organ, no synthesizers, no reggaeton."
+
+lyrics: |
+  [Guiro and Conga Intro: guiro scrapes the steady pulse alone, congas enter bar 3, groove locks in without melody, 8 bars]
+
+  [Accordion Hook Theme: accordion states the offbeat stab melody over the full rhythm bed, cornet answers on the and-of-four, 8 bars]
+
+  [Verse 1: warm male tenor enters over quiet bass and brushed conga, accordion drops to soft chording, 16 bars]
+  I found this corner where the light bends low
+  And the floor still knows the step my father showed
+  You come in tired, you go home whole
+  Every borrowed beat becomes a road
+
+  We did not build this night, we only held it
+  Like a jar of water passed hand to hand
+  And the ones who drank before us — they compelled it
+  To outlast everything they had planned
+
+  [Chorus: full accordion stabs, congas and clave at full strength, tenor call with crowd group response, 16 bars]
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Carry the ache inside the beat
+  Let the guiro be your heartbeat
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+
+  [Verse 2: tenor fuller, accordion adds a counter-stab, walking bass more forward, 16 bars]
+  You brought the sorrow that you could not name
+  But the clave will find a use for it
+  We have all walked in wearing something lame
+  And left it on the floor and moved through it
+
+  The brass will catch you on the upbeat fall
+  The accordion will say the word you missed
+  And the crowd that answers back will hold you all
+  In something older than a promised list
+
+  [Chorus: call-and-response hook, full band, cornet sting on the final beat, 16 bars]
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Carry the ache inside the beat
+  Let the guiro be your heartbeat
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+
+  [Accordion Solo: accordion improvises over the clave groove and walking bass, guiro prominent, no lyrics, cornet answers every 4 bars, 24 bars]
+
+  [Final Chorus: doubled clave, full percussion surge, accordion doubled on melody, falsetto ad-libs over crowd response, density peak in E-flat major, 24 bars]
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Carry the ache inside the beat
+  Let the guiro be your heartbeat
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+  Whose night is this?
+  (We borrowed it — give it back dancing!)
+
+  [Outro: groove winds down, guiro and bass alone, accordion one last offbeat stab, 8 bars]
+
+  [End]
+
+exclude_styles: "reggaeton, salsa, vallenato, Latin trap, EDM, rock, metal, electronic dance, lo-fi, new age, free jazz, atonal, microtonal, pipe organ, acoustic guitar, ambient, chillout, cinematic ambient, world music, tribal, Arabic"
+
+notes: |
+  v493 TOURNAMENT WINNER (inline-judged 86/100, TIE with sibling candidate B "continuous crowd-growth build" also 86; tiebroken to A on the deepest writing [generational borrowed-night imagery], a slightly richer hook extension, and a fuller arc that better insures the ~3:00+ render at slow 101 BPM — B's leaner 12-bar choruses risked a shorter render). Lane: TROPICAL CUMBIA — never used; bright, syncopated, danceable, communal — max contrast to v492's slow moody electronic glitch-soul.
+
+  HIGH VARIANCE: bright Latin dance (accordion timbre — never before a catalog lead), warm MALE TENOR sung call-and-response, buoyant danceable mood, E-flat MAJOR (breaks the recent minor-heavy run). Vocal-gender alternation M/F held across v477-v493.
+
+  HOOK: CALL "Whose night is this?" / RESPONSE (crowd) "We borrowed it — give it back dancing!" (hook-writer 21/25) — inverted call-and-response (short question, crowd owns the full philosophy); "borrowed night" encodes cumbia's communal-grief-as-joy DNA (the night is inherited and repaid by dancing). Contour: call monotone E-flat -> rising major-3rd to G on "this?"; response syncopated triplet "bor-rowed-it" then a rising 4th to A-flat on "danc-ING", cornet sting on and-of-4. Chorus extension "Let the guiro be your heartbeat" is genre-specific and warm. WINNING WRITING: generational verses ("the floor still knows the step my father showed"; "we only held it / like a jar of water passed hand to hand"; "the clave will find a use for it").
+
+  ARCHITECTURE — classic cumbia, density-peak climax (no modulation): guiro/conga intro -> accordion hook theme -> verse -> call-response chorus (x2) -> lyric-free [Accordion Solo] -> final chorus with doubled clave + full percussion + accordion-doubled melody + falsetto ad-libs. Density peak, NO key change (deliberately dropped the novelty-picker's half-step lift, a penalized template).
+
+  DURATION LEVER: the 24-bar lyric-free [Accordion Solo] + a fuller sung arc (136 bars, 24-bar final chorus); groove stays live (no dissolution).
+
+  INSTRUMENTS: ACCORDION (offbeat-stab melodic HERO — never featured as a catalog lead before) + guiro + congas + 3-2 clave kick + walking electric bass + light CORNET stabs (gap ~28, fresh tropical color). BPM 101 (novelty gap 283, near-virgin, cumbia pocket) and E-flat major (novelty gap 20, bright) from the novelty surface.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/accordion/brass/cornet/percussion/bass (all core). Excludes reggaeton/salsa/vallenato/Latin-trap (Latin-drift) + EDM/rock. English only, no Spanish, no place-names.
+
+  Style char count: 855.
+
+tags:
+  - cumbia
+  - tropical-cumbia
+  - accordion
+  - guiro
+  - congas
+  - cornet
+  - walking-bass
+  - 101bpm
+  - e-flat-major
+  - male-tenor
+  - call-and-response
+  - crowd-response
+  - night-scene
+  - communal-dance-scene
+  - bittersweet-joy
+  - density-peak-climax
+  - no-modulation
+  - accordion-lead-catalog-first
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
