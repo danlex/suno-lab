@@ -1,0 +1,115 @@
+name: "Automatic475"
+version: 475
+style: "Cold darkwave synth-pop with post-punk urgency and new-wave hook precision, total duration around 3:00. An icy detached female vocal — melodic and controlled, warm melody over a cold noir surface. Polished studio mix with deep low-end definition and wide stereo stage. Key of B minor, 122 BPM. Cold analog sawtooth synth bass, retro drum machine with tight clipped gated snare and driving kick, ondes martenot as the eerie gliding electronic noir lead threading every section. Cold synth pads and a noir lead-synth line fill the texture. Verse strips to near-bass-and-drum pulse; pre-chorus drops to kick and sawtooth only, cold tension; chorus lifts with the full ensemble; an arpeggio bridge features ondes martenot gliding over cascading synth arpeggios; final chorus adds layered arpeggios and soaring ondes martenot — density as the climax, staying B minor. No guitars, no live drums, no pipe organ, no trap percussion, no bright EDM leads."
+title: "Automatic475"
+lyrics: |
+  [Intro: cold sawtooth bass and gated snare drum machine, sparse synth pads entering, 8 bars]
+
+  [Verse 1: icy female vocal enters over bass-and-drum pulse, cold and controlled, 16 bars]
+  Fluorescent light on the ceiling above
+  I trace the edges of something like love
+  The signal's clean, the channel is clear
+  A familiar frequency I can't unhear
+
+  [Pre-Chorus Strip: drops to kick and sawtooth bass only, tension building cold, 8 bars]
+  Something moves without a reason
+  Underneath the frozen season
+
+  [Chorus: full ensemble, hook melody soaring, ondes martenot gliding the tritone answer, 16 bars]
+  Automatic — I still want you
+  I still — want you
+  Wired into what we never named
+  Automatic — nothing's changed
+  Signal locked, I still want you
+
+  [Verse 2: synth pads thicken slightly, vocal stays icy and controlled, 16 bars]
+  You move in patterns I've memorized
+  Predictable in all the ways I despise
+  But here in the dark the current returns
+  Automatic — the body still learns
+
+  [Pre-Chorus Strip: kick and sawtooth only again, colder, 8 bars]
+  Something moves without a reason
+  Out of reach but still in season
+
+  [Chorus: full ensemble again, ondes martenot tritone shadow on the answer, 16 bars]
+  Automatic — I still want you
+  I still — want you
+  Wired into what we never named
+  Automatic — nothing's changed
+  Signal locked, I still want you
+
+  [Arpeggio Bridge: ondes martenot gliding high over cascading synth arpeggio, no vocal, 16 bars]
+
+  [Final Chorus: layered synth arpeggios added, ondes martenot soaring, full density, 16 bars]
+  Automatic — I still want you
+  I still — want you
+  Every circuit burning your name
+  Automatic — I'll take the blame
+  Locked and loaded — I still want you
+
+  [Outro: sawtooth bass and ondes martenot alone, fading cold, 8 bars]
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, EDM, bright pop, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, EBM, industrial harsh noise, trap, hip hop, rap, R&B, gospel, country, reggae, lo-fi hip hop, ambient drone, cinematic ambient, vocal cabaret, chanson singer"
+notes: |
+  Darkwave cold synth-pop is a lane that blends post-punk structural discipline with new-wave melodic
+  hook writing and analog-synth noir texture — the genre emerged in the mid-1980s European underground
+  (UK, Germany, Belgium) and has been periodically revived via artists working in goth-adjacent
+  electronic spaces. The concept source: a cool detached icy female vocal carrying a warm singable
+  melody as a surface-rupture contrast — the mechanical "automatic" exterior breaking to the naked
+  emotional confession "I still want you."
+
+  This lane is fresh to the catalog (no prior darkwave cycle in the prompt archive). The ondes
+  martenot serves as the eerie gliding noir lead — an acoustic-electronic hybrid that predates
+  synthesizers and produces a distinctive sinusoidal wobble unlike any standard synth voice. Its
+  tritone glide answering the vocal hook confession is the signature framing color of this cycle.
+
+  Duration strategy: lyrics target ~3:00 with a full sung arc — two verse/pre-chorus/chorus cycles,
+  a dedicated lyric-free arpeggio bridge (~16 bars at 122 BPM, approximately 30s) as the duration
+  lever, and a final-density-lift chorus (arpeggios + soaring ondes martenot) as the climax. Final
+  lyric line lands around 2:40. Production tokens used: polished studio mix, deep low-end definition,
+  wide stereo stage. Sentence case throughout; atmospheric-first opening. Two body voices (sawtooth
+  synth bass + retro drum machine) anchor the trio with one spectral (ondes martenot) per the
+  playbook limit.
+
+  Architecture is non-formulaic: no key modulation — density and intensity (layered arpeggios,
+  soaring ondes martenot) replace the overused half-step-up cliché as the climax mechanism. The
+  pre-chorus strip (kick + sawtooth only) is a structural move distinct from the Build/Silence/Drop
+  stack, creating cold tension without risking silence-gate truncation.
+
+  Instrument roles and novelty: cold analog sawtooth synth bass (harmonic foundation, never-used
+  darkwave bass voice), retro drum machine with tight clipped gated snare (post-punk rhythmic anchor,
+  gated snare is a new texture), ondes martenot (eerie gliding lead, tritone shadow on the hook).
+
+  Novelty claims: darkwave as a genre lane is fresh to the catalog; ondes martenot in a noir-synth
+  lead role (not orchestral color) is a new use; gated-snare drum machine texture is fresh; density
+  climax without modulation is a distinct architectural move vs prior cycles; female vocal after male
+  v460/v458 rebalances gender. BPM 122 is in the proven 130-160 band's lower neighbor — at 122 BPM
+  the ~3:00 target is realistic and appropriate for the cold-darkwave mood.
+
+  Style char count: 945.
+tags:
+  - darkwave
+  - cold-synth-pop
+  - post-punk
+  - new-wave
+  - ondes-martenot
+  - sawtooth-synth-bass
+  - retro-drum-machine
+  - gated-snare
+  - 122bpm
+  - b-minor
+  - noir-scene
+  - icy-female-vocal
+  - female-vocal
+  - density-climax
+  - no-modulation
+  - fresh-darkwave-lane
+  - arpeggio-bridge
+  - duration-3min
+  - research-driven
+  - high-variance
+  - new-technique
