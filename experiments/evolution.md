@@ -506,6 +506,7 @@ mindmap
 | 489 | Worry489 | P-funk continuous communal build (layering, never strips) + mid-song talkbox-solo feature -> max-density chant climax (no key change); heavy-coat extended metaphor, call-and-response | B-flat minor (Dorian) | 107 | slapped funk bass + wah guitar + talkbox (three catalog-first timbres, over warm organic drums & staccato horn hits) |
 | 490 | Porch490 | secular gospel-pop shout-section energy-shift (mid-song double-time praise-break -> max-density choir shout; density climax, no key change); belt + call-response choir, full chorus text each pass | C major | 111 | Hammond B3 organ + gospel grand piano + hand-clap/tambourine groove (over walking bass, live drums & call-response choir) |
 | 491 | Walls491 | anthemic indie-rock quiet-loud-quiet dynamic + no-comedown DOUBLE final chorus (stripped bridge, then sustained max; density/dynamic climax, no key change); drove 4:14/4:36 | B major | 127 | jangly clean -> stacked fuzzy electric guitar wall + driving electric bass + live rock drums (with gang whoa-oh backing vocals) |
+| 492 | Grain492 | alt-R&B mid-song BEAT-SWITCH (groove flips to fuller/deeper pocket, recontextualizes the same hook; structural pivot, no key change); glitch-laced texture kept live, post-switch verse ties the flip to the emotion | C-sharp minor | 91 | warm Wurlitzer electric-piano + soft celesta shimmer + deep sub-bass (over stuttered glitchy programmed percussion & mist string pads, stacked BVs) |
 
 ## Next-cycle priorities
 

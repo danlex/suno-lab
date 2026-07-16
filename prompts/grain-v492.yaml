@@ -1,0 +1,106 @@
+name: "grain-v492"
+version: 492
+title: "Grain492"
+instrumental: false
+vocal_gender: female
+
+style: "Warm shadowed alt-R&B with glitch-laced production, polished studio mix, deep low-end definition, wide stereo stage, 91 BPM in C-sharp minor. Full-bodied soul-rooted female lead — confessional, restrained, genuinely sung with real melodic movement and tasteful runs. Stacked backing vocals as a two-voice hocket on the hook. The bed opens sparse: stuttered glitchy programmed percussion, warm Wurlitzer electric-piano in the low-mids, clean sub-bass pulse, soft celesta shimmer, string pads behind like mist. Mid-song beat-switch: the groove flips — percussion re-pitches into a fuller warmer pocket, sub-bass walks and deepens, Wurlitzer shifts to a richer seventh voicing, counter-rhythm on the offbeats. Same hook, recontextualized ground, desire landing differently. Second half builds to full density with stacked BVs and strings open. Grain as aesthetic, not damage. No guitars, no live drums, no rock band, no gospel choir, no trap maximalism."
+
+lyrics: |
+  [Verse 1: sparse — stuttered percussion, Wurlitzer only, sub-bass pulse, female lead close-mic and intimate, 8 bars]
+  Three in the morning and the room won't sleep
+  I keep turning your name like a stone in my teeth
+  There's a pull I don't argue, a current I read
+  You're the thing that I want and the thing that I'd bleed
+
+  [Hook 1: first statement — sparse bed, celesta shimmer, stacked BV hocket enters on the refrain, 8 bars]
+  I go soft at the grain of you
+  (soft at the grain)
+  Every careful thing I built comes loose
+  (comes loose, comes loose)
+  I go soft at the grain of you
+  And I know — and I go
+
+  [Verse 2: still sparse, lead vocal opens slightly — a little more air in the phrasing, 8 bars]
+  I've been watching myself like a woman who learns
+  How the wanting gets quiet before something burns
+  You don't ask me to change, you don't ask me to stay
+  That's the part of you, love, I can't reason away
+
+  [Hook 2: second statement — same sparse groove, BVs push slightly warmer, 8 bars]
+  I go soft at the grain of you
+  (soft at the grain)
+  Every careful thing I built comes loose
+  (comes loose, comes loose)
+  I go soft at the grain of you
+  And I know — and I go
+
+  [Beat-Switch: groove flips mid-song — percussion tightens and warms into a fuller pocket, sub-bass walks, Wurlitzer revoiced, counter-rhythm enters, lyric-free groove section, 20 bars]
+
+  [Verse 3: post-switch — same lead vocal over the new groove, ambivalence re-examined with the fuller floor beneath it, 8 bars]
+  It's a different kind of knowing when the rhythm shifts
+  What I thought I understood just drifts and lifts
+  I'm not running from the feeling and I'm not free
+  I'm just standing in the grain of what you are to me
+
+  [Final Hook: full density — BVs stacked high, strings open, Wurlitzer full seventh voicing, 16 bars]
+  I go soft at the grain of you
+  (soft at the grain)
+  Every careful thing I built comes loose
+  (comes loose, comes loose)
+  I go soft at the grain of you
+  And I know — and I know
+  I go soft
+  (soft at the grain of you)
+  I go soft
+  (soft at the grain of you)
+  I know
+
+  [Outro: Wurlitzer and strings sustain, sub-bass settles, lead vocal whispers the tag once, BVs hold the last chord, 8 bars]
+  Soft at the grain
+  (of you)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, gospel choir, live drums, live band, orchestral-cinematic, EDM festival drop, trap maximalism, heavy percussion"
+
+notes: |
+  v492 TOURNAMENT WINNER (inline-judged 85/100; beat sibling candidate A "classic slow-burn" at 79 on a richer hook + ambivalent tag, the more distinctive/current beat-switch architecture, and a superior narrative that ties the switch to the emotion). Lane: ALT-R&B SOUL with glitch-laced production — never used; a warm intimate SUNG FEMALE slow-burn, power from restraint/grain/negative-space — maximum contrast to v491's loud guitar-forward anthemic MALE indie-rock.
+
+  HIGH VARIANCE: intimate restrained SUNG FEMALE (not raspy male / not belt), glitch-electronic-soul palette, slow-burn 91 BPM, smoky C-sharp minor. Vocal-gender alternation M/F held across v477-v492.
+
+  HOOK: "I go soft at the grain of you" (hook-writer 21/25) — a tactile desire image (grain = texture/skin/voice/film); the lo-fi GRAIN of the production mirrors the lyric word (hook + soundscape are one statement). Contour: syncopated entry, minor-third fall E#-C# on "I go SOFT", Dorian stepwise rise on "at the GRAIN", hanging unresolved major-seventh on "of you"; Wurlitzer C#m7maj7, celesta high-C# shimmer, stacked-BV G#-E# hocket. Ambivalent tag "And I know — and I go" (knowing AND going anyway). Post-switch verse pays off the hook: "standing in the grain of what you are to me."
+
+  ARCHITECTURE — BEAT-SWITCH (the modern R&B structural pivot, no modulation): sparse/glitchy/intimate first half (verse + hook x2) -> mid-song BEAT-SWITCH (lyric-free 20-bar groove flip: percussion re-pitches to a fuller warmer pocket, sub-bass walks/deepens, Wurlitzer revoiced, counter-rhythm) recontextualizing the SAME hook -> post-switch verse -> full-density final hook. The groove-flip is the structural pivot/climax — NOT a strip-swell and NOT a key change (deliberately dropped the researcher's half-step-lift, a penalized template). Texture stays alive throughout (no dissolution-to-silence).
+
+  DURATION LEVER: the 20-bar lyric-free beat-switch groove section + a full sung arc (3 verses + 3 hook statements + outro); melodically full → renders long even at slow BPM.
+
+  INSTRUMENTS: stuttered glitchy programmed percussion + warm WURLITZER electric-piano + deep clean sub-bass + soft CELESTA shimmer (novelty gap ~132, fresh) + mist string pads + stacked BVs. Deliberately used Wurlitzer (fresher than the recent Rhodes v480) and celesta rather than re-using recent keyboards. BPM 91 (novelty gap 292, near-virgin) and C-sharp minor (novelty gap 27, smoky/alt-R&B-idiomatic; chosen over A-flat minor to avoid any collision with v478) from the novelty surface.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/electronic/synth/electric-piano/bass (all core). Excludes rock/metal/live-band/gospel-choir/EDM-drop/trap-maximalism + drift. "lo-fi" excluded = the chillhop genre, not the production grain (style asks for grain/glitch texture explicitly). English, no place-names.
+
+  Style char count: 950.
+
+tags:
+  - alt-rnb
+  - soul
+  - glitch-production
+  - female-vocal
+  - stacked-bvs
+  - 91bpm
+  - c-sharp-minor
+  - wurlitzer
+  - sub-bass
+  - celesta
+  - string-pads
+  - programmed-percussion
+  - beat-switch
+  - no-modulation
+  - intimate
+  - confessional
+  - slow-burn
+  - late-night
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
