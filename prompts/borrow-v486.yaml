@@ -1,0 +1,122 @@
+name: "borrow-v486"
+version: 486
+title: "Borrow486"
+instrumental: false
+vocal_gender: female
+
+style: "Slow warm zouk love from the Caribbean — swaying in close embrace at the end of a night neither of you wants to end, lush and unhurried. Polished studio mix, wide stereo stage, warm tape saturation. Lush synth chord pads carry the harmonic bed, soft felt piano weaves warmth between phrases, syncopated Caribbean bass pulse breathes underneath, rimshot-precise drum programming, light muted brass stabs answer the hook. Sighing warm female lead, genuinely sung long melodic phrases over close backing harmonies, D-flat major, 95 BPM — tender, sensual, melodically full. Harmony thickens: verse one is lead alone over the pad, pre-chorus adds a harmony a third below, chorus lifts to three-part close harmony, final chorus opens the full stacked voice wall against brass stabs and swelling chords — a harmonic-density bloom that earns the climax, no key change. No EDM drops, no trap hi-hats, no rock guitars, no pipe organ, no heavy percussion."
+
+lyrics: |
+  [Intro: soft felt piano and synth pad, Caribbean bass settles in, 8 bars]
+
+  [Verse 1: lead vocal alone over the pad, long melodic phrases, no harmonies yet]
+  The candles burn down slow
+  And the music knows our names
+  Your arms are all I need tonight
+  Nothing here has to change
+
+  Hold me like the hour
+  That nobody wants to leave
+  Tell me we can stay a little longer
+  In the warmth of what we weave
+
+  [Pre-Chorus: harmony a third below enters, voices blend, muted brass stabs begin]
+  The morning's at the door
+  But it can wait outside
+  Let it stand there in the cold
+  While I'm here by your side
+
+  [Chorus: three-part close harmony, full synth chords, brass stabs on the hook]
+  Borrow me from the morning
+  Keep me close till the light is gone
+  Borrow me from the morning
+  Let this slow last dance go on and on
+  (And on, and on)
+
+  [Verse 2: lead resumes over the now-warmed bed, second harmony gently present]
+  Your heartbeat is the rhythm
+  That I've memorized by feel
+  Every phrase you pull me back to
+  Makes the world a little more real
+
+  Whisper what the night knows
+  The things the day forgets
+  How a room this small can hold us both
+  And leave no room for regret
+
+  [Pre-Chorus: harmony a third below, felt piano fills beneath]
+  The morning's at the door
+  But we won't let it in
+  One more turn, one more measure
+  Let the music begin again
+
+  [Chorus: three-part close harmony, full synth chords, brass stabs on the hook]
+  Borrow me from the morning
+  Keep me close till the light is gone
+  Borrow me from the morning
+  Let this slow last dance go on and on
+  (Go on, go on)
+
+  [Instrumental: felt piano melody over muted brass and Caribbean bass, 20 bars]
+
+  [Bridge: lead vocal alone, stripped back, intimate — before the final build]
+  I know the sun will come
+  I know the world won't pause
+  But right now I'm yours completely
+  And you're mine without a cause
+
+  [Final Chorus: full three-part stacked harmony, swelling synth chords, all brass — harmonic bloom peak]
+  Borrow me from the morning
+  Keep me close till the light is gone
+  Borrow me from the morning
+  Let this slow last dance go on and on
+
+  Borrow me from the morning
+  (Borrow me, borrow me)
+  One more measure, one more song
+  (Just a little longer)
+  Let this slow last dance go on
+  (Go on)
+
+  [Outro: felt piano alone, harmonies fade one by one, Caribbean bass last, 8 bars]
+  [End]
+
+exclude_styles: "EDM, trap, trap hi-hats, dubstep, rock, metal, acoustic guitar, kompas, lambada, dancehall, reggaeton, pipe organ, free jazz, atonal, aggressive percussion, gospel shout, belted gospel, rap, hip-hop, new age, world music, Arabic, tribal, gypsy, lo-fi, ambient drone, experimental noise"
+
+notes: |
+  v486 TOURNAMENT WINNER (inline-judged 83/100; beat sibling candidate A "classic stripped-then-bloom" at 79 on a stronger anthemic hook, a richer/fuller narrative — extra verses + bridge, which also drives a fuller render at slow BPM — and a well-realized progressive-harmony-stack architecture). Lane: ZOUK LOVE — never used; a lush, warm, slow, melodic SUNG FEMALE ballad — maximum contrast to v485's fast/hard MALE rap-shout baile funk.
+
+  HIGH VARIANCE: SLOW 95 BPM (a real tempo break from the fast/mid cluster), warm sung FEMALE (not rap-shout male), romantic/sensual mood, warm D-flat MAJOR. Vocal-gender alternation M/F held across v477-v486. Deliberately accepted lower danceability (slow ballad) as the variance trade this cycle.
+
+  HOOK: "Borrow me from the morning" (hook-writer 22/25) — the love as borrowed night claimed from the dawn (warm, not sad). Contour: rising major third Db4->F4 on "Borrow me", sits F4-Eb4 on "from the", four-note sighing melismatic descent Ab4-Gb4-F4-Eb4 on "-ning" landing unresolved on Eb4 (tender open suspension); muted-brass stab answers; close harmonies echo a third below. Chorus payoff "Let this slow last dance go on and on / (and on, and on)".
+
+  ARCHITECTURE — progressive close-harmony STACK, harmonic-density bloom climax (no modulation): verse 1 lead ALONE -> pre-chorus adds a harmony a third below -> chorus opens 3-part close harmony -> [Instrumental] felt-piano/brass interlude -> stripped bridge (lead alone) -> FINAL CHORUS opens the full stacked voice wall + all brass + swelling chords. Harmony thickens continuously (never strips except the deliberate bridge breath); climax is harmonic density, NOT a key change (deliberately dropped the researcher's suggested half-step lift, a penalized template).
+
+  DURATION LEVER (addresses the slow-BPM ceiling + the v485 short-render learning): a melodically FULL sung arc (two full verse/pre-chorus/chorus cycles + bridge) + a 20-bar lyric-free [Instrumental] felt-piano/brass interlude. Zouk love's long sustained vowels and long phrase-time encourage full-section renders.
+
+  INSTRUMENTS: lush warm synth chord pads (signature bed) + soft FELT PIANO (novelty gap ~135, warm/intimate) + syncopated Caribbean bass pulse + rimshot-precise programming + light muted brass stabs + close backing harmonies. BPM 95 (novelty gap 204) and D-flat major (novelty gap 30, "classic warm R&B/female key") from the novelty surface, avoiding all recent keys.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude synth/synthesizer/electronic/vocals/singing (all core to zouk love). Excludes EDM/trap/rock/rap + Caribbean-drift terms (kompas, lambada, dancehall, reggaeton). English only.
+
+  Style char count: 944.
+
+tags:
+  - zouk-love
+  - caribbean
+  - 95bpm
+  - d-flat-major
+  - synth-chords
+  - felt-piano
+  - muted-brass
+  - close-harmony
+  - female-vocal
+  - progressive-harmony-stack
+  - harmonic-density-bloom
+  - no-modulation
+  - slow-romantic
+  - sensual
+  - instrumental-interlude
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
