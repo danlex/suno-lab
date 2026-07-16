@@ -1,0 +1,119 @@
+name: "wire-v485"
+version: 485
+title: "Wire485"
+instrumental: false
+vocal_gender: male
+
+style: "Baile funk carioca — heat rising off concrete, a whole block moving as one, rooftop night air thick with bass and no apology. The tamborzão drum pattern drives every bar: kick on the downbeat, rapid snare-roll figure locking the pocket, hyper-compressed 808 sub-bass dropping a floor under the crowd, brick-wall limiting, near-zero reverb so the sound stays hard and close. A bright minimal synth-whistle stab punches in on the hook. 148 BPM, C minor, polished street-ready mix. Male MC vocal — punchy rap cadence on the verses, opening into a short crowd-ready sung and shouted hook the whole street yells back. Confident, defiant, communal. The groove is the architecture. No melody over the beat — just the pattern, the sub, the stab, and the shout. Wide stereo stage on the kick and sub; stab dead-centre. No guitars, no live band, no samba or bossa nova instrumentation, no rock drums, no lush pads."
+
+lyrics: |
+  [Intro: bare tamborzão + 808 sub-bass, no vocal, 8 bars]
+
+  [Verse 1: MC punchy rap cadence over full tamborzão pocket, 16 bars]
+  Top floor, no elevator, that is just the climb
+  Sweat on your neck before you even make the time
+  Block is awake, every window lit and loud
+  Bass through the wall, bass through the floor, bass through the crowd
+  Nothing is soft up here, nothing is smooth
+  You either lock in or you lose the groove
+  Hands up or hands in your pockets — pick a side
+  We do not stop when the pressure rides
+
+  [Chorus: crowd-ready shout-back hook, sub-drop + synth-whistle stab on WIRE, 8 bars]
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  We are still here — FIRE
+  (Still here — fire!)
+  On the wire, on the wire
+
+  [Verse 2: MC rap over full tamborzão, tighter cadence, 16 bars]
+  They said the roof would break, the sound is too raw
+  We said the roof has heard this block before
+  Every body counts, every body knows the beat
+  You feel the kick before your feet hit the street
+  No ceiling on the heat when the night goes long
+  No apology — the bass was never wrong
+  Lights from the city below like a grid
+  We claim the air above — that is what we did
+
+  [Chorus: crowd-ready shout-back hook, sub-drop + synth-whistle stab on WIRE, 8 bars]
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  We are still here — FIRE
+  (Still here — fire!)
+  On the wire, on the wire
+
+  [Stripped MC: MC raps over minimal beat, kick pulse only, 16 bars]
+  Just the kick now
+  Just the kick and the voice and the block
+  No flash, no trick — just the body and the clock
+  You know the name, you know the sound we make
+  Every rooftop carries what it will not break
+  Keep it moving
+  (Keep it moving)
+  Keep it moving
+  (Keep it moving)
+  Hold the line
+
+  [Tamborzão Break: full tamborzão + 808 sub-bass + synth-whistle stab, no vocal, 24 bars]
+
+  [Final Chorus: maximum weight, full crowd shout, hard tamborzão pocket, 16 bars]
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  We are still here — FIRE
+  (Still here — fire!)
+  On the wire, on the wire
+  SWEAT ON THE WIRE
+  (Sweat on the wire!)
+  SWEAT — ON — THE WIRE
+
+  [End]
+
+exclude_styles: "samba, bossa nova, pagode, axé, forró, rock, metal, acoustic guitar, live band, jazz, soul, reggaeton, dancehall, trap, pop, ambient, orchestral, choir, pipe organ, new age, experimental noise, world music, lo-fi, afrobeats, tropical"
+
+notes: |
+  v485 TOURNAMENT WINNER (inline-judged 85/100; beat sibling candidate B "chant-battle/beat-drop-reload" at 78 — B hit the 1000-char lyrics ceiling [forcing stripped bar counts + thinner verses] AND its climax was a 1-bar dead-air beat-cut, exactly the dissolution/silence-gate truncation risk on a groove-primary genre that already renders short; A has a fuller arc, richer MC bars, and keeps the kick alive throughout). Lane: BAILE FUNK (funk carioca) — never used; the deliberate FAST tempo break (148 BPM) after EIGHT straight 113-137 mid-tempo cycles.
+
+  HIGH VARIANCE: FAST 148 BPM (breaks the mid-tempo cluster), MALE MC rap+shout (a fresh vocal MODE vs the recent pure-sung lanes), groove-primary/confrontational (not melodic), Rio street-party register. Vocal-gender alternation M/F/M/F/M/F/M/F/M held across v477-v485.
+
+  HOOK: "Sweat on the wire" (hook-writer 19/25) — Rio rooftop image (sweat on the laundry wire between buildings) + English idiom "on the wire" (under pressure). "SWEAT" on the tamborzão beat-1 kick (808 sub-drop), "WIRE" held/bent up a tritone (C->F#) with a synth-whistle stab, unresolved. MC shouts first; crowd shouts back. Second phrase "still here — FIRE" adds a chantable answer.
+
+  ARCHITECTURE — classic baile funk, density/drop climax (no modulation): bare tamborzão intro (8 bars) -> MC rap verse -> crowd-hook chorus -> 2nd cycle -> STRIPPED MC section (kick pulse ONLY, NOT silence — contrast without truncation) -> 24-bar lyric-free [Tamborzão Break] -> maximum-weight final chorus, hard cut. NO key change (deliberately dropped the novelty-picker's C-minor->D-flat-minor half-step lift, a penalized template).
+
+  DURATION LEVER: the 24-bar lyric-free [Tamborzão Break] + a full two-verse/chorus arc + the stripped-MC section (kick kept live). Baile funk is groove-primary and can render short, so the arc is kept full and the vocal present throughout.
+
+  INSTRUMENTS: tamborzão drum pattern (kick-every-beat + rapid snare rolls) + hyper-compressed 808 sub-bass + minimal bright synth-whistle stab. BPM 148 (novelty gap 255, near-virgin, dead-center baile-funk pocket) and C minor (novelty gap 47, freshest dark minor) from the novelty surface, avoiding all recent keys. Kept the palette genre-authentic (skipped novelty's mbira — Zimbabwean, would muddy a Brazilian lane).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude electronic/synth/808/bass/vocals/singing/rap (all load-bearing). Excludes Brazilian genre-drift (samba, bossa nova, pagode, axé, forró) + rock/live-band/acoustic.
+
+  LANGUAGE: fully ENGLISH (English-language baile funk — the genre, not the language); verified no Portuguese in vocal lines ("tamborzão" appears only in bracket labels). ALL-CAPS hook lines are an intentional crowd-shout delivery cue.
+
+  Style char count: 904.
+
+tags:
+  - baile-funk
+  - funk-carioca
+  - tamborzao
+  - 808-sub-bass
+  - 148bpm
+  - c-minor
+  - male-mc
+  - rap-vocal
+  - crowd-hook
+  - rooftop-scene
+  - fast-tempo
+  - tempo-break
+  - electronic
+  - groove-primary
+  - no-modulation
+  - research-driven
+  - duration-3min
+  - english-lyrics
+  - new-lane
+  - high-variance

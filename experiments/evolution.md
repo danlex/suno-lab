@@ -499,6 +499,7 @@ mindmap
 | 482 | Virage482 | classic nu-italo cycling arpeggio intro -> piano-stab chorus -> arpeggio vamp -> final-chorus density flood (no key change), 24-bar arpeggio vamp duration lever | A-flat major | 128 | arpeggiated Juno synth bassline + piano stabs + mellotron pad (over four-on-the-floor kick, gated-reverb snare & pumping sub-bass) |
 | 483 | Pockets483 | 12/8 lilting highlife, call-and-response-as-structure with layered group-vocal-stack climax (no key change), two-guitar-trading + stripped-verse-3 build as duration levers | F major | 113 | two interlocking electric highlife guitars + flugelhorn + vibraphone (over bell-timeline percussion & warm electric bass) |
 | 484 | Loose484 | UK funky percussion-accumulation build to double-time drum-flip climax (no key change, groove never strips), 24-bar percussion/marimba break duration lever | G minor | 129 | swung broken-beat (tribal congas + hi-hat triplets) + rolling sub-bass chord stabs + plucked synth-marimba riff |
+| 485 | Wire485 | classic baile funk density/drop climax (bare tamborzão intro -> stripped-MC kick-only section -> 24-bar tamborzão break -> max-weight final, no key change); groove-primary lane rendered SHORT (2:29/2:40) despite full arc + break | C minor | 148 | tamborzão pattern (kick-every-beat + rapid snare rolls) + hyper-compressed 808 sub-bass + minimal synth-whistle stab |
 
 ## Next-cycle priorities
 
