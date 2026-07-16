@@ -1,0 +1,113 @@
+name: "Wont471"
+version: 471
+style: "Jersey club dance track with driving triplet kick pattern, staccato 808 bass\
+  \ hits, hyper-percussive and relentless — total duration around 3:00. A chopped,\
+  \ pitch-shifted female vocal refrain is the hook: \"want it, then you won't,\" sliced\
+  \ into punchy stabs that rise a minor third on 'it' and land isolated 'WON'T' syncopated\
+  \ on an unresolved fifth so the loop never cadences. Bright marimba chop-stabs cut\
+  \ through each drop as the pitched metallic color, locking into the kick grid with\
+  \ staccato precision. Polished studio mix, deep low-end definition, wide stereo stage.\
+  \ E minor, 138 BPM. Opening groove builds into a mid-song Jersey pause — kick-only\
+  \ vamp that strips the mix to bare tension — then a full chop-drop return where the\
+  \ entire stack slams back at maximum density. The climax is pure rhythmic impact,\
+  \ staying in E minor throughout with no key change. No rap vocals, no boom-bap phrasing,\
+  \ no slow jam feel, no cathedral organ."
+
+title: "Wont471"
+
+lyrics: |
+  [Intro: triplet kick pattern with 808 bass establishing the groove, marimba chops entering bar 3, 8 bars]
+
+  [Verse 1: chopped vocal refrain "want it" over full groove, staccato marimba stabs on the off-beats, 16 bars]
+  want it
+  want it
+  then you won't
+
+  [Pre-Drop Build: 808 bass swell, kick doubles, marimba chops tightening to every beat, 8 bars]
+  want it want it
+  won't
+
+  [Drop 1: full Jersey club stack at max density, chopped refrain cycling through the grid, 16 bars]
+  WANT IT
+  then you WON'T
+  want it — won't
+  (won't)
+
+  [Kick Vamp / Marimba Chop Break: kick-only Jersey pause, all melodic elements stripped, bare tension held, 16 bars]
+
+  [Drop 2 / Chop-Drop Return: entire stack slams back with chopped refrain at maximum density, late climax, 24 bars]
+  want it
+  WANT IT
+  then you WON'T
+  (won't won't)
+  want it — won't
+
+  [Outro: triplet kick fades, isolated marimba chop-stab, final 'WON'T' lands unresolved, 8 bars]
+  won't
+
+  [End]
+
+instrumental: false
+vocal_gender: female
+
+exclude_styles: "Arabic, tribal, world music, rap, hip hop, boom-bap, trap rap, slow
+  jam, amapiano, baile funk, tamborzão, R&B ballad, rock, metal, lo-fi, EDM trance,
+  new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, reggaeton,
+  cumbia, afrobeats, grime"
+
+notes: |
+  Jersey club is a Newark/NJ club subgenre built on a signature triplet kick pattern
+  (a dotted-eighth swing feel against 4/4 at 138–145 BPM), staccato 808 bass hits,
+  and hyper-percussive layering — a subgenre entirely absent from the catalog before
+  v471, making this a genuine fresh-lane entry.
+
+  The hook mechanism is the concept source: a chopped, pitch-shifted female vocal
+  phrase ("want it, then you won't") becomes the melodic anchor, rondo-style, returning
+  at each drop. The minor-third contour (E5→G5 on 'it') and the unresolved fifth
+  landing on 'WON'T' (B4) create loop-hunger — the phrase never cadences, so the
+  groove demands another pass. Marimba chop-stabs supply the unusual bright pitched
+  color: metallic, percussive, unexpected in a club context, and precise enough to
+  lock into the kick grid. This is the instrument-novelty claim — marimba as rhythmic
+  stab, not melodic soloist.
+
+  Architecture is explicitly non-formulaic for this catalog: no key modulation, no
+  half-step lift. The climax move is a "Jersey pause" (kick-only vamp stripping the
+  mix to bare tension) followed by a full chop-drop return at maximum density. This
+  density-as-climax structure is named in the lyrics brackets so Suno renders it
+  deliberately. The double meaning of "Wont" (habit, customary behavior) is the
+  title concept: the taunt predicts the listener's hesitation as if it were second
+  nature.
+
+  Duration strategy: parametrized colon-lyrics with bar counts summing to ~96 bars
+  at 138 BPM (targeting ~3:00 wall-clock, matching the 130–160 BPM efficiency band).
+  The explicit lyric-free [Kick Vamp / Marimba Chop Break] 16-bar section is the
+  duration lever, placing the final chop-drop late at approximately 2:30. Three
+  production tokens: polished studio mix, deep low-end definition, wide stereo stage.
+  Sentence case throughout; atmospheric-first opening front-loads the genre anchor.
+  No "singing/vocals" block in exclude_styles — the chopped refrain IS the hook; rap
+  and boom-bap are blocked instead to prevent vocal-style drift.
+
+  High-variance contrast to v460–v470 (bluegrass, rockabilly, pop anthem, nuevo tango):
+  jersey club is a catalog first, marimba-as-chop-stab is an instrument-role first,
+  and density-as-climax (no modulation) is an architecture first. Novelty on three
+  axes. Style char count: 939.
+
+tags:
+  - jersey-club
+  - marimba
+  - chopped-vocal
+  - 808-bass
+  - triplet-kick
+  - 138bpm
+  - e-minor
+  - club-dance-scene
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - high-energy
+  - dance
+  - electronic
+  - fresh-lane
+  - jersey-pause
+  - chop-drop
