@@ -1,0 +1,107 @@
+name: "dark-v503"
+version: 503
+title: "Dark503"
+instrumental: false
+vocal_gender: male
+
+style: "Warm gritty vinyl-sampled boom-bap soul, dusty F minor at a head-nod 90 BPM pocket — the sound of real life remembered through a crackled groove. A crunchy boom-kick and bap-snare drum break anchors everything, a chopped warm-organ and piano soul loop rides over it, walking upright bass locks the low end with deep low-end definition, and a muted trumpet answers the vocal with quiet melodic wisdom. Raw vinyl crackle and tape saturation give it the worn-record warmth of a hard week held with quiet pride. The male voice delivers rhythmic-flow rapped verses in a grounded golden-era cadence, then opens into a genuinely sung warm soul hook — real melodic movement, not a chant. The muted trumpet resolves what the hook leaves hanging, two voices completing a single thought. Wide stereo stage, polished studio mix that preserves the grit. No guitars, no synthesizers, no trap hi-hats, no orchestral strings, no autotune processing."
+
+lyrics: |
+  [Drum Break Intro: boom-kick and bap-snare alone, chopped organ soul loop enters, vinyl crackle underneath, 8 bars]
+
+  [Rap Verse 1: rhythmic-flow male rapped bars, grounded golden-era cadence, chopped soul loop + walking upright bass, 16 bars]
+  Every morning I wake before the sun gets up
+  Lace my boots and fill a thermos, never fill a cup
+  Had a kitchen with a bulb that kept on going out
+  So I read by the window, figured what my life was about
+  Built a ledger in my head where every lesson's ink
+  Kept it close when everything was closer to the brink
+  Nothing handed to me, nothing promised, nothing sealed
+  Only what I earned and what the quiet hours revealed
+
+  [Sung Hook: warm soulful male singing, stepwise melodic climb, muted trumpet answers with Gb-G-F resolution, 8 bars]
+  I learned to read in the dark
+  I learned to read in the dark
+  When the light was gone I found my mark
+  I learned to read in the dark
+
+  [Rap Verse 2: rhythmic-flow male rapped bars, denser wordplay, same soul loop + upright bass, 16 bars]
+  Kept a notebook by the radiator, cracked at the spine
+  Every word a kind of rope I could use to climb
+  People told me where I'd land before I left the ground
+  I just folded up their limits, set them on a mound
+  Memory of a woman who would press her hands in mine
+  Said the ones who read the darkness learn to read the signs
+  So I carried what she gave me, worn into my grain
+  Every setback just a sentence in a longer chain
+
+  [Sung Hook: warm soulful male singing, muted trumpet answers, vinyl crackle rising, 8 bars]
+  I learned to read in the dark
+  I learned to read in the dark
+  When the light was gone I found my mark
+  I learned to read in the dark
+
+  [Chopped Horn Interlude: muted trumpet trades melodic phrases with chopped organ and piano soul loop over the drum break and walking upright bass, vinyl crackle alive, no lyrics, 16 bars]
+
+  [Bridge Strip: kick-snare and upright bass continue, chopped loop pulls back to a low simmer, half-sung male line over the textured groove, 8 bars]
+  Still here (yeah)
+  Still whole
+  Carried it all
+  Still standing on the ground I know
+
+  [Final Sung Hook: full chopped soul loop and muted trumpet return fortissimo, warm-organ swells, density-return, no key change, 16 bars]
+  I learned to read in the dark
+  I learned to read in the dark
+  When the light was gone I found my mark
+  I learned to read in the dark
+  (in the dark)
+  I learned to read in the dark
+  (yeah, in the dark)
+  When the light was gone I found my mark
+  I learned to read in the dark
+
+  [Live-Groove Outro: boom-kick bap-snare drum break alive, chopped soul loop and walking upright bass pocket, muted trumpet fades last, controlled close, 8 bars]
+
+  [End]
+
+exclude_styles: "rock band, EDM, trap hi-hats, 808 bass, orchestral, classical, choir, gospel choir, acoustic guitar, electric guitar, female vocal, electronic drums, lo-fi chill, new age, jazz fusion, reggae, dancehall"
+
+notes: |
+  v503 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate B "loop-flip / beat-switch" at ~80 AND B carried a LEAKED-STAGE-DIRECTION defect — production notes ["Trumpet answers, Gb heals to F, two-bar resolve"; "Trumpet resolves, full pocket, loop at its warmest"] sat as LYRIC LINES inside its sung-hook blocks, which Suno would try to sing; A is clean. A also won on the merits: its rap verses genuinely serve the hook's perseverance story and the sung soul hook is intact). Lane: BOOM-BAP SOUL HIP-HOP — never used in v462-v502 (distinct from jazz-rap neo-soul); warm/gritty/head-nod MALE with a fresh vocal-type on the variance axis (rhythmic-flow RAP verses + a SUNG soul hook — rap-forward delivery not used recently) — strong contrast to v502's fast edgy electroclash female.
+
+  HIGH VARIANCE: MALE rap-verses + sung-soul-hook dual delivery (a genuinely different vocal register from the recent sung males — roots baritone v501, Ethio tenor v499, afroswing v497), head-nod 90 BPM (breaks from the recent 133/77/139/85/126 cluster), F MINOR (dusty soulful, novelty gap 24), warm vinyl-sampled boom-bap production. Vocal-gender alternation M/F held across v477-v503 (v502 female → v503 male).
+
+  HOOK: "I learned to read in the dark" (hook-writer 22/25) — a six-word perseverance micro-story (learning under deprivation, quiet pride). Contour: stepwise climb F-G-Ab-Bb-C over "I learned to read in the" (held on C, the 5th), then a tritone drop to Gb (flat-9 of F minor) on "dark" — a bluesy outside note; the muted trumpet answers Gb->G->F over the next bar, healing the dissonance (voice opens the wound, trumpet closes it — a two-voice hook identity). Rap verses tie directly to it: "Had a kitchen with a bulb that kept on going out / So I read by the window"; "the ones who read the darkness learn to read the signs."
+
+  ARCHITECTURE — classic boom-bap verse/hook, density-return climax (non-modulation): drum-break intro → rap V1 → sung hook (trumpet answers) → rap V2 → sung hook → described lyric-free [Chopped Horn Interlude] (muted trumpet trades with the chopped organ/piano loop over the break + upright bass, 16 bars — duration lever) → textured [Bridge Strip] (kick-snare + upright bass CONTINUE, loop pulls back to a simmer, a half-sung line — NOT silence, 8 bars) → FINAL sung hook DENSITY-RETURN (full chopped loop + horns fortissimo, no key change) → live-groove outro (beat + loop + bass in the pocket, NO cold stop). Dropped the researcher's suggested half-step lift.
+
+  DURATION GUARD (learnings): word-dense rap verses (two 8-line verses) naturally extend render length + a melodically full sung hook + the described 16-bar chopped-horn interlude + a textured (non-silence) bridge strip + a live-groove no-cold-stop outro.
+
+  INSTRUMENTS: crunchy boom-kick/bap-snare DRUM BREAK + chopped warm-ORGAN + PIANO soul loop + walking UPRIGHT BASS + MUTED TRUMPET (melodic hero, carries the Gb-G-F resolution) + raw vinyl crackle. BPM 90 (archetypal boom-bap head-nod, clear of the recent cluster) and F minor (novelty gap 24) — overrode the novelty's out-of-genre 103/119 tempos for a genre-authentic 90; dropped its cor-anglais suggestion.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — sharpened after v502): the song has BOTH rap AND singing — exclude_styles does NOT exclude rap/hip-hop/singing/vocals or any core instrument (drums/upright-bass/organ/piano/trumpet). "female vocal" excluded reinforces the male lead; "808 bass" excluded prevents trap drift (the walking upright bass is the bass, named positively). Excludes rock/EDM/trap-hats/orchestral/autotune + drift. English only, no place-names, no producer/artist names, no ethnicity/nationality words.
+
+  Style char count: 933.
+
+tags:
+  - boom-bap
+  - soul-hip-hop
+  - male-vocal
+  - rap-and-sung-hook
+  - muted-trumpet
+  - chopped-organ
+  - piano-loop
+  - upright-bass
+  - vinyl-crackle
+  - drum-break
+  - 90bpm
+  - f-minor
+  - golden-era
+  - perseverance-scene
+  - verse-hook-interlude-form
+  - density-return-climax
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
