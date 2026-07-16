@@ -1,0 +1,134 @@
+name: "rooftops-v480"
+version: 480
+title: "Rooftops480"
+instrumental: false
+vocal_gender: female
+
+style: "Warm copper light over a city at golden hour — rooftops, open air, pure joy made sound. City-pop meets disco-soul, with Fender Rhodes electric piano as the hero anchor, muted 16th-note funk guitar chops, warm electric bass, four-on-the-floor kick with open off-beat hi-hat, lush string stabs, and a bright trumpet leading a punchy horn section. Groove-first: the Rhodes pocket breathes through an extended intro before any vocal enters. When the voice arrives it is a warm, belted, soulful female lead — joyful, chest-voice big, trading call-and-response with a stacked gospel backing choir. Each chorus adds horn layers and BV density; the final chorus stacks the full backing-vocal wall and horn counter-line for an arrangement-density climax, no key change. Polished studio mix, wide stereo stage, clean treble presence, warm analog shimmer. E major, 115 BPM. No distorted guitars, no metal, no trap drums, no lo-fi filters, no dark minor."
+
+lyrics: |
+  [Groove Intro: Fender Rhodes + muted funk guitar + warm bass + four-on-the-floor kick, 16 bars — no vocal, let the pocket breathe]
+
+  [Verse 1: lead vocal enters, bright and grounded, building from the groove]
+  I stepped outside at the end of the day
+  (stepped outside)
+  The city hummed and it opened the way
+  (opened wide)
+  Every window catching fire from the west
+  (fire in the west)
+  Felt my chest get lighter than the rest
+  (lighter now)
+
+  [Pre-Chorus: BV stack rises under the lead, anticipation building]
+  Something lifts you when you reach the top
+  (reach the top)
+  Every worry gets too far below to stop
+  (too far down)
+  You breathe in deep and the whole thing drops
+  (let it go)
+  And the city starts to ring
+
+  [Chorus: full groove + string stabs + trumpet enters, gospel call-and-response]
+  Three floors up, the whole world rings
+  (whole world rings)
+  Every rooftop knows what freedom brings
+  (freedom brings)
+  Golden hour burning through your wings
+  (through your wings)
+  Three floors up, the whole world rings
+  (rings, rings, rings)
+
+  [Verse 2: groove steady, lead more confident, BVs tighter underneath]
+  I can see the bridges and the bends
+  (all the bends)
+  The long road curving right before it ends
+  (never ends)
+  All the people moving like the tide
+  (like the tide)
+  And I am shining on the other side
+  (other side)
+
+  [Pre-Chorus: BV stack thicker, trumpet peeks through]
+  Something lifts you when you reach the top
+  (reach the top)
+  Every worry gets too far below to stop
+  (too far down)
+  You breathe in deep and the whole thing drops
+  (let it go)
+  And the city starts to ring
+
+  [Chorus: fuller — horn section fully in, BV wall rises]
+  Three floors up, the whole world rings
+  (whole world rings)
+  Every rooftop knows what freedom brings
+  (freedom brings)
+  Golden hour burning through your wings
+  (through your wings)
+  Three floors up, the whole world rings
+  (rings, rings, rings)
+
+  [Horn Section and Rhodes Break: Fender Rhodes solo comping over full groove, trumpet and horn section trading phrases, 24 bars — no lyric, full energy, groove forward]
+
+  [Final Chorus: full backing-vocal wall + horn counter-line + open hi-hat lift — density climax, no key change]
+  Three floors up, the whole world rings
+  (the whole world rings, hey!)
+  Every rooftop knows what freedom brings
+  (oh, freedom brings)
+  Golden hour burning through your wings
+  (burning, burning through)
+  Three floors up, the whole world rings
+  (rings — rings — rings)
+  Three floors up and we're finally free
+  (finally free)
+  The light comes down and it covers me
+  (covers me now)
+  Three floors up, the whole world rings
+  (the whole world — rings)
+
+  [Outro: Rhodes comps down, horn section fades on a long bright chord, groove dissolves naturally]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, EDM, trap, distorted guitar, dark ambient, minor key, new age, experimental noise, free jazz, atonal, acoustic guitar lead, country, grunge, heavy bass, reggaeton"
+
+notes: |
+  v480 TOURNAMENT WINNER (inline-judged 87/100; beat sibling candidate A "verse-chorus/string-swell bloom" at 81 on a stronger anthemic hook, cleaner imagery with no ear-stumbles, higher danceability, and cleaner negatives). Lane: CITY-POP x DISCO-SOUL — never used; deliberate BRIGHT/WARM/MAJOR-KEY break from the dark-minor streak (v475-v479: darkwave, shoegaze, noir trip-hop, gqom).
+
+  HIGH VARIANCE: after dark male gqom v479 (and a run of icy/breathy females), this is a warm SOULFUL BELT female, MAJOR key (E), uplifting golden-hour mood, groove-first disco-soul — opposite on tempo-feel, mood, key-color, and vocal character.
+
+  HERO INSTRUMENT: FENDER RHODES electric piano — never featured as an anchor across all 479 prior versions (novelty confirmed). Core bed: Rhodes + muted 16th-note funk guitar + warm electric bass + four-on-the-floor with open off-beat hi-hat + lush string stabs + bright trumpet/horn section. BPM 115 (novelty gap 214) and E major (novelty gap 35, bright) both from the novelty surface, avoiding all recent keys.
+
+  HOOK: "Three floors up, the whole world rings" (hook-writer 21/25) — golden-hour elevation, joy of freedom. Staircase rise E5-F#5-G#5 then a surprise major-third leap to C#6 on "rings"; trumpet mirrors the peak. Every chorus is gospel-soul CALL-AND-RESPONSE (lead line + stacked BV answer).
+
+  ARCHITECTURE — groove-first + BV-stack climax (no modulation): 16-bar instrumental Rhodes/guitar/bass pocket intro before any vocal (get the body moving first), then verse -> call-response chorus, layering horns + BVs each chorus. CLIMAX = full backing-vocal wall + horn counter-line + open-hi-hat lift together — an arrangement-density payoff in E major, NO key change (deliberately drops the researcher's suggested half-step lift, a penalized template).
+
+  DURATION LEVER: explicit 24-bar lyric-free [Horn Section and Rhodes Break] before the final chorus + the extended groove intro — keeps the groove alive (no dissolution-to-silence) toward ~3:00-3:30. BPM 115 slow-ceiling band; density/danceability is the goal.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing (sung song) nor electronic/synthesizer (Rhodes/string stabs may be synth). "minor key" excluded intentionally to hold the bright major tonality.
+
+  Style char count: 942.
+
+tags:
+  - city-pop
+  - disco-soul
+  - fender-rhodes
+  - trumpet
+  - horn-section
+  - funk-guitar
+  - string-stabs
+  - 115bpm
+  - e-major
+  - belted-female-vocal
+  - soulful-belt
+  - gospel-bv-call-and-response
+  - groove-first
+  - bv-stack-climax
+  - no-modulation
+  - golden-hour-scene
+  - uplifting
+  - danceable
+  - new-lane
+  - new-instrument-anchor
+  - duration-3min
+  - research-driven
+  - high-variance
