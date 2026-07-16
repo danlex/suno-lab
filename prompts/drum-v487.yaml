@@ -1,0 +1,125 @@
+name: "drum-v487"
+version: 487
+title: "Drum487"
+instrumental: false
+vocal_gender: male
+
+style: "Raw vintage 1970s Afrobeat lockgroove — a communal jam breathing with defiant warmth, building from a lone leader's call to a full congregation shouting back. Warm tape saturation, deep low-end on the walking bass, wide stereo stage for horns. Polyrhythmic percussion: talking drum navigating the pocket, congas riding the bell pattern, hand-clap on the two. Baritone and tenor saxophone horn section, raw and punching — staccato hits, then long shouting unison phrases. Clavinet on sharp percussive offbeat comps, trading with staccato rhythm guitar chops, both slicing the pocket between drum hits. Walking bass locked on the one, D minor, 117 BPM. Soulful belting male lead, raw-edged and urgent, call lines answered by group chorus — leader and congregation growing louder every cycle, density payoff with no key change. No synthesizer leads, no modern Afrobeats production, no amapiano, no trap, no EDM, no rock power chords, no pipe organ."
+
+lyrics: |
+  [Intro: walking bass locks in, talking drum enters, congas and bell pattern settle, 8 bars]
+
+  [Leader Call: male lead vocal alone over percussion, no horns yet, no group yet, 8 bars]
+  I been walking on this ground a long time
+  I know every stone and every vine
+  You can move the road but you can't move the feet
+  That already know the rhythm of this beat
+
+  [Call and Response: group chorus joins the response, horns add short stabs, 16 bars]
+  The drum knows where I live
+  (Knows where I live!)
+  The drum knows where I live
+  (Knows where I live!)
+  I don't need a map, I don't need a guide
+  The blood in my veins is the tide
+  The drum knows where I live
+  (Knows where I live!)
+
+  [Verse 2: clavinet comps begin, rhythm guitar chops enter, congregation fuller, 16 bars]
+  They built the new road on the old road's back
+  But the old road's bones still crack and tap
+  Every crossroads tells me where I'm from
+  Every corner is a different drum
+
+  You hear it low, you hear it high
+  You hear it when the evening turns the sky
+  It don't speak in words, it speaks in pulse
+  And it knows my name by what it calls
+
+  [Call and Response: full group chorus, horns in unison shout, clavinet and guitar locked, 16 bars]
+  The drum knows where I live
+  (Knows where I live!)
+  The drum knows where I live
+  (Knows where I live!)
+  I don't need a gate, I don't need a wall
+  I just follow when I hear it call
+  The drum knows where I live
+  (Knows where I live!)
+
+  [Clavinet and Guitar Groove: lyric-free, clavinet and rhythm guitar trading percussive comps over locked polyrhythm, talking drum solo phrases, 24 bars]
+
+  [Verse 3: leader vocal returns over the now-full bed, group hums underneath, 12 bars]
+  Some men carry papers, some men carry stone
+  I carry every road that ever led me home
+  The talking drum remembers before the word was said
+  It beats what is living and beats what is not dead
+
+  [Call and Response: congregation at full strength, horns shouting in thirds then collapsing to unison, clavinet hard on every offbeat, 16 bars]
+  The drum knows where I live
+  (Knows where I live!)
+  The drum knows where I live
+  (Knows where I live!)
+  I don't need a door, the ground is my floor
+  The drum always knew what the drum was for
+  The drum knows where I live
+  (Knows where I live!)
+
+  [Climax: leader + full congregation + full horn section + clavinet + polyrhythm locked, hard call-and-response, intensity peak, no key change, 20 bars]
+  The drum knows where I live
+  (Knows where I live!)
+  Knows where I live!
+  (Knows where I live!)
+  Every beat is a step back home
+  (Back home!)
+  Every pulse says you are not alone
+  (Not alone!)
+  The drum knows where I live
+  (The drum knows! The drum knows!)
+  The drum knows where I live
+  (Knows where I live!)
+
+  [Outro: horn section cuts hard, talking drum and congas alone, walking bass fades last, 8 bars]
+  [End]
+
+exclude_styles: "modern Afrobeats, Afropop, amapiano, highlife, juju music, Nigerian pop, club Afrobeats, South African house, gqom, Afro-fusion club, EDM, trap, 808 bass, phonk, drill, synthesizer leads, digital production, rock power chords, metal, new age, zen meditation, world music, Arabic, tribal, quarter-tone, microtonal, free jazz, atonal, experimental noise, ambient drone, gospel choir, gospel shout, autotune, reggaeton, dancehall, lo-fi, cinematic ambient, orchestral cinematic"
+
+notes: |
+  v487 TOURNAMENT WINNER (inline-judged 87/100; beat sibling candidate A "lockgroove + horn-solo breakdown" at 82 on richer/deeper lyrics [ancestral memory in rhythm, the escalating "I don't need a map/gate/door" chorus structure], a distinct well-realized architecture, AND cleaner negatives — candidate A used the place-name "Lagos" twice in its style, which the researcher flagged to avoid; B avoids all place-names). Lane: classic 1970s AFROBEAT (Fela-era) — never used (distinct from modern Afrobeats v270 and highlife v483). An energetic, brass-led, communal MALE lane — maximum contrast to v486's slow lush romantic female zouk.
+
+  HIGH VARIANCE: mid-tempo lockgroove (117, contrasts v486's 95 and v485's 148), MALE soulful belt call-and-response (not sung-female-ballad), brass-led polyrhythmic palette (a different rhythmic grammar entirely), defiant-communal mood. Vocal-gender alternation M/F held across v477-v487.
+
+  HOOK: "The drum knows where I live" / group response "Knows where I live!" (hook-writer 20/25) — the call names its own instrument (talking drum literally answers) and invokes home/belonging; genre-locked. Contour: D-minor 5-b6-5-3-1 (A-Bb-A-F-D), the b6 (Bb) on "KNOWS" is the fingerprint; horns voice the call a third apart then collapse to unison D; talking drum mirrors the phrase rhythm. Escalating chorus lines ("I don't need a map… a gate… a door…") accumulate.
+
+  ARCHITECTURE — congregation ACCUMULATION, arrangement-density climax (no modulation): leader ALONE -> group response joins -> horns stack -> clavinet+guitar thicken -> mid-song lyric-free [Clavinet and Guitar Groove] feature -> verse 3 over full bed -> full congregation + horn shout -> density CLIMAX ("Every pulse says you are not alone / Not alone!"), ensemble hard stop. Never strips back (except the deliberate leader-alone intro); NO key change (deliberately dropped the novelty-picker's D-minor->E-flat-minor half-step lift, a penalized template).
+
+  DURATION LEVER (addresses render learning): a melodically/lyrically FULL arc (leader call + 3 call-response choruses + verse 2 + verse 3 + climax) + a 24-bar lyric-free [Clavinet and Guitar Groove]. Groove stays live throughout.
+
+  INSTRUMENTS: talking drum + congas + bell polyrhythm, raw baritone + tenor sax HORN SECTION, CLAVINET (novelty: catalog-first, the fresh signature keyboard — funky percussive offbeat comps), staccato rhythm guitar, walking bass on the one. BPM 117 (novelty gap 151, Afrobeat pocket) and D minor (novelty gap 33, "most idiomatic funk/soul key") from the novelty surface, avoiding all recent keys.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/horns/brass/saxophone/guitar/clavinet/keyboard (all core). Excludes modern-Afrobeats/Afropop/amapiano/highlife drift + EDM/trap/synth-leads to hold the vintage 70s Afrobeat classification. English only (no Yoruba/place-names).
+
+  Style char count: 945.
+
+tags:
+  - classic-afrobeat
+  - 1970s-afrobeat
+  - 117bpm
+  - d-minor
+  - talking-drum
+  - clavinet
+  - sax-horn-section
+  - walking-bass
+  - call-and-response
+  - congregation-accumulation
+  - male-vocal
+  - raw-belt
+  - polyrhythmic
+  - communal
+  - defiant
+  - no-modulation
+  - new-lane
+  - clavinet-catalog-first
+  - instrumental-groove-section
+  - duration-3min
+  - research-driven
+  - high-variance
