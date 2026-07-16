@@ -1,6 +1,6 @@
 {
-  "total_prompts": 472,
-  "latest_version": 497,
+  "total_prompts": 473,
+  "latest_version": 498,
   "instruments": {
     "organ": [
       1,
@@ -387,6 +387,29 @@
       454,
       457
     ],
+    "upright bass": [
+      109,
+      122,
+      136,
+      187,
+      213,
+      228,
+      242,
+      271,
+      329,
+      343,
+      426,
+      431,
+      437,
+      438,
+      443,
+      449,
+      454,
+      460,
+      473,
+      495,
+      498
+    ],
     "french horn": [
       52,
       63,
@@ -409,28 +432,6 @@
       428,
       470
     ],
-    "upright bass": [
-      109,
-      122,
-      136,
-      187,
-      213,
-      228,
-      242,
-      271,
-      329,
-      343,
-      426,
-      431,
-      437,
-      438,
-      443,
-      449,
-      454,
-      460,
-      473,
-      495
-    ],
     "trumpet": [
       83,
       92,
@@ -447,7 +448,8 @@
       443,
       454,
       480,
-      481
+      481,
+      498
     ],
     "flugelhorn": [
       106,
@@ -964,6 +966,16 @@
       356,
       477
     ],
+    "trombone": [
+      139,
+      198,
+      251,
+      332,
+      354,
+      400,
+      481,
+      498
+    ],
     "baryton": [
       184,
       217,
@@ -1027,15 +1039,6 @@
       366,
       366
     ],
-    "trombone": [
-      139,
-      198,
-      251,
-      332,
-      354,
-      400,
-      481
-    ],
     "viola": [
       45,
       92,
@@ -1076,18 +1079,19 @@
       329,
       461
     ],
+    "clarinet": [
+      199,
+      248,
+      328,
+      343,
+      498
+    ],
     "taiko": [
       95,
       96,
       164,
       253,
       444
-    ],
-    "clarinet": [
-      199,
-      248,
-      328,
-      343
     ],
     "erhu": [
       102,
@@ -1313,6 +1317,7 @@
       316,
       317,
       319,
+      323,
       444,
       470
     ],
@@ -1449,18 +1454,17 @@
       305,
       453
     ],
-    "romantic": [
-      145,
-      149,
-      313
-    ],
     "amapiano": [
       266,
       343
     ],
-    "minimalist": [
-      201,
-      323
+    "breakbeat": [
+      357,
+      498
+    ],
+    "concerto": [
+      145,
+      149
     ],
     "passacaglia": [
       111,
@@ -1480,9 +1484,6 @@
     "afrobeats": [
       270
     ],
-    "breakbeat": [
-      357
-    ],
     "drill": [
       282
     ],
@@ -1501,8 +1502,14 @@
     "lo-fi": [
       296
     ],
+    "minimalist": [
+      201
+    ],
     "progressive house": [
       96
+    ],
+    "romantic": [
+      313
     ],
     "synthwave": [
       1
@@ -1859,6 +1866,18 @@
       445,
       480
     ],
+    "e-flat minor": [
+      79,
+      109,
+      123,
+      213,
+      224,
+      237,
+      255,
+      348,
+      466,
+      498
+    ],
     "b major": [
       122,
       230,
@@ -1891,17 +1910,6 @@
       433,
       473,
       493
-    ],
-    "e-flat minor": [
-      79,
-      109,
-      123,
-      213,
-      224,
-      237,
-      255,
-      348,
-      466
     ],
     "f major": [
       28,
@@ -2459,7 +2467,8 @@
       356,
       358,
       366,
-      442
+      442,
+      498
     ],
     "127": [
       217,
@@ -2699,6 +2708,20 @@
     ]
   },
   "titles": [
+    {
+      "version": 498,
+      "title": "Champagne498",
+      "name": "champagne-v498",
+      "featured": [
+        "trumpet",
+        "trombone",
+        "clarinet",
+        "upright bass"
+      ],
+      "genre": "breakbeat",
+      "key": "e-flat minor",
+      "bpm": 126
+    },
     {
       "version": 497,
       "title": "Leaving497",
@@ -4300,7 +4323,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -6216,7 +6239,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -6252,7 +6275,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

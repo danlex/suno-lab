@@ -1,0 +1,96 @@
+name: "room-v499"
+version: 499
+title: "Room499"
+instrumental: false
+vocal_gender: male
+
+style: "A slow-burn tizita ballad built on a single hypnotic two-chord vamp — bittersweet memory pooling in analog warmth. In D-sharp minor at 85 BPM, a vibraphone and clean electric organ lock into a minor-pentatonic ostinato that never stops; the arrangement grows by accretion, one layer per section. Warm upright bass enters first, then dry unhurried drums and hand percussion. A male tenor sings with aching intimacy over real chord movement, while a moaning tenor saxophone answers each phrase one beat behind in call-and-response. At peak density — tenor, vibraphone, saxophone, organ, bass, drums locked on the vamp — climax arrives by fullness, no key change. Then layers peel back: drums fall away, leaving vibraphone and organ in a warm sustained close, texture alive. Spring reverb, gentle tape saturation, wide warm stereo, dry room drums. Standard tuning. No quarter-tones, no microtonal scales, no rock band, no heavy metal, no synthesizers."
+
+lyrics: |
+  [Vibraphone Ostinato Intro: vibraphone and organ locked on the two-chord minor vamp, no other voices, 8 bars]
+
+  [Verse 1, Upright Bass Enters: male tenor sings, bass joins the vamp beneath]
+  Your coat still hangs where you left it
+  A little weight on that hook
+  I keep the window the same way
+  Afraid to move, afraid to look
+  The light falls flat on the table
+  The coffee cup cold in my hand (oh)
+  Every room holds what passed through it
+  More than the ones who remain
+
+  [Hook, Sax Answers: vocal states the hook, tenor sax answers with falling-fourth moan one beat behind]
+  You were the smoke
+  I'm still the room (oh, still the room)
+  You burned so clean through the doorway
+  And left me holding your perfume
+
+  [Verse 2, Drums and Hand Percussion Enter: dry unhurried kit and shaker join, fuller pocket, sax call-response denser]
+  I find your name in the margins
+  Of pages I meant to burn
+  The chair you pulled to the window
+  Still angled the way you'd turn
+  Memory works like a vapor
+  It fills every crack in the wall (still here)
+  I keep breathing it in now
+  Not ready to let it dissolve
+
+  [Hook, Sax Answers: all layers present, vocal and sax tighter dialogue]
+  You were the smoke
+  I'm still the room (oh, still the room)
+  You burned so clean through the doorway
+  And left me holding your perfume
+
+  [Tenor Sax Feature: lyric-free sax takes the melodic statement over the locked vamp, vibraphone answers phrase by phrase, full band present, 16 bars]
+
+  [Final Hook Accretion: vocal and tenor sax intertwine and harmonize at fullest density over the locked vamp, no key change, peak richness]
+  You were the smoke
+  I'm still the room (still the room)
+  You burned so clean through the doorway
+  And left me holding, holding your perfume (oh)
+  Still the room — still the room
+
+  [Vibraphone and Organ Vamp: drums and bass peel away, vibraphone and organ sustain the two-chord vamp alone, warm and controlled close, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, electronic, EDM, synth-pop, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, orchestral classical, cinematic ambient, elegiac, vocal jazz choir"
+
+notes: |
+  v499 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate A "sectional verse/chorus ballad + dynamic-swell climax" at ~80 — B's hook develops the smoke metaphor to a richer "left me holding your perfume" payoff, its 8-line verses carry a thematically unified smoke/vapor/perfume/dissolve imagery arc [vs A's 4-line verses], the single-vamp gradual-accretion is the authentic Ethio-jazz long-vamp additive structure, and B carries MORE sung content than A so it's also the safer duration bet). Lane: ETHIO-JAZZ TIZITA BALLAD — never used in v462-v498; warm/moody/organic/reflective MALE tenor — max contrast to v498's bold brassy fast female cabaret electro-swing. (Researcher returned Ethio-jazz as vibraphone/sax-instrumental-leaning; reconciled to the genre's authentic sung TIZITA BALLAD form so v499 keeps the MALE-vocal alternation + a sung hook.)
+
+  HIGH VARIANCE: warm aching intimate MALE TENOR (reflective/nostalgic — distinct from every recent male: afroswing breathy v497, bossa croon v495, cumbia tenor v493), slow hypnotic 85 BPM (breaks from the recent 126/93/131/73/153 cluster), D-sharp MINOR minor-pentatonic modal (novelty gap 25, brooding), acoustic-jazz vibraphone/sax/organ palette. Vocal-gender alternation M/F held across v477-v499 (v498 female → v499 male).
+
+  HOOK: "you were the smoke, I'm still the room" (hook-writer 22/25) — a spatial two-clause metaphor (the departed dispersed like smoke; the singer remains as the room that holds the trace). Contour: three level D-sharp-tonic syllables ("you were the smoke") → perfect-fourth lift to G-sharp ("I'm still the") → "room" held long on the flat-7 (C-sharp), unresolved; tenor sax answers with the rising fourth inverted as a falling-fourth moan one beat behind (call-and-response tail). Payoff line completes the metaphor: "You burned so clean through the doorway / And left me holding your perfume."
+
+  ARCHITECTURE — hypnotic single-vamp GRADUAL-ACCRETION (non-modulation, genre-authentic): vibraphone/organ two-chord ostinato intro → +upright bass (V1) → hook (sax answers) → +dry drums/hand-perc (V2, denser dialogue) → hook → described lyric-free [Tenor Sax Feature] (sax leads, vibraphone answers, full band, 16 bars — duration lever) → FINAL HOOK fullest-accretion density climax (vocal + sax intertwining, no key change) → reverse-accretion [Vibraphone and Organ Vamp] warm SUSTAINED close (drums/bass peel away, texture alive — NOT fade-to-silence / NOT a note left hanging in reverb). Dropped the penalized half-step lift.
+
+  DURATION GUARD (learnings): full sung arc (two 8-line verses + three hook passes with development) + a described textured 16-bar sax feature + a sustained-vamp close (no dissolution-to-silence). Slow 85 BPM caps ~3:30 (accepted; emotional density over bar arithmetic).
+
+  INSTRUMENTS: VIBRAPHONE (hypnotic ostinato + melodic hero) + moaning/bending TENOR SAX (call-and-response to the vocal) + clean electric ORGAN (two-chord vamp) + warm UPRIGHT BASS + dry unhurried drum kit + light hand percussion. Analog-warm (spring reverb, tape saturation, dry drums). BPM 85 (novelty gap 446, near-virgin) and D-sharp minor (novelty gap 25) from the novelty surface; dropped its nyckelharpa suggestion (Ethio-jazz is vibraphone/sax/organ).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/vibraphone/saxophone/electric-organ/upright-bass/drums/percussion (all core). STANDARD-TUNING GUARD "no quarter-tones, no microtonal scales" + "Arabic/microtonal/quarter-tone" in exclude_styles keeps Suno off Arabic/microtonal drift (tizita is a clean pentatonic mode in standard tuning). "electronic" excluded = fine (acoustic/electric-organ jazz, no synths; "electric organ" named positively). English only, NO place-names, NO ethnicity/nationality words in style/lyrics.
+
+  Style char count: 948.
+
+tags:
+  - ethio-jazz
+  - tizita-ballad
+  - vibraphone
+  - tenor-saxophone
+  - electric-organ
+  - upright-bass
+  - 85bpm
+  - d-sharp-minor
+  - minor-pentatonic-modal
+  - male-tenor
+  - call-and-response
+  - gradual-accretion
+  - single-vamp-form
+  - bittersweet-memory-scene
+  - analog-warm
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
