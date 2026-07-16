@@ -487,6 +487,7 @@ mindmap
 | 470 | Lantern470 | full orchestral/choir density-swell climax (no modulation) | D major | 109 | nyckelharpa + oboe d'amore + french horn |
 | 471 | Wont471 | Jersey-pause kick-vamp into full chop-drop (no modulation); clip1 short 1:47, clip2 3:06 — minimal-chop jersey lanes can render short | E minor | 138 | triplet kick + staccato 808 bass + pitched vocal chop (marimba chop-stabs) |
 | 472 | Familiar472 | breakdown into second-drop density/pad-register lift (no modulation) | C-sharp major | 176 | rolling liquid bass + warm piano + chalumeau |
+| 473 | Borrowed473 | sung-chorus/rapped-verse split; final chorus density+register lift with muted trumpet (no modulation) | E-flat major | 88 | walking upright bass + Wurlitzer + cor anglais |
 
 ## Next-cycle priorities
 

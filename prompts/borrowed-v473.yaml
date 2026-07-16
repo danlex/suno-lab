@@ -1,0 +1,87 @@
+name: "Borrowed473"
+version: 473
+style: "Warm late-night live band — walking upright bass and brushed snare breathing between every line. Jazz-rap meets neo-soul in E-flat major at 88 BPM, a male baritone singing the hook with full-throated soul then rapping verses in a smooth conscious cadence over a spare groove. Wurlitzer electric piano comps in a maj9 pocket, cor anglais adds a warm reedy countermelody that surprises and settles, muted trumpet stabs punctuate the band hits. Polished studio mix with deep low-end definition and wide stereo stage. Total duration around 3:00. The sung hook carries a blue-note lean on \"light,\" descends softly on \"but it's mine,\" and the muted trumpet bends up in the gap after. Final chorus returns fuller with trumpet doubling the hook melody — density and register as the climax, no key change needed. No drum machine, no 808, no synthesizer bass, no autotune, no trap hi-hats."
+title: "Borrowed473"
+lyrics: |
+  [Sung Intro Hook: baritone solo with Wurlitzer, 8 bars]
+  Borrowed light, but it's mine
+  Something real in this borrowed life — still mine
+
+  [Rapped Verse 1: walking upright bass, brushed snare, piano comp, 16 bars]
+  Started with nothing but the sound of my own breathing
+  Somewhere between the leaving and the reason for believing
+  People hand you mirrors, say "here, look at what you're worth"
+  I gave those mirrors back — been digging since the dirt
+  Read the room wrong, read the room right
+  Either way the lesson leaves a mark by morning light
+  Roots run deep where nobody came to plant them
+  Grew from what was borrowed — never asked permission, never thanked them
+
+  [Sung Chorus: full live band, cor anglais countermelody, 8 bars]
+  Borrowed light, but it's mine
+  Every crack let something through the line
+  Borrowed light, but it's mine
+  And I'm standing where I chose to stand this time
+
+  [Rapped Verse 2: sparse groove, Wurlitzer comping, 16 bars]
+  I've been counting all the voices that were never meant for me
+  The noise of other people's certainties
+  You can wear a borrowed confidence like it's a second skin
+  Or you can learn to trust the quiet place you carry deep within
+  No one hands you your arrival — you just notice you've arrived
+  Look around and see the evidence of everything you've survived
+  Worth is not a number that somebody else decides
+  Walk your own meridian — the compass always guides
+
+  [Sung Chorus: full band, muted trumpet stabs, 8 bars]
+  Borrowed light, but it's mine
+  Every crack let something through the line
+  Borrowed light, but it's mine
+  And I'm standing where I chose to stand this time
+
+  [Jazz Piano Solo: Wurlitzer and cor anglais, walking upright bass, 32 bars]
+
+  [Final Sung Chorus: fuller, muted trumpet doubles hook melody, baritone higher, 8 bars]
+  Borrowed light, but it's mine
+  Every crack let something through the line
+  Borrowed light, but it's mine
+  And I carry it — I carry it — it's mine
+
+  [Outro: cor anglais fades, single low upright bass note, 4 bars]
+  (it's mine)
+
+  [End]
+instrumental: false
+vocal_gender: male
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi hip hop, EDM, electronic, pipe organ, drum machine, trap, trap hi-hats, 808, synthesizer bass, autotune, new age, zen meditation, free jazz, atonal, microtonal, quarter-tone, turntablism, mumble rap, grime"
+notes: |
+  Jazz-rap meets neo-soul is the structural conceit: the song alternates between a fully SUNG chorus (with precise melodic contour — two equal notes on "Borrowed," a minor-third step up to a held blue note on "light" over a maj9 chord, stepwise descent on "but it's mine," muted trumpet answering in the gap) and a genuinely RAPPED verse in a smooth conscious baritone cadence. This sung/rap structural split — not a single-mode track — is the form novelty for cycle v473. The concept source: introspective self-worth, roots, and path, delivered in the jazz-rap × neo-soul register that borrows from late-90s conscious rap and early-00s neo-soul live-band traditions without naming any composer or performer.
+
+  Duration strategy: 88 BPM at E-flat major puts us in the slow-BPM ceiling band (~3:30 max), so the playbook move is an explicit lyric-free [Jazz Piano Solo] vamp (~32 bars, ~25-30 seconds at 88 BPM) as the primary duration lever, plus a final lyric line deep in the arrangement. No key modulation — the climax is density and register (muted trumpet doubles the hook melody in the final chorus, cor anglais sustains a countermelody above). Production tokens: polished studio mix, deep low-end definition, wide stereo stage. Sentence case throughout. Atmospheric-first opening.
+
+  Instrument roles and novelty: Walking upright bass (gap ~116 cycles) is the rhythmic and harmonic anchor, providing the groove that makes the rapped verses breathe. Wurlitzer electric piano (gap ~116 cycles) comps warm maj9 voicings throughout — it is the harmonic soul of the track and emphatically NOT a synthesizer. Cor anglais (gap ~116 cycles) is the signature fresh color — warm, reedy, slightly nasal, sitting in the upper-mid register where it can float as a countermelody above the baritone without fighting the voice. Muted trumpet stabs punctuate band hits and return in the final chorus to double the hook melody, lifting the register without a key change. Brushed snare keeps time loose and acoustic.
+
+  Novelty claims: jazz-rap × neo-soul live-band form is unused in the catalog; sung/rap structural split is a new architecture; cor anglais as soul-band signature color has not appeared in this role; male baritone rebalances a recent female/electronic run; 88 BPM at E-flat major is unused. Style char count: 879.
+tags:
+  - upright-bass
+  - wurlitzer
+  - cor-anglais
+  - muted-trumpet
+  - brushed-snare
+  - 88bpm
+  - e-flat-major
+  - jazz-rap
+  - neo-soul
+  - live-band
+  - male-baritone
+  - sung-rap-split
+  - revival-cor-anglais-116-gap
+  - revival-wurlitzer-116-gap
+  - revival-upright-bass-116-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - conscious-rap
+  - introspective
+  - self-worth-theme
