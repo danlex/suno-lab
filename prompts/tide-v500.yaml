@@ -1,0 +1,116 @@
+name: "tide-v500"
+version: 500
+title: "Tide500"
+instrumental: false
+vocal_gender: female
+
+style: "Hi-NRG eurodance at 139 BPM in B minor — heartbreak into pure forward motion, bittersweet-euphoric and anthemic. A soaring female belt is the melodic star: chest-forward, emotionally direct, wide interval leaps with raw power. Four-on-the-floor kick locks with a driving 16th-note octave bassline; bright staccato synth stabs punch the offbeats; a sequenced analog synth lead doubles and answers the vocal hook. Bright maximalist club mix, wide reverberated vocal, punchy kick, driving octave bass, deep low-end definition. Real sung verses with chord movement, a rising pre-chorus tightening the stabs, then the drop-hook locks kick-bass-stabs at full density. Mid-song synths filter while kick and bass continue, stabs build through the breakdown; final hook returns with doubled synth layer, belt at full power, no key change. Live-groove outro, controlled close. No acoustic guitar, no rock band, no trap, no dubstep, no orchestral strings."
+
+lyrics: |
+  [Intro: staccato synth stabs + four-on-the-floor kick + octave bassline lock, no vocal, 8 bars]
+
+  [Verse 1: female vocal sung over the octave-bass groove, chord movement in B minor]
+  I gave you every open road
+  You left me standing in the cold
+  But cold is where the current starts
+  Something moving through my heart
+
+  [Pre-Chorus: stabs tighten, octave bass drives harder, tension rises]
+  I am not the thing you broke
+  I am not the fading smoke
+  Feel the undertow let go
+  Watch me rise before I go
+
+  [Drop-Chorus: full kick-bass-stabs lock, analog synth lead doubles the hook leap, belt at full power]
+  I am the tide, not the wreck
+  (tide!)
+  I am the tide, not the wreck
+  (oh-oh)
+  Rising where you least expect
+  Moving on, no looking back
+  I am the tide, not the wreck
+
+  [Verse 2: groove continues, vocal more open and defiant, chord movement deepens]
+  You thought the leaving made me small
+  But small is how the waves start tall
+  Every time you pushed me back
+  The current pulled me off the track
+  Off your track — into the black
+
+  [Pre-Chorus: stabs tighter, synth builds, pre-drop tension peaks]
+  I am not the thing you broke
+  I am not the fading smoke
+  Feel the undertow let go
+  Watch me rise before I go
+
+  [Drop-Chorus: full density, crowd-ready, synth lead soaring]
+  I am the tide, not the wreck
+  (tide!)
+  I am the tide, not the wreck
+  (oh-oh)
+  Rising where you least expect
+  Moving on, no looking back
+  I am the tide, not the wreck
+
+  [Synth Breakdown: four-on-the-floor kick steady, octave bassline continues driving, synth stabs filter in and out building tension, no lead vocal, 16 bars]
+
+  [Final Chorus: density-return climax — doubled synth layer enters, all elements peak, kick-bass-stabs fully locked, belt at maximum power, no key change]
+  I am the tide, not the wreck
+  (tide! tide!)
+  I am the tide, not the wreck
+  (oh-oh, yeah)
+  Rising where you least expect
+  (rising now)
+  Moving on, no looking back
+  I am the tide — not the wreck
+  (the tide!)
+  I am the tide — not the wreck
+
+  [Outro: kick, octave bass and stabs stay alive in the groove, female vocal ad-libs over the pulse, controlled close]
+  (tide... tide...)
+  (rising, rising)
+  (not the wreck, not the wreck)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock band, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, trap, dubstep, trance breakdown, progressive house, orchestral, cinematic ambient, country, folk"
+
+notes: |
+  v500 MILESTONE — TOURNAMENT WINNER (inline-judged ~87/100; beat sibling candidate B "hook-forward continuous-euphoria + synth-lead solo centerpiece" at ~86 — A is the better milestone bet: fuller arc [two full verses + two pre-choruses + three choruses + a richly-described 16-bar breakdown = strongest duration insurance], the breakdown→density-return delivers the classic big eurodance dynamic frisson vs B's flatter continuous energy, and A's pre-chorus is a genuine SECOND hook B lacks; B's synth-solo bracket also lacked a bar count). Lane: HI-NRG EURODANCE — never used in v462-v499 (distinct from synthwave/trance entries); bold/euphoric/danceable FEMALE belt — max contrast to v499's slow warm reflective male acoustic-jazz ballad. A fitting energetic anthem for the 500 milestone.
+
+  HIGH VARIANCE: soaring reverberated FEMALE BELT (euphoric-anthemic — distinct from every recent female: cabaret belt v498, house diva v496, hyperpop v494), fast driving 139 BPM (near-virgin, novelty gap 277; breaks from the recent 85/126/93/131/73 cluster), B MINOR (dramatic-soaring, novelty gap 25 — deliberately chose B minor over the novelty's G-sharp minor, which is enharmonic to A-flat minor from v495 only 5 cycles back), maximalist analog-synth production. Vocal-gender alternation M/F held across v477-v500 (v499 male → v500 female).
+
+  HOOK: "I am the tide, not the wreck" (hook-writer 22/25) — a binary self-declaration (she is the unstoppable elemental force, not the damage left behind); heartbreak transmuted into forward motion. Contour: minor-sixth leap (B3->G4) on the belted "TIDE" held one beat against the four-on-the-floor (the chest-opening eurodance interval); comma-pause on a 16th-note bassline rest; "not the WRECK" drops a perfect fourth to D4 matching the staccato stabs; analog synth lead doubles the B3->G4 leap an octave up the following bar. Pre-chorus is a strong second hook: "I am not the thing you broke / I am not the fading smoke." Extended tide/wreck metaphor: "But small is how the waves start tall."
+
+  ARCHITECTURE — classic eurodance verse/pre-chorus/drop-hook, density-return climax (non-modulation): synth-stab+kick+octave-bass ostinato intro → V1 → pre-chorus build → belted drop-hook (synth lead doubles the leap) → V2 → pre-chorus → drop-hook → textured [Synth Breakdown] (kick + octave bass CONTINUE, synth stabs filter/build tension over 16 bars — NOT near-silence; the tension lever) → final hook DENSITY-RETURN climax (doubled synth layer, all peak, belt at full power, no key change) → live-groove outro (kick+bass+stabs alive, controlled close — NO cold stop). Deliberately DROPPED the researcher's suggested half-step lift (penalized).
+
+  DURATION GUARD (learnings): full melodic sung arc (two full verses + two pre-choruses + three choruses) + a described textured 16-bar breakdown (kick+bass continue, not near-silence) + a live-groove no-cold-stop outro. Fast 139 BPM sits in the proven 130-160 band → targets 3:30-4:30.
+
+  INSTRUMENTS: four-on-the-floor KICK + driving 16th-note sequenced OCTAVE BASSLINE + bright staccato SYNTH STABS + soaring sequenced ANALOG SYNTH LEAD (melodic hero, doubles/answers the vocal) + big reverberated female belt. BPM 139 (novelty gap 277, near-virgin) and B minor (novelty gap 25) from the novelty surface; dropped its steelpan suggestion (hi-NRG is synth/bass/kick-driven) and its G-sharp-minor key (enharmonic to recent A-flat minor).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/synth/synthesizer/electronic/bass/kick/drums (all core). Standard-tuning guard (microtonal/quarter-tone/Arabic excluded) is harmless for eurodance. Excludes trance-breakdown/progressive-house (researcher-flagged drift) + rock/acoustic/trap/dubstep/orchestral. English only, no place-names, no ethnicity/nationality words. Reconciled the researcher's "female belt over MALE rap verse" to FEMALE-throughout to hold the M/F alternation.
+
+  Style char count: 944.
+
+tags:
+  - hi-nrg
+  - eurodance
+  - female-vocal
+  - belt
+  - four-on-the-floor
+  - octave-bassline
+  - synth-stabs
+  - analog-synth-lead
+  - 139bpm
+  - b-minor
+  - dancefloor-defiance-scene
+  - bittersweet-euphoric
+  - density-return-climax
+  - no-modulation
+  - verse-chorus-form
+  - synth-breakdown-lever
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
+  - milestone-500
