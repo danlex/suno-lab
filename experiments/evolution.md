@@ -511,6 +511,7 @@ mindmap
 | 494 | Upload494 | hyperpop maximalist glitch-pop, strip-to-crash + second-drop density climax, hook 'I uploaded the ache' with production-as-meaning pitched vocal-chop cascade | A major | 153 | hard-tuned female vocal + supersaw hyper-synth + 808 sub-bass (glitch drums, formant-shifted vocal layers, pitched chops) |
 | 495 | Accent495 | intimate bossa nova croon, classic verse/chorus with flute-solo peak then strip-back final (non-modulation frisson climax), hook 'the silence has your accent' with rising-minor-second flute echo fingerprint | A-flat minor | 73 | warm close-mic male croon + fingerpicked nylon-string guitar batida + walking upright bass + flute counter-melody (brushed snare, dense maj7/9/13 jazz harmony) |
 | 496 | Finallyreal496 | classic soulful house diva anthem, vocal-house song form with density climax (non-modulation), hook 'Three a.m. and I am finally real' with G-sharp belt + call-and-response tails | C-sharp major | 131 | soulful diva belt + TR-909 four-on-the-floor + rolling machine bassline + soulful piano stabs (Hammond organ swells, hand-claps) |
+| 497 | Leaving497 | UK afroswing, hook-forward / post-chorus-earworm form with groove-lift climax (non-modulation), hook 'I know your leaving face' + recurring wordless mm-mm-oh-oh earworm | F-sharp minor | 93 | breathy lightly-autotuned melodic male vocal + warm 808 sub-bass + plucked thumb-piano synth (syncopated snare-on-3, light electric guitar, shakers) |
 
 ## Next-cycle priorities
 

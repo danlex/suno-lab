@@ -1,0 +1,122 @@
+name: "leaving-v497"
+version: 497
+title: "Leaving497"
+instrumental: false
+vocal_gender: male
+
+style: "Warm, sultry UK afroswing with a bittersweet late-night glow — breathy close-mic male voice at the centre, lightly Auto-Tuned, melodic and floating with a tender pull beneath every phrase. Spacious warm mix, deep 808 low-end definition anchoring a slow syncopated bounce at 93 BPM, wide stereo stage opening around a plucked thumb-piano synth figure that answers the vocal like a second voice in call-and-response. Syncopated snare lands hard on beat 3, shakers weave the afroswing lilt through every bar, a light electric guitar texture drifts soft at the edges of the mix. F-sharp minor throughout — no key change; the climax arrives by groove-lift and layered accumulation, pluck lines and doubled vocal stacking until the room fills. The mood is self-possessed desire brushed with quiet heartache: confident but tender, smooth but a little undone. No rock band, no heavy metal, no EDM festival drop, no orchestral scoring, no jazz."
+
+lyrics: |
+  [Cold Open Hook: breathy, pluck alone, 808 drops in on the repeat]
+  I know your leaving face (oh)
+  Eyes already at the door
+  I know your leaving face
+  Like I've known it all before
+
+  [Post-Chorus Earworm: wordless melodic figure, mm-mm rising to oh-oh, thumb-piano answers]
+  Mm-mm, oh-oh
+  Mm-mm, oh
+  Mm-mm, oh-oh (oh)
+  Mm
+
+  [Verse 1: melodic sung flow, chord movement through F-sharp minor to A major]
+  You move like the night's still early
+  But I feel the cool come in
+  You smile like you're right beside me
+  Already somewhere thin
+  I hold what you give so gently
+  You reach but you can't begin
+  And I keep the warmth between us
+  While you let the door swing (oh)
+
+  [Hook: full 808 in, snare hard on three]
+  I know your leaving face (oh)
+  Eyes already at the door
+  I know your leaving face
+  Like I've known it all before
+
+  [Post-Chorus Earworm: mm-mm oh-oh, single thumb-piano line]
+  Mm-mm, oh-oh
+  Mm-mm, oh
+  Mm-mm, oh-oh (oh)
+  Mm
+
+  [Verse 2: melodic sung, harmonic movement, tender and unhurried]
+  You dress like you mean to linger
+  But your hands give you away
+  I trace the line of your shoulder
+  You're already in the gray
+  We both know the shape this takes now
+  We've been here before today
+  So I love you a little louder
+  For the part you can never stay (oh)
+
+  [Hook: warm and full]
+  I know your leaving face (oh)
+  Eyes already at the door
+  I know your leaving face
+  Like I've known it all before
+
+  [Post-Chorus Earworm: stacked, vocal harmony enters underneath]
+  Mm-mm, oh-oh
+  Mm-mm, oh
+  Mm-mm, oh-oh (oh)
+  Mm-mm, oh
+
+  [Guitar and Thumb-Piano Break: light electric guitar and plucked synth trading phrases over 808 bounce and shakers, no lyrics, groove deepens]
+
+  [Final Groove-Lift: extra pluck lines, fuller 808, doubled vocal, hook and earworm stacked to fullest density]
+  I know your leaving face (oh)
+  Eyes already at the door
+  I know your leaving face (mm-mm, oh-oh)
+  Like I've known it all before (oh)
+  I know your leaving face (mm-mm, oh)
+  I know, I know (oh-oh)
+  I know your leaving face (mm)
+  Like I've known it all before
+
+  [Outro: groove settles back, thumb-piano and shakers alone, vocal fades on a held oh]
+  Mm-mm, oh-oh (oh)
+  Mm-mm, oh
+  Mm
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock band, heavy metal, EDM festival drop, orchestral, jazz, lo-fi, pipe organ, choral, gospel belting, free jazz, atonal, quarter-tone, hard rap, grime"
+
+notes: |
+  v497 TOURNAMENT WINNER (inline-judged ~85/100; beat sibling candidate A "classic verse/hook song form + strip + vamp + density-return" at ~84 on distinctiveness + catchiness — B's recurring wordless "mm-mm oh-oh" post-chorus earworm is a genuine second hook that grows/stacks [a singable replay driver for our danceable-leaning audience], with verses matching A's writing quality). Lane: UK AFROSWING — never used in v462-v496 (distinct from afrobeats v270 and amapiano); a warm/sultry/danceable MALE melodic lane — strong contrast to v496's fast bright four-on-the-floor machine-house FEMALE.
+
+  HIGH VARIANCE: breathy lightly-autotuned MELODIC MALE (floating/sultry — distinct from every recent male: bossa croon v495, cumbia tenor v493, P-funk warm v489), warm sultry 93 BPM afroswing bounce (breaks from the recent 131/73/153/101/91 cluster), F-sharp MINOR (warm/aching, novelty gap 34), 808/thumb-piano/light-guitar production. Vocal-gender alternation M/F held across v477-v497 (v496 female → v497 male).
+
+  HOOK: "I know your leaving face" (hook-writer 20/25) — coins an ownable emotional compound noun (the micro-expression of someone who has already internally decided to leave). Contour: early 16th-note anticipation pickup ("I KNOW your" before beat 1) → stepwise rise to C# (minor 3rd) on "LEAV-ing" → minor-3rd drop to A on "FACE" landing dead on the snare (beat 3) → light Auto-Tune tail → thumb-piano echo answers. Plus the "mm-mm oh-oh" post-chorus earworm (second hook). Narrative: "You dress like you mean to linger / But your hands give you away"; "So I love you a little louder / For the part you can never stay."
+
+  ARCHITECTURE — hook-forward / post-chorus-earworm form, groove-lift climax (non-modulation): COLD-OPEN hook (breathy, pluck alone, 808 on the repeat) → wordless post-chorus earworm → V1 (melodic sung flow, F#m→A movement) → hook → earworm → V2 → hook → earworm (stacked) → described lyric-free [Guitar and Thumb-Piano Break] (duration lever) → FINAL GROOVE-LIFT (extra pluck lines, fuller 808, doubled vocal, hook + earworm stacked to fullest density) → live-groove outro (thumb-piano + shakers hold, NO cold stop). Dropped the penalized half-step lift; climax by accumulation.
+
+  DURATION GUARD (learnings): NOT a groove-primary one-phrase loop — full melodic sung arc (two 8-line verses + cold-open hook + 3 hook passes + growing earworm) + a described textured break + a live-groove no-cold-stop outro.
+
+  INSTRUMENTS: warm 808 sub-bass + syncopated snare-on-3 + plucked THUMB-PIANO synth (melodic hero / call-and-answer) + light electric guitar texture + shakers. BPM 93 (novelty gap 156, warm afroswing bounce) and F-sharp minor (novelty gap 34) from the novelty surface; dropped its oboe-d'amore suggestion (not afroswing-authentic — the 808/synth-pluck/light-guitar palette is the genre).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/autotune/808/synth/electronic/bass/electric-guitar (all core). REMOVED "reggae, dancehall" from the drafter's exclude_styles on promotion — afroswing's snare-on-3 bounce is dancehall-derived (the genre began as "afrobashment"), so excluding dancehall would rub against its rhythmic core. Excludes rock/metal/EDM-drop/orchestral/jazz + hard-rap/grime (the harder grime-adjacent edge afroswing's melodic wing avoids) + drift. English only, NO patois/pidgin, no place-names in style/lyrics.
+
+  Style char count: 935.
+
+tags:
+  - uk-afroswing
+  - afroswing
+  - 808-bass
+  - thumb-piano-synth
+  - electric-guitar
+  - 93bpm
+  - f-sharp-minor
+  - male-vocal
+  - melodic-hook
+  - hook-forward
+  - post-chorus-earworm
+  - groove-lift-climax
+  - no-modulation
+  - bittersweet-scene
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
