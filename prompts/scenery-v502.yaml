@@ -1,0 +1,102 @@
+name: "scenery-v502"
+version: 502
+title: "Scenery502"
+instrumental: false
+vocal_gender: female
+
+style: "Cold glam and gritty electro attitude — deadpan female vocal, sly and taunting on the verses, icy-confident and melodic on the sung chorus hook. Lo-fi gritty electro mix: punchy distorted analog bassline, TR-808 four-on-the-floor kick, gated metallic snare, biting sawtooth synth leads, D-major arpeggiator stabs that answer every hook phrase. Wide cold stereo stage, tight punchy low-end, club-floor presence with a sharp electro edge. D major, 133 BPM. Verse dynamics strip to bass and hi-hat tension before detonating into a full synth-stab chorus wall. Mid-song arpeggiator break keeps the 808 groove and analog bass alive — textured, not empty. Final chorus density climax adds a pitch-shifted doubled vocal layer over the full synth-stab wall, no key change. Nightlife artifice, glam detachment, a sly kiss-off with a smile. No acoustic guitar, no live band, no orchestral strings, no trap, no jazz."
+
+lyrics: |
+  [808 Kick and Sawtooth Intro, no vocal, 8 bars]
+
+  [Verse 1: deadpan talk-sung over gated snare groove]
+  You walk in like you own the light
+  I've seen that move a hundred nights
+  The coat, the look, the way you stand
+  All borrowed from a better plan
+  I clock you from across the floor
+  You're decorative, nothing more
+
+  [Pre-Chorus Strip: bass and hi-hat only, tension building, 4 bars]
+  Everyone's performing here
+  Everyone's a chandelier
+
+  [Chorus: full synth-stab wall, arpeggiator answers, sung melodic hook]
+  Darling, you're scenery (scenery)
+  Darling, you're scenery (oh)
+  Something to look at while the night moves by
+  Pretty and fixed beneath the light
+  Darling, you're scenery
+
+  [Verse 2: deadpan cool, 808 groove restored]
+  You circulate, you smile on cue
+  The room arranges itself for you
+  But rooms forget by morning light
+  What filled their corners overnight
+  I've been the art, I've been the frame
+  Furniture answers to no name
+
+  [Pre-Chorus Strip: bass and hi-hat only, tension building, 4 bars]
+  Everyone's performing here
+  Everyone's a chandelier
+
+  [Chorus: full synth-stab wall, arpeggiator answers, sung melodic hook]
+  Darling, you're scenery (scenery)
+  Darling, you're scenery (oh)
+  Something to look at while the night moves by
+  Pretty and fixed beneath the light
+  Darling, you're scenery
+
+  [Arpeggiator Break: filtered D-major arpeggiator over 808 four-on-the-floor and analog bass, synth stabs building, 16 bars]
+
+  [Final Chorus: pitch-shifted doubled vocal layer enters, full synth-stab wall, no key change]
+  Darling, you're scenery (scenery)
+  Darling, you're scenery (oh)
+  Something to look at while the night moves by
+  Pretty and fixed beneath the light
+  Darling, you're scenery (scenery)
+  Darling, you're scenery
+
+  [Live-Groove Outro: 808 kick, analog bass and arpeggiator sustain, fading synth stabs, controlled close, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, live band, orchestral, trap, dubstep, jazz, lo-fi hip hop, R&B, soul, country, folk, rock, metal, reggae, ambient, new age, pipe organ, choir, cinematic ambient, elegant ambient"
+
+notes: |
+  v502 TOURNAMENT WINNER (inline-judged ~87/100; beat sibling candidate B "continuous machine-groove call-and-taunt" at ~82 AND B carried a FATAL negative-prompt contradiction — its exclude_styles literally ended with "vocals excluded, no singing" on a sung song [feedback_negative_prompt_contradiction], which would have rendered it instrumental/broken the vocal. A won on the merits regardless: richer melodic hook with a real lyrical extension, sharper/more developed deadpan narrative, stronger strip-and-detonate dynamic frisson — and A's negatives are clean). Lane: ELECTROCLASH — never used in v462-v501; edgy/gritty/electronic FEMALE with a COOL DEADPAN vocal register (fresh on the vocal axis too — distinct from the recent female belts v496/v498/v500, hyper-tuned hyperpop v494, intimate soul v492) — strong contrast to v501's slow warm male roots-dub.
+
+  HIGH VARIANCE: cool DEADPAN-to-melodic FEMALE (detached/taunting/icy — a genuinely different female register), fast edgy 133 BPM (breaks from the recent 77/139/85/126/93 cluster), D MAJOR (bright/punchy, novelty gap 32 — the edge comes from gritty synths + cold delivery against the bright key; continues key-color variance after the G-major reset), lo-fi gritty electro production. Vocal-gender alternation M/F held across v477-v502 (v501 male → v502 female).
+
+  HOOK: "Darling, you're scenery" (hook-writer 20/25) — turns an endearment into a demotion in three syllables (she reduces you to furniture without raising her voice — the ultimate cool-register put-down). Contour: three syllables on beats 2-3-4 after a one-beat 808-silent lead-in; "scen-er-y" holds a slight rising step on the final syllable; a sawtooth synth stab answers on beat 1 of the next bar; a D-major arpeggiator (D-F#-A-D) fills the gap. Melodic sung chorus with extension "Something to look at while the night moves by / Pretty and fixed beneath the light." Deadpan-witty verses: "The coat, the look, the way you stand / All borrowed from a better plan"; "Furniture answers to no name."
+
+  ARCHITECTURE — verse/chorus STRIP-AND-DETONATE, pitch-shifted doubled-vocal density climax (non-modulation): 808+sawtooth intro → deadpan V1 → taut [Pre-Chorus Strip] (bass + hi-hat only, tension held, NOT silence) → detonating synth-stab CHORUS (catchy sung hook) → V2 → pre-chorus strip → chorus → described lyric-free [Arpeggiator Break] (filtered arp over 808 + analog bass, synth stabs building, 16 bars — textured, NOT empty; duration lever) → FINAL CHORUS density climax (pitch-shifted doubled vocal layer + full synth-stab wall, no key change) → live-groove outro (808 + bass + arp sustain, controlled close — NO cold stop). No half-step lift.
+
+  DURATION GUARD (learnings): electroclash deadpan vocals render short if too sparse — mitigated by a genuinely MELODIC catchy sung chorus (not just talk) + a full verse/chorus arc (two 6-line verses + pre-choruses + three choruses) + the textured 16-bar arp break + a live-groove no-cold-stop outro. 133 BPM sits in the proven 130-160 band → targets 3:30-4:30.
+
+  INSTRUMENTS: TR-808 four-on-the-floor + gated metallic snare + punchy distorted analog BASS + biting SAWTOOTH synth leads + D-major ARPEGGIATOR stabs (the melodic-answer voice). Lo-fi gritty electro. BPM 133 (novelty gap 149) and D major (novelty gap 32) from the novelty surface; dropped its D-flat-minor suggestion (enharmonic to C#m v492) and the ondes-martenot (electroclash is 808/sawtooth/arp-driven).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/synth/synthesizer/electronic/808/drum-machine/bass/arpeggiator (all core). Excludes acoustic-guitar/live-band/orchestral/trap/jazz + drift genres only. English only, no place-names, no ethnicity/nationality words.
+
+  Style char count: 905.
+
+tags:
+  - electroclash
+  - female-vocal
+  - deadpan-vocal
+  - 133bpm
+  - d-major
+  - tr-808
+  - sawtooth-synth
+  - arpeggiator
+  - distorted-bass
+  - gated-snare
+  - strip-and-detonate
+  - density-climax
+  - pitch-shifted-vocal
+  - no-modulation
+  - nightlife-artifice-scene
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
