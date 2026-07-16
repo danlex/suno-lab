@@ -1,0 +1,112 @@
+name: "virage-v482"
+version: 482
+title: "Virage482"
+instrumental: false
+vocal_gender: female
+
+style: "Nu-italo disco revival burning with neon euphoria and a bittersweet edge, bright arpeggiated Juno synth bassline rolling in A-flat major at 128 BPM, four-on-the-floor electronic kick locking tight to a gated-reverb snare, punchy piano stabs cutting through on every offbeat, pumping sub-bass giving the dancefloor its heartbeat. Polished studio mix with wide stereo stage and deep low-end definition. A bright airy female voice floats high in the mix — clear and melodic, carrying the classic italo paradox of joy threaded with longing. Warm Mellotron pad sits underneath, gentle and round, adding depth without crowding the arpeggio. The scene is a neon night in motion — a late drive through light-streaked streets, the euphoria of moving forward, something beautiful left behind but the road carries you on. Peak-hour dancefloor energy with a heart that aches a little. No guitars, no rock drums, no metal, no acoustic folk, no trap."
+
+lyrics: |
+  [Arpeggio Intro: single rolling Juno arpeggio over four-on-the-floor kick, no vocal, 16 bars]
+
+  [Verse 1: airy bright female vocal enters, sparse — arpeggio and sub-bass only, 16 bars]
+  Les néons glissent sur la vitre
+  La nuit s'ouvre comme un cadeau
+  Le compteur chante, le virage appelle
+  Je roule vers une lumière nouvelle
+
+  Tu n'es plus là mais la route est belle
+  Le vent efface ce qui était tel quel
+  Je garde la vitesse, je garde la foi
+  Le bitume brille sous mes doigts
+
+  [Chorus: piano stabs enter, gated snare locks in, full italo groove, hook sung bright and floating, 16 bars]
+  Reste encore un virage
+  Un dernier éclat de lumière
+  Reste encore un virage
+  (ah — ah)
+  La nuit nous porte, on n'est pas perdus
+  Reste encore un virage
+  (ah — ah)
+  Ce qu'on a vécu ne meurt jamais
+
+  [Verse 2: groove sustains, vocal intimate before the build, 16 bars]
+  Les phares percent l'obscurité
+  Chaque courbe est une éternité
+  Tu me manques mais je continue
+  La route chante ce que j'ai perdu
+
+  La radio joue un vieux refrain
+  Quelque chose de doux dans le lointain
+  Je chante avec les fenêtres ouvertes
+  Le monde derrière moi s'entrouvre
+
+  [Chorus: full groove, piano stabs dense, gated snare bright, 16 bars]
+  Reste encore un virage
+  Un dernier éclat de lumière
+  Reste encore un virage
+  (ah — ah)
+  La nuit nous porte, on n'est pas perdus
+  Reste encore un virage
+  (ah — ah)
+  Ce qu'on a vécu ne meurt jamais
+
+  [Arpeggio Vamp: lyric-free — pure rolling Juno arpeggio, piano stabs pulse, no vocal, groove at peak momentum, 24 bars]
+
+  [Final Chorus: vocal returns at full brightness, octave-doubled topline, arpeggio and piano-stab density flood in A-flat major, 24 bars]
+  Reste encore un virage
+  Un dernier éclat de lumière
+  Reste encore un virage
+  (ah — ah)
+  La nuit nous porte, on n'est pas perdus
+  Reste encore un virage
+  Reste encore — un virage
+  (ah — ah — ah)
+  Ce qu'on a vécu ne meurt jamais
+
+  [Outro: arpeggio fades to a single sustained note, Mellotron breath, 8 bars]
+  (ah — ah)
+
+  [End]
+
+exclude_styles: "acoustic guitar, rock, metal, live band, ska, punk, jazz, country, folk, blues, dubstep, trap, drill, grime, ambient drone, pipe organ, tribal, world music, lo-fi, experimental noise, free jazz, atonal, microtonal, quarter-tone, new age, zen meditation, heavy percussion, reggae, hip-hop"
+
+notes: |
+  v482 TOURNAMENT WINNER (inline-judged 86/100; narrowly beat sibling candidate B "filter-as-form" at 85 — B was more architecturally novel but had a slightly more repetitive hook and real execution risk, per drafter's own caveat that Suno may flatten a filter sweep; A's stronger hook realization + reliable density-flood climax win). Lane: NU-ITALO DISCO — never used; an ELECTRONIC/synth-forward FEMALE swing away from v481's fast live-band male ska.
+
+  HIGH VARIANCE vs v481: bright arpeggiated synth (not live band), airy sung FEMALE (not wiry male shout-sing), euphoric-bittersweet mood, A-flat MAJOR (breaking the recent minor-key run — v475/478/479/481 were all minor). Vocal-gender alternation M/F/M/F/M/F held across v477-v482.
+
+  HOOK: "Reste encore un virage" (French, hook-writer 21/25) — addresses the night road for one more curve; bittersweet italo image. Contour: three-note plateau on C5, chromatic Db5 passing-tone (the joy-with-shadow note) on "-core", step-rise to Eb5, "vi-rage" falls Eb5-Db5-C5; Juno arpeggio answers a full tonic chord; wordless "(ah — ah)" backing hocket. Extensions ("Ce qu'on a vécu ne meurt jamais") carry the emotional payoff.
+
+  ARCHITECTURE — classic nu-italo, density-flood climax (no modulation): cycling arpeggio intro (16 bars, no vocal) -> airy verse -> piano-stab chorus -> mid-song lyric-free [Arpeggio Vamp] -> final chorus arpeggio + piano-stab DENSITY FLOOD + octave-doubled topline. A-flat major held throughout — NO key change (deliberately dropped the researcher's suggested half-step lift, a penalized template).
+
+  DURATION LEVER: the 24-bar lyric-free [Arpeggio Vamp] at ~60% + a full two-verse/chorus arc.
+
+  INSTRUMENTS: arpeggiated Juno/Jupiter synth bassline (hero) + four-on-the-floor kick + gated-reverb snare + piano stabs + pumping sub-bass, with a warm MELLOTRON pad (novelty accent, gap ~19) low in the mix. BPM 128 (novelty gap 92) and A-flat major (novelty gap 32) both from the novelty surface, avoiding all recent keys.
+
+  LANGUAGE: fully FRENCH (verified line by line — no English or other language in sung content), fitting the euro-italo character. Bracket labels are English descriptors (not sung); "(ah — ah)" is wordless vocable.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude electronic/synthesizer/arpeggiator/vocals/singing (all core to the genre). Excludes acoustic guitar, rock, live band, ska, trap, dubstep, etc.
+
+  Style char count: 936.
+
+tags:
+  - nu-italo-disco
+  - italo-disco-revival
+  - 128bpm
+  - a-flat-major
+  - french-lyrics
+  - airy-female-vocal
+  - juno-arpeggio
+  - piano-stabs
+  - mellotron-accent
+  - four-on-the-floor
+  - gated-reverb-snare
+  - neon-night-drive-scene
+  - bittersweet-euphoria
+  - density-flood-climax
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

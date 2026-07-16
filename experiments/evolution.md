@@ -496,6 +496,7 @@ mindmap
 | 479 | Concrete479 | reveal-drop (16-bar skeletal grid before topline) to full-grid double-drop climax (no key change), 24-bar instrumental break duration lever | F minor | 123 | hollow off-beat kick + deep sub-bass + acid synth stabs (with handpan shimmer & pitched-down vocal-chop percussion) |
 | 480 | Rooftops480 | groove-first (16-bar Rhodes pocket intro) + gospel BV call-and-response, backing-vocal-wall + horn counter-line density climax (no key change), 24-bar horn/Rhodes break duration lever | E major | 115 | Fender Rhodes + trumpet/horn section + muted funk guitar (over four-on-the-floor & warm bass with string stabs) |
 | 481 | Rattle481 | classic 2-tone arrangement-density climax (horn fanfare -> shout-sing verse -> stripped bridge -> handclap/gang-vocal + full horn unison finale, no key change), 24-bar horn break duration lever | D-flat minor | 137 | off-beat skank guitar + horn section (trumpet/trombone/baritone sax) + walking bass (over crisp train-beat snare) |
+| 482 | Virage482 | classic nu-italo cycling arpeggio intro -> piano-stab chorus -> arpeggio vamp -> final-chorus density flood (no key change), 24-bar arpeggio vamp duration lever | A-flat major | 128 | arpeggiated Juno synth bassline + piano stabs + mellotron pad (over four-on-the-floor kick, gated-reverb snare & pumping sub-bass) |
 
 ## Next-cycle priorities
 
