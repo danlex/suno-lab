@@ -1,0 +1,110 @@
+name: "accent-v495"
+version: 495
+title: "Accent495"
+instrumental: false
+vocal_gender: male
+
+style: "Intimate bossa nova croon in A-flat minor at 73 BPM — a warm close-mic vocal confession over a fingerpicked nylon-string guitar playing the syncopated batida, upright bass walking dark maj7 and 9th voicings, softly brushed snare keeping the pulse unhurried, and a flute threading counter-melodies between vocal phrases. The mood is 2am tenderness, a man half-talking a longing held lightly: velvet and brooding, never belted, always conversational. Warm intimate studio recording, wide warm stereo on the guitar body, voice placed just inside the ear. Dense jazz harmony — major-seventh, ninth, thirteenth, added-tension chords — gives the track its sweet-sad bossa color. The flute emerges fully in a central nylon-guitar and flute interlude, carrying a rising minor-second motif over the batida before the final stripped-back voice-and-guitar close. No rock drums, no electronic production, no synthesizers, no distortion, no samba overdrive."
+
+lyrics: |
+  [Intro: solo nylon-string guitar, syncopated batida in Abm, 12 bars]
+
+  [Verse 1: voice enters close-mic over guitar and walking upright bass, brushed snare, near-spoken warmth, 16 bars]
+  The table still holds two
+  the way a room holds breath
+  I left the window cracked
+  the way I always did
+  Your coat stayed on the hook
+  another week, two more
+  I kept the kitchen light
+  so something would be sure
+
+  [Chorus: flute enters softly, echoes the hook phrase, full jazz harmony, 16 bars]
+  And every quiet thing I do
+  reminds me where you are
+  the room still knows your shape at night
+  the dark still knows your name
+  I set the table for the hush
+  I leave the record on
+  and in the silence — in the space —
+  the silence has your accent
+
+  [Verse 2: voice and bass, guitar comping, flute rests, deeper into the chord tension, 16 bars]
+  Your coffee cup is gone
+  but not the ring it left
+  a small and faithful mark
+  I haven't wiped away
+  The hour moves like smoke
+  through rooms that still smell warm
+  I talk to what remains
+  and what remains replies
+
+  [Chorus: fuller, flute adds the rising motif on the hook, upright bass leaning in, 16 bars]
+  And every quiet thing I do
+  reminds me where you are
+  the room still knows your shape at night
+  the dark still knows your name
+  I set the table for the hush
+  I leave the record on
+  and in the silence — in the space —
+  the silence has your accent
+
+  [Nylon Guitar and Flute Solo: flute takes the counter-melody over the batida, rising minor-second motif in Abm, upright bass and brushed snare holding the groove, dense maj7 and 13th harmony shifting beneath, full emotional peak of the track, 24 bars]
+
+  [Final Chorus: stripped back to voice and nylon guitar only, flute absent, hook delivered bare and close, 16 bars]
+  And every quiet thing I do
+  reminds me where you are
+  the room still knows your shape at night
+  the dark still knows your name
+  I set the table for the hush
+  I leave the record on
+  and in the silence — in the space —
+  the silence has your accent
+
+  [Outro: guitar batida alone, single low upright bass note, slow decay, 8 bars]
+
+  [End]
+
+exclude_styles: "samba, bossa pop, electronic, EDM, synthesizer, rock, metal, heavy drums, distortion, acoustic guitar pop, singer-songwriter strum, jazz fusion, free jazz, new age, ambient electronic, lo-fi beats, tropical pop, vocal reverb wash"
+
+notes: |
+  v495 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate B "AABA jazz-standard form + dynamic-swell climax" at ~80 on the DURATION axis — at slow 73 BPM both drafters flagged the ~3:30 render cap, and A carries a fuller sung arc [two 8-line verses + three 8-line choruses + a 24-bar textured solo] vs B's leaner 6-line A-sections, so A is the safer duration bet; A also edges narrative density and lands a stronger contrast-frisson [flute-solo peak → bare strip-back hook]). Lane: INTIMATE BOSSA NOVA CROON — never used in v462-v494; warm/organic/acoustic MALE close-mic croon — maximum contrast to v494's fast (153) edgy synthetic FEMALE hyperpop.
+
+  HIGH VARIANCE: warm conversational near-SPOKEN MALE croon (never belted — distinct from every recent male: cumbia tenor v493, indie-rock loud v491, P-funk warm v489), slow 73 BPM (breaks far from the recent 153/101/91/127/111 cluster), A-flat MINOR (velvet-dark, novelty gap 73), all-acoustic jazz-harmony palette. Vocal-gender alternation M/F held across v477-v494 (v494 female → v495 male).
+
+  HOOK: "the silence has your accent" (hook-writer 21/25) — synesthetic compression (silence given a person's accent — you hear the absent one in the quiet of the room), belongs to no other lyric. Contour: four-syllable descending phrase, off-beat anticipation pushes "SI-lence" a sixteenth early, stepwise fall A-flat → G-flat (minor 7th of Abm) on "-cent"; a FLUTE answer-phrase echoes with a rising minor second (G-flat → A-flat) — that rising flute echo is the melodic fingerprint. Vivid conceit lines: "the table still holds two / the way a room holds breath"; "your coffee cup is gone / but not the ring it left"; "I talk to what remains / and what remains replies."
+
+  ARCHITECTURE — classic bossa verse/chorus, non-modulation frisson climax: solo nylon batida intro → V1 → chorus (flute enters on the echo) → V2 (flute rests) → chorus (fuller) → described lyric-free [Nylon Guitar and Flute Solo] (24 bars, the emotional PEAK + duration lever, fully textured — NOT an empty bracket) → final chorus STRIPPED BACK to voice + nylon guitar only (flute's absence = return-transformed) → outro. NO key change (dropped the penalized half-step lift); climax by flute-peak-then-strip contrast.
+
+  DURATION LEVER: the 24-bar described flute/guitar solo + a melodically full sung arc (two 8-line verses + three 8-line choruses). Slow 73 BPM caps ~3:30 (accepted; emotional density over bar arithmetic).
+
+  INSTRUMENTS: fingerpicked NYLON-STRING GUITAR (syncopated batida — rhythmic + harmonic core) + walking UPRIGHT BASS (dark maj7/9 voicings) + softly BRUSHED SNARE (unhurried pulse; samba blocked to prevent percussion overdrive) + FLUTE (counter-melody + rising-minor-second motif, rests in V2 to make its return meaningful). Dense maj7/9/13 jazz harmony. BPM 73 (novelty gap 308) and A-flat minor (novelty gap 73) from the novelty surface; dropped its cor-anglais suggestion (flute is the genre-authentic counter-voice).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/nylon-guitar/flute/upright-bass/brushed-drums (all core). Excludes samba (percussion-overdrive flag) + electronic/rock/synth/fusion drift + strummy-folk drift. English only, no Portuguese, no place-names, no artist names in the submitted fields.
+
+  Style char count: 944.
+
+tags:
+  - bossa-nova
+  - croon
+  - male-vocal
+  - nylon-string-guitar
+  - upright-bass
+  - flute
+  - brushed-snare
+  - 73bpm
+  - a-flat-minor
+  - abm
+  - 2am-scene
+  - intimate-confession
+  - jazz-harmony
+  - maj7
+  - added-tension-chords
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
+  - classic-verse-chorus-arc
+  - flute-solo-peak
+  - strip-back-close
+  - no-modulation

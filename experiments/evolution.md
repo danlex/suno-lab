@@ -509,6 +509,7 @@ mindmap
 | 492 | Grain492 | alt-R&B mid-song BEAT-SWITCH (groove flips to fuller/deeper pocket, recontextualizes the same hook; structural pivot, no key change); glitch-laced texture kept live, post-switch verse ties the flip to the emotion | C-sharp minor | 91 | warm Wurlitzer electric-piano + soft celesta shimmer + deep sub-bass (over stuttered glitchy programmed percussion & mist string pads, stacked BVs) |
 | 493 | Night493 | classic cumbia call-and-response, density-peak climax (doubled clave + full percussion + accordion-doubled melody + falsetto ad-libs, no key change); 24-bar accordion-solo duration lever; drove 3:31/3:43 | E-flat major | 101 | lead accordion (catalog-first melodic lead) + guiro + congas/3-2 clave (over walking electric bass & cornet stabs) |
 | 494 | Upload494 | hyperpop maximalist glitch-pop, strip-to-crash + second-drop density climax, hook 'I uploaded the ache' with production-as-meaning pitched vocal-chop cascade | A major | 153 | hard-tuned female vocal + supersaw hyper-synth + 808 sub-bass (glitch drums, formant-shifted vocal layers, pitched chops) |
+| 495 | Accent495 | intimate bossa nova croon, classic verse/chorus with flute-solo peak then strip-back final (non-modulation frisson climax), hook 'the silence has your accent' with rising-minor-second flute echo fingerprint | A-flat minor | 73 | warm close-mic male croon + fingerpicked nylon-string guitar batida + walking upright bass + flute counter-melody (brushed snare, dense maj7/9/13 jazz harmony) |
 
 ## Next-cycle priorities
 
