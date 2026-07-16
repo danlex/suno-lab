@@ -1,0 +1,104 @@
+name: "loose-v484"
+version: 484
+title: "Loose484"
+instrumental: false
+vocal_gender: female
+
+style: "London dancefloor darkness lit from below — sub-bass finds you before the lights do. UK funky, deep electronic production, 129 BPM, G minor, wide stereo stage, polished studio mix, deep low-end definition. Swung broken-beat groove: tribal congas and crisp 4/4 kick grid, hi-hat triplets locking to the vocal, tom fills and shakers accumulating each section. Deep rolling sub-bass chord stabs on every downbeat. Bright plucked synth-marimba riff is the melodic hook-carrier — metallic, hypnotic. Cool soulful R&B female topline, rhythmic and confident, in the pocket without belting. Percussion layers accumulate section by section — kick and congas, then hi-hat triplets, then toms and shakers — polyrhythm fully stacked by the bridge; double-time drum flip is the climax, percussion twice as fast under the sustained vocal. G minor holds the dark soul — no key change. No guitars, no rock drums, no pipe organ, no acoustic instruments, no reggae."
+
+lyrics: |
+  [Intro: kick and congas establish the swung broken-beat grid, synth-marimba riff enters alone, 8 bars]
+
+  [Verse 1: soulful female vocal enters cool and pocketed, hi-hat triplets layer in behind her, 16 bars]
+  I came in late but I knew the room
+  Found the low end in the dark
+  The bass was moving like a second skin
+  And I was already a part
+  This floor don't ask you who you know
+  It asks you how you move
+  I let the groove tell me where to stand
+  I let the rhythm be the proof
+
+  [Chorus: full hook, tom fills add behind the vocal, synth-marimba echoes the phrase end, 16 bars]
+  Loose enough to hold
+  Loose enough to hold
+  The night keeps pulling but I don't fold
+  Loose enough to hold
+
+  [Verse 2: toms and shakers layer in, polyrhythm thickening, vocal more assured, 16 bars]
+  Watched the room start following the feel
+  Watched the walls lean in
+  Some nights the music finds the ones
+  Who know how letting go begins
+  I don't need an invitation
+  The kick is all I need
+  The congas say my name out loud
+  And I already agreed
+
+  [Chorus: groove fully stacked, sub-bass stabs pronounced, vocal riding the rhythm, 16 bars]
+  Loose enough to hold
+  Loose enough to hold
+  The night keeps pulling but I don't fold
+  Loose enough to hold
+
+  [Percussion Roll and Marimba Break: full polyrhythm — congas, kick, hi-hat triplets, toms, shakers all locked together; synth-marimba riff repeats and varies over the rolling groove, no vocal, 24 bars]
+
+  [Bridge: all layers stacked, vocal returns over the full polyrhythm building pressure, 12 bars]
+  Everything I brought here I can leave here
+  Everything this floor asks I can give
+  I don't hold on tight enough to break it
+  Just tight enough to live
+
+  [Final Chorus: double-time drum flip — percussion doubles in pace under the full groove, vocal sustained and soulful, sub-bass stabs land hard, no key change, 24 bars]
+  Loose enough to hold
+  (loose enough)
+  Loose enough to hold
+  The night keeps pulling but I don't fold
+  Loose enough to hold
+  (don't fold)
+  Loose enough to hold
+
+  [Outro: percussion gradually thins back to kick and congas, synth-marimba fades on the hook interval, 8 bars]
+
+  [End]
+
+exclude_styles: "rock, metal, acoustic guitar, live band, reggae, dancehall, soca, UK garage, grime, tribal house, afrobeats, afro house, Arabic, world music, lo-fi, new age, zen meditation, free jazz, atonal, experimental noise, pipe organ, gospel choir, folk, country, jazz fusion"
+
+notes: |
+  v484 TOURNAMENT WINNER (inline-judged 87/100; beat sibling candidate A "classic strip-then-return" at 85 — B's percussion-accumulation architecture is more distinctive AND safer on render [never strips to a risky bare breakdown, aligning with the dissolution=truncation learning], and its bridge deepens the hook's paradox; A had a marginally richer hook payoff but stacked ~40 bars of near-vocal-less material). Lane: UK FUNKY — never used; a dark ELECTRONIC polyrhythmic FEMALE swing away from v483's warm organic male highlife.
+
+  HIGH VARIANCE vs v483: electronic (not live band), cool soulful R&B FEMALE (not warm male), swung broken-beat polyrhythm (not 12/8 lilt), dark G-minor London-nightclub mood. Vocal-gender alternation M/F/M/F/M/F/M/F held across v477-v484.
+
+  HOOK: "Loose enough to hold" (hook-writer 23/25 — session's strongest) — paradox describing both the swung groove (loose feel, in-pocket precision) and the woman's self-possession. Blue-note entry on flat-3 (Bb3), rising stepwise triplet Bb3-C4-D4 locking to the swung hi-hat triplets, falling perfect fifth D4-G3 on "hold" landing with a sub-bass chord stab; synth-marimba echoes the fall. Bridge restates the paradox: "I don't hold on tight enough to break it / Just tight enough to live."
+
+  ARCHITECTURE — percussion-accumulation build -> DOUBLE-TIME drum-flip climax (no modulation): the groove NEVER strips — each section adds a percussion layer (kick+congas -> +hi-hat triplets -> +toms/shakers -> full stack), then the FINAL CHORUS flips to double-time rolls under the sustained vocal. Rhythmic re-inversion as climax, NOT a stripped breakdown and NOT a key change (deliberately dropped the novelty-picker's suggested C-minor->D-flat-minor half-step lift).
+
+  DURATION LEVER: the 24-bar lyric-free [Percussion Roll and Marimba Break] + the 12-bar bridge + full arc; groove stays live throughout (no dissolution-to-silence).
+
+  INSTRUMENTS: swung broken-beat (tribal congas + 4/4 kick + hi-hat triplets + toms/shakers) + deep rolling SUB-BASS chord stabs + bright plucked SYNTH-MARIMBA riff (melodic hook-carrier) + soulful R&B female vocal. BPM 129 (novelty gap 265, near-virgin) and G minor (novelty gap 57, freshest dark minor) from the novelty surface, avoiding all recent keys.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude electronic/synth/bass/percussion/vocals/singing (all core). Excludes organic drift (rock/metal/live-band/acoustic) + genre-adjacent drift (reggae/dancehall/soca/UK-garage/grime/tribal-house/afrobeats) to keep it anchored as UK funky.
+
+  Style char count: 947.
+
+tags:
+  - uk-funky
+  - broken-beat
+  - electronic
+  - synth-marimba
+  - congas
+  - sub-bass
+  - hi-hat-triplets
+  - soulful-female-vocal
+  - 129bpm
+  - g-minor
+  - london-dancefloor-scene
+  - percussion-accumulation
+  - double-time-flip
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - instrumental-break
+  - polyrhythm
+  - new-lane
+  - high-variance
