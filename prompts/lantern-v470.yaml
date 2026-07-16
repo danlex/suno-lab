@@ -1,0 +1,100 @@
+name: "Lantern470"
+version: 470
+style: "Cinematic orchestral folk anthem, soaring earnest male voice building from intimate verse to a ringing stadium-scale chorus, total duration around 3:00. D major, 109 BPM. Polished studio mix, wide stereo stage, warm tape saturation on strings, deep low-end definition under the orchestral bed. The nyckelharpa carries the haunted signature — keyed-fiddle drone with shimmering tremolo — threading every section; oboe d'amore answers the vocal with a warm alto reed tone; French horn sustains beneath the highest chorus note and swells through the climax. Cinematic percussion drives constant forward momentum — not a slow ballad. The final chorus blooms into a full orchestral density swell: stacked wordless choir aahs, full strings, French horn at peak, nyckelharpa drone layered in a dynamic crescendo — no key change, D major throughout, pure density lift. No guitars, no pipe organ, no drum machine, no synth pads, no trap or EDM beats."
+title: "Lantern470"
+lyrics: |
+  [Intro: nyckelharpa tremolo drone with soft string rise, 6 bars]
+
+  [Verse 1: intimate male voice, sparse strings and oboe d'amore beneath, 12 bars]
+  The road went dark before the turn
+  I kept my feet on what I knew
+  A mile of cold and ice to burn
+  Just the faint warmth of something true
+
+  [Pre-Chorus: strings swell, nyckelharpa drone lifts, building forward, 6 bars]
+  Still I carried every step
+  Through the ice and through the snow
+  One thing I will not forget
+
+  [Chorus: full male voice ringing, French horn sustaining, nyckelharpa shimmering, 10 bars]
+  I left my lantern on the ice
+  So you could find your way to me
+  I left my lantern on the ice
+  A burning answer, a burning promise
+  That I would be where I said I'd be
+
+  [Verse 2: voice pulls back, oboe d'amore leads the reply, 10 bars]
+  The cold will not outlast the will
+  I've learned what distance really weighs
+  To hold a light through dark and still
+  Is not a gift — it is a grace
+
+  [Pre-Chorus: mounting urgency, strings thicken, 6 bars]
+  Still I carried every step
+  Through the ice and through the snow
+  One thing I will not forget
+
+  [Chorus: male voice full and ringing, French horn below the held note, 10 bars]
+  I left my lantern on the ice
+  So you could find your way to me
+  I left my lantern on the ice
+  A burning answer, a burning promise
+  That I would be where I said I'd be
+
+  [Nyckelharpa and French Horn Break: lyric-free instrumental passage, nyckelharpa tremolo over sustained French horn swells and quiet string ostinato, oboe d'amore enters mid-phrase, 20 bars]
+
+  [Bridge: stripped voice over nyckelharpa alone, then oboe d'amore joins, very spare, 8 bars]
+  The ice will crack, the season turn
+  But not before I see the dawn
+  Some things you only know you've earned
+  When you find you're still holding on
+
+  [Orchestral Density Swell Climax: voice at full peak, stacked wordless choir aahs swell in, full string section, French horn fortissimo, nyckelharpa drone continuous — dynamic and textural crescendo building to the final held note, D major, 16 bars]
+  I left my lantern on the ice
+  So you could find your way to me
+  I left my lantern on the ice
+  A burning answer, a burning promise — (aah, aah)
+  That I would be where I said I'd be
+
+  [Coda: wordless choir aahs fade, French horn sustains, nyckelharpa tremolo alone, resolves, 4 bars]
+
+  [End]
+instrumental: false
+vocal_gender: male
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, electronic, EDM, trap, hip hop, rap, drum machine, house, techno, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, celtic new age, power ballad, cheesy ballad, vocal cabaret, choir pop, gospel choir, synthesizer pads, worship music"
+notes: |
+  Technique: Cinematic orchestral folk anthem with a density-swell climax (no key modulation). The arc lifts the final chorus via layered textural and dynamic accumulation — stacked wordless choir harmonics, full strings, French horn fortissimo, and continuous nyckelharpa drone — achieving emotional peak through arrangement density rather than pitch transposition or silence-trick. This approach keeps tonal coherence (D major throughout) while delivering the contrast and lift of a modulation-free crescendo.
+
+  Concept source: Endurance, solitude, and hard-won rising — a figure leaving a lantern on ice so another can find their way back. The hook contour specifies a pickup stepwise rise to an octave leap on the title word, held beneath a French horn sustain.
+
+  Composer omission: This echoes the cinematic orchestral folk lineage (Icelandic and Nordic film-scoring tradition, post-millennial folk-anthem craft) without naming any composers.
+
+  Duration strategy: Parametrized colon-lyrics with bar counts (6+12+6+10+10+6+10+20+8+16+4 = ~108 bars at 109 BPM, targeting ~3:00 wall-clock). The mandatory mid-song instrumental break ([Nyckelharpa and French Horn Break], 20 bars, lyric-free) is the primary duration lever — consistent with the v348/v349 learning. Production tokens used: polished studio mix, wide stereo stage, warm tape saturation, deep low-end definition. Sentence case throughout, atmospheric-first opening.
+
+  Instruments:
+  - Nyckelharpa (gap ~111 cycles): carries the haunted drone-and-tremolo signature threading every section; enters with a shimmering tremolo descent after the held chorus peak note.
+  - Oboe d'amore (gap ~114 cycles): warm alto reed answering the male vocal; leads the reply in verse 2 and joins mid-phrase in the instrumental break.
+  - French horn (gap ~42 cycles): cinematic sustained swell beneath the highest chorus note; fortissimo in the density-swell climax.
+
+  Novelty: Cinematic orchestral folk anthem is a fresh lane for the catalog — high-variance contrast to the electronic/groove/roots run v462–v469. Nyckelharpa + oboe d'amore pairing is rare (both instruments carry large version gaps). Density-swell climax (no key change, pure layering) avoids the overused silence-then-half-step cliché. Male voice rebalances after multiple female cycles. BPM 109 in the slow band — duration target is ~3:00, consistent with the slow-BPM ceiling finding (~3:30 max), accepted and appropriate here.
+
+  Style char count: 941
+tags:
+  - nyckelharpa
+  - oboe-d-amore
+  - french-horn
+  - 109bpm
+  - d-major
+  - cinematic-folk-scene
+  - revival-nyckelharpa-111-gap
+  - revival-oboe-d-amore-114-gap
+  - revival-french-horn-42-gap
+  - orchestral-folk-anthem
+  - density-swell-climax
+  - no-modulation
+  - male-vocal
+  - endurance-theme
+  - high-variance-contrast
+  - duration-3min
+  - research-driven
+  - new-technique

@@ -484,6 +484,7 @@ mindmap
 | 467 | Window467 | filter-as-form progressive brightening to full-open (no modulation) | A major | 124 | filtered disco guitar + sidechain-pumped bass + flugelhorn |
 | 468 | Scar468 | harmonica-reveal climax after strip-down (no modulation) | G major | 82 | resonator slide guitar + Hammond organ + harmonica |
 | 469 | Rhinestone469 | kick-only-vamp tease into full-stack distortion drop (no modulation) | G-sharp minor | 142 | distorted kick + buzzing analog bass + detuned sawtooth stab (prepared-piano stabs) |
+| 470 | Lantern470 | full orchestral/choir density-swell climax (no modulation) | D major | 109 | nyckelharpa + oboe d'amore + french horn |
 
 ## Next-cycle priorities
 
