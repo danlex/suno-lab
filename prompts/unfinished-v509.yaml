@@ -1,0 +1,102 @@
+name: "unfinished-v509"
+version: 509
+title: "Unfinished509"
+instrumental: false
+vocal_gender: male
+
+style: "Warm slow-burn soul-blues, one unbroken whisper-to-thunder build — no chorus cycling, a single continuous crescendo from confessional intimacy to full-band thunder. Analog tape warmth, wide stereo live-band mix. A soulful male baritone-tenor, low and close at the opening, raw aching power at the crest — genuine blues melody, not belted pop. Vibrato-rich electric guitar is the melodic hero: opens alone with slow expressive bends, answers each hook with a two-bar bent echo, takes a full solo at the peak — sustain into vibrato, each bend patient. Hammond organ enters faint and rises continuously. Walking bass and brushed snare lock the slow shuffle at 87 BPM in E major, blues bends pressing flat-third and flat-seventh over warm resonant major chords. Warm live-band mix, analog tape saturation, Hammond organ body, vibrato guitar tone, deep low-end definition. No synthesizers, no electronic production, no programmed drums, no trap, no EDM."
+
+lyrics: |
+  [Confessional Intro: solo vibrato electric guitar, slow bent melody, brushed snare barely present, 8 bars]
+
+  [Verse 1: hushed male vocal enters, guitar and walking bass underneath, organ faint, 12 bars]
+  Left the light on in the hallway
+  Same place I always do
+  I keep rearranging furniture
+  To fill the shape of you
+  Every doorway holds a silence
+  Every window holds the view
+  I live inside the waiting
+  The room I make for you
+
+  [Hook First Pass: organ fuller, guitar answers with slow bent-note echo after the phrase, 8 bars]
+  You are my unfinished room (unfinished)
+  The wall that waits for paint
+  The window without curtains
+  The door without complaint
+  You are my unfinished room
+
+  [Verse 2: walking bass fuller, brushed snare steadier, organ rising noticeably, build climbing, 12 bars]
+  I have drawn the lines in pencil
+  Every measurement precise
+  But a room can hold a person
+  Or hold a compromise
+  I have priced the cost of leaving
+  I have counted every choice
+  And every number leads me back
+  To the sound of your voice
+
+  [Hook Second Pass: voice opening up, organ swell beginning, guitar bend-echo fuller, 8 bars]
+  You are my unfinished room (unfinished)
+  The wall that waits for paint
+  The window without curtains
+  The door without complaint
+  You are my unfinished room (oh)
+
+  [Vibrato Guitar Solo: expressive bending electric guitar over the rising shuffle, organ swelling forward, brushed snare opening up, walking bass driving the slow crest, 16 bars]
+
+  [Final Hook Thunder Crest: full-band thunder, organ at full swell, guitar sustain ringing, brushed snare fully open, voice at raw aching power, 12 bars]
+  You are my unfinished room (unfinished)
+  The wall I keep returning to
+  The window I won't board up
+  The door that still lets through
+  You are my unfinished room
+  Still mine (still mine)
+  Still mine
+
+  [Sustained Close: full band resolves onto held E-major chord, guitar vibrato ringing, organ sustain fading last, clean resolve, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, programmed drums, trap, hip hop, pop punk, country, reggae"
+
+notes: |
+  v509 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate A "verse/chorus whisper-to-thunder + guitar solo" at ~82 — B's single continuous whisper-to-thunder build is the more idiomatic realization of the "slow-BURN" concept [one unidirectional crescendo, no chorus cycling], with a strong slow-burn frisson arc and superb writing ["a room can hold a person / Or hold a compromise"]; both narratives excellent and both clean of leaks. B carried one fixable defect: bare "rock" in exclude_styles [v507-class contradiction — soul-blues is a blues-ROCK lane], STRIPPED on promotion [kept "metal"]). Lane: SLOW-BURN SOUL-BLUES — never used in v462-v508 (distinct from quiet-storm soul v505 and boom-bap soul v503 — this is vibrato-electric-guitar-led blues-rock/soul); warm/organic/live-band/soulful MALE — production-era + mood contrast to v508's fast edgy female vogue house.
+
+  HIGH VARIANCE: warm earnest soulful MALE baritone-tenor with blues ache (confessional-to-thunderous — distinct from the recent males: hushed slowcore v507, smooth quiet-storm v505, boom-bap rap v503), slow-shuffle 87 BPM (breaks from the recent 134/71/121/79/125 cluster), E MAJOR (the resonant blues-guitar key, warm with flat-3/flat-7 bends — a warm-major after the recent minor cluster, novelty gap 29), fully live-band organic production. Vocal-gender alternation M/F held across v477-v509 (v508 female → v509 male).
+
+  HOOK: "You are my unfinished room" (hook-writer 21/25) — longing as domestic architecture (you're still in my life, incompletely). Contour: rising major-6th leap from tonic E to C# on "unfinished", a blues-bend pressing C# a half-step flat toward C-natural at the peak (flat-6 color over E major), falling back stepwise to E; the vibrato electric guitar answers with a slow bent-note echo (B bent to C#, released with vibrato) in the two-bar shuffle space — the guitar as second voice. Extended-metaphor writing: "I keep rearranging furniture / To fill the shape of you"; redemption turn at the crest: "Still mine."
+
+  ARCHITECTURE — SINGLE CONTINUOUS WHISPER-TO-THUNDER BUILD, non-modulation dynamic climax: [Confessional Intro] (solo vibrato guitar + soft brushed snare) → V1 (hushed vocal, guitar + walking bass, organ faint) → hook first pass (organ fuller, guitar echo) → V2 (bass + organ rising, build climbing) → hook second pass (voice opening) → described [Vibrato Guitar Solo] (organ swelling, snare opening, 16 bars — blues centerpiece + duration lever) → [Final Hook Thunder Crest] (full-band thunder, organ full swell, guitar sustain, voice at raw aching power, no key change) → [Sustained Close] (held E-major chord resolve, guitar vibrato + organ sustain — NOT a fade-out, NOT a cold stop). One unidirectional build (no chorus cycling) is the identity. Dropped the researcher's "mid-point silence" strip + "slow fade" ending (both truncation risks).
+
+  DURATION GUARD (learnings): full melodic sung arc (two 8-line verses + 3 escalating hook passes) + EVERY section textured (guitar + bass sounding from the intro — no silence) + the described 16-bar guitar solo + a controlled sustained close (no fade/dissolution). Slow 87 BPM renders LONG with a full textured arc (v505@79→4:36).
+
+  INSTRUMENTS: vibrato-rich electric GUITAR (melodic hero, bends like a second voice, answers the vocal, takes the solo) + HAMMOND ORGAN (comps/swells) + walking BASS + BRUSHED snare. Fully live-band, analog tape warmth. BPM 87 (novelty gap 312, near-virgin) and E major (novelty gap 29, the blues-guitar key); dropped the nyckelharpa suggestion (soul-blues is electric-guitar/organ/bass/drums).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502+v507 lessons): does NOT exclude vocals/singing/electric-guitar/organ/bass/drums, and does NOT exclude "blues"/"soul"/"rock" (the genre's own parent categories — bare "rock" was STRIPPED from the draft on promotion). Excluding synths/electronic/programmed-drums IS genre-correct (soul-blues is live-band). "acoustic guitar" excluded = fine (the guitar is electric vibrato); "pipe organ" excluded = the Hammond organ is the genre one (kept). English only, no place-names, no regional/geographic signifiers. Sung lines clean of leaked stage-directions/instrument-cues (v503/v505/v508 lessons); ad-libs genuine sung.
+
+  Style char count: 948.
+
+tags:
+  - soul-blues
+  - slow-burn-soul-blues
+  - blues-rock
+  - electric-guitar
+  - vibrato-guitar
+  - hammond-organ
+  - walking-bass
+  - brushed-snare
+  - 87bpm
+  - e-major
+  - slow-shuffle
+  - male-baritone-tenor
+  - single-continuous-build
+  - whisper-to-thunder
+  - guitar-solo-feature
+  - non-modulation-climax
+  - live-band-organic
+  - domestic-longing-scene
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

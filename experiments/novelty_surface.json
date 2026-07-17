@@ -1,6 +1,6 @@
 {
-  "total_prompts": 482,
-  "latest_version": 507,
+  "total_prompts": 483,
+  "latest_version": 508,
   "instruments": {
     "organ": [
       1,
@@ -1323,6 +1323,7 @@
       316,
       317,
       319,
+      323,
       444,
       470
     ],
@@ -1395,7 +1396,8 @@
       458,
       466,
       467,
-      496
+      496,
+      508
     ],
     "chamber": [
       192,
@@ -1474,10 +1476,6 @@
       296,
       502
     ],
-    "minimalist": [
-      201,
-      323
-    ],
     "passacaglia": [
       111,
       202
@@ -1514,6 +1512,9 @@
     ],
     "hardstyle": [
       398
+    ],
+    "minimalist": [
+      201
     ],
     "progressive house": [
       96
@@ -1815,6 +1816,20 @@
       465,
       489
     ],
+    "c-sharp minor": [
+      117,
+      179,
+      207,
+      218,
+      232,
+      245,
+      257,
+      341,
+      353,
+      464,
+      492,
+      508
+    ],
     "a-flat minor": [
       107,
       126,
@@ -1827,19 +1842,6 @@
       398,
       422,
       495
-    ],
-    "c-sharp minor": [
-      117,
-      179,
-      207,
-      218,
-      232,
-      245,
-      257,
-      341,
-      353,
-      464,
-      492
     ],
     "d-flat major": [
       92,
@@ -2544,7 +2546,8 @@
       142,
       352,
       355,
-      462
+      462,
+      508
     ],
     "135": [
       97,
@@ -2733,6 +2736,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 508,
+      "title": "Lightning508",
+      "name": "lightning-v508",
+      "featured": [],
+      "genre": "house",
+      "key": "c-sharp minor",
+      "bpm": 134
+    },
     {
       "version": 507,
       "title": "Cups507",
@@ -4439,7 +4451,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
