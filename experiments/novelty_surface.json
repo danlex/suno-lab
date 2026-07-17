@@ -1,6 +1,6 @@
 {
-  "total_prompts": 481,
-  "latest_version": 506,
+  "total_prompts": 482,
+  "latest_version": 507,
   "instruments": {
     "organ": [
       1,
@@ -1378,7 +1378,6 @@
       428,
       432,
       443,
-      448,
       454,
       459
     ],
@@ -1487,6 +1486,10 @@
       112,
       315
     ],
+    "synthwave": [
+      1,
+      448
+    ],
     "trance": [
       396,
       488
@@ -1517,9 +1520,6 @@
     ],
     "romantic": [
       313
-    ],
-    "synthwave": [
-      1
     ]
   },
   "keys": {
@@ -1890,6 +1890,18 @@
       466,
       498
     ],
+    "f major": [
+      28,
+      40,
+      69,
+      294,
+      342,
+      420,
+      428,
+      442,
+      483,
+      507
+    ],
     "b major": [
       122,
       230,
@@ -1922,17 +1934,6 @@
       433,
       473,
       493
-    ],
-    "f major": [
-      28,
-      40,
-      69,
-      294,
-      342,
-      420,
-      428,
-      442,
-      483
     ],
     "a-flat major": [
       90,
@@ -2163,7 +2164,8 @@
       424
     ],
     "71": [
-      180
+      180,
+      507
     ],
     "72": [
       79,
@@ -2731,6 +2733,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 507,
+      "title": "Cups507",
+      "name": "cups-v507",
+      "featured": [],
+      "genre": null,
+      "key": "f major",
+      "bpm": 71
+    },
     {
       "version": 506,
       "title": "Architecture506",
@@ -3338,7 +3349,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "synthwave",
       "key": "a minor",
       "bpm": 106
     },
