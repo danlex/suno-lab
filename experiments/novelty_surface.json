@@ -1,6 +1,6 @@
 {
-  "total_prompts": 480,
-  "latest_version": 505,
+  "total_prompts": 481,
+  "latest_version": 506,
   "instruments": {
     "organ": [
       1,
@@ -1326,36 +1326,6 @@
       444,
       470
     ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      162,
-      173,
-      178,
-      187,
-      251,
-      257,
-      314,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      448,
-      454,
-      459
-    ],
     "neoclassical": [
       1,
       2,
@@ -1385,6 +1355,33 @@
       321,
       424
     ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      173,
+      187,
+      251,
+      257,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      448,
+      454,
+      459
+    ],
     "house": [
       242,
       261,
@@ -1402,7 +1399,6 @@
       496
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
@@ -1413,8 +1409,16 @@
       345,
       347,
       348,
-      439,
       451
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1445,11 +1449,10 @@
       406,
       462
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
+    "baroque": [
+      188,
+      191,
+      439
     ],
     "drone": [
       304,
@@ -1493,9 +1496,6 @@
     ],
     "afrobeats": [
       270
-    ],
-    "baroque": [
-      188
     ],
     "drill": [
       282
@@ -1998,17 +1998,18 @@
       286,
       295
     ],
+    "f-sharp major": [
+      24,
+      124,
+      134,
+      476,
+      506
+    ],
     "bb major": [
       41,
       65,
       239,
       277
-    ],
-    "f-sharp major": [
-      24,
-      124,
-      134,
-      476
     ],
     "c-sharp major": [
       132,
@@ -2456,7 +2457,8 @@
     ],
     "121": [
       141,
-      351
+      351,
+      506
     ],
     "122": [
       215,
@@ -2729,6 +2731,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 506,
+      "title": "Architecture506",
+      "name": "architecture-v506",
+      "featured": [],
+      "genre": null,
+      "key": "f-sharp major",
+      "bpm": 121
+    },
     {
       "version": 505,
       "title": "Quiet505",
@@ -3415,7 +3426,7 @@
         "harp",
         "string quartet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 90
     },
@@ -4512,7 +4523,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -5896,7 +5907,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -6061,7 +6072,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -6212,7 +6223,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

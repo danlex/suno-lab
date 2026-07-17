@@ -1,0 +1,97 @@
+name: "cups-v507"
+version: 507
+title: "Cups507"
+instrumental: false
+vocal_gender: male
+
+style: "Quiet grief held too long in the body, arriving softly — slowcore indie-rock built on one long swell from near-solo to full-band peak. Clean tremolo electric guitar opens alone in F major at 71 BPM, notes decaying into heavy room reverb; warm electric bass enters and stays throughout the unbroken build. A hushed male voice sings close to the mic, restrained but genuinely melodic, the hook returning bigger with each pass as layers accumulate. Brushed drums settle in softly, room tone wide and pillowy, second guitar lines weaving in until the tremolo stack reaches full density — climax earned by accumulation, no key change. Intimate close-mic vocal, warm analog tape warmth, deep low-end definition, heavy room-reverb halo on every instrument. A textured outro resolves the build onto a warm sustained F major chord. No synthesizers, no electronic production, no programmed drums, no orchestral strings, no distorted metal guitars."
+
+lyrics: |
+  [Hushed Intro: lone clean tremolo guitar in F major, warm electric bass enters bar 3, no drums yet, reverb tails long and open, 8 bars]
+
+  [Verse 1: hushed male voice barely above a murmur, clean tremolo guitar and warm bass underneath, gentle chord movement F to C to Dm, 16 bars]
+  The kettle's on the counter
+  I put it there by habit
+  Two cups on the shelf above
+  waiting like they always do
+  I reach for them before I think
+  my hand already knows the motion
+  Two cups — the second one
+  sits there holding what I won't undo
+
+  [Hook — First Quiet Statement: brushed drums enter softly behind the voice, tremolo guitar answers the final held note with a single plucked A into room reverb, 8 bars]
+  I still set two cups out
+  (two cups)
+  I still set two cups out
+  the counter keeps the count of what I know
+
+  [Verse 2: electric bass fuller and rounder, brushed drums steadier with heavy room tone, a second clean guitar layer weaves a counterpoint line, the build rising, 16 bars]
+  The morning comes the same way
+  the light falls at the same angle
+  I make the same small moves
+  across the same familiar floor
+  I fill the kettle halfway
+  then let it fill all the way
+  two cups pulled down together
+  an arithmetic I can't restore
+
+  [Hook — Second Statement: voice opens slightly, bass and drums fuller, tremolo guitar answering more openly, the arrangement noticeably thicker, 8 bars]
+  I still set two cups out
+  (two cups, still)
+  I still set two cups out
+  the counter keeps the count of what I know
+
+  [Instrumental Crescendo Build: tremolo guitars layer and stack over the warm bass climbing through F-C-Dm-Bb, brushed drums swelling with full room reverb bloom, a third guitar track enters mid-build sustaining chord tones, bass pulse deepening — the dynamic peak of the song, no vocal, full texture throughout, 20 bars]
+
+  [Final Hook — Full Crescendo Density: all layers present, voice at its most open but still restrained, no key change, the hook in F major at full arrangement density, 12 bars]
+  I still set two cups out
+  (two cups)
+  I still set two cups out
+  (still, still)
+  the counter keeps the count of what I know
+  and I don't move the second one
+
+  [Textured Outro: the crescendo resolves as the third guitar layer drops away, tremolo guitar sustains a long F major chord with warm decay, bass holds the root, brushed drums settle to a single quiet hi-hat pulse, controlled close — not dissolution, 8 bars]
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar fingerpicking, metal, lo-fi, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, cinematic ambient, elegiac, orchestral strings, vocal choir, shoegaze drone"
+
+notes: |
+  v507 TOURNAMENT WINNER (inline-judged ~79/100; beat sibling candidate A "verse/chorus dynamic-build + guitar-counterpoint bridge" at ~77 — B's single-crescendo post-rock-build is more genre-idiomatic to slowcore, delivers a stronger frisson arc [the unidirectional swell is the genre's emotional engine], the "arithmetic I can't restore" line elegantly extends the hook, and its continuous never-reducing build is the safest against slowcore's truncation risk; both narratives exquisite, both clean). Lane: SLOWCORE — never used in v462-v506; warm/organic/live-band/hushed MALE — a deliberate PRODUCTION-ERA reset after the recent electronic run (freestyle/electroclash/new-wave synth-pop), and max contrast to v506's fast bright electronic female synth-pop.
+
+  HIGH VARIANCE: hushed intimate under-sung MALE (restrained, close-mic — distinct from every recent male: new-wave-adjacent none, quiet-storm smooth v505, boom-bap rap v503, roots baritone v501), very slow 71 BPM (breaks from the recent 121/79/125/90/133 cluster), F MAJOR (warm-bittersweet, ache-from-restraint), FULLY LIVE-BAND ORGANIC production (clean tremolo guitar/bass/brushed drums — no synths, the production-era variance). Vocal-gender alternation M/F held across v477-v507 (v506 female → v507 male).
+
+  HOOK: "I still set two cups out" (hook-writer 21/25) — involuntary body-habit grief; "two" carries the arithmetic of the missing person without naming them. Contour: five-syllable arc F-G-A (held major 3rd on "cups") - A - F ("out", tonic, held), slight rhythmic anticipation on "two"; clean tremolo guitar answers with a single plucked A decaying into room reverb in the held space. Returns 3× at escalating density (quiet → fuller → full-crescendo). Extended by "the counter keeps the count of what I know" and "an arithmetic I can't restore."
+
+  ARCHITECTURE — SINGLE-CRESCENDO post-rock-build, non-modulation density climax: hushed intro (lone tremolo guitar + bass, no drums) → V1 (murmured) → hook (quiet, drums barely enter) → V2 (layers accumulate, 2nd guitar counterpoint, build rising) → hook (bigger) → described [Instrumental Crescendo Build] (guitars layer/stack, brushed drums swell, 3rd guitar enters, 20 bars — the peak + duration lever) → FINAL HOOK full-crescendo density (all layers, voice most open but still restrained, no key change) → textured outro (resolves to a sustained warm F chord + settling hi-hat pulse — NOT dissolution). One unidirectional swell (no chorus cycling) is the identity.
+
+  DURATION GUARD (slowcore = highest short-render-risk lane; sparseness/negative-space truncates): enforced a full melodic sung arc (two 8-line verses + 3 hook passes) + EVERY section kept TEXTURED (clean guitar + warm bass continuous — no literal silence, no dissolution) + a described 20-bar instrumental crescendo + a controlled non-dissolution close. 96 bars at 71 BPM. Slow tempo renders LONG with a full textured arc (v501@77→4:42, v505@79→4:36).
+
+  INSTRUMENTS: clean/tremolo electric GUITAR (melodic hero) + warm electric BASS + BRUSHED drums (heavy room tone) + reverb tails. Fully live-band organic. BPM 71 (novelty gap 327, near-virgin) and F major (novelty gap 24, guitar-idiomatic warm); dropped the cor-anglais suggestion (slowcore is guitar/bass/drums).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction): does NOT exclude vocals/singing/electric-guitar/bass/brushed-drums (all core). Excluding synths/electronic/programmed-drums IS genre-correct (slowcore is live-band). REMOVED bare "rock" from the drafter's exclude_styles on promotion — slowcore IS indie-rock, so excluding its parent category would soften the electric-band character (kept "metal" + inline "no distorted metal guitars" for the loud-drift block). English only, no place-names. Sung lines clean of leaked stage-directions (v503/v505 lessons); ad-libs genuine sung.
+
+  Style char count: 937.
+
+tags:
+  - slowcore
+  - indie-rock
+  - clean-electric-guitar
+  - tremolo-guitar
+  - warm-electric-bass
+  - brushed-drums
+  - male-vocal
+  - hushed-vocal
+  - single-crescendo-build
+  - post-rock-arc
+  - instrumental-crescendo
+  - f-major
+  - 71bpm
+  - involuntary-habit-grief
+  - domestic-detail
+  - no-modulation
+  - live-band-organic
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
