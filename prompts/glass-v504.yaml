@@ -1,0 +1,100 @@
+name: "glass-v504"
+version: 504
+title: "Glass504"
+instrumental: false
+vocal_gender: female
+
+style: "Cold digital longing over a relentless drum-machine pulse — a fierce bittersweet female voice carries all the warmth in a clean punchy electronic mix. Wide bright stereo stage, rubbery syncopated synth bassline locked in the groove, bright digital keyboard stabs delivering a signature melodic riff that returns and builds after every chorus. Synth brass stabs cut crisp on the off-beats, tight 16th-note hi-hats drive the 125 BPM dance pocket. Genuinely sung vocal — melodically rich, emotionally full, real chord movement in verses, suspended held tone at the hook peak. C minor, bittersweet and dramatic. The post-chorus keyboard riff is the structural identity: a bright punchy synth-stab figure that recurs and stacks each time, culminating where voice and riff lock together at full density. Outro stays live in the groove — controlled close, no cold stop. No acoustic guitar, no live band, no orchestral strings, no rock production, no trap."
+
+lyrics: |
+  [Intro: drum machine and rubbery synth bass preview the signature keyboard riff, 8 bars]
+
+  [Verse 1: fierce clean female vocal, chord movement Cm-Ab-Eb-Bb, groove continuous]
+  I kept it locked behind my ribs for so long
+  Every word I swallowed made me hollow and strong
+  You thought the silence meant I had nothing to say
+  But I was memorizing every word for today
+
+  [Pre-Chorus: voice lifts, synth brass stabs enter on off-beats]
+  Now the drum is calling and the lights are low
+  Something in me rises and it wants you to know
+
+  [Chorus: hook, full groove, bright keyboard stab cuts on beat 4]
+  Glass in my chest and I'm dancing
+  Still standing, still answering
+  Glass in my chest and I'm dancing
+  Held high, held — (oh)
+
+  [Post-Chorus Synth Riff: bright digital keyboard riff-hook over rubbery bass and drum machine, synth brass punctuating, 8 bars]
+
+  [Verse 2: vocal more open, Cm-Fm-Ab-Bb chord movement, groove unbroken]
+  I used to fold myself to fit your narrow room
+  Count my words before I let them cut through
+  But there's a wire in me, taut and humming bright
+  Every step I take now is a step toward the light
+
+  [Pre-Chorus: voice builds, hi-hats intensify]
+  Now the drum is calling and I know who I am
+  Something in me rises and it won't disappear
+
+  [Chorus: hook, full groove, keyboard stab on beat 4]
+  Glass in my chest and I'm dancing
+  Still standing, still answering
+  Glass in my chest and I'm dancing
+  Held high, held — (oh)
+
+  [Post-Chorus Synth Riff: keyboard riff returns fuller, second synth layer stacks in, bass doubles, 8 bars]
+
+  [Keyboard Riff Workout: signature riff developed over rubbery bass, drum machine, brass stabs answering every 2 bars, no vocal, 16 bars]
+
+  [Final Chorus: vocal hook at peak intensity, keyboard riff stacked simultaneously, full density no key change]
+  Glass in my chest and I'm dancing
+  Still standing, still answering
+  Glass in my chest and I'm dancing
+  Held high, held — (dancing)
+  Glass in my chest — (oh, oh)
+  And I'm dancing
+
+  [Outro: full groove locked in the pocket, keyboard riff cycling, bass and drum machine controlled fade, 8 bars]
+
+  [End]
+
+exclude_styles: "acoustic guitar, live band, orchestral strings, rock, trap, ambient, lo-fi, country, folk, jazz, reggaeton, hip-hop, R&B ballad, new age, world music, tribal"
+
+notes: |
+  v504 TOURNAMENT WINNER (inline-judged ~88/100; beat sibling candidate A "sparse-verse/full-chorus-swell + keyboard-stab break + bridge" at ~86 — B's signature recurring instrumental keyboard riff-hook is a genuine SECOND hook [the classic freestyle "instrumental earworm" identity] that lifts distinctiveness [D2 18] and danceability [D4 14], exactly what our beat-driven audience rewards; narratives comparable, both clean and both render fine at the fast 125 pocket). Lane: LATIN-ELECTRO FREESTYLE — never used in v462-v503; bright/fast/electronic/danceable FEMALE with a fierce bittersweet sung diva — strong contrast to v503's slow warm gritty male boom-bap.
+
+  HIGH VARIANCE: fierce clean bittersweet FEMALE diva (melodically-rich emotional sung — distinct from the recent electroclash deadpan v502, house diva v496, hyperpop v494), fast propulsive 125 BPM (breaks from the recent 90/133/77/139/85 cluster), C MINOR (bittersweet-dramatic — freestyle's defining minor key; novelty gap 19, the freshest genre-idiomatic minor since the fresh minors were blocked), clean cold electronic machine production. Vocal-gender alternation M/F held across v477-v504 (v503 male → v504 female).
+
+  HOOK: "Glass in my chest and I'm dancing" (hook-writer 21/25) — the freestyle contract distilled (hurt, and on the floor anyway). Contour: syncopated triplet G4-G4-Eb4 on beats 1-2& (locking into the rubbery synth-bass pop), stepwise climb Eb4-F4-G4 through "and I'm danc-", then "-ing" lands on a HELD flat-6 (Ab4) — the most suspended, unresolved note in C minor — while a bright keyboard stab cuts in on beat 4, leaving it ringing. PLUS the signature recurring instrumental keyboard riff (second hook). Narrative: "Every word I swallowed made me hollow and strong / You thought the silence meant I had nothing to say / But I was memorizing every word for today."
+
+  ARCHITECTURE — signature post-chorus synth-riff form, non-modulation density climax: intro previews the riff → V1 → pre-chorus → chorus (hook, held Ab4) → [Post-Chorus Synth Riff] (8 bars, instrumental earworm) → V2 → pre-chorus → chorus → [Post-Chorus Synth Riff] (fuller, second layer) → described lyric-free [Keyboard Riff Workout] (riff developed + brass answers, 16 bars — duration lever) → FINAL CHORUS voice+riff STACKED at full density (no key change) → live-groove outro (groove + riff in the pocket, controlled fade — NO cold stop). Dropped any half-step lift.
+
+  DURATION GUARD (learnings): full sung arc (two verses + two pre-choruses + three choruses) + recurring instrumental riff sections + a described 16-bar riff workout + a live-groove no-cold-stop outro; the groove runs continuously (no drop-to-silence). Fast 125 BPM sits in the proven 130-160-adjacent band.
+
+  INSTRUMENTS (described sonically — NO brand names): drum-machine kick/snare + rubbery syncopated synth BASSLINE + bright digital KEYBOARD stabs (melodic hero + the signature riff) + synth BRASS stabs + tight 16th-note hi-hats. Clean cold electronic mix — the VOICE carries the warmth. BPM 125 (novelty gap 97, classic freestyle pocket) and C minor (novelty gap 19); overrode the novelty's fresh-but-major key picks because freestyle is defined by a minor key.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502 lesson respected): exclude_styles does NOT exclude vocals/singing/synth/synthesizer/electronic/drum-machine/keyboard/bass (all core). Excludes acoustic-guitar/live-band/rock/orchestral/trap + drift genres. English only, no place-names, NO nationality/"Latin" words, NO instrument brand names (808/909/DX7/etc. all described sonically). Sung lines clean of leaked stage-directions (v503 lesson).
+
+  Style char count: 948.
+
+tags:
+  - latin-electro-freestyle
+  - freestyle
+  - female-vocal
+  - fierce-bittersweet-diva
+  - c-minor
+  - 125bpm
+  - drum-machine
+  - rubbery-synth-bass
+  - digital-keyboard-stabs
+  - synth-brass
+  - signature-post-chorus-riff
+  - instrumental-earworm
+  - density-climax
+  - no-modulation
+  - dancefloor-self-possession-scene
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
