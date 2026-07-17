@@ -1,0 +1,89 @@
+name: "piedmont-v517"
+version: 517
+title: "Borrowed517"
+instrumental: false
+vocal_gender: male
+
+style: "Warm buoyant Piedmont country-blues, all-acoustic dry room-mic warmth, polished studio mix. A fingerpicked acoustic guitar carries the rhythmic-melodic engine: alternating-thumb bass pulse in a relaxed shuffle while syncopated treble notes curl the melody above — closer to stride piano than slide blues. Warm male baritone-to-tenor croon, intimate and genuinely sung, a little wry. Call-and-response harmonica fills answer each vocal phrase. Walking upright bass thickens the low end from the second verse; light brushed snare keeps the shuffle honest. Mid-song the harmonica takes a warm lead over fingerpicked guitar and walking bass — textured, never idle. Final chorus: upright bass driving, brushed snare crisp, harmonica weaving above the guitar, croon at its warmest. Closes on a ringing C-major cadence, guitar and bass landing. C major, 89 BPM. No rock drums, no synthesizers, no electronics, no distorted electric guitar, no autotune."
+
+lyrics: |
+  [Intro: fingerpicked guitar, alternating-thumb shuffle groove, 8 bars]
+
+  [Verse 1: warm croon, harmonica answering each line, 16 bars]
+  Oil the boots that walked seven seasons through
+  Cheap laces still holding, that's a thing or two
+  Hum along because they're holding up just fine
+  Borrow the afternoon, return it slow down the line
+
+  [Chorus: harmonica echoing the sixth back up, 12 bars]
+  Borrow the afternoon, return it slow
+  Easy on the river, let the hours go
+  Nineteen ways to be alright, I've tried a few
+  Borrow the afternoon, return it to you
+
+  [Verse 2: walking upright bass joins, fuller groove, 16 bars]
+  Window seat on a long ride, hat pulled low
+  Nothing urgent left to think about or know
+  That satisfaction when the next stop's still an hour out
+  Ease you didn't earn — that's what the quiet's all about
+
+  [Chorus: full band, harmonica answering, 12 bars]
+  Borrow the afternoon, return it slow
+  Easy on the river, let the hours go
+  Nineteen ways to be alright, I've tried a few
+  Borrow the afternoon, return it to you
+
+  [Harmonica and Guitar Break: harmonica leads warm over fingerpicked guitar and walking bass, brushed snare keeping the shuffle, ensemble full, 14 bars]
+
+  [Final Chorus: upright bass driving, brushed snare full, harmonica weaving above the guitar, croon at its warmest, cumulative density, 16 bars]
+  Borrow the afternoon, return it slow
+  Easy on the river, let the hours go
+  Nineteen ways to be alright, I've tried a few
+  Borrow the afternoon — I'm returning it to you
+
+  [Outro: fingerpicked guitar and upright bass, ringing C-major cadence, decisive and warm, 8 bars]
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, dubstep, drum machine, rock drums, synthesizer, electronic production, distorted electric guitar, metal, orchestral strings, hip hop, lo-fi, Arabic, world music, autotune, reggaeton, heavy reverb, ambient drone, new age, experimental noise, free jazz, atonal"
+
+notes: |
+  v517 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate B "rambling-day through-composed vignette form" on a hard FORMAT-GATE fail — B's Vignette 1 contained the sung lyric line "Harmonica turns the phrase back, easy", a leaked INSTRUMENT-CUE/stage-direction as a sung line [Suno would sing it — the v503/v505/v511-siblingB/v514-siblingB class leak]. A is clean: every lyric line is genuine sung content, the harmonica's call-and-response lives only in bracket labels + style prose. B's through-composed vignette architecture was more novel and its scene-writing charming ["Found a coin I'd lost in February"], but the leak is central and A is a clean, cohesive, genre-authentic realization. A's only defect was a PLACE-NAME title "Piedmont517" [region name — violates no-place-names] -> RENAMED to the hook-derived "Borrowed517" on promotion). Lane: PIEDMONT BLUES CROONER (warm acoustic ragtime-fingerpicking country-blues) — never used in v462-v516; warm/mid/organic/acoustic MALE — contrast to v516's bright fast electronic dance female, AND breaks the recent fast-male cluster (v515 freakbeat 146, v513 EBM 141, v511 soukous 119). Distinct from v509's ELECTRIC blues-rock (this is acoustic alternating-thumb country-blues).
+
+  HIGH VARIANCE: warm wry baritone-to-tenor croon (good-humored/intimate — distinct from the recent males: urgent freakbeat holler v515, cold EBM baritone v513, warm soukous tenor v511), relaxed-shuffle 89 BPM (breaks from the recent 128/146/103/141/75 cluster; novelty gap 319, the standout in the slow-to-mid band), C MAJOR (open/bright/warm — Piedmont is often major-key/ragtime-buoyant, novelty gap 27; not enharmonic to any recent key), all-acoustic dry room-mic production (opposite of v516's bright electronic). Vocal-gender alternation M/F held across v477-v517 (v516 female -> v517 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (Piedmont blues: fingerpicked alternating-thumb acoustic guitar [hero], call-and-response harmonica, walking upright bass, light brushed snare, warm croon). Took BPM 89 (novelty gap 319, in Piedmont's 88-104 band) + C major (novelty gap 27, matches the genre's major-key buoyancy). Dropped the novelty's mellotron (off-genre — Piedmont is all-acoustic guitar/harmonica, no keyboards). COUNTERED THE GENRE'S INHERENT SPARSENESS (solo-fingerpicked-guitar = truncation risk): kept every section textured (harmonica fills + upright bass from V2 + brushed snare fill the arc) + a full sung arc + a described harmonica/guitar break. Reconciled the researcher's "strip to guitar alone" ending -> a warm RESOLVED guitar+bass C-major cadence (decisive/ringing, NOT a lone dissolving note, NOT a fade). Reconciled the cultural-geography flag -> lyrics fully abstract English, NO place-names/regional/ethnicity markers (the STYLE keeps "Piedmont country-blues" once as the genre identifier Suno needs — like soukous/kuduro — but no geography leaks into the lyrics or the public title). Non-modulation cumulative climax.
+
+  HOOK: "Borrow the afternoon, return it slow" (hook-writer 22/25) — borrowing a unit of time as if it belongs to someone else, the wry-ease philosophy (uncopyable, belongs only to this song). Contour: ascending stepwise 1-2-3-4 (C-D-E-F) on "borrow the af-ter-noon", then a downward major-sixth leap on "return", landing beat 3; the HARMONICA answers by playing the major sixth BACK UP before the next vocal phrase (call-and-response built into the contour). Developed into a full chorus: "Easy on the river, let the hours go / Nineteen ways to be alright, I've tried a few." Warm wry verse imagery: "Oil the boots that walked seven seasons through / Cheap laces still holding"; "Window seat on a long ride, hat pulled low / ... Ease you didn't earn — that's what the quiet's all about."
+
+  ARCHITECTURE — classic Piedmont verse/chorus song with a harmonica/guitar break, non-modulation cumulative-density climax: [Intro] solo fingerpicked guitar establishes the alternating-thumb shuffle (textured) -> V1 (warm croon + guitar, harmonica answering each line) -> Chorus (hook, harmonica echoing the sixth back up) -> V2 (walking upright bass joins, fuller) -> Chorus -> described [Harmonica and Guitar Break] (harmonica leads over fingerpicked guitar + walking bass + brushed snare, ensemble full, 14 bars — textured duration lever) -> [Final Chorus] cumulative (upright bass driving, brushed snare full, harmonica weaving, croon warmest, no key change) -> [Outro] warm resolved ringing C-major cadence, guitar + upright bass landing (NOT a lone dissolving note, NOT a fade-to-silence, NOT a cut).
+
+  DURATION GUARD (learnings): the genre is solo-guitar-sparse by nature (sparseness = truncation cause), so this leans on a full melodic sung arc (two 16-bar verses + three choruses) + a described textured 14-bar harmonica/guitar break (never silent) + every section textured (harmonica + upright bass + brushed snare fill the arc, never solo-guitar-sparse) + a warm resolved cadence close. Slow-shuffle 89 BPM renders LONG with a full textured arc (cf. v509@87->5:09, v512@75->3:29). ~92 bars.
+
+  INSTRUMENTS: fingerpicked ACOUSTIC GUITAR (the melodic hero — alternating-thumb bass + syncopated treble melody simultaneously, the polyphonic engine) + call-and-response HARMONICA (answers each phrase, leads the break, carries the major-sixth exchange) + walking UPRIGHT BASS (enters V2, drives the final chorus) + light BRUSHED SNARE (keeps the shuffle, full in the final) + warm male baritone-tenor croon. All-acoustic. BPM 89 (novelty gap 319) and C major (novelty gap 27).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v507/v509/v515 lessons): does NOT exclude vocals/singing/guitar/acoustic-guitar/harmonica/upright-bass/bass/brushed-snare/blues/folk/country-blues/acoustic (all core / parent — excluding "acoustic guitar"/"harmonica"/"blues" would be the fatal v515/v507-class mistake, the fingerpicked acoustic guitar IS the genre). Excludes only genuine drift (EDM/trap/house/techno/dubstep/drum-machine/rock-drums/synth/electronic-production/distorted-electric-guitar/metal/orchestral-strings/hip-hop/lo-fi/Arabic/world/autotune/reggaeton/heavy-reverb/ambient-drone/new-age/experimental-noise/free-jazz/atonal). Style negatives: no rock drums, no synthesizers, no electronics, no distorted electric guitar, no autotune. English only, no place-names in lyrics OR the public title (title renamed off the place-name), no regional/ethnicity markers. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (this is exactly the gate sibling B failed) — the break is a properly described lyric-free bracket.
+
+  Style char count: 945.
+
+tags:
+  - piedmont-blues
+  - acoustic-country-blues
+  - fingerpicking
+  - alternating-thumb-guitar
+  - harmonica
+  - call-and-response
+  - upright-bass
+  - brushed-snare
+  - male-baritone-tenor-croon
+  - 89bpm
+  - c-major
+  - wry-ease-scene
+  - verse-chorus-song
+  - harmonica-guitar-break
+  - cumulative-density-climax
+  - non-modulation
+  - all-acoustic
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

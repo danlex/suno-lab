@@ -531,6 +531,7 @@ mindmap
 | 514 | Tuesday514 | classic-70s philly/orchestral soul — strings-as-lead-voice call-and-response, mid vamp, cumulative-density climax | D-flat major | 103 | lush orchestral strings + cornet/brass punches + vibraphone (over warm electric piano, walking electric bass, live drums) |
 | 515 | Splinter515 | freakbeat mod-punk — stop-time guitar-solo break, holler-into-sung hook, cumulative-density climax, decisive button close | D minor | 146 | fuzz-drenched cranked electric guitar + punching Hammond organ + electric bass (over tight live drumkit with stop-time hits) |
 | 516 | Tambourine516 | kuduro diva-pop — genuinely-sung diva hook over stuttered-kick groove, textured percussion break, cumulative-density climax | B major | 128 | stuttered chopped-kick groove + punchy synth-bass stabs + bright cowbell/hand-percussion (under warm synth pads and a bright sung female diva) |
+| 517 | Borrowed517 | Piedmont blues crooner — alternating-thumb fingerpicked guitar, call-and-response harmonica, cumulative-density climax, resolved cadence | C major | 89 | fingerpicked acoustic guitar (alternating-thumb) + call-and-response harmonica + walking upright bass (over light brushed snare) |
 
 ## Next-cycle priorities
 
