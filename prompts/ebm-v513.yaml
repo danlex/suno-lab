@@ -1,0 +1,94 @@
+name: "ebm-v513"
+version: 513
+title: "Thermal513"
+instrumental: false
+vocal_gender: male
+
+style: "Cold, mechanical, driving electronic body music fused with futurepop melodicism — a machine that refuses to stop. Polished studio mix with deep low-end definition: pounding 4/4 electronic kick, sharp snare and clap, tight hats locking the grid; a relentless staccato sequenced bass synth driving every bar as the sonic hero; cold modular arpeggios threading angular lines; wide cold synth pads opening at the chorus as the machine's one exhale. Commanding baritone male vocal: verses clipped, percussive, commando-terse over the bass — spare and hard; choruses pivot to a genuinely sung, held melodic hook against the cold machinery, the futurepop release. G-sharp minor, 141 BPM. Climax is cumulative density — arpeggios, pads, drum machine at full force, no key change — outro keeps bass and kick locked through a final resolving synth stab, not a cut to silence. No guitars, no acoustic instruments, no orchestral strings, no choir, no pipe organ."
+
+lyrics: |
+  [Intro: sequenced bass and drum machine, cold arpeggio preview, 8 bars]
+
+  [Verse 1: clipped baritone over sequenced bass, sparse grid]
+  Signal locked. Pulse clean.
+  Junction of nerve and relay.
+  No threshold crossed.
+  No circuit cold.
+  I am the failsafe that remains.
+
+  [Chorus: sung melodic hook, synth pads and arpeggios open up, 8 bars]
+  Below the thermal line I burn.
+  Below the thermal line I burn.
+  The engine holds. The engine turns.
+  Below the thermal line I burn.
+
+  [Verse 2: fuller grid, arpeggio threading between lines]
+  Moving through the cold meridian.
+  Grid-locked. Nothing breaks.
+  Every nerve a relay station.
+  Every breath a calibrated intake.
+  I will not stall.
+
+  [Chorus: sung melodic hook, pads wider, arpeggios lifting, 8 bars]
+  Below the thermal line I burn.
+  Below the thermal line I burn.
+  The engine holds. The engine turns.
+  Below the thermal line I burn.
+
+  [Stripped Bass Vamp: sequenced bass and kick locked, pads filtered low, arpeggios drop then creep back — tension reset, 14 bars]
+
+  [Final Chorus: full cumulative density, arpeggios and pads at maximum, drum machine driving, sung hook at peak, 16 bars]
+  Below the thermal line I burn.
+  Below the thermal line I burn.
+  The engine holds. The engine turns.
+  Below the thermal line — I burn.
+  Below the thermal line I burn.
+  The machine endures. The cold confirms.
+  Below the thermal line I burn.
+
+  [Driven Outro: bass and kick locked in groove, final resolving synth stab decaying, 8 bars]
+
+  [End]
+
+exclude_styles: "acoustic guitar, acoustic instruments, orchestral strings, folk, jazz, blues, reggae, country, metal guitar, rock guitars, trap hi-hats, lo-fi, ambient drone, world music, Arabic, tribal, new age, chanson, gospel, choir"
+
+notes: |
+  v513 TOURNAMENT WINNER (inline-judged ~86/100; beat sibling candidate B "extended club/DJ-edit arc" — both scored ~86 and both were clean [no leaked stage-directions; "(oh)" in B was a legit sung vocable], but A won the tiebreak on THREE counts: (1) B's breakdown->build->drop club arc sits closer to the formulaic build-strip-drop template the judge penalizes, whereas A's verse/chorus SONG form with the clipped-verse->sung-chorus contrast is the more genre-authentic EBM/futurepop shape AND a fresher structural choice vs the recent electronic cycles [v510 jungle, v508 vogue house were already continuous/club forms]; (2) DURATION SAFETY — B had ~52 lyric-free bars [extended intro + breakdown + drop + long outro] diluting sung content, A keeps a tighter sung-content balance; (3) A gives the hook more refrain exposure. B's chorus writing was marginally richer ["what registers is not my name"] but not enough to overcome A's structural + duration edge). Lane: EBM / FUTUREPOP (Electronic Body Music + futurepop melodicism) — never used in v462-v512; cold/mechanical/driving/electronic MALE — max contrast to v512's warm acoustic-chamber cabaret, AND deliberately breaks the recent warm-organic-slow MALE cluster (v511 soukous, v509 soul-blues, v507 slowcore) with a male ELECTRONIC lane.
+
+  HIGH VARIANCE: commanding baritone MALE with a clipped-verse -> genuinely-SUNG-chorus contrast (cold/defiant — distinct from the recent males: warm soukous tenor v511, blues-ache v509, hushed slowcore v507), fast 141 BPM (breaks from the recent 75/119/170/87/134 cluster; novelty gap 289, in the proven fast band), G-SHARP MINOR (cold/angular/tension-heavy, novelty gap 44 — not enharmonic to any recent key; distinct from A-flat MAJOR v511), cold industrial-electronic production (opposite of the recent organic/acoustic cycles). Vocal-gender alternation M/F held across v477-v513 (v512 female -> v513 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (EBM/futurepop: pounding 4/4 drum machine, staccato sequenced bass synth [hero], cold modular arpeggios, wide cold synth pads, commanding baritone). Took BPM 141 + G-sharp minor from the novelty-picker (freshest in-idiom picks; gaps 289 & 44; ignored its "to A minor"/"to C major" half-step pairings — static key only). Dropped the novelty's cornet/trombone suggestion (off-genre — cold EBM has no brass/acoustic). Dropped the researcher's "hard cut stop" ending (truncation risk) -> driven textured outro (bass + kick locked, resolving synth stab decaying). Reconciled the researcher's clipped/commando vocal to a CLIPPED-VERSE + genuinely-SUNG-melodic-CHORUS (futurepop) so it renders full (pure shout/deadpan renders short). Non-modulation cumulative-density climax (no half-step lift). No cultural-appropriation risk (EBM is a synthetic/electronic form); English only.
+
+  HOOK: "Below the thermal line I burn" (hook-writer 21/25) — a specific engineering image (the thermal threshold where materials change state) fused with a paradox (burning below the heat-detection line = the machine/body burns hotter than the instruments register). Contour: descending stepwise b7-6-5-4-3 across "Below the thermal line" landing on the minor-3rd at "line", then a leap DOWN to a held tritone (flatted-5) on "burn" — a cold, dissonant, angular melodic fingerprint no generic EBM chant carries. Sung chorus topline. Verse register clipped/commanding: "Signal locked. Pulse clean."; "No threshold crossed. No circuit cold."; folds in the runner-ups "Junction of nerve and relay" and "I am the failsafe that remains."
+
+  ARCHITECTURE — classic EBM verse/chorus song drive, non-modulation cumulative-density climax: [Intro] sequenced bass + drum machine establish the cold 4/4 drive (arpeggio preview, textured) -> V1 (clipped commanding baritone over the sequenced bass) -> Chorus (SUNG hook, synth pads + arpeggio opening up) -> V2 (fuller, arpeggio threading) -> Chorus -> described [Stripped Bass Vamp] (sequenced bass + kick locked, pads filtered low, arpeggios drop then creep back — tension reset, 14 bars, TEXTURED not silent — duration lever) -> [Final Chorus] cumulative synth density (arpeggios + pads at max, drum machine driving, sung hook at peak, no key change) -> [Driven Outro] bass + kick locked in the groove, final resolving synth stab decaying (driven textured close, NOT a cut-to-silence, NOT a mid-phrase hard stop). A song form (not a build/drop DJ tool) is the deliberate, less-templated choice.
+
+  DURATION GUARD (learnings): the clipped-verse -> genuinely-SUNG-melodic-chorus contrast is the core lever (a deadpan/shouted chorus classifies as shorter-form industrial and truncates; a held melodic chorus signals futurepop and unlocks the fuller arc). Full arc (two verses + three escalating sung choruses) + a described textured 14-bar stripped-bass vamp (never silent) + every section textured (bass/drum machine always driving, no dissolution) + a driven outro (no fade, no cut). 141 BPM in the proven fast band. ~86 bars.
+
+  INSTRUMENTS: pounding 4/4 DRUM MACHINE (described sonically — electronic kick, sharp snare/clap, tight hats — NO brand/model names) + staccato SEQUENCED BASS SYNTH (the driving hero) + cold modular SYNTH ARPEGGIOS + wide cold SYNTH PADS (the chorus exhale) + commanding baritone. BPM 141 (novelty gap 289) and G-sharp minor (novelty gap 44).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v507/v509/v511/v512 lessons): does NOT exclude vocals/singing/electronic/synth/synthesizer/drum-machine/industrial/EBM/electro (all core to this ELECTRONIC lane — excluding any would be the fatal v502-class mistake). Excludes only genuine drift (acoustic instruments/guitars/orchestral-strings/folk/jazz/blues/reggae/country/metal/rock-guitars/trap/lo-fi/ambient-drone/world/Arabic/tribal/new-age/gospel/choir). Style negatives: no guitars, no acoustic instruments, no orchestral strings, no choir, no pipe organ. English only, no place-names, no nationality/ethnicity words, no artist names, no instrument brand names/model numbers. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (v503/v505/v508/v511-siblingB lessons) — all instrumental content in bracket labels.
+
+  Style char count: 950.
+
+tags:
+  - ebm
+  - futurepop
+  - industrial-electronic
+  - baritone-male-vocal
+  - sequenced-bass-synth
+  - modular-arpeggios
+  - synth-pads
+  - drum-machine
+  - 141bpm
+  - g-sharp-minor
+  - cold-city-night-scene
+  - clipped-verse-sung-chorus
+  - cumulative-density-climax
+  - non-modulation
+  - driven-outro
+  - new-lane
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - high-variance

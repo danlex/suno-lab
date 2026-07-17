@@ -527,6 +527,7 @@ mindmap
 | 510 | Eye510 | jungle (breakbeat electronic, vocal anthemic), vocal-led anthem over continuous rolling breaks with a recurring pitched-chop refrain (2nd hook) and cumulative-density climax (non-modulation), soaring clean female, hook 'I am the eye, not the storm' (held-5th -> one-bar break-gap -> dark-tonic descent; re-submitted after a server-side stall on the first attempt) | G minor | 170 | soaring clean legato female vocal + tumbling two-pass Amen breakbeats + deep rolling half-time sub-bass (reverberated siren-stab synths, pitched vocal-chop refrain, atmospheric pad) |
 | 511 | Monday511 | soukous seben groove — mi-solo dual-guitar counterpoint, seben solo bridge, cumulative-density climax | A-flat major | 119 | two clean electric guitars (mi-solo) + rolling melodic bass + conga-led percussion |
 | 512 | Evening512 | dark cabaret torch — cyclic verse/refrain build, belted NO-ONE dynamic climax, sustained ring-out | A minor | 75 | upright piano + accordion + cello (over brushed snare/upright bass, muted trumpet ghosting) |
+| 513 | Thermal513 | EBM / futurepop — clipped-verse to sung-chorus contrast, cumulative-density climax, driven outro | G-sharp minor | 141 | staccato sequenced bass synth + cold modular arpeggios + wide synth pads (over pounding 4/4 drum machine) |
 
 ## Next-cycle priorities
 
