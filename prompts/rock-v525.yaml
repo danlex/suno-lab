@@ -1,0 +1,108 @@
+name: "rock-v525"
+version: 525
+title: "Sameroad525"
+instrumental: false
+vocal_gender: male
+
+style: "Warm, driving, anthemic heartland rock — a raspy soaring male lead builds from an intimate verse to a full-throated chorus where stacked male \"whoa-oh\" backing vocals lock arms with the band. Open-chord electric guitar riffs carry the melody like a declaration, answering every pause with a ringing D-major strum; acoustic guitar lays roots underneath. Hammond organ swells fill a wide stereo stage on every chorus, rising from whisper to warm harmonic flood. Punchy no-frills drum kit drives a steady backbeat; bass walks the root with conviction. Tenor saxophone joins the guitar solo, rough and warm alongside the soaring electric line. Polished studio mix, tight live-room warmth. D major, 136 BPM. The climax is cumulative — organ doubling, BVs doubling, full band at anthem peak, no key change — earned by weight alone, closing on a sustained ringing chord. No synthesizers, no electronic drums, no autotune, no rap, no pipe organ."
+
+lyrics: |
+  [Intro: fingerpicked acoustic opens, full band crashes in — electric guitar, drums, organ, 8 bars]
+
+  [Verse 1: raspy intimate male vocal, full band driving underneath]
+  The hour when the phone goes quiet and you are still there
+  Something steady in the dark that I cannot name
+  We have carried what we couldn't say through every season
+  And I would do it all again the same
+
+  [Pre-Chorus: bass and kick strip back, tension building, 4 bars]
+  This is not the end of anything
+  This is where we hold
+
+  [Chorus: full band, organ swells, stacked male "whoa-oh" BVs, 8 bars]
+  Two hands, no map, same road
+  Two hands, no map, same road
+  Whoa-oh, whoa-oh — same road
+  We are not going under, we are going home
+
+  [Verse 2: fuller band, raspy vocal leaning in]
+  We have borrowed from the ones before us
+  Everything they couldn't keep
+  Passed the lantern hand to hand through every shadow
+  Promises we meant to keep
+
+  [Pre-Chorus: bass and kick, momentum building, 4 bars]
+  This is not the end of anything
+  This is where we hold
+
+  [Chorus: full band, organ swells, stacked "whoa-oh" BVs, 8 bars]
+  Two hands, no map, same road
+  Two hands, no map, same road
+  Whoa-oh, whoa-oh — same road
+  We are not going under, we are going home
+
+  [Guitar Solo: soaring open-chord electric guitar over driving full band, organ swelling, tenor saxophone joining mid-solo, 16 bars]
+
+  [Bridge: Hammond organ and raspy vocal, stripped to two voices, 8 bars]
+  When the weight comes down on both of us together
+  We don't ask how long — we ask how far
+  And there's a door ahead that neither one has opened
+  We will walk through it the way we always are
+
+  [Final Chorus: full band, organ doubled, BVs doubled and sustained, anthem peak, 8 bars]
+  Two hands, no map, same road
+  Two hands, no map, same road
+  Whoa-oh, whoa-oh — same road
+  We are not going under, we are going home
+
+  [Outro: full band drives to a sustained ringing D-major chord, held and ringing, 4 bars]
+
+  [End]
+
+exclude_styles: "EDM, trap, techno, dubstep, metal, hardcore, hip hop, drill, synthwave, disco, gabber, hardstyle, Arabic, world music, lo-fi, new age, ambient, experimental noise, free jazz, atonal, reggae, funk, pop punk, glam rock"
+
+notes: |
+  v525 TOURNAMENT WINNER — the catalog's 500th song (inline-judged ~88/100; beat sibling candidate B "communal build + gang-vocal call-and-response + sax-and-organ barroom break" ~87 — very close, both clean/leak-free/duration-reliable/anthemic. B was the more architecturally distinct + rowdier communal crowd-anthem [double-refrain of both hooks, a novel sax-barroom-break centerpiece, stomps/claps breakdown], but A won the flagship on WRITING DEPTH + EMOTIONAL PAYOFF: A's lyric is the more cohesive, genuinely moving anthem — the phone-quiet verse, the standout bridge "We don't ask how long — we ask how far / And there's a door ahead that neither one has opened", and the killer chorus resolution "We are not going under, we are going home". For song #500 the more moving, cohesive, genre-authentic flagship is the right call). Lane: HEARTLAND ROCK (warm roots-driven full-band anthem) — never used in v462-v524; warm/anthemic/driving MALE — contrast to v524's bright playful yé-yé female AND all recent males (cold post-metal v523, slow G-funk v521, uptempo Northern-soul v519). Title renamed "Samroad525" -> "Sameroad525" for clarity (hook-derived, one token, NO place/regional word — deliberately avoided "Heartland", a regional term, per the v517/v519 place-name lesson).
+
+  HIGH VARIANCE: raspy-soaring earnest MALE with a communal sing-along belt + stacked BVs (warm/anthemic — distinct from the recent males: cold post-metal baritone v523, laid-back G-funk v521, gritty Northern-soul tenor v519), driving 136 BPM (breaks from the recent 143/108/124/94/112 cluster; novelty gap 80, anthemic-drive tempo), D MAJOR (bright/warm open-chord rootsy, novelty gap 23; not enharmonic to any recent key; avoids v524's G / v522's A major), warm live-band roots production. Vocal-gender alternation M/F held across v477-v525 (v524 female -> v525 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (heartland rock: open-chord electric guitar [riff hero] + acoustic guitar + Hammond organ + punchy drum kit + bass + tenor sax + raspy male lead + stacked BVs). Took BPM 136 (novelty gap 80) + D major (novelty gap 23). Dropped the novelty's mellotron (off-genre — heartland's keyboard is Hammond organ). Dropped the researcher's "guitar outro FADE" (soft-end/truncation risk) -> a driven sustained ringing D-major close. Kept the strip sections TEXTURED (bass+kick pre-chorus, organ+voice bridge, bar-counted — not silence). CULTURAL (researcher flagged working-class Americana vocab): lyrics fully ABSTRACT/UNIVERSAL endurance/belonging (no place-names, no geographic/blue-collar iconography, no artist names — "lantern"/"going home"/"door ahead" are universal metaphors). Non-modulation cumulative climax.
+
+  HOOK: "Two hands, no map, same road" (hook-writer 22/25) — a compressed noun-collage that admits lostness ("no map") AND declares solidarity ("same road"), uncopyable. Contour: three staccato quarter-note declarations on scale-degree 5 (A) — "two hands"/"no map"/"same" (held eighth pause) — then a sharp FALLING FIFTH to the tonic D on "road" (the fingerprint); the open-chord guitar answers the pause with a ringing D strum, stacked "whoa-oh" BVs on the repeat. Developed with a killer resolution line: "We are not going under, we are going home." Verse writing: "The hour when the phone goes quiet and you are still there"; bridge "We don't ask how long — we ask how far."
+
+  ARCHITECTURE — classic heartland-rock verse/pre-chorus/anthemic-chorus/guitar-solo/bridge/final-chorus, non-modulation cumulative climax: [Intro] fingerpicked acoustic + full band crash -> V1 (raspy intimate vocal over the driving band) -> Pre-Chorus (strip to bass+kick, textured) -> Chorus (anthemic hook + organ swells + stacked "whoa-oh" BVs) -> V2 -> Pre-Chorus -> Chorus -> described [Guitar Solo] (soaring open-chord electric over the driving band + organ, tenor sax joining mid-solo, 16 bars — textured duration lever) -> [Bridge] strip to Hammond organ + raspy voice (textured, 8 bars) -> [Final Chorus] cumulative (organ doubled, BVs doubled/sustained, full band at anthem peak, no key change) -> [Outro] full band drives to a sustained ringing D-major chord (NOT a fade-out, NOT a lone hanging note, NOT a mid-phrase cut).
+
+  DURATION GUARD (500th song — reliably 3:00+): heartland rock is a duration-reliable driving full-band lane. Full melodic sung arc (two verses + pre-choruses + three escalating anthemic choruses) + a described textured 16-bar guitar solo (never silent) + every section textured (band driving; strips are bass+kick / organ+voice, NOT silence) + a driven sustained close (no fade, no hanging note, no cut). 136 BPM in the proven 130-160 band. Genuinely SUNG anthem (not deadpan). ~76 bars.
+
+  INSTRUMENTS: open-chord electric GUITAR (riff hero, answers the hook) + acoustic GUITAR (fingerpicked roots) + Hammond ORGAN (chorus swells, bridge anchor) + punchy DRUM KIT (steady driving backbeat) + BASS (root-walking) + tenor SAXOPHONE (joins the guitar solo) + raspy-soaring male lead + stacked male "whoa-oh" backing vocals. BPM 136 (novelty gap 80) and D major (novelty gap 23).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v515/v523-siblingA lessons; checked BOTH inline style negatives AND exclude_styles): NEITHER contains vocals/singing/guitar/electric-guitar/acoustic-guitar/organ/piano/bass/drums/saxophone/rock (all core / parent), and NEITHER excludes bare "country" (heartland is roots/Americana-adjacent — parent-exclusion would be the v497/v507-class mistake). Style inline negatives: no synthesizers, no electronic drums, no autotune, no rap, no pipe organ (all genuine drift — "no pipe organ" is fine, the organ is Hammond; "no rap" fine, the song is sung). Exclude_styles: only drift (EDM/trap/techno/dubstep/metal/hardcore/hip-hop/drill/synthwave/disco/gabber/hardstyle/Arabic/world/lo-fi/new-age/ambient/experimental-noise/free-jazz/atonal/reggae/funk/pop-punk/glam-rock). English only, no place-names, no geographic/blue-collar/nationality words, no artist names. Sung lines clean of leaked stage-directions/instrument-cues (the guitar/organ/sax answers are in bracket labels only); "whoa-oh" BVs are genuine sung vocables.
+
+  Style char count: 937.
+
+tags:
+  - heartland-rock
+  - roots-rock
+  - anthemic
+  - communal-sing-along
+  - electric-guitar
+  - acoustic-guitar
+  - hammond-organ
+  - tenor-saxophone
+  - drum-kit
+  - bass
+  - raspy-soaring-male-vocal
+  - stacked-bvs
+  - 136bpm
+  - d-major
+  - endurance-belonging-scene
+  - verse-chorus-solo-bridge
+  - guitar-solo-feature
+  - cumulative-density-climax
+  - non-modulation
+  - driven-sustained-close
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
+  - 500th-song

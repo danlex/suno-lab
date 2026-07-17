@@ -1,6 +1,6 @@
 {
-  "total_prompts": 498,
-  "latest_version": 523,
+  "total_prompts": 499,
+  "latest_version": 524,
   "instruments": {
     "organ": [
       1,
@@ -673,6 +673,20 @@
       362,
       479
     ],
+    "harpsichord": [
+      105,
+      121,
+      137,
+      188,
+      201,
+      202,
+      220,
+      235,
+      249,
+      330,
+      518,
+      524
+    ],
     "ondes martenot": [
       80,
       111,
@@ -764,19 +778,6 @@
       322,
       441,
       495
-    ],
-    "harpsichord": [
-      105,
-      121,
-      137,
-      188,
-      201,
-      202,
-      220,
-      235,
-      249,
-      330,
-      518
     ],
     "tubular bells": [
       101,
@@ -1354,36 +1355,6 @@
       470,
       514
     ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      162,
-      173,
-      178,
-      187,
-      251,
-      257,
-      314,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      448,
-      454,
-      459
-    ],
     "neoclassical": [
       1,
       2,
@@ -1413,6 +1384,32 @@
       321,
       424
     ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      173,
+      187,
+      251,
+      257,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      454,
+      459
+    ],
     "house": [
       242,
       261,
@@ -1432,7 +1429,6 @@
       522
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
@@ -1443,9 +1439,17 @@
       345,
       347,
       348,
-      439,
       451,
-      518
+      524
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1470,17 +1474,17 @@
       403,
       469
     ],
+    "baroque": [
+      188,
+      191,
+      439,
+      518
+    ],
     "garage": [
       353,
       367,
       406,
       462
-    ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
     ],
     "breakbeat": [
       357,
@@ -1513,6 +1517,10 @@
       112,
       315
     ],
+    "synthwave": [
+      1,
+      448
+    ],
     "trance": [
       396,
       488
@@ -1522,9 +1530,6 @@
     ],
     "afrobeats": [
       270
-    ],
-    "baroque": [
-      188
     ],
     "drill": [
       282
@@ -1546,9 +1551,6 @@
     ],
     "progressive house": [
       96
-    ],
-    "synthwave": [
-      1
     ]
   },
   "keys": {
@@ -1817,7 +1819,8 @@
       451,
       455,
       468,
-      501
+      501,
+      524
     ],
     "f-sharp minor": [
       89,
@@ -2658,7 +2661,8 @@
     ],
     "143": [
       227,
-      333
+      333,
+      524
     ],
     "144": [
       150,
@@ -2795,6 +2799,17 @@
   },
   "titles": [
     {
+      "version": 524,
+      "title": "Nerve524",
+      "name": "yeye-v524",
+      "featured": [
+        "harpsichord"
+      ],
+      "genre": "chamber",
+      "key": "g major",
+      "bpm": 143
+    },
+    {
       "version": 523,
       "title": "Fault523",
       "name": "postmetal-v523",
@@ -2853,7 +2868,7 @@
         "french horn",
         "oboe"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "a minor",
       "bpm": 123
     },
@@ -3572,7 +3587,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "synthwave",
       "key": "a minor",
       "bpm": 106
     },
@@ -3660,7 +3675,7 @@
         "harp",
         "string quartet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 90
     },
@@ -4757,7 +4772,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -6141,7 +6156,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -6306,7 +6321,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -6457,7 +6472,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

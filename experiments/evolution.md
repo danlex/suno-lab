@@ -539,6 +539,7 @@ mindmap
 | 522 | Skin522 | gospel-house/piano-house diva — gospel-piano+organ chord stabs, powerhouse belt, build-and-lift, choir-doubled cumulative climax, driven cathartic close | A major | 124 | stacked gospel-piano + Hammond organ chord stabs + brass horn stabs (over four-on-the-floor kick, soulful bass, handclaps, lush choir) |
 | 523 | Fault523 | atmospheric post-metal clean-vocal — crawl-to-monolith, down-tuned dual-guitar swell, textured bass-drone strip, non-modulation monolithic climax | B minor | 108 | two down-tuned layered electric guitars (clean arpeggio + heavy chordal swell) + sustaining bass + tom/cymbal drums (under wide-reverb pads and a cold contrabass drone) |
 | 524 | Nerve524 | yé-yé chamber-pop — vibraphone-as-hero, 1960s AABA middle-eight, lead/backing ooh-ooh call-and-response, non-modulation full-color climax | G major | 143 | vibraphone (melodic hero) + harpsichord counterline + pizzicato strings (over brushed swing kit, walking upright bass, acoustic guitar, stacked backing oohs) |
+| 525 | Sameroad525 | heartland rock (500th song) — anthemic verse/chorus/guitar-solo/bridge, communal whoa-oh sing-along, cumulative non-modulation climax, driven sustained close | D major | 136 | open-chord electric guitar (riff hero) + Hammond organ + tenor saxophone (over acoustic guitar, driving drum kit, walking bass, stacked male BVs) |
 
 ## Next-cycle priorities
 
