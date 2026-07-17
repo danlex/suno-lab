@@ -1,0 +1,118 @@
+name: "architecture-v506"
+version: 506
+title: "Architecture506"
+instrumental: false
+vocal_gender: female
+
+style: "Cold chrome precision with an ache underneath — driving new-wave synth-pop, 121 BPM, F-sharp major, metallic and forward-propulsive. The arpeggiated synth bassline pulses on locked 16th notes, relentless and bright, carrying the song's forward-lean from bar one. Stacked synth chords enter in hard-gated slabs, opening harmonic space without softening the edges. Gated machine drums keep the pulse machine-tight — snare cutting on the two and four, hi-hats clipped short. The female voice is precise and emotional-but-detached, singing with genuine melodic clarity and a clean-edged tone that refuses to melt into the production. Cold-precise mix, wide metallic stereo stage, polished studio mix with every transient sharp. When all synth layers unlock in the full-stack chorus the density lands as the climax — no key change, just the complete architecture revealed. No acoustic guitar, no live band, no orchestral strings, no trap, no dubstep."
+
+lyrics: |
+  [Intro: arpeggiated synth bass only, no drums, hook interval established in F-sharp major, 8 bars]
+
+  [Verse 1: cool sharp female vocal enters, arpeggiated synth bass plus gated machine drums, chord movement, 16 bars]
+  I kept the keys, I kept the spare
+  I kept the coffee where you'd find it there
+  Every habit stayed exactly right
+  Just an empty house dressed up in light
+  The shape of things we left in place
+  Each room a frame around your face
+
+  [Pre-Chorus Strip: arpeggiated synth bass and vocal only, gated drums drop, tension held, 8 bars]
+  I could say it's grief
+  I could call it need
+  But I've been standing in a structure
+  That was always more than me
+
+  [Full-Stack Chorus: all synth layers unlock at once, stacked chords hard-gated, snare forward, 12 bars]
+  I don't miss you
+  I miss the architecture
+  (architecture)
+  The way the walls held everything in place
+  I don't miss you
+  I miss the architecture
+  (oh)
+  The blueprint of a life I can't erase
+
+  [Verse 2: arpeggiated synth bass plus gated drums return, stacked chords steady, vocal forward, 16 bars]
+  I measured out the days in clean routine
+  Each morning like a room I've never seen
+  The counter cleared, the shelves all even-spaced
+  A kind of order that your hands erased
+  I filed it all, I kept the floor swept clean
+  Living in the gap of what it means
+
+  [Pre-Chorus Strip: arpeggiated synth bass and vocal only, gated drums drop, cool and taut, 8 bars]
+  I could say it's longing
+  I could name the place
+  But I keep returning to the outline
+  Of a shape I can't replace
+
+  [Full-Stack Chorus: all synth layers unlock, stacked chords hit hard, forward momentum, 12 bars]
+  I don't miss you
+  I miss the architecture
+  (architecture)
+  The way the walls held everything in place
+  I don't miss you
+  I miss the architecture
+  (oh)
+  The blueprint of a life I can't erase
+
+  [Arpeggio Vamp: arpeggiated synth bass and gated machine drums only, stacked chords stripped, cool driving tension, 16 bars]
+
+  [Final Chorus: all synth layers return at full density, stacked chords maximum, no key change, climax by density, 16 bars]
+  I don't miss you
+  I miss the architecture
+  (architecture)
+  The way the walls held everything in place
+  I don't miss you
+  I miss the architecture
+  (oh)
+  The blueprint of a life I can't erase
+  (I can't erase)
+  Every hall, every line — I miss the design
+
+  [Outro: arpeggiated synth bass, gated drums, stacked chords settle and thin, live groove holds, controlled close, 8 bars]
+  (architecture)
+  (the design)
+
+  [End]
+
+exclude_styles: "acoustic guitar, live band, orchestral strings, trap, dubstep, lo-fi, ambient drone, new age, world music, Arabic scales, free jazz, atonal, choral, opera, folk, country, jazz, gospel, reggae, funk, R&B, soul"
+
+notes: |
+  v506 TOURNAMENT WINNER (inline-judged ~86/100; beat sibling candidate B "motorik continuous-drive cumulative-layering" at ~85 — both clean, but A won on FORM-MIRRORS-MEANING [its strip-and-unlock "full-stack chorus" literally reveals the complete architecture, the structure enacting the hook's metaphor] + exceptional thematic unity sustaining the architecture/structure conceit across every verse + fuller 6-line verses for duration insurance; B's motorik relentlessness edged danceability but A wins on narrative craft). Lane: DRIVING NEW-WAVE SYNTH-POP — never used in v462-v505 (the v105 synthwave was a synthesis-era orchestral-electronic experiment, not this pure arpeggiated-bass/gated-drum/cool-female-vocal lane); bright/fast/edgy-electronic FEMALE with a clean-sharp-cool vocal register — strong contrast to v505's slow warm intimate male soul.
+
+  HIGH VARIANCE: clean sharp COOL FEMALE (precise, emotional-but-detached, rides above the grid — distinct from the recent female registers: freestyle fierce-diva v504, electroclash deadpan v502, eurodance belt v500), driving 121 BPM (breaks from the recent 79/125/90/133/77 cluster), F-sharp MAJOR (bright chrome — a bright-major key-color reset after the recent minor-heavy run, novelty gap 30), cold-precise all-synth production. Vocal-gender alternation M/F held across v477-v506 (v505 male → v506 female).
+
+  HOOK: "I don't miss you, I miss the architecture" (hook-writer 22/25) — cool detachment cracking (you miss the STRUCTURE of a relationship, not the person). Contour: first clause "I don't miss you" spoken-flat on the F# root across four quantized 16th-note syllables; second clause "I miss the ar-chi-tec-ture" opens into a clean four-step ascending line (F#-G#-A#-C#), arriving on a held C# (major 5th) on "architecture" with a synth-chord stab locking the arpeggiator to the peak — the two-clause melodic split ENACTS the detachment cracking. Thematically unified lyric: "an empty house dressed up in light"; "the shelves all even-spaced / a kind of order that your hands erased"; "Living in the gap of what it means."
+
+  ARCHITECTURE — STRIP-AND-UNLOCK, density climax (non-modulation): sparse arp-bass intro (no drums, establishes the hook interval) → V1 (+gated drums) → PRE-CHORUS STRIP (arp bass + vocal only, gated drums drop, tension — NOT silence) → FULL-STACK CHORUS (all synth layers unlock at once = "the complete architecture revealed") → V2 → pre-chorus strip → chorus → described [Arpeggio Vamp] (arp bass + gated drums, chords stripped, 16 bars — duration lever, textured) → FINAL full-stack CHORUS density (all layers, no key change) → live-groove outro (controlled close — NO cold stop). Dropped the researcher's suggested half-step synth-layer lift.
+
+  DURATION GUARD (learnings): full melodic sung arc (two 6-line verses + two 4-line pre-choruses + three choruses) + the described 16-bar arpeggio vamp (bass+drums keep pulsing, not silence) + a live-groove no-cold-stop outro. 121 BPM driving.
+
+  INSTRUMENTS (described sonically — NO brand names): hard-pulsing ARPEGGIATED synth bassline (16th-note pulse) + bright STACKED synth chords (hard-gated) + GATED machine drums + clean sharp female vocal. Cold-precise, metallic. BPM 121 (novelty gap 155, driving new-wave pocket) and F-sharp major (novelty gap 30); dropped the bass-clarinet suggestion (new-wave synth-pop is all-synth).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502 lesson): does NOT exclude vocals/singing/synth/synthesizer/electronic/drums/bass (all core). "funk/R&B/soul" excluded = drift blocks (no core instrument killed); "Arabic scales" = standard-tuning guard. Excludes acoustic-guitar/live-band/orchestral/trap/dubstep + drift. English only, no place-names, no nationality/ethnicity words, no artist/subgenre/brand names. Sung lines clean of leaked stage-directions (v503/v505 lessons); ad-libs genuine sung.
+
+  Style char count: 945.
+
+tags:
+  - new-wave
+  - synth-pop
+  - driving-new-wave
+  - arpeggiated-synth-bass
+  - stacked-synth-chords
+  - gated-machine-drums
+  - female-vocal
+  - cool-sharp-vocal
+  - 121bpm
+  - f-sharp-major
+  - cool-detachment-scene
+  - strip-and-unlock
+  - arpeggio-vamp-lever
+  - density-climax
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
