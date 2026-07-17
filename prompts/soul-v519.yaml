@@ -1,0 +1,123 @@
+name: "soul-v519"
+version: 519
+title: "Careful519"
+instrumental: false
+vocal_gender: male
+
+style: "Uptempo dance-soul stomp — euphoric urgency and pleading soul, polished studio mix, E-flat major, 132 BPM. Snare-heavy four-four pocket never relents; walking electric bass locks with the kick; tambourine and handclap hit the off-beats. Bright staccato piano and Hammond organ comp in tight punches, clavinet adding funky edge. Trumpet and tenor saxophone stab the open windows after every hook. Light strings arc. A gritty pleading male tenor — genuinely sung with soul strain — trades call-and-response with a stacked gospel-soul backing chorus throughout. Arrangement builds cumulatively: organ first, brass pile in, handclaps and strings add mass, pocket never drops. Instrumental dancers' break: trumpet and sax trade stabs over stomping Hammond and tambourine before the full-density final chorus. Closes on a decisive Eb-major brass-and-organ button, no fade. No guitars, no synthesizers, no electronic production, no autotune, no hip hop."
+
+lyrics: |
+  [Count-In: tambourine + walking bass + brass crash, 6 bars]
+
+  [Verse 1: gritty tenor, organ comping, full stomping pocket]
+  Sweat in the crease of a borrowed shirt
+  Her name on the back of every beat
+  I danced through every reason you gave me to stop
+  And I'm still on my feet
+  (still on my feet)
+
+  [Backing choir answer: short call-response punches]
+  (hold on, hold on)
+  (hold on)
+
+  [Pre-Chorus: brass building, snare pressing harder]
+  The floor remembers every name but yours
+  But yours is the one I keep
+  I arrived with a plan — the drum had other plans
+  And the drum don't sleep
+  (don't sleep)
+
+  [Chorus: full ensemble, backing choir entering on the hook octave leap]
+  I have burned through all my careful
+  (burned through, burned through)
+  Every last careful thing I saved
+  (every last one)
+  I have burned through all my careful
+  And I am still not afraid
+  (not afraid, not afraid)
+
+  [Verse 2: denser, handclaps + strings added, choir answers each phrase]
+  I had reasons lined up neat as pins
+  And reasons don't last long
+  You were standing at the edge of everything I built
+  And I walked right along
+  (right along)
+
+  [Backing choir answer]
+  (come on, come on)
+  (come on)
+
+  [Chorus: full ensemble, choir stacked]
+  I have burned through all my careful
+  (burned through, burned through)
+  Every last careful thing I saved
+  (every last one)
+  I have burned through all my careful
+  And I am still not afraid
+  (not afraid, not afraid)
+
+  [Brass and Organ Dancers' Break: trumpet and tenor sax trade punching stabs over stomping Hammond organ and tambourine, handclaps driving, strings swelling behind, relentless pocket, full textured instrumental centerpiece, 16 bars]
+
+  [Final Chorus: full ensemble peak, stacked gospel-soul backing choir trading the hook with the lead, brass fanfare answering every leap, cumulative density, no key change]
+  I have burned through all my careful
+  (burned through all my careful)
+  Every last careful thing I saved
+  (every last one, every last one)
+  I have burned through all my careful
+  And I am still — still not afraid
+  (not afraid)
+  Still not afraid
+  (still not afraid)
+
+  [Outro: decisive full-ensemble button, final Eb-major brass and organ stab, no fade]
+  Still not afraid
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, dubstep, synthesizer, electronic production, drum machine, distorted electric guitar, metal, hard rock, lo-fi, Arabic, world music, autotune, reggaeton, hip hop, country, new age, ambient, jazz fusion, gospel choir without band, a cappella"
+
+notes: |
+  v519 TOURNAMENT WINNER (inline-judged ~88/100; beat sibling candidate A "verse/chorus stomper with hushed bridge" on TWO counts: (1) NEGATIVES — A's style field literally ended with "no vocals" on a SUNG song, the fatal v502-class contradiction that would render it instrumental [the drafter self-reported the negative list without catching it]; B is clean out of the box; (2) GENRE-AUTHENTICITY + DANCEABILITY — B's relentless never-drop stomp + instrumental DANCERS' BREAK is quintessential Northern soul [all-nighter dance-floor tradition] and squarely in our audience's beat-driven wheelhouse, whereas A's hushed bridge dips the pocket [less idiomatic, less danceable]. A's bridge writing ["careful is a currency / And I spent every dime"] was marginally richer, but not enough to overcome B's clean-negatives + danceability + genre-truth + fresher continuous-drive form. Fixed B's name "soul519" -> "soul-v519" on promotion). Lane: NORTHERN SOUL RARE-GROOVE (uptempo vintage dance-soul stomp) — never used in v462-v518; mid-tempo groovy/soulful/danceable MALE — the freshest gap, contrast to v518's ornate chamber female and all recent males (slow-acoustic Piedmont v517, fast-fuzz freakbeat v515, cold-electronic EBM v513).
+
+  HIGH VARIANCE: gritty pleading MALE tenor with gospel-choir call-and-response (euphoric-urgent soul — distinct from the recent males: warm Piedmont croon v517, freakbeat holler v515, cold EBM baritone v513), uptempo 132 BPM (breaks from the recent 123/89/128/146/103 cluster; novelty gap 70, a proper Northern-soul "stomper" tempo), E-FLAT MAJOR (warm/bright/euphoric, novelty gap 26; not enharmonic to any recent key; contrasts v518's E minor), vintage full-band soul production. Vocal-gender alternation M/F held across v477-v519 (v518 female -> v519 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (Northern soul: stomping snare + tambourine/handclaps, walking bass, staccato piano + Hammond organ, brass stabs [trumpet + tenor sax], light strings, gritty tenor). Took E-flat major (novelty gap 26) from the picker. BPM: the novelty's biggest-gap picks (105/112/114) fell BELOW Northern soul's 120-135 uptempo band, so per the reconciliation rule took the freshest IN-IDIOM value — 132 (novelty gap 70, a Northern-soul stomper tempo, clear of banned 123/128). Folded in the novelty's CLAVINET (gap 519, never used) as one light funky texture fitting the "rare-groove" framing. Reconciled the researcher's "brass fanfare tail-out" ending -> decisive full-ensemble brass-button (not a fade); count-in kept INSTRUMENTAL (no spoken numbers); lyrics English/abstract soul themes, no place-names (Wigan/etc.)/artist-names; title hook-derived (NOT "Northern"). Non-modulation cumulative climax.
+
+  HOOK: "I have burned through all my careful" (hook-writer 21/25) — nounifies "careful" as a finite spendable resource (a double-take construction no generic soul track uses). Contour: stress on BURNED (beat 1); fast triplet "through all my" (3-4-5); a LEAP UP AN OCTAVE to high 1 (Eb5) on "CARE-" held (real vocal strain — the emotional signature of the lane); "-ful" drops to 5 (Bb4), leaving a window for trumpet + tenor-sax STABS to answer. Backing choir trades ("burned through, burned through") + "still not afraid" resolution. Secondary pre-chorus line "The floor remembers every name but yours" grounds the dance-floor scene. Verse writing: "I had reasons lined up neat as pins / And reasons don't last long"; "I arrived with a plan — the drum had other plans."
+
+  ARCHITECTURE — relentless continuous-drive stomper with a brass-and-organ dancers' break + lead/backing-choir call-and-response, non-modulation cumulative climax: [Count-In] tambourine + walking bass + brass crash (instrumental, textured) -> V1 (gritty tenor, organ comping, full pocket) + choir answers -> Pre-Chorus (brass building) -> Chorus (SUNG hook, choir + brass answering the octave leap) -> V2 (denser, handclaps + strings) + choir answers -> Chorus -> described [Brass and Organ Dancers' Break] (trumpet + sax trade stabs over stomping Hammond + tambourine + handclaps, strings swelling, 16 bars — textured instrumental centerpiece + duration lever, the Northern-soul dancers'-break tradition) -> [Final Chorus] full-ensemble peak, stacked gospel choir trading the hook with the lead, brass fanfare, cumulative density, no key change -> [Outro] decisive full-ensemble Eb-major brass-and-organ button (NOT a fade, NOT a slow tail-out, NOT a mid-phrase cut). The pocket NEVER drops (relentless drive is the identity) — a deliberate contrast to a hushed-bridge form.
+
+  DURATION GUARD (learnings): Northern soul is a full-band groove (no sparseness risk). Full melodic SUNG arc (two verses + pre-chorus + escalating choruses) + a described textured 16-bar dancers' break (never silent) + every section textured (relentless pocket, no dissolution) + a decisive brass-button close. Uptempo 132 in the proven fast band. Gritty SUNG soul (not deadpan/chant). ~90+ bars.
+
+  INSTRUMENTS: snare-heavy stomping DRUMS + TAMBOURINE/HANDCLAP off-beats + walking electric BASS + bright staccato PIANO + HAMMOND ORGAN (comps + dancers'-break solo) + light CLAVINET (rare-groove funky edge) + punchy BRASS STABS (trumpet + tenor sax, answer the hook + trade in the break) + light STRING sweetening + gritty pleading male tenor + stacked gospel-soul BACKING CHORUS (call-and-response throughout). BPM 132 (novelty gap 70) and E-flat major (novelty gap 26).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v515 lessons; this cycle the SIBLING failed it): does NOT exclude vocals/singing/soul/R&B/funk/Motown/brass/horns/organ/piano/bass/drums/strings/clavinet/belt/choir (all core / parent — the sibling A's "no vocals" was the fatal v502-class mistake, REJECTED). Excludes only genuine drift (EDM/trap/house/techno/dubstep/synth/electronic-production/drum-machine/distorted-electric-guitar/metal/hard-rock/lo-fi/Arabic/world/autotune/reggaeton/hip-hop/country/new-age/ambient/jazz-fusion) + "gospel choir without band"/"a cappella" (these REINFORCE band-backed vocals — not a contradiction). Style negatives: no guitars, no synthesizers, no electronic production, no autotune, no hip hop (NO "no vocals"). English only, no place-names/regional/directional words, no nationality/ethnicity words, no artist names, no decade/scene references. Sung lines clean of leaked stage-directions/instrument-cues/music-theory — count-in instrumental, backing-choir answers are genuine sung words/vocables.
+
+  Style char count: 946.
+
+tags:
+  - northern-soul
+  - rare-groove
+  - vintage-dance-soul
+  - soul-stomp
+  - hammond-organ
+  - clavinet
+  - trumpet
+  - tenor-saxophone
+  - brass-stabs
+  - staccato-piano
+  - walking-bass
+  - tambourine-handclaps
+  - gospel-backing-choir
+  - male-tenor
+  - eb-major
+  - 132bpm
+  - uptempo
+  - relentless-pocket
+  - dancers-break
+  - call-and-response
+  - cumulative-density-climax
+  - non-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

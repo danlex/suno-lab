@@ -533,6 +533,7 @@ mindmap
 | 516 | Tambourine516 | kuduro diva-pop — genuinely-sung diva hook over stuttered-kick groove, textured percussion break, cumulative-density climax | B major | 128 | stuttered chopped-kick groove + punchy synth-bass stabs + bright cowbell/hand-percussion (under warm synth pads and a bright sung female diva) |
 | 517 | Borrowed517 | Piedmont blues crooner — alternating-thumb fingerpicked guitar, call-and-response harmonica, cumulative-density climax, resolved cadence | C major | 89 | fingerpicked acoustic guitar (alternating-thumb) + call-and-response harmonica + walking upright bass (over light brushed snare) |
 | 518 | Spine518 | baroque/chamber-pop — harpsichord-as-melodic-hero, string-quartet pizzicato accents, harpsichord-return climax, resolved cadence | E minor | 123 | harpsichord (melodic hero) + string quartet (pizzicato accent) + jangly clean electric guitar (over bass, indie drum kit, reverberant piano, French horn/oboe) |
+| 519 | Careful519 | Northern Soul rare-groove — relentless stomping pocket, lead/gospel-choir call-and-response, brass-and-organ dancers' break, non-modulation cumulative climax | E-flat major | 132 | punchy brass stabs (trumpet + tenor sax) + Hammond organ/clavinet + walking bass (over snare-heavy stomp with tambourine/handclaps and gospel backing choir) |
 
 ## Next-cycle priorities
 
