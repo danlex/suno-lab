@@ -1,0 +1,107 @@
+name: "baroque-v518"
+version: 518
+title: "Spine518"
+instrumental: false
+vocal_gender: female
+
+style: "Ornate bittersweet indie-chamber baroque-pop, polished studio mix, wide stereo stage. The harpsichord is the melodic hero — bright, articulate, stating and ornamenting the theme while a jangly clean electric guitar, bass, and crisp indie drum kit drive the band engine. A string quartet adds pizzicato chamber accents, conversational not cinematic, rising fourths answering the hook. Reverberant piano grounds the harmony; plaintive oboe and French horn color the upper voice. The female lead is clear-toned, brittle, genuinely sung with literate phrasing. The chorus hook lands on a minor-sixth drop answered by a harpsichord ascent and string pizzicato. The climax returns the harpsichord in ornate runs with French horn and full band — cumulative texture, no key change. Closes on a resolved E-minor cadence, harpsichord, strings ringing. E minor, 123 BPM. No synthesizers, no drum machines, no electronic production, no distortion, no autotune."
+
+lyrics: |
+  [Intro: harpsichord arpeggio and violin line over entering jangly guitar and kit, 8 bars]
+
+  [Verse 1: clear female lead over harpsichord, jangly guitar and kit, string quartet accenting]
+  She folds the napkin after the wine is gone
+  Not because anyone will see, but because the crease
+  Belongs to her, the last thing she can own
+  Before the table clears and so does she
+
+  A letter sealed with wax and set aside
+  Among the others in the drawer below
+  She knows it won't be sent but even so
+  The gesture is the goodbye, slow and wide
+
+  [Chorus: harpsichord ascent and string-quartet pizzicato answering the vocal hook]
+  Even ruin has a spine
+  Something in the falling that holds the line
+  A shape inside the breaking, a kept design
+  Even ruin has a spine
+
+  [Verse 2: fuller band, reverberant piano anchoring the harmony]
+  The table holds the ghost of what was said
+  The candles shortened into their own wax
+  She traces the rim of the stem, exact,
+  And counts the things that lived here that are dead
+
+  Not grief — not quite — more like the weight of knowing
+  That something beautiful has reached its close
+  She dresses it in finery as she goes
+  A lit room and a door that's slowly going
+
+  [Chorus: harpsichord ascent and string-quartet pizzicato answering the vocal hook]
+  Even ruin has a spine
+  Something in the falling that holds the line
+  A shape inside the breaking, a kept design
+  Even ruin has a spine
+
+  [Chamber Bridge: reverberant piano, pizzicato cellos, brittle voice stripped intimate, 10 bars]
+  She knows how this one ends
+  She always did
+  The ornament remains
+  After the music hid
+
+  [Final Chorus: harpsichord in full ornate runs, French horn counter-melody, complete band cumulative density]
+  Even ruin has a spine
+  Something in the falling that holds the line
+  A shape inside the breaking, a kept design
+  Even ruin has a spine
+  Even ruin — has a spine
+
+  [Outro: harpsichord and string quartet resolve the E-minor cadence, jangly guitar ringing, 8 bars]
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, dubstep, synthesizer, electronic production, drum machine, distorted electric guitar, metal, hip hop, lo-fi, Arabic, world music, autotune, reggaeton, heavy reverb wash, ambient drone, cinematic ambient, new age, free jazz, atonal"
+
+notes: |
+  v518 TOURNAMENT WINNER (inline-judged ~85/100; beat sibling candidate B "baroque RONDO (ABACA) form" ~83 — both clean on the harpsichord/strings/pop negatives audit and both leak-free, but A won on WRITING DEPTH + HOOK DEVELOPMENT: A has two full 8-line literary verses with precise imagery ["The candles shortened into their own wax / She traces the rim of the stem, exact"; the "not grief — not quite" turn; the bridge couplet "The ornament remains / After the music hid"] and develops the hook into a full 4-line melodic chorus, whereas B's rondo episodes were compressed 4-liners with a 4x identical refrain. B's rondo was the more NOVEL FORM [a real point — recent cycles have leaned verse/chorus], but A's materially better writing + fuller hook + chamber-bridge textural variety outweighed it, and the song is fresh on genre/palette/key/tempo/vocal regardless of the verse/chorus skeleton). Lane: BAROQUE-POP / CHAMBER-POP (indie-chamber, harpsichord-led) — never used in v462-v517; ornate/bittersweet/mid-upbeat FEMALE — contrast to v517's warm slow acoustic blues male.
+
+  DISTINCTNESS FROM v514 (orchestral-adjacency guard): baroque-pop is orchestral-adjacent, and v514 was lush orchestral soul (female). Distinguished HARD by foregrounding the HARPSICHORD as melodic hero (a fresh never-used lead timbre) + jangly clean electric guitar + kit (indie-pop BAND engine) with the string quartet as pizzicato CHAMBER ACCENT (conversational, NOT a lush cinematic wash) + a brittle CLEAR indie voice (NOT a soaring soul diva) + E MINOR (wistful, NOT v514's warm D-flat major). Different family (indie-pop vs soul), different vocal, different key instrument, different rhythmic engine.
+
+  HIGH VARIANCE: clear-toned brittle FEMALE indie lead (literate/ornate — distinct from the recent females: bright kuduro diva v516, warm philly-soul lead v514, confessional torch v512), mid-upbeat 123 BPM (breaks from the recent 89/128/146/103/141 cluster; novelty gap 39, elegant-not-frantic — passed on the huge-gap 147 as too fast for chamber-pop's ornate character), E MINOR (wistful-bittersweet, novelty gap 30; not enharmonic to any recent key), harpsichord-led indie-chamber production. Vocal-gender alternation M/F held across v477-v518 (v517 male -> v518 female).
+
+  RECONCILIATION: took LANE + instruments from the researcher (baroque/chamber-pop: harpsichord hero, string quartet, French horn/oboe, piano, jangly guitar + bass + kit). Took BPM 123 (novelty gap 39, indie-pop pocket) + E minor (novelty gap 30, the genre's wistful character). Dropped the novelty's mellotron (baroque-pop's keyboard identity is harpsichord+piano — mellotron would muddy the chamber signature). Softened the researcher's "unaccompanied voice" open -> voice over harpsichord + violin (textured, not near-silence). Kept the "piano + pizzicato cellos" bridge TEXTURED + bar-counted. "Return of the harpsichord IS the climax" -> non-modulation textural climax (harpsichord ornate runs + French horn counter-melody + full band, no key change). Lyrics abstract/literary English, NO period/decade references, NO place-names. Resolved cadence close (not a fade, not a lone hanging note).
+
+  HOOK: "Even ruin has a spine" (hook-writer 21/25) — a paradoxical architectural claim (ruin with interior structure), uncopyable. Contour: stepwise ascent 1-2-3 on "Even ruin" (E-F#-G), then a minor-sixth DROP from G down to low B on "spine" landing hard on beat 4 (the drop is the fingerprint); after "spine" an open window for a harpsichord broken-chord ascent + string-quartet pizzicato rising-fourth (chamber call-and-response). Developed into a full chorus: "Something in the falling that holds the line / A shape inside the breaking, a kept design." Literary verse imagery: the napkin refolded as the goodbye; the sealed-but-unsent letter; "She dresses it in finery as she goes."
+
+  ARCHITECTURE — indie-chamber verse/chorus band song, non-modulation harpsichord-return climax: [Intro] harpsichord arpeggio + violin over entering jangly guitar + kit (textured) -> V1 (clear lead over harpsichord + jangly guitar + kit, string-quartet accent, 8-line) -> Chorus (hook, harpsichord ascent + pizzicato answering the drop) -> V2 (fuller band, piano anchoring, 8-line) -> Chorus -> described [Chamber Bridge] (reverberant piano + pizzicato cellos + brittle voice, intimate, 10 bars — textured not silent) -> [Final Chorus] the harpsichord returns in ornate runs + French horn counter-melody + full band, cumulative density, no key change (the harpsichord-return IS the climax) -> [Outro] harpsichord + string quartet resolve the E-minor cadence, jangly guitar ringing (NOT a fade, NOT a lone hanging note, NOT a cut).
+
+  DURATION GUARD (learnings): full melodic SUNG arc (two 8-line verses + three choruses) + a described textured chamber bridge (never silent) + every section textured (harpsichord + band always sounding, no dissolution) + a resolved cadence close. 123 BPM mid-upbeat with a full textured arc renders 3:00+. ~90 bars.
+
+  INSTRUMENTS: HARPSICHORD (the melodic hero — states/ornaments the theme, answers the vocal, returns in ornate runs at the climax) + jangly clean electric GUITAR + BASS + crisp indie DRUM KIT (band engine) + STRING QUARTET (pizzicato chamber accent, rising-fourth answers) + reverberant PIANO (harmonic anchor) + plaintive FRENCH HORN / OBOE (upper-voice accent) + clear brittle female indie lead. BPM 123 (novelty gap 39) and E minor (novelty gap 30).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v515 lessons): does NOT exclude vocals/singing/harpsichord/strings/string-quartet/guitar/piano/French-horn/oboe/bass/drums/pop/indie/chamber/baroque/orchestral/classical (all core / parent — excluding "harpsichord"/"strings"/"pop" would be the fatal v515/v502-class mistake). Excludes only genuine drift (EDM/trap/house/techno/dubstep/synth/electronic-production/drum-machine/distorted-electric-guitar/metal/hip-hop/lo-fi/Arabic/world/autotune/reggaeton/heavy-reverb-wash/ambient-drone/cinematic-ambient/new-age/free-jazz/atonal). Style negatives: no synthesizers, no drum machines, no electronic production, no distortion, no autotune. English only, no place-names, no period/decade references, no nationality/ethnicity words, no artist names. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (the chamber call-and-response is in bracket labels only) — this is the gate v517-siblingB failed.
+
+  Style char count: 948.
+
+tags:
+  - baroque-pop
+  - chamber-pop
+  - indie-chamber
+  - harpsichord
+  - harpsichord-lead
+  - string-quartet
+  - jangly-electric-guitar
+  - piano
+  - french-horn
+  - oboe
+  - female-indie-vocal
+  - 123bpm
+  - e-minor
+  - literary-elegance-scene
+  - verse-chorus-song
+  - chamber-bridge
+  - harpsichord-return-climax
+  - non-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
