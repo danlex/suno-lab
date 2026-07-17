@@ -1,0 +1,94 @@
+name: "soukous-v511"
+version: 511
+title: "Monday511"
+instrumental: false
+vocal_gender: male
+
+style: "Warm soukous groove lit with joyful forward motion — two clean electric guitars locked in mi-solo counterpoint, lead voice unspooling sixteenth-note ornamental runs while a second guitar mirrors and answers. Rolling melodic bass anchors the pulse; conga-led percussion drives without hardening into machine-rhythm. Polished studio mix, wide stereo stage, deep low-end definition. A warm male tenor rides with genuine sung melody, the lead guitar answering every hook phrase with a bright Eb-to-Ab slur. A-flat major, 119 BPM. Three escalating choruses gather cumulative density — no key change, seben energy builds through fuller guitars, harder congas, tenor at peak warmth in the final chorus. The seben breakdown is the dance climax: lead guitar in a cascading percussive solo, second guitar in counterpoint, forward-rolling. Live-groove outro stays in the pocket. No synthesizers, no drum machine, no pipe organ, no heavy distortion, no autotune."
+
+lyrics: |
+  [Intro: bass and congas open the rolling groove, 8 bars]
+
+  [Verse 1: warm tenor enters, interlocking guitars underneath]
+  Your coat is on the chair where you always leave it
+  When the week gets mean and you don't want to feel it
+  The notes are rolling before your feet decide
+  The guitar moves first, you just come along for the ride
+
+  [Chorus: hook line with lead guitar answering each phrase]
+  Shake the dust off your Monday
+  Shake the dust off your Monday
+  Even your shadow starts to sway
+  Let the groove carry what the week couldn't say
+  Shake the dust off your Monday
+
+  [Verse 2: fuller bass, second guitar more melodic]
+  The room remembers how your shoulders used to move
+  Before the weight of all those hours settled in the groove
+  The bass is walking somewhere warm and wide
+  Come on in, leave the long week at the side
+
+  [Chorus: hook line with lead guitar answering each phrase]
+  Shake the dust off your Monday
+  Shake the dust off your Monday
+  Even your shadow starts to sway
+  Let the groove carry what the week couldn't say
+  Shake the dust off your Monday
+
+  [Seben Breakdown: lead guitar cascading percussive solo over locked rhythm section, second guitar in counterpoint, congas driving the dance climax forward, 18 bars]
+
+  [Final Chorus: cumulative density, both guitars full, congas peak, tenor at warmest peak]
+  Shake the dust off your Monday
+  Oh, shake the dust off your Monday
+  Even your shadow starts to sway
+  Let the groove carry what the week couldn't say
+  Shake it loose, shake it free
+  Shake the dust off your Monday
+
+  [Outro: live groove stays in the pocket, rolling bass and congas and guitar, controlled close]
+
+  [End]
+
+exclude_styles: "Arabic, EDM, trap, house, techno, dubstep, metal, heavy distortion, electronic production, programmed drums, lo-fi, quarter-tones, microtonal, new age, ambient"
+
+notes: |
+  v511 TOURNAMENT WINNER (inline-judged ~84/100; beat sibling candidate B "authentic two-movement song->seben form" on a hard FORMAT-GATE fail — B leaked two production/theory directions into sung lyric lines: "C to Db climbing up" as a Verse-1 line [music-theory contour sung literally] AND "(guitar answers)" x8 as ad-lib lines in its seben call-and-response [stage-direction/instrument-cue leak, v503/v505/v508 class]. A is clean: its seben is a properly described LYRIC-FREE bracket, every lyric line is genuine sung words). Lane: SOUKOUS / SEBEN GROOVE (guitar-led African dance form) — never used in v462-v510; warm/organic/live-guitar/danceable MALE — max contrast to v510's fast kinetic electronic breakbeat FEMALE, and right in our audience's danceable wheelhouse.
+
+  HIGH VARIANCE: warm sung MALE tenor with joyful forward motion (celebratory-warm — distinct from the recent males: warm blues-ache v509, hushed slowcore v507, smooth quiet-storm v505), mid-tempo 119 BPM (breaks from the recent 170/87/134/71/121 cluster; novelty gap 161, the freshest option in the mid band), A-FLAT MAJOR (lush warm celebratory major, novelty gap 28 — a bright major after the recent minor/enharmonic cluster; not enharmonic to any recent key), fully live-band organic guitar-led production. Vocal-gender alternation M/F held across v477-v511 (v510 female -> v511 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (soukous, mi-solo dual electric guitars, rolling melodic bass, conga-led percussion, the seben breakdown). Took BPM 119 + A-flat major from the novelty-picker (freshest in-idiom picks); DROPPED its nyckelharpa suggestion (off-genre — soukous is electric-guitar-led). Reconciled the researcher's cultural-context flag to an ABSTRACT UNIVERSAL treatment: lyrics fully English, joy-as-repair theme, NO Lingala/patois, NO place-names, NO nationality/ethnicity words, NO artist names (the genre lives in the guitars and groove, not appropriated vocabulary). Non-modulation climax (seben energy + cumulative density, NO half-step lift).
+
+  HOOK: "Shake the dust off your Monday" (hook-writer 22/25) — the most universally legible image of accumulated weight (everyone has a Monday), paired with the dust-shaking gesture so the GROOVE is the agent of repair; warm and funny, not a barked dance-floor command. Contour: three syncopated eighth-notes on scale-degree 5 (Eb-Eb-Eb) for "shake the dust off", descending run to 3 (C), then "your Monday" on a sustained tonic Ab with a blue-note G grace-note before settling; the lead (mi-solo) guitar ANSWERS each hook line with a tight sixteenth-note ornamental slur Eb->Ab mimicking the shake gesture. Second hook line "Even your shadow starts to sway." Verse images: the coat on the chair "where you always leave it when the week gets mean"; "the notes are rolling before your feet decide" (the guitar moves first, the body follows).
+
+  ARCHITECTURE — cyclic song-anchored form with a seben solo bridge, non-modulation cumulative-density climax: [Intro] (bass + congas + rhythm guitar establish the rolling groove) -> V1 (warm tenor over interlocking guitars) -> Chorus (hook, lead guitar answering each line) -> V2 (fuller, melodic bass) -> Chorus -> described [Seben Breakdown] (lead guitar cascading percussive solo + second guitar counterpoint + driving congas, 18 bars — the dance climax AND the duration lever) -> [Final Chorus] (cumulative density: both guitars full, congas peak, tenor at warmest peak, no key change) -> [Outro] live-groove in the pocket (rolling bass + congas + guitar, controlled close — NOT a fade-to-silence, NOT a cold stop).
+
+  DURATION GUARD (learnings): full melodic sung arc (two verses + three escalating choruses) + a described textured 18-bar seben (never empty/silent) + every section textured (instruments always sounding) + a live-groove no-fade close. 119 BPM mid-tempo with a full textured arc; target 3:00-3:30. Sparseness/dissolution is the truncation cause — avoided (guitar-led groove never drops to silence).
+
+  INSTRUMENTS: two clean electric GUITARS in mi-solo counterpoint (lead = melodic hero, answers every hook phrase with an Eb->Ab slur; second guitar mirrors/answers in counterpoint) + rolling melodic BASS + conga-led PERCUSSION (live-feel, non-machine-rhythm). All three body/groove voices. BPM 119 (novelty gap 161) and A-flat major (novelty gap 28); dropped the nyckelharpa suggestion.
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v507/v509 lessons): does NOT exclude vocals/singing/guitar/electric-guitar/bass/congas/percussion (all core to soukous), and does NOT exclude the genre's parent categories (African, rumba, funk, afrobeat, soul). Excludes only genuine drift (EDM/trap/house/techno/dubstep/electronic-production/programmed-drums/metal/heavy-distortion/lo-fi/new-age/ambient) + a standard-tuning guard (quarter-tones, microtonal). English only, no place-names, no nationality/ethnicity words, no patois. Sung lines clean of leaked stage-directions/instrument-cues; the seben is a properly described lyric-free bracket (v503/v505/v508 lessons applied — this is exactly the gate B failed).
+
+  Style char count: 950.
+
+tags:
+  - soukous
+  - seben
+  - electric-guitar
+  - congas
+  - rolling-bass
+  - mi-solo
+  - 119bpm
+  - ab-major
+  - male-tenor
+  - monday-scene
+  - joy-as-repair
+  - cyclic-song-form
+  - seben-solo-bridge
+  - cumulative-density-climax
+  - non-modulation
+  - live-band-organic
+  - dance-groove
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
