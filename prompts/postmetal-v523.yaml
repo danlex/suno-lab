@@ -1,0 +1,111 @@
+name: "postmetal-v523"
+version: 523
+title: "Fault523"
+instrumental: false
+vocal_gender: male
+
+style: "Cold monolithic atmospheric post-metal in B minor, 108 BPM, slow and inexorable. Two down-tuned layered electric guitars shape the sonic space: one arpeggiated and clean over wide-reverb keyboard pads, the other heavy, surging as a chordal swell at the chorus. Thick sustaining bass with light overdrive moves in slow deliberate steps beneath tom-and-cymbal drumming, each hit relentless. A cold contrabass-register drone breathes beneath the ambient passages. Clean-sung male baritone, cold and sustained, holding long melodic lines over the monolithic bed — never harsh, never a shout. Polished studio mix, wide stereo stage, deep low-end definition. The song builds from delicate ambient clarity into monolithic density by accumulation — no key change, the climax earned through sheer register and mass. The close is sustained, guitars and bass ringing on a final held chord. No pop sheen, no dance groove, no screamo, no acoustic folk."
+
+lyrics: |
+  [Intro: clean arpeggio and wide pad, cold low drone, sustained vocal enters, 8 bars]
+  Pressure does not forget
+  What was placed beneath
+  I have moved in centuries
+  Carrying what you cannot see
+
+  [Verse 1: cold sustained vocal, bass and toms building, 12 bars]
+  Below the ridge where nothing grows
+  The weight is old and it shows
+  I have held what others named
+  I have held it all the same
+
+  Layer on layer, year on year
+  Something beneath does not clear
+  The cold is not a state of grief
+  The cold is where I keep my peace
+
+  [Chorus: heavy chordal-guitar swell surges, hook clean-sung over held tonic, 8 bars]
+  The fault line does not ask
+  The fault line does not ask
+  What shoulders bear the task
+  The fault line does not ask
+
+  [Verse 2: fuller drums and bass, vocal more insistent, 12 bars]
+  I have heard the surface break
+  I have felt the long slow ache
+  Nothing sudden, nothing fast
+  Only what is built to last
+
+  Under every stone you lay
+  I have always been this way
+  Patient as the cold bedrock
+  Moving with no need for clocks
+
+  [Chorus: chordal swell returns, hook held three bars on tonic, 8 bars]
+  The fault line does not ask
+  The fault line does not ask
+  What shoulders bear the task
+  The fault line does not ask
+
+  [Bass-Drone Strip: bass drone sustains, single held vocal note, faint pad and clean arpeggio, 10 bars]
+  Mmm
+  Mmm
+
+  [Final Chorus / Monolith: full down-tuned guitar wall, lower register, tom-driven density, hook over immense swell, 16 bars]
+  The fault line does not ask
+  The fault line does not ask
+  What shoulders bear the task
+  The fault line does not ask
+  The fault line does not ask
+  What carries, carries on
+  The fault line does not ask
+  The cold is where I dwell
+
+  [Outro: monolithic swell sustains, B-minor chord rings to controlled close, 8 bars]
+  I have moved in centuries
+  I am still
+
+  [End]
+
+exclude_styles: "screamo, harsh vocals, growl, death growl, gutturals, shoegaze, post-punk, pop, EDM, trap, country, folk, hip hop, jazz, disco, orchestral, acoustic guitar, new age, ambient electronic, cinematic ambient, world music, tribal, lo-fi, nu-metal, deathcore, black metal"
+
+notes: |
+  v523 TOURNAMENT WINNER (inline-judged ~82/100; beat sibling candidate B "through-composed single-crescendo" — BUT both had defining issues: A carried a TRIPLE fatal NEGATIVE-PROMPT CONTRADICTION in its STYLE inline negatives ["No guitars, no vocals, ... no synthesizers" on a clean-SUNG dual-down-tuned-GUITAR synth-pad song — v502/v515/v519 class; the drafter even rationalized it as "Suno convention, not literal" which is WRONG]. That was STRIPPED on promotion and replaced with genuine non-contradictory drift negatives ["No pop sheen, no dance groove, no screamo, no acoustic folk"]; A's exclude_styles was already clean. B was clean out of the box but SPARSE [3-4-line builds + instrumental swell + "(oh)(oh)" resolve] — the exact short-render risk for this atmospheric lane. A is the fuller, more duration-reliable, richer-written draft [two 8-line verses, three developed choruses, ~40 sung lines], and its contradiction was a trivially-fixable single style sentence [no impact on lyrics/structure] — so fuller-and-fixable beat clean-but-sparse, since DURATION is this lane's #1 risk). Lane: ATMOSPHERIC POST-METAL (clean-vocal) — never used in v462-v522; cold/heavy/monolithic MALE — max contrast to v522's warm danceable female, and BREAKS the recent warm-soul-groove male cluster (G-funk v521, Northern soul v519, Piedmont v517). Distinct from the earlier instrumental post-rock (v293/v321/v432) + post-black-metal (v314) — this is clean-SUNG post-metal.
+
+  HIGH VARIANCE: cold clean-SUNG MALE baritone with sustained weight-bearing lines (grave/monolithic — distinct from the recent males: laid-back G-funk v521, gritty Northern-soul tenor v519, warm Piedmont croon v517), slow-heavy 108 BPM (breaks from the recent 124/94/112/132/123 cluster; novelty gap 71, upper edge of post-metal's range — the tom-driven pulse also helps counter the duration risk), B MINOR (dark/heavy, guitar-idiomatic for down-tuning, novelty gap 23; not enharmonic to any recent key), cold down-tuned monolithic production (opposite of every recent warm/danceable cycle). Vocal-gender alternation M/F held across v477-v523 (v522 female -> v523 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (atmospheric post-metal: two down-tuned layered electric guitars [clean arpeggio + heavy chordal swell, the hero], thick sustaining bass w/ light overdrive, slow tom/cymbal drums, wide-reverb keyboard pads). Took BPM 108 + B minor from the picker (gaps 71 & 23). Folded in the novelty's contrabass-clarinet as a cold low DRONE in the ambient passages (fits post-metal's atmospheric drone tradition). VOCAL RECONCILIATION (researcher flagged the genre skews harsh/bellows): reconciled to CLEAN-SUNG cold sustained melodic baritone (NOT harsh/growl/screamo — those are excluded to steer clean). Non-modulation monolithic climax (transformed low-register return, density/mass, no key change). Sustained monolithic close (not a fade). Lyrics English, abstract cold/elemental/tectonic, no place-names.
+
+  HOOK: "The fault line does not ask" (hook-writer 22/25) — geological/tectonic cold dignity (no petition, pure inevitability), uncopyable. Contour: minor-third leap D4->F#4 on the stressed "FAULT" (3->5 in B minor), held "line" on F#4, diatonic step-fall F#4-E4-D4-B3 over "does not ask", "ask" held THREE bars on the tonic B3; the down-tuned chordal-guitar swell surges into that hold and recedes before the phrase repeats. Recurs 3x (developed "What shoulders bear the task" / "What carries, carries on"). Cold-elemental verse writing: "The cold is not a state of grief / The cold is where I keep my peace"; "Patient as the cold bedrock / Moving with no need for clocks."
+
+  ARCHITECTURE — classic post-metal crawl-to-monolith (dynamic verse/chorus), non-modulation monolithic climax: [Intro] clean arpeggio + wide pad + cold drone, sustained vocal entering (textured) -> V1 (cold sustained vocal, bass + toms building, 8-line) -> Chorus (heavy chordal-guitar swell, hook clean-sung over the held tonic) -> V2 (fuller, 8-line) -> Chorus -> described [Bass-Drone Strip] (bass drone + single held vocal + faint pad + clean arpeggio, 10 bars — TEXTURED breath, never silent) -> [Final Chorus / Monolith] full down-tuned guitar wall in a LOWER register, tom-driven density, hook over the immense swell, cumulative, no key change -> [Outro] monolithic swell sustains, B-minor chord rings to a controlled monolithic close (NOT a fade-to-silence, NOT a lone hanging note, NOT a mid-phrase cut).
+
+  DURATION GUARD (CRITICAL — atmospheric/textural lanes render SHORT via sparseness): a genuinely MELODIC recurring clean-sung hook (3 choruses, NOT sparse dropped phrases) + full arc (two 8-line verses) + a described textured bass-drone strip (never silent) + every section textured (down-tuned guitars + bass + pads always sounding) + a sustained monolithic close. The heavy chordal-swell + monolith sections are dense. 82 bars, 108 BPM tom-driven. This fuller sung arc is exactly why A was chosen over the sparser sibling.
+
+  INSTRUMENTS: two down-tuned layered electric GUITARS (clean arpeggio role + heavy chordal-swell role, the riff/texture hero) + thick sustaining BASS (light overdrive) + slow tom/cymbal DRUMS + wide-reverb keyboard/synth PADS + cold contrabass-register DRONE + clean-sung male baritone. BPM 108 (novelty gap 71) and B minor (novelty gap 23).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v515/v519-siblingA lessons; THIS cycle A tripped it and it was FIXED): the STYLE inline negatives were rewritten from the fatal "No guitars, no vocals, no rock drums, no pipe organ, no synthesizers" [which excluded the core vocal + guitars + synth pads] to genuine drift-only "No pop sheen, no dance groove, no screamo, no acoustic folk" (none contradict — the song is not pop/dance/screamo/acoustic-folk). exclude_styles keeps only vocal-style + genre drift (screamo/growl/harsh/gutturals steer CLEAN; shoegaze/post-punk/nu-metal/deathcore/black-metal/pop/EDM/etc. block drift) and NO core instrument/parent (no guitar/bass/drums/synth/metal/rock/vocals). "acoustic guitar" excluded is fine (the guitars are electric down-tuned). English only, no place-names, no occult/gore. Sung lines clean of leaked stage-directions/instrument-cues (the guitar swell is in bracket labels only); "Mmm" is a genuine sung vocable.
+
+  Style char count: 939 (after the negative-sentence fix).
+
+tags:
+  - atmospheric-post-metal
+  - post-metal
+  - clean-vocal
+  - male-baritone
+  - down-tuned-guitar
+  - electric-guitar
+  - sustaining-bass
+  - tom-cymbal-drums
+  - synth-pads
+  - contrabass-drone
+  - b-minor
+  - 108bpm
+  - cold-elemental-tectonic-scene
+  - crawl-to-monolith
+  - non-modulation-monolithic-climax
+  - sustained-close
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

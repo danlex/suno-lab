@@ -537,6 +537,7 @@ mindmap
 | 520 | Bonewhite520 | coldwave-diva vocal — icy minimal post-punk, melodic-bass-foreground, tritone hook, cumulative-return climax, cold-stop close | F-sharp minor | 112 | forward-mixed melodic electric bass (foreground hero) + chorus-flanged clean electric guitar + cold analog synth pads (over metronomic dry drum machine) |
 | 521 | Velvet521 | G-funk slow groove — sung-hook + rapped-verse, passacaglia sub-bass ostinato spine, whistle-synth theme solo, cumulative-accretion climax | B-flat minor | 94 | warbling whistle-synth lead (hero) + deep portamento sub-bass (ostinato spine) + funk-snap drums (under laid-back male sung-hook/rapped-verse) |
 | 522 | Skin522 | gospel-house/piano-house diva — gospel-piano+organ chord stabs, powerhouse belt, build-and-lift, choir-doubled cumulative climax, driven cathartic close | A major | 124 | stacked gospel-piano + Hammond organ chord stabs + brass horn stabs (over four-on-the-floor kick, soulful bass, handclaps, lush choir) |
+| 523 | Fault523 | atmospheric post-metal clean-vocal — crawl-to-monolith, down-tuned dual-guitar swell, textured bass-drone strip, non-modulation monolithic climax | B minor | 108 | two down-tuned layered electric guitars (clean arpeggio + heavy chordal swell) + sustaining bass + tom/cymbal drums (under wide-reverb pads and a cold contrabass drone) |
 
 ## Next-cycle priorities
 
