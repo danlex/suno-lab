@@ -1,6 +1,6 @@
 {
-  "total_prompts": 487,
-  "latest_version": 512,
+  "total_prompts": 488,
+  "latest_version": 513,
   "instruments": {
     "organ": [
       1,
@@ -101,7 +101,8 @@
       490,
       496,
       509,
-      511
+      511,
+      513
     ],
     "piano": [
       1,
@@ -256,7 +257,8 @@
       474,
       484,
       487,
-      511
+      511,
+      513
     ],
     "cello": [
       33,
@@ -1359,7 +1361,6 @@
       428,
       432,
       443,
-      448,
       454,
       459
     ],
@@ -1489,6 +1490,10 @@
       112,
       315
     ],
+    "synthwave": [
+      1,
+      448
+    ],
     "trance": [
       396,
       488
@@ -1525,9 +1530,6 @@
     ],
     "romantic": [
       313
-    ],
-    "synthwave": [
-      1
     ]
   },
   "keys": {
@@ -1958,6 +1960,17 @@
       473,
       493
     ],
+    "g-sharp minor": [
+      143,
+      180,
+      214,
+      225,
+      241,
+      252,
+      352,
+      469,
+      513
+    ],
     "b-flat major": [
       138,
       329,
@@ -1987,16 +2000,6 @@
       351,
       474,
       499
-    ],
-    "g-sharp minor": [
-      143,
-      180,
-      214,
-      225,
-      241,
-      252,
-      352,
-      469
     ],
     "bb minor": [
       45,
@@ -2608,7 +2611,8 @@
       460
     ],
     "141": [
-      224
+      224,
+      513
     ],
     "142": [
       225,
@@ -2751,6 +2755,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 513,
+      "title": "Thermal513",
+      "name": "ebm-v513",
+      "featured": [],
+      "genre": null,
+      "key": "g-sharp minor",
+      "bpm": 141
+    },
     {
       "version": 512,
       "title": "Evening512",
@@ -3416,7 +3429,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "synthwave",
       "key": "a minor",
       "bpm": 106
     },

@@ -1,0 +1,109 @@
+name: "soul-v514"
+version: 514
+title: "Tuesday514"
+instrumental: false
+vocal_gender: female
+
+style: "Warm lush orchestral soul, polished studio mix — the full string section is the melodic hero, stating the hook in the opening bars and answering the female lead between phrases in call-and-response. Cornet punches land on the backbeats, warm electric piano lays the harmonic bed, vibraphone adds shimmer, a walking electric bass gives deep low-end definition, and a tight live drumkit holds a buoyant mid-tempo groove. The female soul lead soars with rich, full-bodied phrasing, warm and devoted. D-flat major, 103 BPM. Strings carry the melody in the intro, weave countermelodies through verses, and swell through every chorus. A mid-song string and vibraphone vamp develops the theme before a cumulative final chorus — brass punches, strings soaring, vocal at peak — then a sustained orchestral resolve settles on a warm held chord, vibraphone shimmering last. No guitars, no synthesizers, no programmed drums, no cold production, no autotune."
+
+lyrics: |
+  [Intro: strings state the hook melody, electric piano and bass enter softly, 8 bars]
+
+  [Verse 1: warm female lead, electric piano and walking bass, vibraphone shimmer, 16 bars]
+  The kettle's on before you rise
+  The draft kept out, the curtains drawn
+  I know the cold you carry home
+  I've known it since the early dawn
+  You came in with the night still on you
+  I pulled it off you like a coat
+  These arms aren't asking for a reason
+  They only ask that you take note
+
+  [Chorus: full strings answer each vocal line, cornet punches, 16 bars]
+  Tuesday morning, I'm still here
+  Oh, I'm still here
+  Tuesday morning, I'm still here
+  Warm and close, the morning bends
+  When the world has nothing waiting
+  I will be the one who stays
+  Tuesday morning, I'm still here
+  Every unremarkable day
+
+  [Verse 2: fuller groove, vibraphone more present, strings weave countermelody, 16 bars]
+  I found your coat still on the hook
+  Your cup half-full, the window light
+  The ordinary things we keep
+  The ones that make a life feel right
+  No grand occasion, no arrival
+  Just the hinge of a familiar door
+  I love you on the quiet mornings
+  I love you more than I did before
+
+  [Chorus: strings soaring, brass swells, vocal full and warm, 16 bars]
+  Tuesday morning, I'm still here
+  Oh, I'm still here
+  Tuesday morning, I'm still here
+  Warm and close, the morning bends
+  When the world has nothing waiting
+  I will be the one who stays
+  Tuesday morning, I'm still here
+  Every unremarkable day
+
+  [String and Vibraphone Vamp: strings develop the hook melody, vibraphone shimmer, brass accents over walking-bass groove, 20 bars]
+
+  [Final Chorus: cumulative full-ensemble swell, brass punches, strings soaring, vocal at warmest peak, 16 bars]
+  Tuesday morning, I'm still here
+  Oh, I'm still here
+  Tuesday morning, I'm still here
+  Nothing fades, the feeling stays
+  When the world has nothing waiting
+  I will be the one who stays
+  Tuesday morning, I'm still here
+  Every single ordinary day
+
+  [Outro: full ensemble settles on a warm sustained D-flat chord, vibraphone shimmering last, 8 bars]
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, dubstep, hard rock, metal, heavy distortion, synthesizer leads, electronic production, lo-fi, country, folk, Arabic, world music, ambient drone, jazz fusion, progressive rock, reggae, hip hop, gospel choir"
+
+notes: |
+  v514 TOURNAMENT WINNER (inline-judged ~86/100; beat sibling candidate B "hook-first grower with intimate stripped bridge" on a hard FORMAT-GATE fail — B's very FIRST sung line in [Intimate Open] was "The strings descend to meet you — low and clear", a leaked stage-direction / music-theory-as-lyric [names the strings + describes their contour as a sung line — the v503/v505/v511-siblingB class leak, in the most prominent spot]. A is clean and, notably, self-caught the same class of leak during drafting [replaced a leaked "Strings rise — an answering phrase descends" line with the genuine vocable "Oh, I'm still here"]. B's hook-first architecture was more distinct and its writing marginally richer, but the leak is disqualifying and A is the more genre-authentic philly-soul realization). Lane: CLASSIC-70s PHILLY / ORCHESTRAL SOUL (strings-as-lead-voice) — never used in v462-v513; warm/organic/soulful/groovy mid-tempo FEMALE — contrast to v513's cold fast electronic EBM, AND breaks the recent FEMALE slow-acoustic (v512 cabaret) <-> fast-electronic (v510 jungle, v508 vogue) swing with a warm mid-tempo lush-orchestral groove.
+
+  HIGH VARIANCE: soaring warm FEMALE soul lead with rich full-bodied phrasing (warm/devoted — distinct from the recent females: confessional-to-belted torch v512, soaring-legato jungle v510, fierce vogue belt v508), mid-tempo 103 BPM (breaks from the recent 141/75/119/170/87 cluster; novelty gap 216, the standout in the mid band), D-FLAT MAJOR (rich/warm/lush — the most soulful major spelling, novelty gap 27; not enharmonic to any recent key), warm lush live-orchestral production (opposite of v513's cold electronic). Vocal-gender alternation M/F held across v477-v514 (v513 male -> v514 female).
+
+  RECONCILIATION: took LANE + instruments from the researcher (philly/orchestral soul: lush strings-as-lead-voice, brass punches, vibraphone, electric piano, walking electric bass, live drums). Took BPM 103 + D-flat major from the novelty-picker (freshest in-idiom picks; gaps 216 & 27); folded in the novelty's CORNET as the warm muted-brass color; DROPPED its steelpan/felt-piano trio (off-genre for philly soul). Dropped the researcher's "half-step key lift" final chorus (penalized) -> non-modulation cumulative swell. Dropped the researcher's smooth-jazz-drift warning by holding tempo at 103 (>90). Reconciled cultural context to abstract universal English (no place-names/Philly, no arranger names, no period slang). Sustained orchestral resolve close (not a hanging note, not a cut, not a fade).
+
+  HOOK: "Tuesday morning, I'm still here" (hook-writer 21/25) — the weekday specificity ("Tuesday" = the least romantic day) encodes the whole emotional argument (devotion on the undramatic days, not the cinematic peaks) and makes the phrase uncopyable. Contour: six syllables, warm stepwise descent 5-4-3-2-1 on "Tuesday morning I'm still", held tonic on "here"; the lush STRINGS echo the same 5->1 descent an octave lower as a two-bar answering phrase between vocal repetitions (the philly-soul strings-as-second-voice move). "Oh, I'm still here" is a genuine sung vocable answer. Concrete warm-devotion writing: "The kettle's on before you rise"; "You came in with the night still on you / I pulled it off you like a coat"; "I love you on the quiet mornings / I love you more than I did before."
+
+  ARCHITECTURE — string-led verse/chorus soul song, non-modulation cumulative-density climax: [Intro] strings STATE the hook melody as an instrumental hook (electric piano + soft groove entering, textured) -> V1 (warm lead over electric piano + walking bass + light drums + vibraphone) -> Chorus (hook, full strings answering each line, cornet punches) -> V2 (fuller, strings weaving countermelody) -> Chorus -> described [String and Vibraphone Vamp] (strings develop the hook melody + vibraphone + brass accents over the walking-bass groove, 20 bars — textured mid-section duration lever) -> [Final Chorus] cumulative full-ensemble swell (strings soaring, brass punches, vocal at warmest peak, no key change) -> [Outro] a sustained full-ensemble orchestral resolve (warm held D-flat-major chord, vibraphone shimmering last — NOT a hanging single reverb note, NOT a cut-to-silence, NOT a fade).
+
+  DURATION GUARD (learnings): full melodic SUNG arc (two 8-line verses + three escalating choruses) + a described textured 20-bar string/vibe vamp (never silent) + every section textured (strings never stop, groove never dissolves) + a sustained orchestral resolve close. ~116 bars. 103 BPM mid-tempo renders LONG with a full textured arc (the truncation cause is sparseness/dissolution, NOT tempo).
+
+  INSTRUMENTS: lush orchestral STRINGS (the melodic hero — states the hook in the intro, answers the vocal between phrases, weaves countermelodies, develops the theme in the vamp, soars in the final chorus) + warm CORNET/brass punches + VIBRAPHONE shimmer + warm ELECTRIC PIANO + walking electric BASS + tight live DRUMKIT + soaring female lead. BPM 103 (novelty gap 216) and D-flat major (novelty gap 27).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v507/v509/v511/v512/v513 lessons): does NOT exclude vocals/singing/strings/orchestral/brass/vibraphone/piano/electric-piano/bass/drums (all core), and does NOT exclude the genre's parent categories (soul, R&B, funk, Motown, orchestral soul, disco). Excludes only genuine drift (EDM/trap/house/techno/dubstep/hard-rock/metal/heavy-distortion/synth-leads/electronic-production/lo-fi/country/folk/Arabic/world/ambient-drone/jazz-fusion/prog-rock/reggae/hip-hop/gospel-choir). Style negatives: no guitars, no synthesizers, no programmed drums, no cold production, no autotune. English only, no place-names (no Philly), no nationality/ethnicity words, no arranger names, no period slang. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (the drafter self-caught + fixed one such leak; this is exactly the gate sibling B failed).
+
+  Style char count: 945.
+
+tags:
+  - orchestral-soul
+  - philly-soul
+  - orchestral-strings
+  - strings-as-lead-voice
+  - call-and-response
+  - cornet
+  - vibraphone
+  - electric-piano
+  - electric-bass
+  - live-drums
+  - 103bpm
+  - d-flat-major
+  - female-vocal
+  - warm-devotion-scene
+  - cyclic-verse-chorus
+  - cumulative-density-climax
+  - non-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

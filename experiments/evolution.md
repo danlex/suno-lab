@@ -528,6 +528,7 @@ mindmap
 | 511 | Monday511 | soukous seben groove — mi-solo dual-guitar counterpoint, seben solo bridge, cumulative-density climax | A-flat major | 119 | two clean electric guitars (mi-solo) + rolling melodic bass + conga-led percussion |
 | 512 | Evening512 | dark cabaret torch — cyclic verse/refrain build, belted NO-ONE dynamic climax, sustained ring-out | A minor | 75 | upright piano + accordion + cello (over brushed snare/upright bass, muted trumpet ghosting) |
 | 513 | Thermal513 | EBM / futurepop — clipped-verse to sung-chorus contrast, cumulative-density climax, driven outro | G-sharp minor | 141 | staccato sequenced bass synth + cold modular arpeggios + wide synth pads (over pounding 4/4 drum machine) |
+| 514 | Tuesday514 | classic-70s philly/orchestral soul — strings-as-lead-voice call-and-response, mid vamp, cumulative-density climax | D-flat major | 103 | lush orchestral strings + cornet/brass punches + vibraphone (over warm electric piano, walking electric bass, live drums) |
 
 ## Next-cycle priorities
 
