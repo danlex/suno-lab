@@ -1,0 +1,101 @@
+name: "quiet-v505"
+version: 505
+title: "Quiet505"
+instrumental: false
+vocal_gender: male
+
+style: "A warm intimate soul recording from the small hours — close-mic'd male tenor voice silk-smooth and unhurried, breathing tenderness into a late-night session. Quiet-storm slow-burn soul, 79 BPM, B-flat major, deep warm reverb pooling behind every phrase. Rhodes electric piano carries lush jazz ninth and eleventh voicings as the harmonic bed, its warmth spread across a wide stereo stage. Tenor saxophone is the melodic hero — answering the voice phrase by phrase, sighing in retrograde resolution after the hook, taking the bridge solo with lyrical authority. Supple walking bass anchors every bar with steady grown warmth; soft brushed drums swish underneath without rushing. Satin string pads swell into the final chorus — no key change, just more warmth layered in for density. Polished studio mix, silky close-mic vocal up front, wide stereo stage. No rock band, no trap drums, no distorted guitar, no EDM production, no aggressive percussion."
+
+lyrics: |
+  [Intro: solo Rhodes electric piano, jazz 9th voicings, walking bass enters bar 5, 8 bars]
+
+  [Verse 1: smooth male soul vocal over Rhodes, walking bass, soft brushed drums, 16 bars]
+  The lamp is low and the night is long
+  I've been here waiting, steady and strong
+  No rush in my hands, no clock on the wall
+  Just room enough for both of us to fall
+  Into something easy, something true
+  I've been saving this quiet for you
+
+  [Chorus: satin strings enter, tenor sax retrograde echo answers hook bar, 12 bars]
+  I've been saving this quiet for you
+  Every still hour I held it close
+  In the hush between heartbeats
+  This is the most I know how to give
+  I've been saving this quiet for you
+  (for you)
+
+  [Verse 2: Rhodes, walking bass, brushed drums, tenor sax warm fills, 16 bars]
+  There's a word I keep turning over slow
+  Like a stone in warm water, letting it glow
+  I don't need the dark to make it mean more
+  I just need you here the way you were before
+  Unhurried, unguarded, falling through
+  I've been saving this quiet for you
+
+  [Chorus: strings swell and hold, sax echo answers, 12 bars]
+  I've been saving this quiet for you
+  Every still hour I held it close
+  In the hush between heartbeats
+  This is the most I know how to give
+  I've been saving this quiet for you
+  (mmm)
+
+  [Tenor Sax Bridge Solo: tenor sax melodic solo over Rhodes, walking bass, brushed drums, strings rest, lyrical and sighing, 16 bars]
+
+  [Final Chorus: satin strings swell full, Rhodes rich, sax under vocal, no key change, full density, 16 bars]
+  I've been saving this quiet for you
+  Every still hour I held it close
+  In the hush between heartbeats
+  This is the most I know how to give
+  I've been saving this quiet for you
+  (always for you)
+  All of it, all of it — for you
+
+  [Outro: Rhodes, satin strings, walking bass hold a warm resolved chord in B-flat major, voice tags hook softly, clean close, 8 bars]
+  I've been saving this quiet
+  (for you)
+
+  [End]
+
+exclude_styles: "rock band, trap, hip-hop, EDM, synthesizer leads, distorted guitar, aggressive drums, pop punk, metal, jazz fusion, club house, lo-fi beats, new age, ambient drone, world music, Arabic scales, free jazz, atonal, choral, opera"
+
+notes: |
+  v505 TOURNAMENT WINNER (inline-judged ~79/100; beat sibling candidate B "continuous sax-duet call-and-response + ad-lib vamp" at ~78 AND B carried a LEAKED-STAGE-DIRECTION render risk — it interleaved a dozen "[Tenor sax answers...]" bracket directions BETWEEN the sung lyric lines inside every verse/chorus, which Suno's lyric parser would treat as section/meta tags and likely fragment the render [v503 lesson variant]; A keeps the sax-answer described in the section bracket LABEL with clean sung lines. A won on the merits regardless: chorus develops the hook, warm coherent devotional narrative, clean). Lane: QUIET-STORM SLOW-BURN SOUL — never used in v462-v504; warm/intimate/soulful/slow MALE — strong contrast to v504's fast bright electronic female freestyle. (Modest score is the danceability axis, inherent to this deliberately intimate contrast lane — variance is the mandate; ship-bar ≥70 cleared comfortably.)
+
+  HIGH VARIANCE: silk-smooth restrained intimate MALE soul tenor (grown/devotional — distinct from every recent male: boom-bap rapper v503, roots baritone v501, Ethio tenor v499), slow-burn 79 BPM (breaks from the recent 125/90/133/77/139 cluster), B-flat MAJOR (warm/lush jazz-soul — a warm-major reset after the recent minor cluster, novelty gap 28), Rhodes/sax/strings analog-warm production. Vocal-gender alternation M/F held across v477-v505 (v504 female → v505 male).
+
+  HOOK: "I've been saving this quiet for you" (hook-writer 20/25) — makes silence itself the love offering (lyric and production are one statement). Contour: late beat-two triplet entry, stepwise fall from the major 9th (C) to the tonic (Bb) over "quiet for you", short melisma (Bb-C-Bb); the tenor sax answers in retrograde (C->Bb rising-then-resolving sigh) in the bar of rest. Chorus develops it: "Every still hour I held it close / In the hush between heartbeats / This is the most I know how to give." Warm narrative: "Like a stone in warm water, letting it glow"; "I don't need the dark to make it mean more."
+
+  ARCHITECTURE — classic quiet-storm verse/chorus, strings-swell density climax (non-modulation): exposed Rhodes+voice intro (walking bass enters bar 5) → V1 → chorus (hook, satin strings enter, sax retrograde echo) → V2 → chorus → described [Tenor Sax Bridge Solo] (sax solos over Rhodes + walking bass + brushed drums, strings rest, 16 bars — melodic centerpiece + duration lever) → FINAL CHORUS strings-swell density (satin strings full, Rhodes rich, sax under vocal, no key change) → controlled sustained close (Rhodes + strings + bass hold a resolved Bb-major chord, soft hook tag — NO fade-to-silence, NO hanging reverb note). Dropped the researcher's "ritardando fade."
+
+  DURATION GUARD (learnings): full melodic sung arc (two 6-line verses + three choruses) + the described 16-bar sax bridge solo (textured — Rhodes+bass+drums stay live) + a controlled sustained close (no dissolution). Slow 79 BPM caps ~3:30 (accepted; the full arc + sax solo is the lever).
+
+  INSTRUMENTS: warm RHODES electric piano (jazz 9th/11th voicings, harmonic bed) + tenor SAXOPHONE (melodic hero — answers the vocal, retrograde sigh, bridge solo) + supple walking BASS + soft BRUSHED drums + satin STRING pads. Deep warm reverb, wide stereo. BPM 79 (novelty gap 311, near-virgin) and B-flat major (novelty gap 28); dropped the cor-anglais suggestion (tenor sax is the genre's melodic hero).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502 lesson): does NOT exclude vocals/singing/saxophone/Rhodes/electric-piano/bass/strings/brushed-drums (all core). "synthesizer leads" excluded = fine (quiet-storm uses Rhodes, not synth leads). Excludes rock/trap/EDM/distorted-guitar/aggressive-drums + fusion/choir/opera drift. "Arabic scales" = standard-tuning guard. English only, no place-names, no artist names.
+
+  Style char count: 948.
+
+tags:
+  - quiet-storm
+  - slow-burn-soul
+  - r-and-b
+  - rhodes-electric-piano
+  - tenor-saxophone
+  - walking-bass
+  - brushed-drums
+  - satin-strings
+  - 79bpm
+  - b-flat-major
+  - male-vocal
+  - intimate-devotional
+  - late-night-scene
+  - verse-chorus-arc
+  - sax-bridge-solo
+  - density-climax
+  - no-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
