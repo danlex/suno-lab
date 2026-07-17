@@ -1,0 +1,104 @@
+name: "gfunk-v521"
+version: 521
+title: "Velvet521"
+instrumental: false
+vocal_gender: male
+
+style: "Warm, hypnotic West Coast groove at 94 BPM in B-flat minor, built on a deep portamento sub-bass ostinato that rolls unbroken as the track's structural spine. A warbling analog whistle-synth floats silky above it — stating a recurring theme, developing it across instrumental interludes and an extended center-song solo. Sparse funk-snap drums hold the pocket: loose cushioned kick, rimshot-snap snare on two and four. The male voice alternates word-dense rapped verses with a genuinely sung hook — smooth and warm — while the whistle-synth answers each phrase in a slow portamento glide. Arrangement accretes layer by layer, bass to drums to synth to voice, density building from within. Warm tape saturation on the low end; wide stereo stage. Cumulative climax: whistle-synth in higher register, doubled male harmony, full locked groove. Driven close, no fade. No guitars, no rock drums, no orchestral strings, no pipe organ, no folk instruments."
+
+lyrics: |
+  [Bass Ostinato Intro: deep sub-bass groove locks, whistle-synth states the theme, drums ease in, 8 bars]
+
+  [Verse 1: rapped, word-dense, laid-back flow over the unbroken groove]
+  I keep the window low, let the air do the thinking
+  watch the afternoon move like it's got nowhere to be
+  poured myself a slow morning, left the hurry outside
+  everything I need is already in the room with me
+  no agenda on the table, just the light on the floor
+  rolling easy through the hours like I've done this before
+  some days open like a door left slightly wide
+  and you just walk on in and let the current decide
+
+  [Sung Hook: smooth warm melody, whistle-synth portamento answer on each phrase]
+  velvet on the radio
+  slow and low and letting go
+  velvet on the radio
+  my roof is wide open
+
+  [Synth Interlude: whistle-synth develops theme with portamento figures over ostinato, 6 bars]
+
+  [Verse 2: rapped, fuller, riding the accreted groove]
+  the afternoon has got a color I can't name
+  amber in the edges, easy in the frame
+  nothing pressing, nothing lost, the clock can wait
+  I'm somewhere in between the early and the late
+  took the long way just to feel the motion through
+  let the streets remind me what a slow day can do
+  if the moment's clean enough I'll hold it while I can
+  there's a kind of quiet only lucky people understand
+
+  [Sung Hook: whistle-synth answers, fuller groove, 8 bars]
+  velvet on the radio
+  slow and low and letting go
+  velvet on the radio
+  my roof is wide open
+
+  [Whistle-Synth Theme Solo: extended warbling lead over unbroken sub-bass ostinato and funk-snap drums, portamento glides and call-and-response figures, the centerpiece, 14 bars]
+
+  [Final Sung Hook: whistle-synth in higher register, doubled male harmony, full accreted groove, cumulative density, 12 bars]
+  velvet on the radio
+  slow and low and letting go
+  velvet on the radio
+  my roof is wide open
+  velvet on the radio
+  (letting go, letting go)
+  my roof is wide open
+
+  [Outro: sub-bass ostinato, funk-snap drums, whistle-synth hold the pocket, driven groove close, 8 bars]
+
+  [End]
+
+exclude_styles: "rock, metal, orchestral strings, folk, country, EDM, big-room house, techno, dubstep, hardstyle, gabber, polka, Arabic, world music, autotune, heavy distortion, ambient drone"
+
+notes: |
+  v521 TOURNAMENT WINNER (inline-judged ~87/100; beat sibling candidate A "cyclic verse/hook + groove break" on a hard FORMAT-GATE fail — A's repeated chorus line "the whistle answers — I already know" NAMES the whistle-synth and describes its musical action as a SUNG lyric, repeated 3x in the hook [the v514/v517-siblingB class leaked-instrument-cue defect, in the most prominent spot]. B is clean: its hook "velvet on the radio / slow and low and letting go / my roof is wide open" names no instrument, the whistle-synth's role lives only in bracket labels, "(letting go, letting go)" is a genuine sung vocable. B is also the stronger draft independent of the leak — the passacaglia-ostinato-spine is the more novel form, its 8-line rapped verses are richer with vivid clean imagery, stronger duration levers). Lane: G-FUNK SLOW GROOVE (warm bass-heavy West Coast hip-hop) — never used in v462-v520; warm/hypnotic/groovy MALE with sung-hook + rapped-verse — contrast to v520's icy-minimal female and all recent males (euphoric-soul v519, slow-acoustic v517, fast-fuzz-rock v515).
+
+  HIGH VARIANCE: laid-back MALE with SUNG-hook + RAPPED-verses (warm/hypnotic — distinct from the recent males: gritty soul tenor v519, warm Piedmont croon v517, freakbeat holler v515; and this is the first male RAP-inclusive lane in the recent run), slow-roll 94 BPM (breaks from the recent 112/132/123/89/128 cluster; novelty gap 219, the classic G-funk head-nod pocket), B-FLAT MINOR (warm-smoky groove with the bright whistle-synth providing warmth on top, novelty gap 32; not enharmonic to any recent key), warm West-Coast production. Vocal-gender alternation M/F held across v477-v521 (v520 female -> v521 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (G-funk: warbling whistle-synth lead [hero], deep portamento sub-bass [structural constant], sparse funk-snap drums, sung-hook/rapped-verse male). Took BPM 94 (novelty gap 219, classic G-funk pocket, over the half-time 81) + B-flat minor (novelty gap 32). Dropped the novelty's steelpan (off-genre — G-funk is synth-lead). CULTURAL RECONCILIATION (researcher flagged West Coast rap vocabulary): lyrics fully CLEAN + abstract-emotional English — NO gang/street/violence/drug references, NO place-names, NO nationality/ethnicity words, NO artist names, NO flashy-materialistic clichés; theme is warm laid-back confidence. Verses RAPPED with real relaxed flow (word-dense = long render), chorus genuinely SUNG (melodic anchor) — not deadpan. Non-modulation cumulative climax (higher-register synth + doubled harmony + full groove). Driven groove close (not fade).
+
+  HOOK: "velvet on the radio" (hook-writer 21/25) — two concrete nouns in a prepositional phrase, no verb/command; contour: 3-3 held on "vel-vet" then a lazy cascade 3-2-1-7-6 across "on the ra-di-o" landing on the relative-major 6th (a warm unresolved surprise); the whistle-synth answers with a portamento slide 6->5 (the G-funk call-and-response built into the melodic shape). Resolves on "my roof is wide open" (the runner-up hook, leap up + unresolved landing the synth completes). Clean warm rapped-verse imagery: "the afternoon has got a color I can't name / amber in the edges, easy in the frame"; "there's a kind of quiet only lucky people understand."
+
+  ARCHITECTURE — continuous passacaglia-groove (the sub-bass ostinato is the UNBROKEN structural spine, distinct from a cyclic verse/hook song), non-modulation cumulative-accretion climax: [Bass Ostinato Intro] sub-bass locks + whistle-synth states the theme, drums ease in -> [Verse 1] RAPPED over the unbroken groove (8-line) -> [Sung Hook] (whistle-synth portamento answer) -> [Synth Interlude] whistle-synth develops the theme (6 bars) -> [Verse 2] RAPPED, fuller (8-line) -> [Sung Hook] -> described [Whistle-Synth Theme Solo] (extended warbling lead over the unbroken ostinato + funk-snap drums, 14 bars — textured centerpiece + duration lever) -> [Final Sung Hook] higher-register synth reprise + doubled male harmony over the full accreted groove, cumulative density, no key change -> [Outro] sub-bass ostinato + drums + whistle-synth hold the pocket into a driven groove close (NOT a fade, NOT a lone hanging note, NOT a mid-phrase cut).
+
+  DURATION GUARD (learnings): the unbroken sub-bass ostinato keeps every section textured (never silent — the structural constant); RAPPED verses render LONG (word-dense, two 8-line verses) + a SUNG melodic hook (the anchor) + a described textured 14-bar whistle-synth solo (never empty) + a driven groove close. 94 BPM slow-roll + rapped verses + full arc. ~96 notated bars; targets 3:00+.
+
+  INSTRUMENTS: warbling/whistling analog SYNTH LEAD (the melodic hero — states/develops the theme, answers the sung hook with a portamento glide, takes the 14-bar solo) + deep portamento SUB-BASS (the unbroken structural spine) + sparse funk-snap DRUMS (loose cushioned kick, rimshot-snap snare on 2 and 4 — described sonically, no brand/model names) + laid-back male voice (sung hook + rapped verses). BPM 94 (novelty gap 219) and B-flat minor (novelty gap 32).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v519-siblingA lessons; checked BOTH inline style negatives AND exclude_styles): NEITHER contains vocals/singing/rap/rapping/synth/synthesizer/electronic/bass/drums/hip-hop/g-funk/funk (all core / parent — the song is RAPPED + SUNG + synth-led; excluding any would be the fatal v502/v519-class mistake). Style inline negatives: no guitars, no rock drums, no orchestral strings, no pipe organ, no folk instruments (all genuine drift). Exclude_styles: only drift (rock/metal/orchestral-strings/folk/country/EDM/big-room-house/techno/dubstep/hardstyle/gabber/polka/Arabic/world/autotune/heavy-distortion/ambient-drone). English only, CLEAN/abstract (no gang/street/violence/drug/place-name/nationality/artist references), no leaked stage-directions/instrument-cues/music-theory in sung/rapped lines (the whistle-synth's role is in bracket labels only — this is exactly the gate sibling A failed).
+
+  Style char count: 947.
+
+tags:
+  - g-funk
+  - west-coast-hip-hop
+  - whistle-synth
+  - portamento-sub-bass
+  - funk-snap-drums
+  - male-voice
+  - sung-hook
+  - rapped-verse
+  - 94bpm
+  - b-flat-minor
+  - slow-groove
+  - passacaglia-ostinato-spine
+  - laid-back-confidence-scene
+  - whistle-synth-theme-solo
+  - cumulative-accretion-climax
+  - non-modulation
+  - driven-groove-close
+  - warm-tape-saturation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
