@@ -1,0 +1,112 @@
+name: "eye-v510"
+version: 510
+title: "Eye510"
+instrumental: false
+vocal_gender: female
+
+style: "Defiant clarity over tumbling breakbeats — a soaring, warm female voice rides clean and legato over a continuous rolling Amen-style break, composure inside kinetic momentum. G minor, 170 BPM, half-time sub-bass groove. Kinetic breakbeat mix: deep rolling sub-bass anchoring the low end, chopped Amen rolls with a ghost-layer underneath, reverberated siren-stab synth chords wide through the stereo field, pitched vocal-chop textures as a recurring melodic refrain, atmospheric pad breathing behind the groove. Soaring sung lead sits clean up-front, melodically rich with legato phrasing over breakbeat chaos. A pitched-chop refrain in G minor recurs and builds cumulatively after each hook, growing denser with each pass. Siren-stabs answer the held tonic at the climax. Continuous rolling drive from open to close; cumulative density at the peak; live-groove outro. No guitars, no acoustic instruments, no dancehall, no reggae, no neurofunk."
+
+lyrics: |
+  [Break Intro: rolling Amen break + sub-bass + atmospheric pad, pitched-chop refrain preview, 8 bars]
+  Oh-oh, ah-ah-ah
+  Oh-oh, ah-ah-ah
+
+  [Verse 1: soaring female vocal over continuous rolling break, chord movement Gm-Bb-F-Eb, 16 bars]
+  I have been in the spin of it
+  Turning at the centre where the wind goes thin
+  Every voice around me rises, pulls and calls
+  I am standing still inside the waterfall
+
+  There is pressure on my shoulders, heat beneath my feet
+  But I found the quiet at the edge of everything
+  I don't run from the fury, I don't need to fight
+  I just hold the middle open, keep it clean and bright
+
+  [Soaring Hook: held D5 on "I am the eye", one-bar break gap, descend to Bb4-G4 on "not the storm", siren-stab on held G4, 8 bars]
+  I am the eye
+  Not the storm
+
+  [Pitched-Chop Refrain: melodic sung-vocable figure, G minor, chopped and pitched, 8 bars]
+  Oh-oh, ah-ah-ah
+  Oh-oh, ah — ah — ah
+
+  [Verse 2: soaring female over rolling break, chord movement Gm-Eb-Bb-F, deeper and fuller, 16 bars]
+  Every current wants to carry me, to scatter me apart
+  But the calm I carry isn't distance, it's the work of heart
+  I have walked through every season that was trying to break me down
+  And I rose, not by escaping — I rose by standing my ground
+
+  The world is always turning, and the turns get wild and fast
+  I learned to find the stillness that was built in me to last
+  I don't bend against the gale wind, I don't scatter with the rain
+  I am here inside the centre — I will always stay the same
+
+  [Soaring Hook: defiant, full Amen roll underneath, siren-stabs on peak, 8 bars]
+  I am the eye
+  Not the storm
+
+  [Pitched-Chop Refrain fuller: layered vocal-chop figure, denser stack, 8 bars]
+  Oh-oh, ah-ah-ah
+  Oh-oh, ah — ah — ah
+  Oh — oh — oh
+
+  [Break and Siren Workout: chopped Amen rolls, siren-stab surges, chop refrain layered over continuous sub-bass, building density, 16 bars]
+  Oh-oh, ah-ah-ah
+  Oh — ah — oh — ah
+
+  [Final Hook and Chop Stacked: soaring vocal + pitched-chop refrain + full break + siren-stabs, cumulative density, no key change, 16 bars]
+  I am the eye
+  Not the storm
+  I am the eye
+  Not the storm
+  Oh-oh, ah-ah-ah
+  Oh-oh, ah — ah — ah
+
+  [Live-Groove Outro: rolling break + sub-bass in the pocket, chop refrain fading to a controlled close, 8 bars]
+  Oh-oh, ah-ah-ah
+  Oh-oh
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, dancehall, ragga, reggae, drum-and-bass neurofunk, house, techno, trance, ambient drone, zen meditation"
+
+notes: |
+  v510 TOURNAMENT WINNER (inline-judged ~88/100; beat sibling candidate A "intro/build/vocal-hook-drop" at ~83 — B's recurring pitched-chop refrain is a genuine idiomatic jungle SECOND hook [written as sung vocables, not an instrument-cue leak], its two 8-line verses are far richer/more-developed than A's 3-liners [better narrative + duration insurance], and the cumulative-density stacked final is a stronger frisson arc; both clean). Lane: JUNGLE (breakbeat electronic, vocal anthemic) — never used in v462-v509; fast/kinetic/danceable FEMALE — max contrast to v509's slow warm male live-band soul-blues, right in our audience's beat-driven wheelhouse.
+
+  HIGH VARIANCE: soaring clean legato FEMALE (warm-over-chaos — distinct from the recent female registers: vogue belt v508, new-wave cool v506, freestyle fierce v504), fast 170 BPM breakbeat (half-time bass feels ~85; breaks from the recent 87/134/71/121/79 cluster), G MINOR (dark rolling — sub-bass gravity; novelty gap 26, chosen over the novelty's G-sharp minor which is enharmonic to recent A-flat minor), kinetic breakbeat production. Vocal-gender alternation M/F held across v477-v510 (v509 male → v510 female).
+
+  RECONCILIATION (key negatives catch): the researcher flagged excluding "dub" — but dub sub-bass + dub siren-stabs are CORE jungle DNA (excluding "dub" would be a v497/v507-class parent-adjacent contradiction). Kept the siren-stabs described sonically and did NOT exclude bare "dub"; excluded only the SONG-FORM drift (dancehall/ragga/reggae/DnB-neurofunk/house/techno/trance). Also reconciled the researcher's chant-forward tendency to a genuinely SUNG soaring lead + full sung verses (chops as a secondary refrain), dodging the chant-heavy short-render risk.
+
+  HOOK: "I am the eye, not the storm" (hook-writer 20/25) — reclaims the eye-of-the-storm as a defiant identity claim (composure inside chaos). Contour: held D5 (5th of G minor, bright/floating) on "I am the eye", then ONE FULL BAR of bare tumbling Amen-roll with no vocal (the breakbeat fills the gap structurally), then re-entry stepping DOWN Bb4->G4 on "not the storm" (resolves DOWNWARD into the dark tonic — defiant composure, not upward triumph); siren-stab answers on the held G4. PLUS the recurring "Oh-oh, ah-ah-ah" pitched-chop refrain (second hook). Rich verses: "the calm I carry isn't distance, it's the work of heart"; "I rose, not by escaping — I rose by standing my ground."
+
+  ARCHITECTURE — vocal-led anthem + recurring pitched-chop refrain over CONTINUOUS rolling breaks, cumulative-density climax (non-modulation): break intro (refrain preview) → V1 (8-line, soaring over continuous break) → soaring hook (mid-hook break-gap) → [Pitched-Chop Refrain] → V2 (8-line, fuller) → hook → [Pitched-Chop Refrain fuller] → described [Break and Siren Workout] (chopped Amen + siren-stabs + refrain over continuous sub-bass, 16 bars — duration lever) → FINAL hook + chop-refrain STACKED cumulative density (no key change) → live-groove outro (rolling break + sub-bass in the pocket, controlled close — NO fade, NO cold stop). Continuous never-stopping drive (no intro/build/drop dynamics) is the identity.
+
+  DURATION GUARD (learnings): full melodic sung arc (two 8-line verses + soaring hooks + growing chop refrains) + continuous rolling break/sub-bass (never drops to silence) + a described 16-bar workout + a live-groove no-fade close. 170 BPM in the proven fast band. 112 bars.
+
+  INSTRUMENTS: tumbling Amen-style BREAKBEATS (two-pass: full roll + ghost layer) + deep rolling half-time SUB-BASS + soaring clean legato FEMALE lead (the hero) + reverberated SIREN-STAB synth chords + PITCHED VOCAL-CHOP refrain (second hook) + atmospheric pad. BPM 170 (near-virgin gap ~179, in the jungle band — overrode the novelty's below-band 141/144/136) and G minor (novelty gap 26); dropped the steelpan suggestion (jungle is breaks/bass/sirens/chops).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v497/v507 lessons): does NOT exclude vocals/singing/electronic/breakbeat/drums/bass/synth OR bare "dub" (core jungle DNA). Excludes only song-form drift + rock/metal/ambient. English only, no place-names, no nationality/ethnicity words, NO patois/dancehall vocabulary. Sung lines clean of leaked stage-directions/instrument-cues; the chop refrain is genuine sung vocables (v503/v505/v508 lessons).
+
+  Style char count: 942.
+
+tags:
+  - jungle
+  - breakbeat
+  - breakbeat-electronic
+  - female-vocal
+  - soaring-legato-vocal
+  - 170bpm
+  - g-minor
+  - amen-break
+  - rolling-sub-bass
+  - siren-stab
+  - pitched-vocal-chop-refrain
+  - vocal-led-anthem
+  - continuous-drive
+  - cumulative-density-climax
+  - no-modulation
+  - defiant-clarity-scene
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
