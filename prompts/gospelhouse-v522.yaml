@@ -1,0 +1,106 @@
+name: "gospelhouse-v522"
+version: 522
+title: "Skin522"
+instrumental: false
+vocal_gender: female
+
+style: "Warm, powerful, uplifting diva house flooding a room with body-heat and joy. Four-on-the-floor kick at 124 BPM in A major, polished studio mix, deep low-end definition, wide stereo stage. The melodic hero is stacked gospel-piano and Hammond organ driving thick chord stabs answered by brass horn punches. Soulful electric bassline bounces every kick, crisp handclaps crack the backbeat, a lush choir swells on the lift. The female lead opens intimate and controlled — held breath between phrases — then unlocks a full-throated genuinely sung belt on the chorus, soulful runs curling around the organ chord. Two verses, two escalating choruses, a textured Hammond-organ bridge resetting tension, then a final cumulative chorus where choir doubles the belt, horn stabs punch hard, and four-on-the-floor drives to a cathartic driven close — no fade, groove locked to the last beat. No guitars, no rap, no rock drums, no country fiddle, no synthesizers."
+
+lyrics: |
+  [Intro: gospel-piano chord stab, hushed lead vocal, layers entering one by one, 8 bars]
+  There is a room in me I have not opened yet
+  the light beneath the door has always been
+
+  [Verse 1: intimate controlled lead, bassline and handclaps building beneath, 16 bars]
+  I have carried whole seasons in my chest
+  folded dark and tucked beneath the rest
+  held the weight of winters I did not choose
+  counted every morning I thought I would lose
+  But something in the air today tastes like a door
+  something breaking open, something rising from the floor
+
+  [Chorus: full-throated belted hook, four-on-the-floor, organ and horn stabs answering, choir echo, 16 bars]
+  Skin full of summer
+  I am warm all the way down
+  Skin full of summer
+  rising light without a sound
+  Every season I carried breaking into gold
+  skin full of summer, finally
+
+  [Verse 2: fuller groove, choir swells underneath, lead more expansive, 16 bars]
+  I have waited for the weight to lift before
+  I did not know I was already at the door
+  something in the body knows before the mind
+  a kind of heat that has been building for a long time
+
+  [Chorus: belted, choir louder, horn stabs on every phrase, 16 bars]
+  Skin full of summer
+  I am warm all the way down
+  Skin full of summer
+  rising light without a sound
+  Every season I carried breaking into gold
+  skin full of summer, finally
+
+  [Organ Bridge: strip to Hammond organ and lead voice alone, tension held and released, 10 bars]
+  This is the becoming
+  this is the open door
+
+  [Final Chorus: choir doubles the belt, dense horn-stab wall, four-on-the-floor at full drive, no key change, 24 bars]
+  Skin full of summer
+  I am warm all the way down
+  Skin full of summer
+  rising light without a sound
+  Every season I carried breaking into gold
+  skin full of summer, finally
+  (warm, warm, warm all the way down)
+  (rising, rising, light without a sound)
+  Skin full of summer
+
+  [Outro: four-on-the-floor + gospel-piano + organ locked in, driven cathartic close, no fade, 8 bars]
+
+  [End]
+
+exclude_styles: "rock, metal, country, folk, acoustic guitar, EDM festival drop, big-room house, hardstyle, gabber, dubstep, trap, drill, Arabic, world music, tribal, autotune, ambient, new age, zen meditation, lo-fi, experimental noise, free jazz, atonal"
+
+notes: |
+  v522 TOURNAMENT WINNER (inline-judged ~88/100; beat sibling candidate B "continuous-lift call-and-response" on DURATION-RELIABILITY + FULLNESS — the whole point of choosing this danceable lane. A has substantially more sung content [two full verses, fully-developed 6-line choruses, an organ bridge with genuine sung lines, bar counts on EVERY section, ~108 bars]; B was thinner [a 2-line Verse 2, 4-line choruses, NO bar counts on vocal sections, a shorter arc] — a real duration risk in a lane picked for reliability. B's continuous-lift form was the more novel FORM, but its thin content didn't overcome A's fuller, better-scaffolded, richer draft. Both clean on the both-sides negatives audit + leak-free + no liturgical vocab). Lane: GOSPEL-HOUSE / PIANO-HOUSE DIVA (warm four-on-the-floor with church-rooted soul) — never used in v462-v521; warm/powerful/danceable FEMALE — the freshest gap, contrast to v521's warm-slow-G-funk MALE and the recent cold/ornate/electronic female cluster (v520 coldwave, v518 baroque, v516 kuduro). Distinct from the earlier hymn-based gospel-pop AND the earlier diva-house v496 (foregrounds gospel-piano/organ/choir church-rooted identity + different key/tempo).
+
+  HIGH VARIANCE: powerhouse belted FEMALE with intimate-verse-to-roof-raising-chorus arc (warm/cathartic — distinct from the recent females: icy coldwave v520, brittle indie baroque v518, bright kuduro diva v516), danceable 124 BPM four-on-the-floor (breaks from the recent 94/112/132/123/89 cluster; novelty gap 55, the classic diva-house pocket), A MAJOR (bright/warm/uplifting, novelty gap 28; not enharmonic to any recent key; contrasts the recent minors + E-flat/C majors), warm mid-dense gospel-house production. Vocal-gender alternation M/F held across v477-v522 (v521 male -> v522 female).
+
+  RECONCILIATION: took LANE + instruments from the researcher (gospel-house: stacked gospel-piano + Hammond organ chord stabs [hero], soulful electric bass, four-on-the-floor kick + handclaps, lush choir, horn stabs, powerhouse female belt). Took BPM 124 + A major from the picker (gaps 55 & 28). Dropped the novelty's steelpan (off-genre — gospel-house is piano/organ-led). CULTURAL RECONCILIATION (researcher flagged gospel church vocabulary): lyrics fully ABSTRACT/UNIVERSAL English (light/release/becoming/rising) — NO liturgical/religious-specific vocabulary (no hallelujah/praise/lord/amen/church/gospel/heaven/salvation/sanctuary), NO place-names, NO artist names. Organ bridge kept TEXTURED + bar-counted (organ + voice, not silent). Powerhouse belt = genuinely SUNG (not deadpan). Non-modulation cumulative climax (choir doubling + horn-stab wall + full four-on-the-floor). Driven sustained cathartic close (no fade).
+
+  HOOK: "Skin full of summer" (hook-writer 21/25) — a synaesthetic body-heat declaration (warmth radiating from inside out), NOT a crowd-instruction. Contour: syncopated entry on beat 2 (against the four-on-the-floor kick on beat 1); "SKIN" off-beat pickup, "full of SUM-mer" a triplet run up scale degrees 3-4-5-6 (C#-D-E-F#) hanging UNRESOLVED on the 6th; the gospel-piano/organ chord stab fills beat 4 to tonic, a horn stab answers, the choir echoes "sum-mer" on the tail (call-and-response built into the melodic shape). Developed into a full 6-line belted chorus: "I am warm all the way down / rising light without a sound / Every season I carried breaking into gold / skin full of summer, finally." Intimate verse imagery: "I have carried whole seasons in my chest / folded dark and tucked beneath the rest"; bridge turn "This is the becoming / this is the open door."
+
+  ARCHITECTURE — classic gospel-house build-and-lift verse/chorus, non-modulation cumulative-density climax: [Intro] gospel-piano stab + hushed lead, layers entering one by one (handclaps, bass, organ) -> V1 (intimate controlled lead, groove building, 6-line) -> Chorus (belted hook, organ/horn stabs answering, choir echo) -> V2 (fuller, choir swells) -> Chorus -> described [Organ Bridge] (strip to Hammond organ + lead voice, tension reset, 10 bars — textured not silent) -> [Final Chorus] cumulative (choir doubling the belt + dense horn-stab wall + full four-on-the-floor, no key change, 24 bars) -> [Outro] four-on-the-floor + gospel-piano + organ locked in a driven cathartic close (NOT a fade-to-silence, NOT a lone hanging note, NOT a mid-phrase cut).
+
+  DURATION GUARD (learnings): a DANCEABLE full-band four-on-the-floor with a strong repeated BELTED sung chorus is the most duration-reliable form. Full melodic sung arc (two verses + three escalating belted choruses) + a described textured organ bridge (never silent) + every section textured (four-on-the-floor + piano/organ present, no dissolution) + a driven sustained no-fade close. Bar counts on every section (8/16/16/16/16/10/24/8 = ~108 bars). 124 BPM. Genuinely belted (not deadpan). Forward-motion concept biases the classifier toward uplifting dance rather than short-form cinematic.
+
+  INSTRUMENTS: stacked GOSPEL-PIANO + HAMMOND ORGAN chord stabs (the melodic hero) + brass HORN stabs (answer the hook) + soulful electric BASS (bounces every kick) + four-on-the-floor KICK + crisp HANDCLAPS + lush CHOIR (swells + doubles the belt in the final) + powerhouse female lead. BPM 124 (novelty gap 55) and A major (novelty gap 28).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v512/v519-siblingA lessons; checked BOTH inline style negatives AND exclude_styles): NEITHER contains vocals/singing/house/electronic/synth/piano/organ/bass/drums/choir/belt/gospel/soul/four-on-the-floor (all core / parent — the choir + belt are USED; excluding them would be the fatal v512/v519-class mistake). Style inline negatives: no guitars, no rap, no rock drums, no country fiddle, no synthesizers (all genuine drift — "no rap" is fine, the song is sung; "no synthesizers" steers to the real gospel-piano+Hammond-organ hero). Exclude_styles: only drift (rock/metal/country/folk/acoustic-guitar/EDM-festival-drop/big-room-house/hardstyle/gabber/dubstep/trap/drill/Arabic/world/tribal/autotune/ambient/new-age/zen/lo-fi/experimental-noise/free-jazz/atonal). English only, abstract/universal (no liturgical vocab), no place-names, no artist names. Sung lines clean of leaked stage-directions/instrument-cues (the organ/horn answers are in bracket labels only — never named + their action in a sung line, the v521-siblingA lesson); ad-libs + choir echoes are genuine sung words.
+
+  Style char count: 949.
+
+tags:
+  - gospel-house
+  - piano-house
+  - diva-house
+  - hammond-organ
+  - gospel-piano
+  - horn-stabs
+  - soulful-bass
+  - choir
+  - female-vocal
+  - powerhouse-belt
+  - 124bpm
+  - a-major
+  - four-on-the-floor
+  - cathartic-release-scene
+  - build-and-lift
+  - organ-bridge
+  - cumulative-density-climax
+  - non-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance

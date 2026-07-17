@@ -536,6 +536,7 @@ mindmap
 | 519 | Careful519 | Northern Soul rare-groove — relentless stomping pocket, lead/gospel-choir call-and-response, brass-and-organ dancers' break, non-modulation cumulative climax | E-flat major | 132 | punchy brass stabs (trumpet + tenor sax) + Hammond organ/clavinet + walking bass (over snare-heavy stomp with tambourine/handclaps and gospel backing choir) |
 | 520 | Bonewhite520 | coldwave-diva vocal — icy minimal post-punk, melodic-bass-foreground, tritone hook, cumulative-return climax, cold-stop close | F-sharp minor | 112 | forward-mixed melodic electric bass (foreground hero) + chorus-flanged clean electric guitar + cold analog synth pads (over metronomic dry drum machine) |
 | 521 | Velvet521 | G-funk slow groove — sung-hook + rapped-verse, passacaglia sub-bass ostinato spine, whistle-synth theme solo, cumulative-accretion climax | B-flat minor | 94 | warbling whistle-synth lead (hero) + deep portamento sub-bass (ostinato spine) + funk-snap drums (under laid-back male sung-hook/rapped-verse) |
+| 522 | Skin522 | gospel-house/piano-house diva — gospel-piano+organ chord stabs, powerhouse belt, build-and-lift, choir-doubled cumulative climax, driven cathartic close | A major | 124 | stacked gospel-piano + Hammond organ chord stabs + brass horn stabs (over four-on-the-floor kick, soulful bass, handclaps, lush choir) |
 
 ## Next-cycle priorities
 
