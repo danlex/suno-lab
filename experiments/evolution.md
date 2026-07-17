@@ -529,6 +529,7 @@ mindmap
 | 512 | Evening512 | dark cabaret torch — cyclic verse/refrain build, belted NO-ONE dynamic climax, sustained ring-out | A minor | 75 | upright piano + accordion + cello (over brushed snare/upright bass, muted trumpet ghosting) |
 | 513 | Thermal513 | EBM / futurepop — clipped-verse to sung-chorus contrast, cumulative-density climax, driven outro | G-sharp minor | 141 | staccato sequenced bass synth + cold modular arpeggios + wide synth pads (over pounding 4/4 drum machine) |
 | 514 | Tuesday514 | classic-70s philly/orchestral soul — strings-as-lead-voice call-and-response, mid vamp, cumulative-density climax | D-flat major | 103 | lush orchestral strings + cornet/brass punches + vibraphone (over warm electric piano, walking electric bass, live drums) |
+| 515 | Splinter515 | freakbeat mod-punk — stop-time guitar-solo break, holler-into-sung hook, cumulative-density climax, decisive button close | D minor | 146 | fuzz-drenched cranked electric guitar + punching Hammond organ + electric bass (over tight live drumkit with stop-time hits) |
 
 ## Next-cycle priorities
 

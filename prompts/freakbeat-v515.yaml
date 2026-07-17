@@ -1,0 +1,100 @@
+name: "freakbeat-v515"
+version: 515
+title: "Splinter515"
+instrumental: false
+vocal_gender: male
+
+style: "Mid-1960s British mod fuzz-rock, raw and punching — a fuzz-drenched cranked electric guitar owns the riff, the feedback stabs, and the solo. Hammond organ rides the top of the mix, stabbing the hook chord on the beat. Electric bass walks the stop-time breaks; the live drum kit drives a tight punchy backbeat with dramatic stop-start hits. Urgent male R&B holler opening into a genuinely sung melodic chorus: fierce and driving, melody singable, never deadpan. Warm tape saturation, wide stereo stage, live-room dynamic. D minor, 146 BPM. Two escalating verses and choruses crest into a textured stop-time solo break — kick-snare pulses, walking bass, cranked fuzz solo, Hammond swelling back — then a double final chorus at peak holler-but-sung density, cumulative, non-modulating, closing on a decisive D-minor button with guitar and Hammond ringing to a controlled stop. No synthesizers, no programmed beats, no orchestral strings, no autotune."
+
+lyrics: |
+  [Intro: bare fuzz-guitar riff, Hammond and full band crash in, 8 bars]
+
+  [Verse 1: urgent vocal over the riff, Hammond biting, tight backbeat, 16 bars]
+  The minute hand's ahead of me
+  I'm running just to catch its back
+  Everybody said go easy
+  I took the long way through the crack
+  The engine's always ready
+  No one's born to wait the light
+  They built the wall with good advice
+  I hit it going ninety-five
+
+  [Chorus: sung hook, Hammond stabs the chord, stop-time gaps, 12 bars]
+  Splinter in the throttle
+  Won't let me ease the wheel
+  Splinter in the throttle
+  That's the only way I feel
+
+  [Verse 2: fuller, feedback stabs punctuating, 16 bars]
+  They built the fence, I saw the gap
+  I took the wire on my arm
+  The room said sit and wait your turn
+  I left before they raised the bar
+  The clock won't call my name twice
+  The road don't file a plan
+  They wrote the rules for standing still
+  I live them going where I can
+
+  [Chorus: full band driving, holler lifted into the sung hook, 12 bars]
+  Splinter in the throttle
+  Won't let me ease the wheel
+  Splinter in the throttle
+  That's the only way I feel
+
+  [Stop-Time Guitar Break: band drops to kick-snare stop-time, bass walks underneath, cranked fuzz guitar solo over the riff, Hammond swells back in for the final bars, 14 bars]
+
+  [Double Final Chorus: full band at peak density, vocal at top holler-but-sung, fuzz guitar and Hammond flooding the mix, cumulative and non-modulating, 16 bars]
+  Splinter in the throttle
+  Won't let me ease the wheel
+  Splinter in the throttle
+  That's the only way I feel
+  Splinter in the throttle
+  No wall, no wait, no deal
+  Splinter in the throttle
+  That's the only way I feel
+
+  [Outro: decisive full-band D-minor button, guitar and Hammond ringing to a controlled stop, 4 bars]
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, dubstep, synthesizer, electronic production, programmed drums, orchestral strings, folk, country, reggae, jazz fusion, lo-fi, hyperpop, Arabic, world music, new age, ambient, pop ballad, soft rock, glam rock, heavy metal, post-punk, shoegaze, dream pop"
+
+notes: |
+  v515 TOURNAMENT WINNER (inline-judged ~84/100; beat sibling candidate B "stop-time-forward with organ-vs-guitar duel" — both clean on the critical fuzz/distortion/rock negatives audit and both leak-free, but A won on THREE counts: (1) WRITING DEPTH — A has two rich 8-line verses with a coherent driving-metaphor through-line ["I took the long way through the crack"; "I hit it going ninety-five"; "The road don't file a plan"] and a cohesive hook extension ["Won't let me ease the wheel / That's the only way I feel"], whereas B's verses were thin 4-liners and its pre-chorus "Nothing's gonna hold this down" x4 bordered on filler; (2) DURATION RIGOR — A bar-counts every section incl. 16-bar verses, B omitted verse bar counts; (3) NEGATIVES — A's exclusions marginally safer, B excluded "psychedelic rock"/"hard rock" [freakbeat-adjacent, borderline]. B's organ-vs-guitar-duel architecture was more novel but its thinner execution didn't overcome A's richer, better-scaffolded draft). Lane: FREAKBEAT MOD-PUNK (mid-1960s British fuzz-rock) — never used in v462-v514; punchy live-band ROCK MALE — contrast to v514's lush orchestral soul female, AND none of the recent male modes (v513 cold-electronic EBM, v511 mid organic-guitar soukous, v509 slow-organic soul-blues).
+
+  HIGH VARIANCE: urgent MALE R&B-holler-into-sung-melodic-chorus (fierce/driving — distinct from the recent males: cold baritone EBM v513, warm soukous tenor v511, blues-ache v509), fast 146 BPM (breaks from the recent 103/141/75/119/170 cluster; novelty gap 289), D MINOR (driving/edgy/blues-rooted, novelty gap 28 — not enharmonic to any recent key), raw live-room fuzz-rock production (opposite of v514's polished lush orchestral). Vocal-gender alternation M/F held across v477-v515 (v514 female -> v515 male).
+
+  RECONCILIATION: took LANE + instruments from the researcher (freakbeat: fuzz cranked electric guitar [hero], punching Hammond organ, electric bass, live drums, stop-time breaks). Took BPM 146 + D minor from the novelty-picker (freshest in-idiom picks; gaps 289 & 28); DROPPED its trombone suggestion (off-genre — no brass in fuzz mod-punk). Dropped the researcher's "hard cut" ending (abrupt/truncation risk) -> decisive full-band D-minor BUTTON with guitar/Hammond ringing to a controlled stop (textured, not a fade, not a mid-phrase cut). Reconciled the researcher's "shouting vocal" to an urgent R&B-holler-INTO-genuinely-SUNG-melodic-chorus (pure shout/deadpan renders short). Built a FULL arc (2 x 8-line verses + 3 choruses + break + double final) to clear 3:00+ (the genre runs 2:30-3:00). Non-modulation cumulative climax. Reconciled cultural context to abstract English (no place-names, no mod-scene/fashion/subculture vocabulary, no band names, no retro/vintage framing).
+
+  HOOK: "Splinter in the throttle" (hook-writer 19/25) — a small wound lodged in the forward-control mechanism; defiance carried by the IMAGE, not a shouted instruction. Contour: scale degrees 5->raised-6 (A->Bb, a Dorian lift) on "Splint-er", descending 6-5-4-3 on "in the throt-tle" landing on the minor third (F); the Hammond STABS the F as the phrase resolves and the fuzz guitar echoes the descent; ~2 beats, repeated with a stop-time gap as the answer space. Extended cohesively: "Won't let me ease the wheel / That's the only way I feel" (the driving metaphor holds). Restless verse writing: "The minute hand's ahead of me / I'm running just to catch its back"; "They built the wall with good advice / I hit it going ninety-five."
+
+  ARCHITECTURE — classic freakbeat verse/chorus with a stop-time solo break, non-modulation cumulative-density climax: [Intro] bare fuzz riff + Hammond/full-band crash (punchy, textured) -> V1 (urgent vocal over riff + biting Hammond, tight backbeat) -> Chorus (sung hook, Hammond stabs, stop-time gaps answered by guitar) -> V2 (fuller, feedback stabs) -> Chorus -> described [Stop-Time Guitar Break] (band drops to kick-snare stop-time + walking bass + cranked fuzz solo + Hammond swelling back, 14 bars — textured duration lever) -> [Double Final Chorus] full band at peak holler-but-sung density, fuzz + Hammond flooding, cumulative, no key change -> [Outro] decisive full-band D-minor button, guitar + Hammond ringing to a controlled stop (NOT a fade, NOT a mid-phrase cut, NOT dissolution).
+
+  DURATION GUARD (learnings): the genre runs short (2:30-3:00) so built the FULL arc — two 8-line verses + three choruses (double final) + a described textured 14-bar stop-time solo break (never silent) + every section textured (band always driving) + a decisive button close. ~98 bars. The chorus is genuinely SUNG melodic (deadpan/shout renders short). 146 BPM in the proven fast band.
+
+  INSTRUMENTS: fuzz-drenched cranked electric GUITAR (melodic hero — riff, feedback stabs, the solo) + punching HAMMOND ORGAN (rides the top, stabs the hook chord) + driving electric BASS (walks the stop-time break) + tight live DRUMKIT (punchy backbeat + stop-time hits) + urgent male vocal. Described sonically, no brand/model names. BPM 146 (novelty gap 289) and D minor (novelty gap 28).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v507/v509/v511/v512/v513/v514 lessons): does NOT exclude vocals/singing/shouting/guitar/electric-guitar/fuzz/distortion/overdrive/organ/Hammond/bass/drums (all core — excluding "fuzz"/"distortion"/"rock" would be the fatal v513/v507-class mistake, the fuzz guitar IS the genre), and does NOT exclude the parent categories (rock, garage rock, punk, blues, R&B, mod). Excludes only genuine drift (EDM/trap/house/techno/dubstep/synth/electronic-production/programmed-drums/orchestral-strings/folk/country/reggae/jazz-fusion/lo-fi/hyperpop/Arabic/world/new-age/ambient/pop-ballad/soft-rock/glam-rock/heavy-metal/post-punk/shoegaze/dream-pop — all adjacent-but-distinct, not the parent). Style negatives: no synthesizers, no programmed beats, no orchestral strings, no autotune. English only, no place-names, no nationality/ethnicity words, no subculture vocabulary, no band names. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (v503/v505/v508/v511-siblingB/v514-siblingB lessons) — the stop-time break is a properly described lyric-free bracket.
+
+  Style char count: 947.
+
+tags:
+  - freakbeat
+  - mod-punk
+  - fuzz-rock
+  - electric-guitar
+  - hammond-organ
+  - electric-bass
+  - live-drumkit
+  - male-vocal
+  - holler-into-sung
+  - d-minor
+  - 146bpm
+  - stop-time
+  - guitar-solo-break
+  - cumulative-density-climax
+  - non-modulation
+  - live-band-raw
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
