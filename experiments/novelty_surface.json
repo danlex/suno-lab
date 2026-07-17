@@ -1,6 +1,6 @@
 {
-  "total_prompts": 497,
-  "latest_version": 522,
+  "total_prompts": 498,
+  "latest_version": 523,
   "instruments": {
     "organ": [
       1,
@@ -1123,6 +1123,12 @@
       253,
       444
     ],
+    "contrabass": [
+      83,
+      130,
+      198,
+      523
+    ],
     "erhu": [
       102,
       117,
@@ -1144,11 +1150,6 @@
       346,
       464,
       481
-    ],
-    "contrabass": [
-      83,
-      130,
-      198
     ],
     "double bass": [
       178,
@@ -1348,6 +1349,7 @@
       316,
       317,
       319,
+      323,
       444,
       470,
       514
@@ -1378,6 +1380,7 @@
       428,
       432,
       443,
+      448,
       454,
       459
     ],
@@ -1502,10 +1505,6 @@
       296,
       502
     ],
-    "minimalist": [
-      201,
-      323
-    ],
     "passacaglia": [
       111,
       202
@@ -1513,10 +1512,6 @@
     "post-classical": [
       112,
       315
-    ],
-    "synthwave": [
-      1,
-      448
     ],
     "trance": [
       396,
@@ -1546,8 +1541,14 @@
     "hardstyle": [
       398
     ],
+    "minimalist": [
+      201
+    ],
     "progressive house": [
       96
+    ],
+    "synthwave": [
+      1
     ]
   },
   "keys": {
@@ -1729,7 +1730,8 @@
       417,
       441,
       475,
-      500
+      500,
+      523
     ],
     "g minor": [
       59,
@@ -2434,7 +2436,8 @@
     "108": [
       62,
       277,
-      452
+      452,
+      523
     ],
     "109": [
       212,
@@ -2791,6 +2794,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 523,
+      "title": "Fault523",
+      "name": "postmetal-v523",
+      "featured": [],
+      "genre": null,
+      "key": "b minor",
+      "bpm": 108
+    },
     {
       "version": 522,
       "title": "Skin522",
@@ -3560,7 +3572,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "synthwave",
+      "genre": "cinematic",
       "key": "a minor",
       "bpm": 106
     },
@@ -4650,7 +4662,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },

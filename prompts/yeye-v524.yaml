@@ -1,0 +1,105 @@
+name: "yeye-v524"
+version: 524
+title: "Nerve524"
+instrumental: false
+vocal_gender: female
+
+style: "Bright, sun-drenched yé-yé chamber-pop — a vibraphone is the melodic hero, shimmering warm-metal through every bar. Intimate, playful mid-range female lead, genuinely sung with a bright melodic line and a knowing wink: charming, buoyant, never belted. Brushed-drum kit and walking upright bass keep a swing pocket; acoustic guitar, pizzicato strings, and a harpsichord counterline weave the harmony; stacked \"ooh-ooh\" vocals bloom in call-and-response after every hook. G major, 143 BPM. Polished studio mix, warm tape saturation, wide stereo stage. 60s-pop AABA form: two verse-refrains build to the hook, a middle-eight brings a new melody and wry scene, the vibraphone takes a textured break over the swing pocket, then the final refrain returns in full color — vibraphone, woodwinds, strings, harpsichord, stacked vocals. Warm G-major combo cadence to close. No distorted guitars, no pipe organ, no synthesizers, no rock drums, no auto-tune."
+
+lyrics: |
+  [Intro: vibraphone states the theme over guitar and brushed kit, buoyant swing pocket, 8 bars]
+
+  [A1: first verse-refrain, intimate vocal, light texture, 16 bars]
+  I rehearsed the casual lean against the door
+  Then tried it twice and nearly lost the floor
+  Smoothed my collar, checked the clock, and then
+  I told myself to try the whole thing once again
+
+  I borrowed my nerve from the second cup
+  (ooh-ooh, ooh-ooh)
+  The one that told me to look up
+  (ooh-ooh, ooh-ooh)
+  Borrowed my nerve from the second cup
+  (ooh-ooh)
+
+  [A2: second verse-refrain, vibraphone and backing vocals fuller, 16 bars]
+  You had your jacket on already when I got there
+  I said the rain was coming just to make you stay a minute
+  You looked at me the way a person looks at weather
+  Like you couldn't tell exactly what was in it
+
+  I borrowed my nerve from the second cup
+  (ooh-ooh, ooh-ooh)
+  The one that told me to look up
+  (ooh-ooh, ooh-ooh)
+  Borrowed my nerve from the second cup
+  (ooh-ooh)
+
+  [Middle-Eight: new melody, wry lyric turn, harpsichord counterline and pizzicato strings color, 12 bars]
+  You left your umbrella here again
+  (ooh-ooh, ooh-ooh)
+  I hung it by the door just like a friend
+  (ooh-ooh)
+  Now every time it rains I think of how
+  You gave me a reason to come back somehow
+
+  [Vibraphone Break: bright textured vibraphone lead over swing pocket and pizzicato strings, full melodic run, 10 bars]
+
+  [A3: final refrain, full color — vibraphone, woodwinds, strings, harpsichord, stacked ooh-ooh vocals, 20 bars]
+  I borrowed my nerve from the second cup
+  (ooh-ooh, ooh-ooh)
+  The one that told me to look up
+  (ooh-ooh, ooh-ooh)
+  Borrowed my nerve from the second cup
+  (ooh-ooh, ooh-ooh)
+  Maybe the third cup was luck
+  (ooh-ooh)
+
+  [Outro: vibraphone, guitar, and upright bass resolve to a warm bright G-major cadence, ringing close, 8 bars]
+  [End]
+
+exclude_styles: "EDM, trap, techno, dubstep, metal, hard rock, hip hop, drill, country, accordion musette, gabber, hardstyle, Arabic, world music, autotune, ambient, lounge, bossa nova, new age, free jazz, atonal, electronic"
+
+notes: |
+  v524 TOURNAMENT WINNER (inline-judged ~85/100; beat sibling candidate A "modern verse/pre-chorus/chorus" ~84 — very close, both charming/witty/clean/leak-free, both intimate-sung/warm-combo-close. B won on GENRE-AUTHENTICITY + FORM-DISTINCTNESS: B is a genuine 1960s-pop AABA with a CONTRASTING MIDDLE-EIGHT ["You left your umbrella here again... You gave me a reason to come back somehow"] — THE quintessential yé-yé structure, and more architecturally distinct than another modern verse/chorus [which recent cycles leaned on]; lead/backing "ooh-ooh" call-and-response is the genre engine, and "maybe the third cup was luck" is a lovely callback. A's wit was marginally denser and its arc marginally fuller/duration-safer, but B's arc is adequate [82 bars, buoyant 143, full sung content across A1/A2/middle-eight/A3 + textured vibe break + combo close] and its form is the fresher, more idiomatic realization). Lane: YÉ-YÉ CHAMBER-POP (bright 1960s female beat-pop, vibraphone-as-hero) — never used in v462-v523; warm/playful/intimate FEMALE — a fresh register contrasting v523's cold heavy post-metal male AND the recent belted (v522) / icy (v520) / ornate (v518) female cluster. Distinct from v518 baroque-pop by foregrounding vibraphone-hero + sunny-playful mood + brushed-swing (vs baroque's ornate harpsichord-hero + melancholic-brittle).
+
+  HIGH VARIANCE: intimate PLAYFUL mid-range FEMALE with a wink (charming/conversational — distinct from the recent females: powerhouse gospel belt v522, icy coldwave v520, brittle indie baroque v518 — a fresh non-belted register), buoyant 143 BPM (breaks from the recent 108/124/94/112/132 cluster; novelty gap 190, a bright yé-yé beat-pop tempo), G MAJOR (bright/sunny, novelty gap 22; not enharmonic to any recent key), warm 60s small-combo production. Vocal-gender alternation M/F held across v477-v524 (v523 male -> v524 female).
+
+  RECONCILIATION: took LANE + instruments from the researcher (yé-yé chamber-pop: vibraphone [hero], brushed kit + walking upright bass [swing pocket], acoustic guitar, pizzicato strings, harpsichord counterline, stacked "ooh-ooh" backing, woodwind bloom). Took BPM 143 (novelty gap 190, bright yé-yé beat-pop) + G major (novelty gap 22). Novelty's instrument pick WAS vibraphone (confirmed the hero). Dropped the researcher's "strip to near-silence" half-bar break (truncation risk) -> the [Vibraphone Break] stays TEXTURED + bar-counted. Warm resolved combo-tag close (not a fade/near-silence). CULTURAL: lyrics fully ENGLISH (avoids the French place-name/musette trigger the researcher flagged; still genre-authentic — yé-yé had non-French practitioners), no place-names. Intimate playful SUNG (not belted/deadpan). Non-modulation full-color climax.
+
+  HOOK: "Borrowed my nerve from the second cup" (hook-writer 19/25) — a hyper-specific object (the SECOND cup = wry self-persuasion, the first wasn't enough), uncopyable. Contour: pentatonic 5-6-5-3-1 arc in G major, a characteristic 5->6 UPWARD step on "nerve" (the syncopated yé-yé lift), stepwise descent to the tonic G on "cup"; the vibraphone answers with a descending Gmaj6 arpeggio and stacked "ooh-ooh" backing vocals bloom after. Refrain callbacks: "The one that told me to look up"; "Maybe the third cup was luck." Witty verse writing: "I rehearsed the casual lean against the door / Then tried it twice and nearly lost the floor"; "You looked at me the way a person looks at weather / Like you couldn't tell exactly what was in it." Contrasting middle-eight (the umbrella).
+
+  ARCHITECTURE — genuine 1960s-pop AABA with a contrasting middle-eight, lead/backing call-and-response engine, non-modulation full-color climax: [Intro] vibraphone states the theme over guitar + brushed kit + upright bass (buoyant, textured) -> [A1] first verse-refrain to the hook, backing "ooh-ooh"s answering -> [A2] second verse-refrain, vibraphone + backing fuller -> [Middle-Eight] a CONTRASTING new melody + new wry scene (the umbrella), harpsichord counterline + pizzicato strings -> described [Vibraphone Break] (bright textured vibraphone lead over the swing pocket + pizzicato strings, 10 bars — duration lever, never silent) -> [A3] final refrain in FULL color (vibraphone + woodwinds + strings + harpsichord + stacked "ooh-ooh"s, cumulative, no key change) -> [Outro] vibraphone + guitar + upright bass resolve a warm bright G-major cadence (NOT a fade-to-silence, NOT a near-silence break, NOT a mid-phrase cut).
+
+  DURATION GUARD (learnings): yé-yé is a light small-combo lane (sparseness risk) — countered with full sung content across all four lyric sections (A1/A2/middle-eight/A3) + a described textured 10-bar vibraphone break (never silent) + every section textured (swing pocket + vibraphone always sounding, NO near-silence break) + a warm resolved combo close (no fade). Buoyant 143 BPM. ~82 bars, targets ~2:50-3:15. Genuinely sung (not deadpan).
+
+  INSTRUMENTS: VIBRAPHONE (the melodic hero — states the theme, answers each refrain with a Gmaj6 arpeggio, takes the 10-bar break) + light brushed-drum KIT + walking upright BASS (buoyant swing pocket) + acoustic GUITAR strums + pizzicato STRINGS + light HARPSICHORD counterline (highlighted in the middle-eight) + stacked backing "ooh-ooh" VOCALS + woodwind bloom + intimate playful female lead. BPM 143 (novelty gap 190) and G major (novelty gap 22).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — checked BOTH inline style negatives AND exclude_styles): NEITHER contains vocals/singing/vibraphone/harpsichord/strings/guitar/bass/drums/pop/chamber-pop/jazz (all core / parent). Style inline negatives: no distorted guitars, no pipe organ, no synthesizers, no rock drums, no auto-tune (all genuine drift — "no distorted guitars" is fine, the guitar is clean acoustic). Exclude_styles: only drift (EDM/trap/techno/dubstep/metal/hard-rock/hip-hop/drill/country/accordion-musette/gabber/hardstyle/Arabic/world/autotune/ambient/lounge/bossa-nova/new-age/free-jazz/atonal/electronic — accordion-musette excluded per the researcher's flag to avoid the French-cliché trigger). English only, no place-names, no nationality/ethnicity words, no artist names. Sung lines clean of leaked stage-directions/instrument-cues (the vibraphone/strings answers are in bracket labels only); backing "(ooh-ooh)" are genuine sung vocables.
+
+  Style char count: 945.
+
+tags:
+  - yeye
+  - yeye-chamber-pop
+  - 1960s-beat-pop
+  - vibraphone-hero
+  - harpsichord
+  - pizzicato-strings
+  - brushed-kit
+  - walking-upright-bass
+  - acoustic-guitar
+  - backing-oohs
+  - female-vocal
+  - intimate-playful
+  - 143bpm
+  - g-major
+  - aaba-middle-eight
+  - call-and-response
+  - charming-vignette-scene
+  - non-modulation-climax
+  - warm-combo-close
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
