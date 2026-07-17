@@ -1,0 +1,122 @@
+name: "kuduro-v516"
+version: 516
+title: "Tambourine516"
+instrumental: false
+vocal_gender: female
+
+style: "Bright high-energy kuduro diva-pop dance: a hard electronic downbeat, a breath of gap, then a stutter on the offbeat — locomotive propulsion that moves the body before the mind agrees. Punchy synth-bass stabs lock into the pocket; bright cowbell and hand-percussion hits ring across the groove; warm bright synth pads shimmer underneath. The voice is a genuine bright female diva — held notes, wide upward leaps, a real singable melodic line riding the stutter-kick, not a chant, not a shout. B major, 128 BPM. Polished studio mix with deep low-end definition and wide stereo stage. The chorus is a cumulative non-modulation drop: full stacked groove, synth pads at peak, cowbell front and bright, harmonized echoes cascading home. The close locks the stuttered kick and bass steady in the pocket — a controlled triumphant finish, not a fade. No guitars, no rock drums, no acoustic instruments, no orchestral strings, no pipe organ."
+
+lyrics: |
+  [Intro: stuttered kick and cowbell groove, 8 bars]
+
+  [Verse 1: bright diva over stutter-kick and bass stabs]
+  The signal starts at the base of my neck
+  A half-second tip and I'm already set
+  Feet barely touching, weight leaning forward
+  The room blurs to light and the beat keeps order
+
+  The body decides before the mind can vote
+  Every single stutter hits a different note
+  I'm not thinking now, I'm just following through
+  The groove pulls me somewhere my worries never knew
+
+  [Pre-Chorus: synth pads swelling in, building]
+  Something moves me low
+  Something bright and slow
+  Then the drop arrives
+  And every cell comes alive
+
+  [Chorus: full drop, bright sung hook]
+  Shake me like a tambourine
+  Like a tambourine
+  Shake me like a tambourine
+  Bright and ringing, bright and clean
+  Shake me, shake me, can't you see
+  This body wants to be free
+  Shake me like a tambourine
+
+  [Verse 2: fuller groove, diva melodic line lifting]
+  Loose in the limbs and the light's going gold
+  The stutter hits harder, I'm letting go of control
+  I was holding a thought but the cowbell cleared it
+  Whatever I carried — the kick just cleared it
+
+  A locomotive forward, never looking back
+  The synth-bass stabs keep me on the track
+  I ride every gap, I ride every beat
+  The floor falls away underneath my feet
+
+  [Pre-Chorus: swell building to the drop]
+  Something moves me low
+  Something bright and slow
+  Then the drop arrives
+  And every cell comes alive
+
+  [Chorus: second full drop, stacked groove]
+  Shake me like a tambourine
+  Like a tambourine
+  Shake me like a tambourine
+  Bright and ringing, bright and clean
+  Shake me, shake me, can't you see
+  This body wants to be free
+  Shake me like a tambourine
+
+  [Percussion and Synth-Stab Break: stuttered kick, cowbell, bass stabs, pad swells — groove locked, never silent, 14 bars]
+
+  [Final Chorus: cumulative stack, harmonized backing echoes on descent]
+  Shake me like a tambourine
+  Like a tambourine
+  Shake me like a tambourine
+  Bright and ringing, bright and clean
+  Shake me, shake me, can't you see
+  This body wants to be free
+  Shake me like a tambourine
+  (tam-bou-rine)
+  (tam-bou-rine)
+  Shake me like a tambourine
+
+  [Outro: stuttered kick and bass locked in pocket, controlled close, 8 bars]
+  [End]
+
+exclude_styles: "rock, metal, acoustic guitar, folk, country, jazz, classical, orchestral strings, blues, reggae, lo-fi, ambient drone, trap, Arabic, world music, hard autotune, guitar solo, heavy metal, punk, grunge, indie rock, bossa nova, flamenco, opera"
+
+notes: |
+  v516 TOURNAMENT WINNER (inline-judged ~85/100; beat sibling candidate B "hook-bookended cumulative momentum-build" — both clean on the electronic/synth negatives audit and both had genuinely SUNG melodic hooks [not chant], but A won on THREE counts that matter most for this chant-prone lane: (1) WRITING DEPTH — A has two full 8-line verses with vivid varied kinetic imagery ["I was holding a thought but the cowbell cleared it"; "The floor falls away underneath my feet"] and a chorus that DEVELOPS the hook into a full melodic section, whereas B's verses were thin 4-liners and its chorus line "Hold the note and let the stutter hit" was on-the-nose [describing the music, not an image]; (2) SUNG-MELODIC SAFETY — A carries more genuinely-sung melodic content, the key insurance against the chant-short-render failure this lane risks; (3) DURATION insurance. B's hook-bookended cumulative architecture was more novel but that single axis didn't overcome A's stronger execution). Lane: KUDURO DIVA-POP (stuttered-kick electronic dance + pop-diva) — never used in v462-v515; danceable/energetic FEMALE — contrast to v515's raw fuzz-rock male; reconciled to a MID-danceable SUNG diva-pop to distance it from v510's fast-electronic-female jungle family (kuduro's stuttered-kick locomotion + cowbell + synth-bass-stabs is a distinct rhythm/palette from jungle's Amen-breakbeat + siren-stabs). Our audience likes danceable.
+
+  HIGH VARIANCE: bright genuinely-SUNG FEMALE diva (kinetic/joyful — distinct from the recent females: warm philly-soul lead v514, confessional-to-belted torch v512, soaring-legato jungle v510), mid-danceable 128 BPM (breaks from the recent 146/103/141/75/119 cluster; novelty gap 34, the freshest in kuduro's 128-135 band), B MAJOR (bright/golden/uplifting, novelty gap 25 — not enharmonic to any recent key), bright electronic-dance production. Vocal-gender alternation M/F held across v477-v516 (v515 male -> v516 female).
+
+  RECONCILIATION (heavy — the researcher couldn't run a live WebSearch [API overloaded, fell back to training knowledge] and the concept carried three risks): (1) kuduro's traditional CHANT/shout vocal is a short-render risk -> leaned fully into the "diva pop" fusion: a genuinely SUNG bright melodic hook + sung verses, NOT chant; (2) the researcher's arc_hint had a HALF-STEP KEY LIFT (penalized) -> dropped -> non-modulation cumulative-density climax; (3) its "strip to kick + voice only" exposed moment (near-silence truncation risk) -> replaced with a TEXTURED percussion/synth-stab break (kick + cowbell + bass + pad swells, never silent). Took BPM 128 (genre needs 128-135; novelty's top offer was 124, so took the freshest in-idiom value in the kuduro band, clear of banned 141/146) + B major (novelty gap 25). Dropped the novelty's steelpan (off-genre). Lyrics English, motion/body theme, NO Portuguese, NO place-names, NO artist names.
+
+  HOOK: "Shake me like a tambourine" (hook-writer 21/25) — the body asking to be shaken like its own driving hand-percussion instrument (self-specific to the kuduro cowbell/hand-perc texture). Contour: tonic ^1 (B) on "Shake me", perfect-fifth leap up to ^5 (F#) on "like a", stepwise cascade ^4-^3-^2-^1 across "tam-bou-RINE" landing on a long held B; the wide upward LEAP is the melodic event that FORCES genuine singing (flatten it and the hook dies — it cannot be chanted), the descent is the satisfaction, "RINE" held across the stutter-kick re-entry. The chorus develops it: "Bright and ringing, bright and clean / Shake me, shake me, can't you see / This body wants to be free." Kinetic verse writing: "The signal starts at the base of my neck / A half-second tip and I'm already set"; "The body decides before the mind can vote."
+
+  ARCHITECTURE — classic dance verse/pre-chorus/drop-chorus song, non-modulation cumulative-density climax: [Intro] stuttered kick + cowbell groove (textured) -> V1 (bright sung diva over stutter-kick + bass stabs, 8-line) -> Pre-Chorus (pads swelling) -> Chorus/Drop (SUNG hook, full stacked groove, cowbell bright) -> V2 (fuller, 8-line) -> Pre-Chorus -> Chorus/Drop -> described [Percussion and Synth-Stab Break] (stuttered kick + cowbell + bass stabs + pad swells, groove locked, 14 bars — textured duration lever, never silent) -> [Final Chorus] cumulative stack + harmonized backing echoes of "(tam-bou-rine)" on the descent, no key change -> [Outro] stuttered kick + bass locked in the pocket, controlled triumphant close (NOT a fade-to-silence, NOT a mid-phrase cut, NOT dissolution).
+
+  DURATION GUARD (learnings): the genre's chant vocal renders short, so this leans on a genuinely SUNG melodic hook + two full 8-line verses + developed choruses + a described textured 14-bar break (never silent) + every section textured (groove always driving) + a driven groove close. 128 BPM danceable band. ~96 bars.
+
+  INSTRUMENTS: STUTTERED chopped-KICK groove (hard electronic downbeat, gap, offbeat stutter — described sonically, NO brand/model names) + punchy SYNTH-BASS stabs + bright COWBELL/hand-percussion hits + warm bright SYNTH PADS + bright female diva vocal. BPM 128 (novelty gap 34) and B major (novelty gap 25).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v513 lessons): does NOT exclude vocals/singing/electronic/synth/synthesizer/dance/kuduro/electronic-dance/drum-machine (all core to this ELECTRONIC DANCE lane — excluding "electronic"/"synth" would be the fatal v502/v513-class mistake). Excludes only genuine drift (rock/metal/acoustic-guitar/folk/country/jazz/classical/orchestral-strings/blues/reggae/lo-fi/ambient-drone/trap/Arabic/world/hard-autotune/guitar-solo/heavy-metal/punk/grunge/indie-rock/bossa-nova/flamenco/opera). Style negatives: no guitars, no rock drums, no acoustic instruments, no orchestral strings, no pipe organ. English only, no place-names, no nationality/ethnicity words, no Portuguese/other-language markers, no artist names. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (v503/v505/v508/v511-siblingB/v514-siblingB lessons) — the break is a properly described lyric-free bracket; "(tam-bou-rine)" is a genuine sung backing vocable.
+
+  Style char count: 932.
+
+tags:
+  - kuduro
+  - diva-pop
+  - electronic-dance
+  - female-vocal
+  - sung-not-chant
+  - stuttered-kick
+  - synth-bass-stabs
+  - bright-cowbell
+  - synth-pads
+  - b-major
+  - 128bpm
+  - kinetic-joy-scene
+  - verse-prechorus-drop
+  - cumulative-density-climax
+  - non-modulation
+  - driven-groove-close
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
