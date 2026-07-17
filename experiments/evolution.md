@@ -534,6 +534,7 @@ mindmap
 | 517 | Borrowed517 | Piedmont blues crooner — alternating-thumb fingerpicked guitar, call-and-response harmonica, cumulative-density climax, resolved cadence | C major | 89 | fingerpicked acoustic guitar (alternating-thumb) + call-and-response harmonica + walking upright bass (over light brushed snare) |
 | 518 | Spine518 | baroque/chamber-pop — harpsichord-as-melodic-hero, string-quartet pizzicato accents, harpsichord-return climax, resolved cadence | E minor | 123 | harpsichord (melodic hero) + string quartet (pizzicato accent) + jangly clean electric guitar (over bass, indie drum kit, reverberant piano, French horn/oboe) |
 | 519 | Careful519 | Northern Soul rare-groove — relentless stomping pocket, lead/gospel-choir call-and-response, brass-and-organ dancers' break, non-modulation cumulative climax | E-flat major | 132 | punchy brass stabs (trumpet + tenor sax) + Hammond organ/clavinet + walking bass (over snare-heavy stomp with tambourine/handclaps and gospel backing choir) |
+| 520 | Bonewhite520 | coldwave-diva vocal — icy minimal post-punk, melodic-bass-foreground, tritone hook, cumulative-return climax, cold-stop close | F-sharp minor | 112 | forward-mixed melodic electric bass (foreground hero) + chorus-flanged clean electric guitar + cold analog synth pads (over metronomic dry drum machine) |
 
 ## Next-cycle priorities
 

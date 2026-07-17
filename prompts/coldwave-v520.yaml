@@ -1,0 +1,90 @@
+name: "coldwave-v520"
+version: 520
+title: "Bonewhite520"
+instrumental: false
+vocal_gender: female
+
+style: "Icy minimal coldwave in F-sharp minor, 112 BPM. A high cool female vocal sung with haunting melodic precision over a forward-mixed melodic electric bass that owns the foreground, a metronomic dry drum machine, chorus-flanged clean electric guitar thin and crystalline as cold space, and analog synth pads at distance. Polished studio mix, deep low-end definition. The bass is the lead voice — stating the hook in the intro, answering the vocal's tritone crunch with a half-step glide, driving every section with a clear singing tone. Vocal sits high and detached: genuinely melodic and cool, not warm-belted. Two textured verses and escalating choruses lead to a cold turn stripped to bass, crystalline guitar, and drum machine — pulse alive — before the full bed returns in a cumulative final chorus, vocal closer and higher. Cold stop: drum machine, bass, and pad holding the chill. No country, no folk, no metal, no trap, no orchestral strings."
+
+lyrics: |
+  [Intro: bass hook, cold pad drone, 8 bars]
+
+  [Verse 1: cool vocal, guitar accents]
+  I filed the edges off by hand
+  One nerve at a time, one steady plan
+  The camera still runs behind my eyes
+  Recording every move in cold white light
+
+  [Chorus: bass glide, guitar sustain]
+  One nerve, bone-white
+  Held in the cold, held in the cold
+  One nerve, bone-white
+  The only thing I couldn't fold
+
+  [Verse 2: fuller bed, guitar forward]
+  I keep the distance like a second skin
+  No warmth gets through, no warmth gets in
+  But something shifts behind the glass tonight
+  A single crack where feeling cuts the white
+
+  [Chorus: bass glide, guitar holds]
+  One nerve, bone-white
+  Held in the cold, held in the cold
+  One nerve, bone-white
+  The only thing I couldn't fold
+
+  [Cold Turn: bass, guitar, machine, textured, 10 bars]
+
+  [Final Chorus: full bed, vocal closer, 16 bars]
+  One nerve, bone-white
+  Held in the cold, held in the cold
+  One nerve, bone-white
+  Still holding, still cold, still whole
+
+  [Outro: bass, pad, cold stop, 6 bars]
+  [End]
+
+exclude_styles: "EDM, big-room house, techno, four-on-the-floor, trap, dubstep, death metal, hard rock, pop punk, orchestral strings, folk, country, hip hop, reggae, Arabic, world music, autotune, gabber, indie pop, shoegaze, ambient drone"
+
+notes: |
+  v520 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate B "hypnotic pulse-and-accretion with bass-ostinato spine" on the SPARSENESS/DURATION axis pre-flagged for this minimal lane — B's refrains were just the 2-word hook repeated ["one nerve, bone-white" x2/x3], only two short verses, and ~30 instrumental bars [intro + 14-bar break + outro], a genuinely sparse arc that is coldwave's short-render danger [B's own self-judge docked the duration ceiling]. A carries substantially more sung melodic content [two full 4-line verses + developed 4-line choruses], the safer render + richer writing ["a single crack where feeling cuts the white" nails the exposed-nerve moment]. B's hypnotic-accretion was the more novel FORM, but for a lane where sparseness = truncation, A's fuller melodic arc is the correct choice. Both clean on the both-sides negatives audit + leak-free). Lane: COLDWAVE-DIVA VOCAL (icy minimal post-punk offshoot) — never used in v462-v519; moody/dark/atmospheric FEMALE — the freshest gap, contrast to v519's uptempo euphoric soul-stomp male, and distinct from the used darkwave/new-wave/EBM (coldwave is icier, more minimal, melodic-bass-forward).
+
+  HIGH VARIANCE: high detached cool FEMALE (icy/controlled/haunting — distinct from the recent females: brittle indie baroque v518, bright kuduro diva v516, warm philly-soul v514), mid-metronomic 112 BPM (breaks from the recent 132/123/89/128/146 cluster; novelty gap 89, chosen over the bigger-gap-but-slower 97 because the steadier forward pulse counters coldwave's sparseness/duration risk), F-SHARP MINOR (cool/icy/introspective, novelty gap 23 — explicitly coldwave-appropriate; not enharmonic to any recent key; contrasts v518's E minor + v515's D minor), icy minimal post-punk production. Vocal-gender alternation M/F held across v477-v520 (v519 male -> v520 female).
+
+  RECONCILIATION (coldwave's "minimalism/climax-by-subtraction" fights the anti-sparseness duration rule): took LANE + instruments from the researcher (coldwave: metronomic dry drum machine, forward-mixed melodic electric bass [foreground hero], chorus-flanged clean electric guitar, cold analog synth pads, high detached female). Took BPM 112 + F-sharp minor from the picker. Dropped the novelty's bass clarinet (woodwind muddies coldwave's electronic-minimal purity). Kept the "cold turn" TEXTURED + bar-counted (bass + guitar + machine still pulsing, NOT empty); made the climax a cumulative RETURN (full bed + vocal higher/closer), NOT climax-by-subtraction; sustained textured cold close (machine + bass + pad holding into a controlled cold stop, NOT a fade/hanging note). Vocal genuinely SUNG melodic (not deadpan — deadpan renders short). Lyrics English, abstract distance/composure-as-armor theme, NO militaristic/occult imagery (researcher flag), NO place-names. Non-modulation climax.
+
+  HOOK: "one nerve, bone-white" (hook-writer 21/25) — an ascending perfect FIFTH on "one nerve" (F#4->C#5) then a half-step TRITONE crunch down on "bone-white" (C#5->B#4) — the interval MODELS the exposed-nerve content; the melodic BASS answers with a half-step glide, chorus-flanged guitar enters on the "white" sustain. "bone-white" is an anatomically precise cold color-image. Developed into full choruses: "Held in the cold, held in the cold / The only thing I couldn't fold" -> resolves "Still holding, still cold, still whole." Composure-as-armor verse writing: "I filed the edges off by hand / One nerve at a time, one steady plan"; "The camera still runs behind my eyes"; "A single crack where feeling cuts the white" (the exposed nerve).
+
+  ARCHITECTURE — minimal coldwave verse/chorus song, non-modulation cumulative-RETURN climax: [Intro] metronomic dry drum machine + melodic bass states the hook figure, cold pad drone (textured) -> V1 (high detached vocal over bass + pad, glassy guitar accents) -> Chorus (hook, bass half-step glide + glassy guitar answering the tritone) -> V2 (fuller, guitar forward) -> Chorus -> described [Cold Turn] (strip to melodic bass + crystalline guitar + metronomic machine, pulse alive, 10 bars — the emptiest MOMENT but still TEXTURED, never silent) -> [Final Chorus] the full cold bed RETURNS with the vocal higher/closer-mixed, cumulative density, no key change (climax by RETURN, not subtraction) -> [Outro] sustained cold close, machine + bass + pad holding the chill into a controlled cold stop (NOT a fade-to-silence, NOT a lone hanging reverb note, NOT a mid-phrase cut).
+
+  DURATION GUARD (learnings — CRITICAL for this minimal lane, sparseness = truncation): full melodic SUNG arc (two 4-line verses + three developed choruses) + a described textured 10-bar cold turn (bass + guitar + machine, NEVER empty) + every section textured (drum machine + bass always pulsing, no dissolution) + a sustained cold close. The climax is a cumulative RETURN (adding the full bed back), NOT climax-by-subtraction. 112 BPM metronomic pulse + full textured arc. Vocal melodic (not deadpan). ~72 bars.
+
+  INSTRUMENTS: metronomic dry DRUM MACHINE (unwavering cold pulse) + forward-mixed melodic electric BASS (the melodic foreground hero — states the hook, answers the tritone with a half-step glide, drives every section) + chorus-flanged clean electric GUITAR (thin/crystalline, cold reverbed space) + cold analog SYNTH PADS (at distance) + high detached cool female vocal. BPM 112 (novelty gap 89) and F-sharp minor (novelty gap 23).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v519-siblingA lessons; checked BOTH the inline style negatives AND exclude_styles): NEITHER contains vocals/singing/synth/synthesizer/electronic/drum-machine/bass/guitar/electric-guitar/post-punk/new-wave/coldwave/darkwave (all core / parent — no "no vocals" anywhere, the v519-siblingA fatal mistake avoided). Style inline negatives: no country, no folk, no metal, no trap, no orchestral strings (all genuine drift). Exclude_styles: only drift (EDM/big-room-house/techno/four-on-the-floor/trap/dubstep/death-metal/hard-rock/pop-punk/orchestral-strings/folk/country/hip-hop/reggae/Arabic/world/autotune/gabber/indie-pop/shoegaze/ambient-drone — none are coldwave-core; coldwave != shoegaze/indie-pop/ambient). English only, no place-names, no nationality/ethnicity words, no artist names, no militaristic/occult imagery. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (the hook contour lives in style/notes, not lyrics; the cold turn is a properly described lyric-free bracket).
+
+  Style char count: 947.
+
+tags:
+  - coldwave
+  - coldwave-diva
+  - minimal-post-punk
+  - icy-minimal
+  - female-vocal
+  - high-detached-cool-vocal
+  - melodic-bass-foreground
+  - chorus-flanged-guitar
+  - drum-machine
+  - analog-synth-pads
+  - f-sharp-minor
+  - 112bpm
+  - tritone-hook
+  - behind-glass-scene
+  - verse-chorus-song
+  - cold-turn
+  - cumulative-return-climax
+  - non-modulation
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
