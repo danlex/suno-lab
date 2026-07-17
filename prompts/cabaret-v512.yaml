@@ -1,0 +1,98 @@
+name: "cabaret-v512"
+version: 512
+title: "Evening512"
+instrumental: false
+vocal_gender: female
+
+style: "Dark cabaret torch song, candlelit and theatrical, a confessional late-night nocturne with a gothic undercurrent and gallows wit. The arrangement is bare but textured: upright piano anchors and carries melodic lines of its own, accordion breathes between vocal phrases, cello bows long mournful arcs underneath, brushed snare and upright bass hold the slow pulse, and a muted trumpet ghosts the melody from the shadows. A minor, 75 BPM. The female voice enters low and confessional, genuinely sung on a real melody — warm, intimate, never spoken-word — then rises verse by verse through a full ensemble, cracking finally into a belted forte peak at the climax, no key change, pure dynamic force. The close is a sustained ring-out: A-minor chord held by cello and piano, accordion fading last, not clipped. Polished studio mix with warm tape saturation and tight chamber reverb. No guitars, no rock drums, no pipe organ, no synthesizers, no autotune."
+
+lyrics: |
+  [Intro: solo upright piano, candlelit, 8 bars]
+
+  [Verse 1: low confessional vocal, piano and faint cello, 16 bars]
+  Good evening, no one
+  The second glass still sweating on the shelf
+  I've turned the mirror to the wall
+  Not grief — just good manners, nothing else
+  The candle keeps its counsel in the dark
+  I set two cups out of a kind of habit
+  There is a word for what I'm doing here
+  I've simply chosen not to have it
+
+  [Refrain: intimate, accordion enters, 10 bars]
+  Good evening, no one
+  Pull up a chair, I've left the good one free
+  Good evening, no one
+  I'm finding this arrangement suits me
+
+  [Verse 2: accordion and cello fuller, brushed snare and upright bass join, 16 bars]
+  The clock has learned to hold its tongue tonight
+  I find that very thoughtful of the hour
+  Your coat still hangs beside the door, I know
+  I leave it there — it keeps me feeling taller
+  I've practised all the things I meant to say
+  They were so sharp, so perfectly delivered
+  But you are not here to be cut by them
+  So I've kept them — a collection, lacquered, glittered
+
+  [Refrain: fuller ensemble, muted trumpet ghosting, 10 bars]
+  Good evening, no one
+  You always did know how to fill a room
+  Good evening, no one
+  I'm getting used to all this extra room
+
+  [Stripped Bridge: muted trumpet over sparse piano and cello, 10 bars]
+
+  [Final Refrain: full ensemble swell, belted peak on NO ONE, forte, 12 bars]
+  Good evening — NO ONE
+  I said it loud enough to hear it land
+  Good evening — NO ONE
+  I think I finally understand
+
+  [Outro: ensemble sustains on A minor, cello and piano ringing, accordion fading last, 10 bars]
+
+  [End]
+
+exclude_styles: "EDM, trap, house, techno, dubstep, drill, hard rock, heavy metal, distorted guitar, synthesizer, electronic production, programmed drums, autotune, lo-fi, hip hop, pop punk, shoegaze, ambient drone, new age, world music, Arabic, tribal, free jazz, atonal, experimental noise"
+
+notes: |
+  v512 TOURNAMENT WINNER (inline-judged ~83/100; beat sibling candidate B "through-composed theatrical monologue" — B tied on raw writing quality but carried a negative-prompt contradiction [exclude_styles listed "musical theatre belt" while B's climax IS a belted peak — a v502-class soft contradiction that could dampen the payoff — plus tango/klezmer, which are accordion-adjacent], AND B's through-composed single-directional build echoes v509's continuous-build DNA, whereas A's CYCLIC verse/refrain-with-escalating-dynamics is a genuine architectural contrast to the recent continuous-build cycles [v509 explicitly had "no chorus cycling"]. A is clean out of the box; both sibling lyric sets were leak-free). Lane: DARK CABARET TORCH (Weimar-noir torch song, theatrical/confessional/gallows-wit) — never used in v462-v511; slow/moody/organic/chamber FEMALE — max contrast to v511's warm mid-tempo danceable guitar-led soukous MALE, AND deliberately breaks the recent fast/fierce/electronic FEMALE cluster (v510 jungle, v508 vogue-house belt, v504 freestyle) with a slow torch ballad.
+
+  HIGH VARIANCE: low-confessional-to-belted FEMALE torch voice (theatrical/dark-witty — distinct from the recent females: soaring-legato jungle v510, fierce vogue belt v508, freestyle fierce v504), very slow 75 BPM (breaks from the recent 119/170/87/134/71 cluster; novelty gap 320), A MINOR (moody jazz-standard register, novelty gap 41 — not enharmonic to any recent key), bare candlelit chamber/torch production (a live acoustic ensemble, opposite of every recent electronic/club cycle). Vocal-gender alternation M/F held across v477-v512 (v511 male -> v512 female).
+
+  RECONCILIATION: took LANE + instruments from the researcher (dark cabaret torch: upright piano, accordion, cello, brushed snare + upright bass, muted trumpet). Took BPM 75 + A minor from the novelty-picker (freshest in-idiom picks; gaps 320 & 41). Dropped the researcher's "cut to silence" ending (truncation risk) -> replaced with a sustained A-minor ring-out. Kept the stripped bridge TEXTURED (muted trumpet + piano + cello, bar-counted) not silent. Reconciled the researcher's Sprechgesang tendency to a genuinely SUNG melodic vocal (deadpan/talky renders short). Reconciled the Weimar cultural context to an ABSTRACT English torch treatment (no Weimar/historical/political references, no goth-rock/deathrock descriptors that trigger metal/distortion). Considered the novelty's cor anglais suggestion but OMITTED it (the stripped bridge is already textured with trumpet/piano/cello — a sixth color would crowd the one breath before the climax). Non-modulation dynamic climax (belted "NO ONE" at the same pitch but forte, NO half-step lift).
+
+  HOOK: "Good evening, no one" (hook-writer 21/25) — a theatrical greeting delivered to an empty room; the hook IS the premise, the gallows wit is structural (warmth followed by void). Contour: ascending stepwise 1-2-3 on "Good eve-ning" (warm, theatrical), a loaded full-beat REST (the silence is the melodic fingerprint), then "no one" drops a minor sixth to a low cold chest note. Repeated as a true refrain, escalating dynamically each pass: murmured/intimate first, fuller with muted trumpet ghosting second, then belted forte at the [Final Refrain] ("NO ONE" uppercase = the dynamic peak marker, on the genuine sung word — NOT a stage-direction leak). Gallows-wit verse writing: "They were so sharp, so perfectly delivered / But you are not here to be cut by them / So I've kept them — a collection, lacquered, glittered"; "You always did know how to fill a room / I'm getting used to all this extra room."
+
+  ARCHITECTURE — cyclic torch verse/refrain build with escalating dynamics, non-modulation dynamic climax: [Intro] solo upright piano (candlelit, sparse but textured) -> V1 (low confessional, piano + faint cello) -> Refrain (intimate, accordion enters) -> V2 (accordion + cello fuller, brushed snare + upright bass join the pulse) -> Refrain (fuller, muted trumpet ghosting) -> described [Stripped Bridge] (muted trumpet over sparse piano + cello, 10 bars — textured breath before the crack, NOT silent) -> [Final Refrain] full ensemble swell + belted "NO ONE" peak (dynamic climax, no key change) -> [Outro] ensemble sustains a held A-minor chord, cello + piano ringing, accordion fading LAST (sustained ring-out, NOT a cut-to-silence, NOT a cold stop). Cyclic escalation is a deliberate contrast to v509's single-continuous-build.
+
+  DURATION GUARD (learnings): full melodic SUNG arc (two 8-line verses + three escalating refrains) + a described textured 10-bar stripped bridge (never silent/empty) + every section textured (piano/instruments always sounding, no dissolution) + a sustained ring-out close (no fade-to-silence, no hanging single reverb note). 92 bars. Slow 75 BPM renders LONG with a full textured arc (the truncation cause is sparseness/dissolution, NOT slow tempo — cf. v507@71->3:58/7:59, v509@87->5:09/4:45). Genuinely sung melody (not deadpan/Sprechgesang) to hold length.
+
+  INSTRUMENTS: upright PIANO (anchor + melodic hero, alone in the intro, under every section) + ACCORDION (breathes between phrases, fades last) + CELLO (long mournful bowed arcs) + brushed SNARE and upright BASS (slow torch pulse from V2) + muted TRUMPET (ghosts the melody, carries the bridge vamp). All body/chamber voices. BPM 75 (novelty gap 320) and A minor (novelty gap 41); cor anglais suggestion omitted (would crowd).
+
+  NEGATIVES AUDIT (feedback_negative_prompt_contradiction — v502/v507/v509/v511 lessons): does NOT exclude vocals/singing/piano/accordion/cello/trumpet/bass/brushed-drums (all core), and does NOT exclude the genre's parent categories (jazz, cabaret, torch, chamber, chanson). Excludes only genuine drift (EDM/trap/house/techno/dubstep/drill/hard-rock/metal/distorted-guitar/synth/electronic-production/programmed-drums/autotune/lo-fi/hip-hop/pop-punk/shoegaze/ambient-drone/new-age/world/Arabic/tribal/free-jazz/atonal/experimental). NO goth-rock/deathrock/punk descriptors (they trigger metal). English only, no place-names, no nationality/ethnicity words, no Weimar/historical references. Sung lines clean of leaked stage-directions/instrument-cues/music-theory (v503/v505/v508/v511-siblingB lessons) — the stripped bridge is a properly described lyric-free bracket; "NO ONE" uppercase is the genuine sung word marked for belt emphasis, not a cue.
+
+  Style char count: 949.
+
+tags:
+  - dark-cabaret-torch
+  - torch-song
+  - upright-piano
+  - accordion
+  - cello
+  - muted-trumpet
+  - upright-bass
+  - brushed-snare
+  - 75bpm
+  - a-minor
+  - female-vocal
+  - confessional-to-belted
+  - candlelit-scene
+  - gallows-wit
+  - cyclic-verse-refrain
+  - dynamic-non-modulation-climax
+  - chamber-acoustic
+  - duration-3min
+  - research-driven
+  - new-lane
+  - high-variance
