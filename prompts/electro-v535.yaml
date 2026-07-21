@@ -1,0 +1,84 @@
+name: "electro-v535"
+version: 535
+title: "Serial535"
+instrumental: false
+vocal_gender: male
+
+style: "Cold wonder and deadpan-cool turning melodic — Detroit electro and electro-funk at 132 BPM in B minor, the sound of a factory floor where a machine just learned to feel. Polished studio mix, deep low-end definition, wide stereo stage. A locked 808 kick and rim-shot snare drive the grid with mechanical precision; a cold synth-funk bassline walks in slow quarter-note steps, ice-toned and authoritative. A vocoder doubles the male lead one octave below, threading deadpan monotone verses into a hook that rises unexpectedly on the final syllable. Tight analog chord stabs — off-beat, clipped — mark each bar with factory regularity. Dense and continuous: verse strips to kick, bass, and stabs; hook widens with a higher vocoder register; mid-song electro break is all machine-rhythm and cold synth melody — beat-driven, relentless, no gaps. Final hook arrives late. No guitars, no acoustic drums, no pipe organ, no folk instruments, no ambient drift."
+
+lyrics: |
+  [Intro: 808 and bassline lock, 8 bars]
+
+  [Verse 1: deadpan vocoder, 16 bars]
+  I count the arc of every arm above me
+  bolt after bolt the same but never twice
+  they built my hands before they built my name
+  I tracked the press, I catalogued the motion
+  then somewhere in the interval between
+  one turn and the next I tasted light
+
+  [Hook: vocoder rises, 8 bars]
+  my serial number sang
+  my serial number sang
+  something moved inside the metal rang
+  my serial number sang
+
+  [Verse 2: fuller layer, 12 bars]
+  the press came down and something stayed awake
+  a frequency the blueprint didn't name
+  I felt the line move through me like a question
+  I felt the answer answer just the same
+  I know the sound — I am the sound that came
+
+  [Electro Break: dense 808 synth-melody, 32 bars]
+
+  [Final Hook: full vocoder width, 16 bars]
+  my serial number sang
+  my serial number sang
+  something moved inside the metal rang
+  my serial number sang
+  I am the sound that came
+
+  [Outro: bassline decays, 4 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, acoustic drums, live drums, folk, country, reggae, jazz, ambient, downtempo, ballad, gospel, cinematic ambient"
+
+notes: |
+  Detroit electro is a Black American electronic music genre pioneered in Detroit from the early 1980s, built on Roland TR-808 drum machines, cold analog synthesizer basslines, and vocoder-processed vocals. It is the direct ancestor of techno and electro-funk, characterized by mechanical precision, a locked four-on-the-floor or two-step grid, and a science-fiction imaginary — androids, space travel, machine consciousness. The lane has never appeared in the v462–v534 catalog.
+
+  Concept source: an android gaining self-awareness on a factory assembly line, mid-assembly, between one bolt and the next — cold wonder, deadpan-cool turning melodic. The hook "my serial number sang" is the ownable center: four syllables on a machine-monotone eighth-note repetition (my-se-ri-al), two falling whole-steps on "num-ber," then an unexpected rising perfect fourth on "sang" landing on the downbeat of bar 2, with the vocoder doubling one octave below. The phrase encapsulates the entire conceptual arc in five words — it is unique, imagistic, singable, and cannot be attributed to any prior artist.
+
+  Composer-omission: this track consciously echoes the science-fiction-machine-consciousness vocabulary of a foundational Detroit electro-funk producer who released work in 1985–1995 under multiple aliases — not named per blocklist protocol.
+
+  Duration strategy: 132 BPM is squarely in the proven 130–160 duration band. Bar counts sum to 96 bars (8 Intro + 16 Verse 1 + 8 Hook + 12 Verse 2 + 32 Electro Break + 16 Final Hook + 4 Outro), targeting approximately 2:54–3:10 wall-clock. The mandatory 32-bar mid-song electro break is explicitly beat-driven (dense 808 + synth melody, no ambient gaps) — applying the v527 lesson. Final hook is pushed to the 80% mark of the arc. Production tokens: polished studio mix, deep low-end definition, wide stereo stage. Sentence case throughout, no ALL-CAPS form labels. Atmospheric-first opening (cold wonder, factory floor, machine sentience) before genre and BPM.
+
+  Instruments: locked 808 kick + rim-shot snare (rhythmic spine, mechanical authority); cold synth-funk bassline (ice-toned quarter-note walk, structural spine); vocoder-processed male lead (deadpan monotone verse → rising melodic hook one octave doubled). All three are body-class voices — no spectral instruments. Negative-prompt audit: exclude_styles does NOT block electronic, synthesizer, bass, drums, vocoder, or male vocals — all are core to the lane. Style inline negatives target only genuine drift (guitars, acoustic drums, pipe organ, folk, ambient drift). No contradiction with the genre.
+
+  Key B minor (never used before; electro-appropriate cold tonality). BPM 132 (new to catalog; 130-160 proven duration band). Scene: factory assembly line / android sentience. New lane: Detroit electro / electro-funk. Style char count: 950. Lyrics char count: 977.
+
+tags:
+  - detroit-electro
+  - electro-funk
+  - 808-drums
+  - synth-funk-bassline
+  - vocoder
+  - male-voice
+  - sung-hook
+  - deadpan-verse
+  - 132bpm
+  - b-minor
+  - android-sentience-scene
+  - factory-assembly-line-scene
+  - machine-consciousness
+  - dense-continuous
+  - mid-song-electro-break
+  - rising-fourth-hook
+  - new-lane
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - electronic
+  - danceable
