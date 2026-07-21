@@ -1,0 +1,86 @@
+name: "speedgarage-v528"
+version: 528
+title: "Fever528"
+instrumental: false
+vocal_gender: female
+
+style: "Sweat-soaked warehouse euphoria at 2am, the reese sub-bass shaking the concrete while euphoric diva vocals cut through the smoke — this is speed garage and bassline house at full density, polished studio mix with deep low-end definition and wide stereo stage. F minor, 135 BPM. Featured trio: wobbling reese sub-bass anchoring every bar with that fat, detuned growl; punchy rave organ stabs slicing the mid-range in off-beat syncopated chops; skippy 4x4 garage kick driving forward motion with a swing that never lets the floor breathe. Chopped diva vocal shots, white-noise sweeps, and snapping claps fill the texture. Female euphoric rave-anthem lead vocal with a sung falling-fifth hook on the drop. Tight room reverb and warm tape saturation on the percussion, bright and hard on the reese low-end. No guitars, no live drums, no acoustic instruments, no pipe organ, no strings."
+
+lyrics: |
+  [Intro: reese bass + organ, 8 bars]
+  Sweat on the walls, sweat on the walls
+  You came here burning
+
+  [Verse 1: diva vocal over kick, 16 bars]
+  Sweat on the walls, sweat on the walls
+  You came here burning
+  Every pulse a remedy
+  The bass pulls it out of you
+  Heat rising, two thousand more
+
+  [Build: riser + chopped vocals, 8 bars]
+  (Fever break — fever break)
+  (Fever — fever —)
+
+  [Drop 1: sung hook, full density, 16 bars]
+  Fever break
+  Fever BREAK
+  Feel it fall through the beat
+  Fever break — let the bass complete
+  Fever break
+
+  [Verse 2: diva over reese, 16 bars]
+  Sweat on the walls, sweat on the walls
+  The bass pulls it out of you
+  Surrender to the bassline call
+
+  [Breakdown: organ + reese, beat-driven, 24 bars]
+  (Fever — fever — fever — break)
+  (Fever — fever — fever — break)
+
+  [Drop 2: stacked hook, full density, 24 bars]
+  Fever break
+  Fever BREAK
+  Feel it fall through the beat
+  Fever break — sweat on the walls
+  The whole room breaks
+  Fever BREAK
+
+  [Outro: beat sustained, 8 bars]
+  (Fever break — fever break)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, acoustic guitar, country, folk, jazz, classical, orchestral, ambient, downtempo, chillout, meditation, zen, reggae, reggaeton, trap, hip-hop, slow jam, cinematic ambient"
+
+notes: |
+  Speed garage (also called bassline house or UK garage) is a late-1990s British dance genre built on a skippy, swung 4x4 kick pattern, a prominent detuned reese sub-bass, and chopped or pitched diva vocal samples — the bassline carries the melody weight while the kick stays relentlessly forward. The genre defined the sound of UK warehouse raves from roughly 1997-2001 before fracturing into grime and UK funky.
+
+  Concept source: 2am warehouse drop architecture — medical-crisis-as-euphoria image where "fever break" mirrors the physical sensation of a rave drop, with the sung falling fifth in the hook landing in unison with the reese sub-bass interval.
+
+  The trio is all electronic-native body voices: wobbling reese sub-bass (detuned oscillator pair, the melodic anchor), rave organ stabs (off-beat mid-range punch, characteristic of the genre), and skippy 4x4 garage kick (the swung timing signature that distinguishes speed garage from straight techno). No spectral instruments — full body voice count.
+
+  Duration strategy: parametrized colon-syntax lyrics with bar counts (8+16+8+16+16+24+24+8 = 120 bars at 135 BPM targets ~3:30). Mid-song Breakdown section (24 bars) stays full and beat-driven — not ambient or exposed — per v527 lesson that sparse mid-song sections truncate hard. Final sung hook pushed past 2:40 by the Drop 2 placement. Production tokens used: polished studio mix, deep low-end definition, wide stereo stage, tight room reverb, warm tape saturation. Style 881 chars, sentence case throughout, atmospheric-first opening. Negative-prompt audit: no contradictions — electronic, synths, bass, and vocals are NOT excluded (this is a vocal electronic dance track); only non-native genres are excluded.
+
+  The "Fever break" hook's falling fifth ('FE-ver' on a repeated pitch, 'BREAK' drops a fifth on beat 1 of the drop) mirrors the reese sub-bass interval so vocal and bass lock in unison at the drop — a frequency-convergence moment for maximum floor impact.
+
+tags:
+  - speed-garage
+  - bassline-house
+  - uk-garage
+  - wobbling-reese-sub-bass
+  - rave-organ-stabs
+  - skippy-4x4-garage-kick
+  - 135bpm
+  - f-minor
+  - warehouse-scene
+  - diva-vocal
+  - euphoric
+  - female-vocal
+  - duration-3min
+  - research-driven
+  - vocal
+  - drop-hook
+  - fever-break-hook
+  - beat-driven
+  - full-density

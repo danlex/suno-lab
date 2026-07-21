@@ -542,6 +542,7 @@ mindmap
 | 525 | Sameroad525 | heartland rock (500th song) — anthemic verse/chorus/guitar-solo/bridge, communal whoa-oh sing-along, cumulative non-modulation climax, driven sustained close | D major | 136 | open-chord electric guitar (riff hero) + Hammond organ + tenor saxophone (over acoustic guitar, driving drum kit, walking bass, stacked male BVs) |
 | 526 | Os526 | afro house x melodic techno, filter-open density climax, non-modulation | A-flat minor | 122 | balafon + filter-swept analog bass synth + hypnotic minor-key synth arpeggio |
 | 527 | Sea527 | organic downtempo, additive timbral climax, non-modulation (rendered short: 2:19 / 0:54) | F minor | 110 | kora + deep warm sub-bass + dreamy analog pads |
+| 528 | Fever528 | speed garage / bassline house, dense drop-hook, non-modulation (rendered 3:17 / 3:09) | F minor | 135 | wobbling reese sub-bass + rave organ stabs + skippy 4x4 garage kick |
 
 ## Next-cycle priorities
 
