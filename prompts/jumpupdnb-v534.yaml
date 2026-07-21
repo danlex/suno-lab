@@ -1,0 +1,75 @@
+name: "jumpupdnb-v534"
+version: 534
+title: "Ribcage534"
+style: "Sweaty warehouse jump-up drum and bass at 174 BPM, the kind that moves the floor and registers in your sternum. Polished studio mix with deep low-end definition and a wide stereo stage. E minor. A melodically catchy female vocal with attitude and bounce riding the rolling 16th-note break — she sings the hook syncopated and physical, grinning through the chaos. Rolling breakbeats chop and rebounce in tight waves, crisp hats landing hard on every offbeat. A growling jump-up bassline wobbles and snarls beneath it all, reese tones blooming outward then snapping back on the quarter. Chopped vocal stabs slice rhythmically across the bar, giving the drop a melodic identity beyond the kick-snare grid. Dense continuous arrangement — breaks stack into bass drops stack into hook reprises with no breathing room, only the next thing arriving. No guitars, no acoustic instruments, no pipe organ, no live band drums, no ambient pads."
+instrumental: false
+vocal_gender: female
+lyrics: |
+  [Intro: rolling break, bass growl, 8 bars]
+
+  [Verse 1: female vocal, 16 bars]
+  Six in the morning, still wearing last night
+  Bass so low it got an address
+  I gave my weight to the rolling drum
+  Hands up, ribs cracked, more or less
+
+  [Drop 1: sung hook, wobbling bass, 16 bars]
+  Tuesday in the rib cage
+  Tuesday in the rib cage
+  Tuesday in the rib cage
+  Drops a fifth and the floor hits back
+
+  [Verse 2: female vocal, 16 bars]
+  Lights are red but nobody leaving
+  Sub bass living under your feet
+  Wednesday dead, it always Tuesday
+  When the kick drum swings and the breaks repeat
+
+  [Drop 2: full density, peak bass, 24 bars]
+  Tuesday in the rib cage
+  Tuesday in the rib cage
+  Tuesday in the rib cage
+  Drops a fifth and the floor hits back
+
+  [Instrumental: beat-driven roll, 32 bars]
+
+  [Peak Hook: max density, 24 bars]
+  Tuesday in the rib cage
+  Tuesday in the rib cage
+  Tuesday in the rib cage (hey!)
+  Keep rolling, keep rolling
+
+  [Outro: rolling bass, 8 bars]
+
+  [End]
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, EDM, synthesizer pads, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, orchestral, neoclassical, ballad, singer-songwriter, ambient, reggaeton, trap, grime"
+notes: |
+  Jump-up drum and bass is a UK sub-genre of drum and bass originating in the late 1990s, defined by rolling 2-step breakbeats at 170-180 BPM, oversized wobbling basslines tuned to the reese waveform, and a deliberately playful-aggressive energy that fills warehouse floors. The genre sits at the intersection of rave culture and engineering discipline — the bassline is specced, not improvised; the chops are deliberate; the chaos is arranged.
+
+  The concept source is the "Tuesday in the rib cage" hook: a specific wrong-weekday (Tuesday, the most inside of inside-the-week days) paired with the anatomical site where 174 BPM sub-bass registers physically. The syncopation contour — 'TUES-day' on beat-1 (two eighths), 'IN the' offbeat of beat 2, 'RIB-cage' syncopated beat 3-and with '-cage' dropping a perfect fifth below 'TUES-' (E4→A3) — gives the phrase a triplet-feel fingerprint that rides the 16th-note break texture. Verse lines supplied by caller: "Six in the morning, still wearing last night" / "Bass so low it's got an address" / "I gave my weight to the rolling drum."
+
+  Duration strategy: 174 BPM is in the proven fast-render band. Parametrized colon-lyrics with bar counts (8+16+16+16+24+32+24+8 = 144 bars) give Suno per-section length targets. A dedicated full-density 32-bar instrumental break at ~60% of the song is the mandatory duration lever — it stays beat-driven, not ambient. Final hook lands late. Dense continuous arrangement with no silence gate prevents truncation.
+
+  Trio roles: ROLLING BREAKBEAT drives the rhythmic engine, 2-step pattern with syncopated hats. GROWLING JUMP-UP BASSLINE is the harmonic and physical anchor, wobbling reese waveform in E minor. CHOPPED VOCAL STABS provide melodic identity across the drop — the hook sung by a punchy female vocal with attitude, stabs chopped for rhythmic texture.
+
+  Negative-prompt discipline: style ends with 5 inline negatives. Exclude_styles blocks orchestral, ambient, acoustic, and genre-drift vectors without blocking electronic/breakbeat/bass/vocals. No contradiction — the electronic and vocal bed is preserved.
+
+  Novelty: jump-up DnB genre is new to this catalog position. 174 BPM used in v529 in a different genre context. E minor has 27 prior uses. Scene (3am warehouse, sub-bass as physical force) is fresh.
+
+  Style char count: 930. Lyrics char count: 938.
+tags:
+  - rolling-breakbeat
+  - growling-jump-up-bassline
+  - chopped-vocal-stabs
+  - 174bpm
+  - e-minor
+  - jump-up-dnb
+  - drum-and-bass
+  - warehouse-rave-scene
+  - female-vocal
+  - duration-3min
+  - research-driven
+  - vocal
+  - electronic
+  - dense-arrangement
+  - candidate-b
