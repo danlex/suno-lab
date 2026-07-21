@@ -543,6 +543,7 @@ mindmap
 | 526 | Os526 | afro house x melodic techno, filter-open density climax, non-modulation | A-flat minor | 122 | balafon + filter-swept analog bass synth + hypnotic minor-key synth arpeggio |
 | 527 | Sea527 | organic downtempo, additive timbral climax, non-modulation (rendered short: 2:19 / 0:54) | F minor | 110 | kora + deep warm sub-bass + dreamy analog pads |
 | 528 | Fever528 | speed garage / bassline house, dense drop-hook, non-modulation (rendered 3:17 / 3:09) | F minor | 135 | wobbling reese sub-bass + rave organ stabs + skippy 4x4 garage kick |
+| 529 | Tarmac529 | liquid drum & bass, rolling drop-hook, non-modulation (rendered 3:31 / 3:38) | G minor | 174 | rolling sub-bass + lush Rhodes chords + amen-style rolling breakbeat |
 
 ## Next-cycle priorities
 

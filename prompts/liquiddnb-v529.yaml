@@ -1,0 +1,94 @@
+name: "liquiddnb-v529"
+version: 529
+title: "Tarmac529"
+instrumental: false
+vocal_gender: male
+
+style: "Rain on the windscreen at 174 BPM, sodium glow smearing the tarmac, the weight lifting off your chest as the motorway opens up — liquid drum and bass at full density, polished studio mix with deep low-end definition and wide stereo stage. G minor, 174 BPM. Featured trio: rolling sub-bass locking the low-end in that deep warm pulse that never settles; lush Rhodes chords washing the mid-range in wide reverb-soaked progressions that ache with late-night longing; amen-style rolling breakbeat driving 16th-note patterns with surgical precision and forward momentum that stays full and dense. Wide atmospheric pads and reverb-tail vocal chops fill the texture. Soulful male vocal with a genuinely sung hook, emotive and uplifting, cutting through on every drop. Warm tape saturation on the Rhodes, Decca-tree wide stereo on the pad wash, tight chamber reverb on the breaks. No guitars, no pipe organ, no acoustic instruments, no live band, no strings."
+
+lyrics: |
+  [Intro: sub-bass + Rhodes, 8 bars]
+  (The road opens)
+
+  [Verse 1: rolling breaks, 16 bars]
+  Every junction passed is a name I won't keep
+  Sodium lights on rain, I'm still moving
+  The city gets small in the glass behind
+  Hands loose, lungs finally free
+
+  [Drop 1: full hook, 16 bars]
+  The tarmac remembers my name
+  The tarmac remembers my name
+  (Remembers — remembers)
+  The tarmac remembers my name
+
+  [Verse 2: rolling breaks, 16 bars]
+  Every red light skipped, a doubt left behind
+  Rain hits the windscreen, I breathe it out
+  No signal, no map, the rolling low
+  What I was running from won't follow
+
+  [Build: rising breaks, 8 bars]
+  (Rolling — keep rolling)
+
+  [Roller: beats + Rhodes, 24 bars]
+  (Sub-bass pulse — Rhodes wash)
+
+  [Drop 2: stacked hook, 24 bars]
+  The tarmac remembers my name
+  The tarmac remembers my name
+  Miles till the weight lifts clean
+  The tarmac remembers my name
+  (Remembers — remembers)
+  The road is the only thing I've ever been
+
+  [Outro: sub-bass rolling, 8 bars]
+  (The tarmac remembers my name)
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, acoustic guitar, country, folk, jazz, classical, orchestral, ambient, downtempo, chillout, meditation, zen, reggae, reggaeton, trap, hip-hop, slow jam, cinematic ambient, R&B ballad"
+
+notes: |
+  Liquid drum and bass is a sub-genre of drum and bass (roughly 165–180 BPM) distinguished from its harder siblings by its emphasis on warm, melodic texture: deep rolling sub-bass rather than aggressive reese growls, lush chord pads and Rhodes-style keys filling the mid-range, and an amen-style breakbeat that rolls in complex 16th-note patterns with surgical programming rather than straight aggression. The genre peaked in UK club culture from the late 1990s through the 2000s and remains a durable dancefloor staple for its rare combination of high BPM density and genuine emotional weight.
+
+  Concept source: a euphoric late-night motorway drive where escape from what was holding you down is literalised as forward motion — the hook "The tarmac remembers my name" inverts the escape narrative, making the road a witness rather than an obstacle, which grounds the euphoria in something tangible and repeatable.
+
+  This cycle's most celebrated liquid DnB producer remains unnamed per blocklist discipline; their influence on the warm sub-bass + Rhodes-chords template is acknowledged here without attribution.
+
+  Duration strategy: 174 BPM places this firmly in the fast-lane efficiency band (playbook rule 8: BPM 160+ works even better than 130–160 for bar-count-to-wallclock). Total lyric bars: 8+16+16+16+8+24+24+8 = 120 bars. At 174 BPM that targets approximately 3:20–4:00 wall-clock, consistent with v510 jungle at 170 BPM rendering 4:22. The mid-song Roller section (24 bars) is explicitly beat-driven and full-density — not ambient — per the v527 lesson that sparse mid-sections truncate hard. Final sung hook pushed into the Drop 2 position well past 2:40. Production tokens used: polished studio mix, deep low-end definition, wide stereo stage, warm tape saturation, Decca-tree wide stereo, tight chamber reverb. Sentence case throughout; atmospheric-first opening (rain/motorway imagery before genre label). Negative-prompt audit: no contradictions — no electronic/bass/Rhodes/breakbeat or vocals excluded; only non-native genres and acoustic/organic families blocked.
+
+  Trio roles and rationale:
+  - Rolling sub-bass (body voice): the warm, deep, continuously rolling low-end pulse that defines liquid DnB's emotional floor; carries the harmonic weight in G minor.
+  - Lush Rhodes chords (body voice): reverb-drenched mid-range chord wash that supplies the melodic ache; the "liquid" in liquid DnB; warm tape saturation applied here.
+  - Amen-style rolling breakbeat (body voice): the complex 16th-note break programming that drives the BPM engine; Decca-tree wide stereo opens the stereo stage across the percussive detail.
+  All three are body voices — no spectral instruments in the trio.
+
+  Hook architecture: "The tarmac remembers my name" — beat-1 rest, 'TAR-mac' on the eighth-note upbeat, 're-MEM-bers' as three sixteenths across beats 2-3, 'my NAME' landing on beat 4 held a perfect fifth above 'Tarmac'. The fifth-leap on 'name' is the hook's fingerprint melodic interval, designed to lock against the rolling sub-bass at the drop.
+
+  Novelty claims: liquid drum and bass at 174 BPM is new to the v52x cycle run; the "tarmac as witness" hook inversion is a fresh narrative angle; G minor at this BPM is distinct from recent key palette (recent cycles: F minor v528, B-flat v527, A minor v525). Scene novelty: rain-motorway late-night drive is not in recent catalog.
+
+  Style char count: 950. Lyrics char count: 996.
+
+tags:
+  - liquid-drum-and-bass
+  - liquid-dnb
+  - rolling-sub-bass
+  - lush-rhodes-chords
+  - amen-style-rolling-breakbeat
+  - 174bpm
+  - g-minor
+  - motorway-rain-scene
+  - soulful-male-vocal
+  - sung-hook
+  - tarmac-hook
+  - euphoric
+  - male-vocal
+  - duration-3min
+  - research-driven
+  - vocal
+  - drop-hook
+  - beat-driven
+  - full-density
+  - forward-motion
+  - new-bpm
