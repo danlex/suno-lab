@@ -1,0 +1,129 @@
+name: "afrohouse-v526"
+version: 526
+style: >
+  Pre-dawn warmth on a packed dancefloor — the moment of release, not grief.
+  Afro house meets melodic techno, polished studio mix, deep low-end definition,
+  wide stereo stage. A-flat minor, 122 BPM. The balafon carries the melodic hero
+  line, its bright marimba-timber cutting through a filter-swept analog bass synth
+  that opens slowly from dark to luminous, while a hypnotic minor-key synth
+  arpeggio locks to the four-on-the-floor kick below. Tribal shakers and congas
+  pulse through every section, long-sustain warm pads swell beneath the groove
+  plateau. A female vocalist sings with genuine emotive depth — French phrases,
+  wide minor-sixth leaps, staccato repeated-note stabs triplet-hocketed against
+  the shaker. Density climax at 2:15 via filter opening to full brightness and
+  pad swell, no key change — purely groove-driven forward motion. No guitars,
+  no pipe organ, no rock drums, no ambient drone washes, no spoken word monotone.
+
+title: "Os526"
+
+lyrics: |
+  [Intro — shaker, filtered bass]
+
+  [Bass hook — filter-swept bass, congas]
+
+  [Balafon — melody over arpeggio]
+
+  [Verse 1]
+  Le ciel blanchit, je vois clair
+  Tu danses encore dans mes veines
+  J'ai marché jusqu'à l'aube pieds nus
+  Quelque chose en moi s'est ouvert
+
+  [Pre-Chorus — arpeggio tightens]
+
+  [Chorus — four-on-the-floor drop]
+  Garde mes os
+  Je m'en vais
+  Garde mes os
+  Je m'en vais
+  Garde mes os — je m'en vais
+
+  [Groove vamp — balafon, arpeggio, no vocals]
+
+  [Verse 2]
+  Le jour n'existe pas encore
+  Mais tes bras ont la mémoire
+  Je laisse tout ce qui pesait
+  Sur ce plancher qui tremble
+
+  [Pre-Chorus — pad swell rising]
+
+  [Chorus]
+  Garde mes os
+  Je m'en vais
+  Garde mes os
+  Je m'en vais
+  Garde mes os — je m'en vais
+
+  [Instrumental Break — balafon vamp, congas free, no vocals]
+
+  [Filter Rise — pad density swells]
+
+  [Climax — tutti groove, full brightness]
+
+  [Final Chorus]
+  Garde mes os
+  Je m'en vais
+  Garde mes os — je m'en vais
+
+  [Outro — shakers return, balafon trails]
+
+  [End]
+
+instrumental: false
+vocal_gender: female
+
+exclude_styles: >
+  Arabic, tribal chant, world music fusion, acoustic guitar, rock, metal, lo-fi,
+  pipe organ, hard techno, cold industrial techno, aggressive techno, noise,
+  free jazz, atonal, microtonal, ambient meditation, new age, zen, EDM festival
+  drop, dubstep, drum and bass, trap, hip hop, spoken word, reggaeton,
+  soca, dancehall, afrobeats, amapiano, kwaito, experimental noise
+
+notes: >
+  Cycle v526 — Afro house x melodic techno, warm and groove-first. Tournament
+  winner over Candidate B (afro-ritual male, Body526) and Candidate C (UK garage,
+  Bethnal526). Chosen for highest chart signal (afro house = 2026 Sound of the
+  Year, 778% growth) and maximal four-on-the-floor danceability, matching our
+  proven house/dance engagement lane.
+
+
+  HOOK: "Garde mes os, je m'en vais" (keep my bones, I'm leaving) — three
+  staccato repeated-note stabs on Ab ('garde — mes — os') triplet-hocketed
+  against the shaker, BALAFON accent on 'os', then a wide ascending minor-sixth
+  leap (Ab to F) on 'je m'en vais' held over the kick.
+
+
+  NOVELTY: BALAFON as melodic hero is a deep revival (last used v186, ~340
+  versions ago). Paired with a FILTER-SWEPT ANALOG BASS SYNTH and a HYPNOTIC
+  MINOR-KEY SYNTH ARPEGGIO — three voices in distinct bands. Filter-sweep-to-full-
+  brightness is the climax mechanism, non-modulation. No silence+half-step-up.
+
+
+  DURATION LEVER: explicit lyric-free [Groove vamp] and [Instrumental Break]
+  in the middle; final chorus pushed late (~2:40). Target render 3:15-3:45.
+
+
+  LYRICS TRIMMED from the drafter's 1717-char version to fit the 1000-char gate
+  (concise 2-6 word bracket labels per the lyrics-balance rule); hook, both
+  verses, and the mid-song vamp preserved.
+
+tags:
+  - balafon
+  - filter-swept-analog-bass-synth
+  - hypnotic-minor-key-synth-arpeggio
+  - 122bpm
+  - ab-minor
+  - pre-dawn-dancefloor-scene
+  - release-mood
+  - revival-balafon-340-gap
+  - afro-house
+  - melodic-techno
+  - vocal-french
+  - four-on-the-floor
+  - groove-first
+  - filter-sweep-climax
+  - non-modulation-climax
+  - duration-3min
+  - research-driven
+  - v526

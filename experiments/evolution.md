@@ -540,6 +540,7 @@ mindmap
 | 523 | Fault523 | atmospheric post-metal clean-vocal — crawl-to-monolith, down-tuned dual-guitar swell, textured bass-drone strip, non-modulation monolithic climax | B minor | 108 | two down-tuned layered electric guitars (clean arpeggio + heavy chordal swell) + sustaining bass + tom/cymbal drums (under wide-reverb pads and a cold contrabass drone) |
 | 524 | Nerve524 | yé-yé chamber-pop — vibraphone-as-hero, 1960s AABA middle-eight, lead/backing ooh-ooh call-and-response, non-modulation full-color climax | G major | 143 | vibraphone (melodic hero) + harpsichord counterline + pizzicato strings (over brushed swing kit, walking upright bass, acoustic guitar, stacked backing oohs) |
 | 525 | Sameroad525 | heartland rock (500th song) — anthemic verse/chorus/guitar-solo/bridge, communal whoa-oh sing-along, cumulative non-modulation climax, driven sustained close | D major | 136 | open-chord electric guitar (riff hero) + Hammond organ + tenor saxophone (over acoustic guitar, driving drum kit, walking bass, stacked male BVs) |
+| 526 | Os526 | afro house x melodic techno, filter-open density climax, non-modulation | A-flat minor | 122 | balafon + filter-swept analog bass synth + hypnotic minor-key synth arpeggio |
 
 ## Next-cycle priorities
 
