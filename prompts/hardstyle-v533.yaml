@@ -1,0 +1,85 @@
+name: "hardstyle-v533"
+version: 533
+style: "Hardstyle euphoric rawstyle, festival-mainstage intensity — polished studio mix built on a thundering distorted reverse-bass kick, screeching hard lead synth, and euphoric supersaw melody cracking open over twenty thousand people. Wide stereo stage, deep low-end definition on every kick. E minor, 150 BPM. Energy arc is unbroken: hard kick intro locks tempo, verse builds with screeching lead stabs, euphoric break floods in with supersaw chords while a soaring male voice rises on the hook, then reverse-bass detonates the drop back to full hard-kick density. Second verse, second break, bigger drop — no breathing room, always beat-driven. Mid-song hammering hard-kick and screech-lead instrumental vamp, full and loud. Gated reverb crashes and white-noise risers signal every lift. No key change — density and energy escalate to the final hook and drop. No guitars, no acoustic instruments, no pipe organ, no ambient pads, no lo-fi textures."
+title: "Scar533"
+lyrics: |
+  [Hard Kick Intro: 8 bars]
+
+  [Verse 1: kick and screech stabs, male vocal]
+  The sun bleeds red across the field
+  We are the ones who came too close
+  This is where we left our echo
+
+  [Build 1: supersaw swells, riser, 8 bars]
+
+  [Euphoric Break 1: supersaw and kick continuous]
+  Scar the horizon
+  Scar the horizon
+  Scar — the hori-zon
+
+  [Drop 1: reverse-bass detonates, full density, 16 bars]
+
+  [Verse 2: kick driving, male vocal]
+  We burn like flares above the crowd
+  Ten thousand hands reach for the sky
+
+  [Build 2: supersaw peaks, gated crash, 8 bars]
+
+  [Euphoric Break 2: supersaw and kick, hook bigger]
+  Scar the horizon
+  Scar the horizon
+  Scar — the hori-zon
+
+  [Drop 2: bigger reverse-bass, full hard-kick, 16 bars]
+
+  [Hard Vamp: kick and screech-lead full, beat-driven, 16 bars]
+
+  [Final Hook: supersaw and kick, male vocal soaring]
+  Scar the horizon — scar — the hori-zon
+
+  [Final Drop: reverse-bass, hard kick, screech lead, 16 bars]
+
+  [Outro: kick fading, 4 bars]
+  [End]
+instrumental: false
+vocal_gender: male
+exclude_styles: "Arabic, tribal, world music, rock, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, ambient, downtempo, acoustic guitar, folk, classical, jazz, trap, hip-hop, reggaeton, cinematic ambient, dreamy, chillout, slow"
+notes: |
+  Hardstyle euphoric rawstyle is a branch of hard electronic dance music originating in the Netherlands and Belgium, characterized by distorted reverse-bass kicks (a kick drum pitch-swept downward through a bass tone), screeching hard lead synths, and euphoric supersaw melody sections called the 'break' or 'euphoric build.' The sub-style known as rawstyle emphasizes harder, more aggressive kick textures and industrial screech leads. This prompt encodes the defining arc: hard-kick intro, verse build, euphoric break with supersaw + sung hook, reverse-bass drop, repeat with escalation, then a full-density instrumental vamp before the final hook and drop close.
+
+  Concept source: festival-mainstage hardstyle at sundown — the collective defiant euphoria of 20,000 people in the moment before the drop, built around the ownable hook "Scar the horizon" (punch-low tonic on 'Scar,' rapid eighth-step up on 'the,' held perfect fifth on 'hori-zon').
+
+  This echoes the tradition of Dutch and Belgian hard-electronic producers whose work defined the genre across the 2000s and 2010s — none named per blocklist discipline.
+
+  Duration strategy: parametrized colon-lyrics with explicit bar counts per section; wide stereo stage + deep low-end definition production tokens; a full hard-kick + screech-lead instrumental vamp (~30-40s, beat-driven and dense, NOT ambient) placed mid-song as the explicit duration lever; final hook + drop pushed to late in the arc (~2:40+ equivalent). The euphoric break is kept DENSE (supersaw + kick continuous throughout) to avoid the v527 truncation pattern where an exposed ambient breakdown caused early clip termination. No key modulation — energy and density are the climax drivers. BPM 150 puts this in the proven high-BPM duration band.
+
+  Featured trio:
+  - DISTORTED REVERSE-BASS KICK: the defining timbral signature; pitch-swept distorted kick provides the rhythmic spine and the drop impact
+  - SCREECHING HARD LEAD SYNTH: industrial screech texture that locks the rawstyle energy between drops and drives the instrumental vamp
+  - EUPHORIC SUPERSAW MELODY: layered detuned sawtooth chords that carry the emotional peak of the break and frame the sung hook
+
+  Supporting: white-noise risers, gated reverb crashes.
+
+  Novelty claims: hardstyle/rawstyle genre new to v533 catalog; 150 BPM; E minor; festival-sundown-defiance scene; "Scar the horizon" hook contour (punch-low then slingshot-fifth release).
+
+  Style char count: 945.
+tags:
+  - hardstyle
+  - rawstyle
+  - euphoric-hardstyle
+  - distorted-reverse-bass-kick
+  - screeching-hard-lead-synth
+  - euphoric-supersaw-melody
+  - 150bpm
+  - e-minor
+  - festival-sundown-scene
+  - male-vocal
+  - sung-hook
+  - non-modulation
+  - duration-3min
+  - research-driven
+  - danceable
+  - electronic
+  - hard-electronic
+  - new-technique
+  - new-bpm

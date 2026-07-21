@@ -1,6 +1,6 @@
 {
-  "total_prompts": 506,
-  "latest_version": 531,
+  "total_prompts": 507,
+  "latest_version": 532,
   "instruments": {
     "organ": [
       1,
@@ -110,7 +110,8 @@
       528,
       529,
       530,
-      531
+      531,
+      532
     ],
     "piano": [
       1,
@@ -201,7 +202,8 @@
       496,
       497,
       518,
-      522
+      522,
+      532
     ],
     "pipe organ": [
       1,
@@ -274,7 +276,8 @@
       528,
       529,
       530,
-      531
+      531,
+      532
     ],
     "cello": [
       33,
@@ -1361,6 +1364,7 @@
       316,
       317,
       319,
+      323,
       444,
       470,
       514
@@ -1525,10 +1529,6 @@
       296,
       502
     ],
-    "minimalist": [
-      201,
-      323
-    ],
     "passacaglia": [
       111,
       202
@@ -1560,6 +1560,9 @@
     ],
     "hardstyle": [
       398
+    ],
+    "minimalist": [
+      201
     ],
     "progressive house": [
       96
@@ -1606,7 +1609,8 @@
       471,
       512,
       518,
-      531
+      531,
+      532
     ],
     "d minor": [
       1,
@@ -2676,7 +2680,8 @@
       396,
       410,
       460,
-      530
+      530,
+      532
     ],
     "141": [
       224,
@@ -2827,6 +2832,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 532,
+      "title": "Brule532",
+      "name": "eurodance-v532",
+      "featured": [],
+      "genre": null,
+      "key": "a minor",
+      "bpm": 140
+    },
     {
       "version": 531,
       "title": "Voltage531",
@@ -4775,7 +4789,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
