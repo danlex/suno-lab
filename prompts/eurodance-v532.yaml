@@ -1,0 +1,75 @@
+name: "eurodance-v532"
+version: 532
+style: "Euphoric 90s eurodance and hi-NRG revival — the neon-drenched rush of a packed dancefloor where every beat is permission to want more. Polished studio mix, wide stereo stage, deep low-end definition. A minor, 140 BPM. Soaring female belt vocal over pounding four-on-the-floor kick, bright supersaw chord stabs on the off-beats, and a driving octave bassline locking the floor. Rave piano hammers every quarter note. White-noise risers swell into each chorus drop. Dense continuous arrangement — no gaps, energy surging through every bar. Verse strips to kick, bass, single supersaw pad; pre-chorus layers rave piano and hi-hat rushes; chorus opens the full supersaw wall with the voice soaring over it. Mid-song break: full supersaw and rave-piano instrumental, beat-driven, relentless, no ambient drift. Final chorus arrives late, belted wide open. No guitars, no acoustic instruments, no pipe organ, no rock drums, no spoken word."
+title: "Brule532"
+lyrics: |
+  [Intro: supersaw + rave piano, 8 bars]
+
+  [Verse 1: kick + bass + pad, 16 bars]
+  Two months in the dark, I paid that debt in full
+  My body remembers what it felt like to want this
+  The mirror lied but the bass line never does
+
+  [Pre-Chorus: rave piano + riser, 8 bars]
+  I hear it now, that sound beneath my skin
+  Every heartbeat pulling me back in
+
+  [Chorus: full supersaw, belted, 16 bars]
+  Brûle avec moi
+  Let the fire take everything tonight
+  Brûle avec moi
+  On this floor we are alive
+
+  [Verse 2: stripped kick + bass, 12 bars]
+  They said the light would come — I made it myself
+  Pulled it from the dark, placed it under my feet
+
+  [Pre-Chorus 2: rave piano + riser, 8 bars]
+  Louder now — pulling me back in
+
+  [Chorus 2: full supersaws, 16 bars]
+  Brûle avec moi
+  Let the fire take everything tonight
+  Brûle avec moi
+  On this floor we are alive
+
+  [Break: supersaw + rave piano, 24 bars]
+
+  [Final Chorus: belted wide open, 20 bars]
+  Brûle avec moi
+  Let the fire take everything tonight
+  Brûle avec moi — tonight
+
+  [End]
+instrumental: false
+vocal_gender: female
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, downtempo, ballad, country, folk, reggae, jazz, hip hop, trap, drill, gospel"
+notes: |
+  Eurodance and hi-NRG are late-1980s-to-mid-1990s European electronic dance genres defined by fast four-on-the-floor kick (typically 128–150 BPM), supersaw synthesizer chords (Roland JP-8000-era stacked detuned sawtooth oscillators), octave-walking basslines, rave piano or organ stabs, and anthemic female-belt vocals with simple but hook-saturated lyrics. The form peaked commercially 1992–1997 and is now a high-traction nostalgia signal on social/streaming platforms. The concept source here is the "first night out after a long hard stretch" — a reclaimed-joy narrative set to the most physically commanding floor music of the era.
+
+  The hook "Brûle avec moi" (French: burn with me) is built around a three-note syncopated triplet on the syllables 'brû-le a-vec' landing against the four-on-the-floor kick, with a rising whole-step on 'moi' held as a sustained open-vowel belt over the supersaw wall. Verses are English — gritty, personal, contrasting the euphoric French hook. Both French and English are within the allowed language set.
+
+  Duration strategy: parametrized colon-lyrics with bar counts sum to approximately 128 bars at 140 BPM, targeting 3:15–3:45 wall-clock (140 BPM is squarely in the proven 130–160 duration band). The mandatory mid-song instrumental break (24 bars, full supersaw + rave piano, explicitly beat-driven) applies the v527 lesson — dense not ambient, energy maintained throughout. The final belted chorus is placed late. Production tokens used: polished studio mix, wide stereo stage, deep low-end definition.
+
+  Trio: pounding four-on-the-floor kick (rhythmic spine), bright supersaw chord stabs (harmonic energy and spectral width), driving octave bassline (low-end lock). Rave piano and white-noise risers are supporting colors, not trio members. No negative-prompt contradictions: exclude_styles does not block electronic, synthesizer, piano, bass, or vocals. Key A minor, 140 BPM both visible in style. Sentence case throughout. Style char count: 932.
+tags:
+  - eurodance
+  - hi-nrg
+  - four-on-the-floor-kick
+  - supersaw
+  - octave-bassline
+  - rave-piano
+  - female-belt-vocal
+  - 140bpm
+  - a-minor
+  - french-chorus
+  - english-verses
+  - bilingual
+  - neon-dancefloor-scene
+  - 90s-revival
+  - duration-3min
+  - research-driven
+  - vocal
+  - electronic
+  - danceable
+  - euphoric

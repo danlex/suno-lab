@@ -1,6 +1,6 @@
 {
-  "total_prompts": 505,
-  "latest_version": 530,
+  "total_prompts": 506,
+  "latest_version": 531,
   "instruments": {
     "organ": [
       1,
@@ -109,7 +109,8 @@
       522,
       528,
       529,
-      530
+      530,
+      531
     ],
     "piano": [
       1,
@@ -272,7 +273,8 @@
       521,
       528,
       529,
-      530
+      530,
+      531
     ],
     "cello": [
       33,
@@ -1359,7 +1361,6 @@
       316,
       317,
       319,
-      323,
       444,
       470,
       514
@@ -1390,6 +1391,7 @@
       428,
       432,
       443,
+      448,
       454,
       459
     ],
@@ -1457,6 +1459,15 @@
       518,
       524
     ],
+    "techno": [
+      279,
+      352,
+      355,
+      403,
+      469,
+      526,
+      531
+    ],
     "trap": [
       264,
       274,
@@ -1465,14 +1476,6 @@
       287,
       297,
       301
-    ],
-    "techno": [
-      279,
-      352,
-      355,
-      403,
-      469,
-      526
     ],
     "garage": [
       353,
@@ -1504,6 +1507,11 @@
       305,
       453
     ],
+    "romantic": [
+      145,
+      149,
+      313
+    ],
     "trance": [
       396,
       488,
@@ -1513,13 +1521,13 @@
       266,
       343
     ],
-    "concerto": [
-      145,
-      149
-    ],
     "lo-fi": [
       296,
       502
+    ],
+    "minimalist": [
+      201,
+      323
     ],
     "passacaglia": [
       111,
@@ -1528,10 +1536,6 @@
     "post-classical": [
       112,
       315
-    ],
-    "synthwave": [
-      1,
-      448
     ],
     "2-step garage": [
       100
@@ -1557,14 +1561,11 @@
     "hardstyle": [
       398
     ],
-    "minimalist": [
-      201
-    ],
     "progressive house": [
       96
     ],
-    "romantic": [
-      313
+    "synthwave": [
+      1
     ]
   },
   "keys": {
@@ -1604,7 +1605,8 @@
       462,
       471,
       512,
-      518
+      518,
+      531
     ],
     "d minor": [
       1,
@@ -2709,7 +2711,8 @@
     ],
     "148": [
       229,
-      485
+      485,
+      531
     ],
     "149": [
       230
@@ -2824,6 +2827,15 @@
     ]
   },
   "titles": [
+    {
+      "version": 531,
+      "title": "Voltage531",
+      "name": "hardtechno-v531",
+      "featured": [],
+      "genre": "techno",
+      "key": "a minor",
+      "bpm": 148
+    },
     {
       "version": 530,
       "title": "Violet530",
@@ -3673,7 +3685,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "synthwave",
+      "genre": "cinematic",
       "key": "a minor",
       "bpm": 106
     },
@@ -4763,7 +4775,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "orchestral",
+      "genre": "minimalist",
       "key": "d minor",
       "bpm": 54
     },
@@ -6679,7 +6691,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "c minor",
       "bpm": 76
     },
@@ -6715,7 +6727,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "concerto",
+      "genre": "romantic",
       "key": "d-flat major",
       "bpm": 72
     },

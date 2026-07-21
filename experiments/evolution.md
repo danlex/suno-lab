@@ -546,6 +546,7 @@ mindmap
 | 529 | Tarmac529 | liquid drum & bass, rolling drop-hook, non-modulation (rendered 3:31 / 3:38) | G minor | 174 | rolling sub-bass + lush Rhodes chords + amen-style rolling breakbeat |
 | 530 | Violet530 | uplifting vocal trance, belted drop-hook, non-modulation (rendered 4:19 / 4:13) | B minor | 140 | euphoric supersaw lead + rolling trance bassline + shimmering arps |
 | 531 | Voltage531 | hard/peak-time techno, mantra drop-hook, non-modulation (rendered 3:21 / 3:26) | A minor | 148 | distorted rumbling kick + hypnotic looping synth riff + rave-hoover stabs |
+| 532 | Brule532 | eurodance/hi-NRG, belted French-hook chorus, non-modulation (rendered 2:39 / 3:09) | A minor | 140 | pumping four-on-the-floor kick + bright supersaw chord stabs + driving octave bassline |
 
 ## Next-cycle priorities
 
