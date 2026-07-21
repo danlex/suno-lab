@@ -550,6 +550,7 @@ mindmap
 | 533 | Scar533 | hardstyle euphoric rawstyle, reverse-bass drop, sung euphoric build, non-modulation (rendered 3:11 / 3:07) | E minor | 150 | distorted reverse-bass kick + screeching hard lead synth + euphoric supersaw melody |
 | 534 | Ribcage534 | jump-up drum & bass, rolling drop-hook, non-modulation (rendered 7:59 / 3:02) | E minor | 174 | rolling breakbeat + growling jump-up bassline + chopped vocal stabs |
 | 535 | Serial535 | vocoder rising-fourth hook + dense mid-song electro break | B minor | 132 | 808 kick+rim-shot snare, cold synth-funk bassline, vocoder male lead |
+| 536 | Tumblers536 | chopped-vocal stutter hook + dense mid-song break | F# minor | 140 | triplet bounce kick, bed-squeak percussion, chopped-vocal+synth stabs |
 
 ## Next-cycle priorities
 

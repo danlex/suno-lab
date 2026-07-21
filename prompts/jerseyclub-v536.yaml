@@ -1,0 +1,80 @@
+name: "jerseyclub-v536"
+version: 536
+title: "Tumblers536"
+vocal_gender: female
+instrumental: false
+
+style: "Jersey club banger at 140 BPM in F# minor, female voice singing full melodic lines then fracturing into chopped stuttered edits — that hiccup fingerprint is the genre's heartbeat. The beat rides a relentless triplet bounce kick, bed-squeak percussion on every off-beat, chopped vocal chops woven into synth stabs so the arrangement never breathes — dense, locked-in, euphoric. A woman who memorized every lock in her building realizes she can walk out of any door that held her — escape as pure joy, not fear. Polished studio mix: wide stereo stage spreading the kick, deep low-end definition anchoring the sub, tight punchy reverb on the vocal chops so each stutter lands crisp. The hook \"I memorized the tumblers\" climbs a major sixth then drops into a rapid double-stutter chop — that down-step hiccup resolves into the kick on beat three. No acoustic guitar, no live rock drums, no pipe organ, no slow ballad."
+
+lyrics: |
+  [Intro: stab grid, triplet kick, 8 bars]
+
+  [Verse 1: sung melodic, 16 bars]
+  Fourth floor deadbolt, I know your teeth
+  Click of the cylinder, that's my music
+  Fire-exit bar, pushed it easy
+  Every lock in this building — through it
+
+  [Chorus: sung hook, stutter chop, 16 bars]
+  I memorized the tumblers (tum-tum-blers)
+  I memorized the tumblers (tum-tum-blers)
+  No door holds me now
+  Every lock falls down
+
+  [Verse 2: sung melodic, 16 bars]
+  Rooftop padlock, Yale Number Four
+  Counting pins since I was eight
+  Now I'm walking bold
+
+  [Chorus: sung hook, stutter chop, 16 bars]
+  I memorized the tumblers (tum-tum-blers)
+  No door holds me now
+  Every lock falls down
+
+  [Instrumental: dense kick, stabs, 32 bars]
+
+  [Bridge: half-time, 8 bars]
+  I thought walls were permanent
+  Now I hear the click — walk out
+
+  [Final Chorus: stacked drop, 24 bars]
+  I memorized the tumblers (tum-tum-blers)
+  I memorized the tumblers (tum-tum-blers)
+  I memorized (tum-tum) every lock (tum-blers)
+  Walk out free
+
+  [Outro: chopped fade, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, EDM, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, slow ballad, ambient, R&B slow jam"
+
+notes: |
+  Jersey Club is a Newark-born club subgenre built on a triplet-pattern kick (the "bounce"), bed-squeak percussion samples on off-beats, and chopped stuttered vocal edits that fracture melodic lines into rhythmic hiccups. The producer tradition was codified on Suno's radar through viral TikTok and SoundCloud cycles 2023-2026. This concept (memorized locks as euphoric escape metaphor) is original; the scene was supplied by the cycle brief.
+
+  The ownable hook "I memorized the tumblers" is notated with stutter-chop marks as parenthetical doubles (tum-tum-blers) throughout — this signals Suno to apply vocal chop edits on the word "tumblers" specifically, landing the down-step hiccup on beat three of bar two.
+
+  Duration strategy: 140 BPM (fast lane, proven duration band) with bar counts summing to 144 bars. A 32-bar dense instrumental break at roughly 60% of the track acts as the mid-song duration lever; the final chorus is pushed late to extend the arc. Parametrized colon-syntax labels with bar counts give Suno per-section length targets. Production tokens: polished studio mix, wide stereo stage, deep low-end definition. Sentence case throughout; atmospheric-first opening front-loads genre and mood.
+
+  Novelty claims: Jersey Club genre is first appearance in catalog (v536). F# minor at 140 BPM is new BPM for this key. Bed-squeak percussion plus triplet bounce kick not previously used. Escape-through-locks scene is original.
+
+  Style char count: 913.
+
+tags:
+  - jersey-club
+  - 140bpm
+  - f-sharp-minor
+  - female-vocal
+  - chopped-vocal
+  - stutter-edit
+  - triplet-kick
+  - bed-squeak-percussion
+  - synth-stabs
+  - dense-arrangement
+  - euphoric
+  - escape-scene
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
