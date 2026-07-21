@@ -1,0 +1,88 @@
+name: "trance-v530"
+version: 530
+title: "Violet530"
+instrumental: false
+vocal_gender: female
+
+style: "The last night of summer over a festival field, violet dawn bleeding in while the crowd still moves — uplifting vocal trance at full density, polished studio mix with deep low-end definition and wide stereo stage. B minor, 140 BPM. Euphoric supersaw lead stacks detuned oscillators chopping on every sixteenth-note lock; rolling trance bassline drives a sidechained pulse that never drops even through breakdown; shimmering arps cycle sixteenth-note patterns that cascade and keep the texture continuously full. White-noise risers build pressure into every drop, gated reverb crashes land on the four. A soaring female voice belts the hook with genuine melodic lift — descending fifth on the first word, a major-seventh climb held four beats on the second. Wide stereo stage on the arps, warm tape saturation on the pads, Decca-tree imaging on the supersaw layers. No guitars, no acoustic drums, no pipe organ, no live instruments, no rap."
+
+lyrics: |
+  [Intro: supersaw arps building, 8 bars]
+
+  [Verse 1: bassline enters, female vocal, 16 bars]
+  Grass still wet beneath my feet
+  We stayed until the field turned gold
+  Your face the last thing the night knew
+  Every light we made our own
+
+  [Pre-Chorus: riser building, 8 bars]
+  The sky is turning
+  I can feel it coming through
+
+  [Drop 1: full supersaws, belted hook, 16 bars]
+  Violet sky
+  Violet sky
+  Violet sky
+  Violet sky
+
+  [Verse 2: arps and bassline full, 16 bars]
+  We ran the hours down to bone
+  And left our names inside the air
+  The morning coming for us all
+  But not yet, not yet, stay right there
+
+  [Pre-Chorus 2: riser builds, 8 bars]
+  The sky is turning
+  I can feel it coming through
+
+  [Breakdown: arps and bass moving, 16 bars]
+  (arps rolling, pads breathing)
+
+  [Build: supersaws stacking, riser, 8 bars]
+
+  [Drop 2: full supersaws, gated crashes, 24 bars]
+  Violet sky
+  Violet sky
+  Violet sky
+  Violet sky
+
+  [Outro: arps cascade, vocal holds, 8 bars]
+  Violet sky — stay
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, jazz, classical, orchestral, reggae, country, folk, blues, R&B, hip-hop, rap, spoken word, cinematic ambient, downtempo, ambient, chill"
+
+notes: |
+  Uplifting vocal trance constructed around the ownable two-syllable hook "Violet sky" — a descending perfect fifth on the first syllable and a major-seventh climb held four beats on the second, locked to the 16th-note supersaw chop at 140 BPM. The scene is the last night of a summer festival: violet pre-dawn sky, bittersweet euphoria of the crowd still together as the night ends, the specific emotional texture of collective loss and beauty overlapping.
+
+  Duration strategy: the arc is intro → verse → pre-chorus → full drop → second verse → pre-chorus → breakdown (arps and bass kept MOVING, not exposed or silent — v527 lesson: sparse mid-song sections truncate) → build riser → bigger drop → outro. The breakdown deliberately retains arps and rolling bassline to prevent the silence-gate truncation failure mode. Final belted hook lands at approximately 2:40+ for a target of 3:15–3:45. The mid-song Drop 1 section (~30-40s) is full and beat-driven, not stripped, to keep density high throughout.
+
+  Playbook moves applied: parametrized colon-lyrics with bar counts (each bracket has label: descriptor, N bars); production-mix tokens in style (polished studio mix, deep low-end definition, wide stereo stage, warm tape saturation, Decca-tree imaging); sentence case throughout; atmospheric-first opening (festival field violet dawn before genre label); five inline negatives at end of style.
+
+  Trio: EUPHORIC SUPERSAW LEAD (thick detuned oscillator stacks chopping on every 16th lock — the melody carrier and drop anchor); ROLLING TRANCE BASSLINE (sidechained pulse maintaining rhythmic and harmonic drive even under the breakdown — the duration lever); SHIMMERING ARPS (cascading 16th-note patterns filling the mid-range continuously — prevent sparse-section truncation). All three are electronic-native — no spectral body-voice concern applies in the trance lane.
+
+  Key: B minor, non-modulation arc (parallel-major lift acceptable on the final drop but not mandated). BPM: 140, proven duration band for 3:15–3:45 wall-clock.
+
+  Novelty: the "Violet sky" hook contour (P5 descent + M7 leap held four beats) is melodically specific and ownable. The breakdown-stays-dense instruction directly addresses the v527 truncation failure. Festival pre-dawn scene (bittersweet euphoria, last-night-of-summer) is not a standard trance lyric frame.
+
+  Style char count: 939.
+
+tags:
+  - uplifting-vocal-trance
+  - trance
+  - euphoric-supersaw-lead
+  - rolling-trance-bassline
+  - shimmering-arps
+  - 140bpm
+  - b-minor
+  - female-vocal
+  - anthemic-belt
+  - festival-scene
+  - bittersweet-euphoria
+  - duration-3min
+  - research-driven
+  - non-modulation
+  - breakdown-dense
+  - violet-hook
+  - new-technique
