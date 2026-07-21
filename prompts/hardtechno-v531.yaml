@@ -1,0 +1,86 @@
+name: "hardtechno-v531"
+version: 531
+title: "Voltage531"
+instrumental: false
+vocal_gender: male
+
+style: "Tunnel-dark hardgroove techno pressing down like concrete at 148 BPM in A minor — the sound of a city underbelly at three a.m., amber light over wet metal floors. The spine of the track is a distorted rumbling kick, relentless and subterranean, locked to a hypnotic looping synth riff that coils around itself every two bars with cold machine precision. Rave-hoover stabs punctuate the grid like pressure-valve releases, answering the mantra hook with industrial authority. Metallic hi-hats splice the 16th-note grid; clang percussion rattles the tunnel walls. A commanding male voice chants the mantra in quarter-note syllables, the hook locked to the downbeat kick, each cycle tighter and more hypnotic than the last. Polished studio mix with wide stereo stage and deep low-end definition — the kick must feel physical, the riff must feel inevitable. No guitars, no acoustic instruments, no pipe organ, no ambient drift, no female vocals."
+
+lyrics: |
+  [Intro: kick and riff, 8 bars]
+
+  [Hook: mantra on downbeat, 8 bars]
+  Three a.m. and I am voltage
+  I am voltage
+
+  [Verse 1: chanted riff and clang, 16 bars]
+  The rails went cold at midnight sharp
+  I pressed my spine against the wall and waited
+  Every light down here is amber
+  Every horn is mine
+
+  [Hook: hoover stabs answer, 8 bars]
+  Three a.m. and I am voltage
+  I am voltage
+
+  [Verse 2: riff tightens, clang intensifies, 16 bars]
+  The tunnel opens like a throat
+  Steel on steel, the city breathing under
+  Nothing above me now, just the grid
+  The machine and I
+
+  [Hook: peak density stabs, 8 bars]
+  Three a.m. and I am voltage
+  I am voltage
+
+  [Riff Break: full beat-driven instrumental, 24 bars]
+
+  [Peak Hook: mantra doubled, stabs every beat, 16 bars]
+  Three a.m. and I am voltage
+  I am voltage
+  I am voltage
+
+  [Outro: kick drives, riff fades, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, ambient, chillout, soft electronic, female vocals, pop, ballad, jazz, blues, folk, country, classical, orchestral, gospel, reggae, latin, afrobeat, drum and bass, dubstep, house, trance, cinematic ambient, elegiac, intimate chamber"
+
+notes: |
+  Hardgroove techno (also called hard techno or hardgroove) is a strain of peak-time techno characterized by a heavily distorted, subterranean kick drum — the defining element — combined with short hypnotic synth riffs that repeat with mechanical regularity, industrial clang percussion, and hoover-stab synth patches (aggressive pitched-down portamento patches derived from rave culture). The form prioritizes density, tunnel-pressure atmosphere, and forward drive over harmonic development; it is a dance-floor command rather than a narrative arc.
+
+  Concept source: the last train missed on purpose — surrender to the machine — framed as descent into an all-night industrial rave under the city, with the mantra hook "Three a.m. and I am voltage" as the lyric spine.
+
+  The hook contour (briefed by the caller) places 'THREE' on the kick downbeat in a quarter-note, then leaves one beat of rhythmic rest filled only by the distorted sub-kick, before 'I am voltage' arrives as a rising triplet (E–F#–A) held on the final syllable — the hoover stab answers. This rest-fingerprint is the ownable detail that distinguishes the hook from generic hard-techno chants.
+
+  Duration strategy: the arc is explicitly non-modulation and non-silence-gate. Duration is carried by a full instrumental Riff Break (~24 bars, beat-driven and dense — no ambient gap) positioned at ~60% of the song, and by pushing the final peak mantra to ~2:40+. At 148 BPM the bar count (112 bars total) targets a 3:15–3:45 wall-clock render. The Build/Silence/Drop stack is deliberately omitted per the caller's brief — the in-hook one-beat rest is a micro-gap only, not a gate.
+
+  Production tokens used: polished studio mix, wide stereo stage, deep low-end definition.
+
+  Featured trio roles:
+  - DISTORTED RUMBLING KICK (body anchor): subterranean pulse locked to every downbeat; the physical spine of the track.
+  - HYPNOTIC LOOPING SYNTH RIFF (body melodic engine): 2-bar cold coiling figure that binds every section; the harmonic identity.
+  - RAVE-HOOVER STABS (spectral accent, ≤1 spectral per trio rule observed): pitched pressure-valve releases answering the mantra; crescendo through the peak section.
+
+  Style: 940 chars. Lyrics verified under 1000 chars. Sentence case throughout; no ALL-CAPS form labels in style. Blocklist clean.
+
+tags:
+  - distorted-kick
+  - synth-riff
+  - rave-hoover
+  - 148bpm
+  - a-minor
+  - industrial-rave-scene
+  - hard-techno
+  - hardgroove
+  - peak-time
+  - male-vocal
+  - mantra-hook
+  - duration-3min
+  - research-driven
+  - new-technique
+  - new-bpm
+  - forward-motion
+  - dance-floor
+  - warehouse
+  - voltage531

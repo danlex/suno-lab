@@ -545,6 +545,7 @@ mindmap
 | 528 | Fever528 | speed garage / bassline house, dense drop-hook, non-modulation (rendered 3:17 / 3:09) | F minor | 135 | wobbling reese sub-bass + rave organ stabs + skippy 4x4 garage kick |
 | 529 | Tarmac529 | liquid drum & bass, rolling drop-hook, non-modulation (rendered 3:31 / 3:38) | G minor | 174 | rolling sub-bass + lush Rhodes chords + amen-style rolling breakbeat |
 | 530 | Violet530 | uplifting vocal trance, belted drop-hook, non-modulation (rendered 4:19 / 4:13) | B minor | 140 | euphoric supersaw lead + rolling trance bassline + shimmering arps |
+| 531 | Voltage531 | hard/peak-time techno, mantra drop-hook, non-modulation (rendered 3:21 / 3:26) | A minor | 148 | distorted rumbling kick + hypnotic looping synth riff + rave-hoover stabs |
 
 ## Next-cycle priorities
 
