@@ -551,6 +551,7 @@ mindmap
 | 534 | Ribcage534 | jump-up drum & bass, rolling drop-hook, non-modulation (rendered 7:59 / 3:02) | E minor | 174 | rolling breakbeat + growling jump-up bassline + chopped vocal stabs |
 | 535 | Serial535 | vocoder rising-fourth hook + dense mid-song electro break | B minor | 132 | 808 kick+rim-shot snare, cold synth-funk bassline, vocoder male lead |
 | 536 | Tumblers536 | chopped-vocal stutter hook + dense mid-song break | F# minor | 140 | triplet bounce kick, bed-squeak percussion, chopped-vocal+synth stabs |
+| 537 | Streetname537 | male/female duet call-and-response hook + dense 2-step beat drop | G minor | 134 | warm sub-bass, chopped soul-vocal stabs, shuffled 2-step garage drums |
 
 ## Next-cycle priorities
 

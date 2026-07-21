@@ -1,6 +1,6 @@
 {
-  "total_prompts": 513,
-  "latest_version": 535,
+  "total_prompts": 517,
+  "latest_version": 536,
   "instruments": {
     "organ": [
       1,
@@ -117,7 +117,11 @@
       535,
       535,
       535,
-      535
+      535,
+      536,
+      536,
+      536,
+      536
     ],
     "piano": [
       1,
@@ -289,7 +293,11 @@
       535,
       535,
       535,
-      535
+      535,
+      536,
+      536,
+      536,
+      536
     ],
     "cello": [
       33,
@@ -1381,37 +1389,6 @@
       470,
       514
     ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      162,
-      173,
-      178,
-      187,
-      251,
-      257,
-      314,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      448,
-      454,
-      459,
-      535
-    ],
     "neoclassical": [
       1,
       2,
@@ -1441,6 +1418,33 @@
       321,
       424
     ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      173,
+      187,
+      251,
+      257,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      454,
+      459,
+      535
+    ],
     "house": [
       242,
       261,
@@ -1458,7 +1462,8 @@
       496,
       508,
       522,
-      534
+      534,
+      536
     ],
     "chamber": [
       192,
@@ -1473,6 +1478,15 @@
       348,
       451,
       524
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "techno": [
       279,
@@ -1518,11 +1532,11 @@
       510,
       535
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
+    "trance": [
+      396,
+      488,
+      530,
+      536
     ],
     "drone": [
       304,
@@ -1533,11 +1547,6 @@
       145,
       149,
       313
-    ],
-    "trance": [
-      396,
-      488,
-      530
     ],
     "amapiano": [
       266,
@@ -1558,6 +1567,10 @@
     "post-classical": [
       112,
       315
+    ],
+    "synthwave": [
+      1,
+      448
     ],
     "2-step garage": [
       100
@@ -1582,9 +1595,6 @@
     ],
     "progressive house": [
       96
-    ],
-    "synthwave": [
-      1
     ]
   },
   "keys": {
@@ -1626,7 +1636,8 @@
       512,
       518,
       531,
-      532
+      532,
+      536
     ],
     "d minor": [
       1,
@@ -2029,6 +2040,17 @@
       482,
       511
     ],
+    "c# minor": [
+      68,
+      272,
+      284,
+      297,
+      310,
+      312,
+      322,
+      408,
+      536
+    ],
     "d-flat minor": [
       103,
       129,
@@ -2061,16 +2083,6 @@
       477,
       505
     ],
-    "c# minor": [
-      68,
-      272,
-      284,
-      297,
-      310,
-      312,
-      322,
-      408
-    ],
     "d-sharp minor": [
       210,
       222,
@@ -2081,19 +2093,21 @@
       474,
       499
     ],
+    "f# minor": [
+      77,
+      141,
+      267,
+      286,
+      295,
+      536,
+      536
+    ],
     "bb minor": [
       45,
       58,
       264,
       300,
       411
-    ],
-    "f# minor": [
-      77,
-      141,
-      267,
-      286,
-      295
     ],
     "f-sharp major": [
       24,
@@ -2611,7 +2625,8 @@
       279,
       390,
       482,
-      516
+      516,
+      536
     ],
     "129": [
       219,
@@ -2685,7 +2700,8 @@
       260,
       319,
       393,
-      471
+      471,
+      536
     ],
     "139": [
       223,
@@ -2707,7 +2723,9 @@
       460,
       530,
       532,
-      535
+      535,
+      536,
+      536
     ],
     "141": [
       224,
@@ -2860,6 +2878,42 @@
     ]
   },
   "titles": [
+    {
+      "version": 536,
+      "title": "Tumblers536",
+      "name": "jerseyclub-v536-candB",
+      "featured": [],
+      "genre": null,
+      "key": "f# minor",
+      "bpm": 140
+    },
+    {
+      "version": 536,
+      "title": "Tumblers536",
+      "name": "jerseyclub-v536",
+      "featured": [],
+      "genre": null,
+      "key": "f# minor",
+      "bpm": 140
+    },
+    {
+      "version": 536,
+      "title": "Seventeen536",
+      "name": "techtrance-v536-candC",
+      "featured": [],
+      "genre": "trance",
+      "key": "c# minor",
+      "bpm": 138
+    },
+    {
+      "version": 536,
+      "title": "Silk536",
+      "name": "ukfunky-v536-candA",
+      "featured": [],
+      "genre": "house",
+      "key": "a minor",
+      "bpm": 128
+    },
     {
       "version": 535,
       "title": "Birdsong535",
@@ -3781,7 +3835,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "synthwave",
       "key": "a minor",
       "bpm": 106
     },
@@ -4966,7 +5020,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -6515,7 +6569,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -6666,7 +6720,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },

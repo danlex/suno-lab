@@ -1,0 +1,95 @@
+name: "ukgarage-v537"
+version: 537
+title: "Streetname537"
+instrumental: false
+vocal_gender: male
+
+style: "Two voices texting across a sleeping city at 4am, a shuffled 2-step groove pulling them closer before sunrise — UK garage, warm and soulful, romantic tension in every syncopated beat. Polished studio mix, deep low-end definition, wide stereo stage. G minor, 134 BPM. Warm sub-bass locks the root on every bar with round resonant weight; chopped soul-vocal stabs punctuate the off-beats, each chop a word not yet said; shuffled 2-step garage drums swing with the characteristic skip, snare lifting on the mid-beat 16th, kick landing just before beat three. The male voice opens each call — pentatonic, unhurried, hook syllable on the syncopated 16th before beat three; female voice answers a beat-and-a-half late, transposed up a minor third, her reply turning the call unresolved, a sixth between the voices hanging in the air. Dense continuous groove throughout, no strip. No guitars, no rock drums, no pipe organ, no heavy metal, no ambient fade."
+
+lyrics: |
+  [Intro: sub-bass stabs, 8 bars]
+
+  [Verse 1: 16 bars]
+  [Male]
+  Your light's still on, I counted the floors
+  I typed it twice, deleted the door
+  [Female]
+  A cursor blinks where a word should go
+  Know the word — just going slow
+
+  [Hook 1: call-response, 8 bars]
+  [Male] Say the street name
+  [Female] Say the street name
+  [Male] Say it — say it now
+  [Female] Say the street name
+
+  [Verse 2: 12 bars]
+  [Male] City's quiet, the 4am hum
+  [Female] One hour before sunrise comes
+  [Both] Not tired — waiting on you
+
+  [Hook 2: 8 bars]
+  [Male] Say the street name
+  [Female] Say the street name
+  [Both] Say it before the light
+  Say the street name
+
+  [Beat Drop: dense 2-step, 32 bars]
+
+  [Verse 3: 12 bars]
+  [Female] Pressed send before I could think
+  [Male] (Come over)
+  [Female] One word and we're over the brink
+
+  [Final Hook: 16 bars]
+  [Male] Say the street name
+  [Female] Say the street name
+  [Both]
+  Say it — say it now
+  Say the street name
+  Before the sun comes up
+  [Female] Say the street name
+
+  [Outro: 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, country, folk, jazz, classical, orchestral, ambient, downtempo, chillout, meditation, zen, reggae, reggaeton, trap, hip-hop, R&B ballad, cinematic ambient, grime, drill"
+
+notes: |
+  UK 2-step garage is a late-1990s London genre defined by its shuffled 4/4 kick pattern — the kick displaces to just before beat three rather than landing on it, creating the lurching forward motion that distinguishes 2-step from straight house. The groove is built around a warm sub-bass root hold, off-beat soul-vocal chops, and a skippy snare placement, with melodic content delivered through pitched vocal samples and singer hooks rather than instrumental leads.
+
+  Concept source: two people texting across a sleeping city at 4am, each typing and deleting "come over" — the hesitation turning to yes. The ownable hook "Say the street name" uses three repeated tonic notes (G4) with a descending minor third on 'name' (G4→Eb4); the female echo enters a beat-and-a-half later transposed up a minor third (Bb4→G4), creating an unresolved G-minor sixth between the two voices that mirrors the song's sexual tension.
+
+  This echoes the garage producers who built the genre's 2-step grammar and its tradition of pairing male MC calls with female vocal hook answers — without naming any of those practitioners.
+
+  Duration strategy: parametrized colon-syntax sections with bar counts (8+16+8+12+8+32+12+16+8 = 120 bars at 134 BPM targets ~3:30). The 32-bar [Beat Drop] mid-song instrumental is explicitly dense and beat-driven — not ambient, not stripped — per the v527 lesson that sparse mid-song vamps truncate hard. Final hook pushed late in the arc. Production tokens used: polished studio mix, deep low-end definition, wide stereo stage. Style 948 chars, sentence case throughout, atmospheric-first opening.
+
+  Duet architecture: [Male] tags open each call phrase, [Female] tags answer a beat-and-a-half late; [Both] tags appear at convergence moments (Hook 2 resolution, Final Hook climax). vocal_gender is set to male so Suno's toggle honors the opening voice; [Female] tags in the lyrics instruct the call-and-response swap.
+
+  Negative-prompt audit: does NOT exclude synthesizers, electronic, vocals, or bass (this is a vocal electronic groove track). Excludes genre drift only (grime, drill, trap, rock, metal, orchestral, ambient, country).
+
+  Instruments: warm sub-bass (groove anchor, round low-end), chopped soul-vocal stabs (off-beat rhythmic/melodic fill), shuffled 2-step garage drums (skip-kick 2-step pattern, genre signature). All three are body voices — no spectral instruments in this trio.
+
+  Novelty: UK 2-step garage duet call-and-response is unused in the catalog. BPM 134 in the proven duration band. G minor. Scene (4am pre-dawn city texting hesitation) is unused.
+
+tags:
+  - uk-garage
+  - 2-step-garage
+  - warm-sub-bass
+  - chopped-soul-vocal-stabs
+  - shuffled-2-step-drums
+  - 134bpm
+  - g-minor
+  - male-female-duet
+  - call-and-response
+  - soulful
+  - romantic-tension
+  - 4am-city-scene
+  - dense-groove
+  - beat-drop-midpoint
+  - say-the-street-name-hook
+  - duration-3min
+  - research-driven
+  - vocal
+  - new-lane
