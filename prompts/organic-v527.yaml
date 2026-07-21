@@ -1,0 +1,109 @@
+name: "organic-v527"
+version: 527
+title: "Sea527"
+
+style: "Warm organic downtempo with a dreamy coastal pull: kora as plucked melodic hero, deep warm sub-bass, drifting analog pads, live hand congas and a soft four-on-the-floor pulse. Polished studio mix, wide stereo stage, lush acoustic ambience. F minor, 110 BPM. Salt-haze dawn on an empty coastal road — bittersweet release into open horizon. Warm yearning male vocal, genuinely sung and melodic, not spoken. The kora holds the melodic line throughout, plucked tones glowing against deep low-end definition of the sub-bass. Analog pads drift beneath every section. Live congas and shaker keep organic pulse without rigidity. Arrangement grows by timbral accretion: kora alone, then bass and pads layer in, vocals emerge, then a lyric-free kora sunrise vamp before a cumulative density climax with full percussion and pad bloom. Organic additive build to a warm sustained close. No guitars, no synthesizer leads, no rock drums, no pipe organ, no trumpet."
+
+lyrics: |
+  [Intro: kora solo, plucked theme]
+  0:00
+
+  [Verse 1]
+  The salt on the glass has dried
+  Dawn bleeds through the palm trees
+  Engine ticks, the road goes wide
+  I've been driving since I couldn't sleep
+
+  [Pre-Chorus]
+  The water pulls it all below
+  What I held so long, I let it go
+
+  [Chorus]
+  The sea forgets your name
+  The sea forgets your name
+  Horizon swallows all the blame
+  The sea forgets your name
+
+  [Verse 2]
+  The radio plays nothing good
+  Just static, salt air, open sky
+  I drove out past the neighborhood
+  Where we used to say goodbye
+
+  [Pre-Chorus]
+  The water pulls it all below
+  What I held so long, I let it go
+
+  [Chorus]
+  The sea forgets your name
+  The sea forgets your name
+  Horizon swallows all the blame
+  The sea forgets your name
+
+  [Kora Vamp: kora and hand percussion, no vocals]
+  1:50
+
+  [Climax Chorus: full percussion, pad bloom]
+  The sea forgets your name
+  The sea forgets your name
+  Wide and salt and never the same
+  The sea forgets your name
+
+  [Outro: kora, warm fade]
+  2:40
+  The sea forgets your name
+
+  [End]
+
+instrumental: false
+vocal_gender: male
+
+exclude_styles: "Arabic, Middle Eastern scales, oud, sitar, flamenco, klezmer, gypsy, rock, metal, lo-fi, pipe organ, EDM festival drop, dubstep, hardstyle, hard techno, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, trap, drill, hip-hop rap vocals, distorted bass, country, bluegrass, reggae"
+
+notes: |
+  Cycle v527 tournament WINNER over Vitres527 (dub techno, FR female) and
+  Confession527 (trip-hop, EN female). Chosen to MAXIMIZE real-axis variance vs
+  v526 (fast/female/French/bright-dance): Sea527 is male, English, mid-tempo,
+  warm-dreamy — the only candidate that changes the vocal-gender axis, per the
+  bigger-variance directive. Still beat-anchored (sub-bass + soft four-on-the-floor
+  + congas) so it is danceable-adjacent, not chamber/folk.
+
+  Lane: organic-house-adjacent downtempo — additive/timbral build (kora → bass →
+  pads → vocal → percussion density) to a cumulative density climax, then warm
+  sustained close. No modulation, no silence-drop.
+
+  HOOK: "The sea forgets your name" — the sea as the AGENT of forgetting. Contour:
+  'The sea' held on the root (Fm), 'for-gets' falls a minor third, 'your name'
+  rises a major second — a five-syllable grief-then-acceptance arc.
+
+  NOVELTY: KORA is the deepest available revival (last used v181, ~346-version gap),
+  West-African plucked harp as the melodic hero. Deep warm sub-bass + dreamy analog
+  pads complete the trio. BPM 110 with a kora hero is a fresh combination.
+
+  DURATION LEVER: explicit lyric-free [Kora Vamp] mid-song (~1:50) + final sung line
+  at ~2:40. BPM 110 is near the slow ceiling; the vamp + additive density mitigate.
+  Target 3:15-3:45.
+
+  EDIT vs drafter output: exclude_styles rewritten to remove the self-contradicting
+  "electronic" and "world music" (they would suppress the downtempo-electronic
+  production and the kora itself — see negative-prompt-contradiction rule); kept
+  Arabic/Middle-Eastern-scale guards so the kora doesn't pull Suno into Arabic modes.
+  Style 949 chars, lyrics 990 chars — both verified under the 1000 gate.
+
+tags:
+  - kora
+  - deep-warm-sub-bass
+  - dreamy-analog-pads
+  - 110bpm
+  - f-minor
+  - dawn-coastal-drive-scene
+  - revival-kora-346-gap
+  - organic-downtempo
+  - organic-house-adjacent
+  - additive-build
+  - male-vocal
+  - bittersweet-release
+  - duration-3min
+  - research-driven
+  - variance-vocal-axis
+  - v527

@@ -1,6 +1,6 @@
 {
-  "total_prompts": 500,
-  "latest_version": 525,
+  "total_prompts": 501,
+  "latest_version": 526,
   "instruments": {
     "organ": [
       1,
@@ -1125,6 +1125,12 @@
       253,
       444
     ],
+    "balafon": [
+      106,
+      125,
+      186,
+      526
+    ],
     "contrabass": [
       83,
       130,
@@ -1142,11 +1148,6 @@
       115,
       180,
       290
-    ],
-    "balafon": [
-      106,
-      125,
-      186
     ],
     "baritone saxophone": [
       346,
@@ -1351,9 +1352,39 @@
       316,
       317,
       319,
+      323,
       444,
       470,
       514
+    ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      162,
+      173,
+      178,
+      187,
+      251,
+      257,
+      314,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      454,
+      459
     ],
     "neoclassical": [
       1,
@@ -1383,32 +1414,6 @@
       249,
       321,
       424
-    ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      173,
-      187,
-      251,
-      257,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      454,
-      459
     ],
     "house": [
       242,
@@ -1445,15 +1450,6 @@
       518,
       524
     ],
-    "symphonic": [
-      162,
-      178,
-      311,
-      314,
-      318,
-      320,
-      322
-    ],
     "trap": [
       264,
       274,
@@ -1463,6 +1459,14 @@
       297,
       301
     ],
+    "techno": [
+      279,
+      352,
+      355,
+      403,
+      469,
+      526
+    ],
     "jazz": [
       336,
       349,
@@ -1470,18 +1474,17 @@
       437,
       473
     ],
-    "techno": [
-      279,
-      352,
-      355,
-      403,
-      469
-    ],
     "garage": [
       353,
       367,
       406,
       462
+    ],
+    "symphonic": [
+      311,
+      318,
+      320,
+      322
     ],
     "breakbeat": [
       357,
@@ -1493,22 +1496,17 @@
       305,
       453
     ],
-    "romantic": [
-      145,
-      149,
-      313
-    ],
     "amapiano": [
       266,
       343
     ],
+    "concerto": [
+      145,
+      149
+    ],
     "lo-fi": [
       296,
       502
-    ],
-    "minimalist": [
-      201,
-      323
     ],
     "passacaglia": [
       111,
@@ -1550,8 +1548,14 @@
     "hardstyle": [
       398
     ],
+    "minimalist": [
+      201
+    ],
     "progressive house": [
       96
+    ],
+    "romantic": [
+      313
     ]
   },
   "keys": {
@@ -1857,6 +1861,20 @@
       489,
       521
     ],
+    "a-flat minor": [
+      107,
+      126,
+      206,
+      221,
+      235,
+      258,
+      334,
+      355,
+      398,
+      422,
+      495,
+      526
+    ],
     "c-sharp minor": [
       117,
       179,
@@ -1884,19 +1902,6 @@
       456,
       486,
       514
-    ],
-    "a-flat minor": [
-      107,
-      126,
-      206,
-      221,
-      235,
-      258,
-      334,
-      355,
-      398,
-      422,
-      495
     ],
     "c major": [
       39,
@@ -2525,7 +2530,8 @@
       288,
       366,
       366,
-      475
+      475,
+      526
     ],
     "123": [
       216,
@@ -2801,6 +2807,17 @@
     ]
   },
   "titles": [
+    {
+      "version": 526,
+      "title": "Os526",
+      "name": "afrohouse-v526",
+      "featured": [
+        "balafon"
+      ],
+      "genre": "techno",
+      "key": "a-flat minor",
+      "bpm": 122
+    },
     {
       "version": 525,
       "title": "Sameroad525",
@@ -4691,7 +4708,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -4786,7 +4803,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": "b minor",
       "bpm": 100
     },
@@ -6335,7 +6352,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -6486,7 +6503,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "symphonic",
+      "genre": "cinematic",
       "key": null,
       "bpm": null
     },
@@ -6607,7 +6624,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -6643,7 +6660,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },
