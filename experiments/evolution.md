@@ -552,6 +552,7 @@ mindmap
 | 535 | Serial535 | vocoder rising-fourth hook + dense mid-song electro break | B minor | 132 | 808 kick+rim-shot snare, cold synth-funk bassline, vocoder male lead |
 | 536 | Tumblers536 | chopped-vocal stutter hook + dense mid-song break | F# minor | 140 | triplet bounce kick, bed-squeak percussion, chopped-vocal+synth stabs |
 | 537 | Streetname537 | male/female duet call-and-response hook + dense 2-step beat drop | G minor | 134 | warm sub-bass, chopped soul-vocal stabs, shuffled 2-step garage drums |
+| 538 | Breakfast538 | alliterative comic-swagger hook + dense mid-song groove | F minor | 140 | wobbling organ-bass, gurgling sub-bass, four-to-the-floor kick + skippy garage snare |
 
 ## Next-cycle priorities
 

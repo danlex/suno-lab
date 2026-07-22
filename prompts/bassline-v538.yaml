@@ -1,0 +1,89 @@
+name: "bassline-v538"
+version: 538
+title: "Breakfast538"
+instrumental: false
+vocal_gender: male
+
+style: "Silver-tongued Friday-night charm pours through a gurgling wobbling organ-bass — UK bassline house, 140 BPM, F minor, dense and relentlessly danceable. Polished studio mix, deep low-end definition, wide stereo stage. Four-to-the-floor kick anchors the main pulse while a skippy garage-edge snare lifts on the syncopated 16th; the organ-bass wobbles in a mid-range squelch, sub-bass gurgling beneath with a round snapping attack on every downbeat. A cocky male topline rides the bounce with playful swagger — conversational, charismatic, never belted — the hook phrase landing on a syncopated skip that mirrors the genre's skippy fingerprint. Bright staccato organ stabs punctuate the upper register; rolling hi-hat patterns drill the 16th grid with garage urgency; a mid-song beat-driven groove section keeps the floor locked tight without letting up. No guitars, no rock drums, no pipe organ, no acoustic instruments, no ambient pads."
+
+lyrics: |
+  [Intro: organ squelch, 8 bars]
+
+  [Verse 1: 16 bars]
+  Third club tonight, third velvet rope moved
+  List was closed, I said my name was first
+  Six bouncers, six nods, zero words
+  I don't knock doors — I own the universe
+
+  [Hook 1: 8 bars]
+  Bought the bouncer breakfast
+  Bought the bouncer breakfast
+  That's how I get in — that's how I win
+  Bought the bouncer breakfast
+
+  [Verse 2: 12 bars]
+  Waved the rope like I built the place
+  Every room I enter bends to the pace
+  They don't check my name — they check my face
+
+  [Hook 2: 8 bars]
+  Bought the bouncer breakfast
+  Bought the bouncer breakfast
+  Eggs and a handshake, slid back the chain
+  Bought the bouncer breakfast
+
+  [Dense Groove: 32 bars]
+
+  [Verse 3: 12 bars]
+  Friday owns me, I own Friday back
+  City lights bow, I don't check the map
+  Charm is currency, I never go broke
+
+  [Final Hook: 16 bars]
+  Bought the bouncer breakfast
+  Bought the bouncer breakfast
+  How I get in — that's how I win
+  Bought the bouncer breakfast
+  Bought the bouncer breakfast
+
+  [Outro: 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, country, folk, jazz, classical, orchestral, ambient, downtempo, chillout, meditation, zen, reggae, reggaeton, trap, hip-hop, R&B ballad, cinematic ambient, grime, drill, dubstep, techno, trance"
+
+notes: |
+  UK bassline (also called bassline house or Sheffield bassline) is a dense, fast-paced UK underground genre sitting between UK garage and house — typically 135–145 BPM, built on a characteristically squelching mid-range organ-bass riff that wobbles and gurgles over a sub-bass floor, four-to-the-floor kick with a skippy syncopated snare drawn from 2-step garage's DNA. The topline vocal tradition is male and charismatic — colloquial, not belted, riding the rhythm with playful swagger rather than soul power.
+
+  Concept source: a silver-tongued Friday-night chancer who talks his way past every bouncer in the city — pure charm-swagger, the night bending to him. The ownable hook "bought the bouncer breakfast" places four sixteenth-note alliterative B-consonants on F-F-Ab-Bb (bought-the-BOUN-cer), then 'BREAK-fast' as a dotted-eighth + sixteenth landing on the AND of beat 3 — a skip-syncopation fingerprint that mirrors the genre's skippy garage edge. Three B-consonants reinforce the rhythmic snap.
+
+  This echoes Sheffield and Leeds bassline producers who codified the genre's organ-bass squelch and MC-swagger topline tradition in the mid-2000s — without naming any of those practitioners.
+
+  Duration strategy: parametrized colon-syntax sections with bar counts (8+16+8+12+8+32+12+16+8 = 120 bars at 140 BPM, targeting ~3:30). The 32-bar [Dense Groove] mid-song instrumental is explicitly dense — organ-bass squelch and four-to-the-floor driving the floor — not ambient or sparse, per the v527 lesson that sparse vamps truncate hard. Final hook pushed to ~80% of the arc. Production tokens used: polished studio mix, deep low-end definition, wide stereo stage. Style 935 chars, sentence case, atmospheric-first opening.
+
+  Negative-prompt audit: does NOT exclude synthesizers, electronic, vocals, or bass. The organ-bass and sub-bass are the core synth instruments of the genre; excluding them would destroy the sound. Excludes genre drift only (grime, drill, trap, dubstep, rock, orchestral, ambient, country, trance).
+
+  Instruments: wobbling organ-bass (genre-defining squelch, mid-range rhythmic anchor), gurgling snapping sub-bass (low-end floor, round downbeat attack), four-to-the-floor kick with skippy garage-edge snare and rolling hi-hat (rhythmic chassis). Dense continuous groove — no spectral instruments.
+
+  Novelty: UK bassline house is unused in the catalog (distinct lane from UK garage v537). BPM 140 is unused. F minor unused in recent catalog. Friday-night bouncer charm-swagger scene is unused.
+
+tags:
+  - uk-bassline
+  - bassline-house
+  - organ-bass
+  - sub-bass
+  - four-to-the-floor
+  - 140bpm
+  - f-minor
+  - male-vocal
+  - cocky-swagger
+  - skippy-garage-edge
+  - friday-night-scene
+  - bought-the-bouncer-breakfast-hook
+  - dense-groove
+  - beat-driven-mid-section
+  - duration-3min
+  - research-driven
+  - vocal
+  - new-lane
+  - new-bpm
