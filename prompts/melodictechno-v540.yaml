@@ -1,0 +1,92 @@
+name: "melodictechno-v540"
+version: 540
+title: "Turning540"
+instrumental: false
+vocal_gender: male
+
+style: "Melodic techno at the edge of grief — the last watch kept by a man who knows the machine takes over at dawn, cold sea air and a rotating beam and thirty years condensed to one night. Hypnotic, elegiac, cinematic, 126 BPM in C minor. Four-to-the-floor kick holds the pulse while 16th-note analog arpeggio cascades spiral without pause, wide pad chords breathing underneath in long slow sweeps. A single aching lead synth motif descends the minor scale, returning each verse. A male voice sings with quiet gravity — legato phrases in even quarter-notes against the relentless 16th-note bed, restraint carrying all the weight. Polished studio mix, deep low-end definition, wide stereo stage. Dense and continuously driven — arpeggios never stop, kick stays live through every section. No guitars, no rock drums, no pipe organ, no acoustic instruments, no shouted vocals."
+
+lyrics: |
+  [Intro: arpeggio, motif, 8 bars]
+
+  [Verse 1: 16 bars]
+  Thirty years and a clockwork sea
+  Every night I wind the lens, it winds me
+  The ships stopped coming, the light stayed on
+  I kept the record, kept the dawn
+
+  [Hook 1: 8 bars]
+  Turning for no one
+  Turning for no one
+  The beam goes out and comes back round
+  Turning for no one
+
+  [Verse 2: pads rise, 16 bars]
+  Tonight I climb the stairs one last time
+  Count the steps the way I always have
+  The lens knows nothing of what follows
+  Only the arc, the turn, the path
+
+  [Hook 2: 8 bars]
+  Turning for no one
+  Turning for no one
+  The dark between the sweeps runs wide
+  Turning for no one
+
+  [Dense Groove: arpeggio, kick, 32 bars]
+
+  [Verse 3: 12 bars]
+  The ships stopped needing me years back
+  I kept the light by pact
+  Tonight I wind the lens one last time
+  Let the circuit learn the climb
+
+  [Final Hook: 16 bars]
+  Turning for no one
+  Turning for no one
+  The slow descent from G to C
+  Turning for no one
+  Turning for no one
+  The beam sweeps on indifferent
+
+  [Outro: 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, country, folk, jazz, classical, orchestral, ambient, downtempo, chillout, meditation, zen, reggae, trap, hip-hop, R&B ballad, cinematic ambient, intimate chamber, hardtechno, dubstep, EDM festival, electropop"
+
+notes: |
+  Melodic techno is a subgenre of techno (typically 120–135 BPM) defined by tonal coherence — sustained wide analog pad chords, looping 16th-note arpeggio cascades, a recurring lead synth motif, and four-to-the-floor kick — producing a hypnotic, forward-driven, emotionally open texture distinct from percussive or industrial techno. The genre became a vehicle for cinematic emotional weight in electronic music through the Berlin scene, without naming any practitioners.
+
+  Concept source: the last human lighthouse keeper on the final night before automation replaces him — watching the beam sweep the dark one last time, farewell to a lifetime of solitary unrewarded duty. The hook phrase "turning for no one" distills the paradox: duty without audience, rotation without witness. Pitch contour: descending gravity-arc — G4 'turning' (fifth), F4 'for' (fourth), Eb4 'no' (minor third), C4 'one' (root, sustained) — legato even quarter-notes against the driving 16th-note arpeggio bed.
+
+  This echoes a generation of European melodic-techno composers who turned the genre toward emotional depth and wide-screen pathos — unnamed per blocklist discipline.
+
+  Duration strategy: parametrized colon-syntax sections with bar counts (8+16+8+16+8+32+12+16+8 = 124 bars at 126 BPM, targeting ~3:20–3:45). The [Dense Groove] 32-bar mid-section is kick-live and arpeggio-continuous — not ambient, not sparse — applying the v527 lesson. Final hook pushed late (~75% of arc). Production tokens: polished studio mix, deep low-end definition, wide stereo stage.
+
+  Negative-prompt audit: exclude_styles does NOT contain "vocals," "singing," "electronic," or "synthesizer." Inline negatives cover guitars, rock drums, pipe organ, acoustic instruments, shouted vocals — none contradict the synth-vocal bed.
+
+  Novelty: melodic-techno + lighthouse-keeper farewell scene unused in catalog. "Turning for no one" hook with descending-gravity pitch contour and duty-without-audience paradox is new. 126 BPM unused in recent catalog.
+
+tags:
+  - melodic-techno
+  - 126bpm
+  - c-minor
+  - male-vocal
+  - elegiac
+  - cinematic
+  - hypnotic
+  - rolling-bassline
+  - 16th-note-arpeggios
+  - analog-pads
+  - lead-motif
+  - lighthouse-keeper-scene
+  - turning-for-no-one-hook
+  - duty-without-audience
+  - dense-groove
+  - beat-driven-mid-section
+  - duration-3min
+  - research-driven
+  - vocal
+  - english-lyrics
+  - new-bpm

@@ -554,6 +554,7 @@ mindmap
 | 537 | Streetname537 | male/female duet call-and-response hook + dense 2-step beat drop | G minor | 134 | warm sub-bass, chopped soul-vocal stabs, shuffled 2-step garage drums |
 | 538 | Breakfast538 | alliterative comic-swagger hook + dense mid-song groove | F minor | 140 | wobbling organ-bass, gurgling sub-bass, four-to-the-floor kick + skippy garage snare |
 | 539 | Glass539 | Cinderella-subversion diva hook + dense filter break | A minor | 128 | filtered disco-string loops, sidechained bass + four-on-the-floor kick, piano/clav stabs |
+| 540 | Turning540 | descending-gravity elegiac hook + dense arpeggio groove | C minor | 126 | 16th-note analog arpeggios, rolling bassline + four-to-the-floor kick, aching lead synth motif |
 
 ## Next-cycle priorities
 
