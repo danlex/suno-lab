@@ -1,0 +1,90 @@
+name: "discohouse-v539"
+version: 539
+title: "Glass539"
+instrumental: false
+vocal_gender: female
+
+style: "Euphoric disco-house and French-touch filter house — a mirrorball spinning over a floor that belongs to one woman, self-possessed and glowing, dancing for herself alone. Polished studio mix, wide stereo stage, warm tape saturation, deep low-end definition. A minor, 128 BPM. Soaring soulful female diva vocal, genuinely sung with joy and confidence. Filtered disco-string loops shimmer on the off-beats; a warm sidechained bass pulses under the four-on-the-floor kick; punchy piano and clav stabs land on the two and four; hi-hat sixteenths keep the floor alive between phrases. Dense continuous arrangement — strings filtered through the verse, opened wide at the chorus. Mid-song filter section: clav and disco strings take the floor with kick and bass, beat-driven, no ambient gaps. Final hook arrives late, voice wide open over the full arrangement. No acoustic guitar strumming, no pipe organ, no rock drums, no rap, no spoken word."
+
+lyrics: |
+  [Intro: filtered strings + kick, 8 bars]
+
+  [Verse 1: 16 bars]
+  Came here by myself, left everybody jealous
+  The DJ read my hips before I said a word
+  Every tile my mirror now
+
+  [Pre-Chorus: 8 bars]
+  No one to impress
+  Just the beat and the bass in my chest
+
+  [Chorus: 16 bars]
+  Glass shoes, no prince
+  I don't need saving on this floor
+  Glass shoes, no prince
+  Just me and the music, nothing more
+  The mirrorball is all I wore
+
+  [Verse 2: 12 bars]
+  Wore the dress I bought for no occasion
+  The spotlight found me like it had been waiting
+
+  [Pre-Chorus 2: 8 bars]
+  No one to please
+  Four-on-the-floor and how this feels
+
+  [Chorus 2: 16 bars]
+  Glass shoes, no prince
+  I don't need saving on this floor
+  Glass shoes, no prince
+  Just me and the music, nothing more
+
+  [Filter Break: clav + strings + kick, 32 bars]
+
+  [Final Chorus: 20 bars]
+  Glass shoes, no prince
+  I don't need saving on this floor
+  Glass shoes, no prince
+  Just me and the music, nothing more
+  The mirrorball is all I wore
+  This floor is mine
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, zen meditation, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, downtempo, country, folk, reggae, jazz, hip hop, trap, drill, gospel, ballad, punk, indie folk, singer-songwriter, spoken word, rap"
+
+notes: |
+  Disco-house (also called French-touch filter house) emerged in mid-1990s Paris as a reaction to the purist techno scene — producers associated with the Roule and Crydamoure labels took dusty disco vinyl, applied high-pass and low-pass filter sweeps to the master bus (the "filter" that defines the sound), laid a four-on-the-floor kick underneath, and let the original string arrangements breathe through in a new context. The clavinet (clav) became the signature stab element alongside piano. Sidechained bass — where the bass volume ducks in sync with every kick hit — creates the rhythmic pumping sensation that defines the style's low end. The concept source is a woman at a mirrorball club night who realizes the floor belongs entirely to her — Cinderella subverted (glass shoes, no prince; glamour without an audience; self-possessed joy over romantic expectation).
+
+  Hook: "Glass shoes, no prince" — a perfect-fifth descent (A5→E5) on beat 1 lands on "glass shoes," voice cuts on the sidechain-pocket eighth-note rest, then a minor-third ascent (E5→G5) on "no prince" lands on beat 3. Three distinct moves in two bars, repeatable as a chorus stamp. Cinderella's objects reframed as self-sufficiency. Verse color lines: "Came here by myself, left everybody jealous"; "Every tile my mirror now"; "The DJ read my hips before I said a word."
+
+  Duration strategy: 128 BPM is in the proven 128-160 band. Vocal bar counts sum to approximately 136 bars; the 32-bar dense instrumental filter break brings the total to ~168 bars, targeting 3:00–3:30 wall-clock. The mid-song filter break (clav + disco strings + kick + bass, explicitly beat-driven, no ambient drift) applies the v527 density lesson. The final hook lands late. Production tokens: polished studio mix, wide stereo stage, warm tape saturation, deep low-end definition.
+
+  Instrument roles: filtered disco-string loops (harmonic shimmer, opened at chorus); four-on-the-floor kick (rhythmic spine); sidechained warm bass (low-end pump); punchy piano and clav stabs (off-beat percussive color); hi-hat sixteenths (floor energy). No negative-prompt contradictions: exclude_styles does not block electronic, synthesizer, piano, bass, drums, or vocals. Inline style negatives block only genuine drift. Key A minor, 128 BPM both visible in style. Sentence case throughout. Style char count: 937.
+
+tags:
+  - disco-house
+  - french-touch
+  - filter-house
+  - four-on-the-floor-kick
+  - sidechained-bass
+  - disco-strings
+  - clav-stabs
+  - piano-stabs
+  - female-diva-vocal
+  - female-belt
+  - 128bpm
+  - a-minor
+  - mirrorball-scene
+  - cinderella-subverted
+  - self-possessed-joy
+  - glass-shoes-no-prince-hook
+  - dense-continuous
+  - filter-break
+  - duration-3min
+  - research-driven
+  - vocal
+  - electronic
+  - danceable
+  - euphoric
+  - celebratory
