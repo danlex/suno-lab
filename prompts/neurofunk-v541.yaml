@@ -1,0 +1,86 @@
+name: "neurofunk-v541"
+version: 541
+title: "Panic541"
+instrumental: false
+vocal_gender: female
+
+style: "Neurofunk drum and bass at 172 BPM in D minor — cold, precise, controlled, the dark thrill of a mind moving faster than any system can track. Rolling amen-derived breakbeats with ghost snares filling every subdivision; a snarling modulated neuro-bass twisting through the low-end like corrupted code rewriting itself mid-execution. Metallic stabs cut the mid-field at intervals; dark atmospheric pads hover at the edges without softening the tension. Polished studio mix, deep low-end definition, wide stereo stage — surgical precision in every placement. A cold female vocal rides the top with controlled menace: not belted, not sweet, knowing and dangerous, each line a command. Dense and continuous throughout — no ambient drift, the breakbeat always rolling. A mid-song dense beat-driven instrumental section intensifies the neuro-bass snarl before the final hook cuts cold. No acoustic guitar, no rock drums, no pipe organ, no warm wash."
+
+lyrics: |
+  [Intro: amen break rolls, neuro-bass snarl, 8 bars]
+
+  [Verse 1: cold female vocal, controlled menace, 16 bars]
+  Root at three, they never felt me
+  Every packet tagged and gutted clean
+  I mapped the dark before you named it
+  Behind the handshake, past the cipher
+  Nine layers down I found your seams
+
+  [Hook: snapped triplet, cold command, 8 bars]
+  Kernel panic, now smile
+  Kernel panic, now smile
+
+  [Verse 2: tighter cadence, knowing, 16 bars]
+  Firewall drops like paper — listen
+  Privilege root in twenty lines
+  Silent as a read permission
+  Patient as a zero-day
+  Every move already written
+
+  [Hook: cold command reprise, 8 bars]
+  Kernel panic, now smile
+  Kernel panic, now smile
+
+  [Instrumental: dense rolling breaks, neuro-bass, metallic stabs, 32 bars]
+
+  [Verse 3: minimal, each line a blade, 8 bars]
+  One wrong move — I never make it
+  One last door — I already own
+
+  [Final Hook: topline over full break, 16 bars]
+  Kernel panic, now smile
+  Kernel panic, now smile
+  Kernel panic — now smile
+  Now smile
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, cinematic ambient, downtempo, chillout, liquid dnb, melodic dnb, jazz-step, reggae"
+
+notes: |
+  Neurofunk is the dark technical branch of drum and bass, characterized by highly processed modulated bass sounds (reese bass, neuro-bass growls), complex rolling amen-break edits, metallic percussion programming, and a cold clinical atmosphere — the genre equivalent of corrupted code as music. It emerged from the late-1990s techstep lineage and remains a cornerstone of dark dnb production.
+
+  Concept source: a hacker at 4am moving through hostile systems with cold adrenaline and absolute control — slicing through firewall after firewall, one wrong move from disaster, never making it. The ownable hook "kernel panic, now smile" is built on a snapped 8th-note triplet contour: 'KER-nel PAN-ic' lands on beat 1 mirroring the amen-break rolling triplet subdivision; a 16th-note breath gap follows; 'now' sits on A (perfect fifth below D tonic); 'SMILE' rises a perfect fourth back to D — a trap snapping shut. A catastrophic OS crash meets a cold self-command.
+
+  This lane echoes the tradition of UK and European neurofunk producers who built the genre's cold, technical vocabulary — without naming those practitioners.
+
+  Duration strategy: parametrized colon-syntax brackets with explicit bar counts across 9 sections (8+16+8+16+8+32+8+16 = 112 notated bars at 172 BPM); the 32-bar dense beat-driven instrumental section at ~60% of the arc is the mid-song duration lever (validated by v348/v349 data); final hook pushed late; sentence case throughout; atmospheric-first opening. Production tokens: polished studio mix, deep low-end definition, wide stereo stage.
+
+  172 BPM is in the proven 130–160+ duration band (slightly above the band ceiling) where bar counts translate efficiently to wall-clock time. D minor chosen for its dark/menacing register and novelty gap. The dark-aggressive-controlled concept drives auto-classification toward "neurofunk, drum and bass, dark dnb" which is forward-motion adjacent.
+
+  No negative-prompt contradictions: "vocals" and "singing" are NOT in exclude_styles (the song is vocal), and "synthesizers" is NOT negated in the style (the modulated neuro-bass IS a synthesized sound). Negatives in style cover acoustic, rock-drums, pipe organ, warm reverb only.
+
+  Style: 942 chars. Lyrics: 985 chars.
+
+tags:
+  - neurofunk
+  - drum-and-bass
+  - dark-dnb
+  - techstep
+  - female-vocal
+  - cold-menacing-vocal
+  - amen-breakbeat
+  - neuro-bass
+  - metallic-stabs
+  - 172bpm
+  - d-minor
+  - hacker-scene
+  - dark-aggressive-controlled
+  - kernel-panic-hook
+  - dense-instrumental-section
+  - mid-song-instrumental
+  - duration-3min
+  - research-driven
+  - new-lane
+  - forward-motion-concept
+  - english-lyrics
