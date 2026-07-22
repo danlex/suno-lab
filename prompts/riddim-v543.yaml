@@ -1,0 +1,83 @@
+name: "riddim-v543"
+version: 543
+title: "Splinters543"
+instrumental: false
+vocal_gender: female
+
+style: "Gleefully-destructive riddim dubstep at 140 BPM in E minor — a wrecking crane in half-time, heavy as concrete, precise as spite. Signature triplet metallic wobble bass snarls through the low-end, twisting with menace and mechanical edge; rolling percussion fills every subdivision while the dark low-end shakes underfoot. A female vocal rides the drops with bratty, deadpan-cool poise — not belted, the tender delivery before onomatopoeic violence is the character. Dense and continuously arranged: topline stays sung through every drop, never hollow. Polished studio mix, deep low-end definition, wide stereo stage — demolition in high-fidelity. The groove never lets up; the mid-section escalates into rolling percussion and a snarling bass chase before the hook returns. Half-time snare on beat 3, the triplet wobble locks the grid, vocal lingers before the consonants crack. No guitars, no rock drums, no pipe organ, no ambient drift, no jazz."
+
+lyrics: |
+  [Intro: metallic wobble, half-time, 8 bars]
+
+  [Verse 1: deadpan bratty vocal, 16 bars]
+  The blueprint said don't — I read it twice
+  Crane arm swings like a slow goodbye
+  I charged it to the rubble account
+  Nobody left me a forwarding address
+  First wall's already mine
+
+  [Drop 1: sung hook through wobble snarl, 8 bars]
+  Sweetly, it splinters
+  Sweetly, it splinters
+
+  [Verse 2: gleeful, deadpan-cool, 12 bars]
+  Nobody's watching but the dust agrees
+  I signed the papers and I lost the keys
+  Three floors gone and I'm not done yet
+  Laughing where the lobby used to be
+
+  [Drop 2: snarling bass, topline sung, 8 bars]
+  Sweetly, it splinters
+  Sweetly, it splinters
+  (all of it)
+
+  [Dense Section: rolling percussion, wobble bass, 32 bars]
+
+  [Verse 3: minimal deadpan, 8 bars]
+  Didn't hurt anyone — the building chose this
+  Every bolt was tired anyway
+
+  [Final Drop: full ensemble, sung hook late, 16 bars]
+  Sweetly, it splinters
+  Sweetly, it splinters
+  Sweetly — it splinters
+  Let it fall
+  Let it fall
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient, cinematic ambient, downtempo, chillout, meditation, zen, reggae, reggaeton, trap, hip-hop, R&B ballad, jazz, classical, orchestral, country, folk, grime, techno, trance, drum and bass, house"
+
+notes: |
+  Riddim dubstep is a subgenre of dubstep distinguished by its signature triplet metallic wobble bass, relentless rolling percussion density, and half-time groove where the heavy snare lands on beat 3. Unlike standard dubstep, riddim drops are designed to be continuous and crushing rather than single-hit shock moments — the bass never stops twisting. The half-time feel sits at 140 BPM notated but is experienced as 70 BPM in the body, creating a slow-motion menace that rewards vocal lines with extra rhythmic space.
+
+  Concept source: a demolition zone at night, a woman at the controls of a wrecking crane, gleefully flattening everything with pure unbothered destructive catharsis. The ownable hook "Sweetly, it splinters" (scored 22, strongest of three lanes) holds its character through a specific melodic contour: G4 held two beats on 'sweetly' (tender linger), quick passing F#4 on 'it', falling minor third to D4 on 'splinters' with the 'spl-' consonant cluster landing precisely on the half-time beat-3 snare. The tender adverb before onomatopoeic violence is the character — deadpan-cool, not belted, not shrill.
+
+  This lane echoes the tradition of UK and US riddim producers who codified the triplet wobble and rolling-percussion grammar in the mid-2010s — without naming those practitioners.
+
+  Duration strategy: parametrized colon-syntax brackets with explicit bar counts across 8 sections (8+16+8+12+8+32+8+16 = 108 notated bars at 140 BPM half-time, targeting ~3:00–3:20). The 32-bar [Dense Section] mid-song beat-driven instrumental is explicitly dense — rolling percussion and snarling wobble bass, not ambient — per the v527 lesson that sparse vamps truncate hard. Final hook pushed late. The vocal stays sung through every drop to prevent hollow-drop truncation (core lane requirement: voiced drops render full-length, vocal-chop-only drops truncate). Production tokens: polished studio mix, deep low-end definition, wide stereo stage. Style 947 chars, sentence case, atmospheric-first opening.
+
+  Negative-prompt audit: does NOT exclude synthesizers, electronic, bass, or vocals. The triplet metallic wobble bass IS a synthesized sound — negating synths would destroy the genre. Does NOT put "vocals" or "singing" in exclude_styles. Negatives in exclude_styles cover genre drift only (ambient, techno, trance, jazz, classical, drum and bass, house, reggae, trap, hip-hop).
+
+  Title: "Splinters543" — one word fused with version id, derives from the hook's onomatopoeic final syllable. E minor, 140 BPM (proven duration band for bar-count efficiency). Demolition-zone-at-night scene is unused in catalog. Riddim dubstep with sung-through drops is a lane variant not yet represented.
+
+tags:
+  - riddim-dubstep
+  - dubstep
+  - triplet-wobble-bass
+  - half-time-feel
+  - 140bpm
+  - e-minor
+  - female-vocal
+  - bratty-deadpan-vocal
+  - gleefully-destructive
+  - demolition-zone-scene
+  - sweetly-it-splinters-hook
+  - dense-instrumental-section
+  - mid-song-instrumental
+  - continuously-sung-drops
+  - duration-3min
+  - research-driven
+  - vocal
+  - new-lane
+  - english-lyrics
