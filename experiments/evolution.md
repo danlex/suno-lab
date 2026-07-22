@@ -558,6 +558,7 @@ mindmap
 | 541 | Panic541 | snapped-triplet cold-command hook + dense rolling-break instrumental | D minor | 172 | amen-derived breakbeats, snarling modulated neuro-bass, metallic stabs |
 | 542 | None542 | arithmetic-of-absence hook + dense 40-bar log-drum instrumental | B minor | 112 | rolling log-drum bassline, jazzy piano, shakers + round sub-bass |
 | 543 | Splinters543 | sweet-before-violence sung-through-drops hook + dense mid-section | E minor | 140 | triplet metallic wobble bass, rolling percussion, half-time snare |
+| 544 | Devoured544 | hypnotic deadpan tunnel-dissolution hook + dense 32-bar acid instrumental | A minor | 130 | squelching TB-303 acid-bassline, four-on-the-floor kick, metallic percussion |
 
 ## Next-cycle priorities
 

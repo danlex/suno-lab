@@ -1,0 +1,83 @@
+name: "acidtechno-v544"
+version: 544
+title: "Devoured544"
+instrumental: false
+vocal_gender: male
+
+style: "Hypnotic tunnel trance at 130 BPM, A minor — acid techno with a squelching TB-303 bassline that morphs through resonance sweeps beneath a relentless four-on-the-floor kick, tight hi-hats on every sixteenth, metallic percussion interlocking without gaps. Polished studio mix, deep low-end definition holding the acid grid, wide stereo stage spreading 303 cutoff sweeps and clap transients across the field. The arrangement is dense and continuous: the 303 never fully stops, its resonance opening and closing like a breathing throat. A lone male voice delivers the hook in deadpan monotone — not belted, not shouted, entranced and hollow, one phrase per two-bar loop over the squelch, self dissolving into strobe motion. Strobing tunnel walls, white pillars at 3am, the mind long gone, only forward momentum and the repeating phrase remaining. No acoustic guitar, no rock band, no pipe organ, no choir, no live strings."
+
+lyrics: |
+  [Intro: 303 opens, kick enters, 8 bars]
+
+  [Verse 1: deadpan chant, 16 bars]
+  The road is eating me
+  The white line knows the way
+  The road is eating me
+  Sixty seconds, sixty pillars
+  The road is eating me
+  I stopped counting at forty
+  The road is eating me
+
+  [Verse 2: 303 resonance rising, 16 bars]
+  The road is eating me
+  The tunnel has no end
+  The road is eating me
+  Every pillar the same pillar
+  The road is eating me
+  Forty seconds, forty more
+  The road is eating me
+
+  [Acid Instrumental: 303 morphs, kick holds, 32 bars]
+
+  [Verse 3: sparse chant, 16 bars]
+  The road is eating me
+  My hands hold a wheel
+  The road is eating me
+  The lights do the counting
+  The road is eating me
+
+  [Build: 303 filter climbs, 16 bars]
+  Eating me
+  Eating me
+  Eating me
+  Eating
+
+  [Drop: full grid, hook returns, 24 bars]
+  The road is eating me
+  The white line knows the way
+  The road is eating me
+  I stopped counting at forty
+  The road is eating me
+
+  [Outro: 303 decays, kick alone, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, ambient, zen meditation, orchestral, neoclassical, gospel"
+
+tags:
+  - acid-techno
+  - tb-303
+  - four-on-the-floor
+  - 130bpm
+  - a-minor
+  - male-vocal
+  - deadpan-vocal
+  - hypnotic-tunnel-scene
+  - strobe-motion-scene
+  - dense-continuous
+  - acid-bassline
+  - metallic-percussion
+  - duration-3min
+  - research-driven
+  - vocal
+  - devoured-hook
+
+notes: |
+  Acid techno is a variant of techno built around the Roland TB-303 bass synthesizer — originally a guitar-bass simulator repurposed in Chicago and Detroit warehouses in the mid-1980s — whose resonance filter sweeps and squelch produce the genre's defining hypnotic signature. The 303 line is not a melody but a morphing organism: cutoff frequency rises and falls across the grid, occasionally peaking into full resonance screech before closing back into sub-bass territory, giving the track a breathing quality even as the arrangement remains otherwise locked and relentless. The concept source: a lone driver in a long tunnel at 3am, strobing overhead lights, endless identical pillars, the mind emptying into pure hypnotic forward motion, self dissolving into the strobe — "The road is eating me."
+
+  Hook contour as specified: "The road is eating me" — rising whole-step on "is eat-" (A4→B4, beats 2–3), falling perfect fifth on "-ing me" (B4→E4, held beat 4 into next bar). "Me" lands on the fifth of A minor, open and unresolved, driving the immediate repeat. Delivered deadpan, monotone, entranced — not belted — one phrase per two-bar loop over the 303 squelch grid. The backup verse lines ("The white line knows the way," "Sixty seconds, sixty pillars," "I stopped counting at forty") are woven into the verse blocks to create the tunnel-counting hypnosis without deviating from the deadpan lane.
+
+  No negative-prompt contradictions: exclude_styles omits "vocals"/"singing" (the track IS vocal), and the inline negatives avoid "no synthesizers" (the TB-303 IS a synthesizer — the entire sound-world depends on it). Duration strategy: parametrized colon-syntax with bar counts summing to 136 bars (8+16+16+32+16+16+24+8), anchored by a 32-bar mid-song acid instrumental (303 + kick only, no ambient layer) as the duration lever. Atmospheric-first opening, sentence case throughout. Production tokens: polished studio mix, deep low-end definition, wide stereo stage. BPM 130 sits in the proven duration band (130–160).
+
+  Novelty: acid techno with a deadpan-trance male vocal hook ("The road is eating me") and a tunnel-strobe scene is unused in this catalog. The continuous 303-never-stops arrangement philosophy combined with the parametrized bar-count lyric structure is a first for this lane. Style chars and lyrics chars verified via count_field.py before finalizing.
