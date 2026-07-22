@@ -1,0 +1,85 @@
+name: "amapiano-v542"
+version: 542
+title: "None542"
+instrumental: false
+vocal_gender: male
+
+style: "Warm golden-hour tenderness — Amapiano at 112 BPM in B minor, polished studio mix with deep low-end definition and wide stereo stage. The signature rolling log-drum bassline anchors every bar with its round, thudding pulse; layered shakers and soft rim-clicks weave a continuous rhythmic shimmer; spacious jazzy piano chords breathe in open clusters with gentle pedal resonance; a warm round sub-bass sits beneath everything, full and unhurried; airy pads open the high-mids into late afternoon gold. A male voice carries the melody with grounded tenderness — grateful, unhurried, a lump quietly rising. Warm tape saturation on the log-drum, lush acoustic ambience across the mix. The arrangement stays continuously dense from first bar to last — log-drum, shakers, bass, and piano never stop, vocal sung throughout. No acoustic guitar, no rock drums, no pipe organ, no rap, no heavy metal."
+
+lyrics: |
+  [Intro: log-drum, shakers, 8 bars]
+
+  [Verse 1: male vocal, full groove, 16 bars]
+  Yellow light on a borrowed helmet
+  He looked back once then looked forward
+  I was running, he was flying
+  He ran until the road ran back
+
+  [Pre-Chorus: piano lifts, 8 bars]
+  I was the training wheels all along
+  Hands that held and then moved on
+
+  [Chorus: full hook, 16 bars]
+  Both hands, then none
+  Feel it leave before it's gone
+  Both hands, then none
+  That's how you learn to run
+
+  [Verse 2: bass and piano, 12 bars]
+  He wobbled once — I let him wobble
+  Yellow road, the shadow longer
+  Pride is a name for missing
+  What you made too strong to hold
+
+  [Instrumental: log-drum and piano, 40 bars]
+
+  [Build: layers rising, 8 bars]
+  Both hands — hold on
+
+  [Drop: full hook, male lead, 24 bars]
+  Both hands, then none
+  Feel it leave before it's gone
+  Both hands, then none
+  That's how you learn to run
+
+  [Outro: bass holds, 8 bars]
+  Then none
+  Then none
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, elegiac, intimate chamber, country, folk, classical, orchestral, downtempo, chillout, reggaeton, trap, hip-hop, spoken word, ambient, sparse, minimal"
+
+notes: |
+  Amapiano is a South African genre that emerged in the mid-2010s from deep house and jazz fusion roots, defined by its signature log-drum (a deep, rolling percussion element produced by manipulating a bass synthesizer patch into a rhythmic log-like texture), spacious jazzy piano chords, continuous shaker percussion, and a warm round sub-bass. The genre runs at 100–115 BPM and prizes unhurried, soulful, layered density over sparse minimalism.
+
+  Concept source: a father teaching his kid to ride a bike down a township street at golden hour — running alongside, hand on the seat, the moment he lets go and the kid wobbles then flies; pride and a lump in the throat.
+
+  This prompt echoes the emotional DNA of late-afternoon township soul without naming any specific artist. The ownable hook "Both hands, then none" is built on the caller-specified contour: two punched quarter-notes on tonic B for "both hands," a half-beat rest on the log-drum ghost roll (the structural release — the hand leaving the seat), then "none" drops a minor sixth to D, held and breathy, entering beat 3. The rest is structural, not an ambient gap — the log-drum ghost roll fills it. The phrase encodes the scene's pivot in four syllables.
+
+  Duration strategy: parametrized colon-syntax lyrics with bar counts across 8 sections (8+16+8+16+12+40+8+24+8 = 140 bars). At 112 BPM with continuous dense arrangement this targets approximately 3:00–3:30. The mid-song Instrumental section (40 bars) is explicitly dense and beat-driven — log-drum, shakers, bass, and piano at full density, never stripped or ambient — applying the v527 lesson that sparse mid-song sections truncate hard at sub-128 BPM. The Drop places the final full hook late in the arc (~2:20+). Production tokens: polished studio mix, deep low-end definition, wide stereo stage, warm tape saturation, lush acoustic ambience. Sentence case throughout; atmospheric-first opening. Negative-prompt audit: no contradictions — log-drum bass is a synth patch so no "no synthesizers" anywhere; vocals are wanted so "singing"/"vocals" absent from exclude_styles; only non-Amapiano genres blocked.
+
+  Novelty: B minor is distinct from v541's F# minor. Male vocal marks a lane shift from v541's female lead. Father-and-child township bike-ride scene is catalog-fresh. "Both hands, then none" hook is original with caller-specified melodic contour.
+
+  Style char count: 890. Lyrics char count: TBD.
+
+tags:
+  - amapiano
+  - log-drum
+  - jazzy-piano
+  - 112bpm
+  - b-minor
+  - male-vocal
+  - warm-tender-vocal
+  - golden-hour-scene
+  - township-bike-scene
+  - both-hands-then-none-hook
+  - dense-continuous
+  - father-child-scene
+  - new-bpm
+  - duration-3min
+  - research-driven
+  - vocal
+  - beat-driven
+  - full-density
+  - south-african-genre
