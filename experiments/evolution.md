@@ -559,6 +559,7 @@ mindmap
 | 542 | None542 | arithmetic-of-absence hook + dense 40-bar log-drum instrumental | B minor | 112 | rolling log-drum bassline, jazzy piano, shakers + round sub-bass |
 | 543 | Splinters543 | sweet-before-violence sung-through-drops hook + dense mid-section | E minor | 140 | triplet metallic wobble bass, rolling percussion, half-time snare |
 | 544 | Devoured544 | hypnotic deadpan tunnel-dissolution hook + dense 32-bar acid instrumental | A minor | 130 | squelching TB-303 acid-bassline, four-on-the-floor kick, metallic percussion |
+| 545 | Palimpsest545 | degraded-twin tape-ghost felt piano | G-sharp minor to A minor | 81 | cristal baschet, felt piano, cor anglais |
 
 ## Next-cycle priorities
 

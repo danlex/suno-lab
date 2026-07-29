@@ -1,0 +1,61 @@
+name: "palimpsest-v545"
+version: 545
+title: "Palimpsest545"
+instrumental: true
+
+style: "Dusk intimacy and analog decay — a felt piano melody heard twice at once, one close-mic'd and dry, its twin a tape-ghost dissolving through micro-loop fog. Warm tape saturation and tight chamber reverb. Three voices in G-sharp minor at 81 BPM: felt piano carries a steady arpeggiated left-hand pulse, its detuned tape-ghost smearing a quarter-step flat beneath every phrase; cristal baschet adds crystalline spectral shimmer above each phrase, reinforcing the ghost's upper partials; cor anglais breathes aching reed melody between piano statements, longing and warm. Sul tasto strings hold the room. The ghost thickens toward the centre, nearly swallowing its source, before a half-step rise to A minor lets it recede — clean felt piano alone in the final bars. Underscore for a documentary on archival memory and analog loss. An archivist turning tissue-paper pages at dusk. No guitars, no vocals, no rock drums, no pipe organ, no synthesizers."
+
+lyrics: |
+  [0:00 Pulse Opens: solo felt piano, arpeggiated left-hand pulse in G-sharp minor, melody dry and close, 10 bars]
+  [0:28 Theme Alone: melody unfolds, ostinato steady, intimate and still, 12 bars]
+  [0:58 Ghost Enters: tape-ghost rises beneath, pitch-shifted, micro-looped, cristal baschet shimmer appears, 12 bars]
+  [1:28 Cor Anglais Breathes: reed melody threads between piano phrases, sul tasto strings settle as soft bed, 14 bars]
+  [1:55 Layers Thicken: three voices, ghost deepening, pulse unbroken, 16 bars]
+  [2:20 Ghost Grows: blur widens, cristal baschet intensifies, cor anglais holds a long phrase, 20 bars]
+  [2:45 Maximum Blur: ghost nearly overwhelms the clean source, all voices dense, 24 bars]
+  [Breath: strips to piano pulse and single cor anglais note, ghost recedes to trace, 10 bars]
+  [Drop: half-step rise to A minor, clean felt piano alone, same theme clear and unhurried, 20 bars]
+  [3:10 Coda: cor anglais and cristal baschet return softly, fall silent one by one, 12 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi hip-hop, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, spa, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, field recording, lo-fi beats"
+
+notes: |
+  The degraded-twin concept treats a single instrument as its own double: the felt piano melody is presented simultaneously as a clean close-mic'd source and as a degraded tape-ghost of itself — pitch-shifted, bit-reduced in texture, smeared through micro-loop decay. The "palimpsest" metaphor is exact: a manuscript layer written over an earlier one, both visible. The emotional resolution comes not from adding new material but from stripping away the ghost and returning to the clean source — clarity as catharsis.
+
+  Concept source: caller brief for v545 — "Degraded Twin" concept, a single felt-piano melody heard twice simultaneously as clean source and degraded tape-ghost reflection, with the return of the clean voice as the emotional resolution.
+
+  This technique echoes a strand of post-classical ambient composition closely associated with several Scandinavian and German solo-piano composers whose names appear on the blocklist and are intentionally omitted. The tape-degradation aesthetic — micro-loop, pitch-shift, close-mic felt piano — has been widely explored in that lineage without being systematically applied in this catalog.
+
+  Duration strategy: 81 BPM places this in the slow band (≤115 BPM), where Suno caps around 3:30 regardless of bar count. Targeting 3:00–3:30 rather than fighting the ceiling. Bar total: 150 bars (10+12+12+14+16+20+24+10+20+12), dense enough to sustain continuous motion at this tempo. Parametrized colon-syntax lyrics with per-section bar counts provide length scaffolding (Playbook Move 1). Production tokens used: "warm tape saturation," "tight chamber reverb," "polished studio mix" — from the Move 2 approved list. Sentence case throughout (Move 3). Atmospheric-first opening (Move 4). Build/Breath/Drop structure present: [Maximum Blur] → [Breath] → [Drop], without explicit [Silence] metatag (per feedback: explicit silence truncates). The "Breath" section reduces texture without stopping, sustaining the ostinato pulse. Dead-weight superlatives stripped (Move 9). Duration risk flagged: this is a reflective concept at slow BPM; per Playbook Move 10, expect ~3:00–3:30 ceiling, optimize for emotional density not length. The steady arpeggiated left-hand pulse runs the entire piece to prevent the sparse-slow truncation trap documented in feedback.
+
+  Trio instruments and gaps (from latest version 544):
+  - Felt piano (gap 59, last v486): the dual-role lead — clean source voice via close-mic dry tone, and the structural ostinato anchor via steady arpeggiated left-hand. The only instrument that carries both the clean melody and the implied ghost.
+  - Cor anglais (gap 72, last v473): the aching reed breath between piano phrases, warm and longing — acts as the emotional conscience threading the space where the ghost has been.
+  - Cristal baschet (gap 185, last v360): crystalline spectral shimmer in the upper register, spatially disorienting at 1–4 kHz, mirrors the ghost's dissolution without being the ghost itself.
+
+  Spectral instrument count: 1 (cristal baschet). Body voices: 2 (felt piano, cor anglais). Satisfies the ≤1 spectral rule.
+
+  Novelty claims: degraded-twin dual-role piano concept is new to the catalog. G-sharp minor to A minor (enharmonic half-step rise, both minor) has not been used in this key pairing. The "archivist turning pages at dusk" scene is new. Cristal baschet gap of 185 is one of the largest instrument revival gaps in the catalog. Style character count: 913.
+
+tags:
+  - felt-piano
+  - cristal-baschet
+  - cor-anglais
+  - 81bpm
+  - g-sharp-minor
+  - a-minor
+  - archivist-dusk-scene
+  - revival-felt-piano-59-gap
+  - revival-cor-anglais-72-gap
+  - revival-cristal-baschet-185-gap
+  - new-technique
+  - duration-3min
+  - research-driven
+  - instrumental
+  - post-classical
+  - tape-ghost
+  - degraded-twin
+  - analog-decay
+  - build-breath-drop
