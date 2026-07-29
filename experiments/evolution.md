@@ -560,6 +560,7 @@ mindmap
 | 543 | Splinters543 | sweet-before-violence sung-through-drops hook + dense mid-section | E minor | 140 | triplet metallic wobble bass, rolling percussion, half-time snare |
 | 544 | Devoured544 | hypnotic deadpan tunnel-dissolution hook + dense 32-bar acid instrumental | A minor | 130 | squelching TB-303 acid-bassline, four-on-the-floor kick, metallic percussion |
 | 545 | Palimpsest545 | degraded-twin tape-ghost felt piano | G-sharp minor to A minor | 81 | cristal baschet, felt piano, cor anglais |
+| 546 | Loom546 | post-minimalist arpeggiated viola engine | B major to C major | 107 | viola, prepared piano, glockenspiel |
 
 ## Next-cycle priorities
 

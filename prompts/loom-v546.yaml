@@ -1,0 +1,59 @@
+name: "loom-v546"
+version: 546
+title: "Loom546"
+instrumental: true
+
+style: "First light through a typewriter-room window — cold brightness on paper while the machine still runs. A close-mic'd prepared piano states a clean two-phrase melody over a viola arpeggiated engine churning continuous sixteenth-note broken-chord cells in B major at 107 BPM, never stopping, the pulse the heartbeat of the piece. Warm tape saturation coats the reverb tails; deep low-end definition anchors the viola divisi as the string body thickens mid-piece. Glockenspiel adds metallic clock punctuation, crystalline transients on every second downbeat. Long-attack ambient pads provide harmonic glue without obscuring the propulsive string bed. The arc rises from a single viola cell to dense divisi, strips to a piano-viola duo, then lifts a half-step to C major on the final phrase — luminous and forward. Post-classical groove, propulsive chamber energy, polished studio mix. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Engine Opens: solo viola arpeggiated ostinato, sixteenth-note broken-chord cells in B major, 20 bars]
+  [Piano Enters: prepared piano first melodic phrase over the unbroken viola engine, 24 bars]
+  [Glockenspiel Joins: metallic transients mark each downbeat, three voices churning, 20 bars]
+  [Build: viola divisi thickens to full string body, ambient pads swell, glockenspiel intensifies, 28 bars]
+  [Peak Density: all voices at maximum propulsion, prepared piano second phrase rises, 28 bars]
+  [Breath: engine continues, piano and glockenspiel pull back, single sustained notes and sparse, 20 bars]
+  [Drop: piano-viola duo, close and intimate, engine still turning, melodic line bare and clear, 24 bars]
+  [Final Rise: half-step lift to C major, full string body returns, glockenspiel crowns the phrase, 28 bars]
+  [Coda: viola engine alone, broken-chord cells thin one by one, last open string fades, 16 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, EDM, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, cinematic ambient, intimate chamber, elegiac, ambient drone, sparse piano, solo piano"
+
+notes: |
+  Post-minimalism (the term is used here in its musicological sense, not as a Suno tag) is a compositional movement that emerged in response to strict repetition-based minimalism, retaining continuous pulsed motion and layered process-music structure but reintroducing melodic warmth, emotional arc, and orchestral richness. The arpeggiated-string-engine concept places a single instrument — viola — in the role normally occupied by a rhythm section: a continuous sixteenth-note broken-chord ostinato that runs the entire piece and never pauses, denying Suno any quiet gap it might misread as an ending. This is the direct duration fix for v545, which used 81 BPM and sparse texture and truncated at 2:07–2:41.
+
+  Concept source: caller brief for v546 — "Arpeggiated string engine," a continuous viola ostinato replacing any drum kit with bowed-string pulse, above which close-mic'd prepared piano states melody and glockenspiel provides metallic clock punctuation.
+
+  This technique descends from a lineage of composers who built sustained pulsed-string works — names appear on the blocklist and are intentionally omitted. The prepared-piano timbre references a mid-century tradition of altered-instrument composition that similarly goes unnamed here.
+
+  Duration strategy: 107 BPM places this at the boundary of the slow/mid band. Per the playbook table, 106 BPM with 220 bars averaged 3:24 mean in the catalog. This draft uses 188 bars (20+24+20+28+28+20+24+28+16), which should render in the 3:00–3:30 range. The continuous sixteenth-note viola engine prevents sparse-texture truncation. Three parametrized playbook moves applied: (1) colon-syntax lyrics with per-section bar counts for length scaffolding; (2) production tokens — "warm tape saturation," "deep low-end definition," "polished studio mix"; (3) atmospheric-first opening — scene before genre label. Sentence case throughout. No [Silence] metatag (per feedback: silence-gate truncates; "Breath" section reduces texture without full stop, engine continues). Build/Breath/Drop arc: [Build] → [Peak Density] → [Breath] → [Drop] → [Final Rise]. Concept is forward-motion (propulsive engine, ascending arc, luminous half-step lift) — per Playbook Move 10, forward-motion concepts auto-classify higher and render longer. Exclude_styles blocks "cinematic ambient" and "elegiac" to prevent the compressive auto-classifier tags that shorten slow-concept renders.
+
+  Trio instruments and version gaps:
+  - Viola (gap 219, last v327): the arpeggiated engine — continuous sixteenth-note broken-chord cells, never stopping; the star of the piece and its rhythmic spine. Longest viola gap in the catalog's recent history.
+  - Prepared piano (gap 77, last v469): clean close-mic'd melodic voice, two phrases across the arc; the warmth and humanity above the churning engine.
+  - Glockenspiel (gap 70, last v476): metallic clock punctuation, crystalline transients on every second downbeat; the crystalline accent layer that gives the engine a temporal grid.
+
+  Spectral instrument count: 1 (glockenspiel). Body voices: 2 (viola, prepared piano). Satisfies the ≤1 spectral rule.
+
+  Novelty claims: arpeggiated-viola-as-rhythm-engine concept is new to this catalog. B major → C major (luminous half-step lift, both major) has not been used in this exact pairing. Typewriter-room-at-first-light scene is new. Viola gap of 219 is one of the largest single-instrument revival gaps in the catalog. Style char count: 943.
+
+tags:
+  - viola
+  - prepared-piano
+  - glockenspiel
+  - 107bpm
+  - b-major
+  - c-major
+  - typewriter-room-at-first-light-scene
+  - revival-viola-219-gap
+  - revival-prepared-piano-77-gap
+  - revival-glockenspiel-70-gap
+  - new-technique
+  - duration-3min
+  - research-driven
+  - instrumental
+  - post-classical
+  - arpeggiated-engine
+  - propulsive-chamber
+  - build-breath-drop
