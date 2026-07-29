@@ -1,0 +1,57 @@
+name: "Veil547"
+version: 547
+style: "Ice-chapel light at first dawn — three voices stripped of warmth, existing at the threshold of perception. Glass harmonica opens in a shimmering halo, impossible to locate in the room. Ondes martenot enters as a bare cold breath, senza vibrato, drained of overtone color. Together they form a ghost-world: distant, veiled, aching. Tight chamber reverb and polished studio mix capture every granular breath. Oboe d'amore arrives — the lone human reed, breathing and yearning in A-flat major at 72 BPM. The arc builds until a half-step lift to A major triggers the luminous bloom: ondes martenot vibrato swells wide, oboe d'amore opens to full warm resonance, glass harmonica rings bright across the wide stereo stage. Sudden warm arrival after the ghost-world — this contrast is the goosebump moment. The ensemble dissolves back to cold veiled shimmer, fading out of existence. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+title: "Veil547"
+lyrics: |
+  [Opening: glass harmonica shimmer and ondes martenot cold bare breath, senza vibrato, veiled and distant, 8 bars]
+
+  [Veil Deepens: both voices thin to near-silence, harmonic halo only, no warmth, 8 bars]
+
+  [Oboe Enters: oboe d'amore alone, a single yearning melodic line, harmonically unresolved, 12 bars]
+
+  [Longing: oboe d'amore and ondes martenot intertwine, still restrained in A-flat major, 12 bars]
+
+  [Bloom: half-step lift to A major — ondes martenot vibrato swells wide, oboe d'amore opens to full warm resonance, glass harmonica rings bright, 16 bars]
+
+  [Radiance: full ensemble in luminous A major, aching warmth flooding the room, 12 bars]
+
+  [Dissolution: ensemble withdraws to cold veiled shimmer, overtones fading, 8 bars]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, zen meditation, cinematic ambient, choir, choral, ambient drone, spa music, chillout, meditation"
+notes: |
+  Technique: veiled-bloom frisson architecture — the ensemble opens in a deliberately cold, senza-vibrato, overtone-stripped state (the "ghost-world"), then at the emotional apex executes a half-step key lift (A-flat major to A major) into sudden full-warmth resonance. The contrast between the veiled, near-inaudible opening and the luminous bloom is the goosebump trigger, a structural device documented in post-classical and alternative-classical repertoire without ever naming its practitioners.
+
+  Concept source: "warmth-flood frisson architecture" — a sustained cold veil followed by a sudden luminous bloom, the bloom itself being the emotional event.
+
+  Composer omission: this technique echoes several composers of the minimalist-to-post-classical lineage whose work with electronic-organic hybrids, sustained overtone environments, and half-step harmonic lifts is well known — none are named here per project blocklist.
+
+  Duration strategy: this cycle explicitly accepts the ~1:30–2:40 render ceiling for pure chamber-beauty pieces and does NOT apply motoric duration tricks (no drums, no ostinato engines, no bar-count inflation). Playbook moves applied: parametrized colon-lyrics with bar counts (per-section length scaffolding), 2 production tokens (tight chamber reverb, polished studio mix + wide stereo stage), sentence case throughout, atmospheric-first opening, two body voices (ondes martenot, oboe d'amore) + one spectral (glass harmonica), staying within the ≤1 spectral rule. The blocklist words "frisson," "spa," and all composer names were cleared. Inline negatives exclude guitars/vocals/rock drums/pipe organ/choir; exclude_styles does NOT include "electronic" or "synthesizer" (which would kill the ondes martenot).
+
+  Instruments:
+  - Glass harmonica (spectral; trio gap not tracked as debut instrument): the timbral center — 1–4 kHz halo that the brain cannot locate in three-dimensional space, creating spatial disorientation; opens the piece alone as the veiled ghost-tone.
+  - Ondes martenot (body; trio gap not tracked as debut instrument): the aching electronic-organic wavering voice; begins as a bare near-sine cold breath senza vibrato, later swells into wide vibrato at the bloom.
+  - Oboe d'amore (body; trio gap not tracked as debut instrument): the lone human breathing voice — a tender alto reed of longing; enters mid-piece still restrained, blooms fullest at the A-major lift.
+
+  Novelty: trio combination of glass harmonica + ondes martenot + oboe d'amore is novel to the catalog. Key arc A-flat major to A major (enharmonic luminous half-step) not previously used. Scene "ice-chapel-at-first-light" is new. No piano (differentiates from v545 felt-piano + tape-ghost and v546 arpeggiated viola engine).
+
+  Style char count: 939.
+tags:
+  - glass-harmonica
+  - ondes-martenot
+  - oboe-d-amore
+  - 72bpm
+  - a-flat-major
+  - a-major
+  - half-step-lift
+  - ice-chapel-at-first-light-scene
+  - veiled-bloom-architecture
+  - new-technique
+  - duration-short-accepted
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - alternative-classical
+  - chamber
