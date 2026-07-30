@@ -563,6 +563,7 @@ mindmap
 | 546 | Loom546 | post-minimalist arpeggiated viola engine | B major to C major | 107 | viola, prepared piano, glockenspiel |
 | 547 | Veil547 | veiled-bloom warmth-flood frisson architecture | A-flat major to A major | 72 | glass harmonica, ondes martenot, oboe d'amore |
 | 548 | Thresh548 | cluster-gate resolution (frisson by subtraction) | E major to C-sharp minor | 69 | bass flute, nyckelharpa, celesta |
+| 549 | Lacuna549 | chromatic lament bass with cantabile rubato | C-sharp minor to A major | 78 | grand piano, harp, bowed vibraphone |
 
 ## Next-cycle priorities
 

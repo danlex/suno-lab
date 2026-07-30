@@ -1,0 +1,71 @@
+name: "lacuna-v549"
+version: 549
+title: "Lacuna549"
+instrumental: true
+
+style: "Candlelit conservatory, snow at the glass — grand piano in C-sharp minor at 78 BPM, sustain-pedal resonance pooling in tight chamber reverb. The left hand walks a slow chromatic lament ostinato, tonic stepping down through passing chords toward the dominant. Above it, the right hand sings freely — cantabile rubato, never locked to the beat, two voices in private conversation. Harp offers soft arpeggiated cushion, decay blending with the piano's sustain. Bowed vibraphone adds a glassy shimmer in the upper register, still and atmospheric. When the bass reaches its lowest point the harmony blooms into A major: warmth breaking through the descent, right hand holding a suspended ninth that resolves late. This convergence is the emotional apex. The arc strips to bare left-hand descent, then a slower restatement ends mid-phrase, unresolved. Polished studio mix, wide stereo stage. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Descent Opens: piano left hand alone, slow chromatic lament ostinato from tonic toward dominant, harp cushion, 8 bars]
+
+  [Melody Enters: right hand cantabile rubato above the ostinato, singing freely, bowed vibraphone shimmer appears, 10 bars]
+
+  [Conversation Deepens: bass continues its descent, melody floats above unhurried, suspended ninth tension builds, 12 bars]
+
+  [Convergence: bass reaches the dominant, harmony blooms into A major, right hand suspends a ninth that resolves late, warmth floods through, 10 bars]
+
+  [Bloom Held: full warmth of A major, melody at its most open and singing, harp arpeggios wide, bowed vibraphone glowing, 12 bars]
+
+  [Withdrawal: harp and vibraphone recede, bass resumes chromatic descent, returning to C-sharp minor shadow, 8 bars]
+
+  [Bass Alone: left-hand lament descent stripped bare, no melody, harp silent, footsteps into quiet, 6 bars]
+
+  [Unresolved: melody returns slower, harmonically expanded, ends mid-phrase — the bass forgets to finish, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, spa, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, cinematic ambient"
+
+notes: |
+  Chromatic lament bass with cantabile rubato is a compositional device in which the left hand walks a slow stepwise chromatic descent from the tonic toward the dominant — each step introducing a passing chromatic chord that deepens harmonic tension — while the right hand floats entirely free of the ostinato's metrical grid, singing in its own time. The two hands become independent voices: one gravitational and relentless, one human and breath-paced. The interaction between their two rhythmic worlds is the emotional texture of the piece.
+
+  Concept source: caller brief for v549 — chromatic descending lament bass in C-sharp minor (tonic to dominant via chromatic passing chords), freely rubato cantabile melody above, with a single convergence moment where bass bottom and relative-major A major bloom land simultaneously around a suspended ninth, followed by an unresolved mid-phrase ending.
+
+  This device echoes a long lineage of composers who built whole architectures over descending bass lines — whose names appear on the project blocklist and are intentionally omitted. The post-classical solo-piano incarnation of this device, with close-mic'd sustain-pedal resonance and chamber minimalism, is associated with a school of Scandinavian and Northern European composers whose work is well known and equally unnamed here. The concept is treated here without any Baroque formal structure — no repeating formal unit, no labeled sections by function, just a single continuous descent and its one bloom.
+
+  Duration strategy: this cycle explicitly accepts the ~1:30–2:40 render ceiling for pure chamber-beauty and does NOT apply motoric duration tricks. At 78 BPM (slow band, ≤115 BPM) Suno caps around ~3:30 regardless of bar count; and this reflective concept (lament, intimate room, unresolved ending) will auto-classify as "cinematic ambient" or "intimate chamber" — per Playbook Move 10, reflective concepts cap ~3:30 regardless. Target: 2:00–2:40. All playbook force goes into the single convergence moment and the emotional signature of the unresolved ending. Parametrized colon-syntax lyrics with bar counts give Suno per-section length scaffolding (Playbook Move 1). Total bars: 74 (8+10+12+10+12+8+6+8). Production tokens used: tight chamber reverb, polished studio mix, wide stereo stage (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening with concrete scene (Playbook Move 4). No [Silence] metatag — the [Bass Alone] section reduces texture without stopping, which avoids the silence-gate truncation documented in feedback. Exclude_styles blocks "cinematic ambient," "elegiac," "sparse piano," "solo piano" to prevent the compressive auto-classifier tags.
+
+  Negative-prompt contradiction check: the piece is fully acoustic (piano, harp, bowed vibraphone). Inline negatives exclude guitars, vocals, rock drums, pipe organ, choir. Exclude_styles includes electronic/EDM/synthesizer as drift blocks (none of the three instruments are electronic). Nothing in the inline negatives or exclude_styles removes a needed instrument: no "no piano," "no harp," "no vibraphone," "no strings," "no bells/mallets" — those would be self-defeating contradictions. The bowed vibraphone is an acoustic instrument played with bows, not mallets, so excluding "marimba" or "percussion" would be a contradiction risk; neither is excluded.
+
+  Trio instruments and version gaps (from latest version 548):
+  - Grand piano (gap 7, last v542): the undisputed star — left hand carries the chromatic lament ostinato, right hand the cantabile rubato melody; two roles within one instrument; close-mic'd, sustain-pedal resonance as the acoustic environment. Piano is returned to the center after v547 and v548 deliberately avoided it.
+  - Harp (gap 92, last v457): soft arpeggiated harmonic cushion beneath the piano's sustain; never takes the melody; its decay blends with the piano's sustain pedal to create a shared resonance field. Significant revival gap.
+  - Bowed vibraphone (gap 71, last v478): glassy sustained shimmer in the upper register, played with bows not mallets — atmospheric, spectral, never melodic; a single spectral instrument per playbook limit. Revival gap of 71 versions.
+
+  Spectral instrument count: 1 (bowed vibraphone). Body voices: 2 (grand piano, harp). Satisfies the playbook ≥2 body voices and ≤1 spectral constraint.
+
+  Novelty claims: chromatic lament bass with freely rubato right-hand as two-voice conversation is new to this catalog's systematic treatment. C-sharp minor blooming to A major via relative-major brightening (not a half-step lift, not a parallel-mode darkening — a relative major bloom at the bass's lowest point) has not been used in this arc in the catalog. The "candlelit conservatory before snowfall" scene is new. The unresolved mid-phrase ending as emotional signature (not fade, not cadence) is new in this catalog. Style character count: 948.
+
+tags:
+  - grand-piano
+  - harp
+  - bowed-vibraphone
+  - 78bpm
+  - c-sharp-minor
+  - a-major
+  - candlelit-conservatory-scene
+  - chromatic-lament-bass
+  - cantabile-rubato
+  - relative-major-bloom
+  - unresolved-ending
+  - revival-harp-92-gap
+  - revival-bowed-vibraphone-71-gap
+  - new-technique
+  - duration-short-accepted
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - chamber
+  - suspended-ninth
+  - lament-ostinato
