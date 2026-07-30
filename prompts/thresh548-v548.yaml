@@ -1,0 +1,68 @@
+name: "thresh548"
+version: 548
+title: "Thresh548"
+instrumental: true
+
+style: "Candlemaker at last light, the room narrowing around one flame. Bass flute breathes first: round, chest-resonant, low body tone grounded like stone, E major at 69 BPM. Nyckelharpa enters with its keening hover, sympathetic strings ringing beneath the bow, stacking close intervals against the flute's warmth. Celesta adds cold crystalline shimmer — bell-tone temperature contrast, precise and remote. Tight chamber reverb and polished studio mix hold every breath. All three draw into a dense aching suspension, semitones pressing upward, no vibrato, bows leaning — an uncomfortably long warm ache. Then in one breath the cluster dissolves: nyckelharpa and celesta drop away, bass flute alone on one exposed pure pitch, harmony falling inward to C-sharp minor, mournful not triumphant. Dense friction collapsing to one round low tone. Sympathetic strings ring faintly as the flute fades. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Opens: bass flute alone, single low phrase in E major, candle-warm and still, 8 bars]
+
+  [Nyckelharpa Enters: keening melody above the flute, sympathetic strings ringing, near-unison, 10 bars]
+
+  [Celesta Joins: cold crystalline shimmer above both voices, temperature contrast, 10 bars]
+
+  [Ache Builds: all three voices draw inward, intervals tightening, semitones stacking, 12 bars]
+
+  [Suspension Held: dense dissonant cluster at maximum ache, no vibrato, bows leaning, held uncomfortably long, 16 bars]
+
+  [Gate: nyckelharpa and celesta drop away in one breath — bass flute alone, single exposed pure pitch, C-sharp minor, 8 bars]
+
+  [Decay: nyckelharpa sympathetic strings ring faintly under the flute's dying tone, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, chillout, spa music, meditation music, cinematic ambient, intimate chamber, elegiac"
+
+notes: |
+  Cluster-gate resolution is a goosebump technique built on subtraction rather than addition: instead of the familiar bloom (sparse texture to dense tutti to emotional peak), it inverts the arc. The ensemble slowly accumulates a dense, aching dissonant suspension — stacked semitones, close voicing, no vibrato — and holds it at maximum density until the tension becomes almost unbearable. Then a single subtractive event (the "gate") collapses the cluster: all voices except one are stripped away simultaneously. The surviving voice, left alone on a single pure exposed pitch, IS the shock moment. The emotional charge comes from the sudden nakedness — the shock of hearing one round consonant tone where dense friction was.
+
+  Concept source: caller brief for v548 — goosebump by subtraction; the aching cluster held at maximum density, then the gate strips everything except the bass flute carrying a single naked pure pitch; the exposed collapse is the emotional event.
+
+  This technique echoes a strand of post-classical and contemporary chamber composition associated with Scandinavian and Nordic composers whose work with sustained dissonance, sympathetic-string resonance, and stark subtractive gestures has shaped the alternative-classical field — none are named here per project blocklist discipline.
+
+  Duration strategy: at 69 BPM this cycle explicitly accepts the ~1:30–2:40 render ceiling for pure chamber-beauty and does NOT apply motoric duration tricks — no drums, no ostinato engines, no bar-count inflation. Total section bars: 72 bars (8+10+10+12+16+8+8), providing enough scaffolding at this tempo for a 1:45–2:30 render. This is the correct target for an emotional-density lane: all playbook force goes into the single shock moment, not duration. Parametrized colon-syntax lyrics with bar counts give Suno per-section length scaffolding (Playbook Move 1). Production tokens used: tight chamber reverb, polished studio mix (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening with scene (Playbook Move 4). No [Silence] metatag used — the gate section is marked as a drop-and-exposure event, not an explicit silence, per the feedback that silence markup truncates. The [Suspension Held] section is the density peak; the [Gate] is the structural collapse; the [Decay] is the coda.
+
+  Key arc: E major darkening inward to C-sharp minor — a parallel-mode turn (the tonic of E major is the relative major of C-sharp minor, so the bass flute's final pitch belongs to both keys simultaneously). This is explicitly NOT a rising half-step lift (used in v545 and v547). The motion is downward and inward, mournful, not triumphant.
+
+  Trio instruments — no piano (differentiates from v545 felt piano and v546 prepared piano); no keyed electronic-organic instruments or rare spectral pair (differentiates from v547):
+  - Bass flute (body voice): the resolution voice; chest-resonant, breathy, low — it survives the gate and carries the single naked pure pitch. The warm survival tone in an otherwise collapsing texture. Bass flute has not appeared as a lead resolution voice in the recent catalog.
+  - Nyckelharpa (body voice): Swedish keyed fiddle with ringing sympathetic strings; the keening hovering lead that stacks the dissonant suspension. Its sympathetic strings ring faintly in the [Decay] section even after the bow stops — an acoustically true behavior that makes the coda credible. Two body voices (bass flute, nyckelharpa) satisfies the playbook minimum.
+  - Celesta (spectral voice, one spectral per playbook limit): the cold crystalline bell shimmer layered above the suspension; temperature contrast against the bass flute's warmth. Exits at the gate, leaving only the two acoustic voices, then the one.
+
+  Negative-prompt contradiction check: the piece is fully acoustic chamber. Inline negatives exclude guitars, vocals, rock drums, pipe organ, choir. Exclude_styles includes experimental noise, free jazz, quarter-tone to steer Suno away from avant-garde territory while preserving the warmth-coded aching suspension (which is consonant-tradition tension — it resolves; the gate IS the resolution). Exclude_styles does NOT remove electronic or synthesizer as a blanket global term (celesta is acoustic) — but EDM/electronic/synthesizer are included as drift blocks since no electronic production is intended. No contradiction: nothing in the exclude list removes an instrument the piece needs.
+
+  Novelty claims: cluster-gate resolution (goosebump by subtraction) is a new emotional architecture in this catalog. E major to C-sharp minor parallel-mode darkening (inward, mournful) has not been used in this key pairing. Candlemaker-at-last-light scene is new. Nyckelharpa is a catalog debut or near-debut instrument. Bass flute as lead resolution voice is unusual in the catalog. Style character count: 950.
+
+tags:
+  - bass-flute
+  - nyckelharpa
+  - celesta
+  - 69bpm
+  - e-major
+  - c-sharp-minor
+  - candlemaker-at-last-light-scene
+  - cluster-gate-resolution
+  - goosebump-by-subtraction
+  - new-technique
+  - new-bpm
+  - duration-short-accepted
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - alternative-classical
+  - chamber
+  - aching-suspension
+  - sympathetic-strings
+  - parallel-mode-darkening
