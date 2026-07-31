@@ -1,0 +1,73 @@
+name: "suspense-v552"
+version: 552
+title: "Suspense552"
+instrumental: true
+
+style: "Manuscript room in winter candlelight, grand piano alone in the dark. Piano in A minor at 73 BPM — close-mic'd sustain-pedal resonance, polished studio mix, tight chamber reverb, wide stereo stage. Left hand rolls continuous eighth-note arpeggios throughout, never stopping; right hand sings a cantabile melody arriving one beat late through a 4-3 suspension, immediately re-suspended on resolution — perpetual aching almost-arrival. Mid-section the cascade migrates upward; viola d'amore enters with hushed sympathetic-string warmth beneath, never melodic; harmonium breathes a free-reed sustain binding the texture into a chamber exhale. Near two minutes the cascade resolves to a pure unguarded triad and the harmony drops to a radiant F major chromatic-mediant chord — a shock of open consonance, four bars of exhaled release after the aching tension. Warm tape saturation. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Cascade Opens: piano alone, rolling left-hand arpeggios in A minor, cantabile theme suspended one beat on arrival, 10 bars]
+
+  [Suspension Deepens: theme climbs, each 4-3 suspension re-suspended on resolution, left hand unwavering, 10 bars]
+
+  [Tenor Migration: cascade shifts upward, suspensions compound, viola d'amore enters hushed beneath, 12 bars]
+
+  [Harmonium Joins: harmonium breathes sustained free-reed sigh, three voices exhaling together, suspensions still stacking, 10 bars]
+
+  [Tension Peak: all three voices richest, cascade relentless, ear held one beat from resolution, 12 bars]
+
+  [Release: cascade resolves to pure unguarded triad, harmony drops to radiant F major chromatic-mediant, four bars open consonance, 10 bars]
+
+  [High Register Close: viola d'amore and harmonium silent, piano alone treble, final suspension dissolves to one sustained high note, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, spa, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, cinematic ambient, choir, choral, jazz, lounge, impressionist, elegiac, intimate chamber"
+
+notes: |
+  The suspension cascade is a compositional device built on the 4-3 (and 9-8, 7-6) prepared suspension: a melodic tone is held across a barline into a new chord where it becomes a dissonance, then resolves downward by step to the expected consonance. In normal harmony this happens once per phrase as a decorative delay. The suspension cascade takes it further: each resolution is itself immediately re-suspended into the next chord, so resolution and re-suspension overlap continuously — the music lives in an unbroken chain of almost-arrivals, never fully landing. The technical term is "suspension chain" or "suspension sequence," documented in Renaissance polyphony and Baroque continuo practice; revived here as the primary architectural spine of a post-classical piano piece.
+
+  Concept source: caller brief for v552 — "suspension cascade" as a new device not used in v545–v551; the entire piece built on perpetual 4-3/9-8/7-6 suspensions that re-suspend immediately upon resolution; frisson delivered by the first unguarded pure-triad resolution landing on a chromatic-mediant F major chord (~bar 54), not a half-step key lift, not a reharmonization of a repeated melody, not a pedal-point drop or return.
+
+  This technique echoes a lineage of post-classical and Renaissance composers who exploited suspension chains as an expressive device — the feeling of perpetual yearning that can only be released by a single moment of unguarded consonance. The chromatic-mediant relationship (A major/minor to F major, roots a major third apart, both major) was explored deeply in 19th-century Romantic harmony as a device of radiant harmonic surprise. None of those composers are named here per project blocklist.
+
+  Duration strategy: at 73 BPM this is a slow reflective concept; the continuous rolling left-hand arpeggios are the primary duration lever — they keep the bass in constant motion from bar 1 to the final bar, preventing the sparse-slow-truncation trap. Total bars: 72 (10+10+12+10+12+10+8). Target duration: 2:30–3:15 accepted. Parametrized colon-syntax lyrics with bar counts (Playbook Move 1). Production tokens: polished studio mix, tight chamber reverb, wide stereo stage, warm tape saturation, close-mic'd sustain-pedal resonance (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening: manuscript room in winter candlelight (Playbook Move 4). No [Silence] metatag — the Release section uses a textural and harmonic shift, not a dead stop, avoiding the silence-gate truncation failure. Exclude_styles blocks cinematic ambient, elegiac, intimate chamber, jazz, lounge, impressionist to prevent compressive auto-classifier drift.
+
+  Negative-prompt contradiction guard (re-checked per brief):
+  Exclude_styles does NOT contain: "solo piano", "sparse piano", "organ", "reed organ", "harmonium", "strings", "viola". Confirmed clean. Inline negatives: guitars, vocals, rock drums, pipe organ, choir. "Pipe organ" is specific — it does NOT exclude harmonium (a free-reed instrument, not a pipe instrument). Nothing in exclude_styles removes a needed instrument. Grand piano, viola d'amore, and harmonium are all acoustic non-electronic instruments; the EDM/synthesizer/electronic exclusions do not touch them. "No strings" does not appear anywhere.
+
+  Trio instruments and version gaps (from latest version 551):
+  - Grand piano (gap 10, last v542): undisputed lead and sole melodic voice throughout. Right hand carries the cantabile suspension-cascade theme; left hand carries the continuous eighth-note arpeggios — both the structural spine and the duration lever.
+  - Viola d'amore (gap 552, first use in this catalog): a bowed string instrument with seven melody strings and seven sympathetic resonating strings beneath — when bowed, the sympathetics vibrate in resonance, creating a warm hushed shimmer. Enters at the mid-section as a subordinate color beneath the piano; never takes the melodic lead. First appearance in this catalog.
+  - Harmonium (gap 552, first use in this catalog): a free-reed keyboard in which bellows pump air through metal reeds, producing a sustained breathing tone. Its steady sustain complements the piano's percussive decay, binding the texture into an intimate chamber sigh. Pads and sustains only, never melodic. First appearance in this catalog.
+
+  Spectral instrument count: 0. Body voices: 3 (grand piano, viola d'amore, harmonium). Exceeds the playbook minimum of 2 body voices.
+
+  Novelty claims: suspension cascade as the structural spine is new to this catalog. A minor / A major home with a chromatic-mediant drop to F major as the frisson target is a new key relationship. Manuscript-room-in-winter-candlelight is a new scene. Viola d'amore and harmonium are both new to the entire catalog. The trio of grand piano + viola d'amore + harmonium is a new combination. Style character count: 940.
+
+tags:
+  - grand-piano
+  - viola-d-amore
+  - harmonium
+  - 73bpm
+  - a-minor
+  - a-major
+  - f-major
+  - chromatic-mediant
+  - manuscript-room-in-winter-candlelight-scene
+  - suspension-cascade
+  - perpetual-almost-arrival
+  - cantabile-rubato
+  - rolling-arpeggios
+  - chromatic-mediant-radiance-frisson
+  - all-body-voice-trio
+  - new-instrument-viola-d-amore
+  - new-instrument-harmonium
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - chamber

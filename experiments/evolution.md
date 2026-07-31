@@ -566,6 +566,7 @@ mindmap
 | 549 | Lacuna549 | chromatic lament bass with cantabile rubato | C-sharp minor to A major | 78 | grand piano, harp, bowed vibraphone |
 | 550 | Recast550 | harmonic restatement (same melody, transformed chords, Neapolitan flat-II) | B-flat minor to D-flat major | 83 | grand piano, cello, muted flugelhorn |
 | 551 | Ancre551 | tonic pedal-point stasis vs chromatic-cloud motion (floor-vanishes frisson) | D major with borrowed minor-iv | 67 | grand piano, double bass, basset horn |
+| 552 | Suspense552 | suspension cascade releasing onto chromatic-mediant F major | A minor with chromatic-mediant to F major | 73 | grand piano, viola d'amore, harmonium |
 
 ## Next-cycle priorities
 
