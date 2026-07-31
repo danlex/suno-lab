@@ -564,6 +564,7 @@ mindmap
 | 547 | Veil547 | veiled-bloom warmth-flood frisson architecture | A-flat major to A major | 72 | glass harmonica, ondes martenot, oboe d'amore |
 | 548 | Thresh548 | cluster-gate resolution (frisson by subtraction) | E major to C-sharp minor | 69 | bass flute, nyckelharpa, celesta |
 | 549 | Lacuna549 | chromatic lament bass with cantabile rubato | C-sharp minor to A major | 78 | grand piano, harp, bowed vibraphone |
+| 550 | Recast550 | harmonic restatement (same melody, transformed chords, Neapolitan flat-II) | B-flat minor to D-flat major | 83 | grand piano, cello, muted flugelhorn |
 
 ## Next-cycle priorities
 

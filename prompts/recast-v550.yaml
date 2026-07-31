@@ -1,0 +1,67 @@
+name: "recast-v550"
+version: 550
+title: "Recast550"
+instrumental: true
+
+style: "Empty concert hall at first snow, one lamp over the keys. Grand piano in B-flat minor at 83 BPM — close-mic'd sustain-pedal resonance, cantabile rubato, right hand singing a plain singable melody, left hand gentle quarter-note arpeggios. Theme stated bare so the ear learns it. Middle passage dissolves to single drifting notes, breath held. Then the reharmonized return: the same melodic line over transformed chords — luminous shift toward D-flat major, a borrowed Neapolitan flat-II under the familiar tune. The brain hears the same melody; the harmony lands as revelation, shadow into aching tenderness. Cello enters only here, sustaining warm root pedal notes so the harmonic shift is felt bodily. Muted flugelhorn floats a veiled haze in the mid-high register, atmosphere only. Final quiet fragment of the theme closes. Polished studio mix, tight chamber reverb, wide stereo stage. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Theme Opens: grand piano alone, left hand gentle quarter-note arpeggios in B-flat minor, right hand singing the cantabile melody plain and unhurried, 10 bars]
+
+  [Melody Settles: theme continues, harmonic depth of home key explored, sustain pedal resonance pooling, 10 bars]
+
+  [Dissolution: texture thins to single drifting piano notes, melody suspended, breath held in the hall's hush, 8 bars]
+
+  [Reharmonized Return: identical melodic line returns — cello enters sustaining warm root pedal notes, chords shift luminously toward D-flat major, Neapolitan flat-II arrives under the familiar tune, shadow into aching tenderness, 12 bars]
+
+  [Luminous Held: transformed chord vocabulary sustained, muted flugelhorn haze floats faintly above, melody carried by the piano through the new harmonic light, 10 bars]
+
+  [Quiet Close: cello and flugelhorn fall silent, piano alone with a bare final fragment of the theme, tender and unhurried, 6 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, spa, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, cinematic ambient, choir, choral, jazz, lounge, impressionist, elegiac, intimate chamber"
+
+notes: |
+  Harmonic restatement is a compositional technique in which an identical melodic line is presented twice — once in its original harmonic context, then again accompanied by a transformed chord vocabulary that reinterprets the same pitches entirely. The melody's familiarity becomes a vessel: the brain recognizes the tune and is therefore free to register the harmonic shift beneath it as pure feeling. The most potent single moment is the arrival of a borrowed Neapolitan chord (the flat-II major chord borrowed from outside the home key) under a melodic note the listener already knows — a surprise that reads as revelation rather than disruption, because the melody is the anchor.
+
+  Concept source: caller brief for v550 — "same melody returning under transformed chords" as the primary goosebump device for this milestone cycle; home key B-flat minor, reharmonized return leaning toward the relative major D-flat major with a borrowed Neapolitan flat-II as the harmonic revelation moment. Explicitly NOT a rising half-step key lift (used in v545 Palimpsest and v547 Veil) and NOT a relative-major bloom via bass convergence (used in v549 Lacuna). This is same-pitch reharmonization.
+
+  This technique echoes a lineage of post-classical and late-Romantic composers who developed reharmonization as an expressive device — exploring how the same melodic contour can feel joyful, mournful, or revelatory depending solely on the chord beneath it. None of those composers are named here per project blocklist discipline. The borrowed Neapolitan flat-II has a rich lineage in both classical and post-classical repertoire as a device of surprising luminosity within minor-key writing.
+
+  Duration strategy: at 83 BPM this cycle explicitly accepts the ~1:30–2:45 render ceiling and does NOT apply motoric duration tricks — no drums, no continuous ostinato engines, no bar-count inflation. This is a reflective concept (intimate room, lament, quiet close) and per Playbook Move 10, reflective concepts at slow BPM auto-classify as "cinematic ambient" and cap around ~3:00 regardless. The target is 2:00–2:45, optimized entirely for emotional density at the reharmonized return. Total bars: 56 (10+10+8+12+10+6). The gentle left-hand quarter-note arpeggio runs continuously through the opening two sections to prevent the sparse-slow-truncation trap documented in feedback. Parametrized colon-syntax lyrics with bar counts provide per-section length scaffolding (Playbook Move 1). Production tokens: polished studio mix, tight chamber reverb, wide stereo stage (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening (Playbook Move 4). No explicit [Silence] metatag — the [Dissolution] section thins texture without stopping motion (per feedback: silence markup truncates). Exclude_styles blocks "cinematic ambient," "elegiac," "intimate chamber," "jazz," "lounge," "impressionist" to prevent compressive auto-classifier tags.
+
+  Negative-prompt contradiction guard: the piece is fully acoustic (grand piano, cello, muted flugelhorn). Inline negatives exclude guitars, vocals, rock drums, pipe organ, choir. Exclude_styles includes electronic/EDM/synthesizer as drift blocks — none of the three instruments are electronic. Nothing in the inline negatives or exclude_styles removes a needed instrument: no "no piano," "no strings," "no cello," "no brass," "no trumpet," "no horn," "no flugelhorn." Solo piano and sparse piano are NOT in exclude_styles. No brass-family exclusions that would fight the muted flugelhorn.
+
+  Trio instruments and version gaps (from latest version 549):
+  - Grand piano (gap 7, last v542): the undisputed lead — carries the cantabile melody throughout the entire piece, from the bare first statement through the reharmonized return to the quiet closing fragment. Close-mic'd sustain-pedal resonance is the acoustic environment. Piano returns to unambiguous center-stage role (v547 had no piano; v548 had no piano; v549 had piano but in a supporting role beneath a lament ostinato — here it IS the melody, the only voice with the tune).
+  - Cello (gap 37, last v512): enters exclusively at the reharmonized return to sustain warm root pedal notes under each transformed chord. It does not take the melody; it is felt in the body as harmonic grounding. A body voice that makes the harmonic shift physical.
+  - Muted flugelhorn (gap 48, last v501): a veiled, round, dark brass color — softer and more distant than trumpet — that floats faintly in the mid-high register at the return and peak as pure atmospheric haze. Never takes the melody. Enters late and remains subordinate throughout. Revival gap of 48 versions.
+
+  Spectral instrument count: 0. Body voices: 3 (grand piano, cello, muted flugelhorn — all acoustic body instruments). Exceeds the playbook minimum of 2 body voices. No spectral instruments used in this cycle, which differentiates it from v545 (cristal baschet), v546 (glockenspiel), v547 (crystal harmonica), v548 (celesta), and v549 (bowed vibraphone).
+
+  Novelty claims: harmonic restatement as the primary goosebump-by-revelation device (same pitches, transformed chords, Neapolitan flat-II) has not been used as the structural centerpiece in this catalog. B-flat minor home leaning into D-flat major relative with a borrowed Neapolitan flat-II as the peak chord has not been used in this key combination. Empty-concert-hall-at-first-snow scene is new. The trio of grand piano + cello + muted flugelhorn is a new combination in the catalog. All-body-voice trio (zero spectral instruments) is a departure from v545–v549, which each used exactly one spectral. Style character count: 950.
+
+tags:
+  - grand-piano
+  - cello
+  - muted-flugelhorn
+  - 83bpm
+  - b-flat-minor
+  - d-flat-major
+  - neapolitan-flat-ii
+  - empty-concert-hall-at-first-snow-scene
+  - harmonic-restatement
+  - same-melody-transformed-chords
+  - cantabile-rubato
+  - all-body-voice-trio
+  - revival-cello-37-gap
+  - revival-muted-flugelhorn-48-gap
+  - new-technique
+  - duration-short-accepted
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - chamber
+  - milestone-v550
