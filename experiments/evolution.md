@@ -565,6 +565,7 @@ mindmap
 | 548 | Thresh548 | cluster-gate resolution (frisson by subtraction) | E major to C-sharp minor | 69 | bass flute, nyckelharpa, celesta |
 | 549 | Lacuna549 | chromatic lament bass with cantabile rubato | C-sharp minor to A major | 78 | grand piano, harp, bowed vibraphone |
 | 550 | Recast550 | harmonic restatement (same melody, transformed chords, Neapolitan flat-II) | B-flat minor to D-flat major | 83 | grand piano, cello, muted flugelhorn |
+| 551 | Ancre551 | tonic pedal-point stasis vs chromatic-cloud motion (floor-vanishes frisson) | D major with borrowed minor-iv | 67 | grand piano, double bass, basset horn |
 
 ## Next-cycle priorities
 

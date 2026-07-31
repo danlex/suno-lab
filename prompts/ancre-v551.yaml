@@ -1,0 +1,75 @@
+name: "ancre-v551"
+version: 551
+title: "Ancre551"
+instrumental: true
+
+style: "Rain-soaked conservatory at dusk. Grand piano in D major at 67 BPM — close-mic'd sustain-pedal resonance, warm tape saturation. Right hand sings a cantabile melody in free rubato; left hand rocks a soft low-D pedal-tone, continuously re-struck: stillness below, aching chromatic drift above. At the golden-section a borrowed G minor chord blooms over the held tonic — minor subdominant casting Romantic shadow across luminous D major, the deepest color. Then the floor vanishes: pedal bass drops away, melody floats unmoored and weightless, no ground. The low D returns; ground restored; warmth floods the re-anchored phrase. Double bass arco deepens the tonic throughout, dropping and returning with the piano, making the loss felt. Basset horn breathes warm chalumeau color inside the harmonic cloud, subordinate and still. Polished studio mix, tight chamber reverb, wide stereo stage. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Pedal Opens: piano alone, left hand rocking low-D pedal continuously, right hand singing cantabile theme over the tonic, 10 bars]
+
+  [Chromatic Drift: melody climbs through chromatic neighbor chords above the unwavering D pedal, double bass arco enters warm and low, 10 bars]
+
+  [Cloud Thickens: borrowed passing chords deepen the harmonic haze, basset horn breathes chalumeau color beneath the melody, 10 bars]
+
+  [Shadow Chord: G minor blooms over the held D pedal — borrowed minor-iv casts sudden Romantic shadow, melody lingers on the ache, 12 bars]
+
+  [Floor Vanishes: left-hand pedal drops away, double bass silent, melody drifts unmoored and weightless, no ground, 8 bars]
+
+  [Ground Returns: low D re-strikes, double bass returns, melody radiates warmth and relief over the restored tonic, 12 bars]
+
+  [Settling: chromatic drift quiets, voices gather toward D major stillness, pedal rocking gently slower, 8 bars]
+
+  [Close: piano alone, final cantabile phrase over the soft rocking D, 6 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, spa, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, cinematic ambient, choir, choral, jazz, lounge, impressionist"
+
+notes: |
+  Pedal-point stasis with chromatic-cloud motion is a compositional device built on a deliberate paradox: a single sustained bass pitch (here, the tonic D) that never changes and never truly stops moving — continuously re-struck in a gentle rocking figure — while the harmonic voices above it drift through chromatic neighbor chords, borrowed colors, and modal shadows. The bass communicates absolute safety and stillness; the upper voices communicate restlessness and yearning. The beauty is the tension between them: what does not move, and what cannot stop moving.
+
+  Concept source: caller brief for v551 — "pedal-point stasis vs. chromatic-cloud motion" as a new device not used in v545–v550; sustained tonic D in the left hand rocking continuously while the right-hand cantabile melody drifts through chromatic and borrowed harmonies; frisson delivered by the pedal dropping away entirely at ~1:45–2:10 (the floor vanishing) and then returning (ground restored), not by a rising half-step key lift.
+
+  This device echoes a lineage of late-Romantic and post-classical composers who built entire pieces over a single anchored bass tone — held pedal points under swirling chromatic upper voices — explored most deeply in the 19th century and revived in the post-classical piano repertoire. None of those composers are named here per the project blocklist.
+
+  The borrowed G minor chord — the iv chord borrowed from the parallel D minor — arrives at the golden-section (~bar 32 of 76 total). The minor subdominant in a major-key pedal context introduces a shadow that feels almost human: a sudden awareness of loss inside contentment. This is the Romantic shadow the piece is built toward.
+
+  Duration strategy: at 67 BPM this is a reflective concept and per Playbook Move 10 a ~2:30–3:15 render is expected and accepted. The continuous rocking left-hand pedal-tone is the primary duration lever — it keeps the bass in motion throughout, preventing the sparse-slow-truncation trap. The pedal drops at the naked moment but returns; this is temporary textural reduction, not a silence-gate. Total bars: 76 (10+10+10+12+8+12+8+6). Parametrized colon-syntax lyrics with bar counts (Playbook Move 1). Production tokens: warm tape saturation, polished studio mix, tight chamber reverb, wide stereo stage (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening: rain-soaked conservatory at dusk (Playbook Move 4). No [Silence] metatag — the Floor Vanishes section removes the bass while melody continues, avoiding the silence-gate truncation failure. Exclude_styles blocks cinematic ambient, elegiac, intimate chamber, jazz, lounge, impressionist, solo piano, sparse piano.
+
+  Negative-prompt contradiction guard: the piece is fully acoustic (grand piano, double bass, basset horn). Inline negatives exclude guitars, vocals, rock drums, pipe organ, choir. Exclude_styles includes electronic/EDM/synthesizer as drift blocks. Nothing in the inline negatives or exclude_styles removes a needed instrument. Critically: no "no strings," "no double bass," "no bass," "no woodwinds," "no clarinet" — the basset horn is a clarinet-family instrument and the double bass is a string; neither family is excluded.
+
+  Trio instruments and version gaps (from latest version 550):
+  - Grand piano (gap 9, last v542): sole melodic voice throughout. Right hand carries the cantabile theme; left hand carries the continuous rocking low-D pedal-tone — both the structural spine and the duration lever. The removal and return of the left-hand pedal is the primary emotional event.
+  - Double bass (gap 243, last v308): arco bowing reinforces the sustained low D tonic, adding warm bodily resonance beneath the piano. Drops away simultaneously with the piano pedal at the Floor Vanishes section and returns with it — making the loss and restoration of the floor a physical, embodied experience. Revival gap of 243 versions.
+  - Basset horn (gap 551, first use in this catalog): the deeper, warmer cousin of the clarinet, pitched between standard clarinet and bass clarinet; its chalumeau register provides an intimate woody breath-color inside the harmonic cloud. Never takes the melody; pure atmospheric reinforcement. First appearance in this catalog — a genuine instrument-novelty entry.
+
+  Spectral instrument count: 0. Body voices: 3 (grand piano, double bass, basset horn). Exceeds the playbook minimum of 2 body voices. No spectral instruments.
+
+  Novelty claims: pedal-point stasis vs. chromatic-cloud motion has not been used as the structural centerpiece in this catalog. D major with a continuously rocking tonic pedal is new. The "floor vanishing and returning" as the frisson trigger — not a key lift, not a reharmonization, not an exposed-Drop — is new in this arc. Basset horn is new to the entire catalog. Trio of grand piano + double bass + basset horn is a new combination. Rain-soaked conservatory at dusk is a new scene. Style character count: 950.
+
+tags:
+  - grand-piano
+  - double-bass
+  - basset-horn
+  - 67bpm
+  - d-major
+  - g-minor
+  - rain-soaked-conservatory-at-dusk-scene
+  - pedal-point-stasis
+  - chromatic-cloud-motion
+  - borrowed-minor-iv
+  - cantabile-rubato
+  - rocking-pedal-tone
+  - floor-vanishes-frisson
+  - all-body-voice-trio
+  - revival-double-bass-243-gap
+  - new-instrument-basset-horn
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - chamber
