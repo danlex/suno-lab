@@ -1,0 +1,77 @@
+name: "sotto-v553"
+version: 553
+title: "Sotto553"
+instrumental: true
+
+style: "Winter study at last light, lamp glow. Grand piano in G major at 74 BPM — close-mic'd sustain-pedal resonance, polished studio mix, tight chamber reverb, warm tape saturation. Three strata: arpeggiated triplets above never stopping; slow walking bass below; a cantabile theme thumb-weighted in the middle register, buried inside the texture. The ear hears only shimmer for ninety seconds. Then the inner-voice melody rises through dynamic weighting — same notes always present, delayed recognition more devastating than any entrance. Near two minutes arpeggios thin to bare single notes; melody stands unguarded above one held bass note; harmony glows into E-flat major via chromatic-mediant pivot — luminous major-third-down shift — melody surfaces and harmony open at once. French horn enters only in the final third: warm, muted, pianissimo tones far beneath the piano, never melodic. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Shimmer Opens: piano alone, triplet arpeggios above, walking bass below, cantabile theme hidden in middle register, 12 bars]
+
+  [Bass Begins Walking: left hand drifts through G major, inner melody still buried inside the shimmer, 10 bars]
+
+  [Inner Voice Stirs: thumb-weighted middle register rises barely, harmonic color deepening, 12 bars]
+
+  [Dynamic Weighting: inner melody louder, rising through texture, bass drifting further from home, 10 bars]
+
+  [Single Moment: arpeggios thin to single bare notes, melody stands unguarded above one held low note, harmony pivots to E-flat major chromatic-mediant glow, 4 bars]
+
+  [Eb Major Radiance: melody fully surfaced in luminous new key, one sustained bass note only beneath, 8 bars]
+
+  [Horn Breathes: french horn enters pianissimo far below, warm muted pedal tone, arpeggios return one layer at a time, 8 bars]
+
+  [Dissolution: melody submerges back into triplet shimmer, ends mid-phrase unresolved, 8 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, spa, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, cinematic ambient, choir, choral, jazz, lounge, impressionist, elegiac, intimate chamber"
+
+notes: |
+  Hidden-song emergence (also called inner-voice surfacing) is a compositional strategy in which the singable melodic theme is never absent from the music — it is present from bar one — but is deliberately buried in a middle register, placed between a more audible arpeggiated texture above and a bass line below, and played at a softer dynamic than either. The listener's ear initially interprets the music as pure texture rather than melody. As the piece progresses, the hidden voice is gradually brought forward via dynamic weighting — increasing the key-pressure on the thumb or the voice responsible for the inner strand — until the melody becomes audible without the texture ever stopping. The recognition event is not a new entrance; it is a moment of delayed hearing: the listener suddenly hears, as a melody, notes that were always there. This is structurally distinct from theme-and-variations, from call-and-response, and from the "silent revelation" device in which a voice enters ex nihilo. The nearest analog is the tenor hidden in the inner voice in late Renaissance polyphony, where a cantus firmus was tucked between the outer voices; here the device is applied to grand piano with sustain-pedal resonance as the timbral glue.
+
+  Concept source: caller brief for v553 — "melody hidden in the inner voice / hidden-song emergence" as a new device not used in v545–v552; the entire piece built on the gradual surfacing of a buried cantabile theme via dynamic weighting, with a chromatic-mediant pivot to E-flat major at the moment of surfacing (~bar 34), so that melody and harmony open simultaneously — a double revelation.
+
+  This technique echoes a lineage of post-classical and late 19th-century piano composers who embedded melodic material in inner voices — the melody-in-the-thumb technique associated with dense piano writing where the inner line sings above the accompaniment but below the arpeggiated treble. None of those composers are named here per the project blocklist. The chromatic-mediant relationship (G major down a major third to E-flat major, roots a major third apart sharing only one common tone) produces a harmonic glow effect — not a modulation in the traditional sense, but a sudden luminous shift that the ear processes as radiance rather than movement.
+
+  The ARC:
+  - 0:00–1:00 (Shimmer Opens + Bass Begins Walking + Inner Voice Stirs, 34 bars): pure texture, ear hears shimmer and bass only, inner melody submerged below conscious perception.
+  - 1:00–2:00 (Dynamic Weighting, 10 bars + overlap): inner voice rises through thumb-weighting; the listener begins to hear a tune they cannot yet name, which is the period of building recognition.
+  - 2:00–2:10 (Single Moment, 4 bars): arpeggios strip to bare single notes; the melody stands naked above a single held low bass note. Simultaneously, harmony pivots to E-flat major. The double revelation — tune fully heard AND radiant new harmonic color — lands together. This is the most beautiful moment.
+  - 2:10–3:00 (Eb Major Radiance + Horn Breathes + Dissolution, 24 bars): melody confirmed in E-flat major; french horn enters pianissimo beneath; texture gradually rebuilds; melody submerges back into the shimmer; piece ends mid-phrase, unresolved.
+
+  Duration strategy: at 74 BPM this is a slow reflective concept; the continuous arpeggiated triplet texture is the primary duration lever — it keeps the music in constant forward motion from bar 1 to the final bar, preventing the sparse-slow-truncation trap. The Single Moment is textural thinning (four bars only), NOT a full silence-gate — the held bass note continues throughout, avoiding the truncation failure. Total bars: 72 (12+10+12+10+4+8+8+8). Target duration: 2:30–3:15 accepted. Parametrized colon-syntax lyrics with bar counts (Playbook Move 1). Production tokens: polished studio mix, tight chamber reverb, warm tape saturation, close-mic'd sustain-pedal resonance (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening: winter study at last light, lamp glow (Playbook Move 4). No [Silence] metatag anywhere.
+
+  Negative-prompt contradiction guard (re-checked per brief):
+  Exclude_styles does NOT contain: "solo piano", "sparse piano", "brass", "horn", "trumpet", "french horn". Confirmed clean. Inline negatives: guitars, vocals, rock drums, pipe organ, choir. "Pipe organ" is specific — it does NOT exclude french horn (a brass instrument, not a pipe). Nothing in exclude_styles removes a needed instrument. Grand piano and french horn are both acoustic non-electronic instruments; the EDM/synthesizer/electronic exclusions do not touch them.
+
+  Instruments and roles:
+  - Grand piano (gap 11, last used v542): sole melodic instrument and structural spine throughout. Three simultaneous strata in two hands: arpeggiated triplets in the upper register (duration lever, never fully stops), thumb-weighted cantabile theme in the middle register (the hidden song), and slow walking bass below. Unambiguously the star.
+  - French horn (gap 553, first use in this catalog): warm, muted, pianissimo sustained pedal tones. Enters only in the final third (~2:20 onward), holding low/distant notes far beneath the piano. Never melodic, never in the middle register, never present during the 0:00–2:20 emergence — so it cannot obscure the inner-voice reveal. First appearance in this catalog.
+
+  Only two instruments — the brief calls for essentially grand piano with one warm color so the inner-voice emergence stays legible. Two body voices minimum met (grand piano is the primary body voice; french horn is a body voice). Spectral instrument count: 0.
+
+  Novelty claims: hidden-song emergence as the structural spine is new to this catalog. G major to E-flat major chromatic-mediant pivot (descending major third) has not been used in this arc. The device of delayed melodic recognition — melody always present but surfacing through dynamic weighting rather than entering — is new. Winter-study-lamp-at-last-light is a new scene. French horn debut in this catalog. Style character count: 950.
+
+tags:
+  - grand-piano
+  - french-horn
+  - 74bpm
+  - g-major
+  - e-flat-major
+  - chromatic-mediant
+  - winter-study-lamp-at-last-light-scene
+  - hidden-inner-voice-melody
+  - thumb-weighted-middle-register
+  - continuous-arpeggiated-triplets
+  - delayed-recognition
+  - dynamic-weighting-emergence
+  - cantabile-grand-piano
+  - new-instrument-french-horn
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - chamber

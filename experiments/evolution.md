@@ -567,6 +567,7 @@ mindmap
 | 550 | Recast550 | harmonic restatement (same melody, transformed chords, Neapolitan flat-II) | B-flat minor to D-flat major | 83 | grand piano, cello, muted flugelhorn |
 | 551 | Ancre551 | tonic pedal-point stasis vs chromatic-cloud motion (floor-vanishes frisson) | D major with borrowed minor-iv | 67 | grand piano, double bass, basset horn |
 | 552 | Suspense552 | suspension cascade releasing onto chromatic-mediant F major | A minor with chromatic-mediant to F major | 73 | grand piano, viola d'amore, harmonium |
+| 553 | Sotto553 | hidden inner-voice melody emergence + G-to-Eb chromatic-mediant glow | G major to E-flat major | 74 | grand piano, french horn |
 
 ## Next-cycle priorities
 
