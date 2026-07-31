@@ -1,0 +1,70 @@
+name: "vault554-v554"
+version: 554
+title: "Vault554"
+instrumental: true
+
+style: "Autumn library at last light, amber slant across the keys. Grand piano in E-flat minor at 77 BPM — close-mic'd sustain-pedal resonance, polished studio mix, tight chamber reverb. Singable theme stated at 0:08 in the middle register over a walking left-hand arpeggiated ostinato that never stops. From there the theme restated each time one octave wider — bass lower, treble higher — the same melody growing to fill more breadth: confiding first, then vast. At the full-keyboard bloom a German augmented-sixth surges — chromatic tension resolving to the B-flat dominant — the theme bridging full keyboard width, the most beautiful moment. Then the music contracts to the original middle-range statement, piano entirely alone: a reverse-reveal coda. Viola da gamba enters warm beneath the piano at the first expansion, receding in the coda. Bassoon enters only at the full-keyboard peak, filling the tenor register, silent in coda. No guitars, no vocals, no rock drums, no pipe organ, no choir."
+
+lyrics: |
+  [Theme Opens: grand piano alone states the full singable theme in middle register over walking left-hand arpeggiated ostinato, 0:08, 10 bars]
+
+  [First Expansion: theme restated one octave wider, bass hand reaches lower, viola da gamba enters warm beneath the piano, 16 bars]
+
+  [Harmonic Development: left-hand arpeggio deepens, theme ascends in right hand, viola da gamba mirrors the sustain, harmonic color darkening, 12 bars]
+
+  [Full-Keyboard Bloom: theme restated across the full keyboard from low bass to high treble, left-hand arpeggio in the lowest register, German augmented-sixth chord surges at 1:55 resolving to B-flat dominant, bassoon enters filling the tenor, maximum register width, 20 bars]
+
+  [Reverse-Reveal Coda: music contracts, theme returns to original tight middle-range statement, solo piano entirely alone, viola da gamba gone, bassoon gone, 10 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, electronic, EDM, synthesizer, zen meditation, new age, chillout, experimental noise, free jazz, atonal, microtonal, quarter-tone, ambient drone, cinematic ambient, choir, choral, jazz, lounge, impressionist, elegiac, intimate chamber"
+
+notes: |
+  Register-expansion thematic ascent is a spatial/register device — distinct from harmonic variation, dynamic arc, or thematic development — in which a singable melodic theme is first stated in a tight middle-register compass and then systematically re-presented with each octave of the instrument's range added one layer at a time: bass extension below in the left hand, treble extension above in the right. The theme itself is unchanged; only its spatial envelope grows. The perceptual effect is of the same emotional content being physically magnified, as if the listener hears the melody first in a small room, then a recital hall, then a cathedral nave. A reverse-reveal coda contracts the theme back to its original compass alone, which is devastating precisely because the listener now holds the memory of the full expansion. This device has not been used in v545–v553.
+
+  Concept source: caller brief for v554 — "register-expansion thematic ascent" as a new spatial/register device not used in prior cycles; theme stated immediately at 0:08 to prevent the buried-opening truncation failure that shortened v553 to ~1:20; German augmented-sixth chord (Cb–Eb–Gb–A♮ resolving to B-flat dominant) timed to coincide with the moment of maximum register width at the full-keyboard bloom (~1:55), so harmonic and spatial tension peak simultaneously.
+
+  This technique echoes a lineage of post-classical and late-Romantic piano composers who used register-expansion as an intensification device — the practice of literally thickening a theme by adding bass and treble doublings at successive octaves across the keyboard, found in large-scale piano writing of the 19th and early 20th centuries. None of those composers are named here per the project blocklist.
+
+  The German augmented-sixth chord (also called the Ger+6) is a chromatic harmony built on the flattened sixth scale degree of a minor key, with an added augmented fourth above the bass. In E-flat minor, the chord is Cb–Eb–Gb–A♮, resolving by contrary motion of its two dissonant outer voices to the B-flat dominant. Its function is maximal chromatic tension at a structurally climactic moment — here timed to coincide with the widest register deployment, so the full-keyboard bloom and the harmonic surge land as a single event. The emotional result is a searing, breath-taking convergence of spatial grandeur and harmonic longing.
+
+  Duration strategy: at 77 BPM this is a slow reflective concept; the continuous walking left-hand arpeggiated ostinato is the primary duration lever — it never stops from bar 1 to the final bar, keeping the music in constant forward motion and preventing the sparse-slow-truncation trap documented after v527. Total bars: 68 (10+16+12+20+10). At 77 BPM in 4/4 each bar ≈ 3.1 seconds; theoretical duration ≈ 3:30. Target 2:45–3:30. Parametrized colon-syntax lyrics with bar counts (Playbook Move 1). Production tokens: polished studio mix, tight chamber reverb, close-mic'd sustain-pedal resonance (Playbook Move 2). Sentence case throughout (Playbook Move 3). Atmospheric-first opening: autumn library at last light, amber slant across the keys (Playbook Move 4). No [Silence] metatag — the reverse-reveal coda is a textural contraction, not a silence gate.
+
+  Negative-prompt contradiction guard (re-checked per brief):
+  exclude_styles does NOT contain: "solo piano", "sparse piano", "strings", "viol", "viola", "bassoon", "woodwind", "woodwinds". Confirmed clean. Inline negatives: guitars, vocals, rock drums, pipe organ, choir. "Pipe organ" is specific and does NOT exclude viola da gamba, bassoon, or grand piano.
+
+  Instruments and roles:
+  - Grand piano (gap 12, last used v542): lead and nearly the whole piece. Close-mic'd sustain-pedal resonance. States and restates the singable theme across successively wider register compass. The continuous walking left-hand arpeggiated ostinato is the duration lever. Unambiguously the star; present from bar 1 to the final bar.
+  - Viola da gamba (gap 3, last used v551): warm, dark gut-string bowing; body voice. Enters at the first expansion (B-section), nestled beneath the piano to mirror its sustain and add warmth. NEVER melodic lead. Recedes entirely in the reverse-reveal coda so the solo piano contraction is unobstructed.
+  - Bassoon (gap 554, first use in this catalog): woody, breath-filled tenor voice; body voice. Enters only at the full-keyboard peak (C-section), filling the tenor register between the lowest bass and the soaring treble, adding body to the climactic bloom. NEVER melodic lead. Silent in the reverse-reveal coda.
+
+  Three body voices (grand piano, viola da gamba, bassoon) — zero spectral instruments. Trio satisfies the two-body-voice minimum (Playbook Move 5).
+
+  Novelty claims: register-expansion thematic ascent as the structural spine is new to this catalog. E-flat minor with German augmented-sixth pivot to B-flat dominant has not been used in the v545–v553 arc (prior arcs used half-step lift, E→C#m, C#m→A, Bbm→Db Neapolitan, D pedal-iv, Am→F chromatic-mediant, G→Eb chromatic-mediant). Autumn-library-at-last-light is a new scene distinct from winter-study (v553) and prior scenes. Bassoon debut in this catalog. Style character count: 994.
+
+tags:
+  - grand-piano
+  - viola-da-gamba
+  - bassoon
+  - 77bpm
+  - e-flat-minor
+  - b-flat-dominant
+  - german-augmented-sixth
+  - autumn-library-at-last-light-scene
+  - register-expansion-thematic-ascent
+  - walking-arpeggiated-ostinato
+  - full-keyboard-bloom
+  - reverse-reveal-coda
+  - cantabile-grand-piano
+  - new-instrument-bassoon
+  - revival-viola-da-gamba-3-gap
+  - revival-grand-piano-12-gap
+  - new-technique
+  - new-bpm
+  - duration-3min
+  - beauty-first
+  - research-driven
+  - instrumental
+  - post-classical
+  - chamber
