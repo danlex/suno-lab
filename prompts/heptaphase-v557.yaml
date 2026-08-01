@@ -1,0 +1,70 @@
+name: "heptaphase-v557"
+version: 557
+title: "Heptaphase557"
+instrumental: true
+
+style: "Seven pianos in a seven-sided mirrored planetarium, spread hard-left to hard-right. Deep concert grand: far left, sub-bass reinforced, heavy staccato low ostinato in four — gravitational anchor. Upright piano: left, percussive woody syncopation in three. Felt piano: left-centre, soft damped triplets. Prepared piano: centre, metallic buzzing cell in five, industrial bite. Tack piano: right-centre, detuned barrelhouse jangle in six. Toy piano: right, tiny crystalline high plink in seven. Bright concert grand: far right, rapid glittering cascade. Seven tonal centers spread across the octave, polytonal, never settling. All seven orbits drift toward a total eclipse, nearly slamming onto one shared thunderous downbeat at peak density, then shatter apart. 140 BPM. Close-mic'd percussive transients, heavy sub-bass on the deep grand, punchy polished studio mix, wide stereo stage. No guitars, no vocals, no drum kit, no synths, no strings."
+
+lyrics: |
+  [Seven Enter: all seven cells stacking, seven keys at once, immediate density, 16 bars]
+
+  [First Drift: orbits circling, polytonal shimmer intensifying, sub-bass thickening, 28 bars]
+
+  [Near-Eclipse: orbits tighten toward alignment, collision imminent, scatter apart — the fake-out, 12 bars]
+
+  [Shatter Apart: full re-divergence, each piano back to its own key and rhythm, 20 bars]
+
+  [Rebuild: seven cells remount tension, cross-rhythms interlocking, metallic buzz and barrelhouse jangle pressing hard, 40 bars]
+
+  [Suspended: lone deep grand note rings low, sub-bass cut, one held breath, 3 bars]
+
+  [Total Eclipse: all seven pianos slam onto one shared thunderous downbeat — sub-bass and toy piano top together, peak density — then shatter apart, 56 bars]
+
+  [Seven Orbits: seven cells drift unsynced, unresolved, each in its own key, ending mid-motion, 28 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, choir, pipe organ, EDM, house, techno, dubstep, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, jazz, lounge, orchestra, strings, brass, cinematic ambient, elegiac, intimate chamber"
+
+tags:
+  - deep-concert-grand
+  - upright-piano
+  - felt-piano
+  - prepared-piano
+  - tack-piano
+  - toy-piano
+  - bright-concert-grand
+  - seven-pianos
+  - heptaphase-style
+  - polyrhythm
+  - polytonal
+  - 140bpm
+  - seven-tonal-centers
+  - seven-body-polyrhythm
+  - two-stage-convergence
+  - near-eclipse-fakeout
+  - total-eclipse
+  - forward-motion-scene
+  - planetarium-scene
+  - duration-3min
+  - research-driven
+  - instrumental
+  - sub-bass-reinforced
+  - wide-stereo
+  - triphase-escalation
+  - new-technique
+
+notes: |
+  HEPTAPHASE is a direct escalation of the TRIPHASE piano style (v555–v556). Where TRIPHASE assigned three grand pianos to three lanes (low/mid/high) with three rhythmic cells and three tonal centers, HEPTAPHASE deploys SEVEN DISTINCT PIANO TIMBRES across the full stereo field — each with its own register, rhythmic cell (groups of 4, 3, triplets, 5, 6, 7, and cascades respectively), and tonal center. The resulting seven-body polyrhythm can never periodically resync: because the phrase lengths 3, 4, 5, 6, and 7 share no simple common period, the orbit-realignment horizon is astronomically long. The defining rule inherited from TRIPHASE — "converge but never sync" — is preserved and scaled: the climactic Total Eclipse is a near-collision of all seven bodies onto a shared downbeat, followed by an immediate shatter.
+
+  The phase-music and polytonal traditions this concept draws on are well-documented in 20th-century experimental piano literature; the specific architects cannot be named here per blocklist. The researcher's framing: seven simultaneous tonal centers spread across the octave, seven interlocking rhythmic cells with distinct phrase-lengths, and a two-stage convergence (Near-Eclipse fake-out + Total Eclipse) as the structural spine.
+
+  Seven piano roles: Deep concert grand (far left, sub-bass reinforced, staccato ostinato in four — gravitational anchor, body voice). Upright piano (left, percussive woody syncopation in three — body voice). Felt/muted piano (left-centre, soft damped triplets — body voice). Prepared piano (centre, metallic buzzing cell in five — industrial bite, body voice). Tack piano / honky-tonk (right-centre, detuned barrelhouse jangle in six — body voice). Toy piano (right, tiny crystalline plink in seven — the sole spectral pick). Bright concert grand (far right, rapid glittering high-register cascade — body voice). Body-voice compliance: 6 of 7 voices are body pianos; toy piano is the sole spectral pick (1/7, compliant). All seven timbres are pianos — conventional trio-gap tracking does not apply; novelty is the heptaphase concept itself.
+
+  Duration strategy: 140 BPM sits squarely in the proven 130–160 duration band. Total bars: 16+28+12+20+40+3+56+28 = 203 bars. At 140 BPM with ~65–73% wall-clock efficiency, target render is approximately 3:40–4:20. The Suspended section (3 bars) avoids the literal [Silence] metatag — a lone ringing deep grand note rather than full silence, preventing truncation. The forward-motion concept (seven orbits converging, eclipsing, shattering) triggers Suno's cinematic-instrumental classifier rather than ambient/reflective tags.
+
+  Playbook moves applied: parametrized colon-lyrics with bar counts (8 sections + End); production tokens — punchy polished studio mix, wide stereo stage, close-mic'd percussive transients, heavy sub-bass; sentence case throughout; atmospheric scene-first opening (seven-sided mirrored planetarium); two-stage Fake-Out / Suspended / Total Eclipse stack. No blocklist words anywhere in style or lyrics.
+
+  Negative-prompt guard: exclude_styles confirmed to NOT contain "piano", "solo piano", "sparse piano", "keys", "keyboard", "acoustic", "prepared piano", "toy piano", "honky-tonk", "upright", or "tack piano". Inline negatives in style: no guitars, no vocals, no drum kit, no synths, no strings.
+
+  Novelty claims: HEPTAPHASE concept is new to the catalog. Seven-body polytonal polyrhythm escalates beyond any prior TRIPHASE prompt. Scene (seven-sided mirrored planetarium) is new. Style char count: 942.
