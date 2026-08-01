@@ -1,0 +1,71 @@
+name: "triphase-v556"
+version: 556
+title: "Triphase556"
+instrumental: true
+
+style: "Three grand pianos inside a mirrored elevator shaft at night, each locked in its lane: Piano 1 left-panned, heavy syncopated low ostinato in four — sub-reinforced, percussive bite, the gravitational anchor; Piano 2 centre, rolling triplet figure in three — midrange rhythmic engine, relentless; Piano 3 right-panned, rapid quintuplet sparkle in five — high-register glitter scattering above. Three tonal centers a third apart — D, F, A-flat — polytonal, kaleidoscopic, never settling. Wide stereo stage, close-mic'd transient attack, heavy sub-bass on Piano 1, punchy polished studio mix. At 140 BPM the three cells phase in and out: a First Approach pulls the orbits near-collision — fake-out, they tear apart. Re-divergence rebuilds tension. The Final Eclipse drives all three onto one thunderous shared downbeat at peak density and sub-bass, then tears apart into unresolved drift. No guitars, no vocals, no drum kit, no synths, no strings."
+
+lyrics: |
+  [Three Cells Enter: staggered entry, low four, mid three, high five — separate keys, dense immediately, 12 bars]
+
+  [First Approach: orbits tighten, polytonal shimmer intensifies, sub-bass thickening, 20 bars]
+
+  [Near-Eclipse: orbits almost lock — collision imminent — scatter apart, the fake-out, 8 bars]
+
+  [Tear Apart: full re-divergence, each piano snaps back to its own key and rhythm, 16 bars]
+
+  [Re-Diverge: three cells rebuild independence, tension remounting harder, 20 bars]
+
+  [Build: cross-rhythms interlock, sub-bass swelling, all three tonal centers pressing toward collision, 28 bars]
+
+  [Suspended: lone low piano note ringing, sub-bass cut, one held breath, 3 bars]
+
+  [Final Eclipse: all three pianos slam onto one thunderous shared downbeat — peak sub-bass — then tear apart, 24 bars]
+
+  [Still Orbiting: three cells drift unsynced, unresolved, ending mid-motion, 16 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, EDM, house, techno, dubstep, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, jazz, lounge, choir, orchestra, strings, brass, cinematic ambient, elegiac, intimate chamber"
+
+tags:
+  - grand-piano
+  - three-pianos
+  - polyrhythm
+  - polytonal
+  - 140bpm
+  - d-f-aflat-tonal-centers
+  - triphase-style
+  - triphase-v2
+  - two-stage-convergence
+  - near-eclipse-fakeout
+  - final-eclipse
+  - forward-motion-scene
+  - duration-3min
+  - research-driven
+  - instrumental
+  - sub-bass-reinforced
+  - wide-stereo
+  - signature-cells
+  - elevator-shaft-scene
+
+notes: |
+  TRIPHASE is the invented piano style debuting at v555, iterated here at v556. The concept: three grand pianos are each assigned a distinct register lane (low/mid/high), a distinct rhythmic signature cell (syncopated four / rolling three / rapid five), and a distinct tonal center (three keys a third apart — D, F, A-flat — polytonal, never resolving). The defining rule remains "converge but never sync": the orbits drift toward alignment, climaxing in an Eclipse, then tear apart. They never fully lock; the near-miss is the emotional payload.
+
+  The practice draws on phase-music and polytonal traditions developed across the 20th century (whose architects cannot be named here per blocklist). The researcher's framing: three simultaneous tonal centers a third apart, interlocking cross-rhythms with trackable signature cells, two-stage convergence (fake-out near-eclipse + final thunderous eclipse) as the structural spine.
+
+  V556 refinements over v555:
+  1. MORE TRACKABLE LAYERS: each piano now has a named rhythmic cell — Piano 1 syncopated ostinato in four, Piano 2 rolling triplets in three, Piano 3 rapid quintuplets in five — so the ear can follow three independent streams, not blur them.
+  2. TWO-STAGE CONVERGENCE: a Near-Eclipse fake-out (~40% through) pulls orbits close then scatters them apart, followed by a bigger Final Eclipse (~75% through) — the true payoff with maximum sub-bass and density.
+  3. HARDER PRODUCTION PUNCH: heavier sub-bass on Piano 1, sharper transient attack, close-mic'd percussive bite.
+  4. FRESH SURFACE: tonal centers shifted from C/E/G-sharp (v555) to D/F/A-flat. Scene: mirrored elevator shaft at night (replacing chrome concert hall). BPM lifted from 138 to 140.
+
+  Duration strategy: 140 BPM is in the proven 130-160 duration band. Total bars: 12+20+8+16+20+28+3+24+16 = 147 bars. At 140 BPM this targets 3:00-3:30 wall-clock. The Suspended section (3 bars) avoids the literal [Silence] metatag (which truncates) — a lone ringing note rather than silence. Forward-motion concept triggers Suno's cinematic-instrumental classifier rather than ambient/reflective tags.
+
+  Playbook moves applied: parametrized colon-lyrics with bar counts (9 sections + End); production tokens — polished studio mix, wide stereo stage, close-mic'd transient attack, heavy sub-bass; sentence case throughout; atmospheric scene-first opening; two-stage Build/Suspended/Eclipse stack; no blocklist words anywhere.
+
+  Instrument roles: Piano 1 (left-panned, sub-bass, syncopated four — the anchor); Piano 2 (centre, rolling triplets in three — the engine); Piano 3 (right-panned, quintuplet sparkle in five — the spark). All three are body voices; no spectral instruments. 3/3 body compliance.
+
+  Negative-prompt guard: exclude_styles confirmed to NOT contain "piano", "solo piano", "sparse piano", "keys", "keyboard", or "acoustic". Inline negatives in style: no guitars, no vocals, no drum kit, no synths, no strings.
+
+  Novelty: TRIPHASE series, second iteration. New tonal centers (D/F/A-flat). New two-stage convergence architecture. New scene. BPM 140. Style char count: 943.

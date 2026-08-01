@@ -570,6 +570,7 @@ mindmap
 | 553 | Sotto553 | hidden inner-voice melody emergence + G-to-Eb chromatic-mediant glow | G major to E-flat major | 74 | grand piano, french horn |
 | 554 | Vault554 | register-expansion thematic ascent + German augmented-sixth peak | E-flat minor with German augmented-sixth | 77 | grand piano, viola da gamba, bassoon |
 | 555 | Triphase555 | TRIPHASE debut: three parallel pianos, polyrhythm + polytonality, converge but never sync, eclipse convergence | polytonal (three tonal centers a third apart) | 138 | grand piano, grand piano, grand piano |
+| 556 | Triphase556 | TRIPHASE iteration 2: three legible piano lanes (4/3/5), two-stage convergence (near-eclipse fake-out + final eclipse) | polytonal D/F/A-flat (thirds apart) | 140 | grand piano, upright piano, high grand piano |
 
 ## Next-cycle priorities
 
