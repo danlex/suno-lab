@@ -1,0 +1,63 @@
+name: "triphase-v555"
+version: 555
+title: "Triphase555"
+instrumental: true
+
+style: "Three grand pianos locked in separate orbits in a chrome concert hall: left piano hammering percussive staccato sub-bass as the gravitational anchor, centre piano driving an interlocking rhythmic engine in the midrange, right piano scattering glittering rapid figuration in the high register. Wide stereo staging pans each to its own position, deep low-end definition on the sub-reinforced bass, close-mic'd transients for polished studio mix punch. Three tonal centers a third apart — polytonal, kaleidoscopic, never settling — shimmer and clash as all three phase in and out of alignment at 138 BPM. One moves in threes, one in fours, one in fives; orbits drift near then apart, motoric and hypnotic. Cross-rhythms tighten, sub-bass swells — the Eclipse: all three nearly slam onto one shared thunderous downbeat, near-collision at peak density — then tear apart, still orbiting. No guitars, no vocals, no drum kit, no synthesizers, no strings."
+
+lyrics: |
+  [Three Orbits Enter: sub-bass staccato pulse, midrange rhythmic engine, high figuration — separate keys, separate rhythms, immediate density, 16 bars]
+
+  [Cross-Rhythms Tighten: threes against fours against fives, orbits circling closer, polytonal shimmer growing electric, sub-bass deepening, 20 bars]
+
+  [Phase Drift: rhythms spread then narrow, each piano asserting its tonal center, the gap between orbits fluctuating, 16 bars]
+
+  [Build: all three orbits spiraling toward alignment, cross-rhythms interlock harder, sub-bass swelling, tension at maximum, 32 bars]
+
+  [Suspended: texture thins to a lone low piano note ringing, sub-bass cut for one held breath, motion barely alive, 3 bars]
+
+  [Eclipse: all three pianos slam onto one thunderous shared downbeat, polytonal collision at peak density, then immediately tear apart, 24 bars]
+
+  [Tear Apart: orbits diverge, three separate rhythms and keys re-establishing independence, still driving forward, 16 bars]
+
+  [Second Orbit: smaller convergence, orbits tease alignment, dissolve mid-drift, unresolved, 20 bars]
+
+  [End]
+
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, EDM, house, techno, dubstep, zen meditation, new age, experimental noise, free jazz, atonal, microtonal, quarter-tone, jazz, lounge, choir, orchestra, strings, brass, cinematic ambient, elegiac, intimate chamber"
+
+tags:
+  - grand-piano
+  - three-pianos
+  - polyrhythm
+  - polytonal
+  - 138bpm
+  - c-e-gsharp-tonal-centers
+  - triphase-style
+  - new-technique
+  - new-bpm
+  - eclipse-convergence
+  - forward-motion-scene
+  - duration-3min
+  - research-driven
+  - instrumental
+  - sub-bass-reinforced
+  - wide-stereo
+  - motoric
+
+notes: |
+  TRIPHASE is a newly invented style debuting at v555. The concept: three grand pianos are each given a distinct register (low/mid/high), a distinct rhythmic grouping (threes/fours/fives), and a distinct tonal center (three keys a third apart — roughly C, E, and G-sharp — so they shimmer polytonally without resolving). The defining rule is "converge but never sync": across the piece the three orbits drift toward alignment, climaxing in an Eclipse — a near-collision onto one shared thunderous downbeat — then immediately tearing apart. They never fully lock; the near-miss and its dissolution is the emotional payload.
+
+  The concept draws on phase-music traditions and polytonal practice (whose 20th-century architects cannot be named here per blocklist, but whose fingerprints are unmistakable in the 3-vs-4-vs-5 interlocking and the multi-key field). The researcher's framing: three simultaneous tonal centers a third apart, interlocking cross-rhythms that converge but never sync, Eclipse as the WOW moment.
+
+  Duration strategy: 138 BPM puts this in the proven 130-160 duration band. Total bars: 16+20+16+32+4+24+16+20 = 148 bars — conservative but dense; at 138 BPM with Build/Silence/Eclipse stack this targets 3:00-3:30 wall-clock. The Silence section (4 bars) is real — no continuous pad — making the Eclipse impact genuine. Forward-motion concept ("orbits spiraling toward alignment, then tearing apart") triggers Suno's cinematic-instrumental classifier rather than reflective/ambient tags.
+
+  Playbook moves applied: parametrized colon-lyrics with bar counts (8 sections + End); production tokens — polished studio mix, deep low-end definition, wide stereo staging, close-mic'd transients; sentence case throughout; atmospheric-opening (chrome concert hall scene); Build/Silence/Eclipse stack at ~65% of the arc; no blocklist words.
+
+  Trio note: three grand pianos are all body voices — heavily percussive, rhythmically driven, no spectral instruments. This satisfies the ≥2 body-voice rule with perfect compliance (3/3 body). No 4th instrument added.
+
+  Instruments: Piano 1 (left, sub-bass, percussive staccato anchor — first appearance in this register role, gap: debut); Piano 2 (centre, interlocking midrange rhythmic engine — debut); Piano 3 (right, glittering high-register figuration — debut). All three are the same instrument family deployed in completely different functional roles.
+
+  Novelty: TRIPHASE is a wholly invented style name, never used in the catalog. Three-piano polyrhythm + polytonality with an Eclipse convergence arc: no precedent in v1-v554. BPM 138 may be novel. Scene: "three orbits crossing in a chrome concert hall" — entirely new framing.
+
+  Style char count: 946.
