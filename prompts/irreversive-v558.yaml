@@ -1,0 +1,51 @@
+name: "irreversive-v558"
+version: 558
+style: "A wildfire racing up a mirrored keyboard-canyon. Close-mic'd grand piano, sub-bass reinforcement in the low zone, wide stereo stage, polished studio mix, resonant hall decay. The keyboard is finite one-way terrain: music ignites in the deep low register and migrates upward through zones — each vacated zone left ringing on the sustain pedal as gently decaying resonance beneath the advancing figuration. No motif or texture ever returns; harmony mutates forward through shifting tonal regions starting around D, never resolving back. Relentless 138 BPM, percussive attack, virtuosic drive. Energy builds as the hands climb; climax erupts in the extreme high register with the entire vacated keyboard ringing in a vast resonant wake below, until the music burns out at the top with nowhere left to go. Deep low-end definition in the low engine, tight chamber reverb high. No guitars, no vocals, no drum kit, no synthesizers, no strings."
+title: "Irreversive558"
+lyrics: |
+  [Low Engine Ignites: hammering low-register drive, dense percussive chords around D, 16 bars]
+
+  [Low-Mid Consumed: figuration climbs to low-mid zone, low register ringing behind on sustain pedal, 24 bars]
+
+  [Mid Register Surge: driving cells migrate into mid zone, low and low-mid ringing below, harmony mutating, 32 bars]
+
+  [Build: cross-hand figuration accelerates, all lower zones ringing in resonant wake, pressure mounting, 24 bars]
+
+  [High-Mid Breakthrough: hands push into high-mid register, three zones ringing below, glittering attack, 32 bars]
+
+  [Extreme-High Climax: all energy erupts at the top of the keyboard, the entire vacated keyboard ringing below, 40 bars]
+
+  [Burns Out at the Top: final notes unable to climb further, ringing wake fills the hall, nothing returns, 16 bars]
+
+  [End]
+instrumental: true
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, lo-fi, vocals, singing, pipe organ, EDM, drum kit, rock drums, strings, brass, orchestra, ambient, drone, new age, meditative, electronic dance music, house, techno, dubstep, free jazz, atonal, microtonal, electroacoustic, experimental noise"
+notes: |
+  IRREVERSIVE is a newly invented piano style in which the keyboard is treated as a finite, one-way terrain. The music consumes register-space directionally — igniting in the low zone and migrating upward without ever re-entering a vacated region. No chord, no motif, no texture returns; unity comes from relentless forward topographic depletion — a "burning map" — rather than thematic return. Each vacated zone is held by the sustain pedal and left to decay audibly behind the advancing music, so the past is present only as un-restrikeable ringing resonance: scorched earth. This is the debut of the technique in the catalog (v558), and it is explicitly NOT ambient or reflective — it is fast, propulsive, and virtuosic.
+
+  Concept source: IRREVERSIVE — a one-way consumption of the keyboard; harmony mutates forward through shifting tonal regions, never resolving back; the abandoned registers ring out as decaying resonance behind the advancing figuration.
+
+  The echoes of a tradition of mechanical-piano experimentation and of composers who built structural logic from physical limitation are present here, but no names are invoked per the blocklist discipline.
+
+  Duration strategy: 184 bars total at 138 BPM, which at Suno v5.5 BPM-duration efficiency (~73-75% in the proven 130-160 BPM band) targets approximately 3:10-3:40. Playbook moves applied: parametrized colon-syntax lyrics with bar counts per section; production tokens (polished studio mix, wide stereo stage, deep low-end definition, tight chamber reverb); sentence case throughout; atmospheric-first opening (scene before technique); forward-motion concept (one-way climbing journey = auto-classifier reads "film score, cinematic instrumental" not "ambient"). The Build section at bar 73-96 (~55% of the arc) functions as the momentum intensifier. The Extreme-High Climax is the Drop equivalent — density maximized, all resonance ringing below.
+
+  Instrument: solo grand piano (close-mic'd, sub-bass reinforcement in the low zone, sustain-pedal resonance as structural voice). One voice — but a body voice that anchors every frequency range as it migrates upward. The ringing resonance of vacated zones is not a second instrument; it is the sustain pedal's physical behavior, captured in the resonant hall, constituting a second textural layer by design.
+
+  Novelty claims: technique-novelty (IRREVERSIVE debut, v558), BPM 138 (verified not saturated in this instrumentation context), starting tonal center D (described as open-ended, not a home key), scene-novelty ("wildfire racing up a mirrored keyboard-canyon" — kinetic and spatial, not previously used), forward-motion concept with a forward-consuming structural arc. Exclude_styles was audited to confirm no piano-related terms (piano, keys, keyboard, acoustic, grand piano, solo piano, sparse piano) are present — the exclude list targets only non-piano genres and energy-classifier drift terms.
+
+  Final style char count: 936.
+tags:
+  - grand-piano
+  - 138bpm
+  - d-tonal-center
+  - wildfire-canyon-scene
+  - new-technique
+  - irreversive-technique
+  - duration-3min
+  - research-driven
+  - instrumental
+  - one-way-register-consumption
+  - sustain-pedal-resonance
+  - forward-motion-arc
+  - debut-technique
+  - new-bpm

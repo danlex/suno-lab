@@ -1,6 +1,6 @@
 {
-  "total_prompts": 561,
-  "latest_version": 556,
+  "total_prompts": 562,
+  "latest_version": 557,
   "instruments": {
     "organ": [
       1,
@@ -811,6 +811,20 @@
       360,
       545
     ],
+    "felt piano": [
+      112,
+      127,
+      140,
+      190,
+      215,
+      233,
+      309,
+      340,
+      351,
+      486,
+      545,
+      557
+    ],
     "handpan": [
       97,
       116,
@@ -838,6 +852,20 @@
       330,
       518,
       524
+    ],
+    "prepared piano": [
+      89,
+      95,
+      131,
+      183,
+      208,
+      228,
+      243,
+      345,
+      365,
+      469,
+      546,
+      557
     ],
     "cimbalom": [
       98,
@@ -877,19 +905,6 @@
       257,
       319,
       363
-    ],
-    "felt piano": [
-      112,
-      127,
-      140,
-      190,
-      215,
-      233,
-      309,
-      340,
-      351,
-      486,
-      545
     ],
     "flute": [
       66,
@@ -942,19 +957,6 @@
       359,
       470,
       548
-    ],
-    "prepared piano": [
-      89,
-      95,
-      131,
-      183,
-      208,
-      228,
-      243,
-      345,
-      365,
-      469,
-      546
     ],
     "tubular bells": [
       101,
@@ -1478,40 +1480,10 @@
       316,
       317,
       319,
+      323,
       444,
       470,
       514
-    ],
-    "cinematic": [
-      5,
-      15,
-      16,
-      18,
-      55,
-      152,
-      153,
-      155,
-      157,
-      158,
-      162,
-      173,
-      178,
-      187,
-      251,
-      257,
-      314,
-      324,
-      325,
-      326,
-      327,
-      427,
-      428,
-      432,
-      443,
-      448,
-      454,
-      459,
-      535
     ],
     "neoclassical": [
       1,
@@ -1542,6 +1514,33 @@
       321,
       424
     ],
+    "cinematic": [
+      5,
+      15,
+      16,
+      18,
+      55,
+      152,
+      153,
+      155,
+      157,
+      158,
+      173,
+      187,
+      251,
+      257,
+      324,
+      325,
+      326,
+      327,
+      427,
+      428,
+      432,
+      443,
+      454,
+      459,
+      535
+    ],
     "house": [
       242,
       261,
@@ -1570,7 +1569,6 @@
       544
     ],
     "chamber": [
-      191,
       192,
       203,
       252,
@@ -1581,9 +1579,7 @@
       345,
       347,
       348,
-      439,
       451,
-      518,
       524,
       545,
       549,
@@ -1601,9 +1597,7 @@
       531,
       537,
       540,
-      540,
-      544,
-      544
+      540
     ],
     "breakbeat": [
       357,
@@ -1614,6 +1608,25 @@
       540,
       541,
       541
+    ],
+    "trance": [
+      396,
+      488,
+      530,
+      536,
+      539,
+      543,
+      544,
+      544
+    ],
+    "symphonic": [
+      162,
+      178,
+      311,
+      314,
+      318,
+      320,
+      322
     ],
     "trap": [
       264,
@@ -1640,14 +1653,6 @@
       537,
       539
     ],
-    "trance": [
-      396,
-      488,
-      530,
-      536,
-      539,
-      543
-    ],
     "amapiano": [
       266,
       343,
@@ -1662,11 +1667,11 @@
       437,
       473
     ],
-    "symphonic": [
-      311,
-      318,
-      320,
-      322
+    "baroque": [
+      188,
+      191,
+      439,
+      518
     ],
     "drone": [
       304,
@@ -1690,10 +1695,6 @@
       296,
       502
     ],
-    "minimalist": [
-      201,
-      323
-    ],
     "passacaglia": [
       111,
       202
@@ -1706,11 +1707,12 @@
       96,
       541
     ],
+    "synthwave": [
+      1,
+      448
+    ],
     "2-step garage": [
       100
-    ],
-    "baroque": [
-      188
     ],
     "drill": [
       282
@@ -1721,11 +1723,11 @@
     "hardcore": [
       395
     ],
+    "minimalist": [
+      201
+    ],
     "psytrance": [
       542
-    ],
-    "synthwave": [
-      1
     ]
   },
   "keys": {
@@ -2940,7 +2942,8 @@
       542,
       543,
       543,
-      556
+      556,
+      557
     ],
     "141": [
       224,
@@ -3097,6 +3100,18 @@
   },
   "titles": [
     {
+      "version": 557,
+      "title": "Heptaphase557",
+      "name": "heptaphase-v557",
+      "featured": [
+        "felt piano",
+        "prepared piano"
+      ],
+      "genre": null,
+      "key": null,
+      "bpm": 140
+    },
+    {
       "version": 556,
       "title": "Triphase556",
       "name": "triphase-v556",
@@ -3237,7 +3252,7 @@
       "title": "Devoured544",
       "name": "acidtechno-v544-candA",
       "featured": [],
-      "genre": "techno",
+      "genre": "trance",
       "key": "a minor",
       "bpm": 130
     },
@@ -3246,7 +3261,7 @@
       "title": "Devoured544",
       "name": "acidtechno-v544",
       "featured": [],
-      "genre": "techno",
+      "genre": "trance",
       "key": "a minor",
       "bpm": 130
     },
@@ -3765,7 +3780,7 @@
         "french horn",
         "oboe"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "a minor",
       "bpm": 123
     },
@@ -4484,7 +4499,7 @@
       "title": "Redline448",
       "name": "redline448-v448",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "synthwave",
       "key": "a minor",
       "bpm": 106
     },
@@ -4572,7 +4587,7 @@
         "harp",
         "string quartet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 90
     },
@@ -5574,7 +5589,7 @@
       "title": "Perstat",
       "name": "perstat-v323",
       "featured": [],
-      "genre": "minimalist",
+      "genre": "orchestral",
       "key": "d minor",
       "bpm": 54
     },
@@ -5669,7 +5684,7 @@
       "title": "Hagl",
       "name": "hagl-v314",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": "b minor",
       "bpm": 100
     },
@@ -7053,7 +7068,7 @@
         "celesta",
         "cornet"
       ],
-      "genre": "chamber",
+      "genre": "baroque",
       "key": "e minor",
       "bpm": 51
     },
@@ -7218,7 +7233,7 @@
       "title": "The Crown I Forged Myself",
       "name": "the-crown-i-forged-myself",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
@@ -7369,7 +7384,7 @@
       "title": "The Cathedral Inside My Chest",
       "name": "the-cathedral-inside-my-chest",
       "featured": [],
-      "genre": "cinematic",
+      "genre": "symphonic",
       "key": null,
       "bpm": null
     },
