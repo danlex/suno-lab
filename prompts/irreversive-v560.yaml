@@ -1,0 +1,32 @@
+name: "irreversive-v560"
+version: 560
+title: "Irreversive560"
+instrumental: true
+style: "Solo grand piano in a vast, deep-reverberant stone hall, close-mic'd, pianissimo. Very slow, about 52 BPM; each chord's overtones still audible in the stone as the next chord arrives. Low, widely spaced voicings in D minor. The bass descends from the fifth degree, A, stepwise down through the subdominant to the tonic D — arriving there and not moving again; every chord struck once and left to decay fully, the pedal never hurried, the descent never turning back. As the low harmony settles, one middle-register note, the tonic, is held under the long decays, not struck again — the stillness sounding against it. One high note is kept in reserve, unplayed, the whole piece: the fifth, A, the same pitch the bass began on, two octaves higher. Only at the end, over the arrived D minor, does that high A sound at last, alone and quiet, ringing by itself into the emptying hall. No build, no climax, no swell. No guitars, no vocals, no drums, no synths, no strings."
+lyrics: |
+  [Opening: one low D minor chord, the bass on the fifth A, struck once and left ringing in the stone, the next arriving only as it still sounds, 12 bars]
+
+  [Slow Descent: the bass moves down from A toward the subdominant, one inner note shifting at a time, each chord struck once and decaying fully, never turning back, 24 bars]
+
+  [Stilling: the bass nears the tonic D; one middle-register note, the tonic, held under the long decays, not struck again, the ringing hall sounding against it, 20 bars]
+
+  [The Held Note: the bass arrives on D and does not move; the withheld high A, the fifth, the pitch the bass began on, sounds at last, alone and quiet above the settled harmony, 12 bars]
+
+  [Ringing Away: the high A left to ring by itself into the emptying hall, decaying slowly to nothing, 12 bars]
+
+  [End]
+exclude_styles: "Arabic, tribal, world music, acoustic guitar, rock, metal, vocals, singing, pipe organ, EDM, house, techno, dubstep, drum kit, rock drums, strings, brass, orchestra, choir, new age, muzak, easy listening, elevator music, lo-fi, spa, free jazz, atonal, experimental noise, electronic dance music"
+notes: |
+  v560 is a deliberate REVERSAL of v559's approach. v559 was judged "not at Celibidache level" because it was over-engineered (a designed catharsis device whose cleverness showed), over-announced (grief/sacred/transcendent/redeemed), and too busy (many devices, a "sudden light" climax reaching for an effect). v560 answers with RADICAL RESTRAINT, the Celibidache principle of vast simplicity: very few elements given enormous space and weight; no named emotions anywhere in the prompt; the depth carried by what is WITHHELD (one high note kept in reserve the entire piece) and by the space and decay, not by events or volume. The arrival is quiet and inevitable, not a surprise — no build, no climax, no swell. The IRREVERSIBLE idea remains (a descent that never turns back, nothing returning) but is stated as fact, not underlined. Charged pauses are the ringing hall, never literal silence (also avoids slow-render truncation). Solo grand piano only.
+tags:
+  - grand-piano
+  - 52bpm
+  - restraint
+  - withheld-note
+  - vast-space
+  - irreversive-technique
+  - celibidache-restraint
+  - one-way-descent
+  - pianissimo
+  - instrumental
+  - no-climax
