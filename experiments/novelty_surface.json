@@ -1646,14 +1646,6 @@
       528,
       538
     ],
-    "romantic": [
-      145,
-      149,
-      313,
-      537,
-      537,
-      539
-    ],
     "amapiano": [
       266,
       343,
@@ -1667,6 +1659,12 @@
       431,
       437,
       473
+    ],
+    "romantic": [
+      313,
+      537,
+      537,
+      539
     ],
     "symphonic": [
       311,
@@ -1687,6 +1685,10 @@
     "afrobeats": [
       270,
       543
+    ],
+    "concerto": [
+      145,
+      149
     ],
     "hardstyle": [
       398,
@@ -7540,7 +7542,7 @@
       "featured": [
         "piano"
       ],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "c minor",
       "bpm": 76
     },
@@ -7576,7 +7578,7 @@
       "title": "The Light That Finds You Last",
       "name": "the-light-that-finds-you-last",
       "featured": [],
-      "genre": "romantic",
+      "genre": "concerto",
       "key": "d-flat major",
       "bpm": 72
     },

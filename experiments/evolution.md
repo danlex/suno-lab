@@ -575,6 +575,7 @@ mindmap
 | 558 | Irreversive558 | IRREVERSIVE debut: keyboard as finite one-way terrain, register-space consumed directionally, nothing ever returns, vacated zones ring on as un-restrikeable resonance | no home key (mutates forward from D) | 138 | grand piano |
 | 559 | Irreversive559 | IRREVERSIVE, Celibidache-level refinement: withheld major third redeemed via Picardy transfiguration (C#m to C# major); cantabile line circles unreachable peak note, vanishes, re-enters to reach it (=raised E#) at the threshold; chromatic-mediant descent, past as ringing resonance, sacred decay | C-sharp minor to C-sharp major (Picardy) | 58 | grand piano |
 | 560 | Irreversive560 | IRREVERSIVE radical-restraint experiment (Celibidache vast-simplicity): D-minor descent 5th to tonic, one withheld high note (the fifth A, the pitch the bass began on) sounding only at the end; judged too empty ('says nothing') — restraint without necessity became emptiness | D minor | 52 | grand piano |
+| 561 | Effigy561 | Stravinsky-by-Celibidache: bitonal ritual (piano hammering C major vs F-sharp major, tritone, never resolving), asymmetric 5/8-7/8 meters, measured weight over speed (118 BPM), orchestrational arc for transparency (piano-only to bare piano+pizz to muted brass to full-minus-piano to protected grand pause to weighted return) | bitonal (C major against F-sharp major) | 118 | piano, full orchestra, timpani |
 
 ## Next-cycle priorities
 
