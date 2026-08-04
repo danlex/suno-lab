@@ -1,0 +1,37 @@
+name: "plume-v563"
+version: 563
+title: "Plume563"
+instrumental: true
+style: "Muted strings in very slow tremolo, bow changes inaudible; a single high string harmonic on beat one, stillness between gestures. A vast warm hall, 69 BPM, all pianissimo. A solo cor anglais sings the seed — step down, step down, up a minor third, step down — a gentle 6/8 rocking figure ending each phrase on a long suspended note. A solo horn takes that same shape in slow quarter-notes — a noble hymn, a four-bar arc lifting then falling, a quietly intoned blessing. The hymn repeats a whole step higher each time — G major, then A major, then B major — one instrument added each time, never past three clear threads. In B major the melody sits in the horn, inner harmony in solo viola and oboe — three distinct voices, not a tutti — luminous but soft, glowing not loud. Then the cor anglais alone plays the lullaby's falling close once, pianissimo, and stillness. Strings, woodwinds and a single horn only — no piano, no harp, no celesta, no drums, no guitars, no synthesizers, no vocals."
+lyrics: |
+  [Shimmer: muted strings in very slow tremolo, a single high string harmonic on beat one, stillness between each gesture, 12 bars]
+
+  [Lullaby: solo cor anglais — step down, step down, up a minor third, step down — a 6/8 rocking figure ending on a long suspended note, over muted strings, 20 bars]
+
+  [The Hymn Steals In: a solo horn takes that same shape in slow quarter-notes, pianissimo, in G major, a four-bar arc lifting then falling, 16 bars]
+
+  [Slow Bloom: the hymn repeats up a whole step — A major, then toward B major — one instrument added each time, never past three clear threads, 28 bars]
+
+  [Radiance: warm B major, the melody in the horn, inner harmony in solo viola and oboe — three distinct voices, luminous but soft, glowing not loud, 20 bars]
+
+  [Settling: the cor anglais alone plays the lullaby's falling close once, pianissimo, then stillness, 12 bars]
+
+  [End]
+exclude_styles: "vocals, singing, choir, piano, harp, celesta, electric guitar, acoustic guitar, rock, metal, drum kit, rock drums, percussion, timpani, glockenspiel, EDM, house, techno, dubstep, synthesizer, lo-fi, new age, muzak, easy listening, elevator music, atonal, experimental noise, Arabic, tribal, world music, pipe organ, aggressive, harsh, distorted"
+notes: |
+  v563 is the SIMPLIFIED palette of v562 (soft Firebird-tender-by-Celibidache), per user request: HARP and CELESTA removed. Their roles are reassigned to keep the piece intact — the opening shimmer is now made from muted strings alone (a single high sustained string harmonic on beat one, stillness between gestures), and the coda callback (the lullaby's falling close) is now played by the solo cor anglais itself, so the voice that sang the lullaby also closes it — a tighter organic return. Remaining palette: muted strings, solo cor anglais, solo horn (a second horn/oboe joining at the bloom), solo viola and oboe as the three transparent voices at the radiance. Strings + woodwinds + one horn only. All prior compositional specifics retained: named lullaby contour (step down, step down, up a minor third, step down; 6/8 rocking, long suspended note); the horn hymn is that shape augmented into slow quarter-notes; explicit modulation G major to A major to B major, one instrument added each iteration; density ceiling of three clear threads for transparency; pianissimo throughout, blooming only to a warm glowing radiance, never loud. No percussion, no piano, no harp, no celesta.
+tags:
+  - firebird-tender-idiom
+  - stravinsky-by-celibidache
+  - soft-sensitive
+  - simplified-palette
+  - no-harp-no-celesta
+  - strings-and-winds-only
+  - luminous-bloom
+  - b-major-radiance
+  - cor-anglais-lullaby
+  - horn-hymn
+  - transparency
+  - 69bpm
+  - instrumental
+  - measured-tenderness

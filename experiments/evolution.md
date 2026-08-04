@@ -577,6 +577,7 @@ mindmap
 | 560 | Irreversive560 | IRREVERSIVE radical-restraint experiment (Celibidache vast-simplicity): D-minor descent 5th to tonic, one withheld high note (the fifth A, the pitch the bass began on) sounding only at the end; judged too empty ('says nothing') — restraint without necessity became emptiness | D minor | 52 | grand piano |
 | 561 | Effigy561 | Stravinsky-by-Celibidache: bitonal ritual (piano hammering C major vs F-sharp major, tritone, never resolving), asymmetric 5/8-7/8 meters, measured weight over speed (118 BPM), orchestrational arc for transparency (piano-only to bare piano+pizz to muted brass to full-minus-piano to protected grand pause to weighted return) | bitonal (C major against F-sharp major) | 118 | piano, full orchestra, timpani |
 | 562 | Plume562 | soft/sensitive Firebird-by-Celibidache: hushed shimmer, cor anglais lullaby (named contour) becoming a horn hymn augmented, slow bloom G-A-B major to warm radiance, transparency density-ceiling of three voices, lullaby-callback coda | B major radiance (bloom from G to A to B) | 69 | cor anglais, horn, muted strings |
+| 563 | Plume563 | simplified Firebird-by-Celibidache (harp + celesta removed): pure muted-strings + winds + one horn chamber; string-only shimmer, cor anglais lullaby becoming horn hymn, G-A-B major bloom, three-voice transparency ceiling, cor anglais closes with the lullaby's falling phrase | B major radiance (bloom from G to A to B) | 69 | cor anglais, horn, muted strings |
 
 ## Next-cycle priorities
 
