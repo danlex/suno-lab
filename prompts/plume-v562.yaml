@@ -1,0 +1,37 @@
+name: "plume-v562"
+version: 562
+title: "Plume562"
+instrumental: true
+style: "Muted strings in very slow tremolo, bow changes inaudible; a harp harmonic on beat one, one celesta note every four bars, stillness between each gesture. A vast warm hall, 69 BPM, all pianissimo. A solo cor anglais sings the seed — step down, step down, up a minor third, step down — a gentle 6/8 rocking figure ending each phrase on a long suspended note. A solo horn takes that same shape in slow quarter-notes — a noble hymn, a four-bar arc lifting then falling, a quietly intoned blessing. The hymn repeats a whole step higher each time — G major, then A major, then B major — one instrument added each time, never past three clear threads. In B major the melody sits in the horn, inner harmony in solo viola and oboe — three distinct voices, not a tutti — luminous but soft, glowing not loud. Then the harp plays the lullaby's falling close once, a single celesta note, and stillness. No drums, no electric guitars, no synthesizers, no vocals."
+lyrics: |
+  [Shimmer: muted strings in very slow tremolo, one harp harmonic per bar, a celesta note every four bars, stillness between each gesture, 12 bars]
+
+  [Lullaby: solo cor anglais — step down, step down, a rising minor third, step down — a 6/8 rocking figure ending on a long suspended note, over hushed harp, 20 bars]
+
+  [The Hymn Steals In: a solo horn takes that same shape in slow quarter-notes, pianissimo, in G major, a four-bar arc lifting then falling, 16 bars]
+
+  [Slow Bloom: the hymn repeats up a whole step — A major, then toward B major — one instrument added each time, never past three clear threads, 28 bars]
+
+  [Radiance: warm B major, the melody in the horn, inner harmony in solo viola and oboe — three distinct voices, luminous but soft, glowing not loud, 20 bars]
+
+  [Settling: the harp plays the lullaby's falling close once, a single celesta note, then stillness, 12 bars]
+
+  [End]
+exclude_styles: "vocals, singing, choir, electric guitar, rock, metal, drum kit, rock drums, EDM, house, techno, dubstep, synthesizer, lo-fi, new age, muzak, easy listening, elevator music, free jazz, atonal, experimental noise, Arabic, tribal, world music, pipe organ, aggressive, harsh, distorted"
+notes: |
+  v562 is a deliberate answer to a critique that the prior orchestral piece (v561, a savage bitonal ritual) was "not soft, sensitive enough." It draws on the OTHER face of the same early-modernist master — his tender, luminous magical idiom (the hushed lullaby and slow glowing transfiguration-finale of his famous firebird ballet), refracted through the same conductor's interpretive philosophy: transparency, measured tenderness, and a radiance arrived at slowly and inevitably. Neither the composer nor the conductor is named per blocklist discipline.
+  Design lessons carried forward: acoustic-behavior language rather than adjective-inflation; a concrete harmonic identity (the slow warming toward radiant B major, the finale key of the source idiom); a real tender melodic thread (cor anglais lullaby, then the noble stepwise horn hymn) so it SAYS something and does not fall into empty softness (the failure of v560); an explicit transparency anchor ("every inner voice still clearly audible within the warmth"); and a single inevitable arc (shimmer to lullaby to hymn to slow bloom to radiance to settling). No hard percussion, no stamping, no bitonal grinding — the tender opposite of v561. Warm orchestral color: muted tremolo strings, harp, celesta, solo cor anglais/flute/oboe, warm glowing horns, soft glockenspiel implied. Soft dynamics predominate (pp-mp), blooming only to a warm glowing mf-f at the radiance, never harsh.
+tags:
+  - firebird-tender-idiom
+  - stravinsky-by-celibidache
+  - soft-sensitive
+  - luminous-bloom
+  - b-major-radiance
+  - cor-anglais-lullaby
+  - horn-hymn
+  - transparency
+  - 69bpm
+  - warm-orchestra
+  - instrumental
+  - no-percussion
+  - measured-tenderness
